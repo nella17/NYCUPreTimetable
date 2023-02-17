@@ -17,7 +17,7 @@ jobs:
       - name: merge web
         run: |
           git switch gh-page
-          git checkout main index.html index.js
+          git checkout web index.html index.js
 
       - name: commit and push
         run: |

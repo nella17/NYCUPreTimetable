@@ -3,11 +3,11 @@ name: Update Web
 on:
   push:
     branches:
-      - main
+      - web
   workflow_dispatch:
 
 jobs:
-  UpdateData:
+  UpdateWeb:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

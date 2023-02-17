@@ -16,6 +16,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: setup git user
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: pull data
         run: |
           f=`mktemp -d`
@@ -24,11 +29,18 @@ jobs:
           git checkout gh-page
           mv $f/*.json data/
 
-      - name: commit and push
+      - name: commit
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git status
           git add data/
-          git commit -m "Update data $(TZ=Asia/Taipei date -Iseconds)"
+          git commit -m "Update data $(TZ=Asia/Taipei date -Iseconds)" || true
+
+      - name: update list
+        run: |
+          ls data | jq -sRc 'split("\n")[:-1]' | tee data.json
+          git add data.json
+          git commit -m "Update data.json" || true
+
+      - name: push
+        run: |
           git push

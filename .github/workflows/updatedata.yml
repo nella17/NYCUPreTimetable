@@ -12,14 +12,14 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: pull data
+        run: |
+          python3 updateData.py 111 2 1
+
       - name: checkout gh-page
         run: |
           git checkout gh-page
 
-      - name: pull data
-        run: |
-          python3 updateData.py 111 2 1
-      
       - name: commit and push
         run: |
           git config --local user.name "github-actions[bot]"

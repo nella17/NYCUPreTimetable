@@ -1,6 +1,6 @@
-const SemesterList = [[111,2],[111,1],[110,2]]
-Year = 110
-Semester = 2
+const SemesterList = []
+Year = '?'
+Semester = '?'
 AllCourse = {}
 CourseSelectedList = []
 CourseDisableList = []
@@ -180,13 +180,17 @@ function setCourseInfoModal(CourseID){
     $("#CourseInfoModal-OutlineLink").attr("href",`https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=${Year}&Sem=${Semester}&CrsNo=${CourseID}`);
 }
 
-$( document ).ready(function() {
+$( document ).ready(async function() {
+    SemesterList = await fetch('data.json').then(res => res.json()).then(r => r.map(x => x.replace('.json','')).map(x => [x.substr(0,x.length-1),x.at(-1)]))
+    Year = SemesterList.at(-1)[0]
+    Semester = SemesterList.at(-1)[1]
+
     LastYear = localStorage.getItem("LastYear");
     if(LastYear == null) LastYear = Year;
-    else LastYear = parseInt(LastYear);
+    // else LastYear = parseInt(LastYear);
     LastSemester = localStorage.getItem("LastSemester");
     if(LastSemester == null) LastSemester = Semester;
-    else LastSemester = parseInt(LastSemester);
+    // else LastSemester = parseInt(LastSemester);
     checkYS = false;
     SemesterList.forEach(function(S){if(S[0]==LastYear && S[1]==LastSemester)checkYS=true;});
     if(checkYS){

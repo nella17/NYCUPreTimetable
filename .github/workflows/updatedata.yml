@@ -18,11 +18,11 @@ jobs:
 
       - name: pull data
         run: |
+          f=`mktemp -d`
           python3 updateData.py 111 2 1
-
-      - name: checkout gh-page
-        run: |
+          mv *.json $f
           git checkout gh-page
+          mv $f/* .
 
       - name: commit and push
         run: |

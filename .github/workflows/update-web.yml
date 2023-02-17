@@ -16,12 +16,13 @@ jobs:
 
       - name: merge web
         run: |
+          f="$(ls)"
           git switch gh-page
-          git checkout web index.html index.js
+          git checkout web $f
 
       - name: commit and push
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update web ($(git rev-parse web))"
+          git commit -m "Update web ($(git rev-parse web))" || true
           git push

@@ -14,16 +14,14 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: setup git user
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: merge web
         run: |
           git switch gh-page
-          git merge main
+          git checkout main index.html index.js
 
-      - name: push
+      - name: commit and push
         run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update web ($(git rev-parse main))"
           git push

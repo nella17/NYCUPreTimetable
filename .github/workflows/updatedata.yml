@@ -19,16 +19,16 @@ jobs:
       - name: pull data
         run: |
           f=`mktemp -d`
-          python3 updateData.py 111 2 1
-          mv *.json $f
+          python3 updateData.py 1
+          mv data/*.json $f
           git checkout gh-page
-          mv $f/* .
+          mv $f/*.json data/
 
       - name: commit and push
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git status
-          git add 1112-data.json
-          git commit -m "Update data"
+          git add data/
+          git commit -m "Update data $(TZ=Asia/Taipei date -Iseconds)"
           git push

@@ -3,17 +3,28 @@ import re
 import requests
 import sys
 
-if len(sys.argv) < 3:
-    print("Usage: updateData.py YEAR SEMESTER [verbose]")
+import urllib3
+urllib3.disable_warnings()
 
-Year = int(sys.argv[1])
-Semester = int(sys.argv[2])
+#  if len(sys.argv) < 3:
+#      print("Usage: updateData.py YEAR SEMESTER [verbose]")
+
+#  Year = int(sys.argv[1])
+#  Semester = int(sys.argv[2])
 baseURL = "https://timetable.nycu.edu.tw/"
 Verbose = False
-if len(sys.argv) >= 4:
+if len(sys.argv) >= 2:
     Verbose = True
 
-print("URL: %s\nYear: %d\nSemester: %d\nVerbose: %s"%(baseURL, Year, Semester, Verbose))
+res = requests.get(baseURL+"?r=main/get_acysem", headers={'user-agent': 'Mozilla/5.0'}, verify=False)
+if res.status_code != 200:
+    print("Request acysem data error!!")
+    exit()
+ysem = res.json()[0]['T']
+Year = ysem[:-1]
+Semester = ysem[-1]
+
+print("URL: %s\nYear: %s\nSemester: %s\nVerbose: %s"%(baseURL, Year, Semester, Verbose))
 
 data_type = []
 reqData = {
@@ -152,5 +163,5 @@ for dep in data_dep:
                 if Verbose:
                     print("[Info] Get course - %s %s"%(C["cos_cname"], C["teacher"]))
 print("[Info] Total %d courses got."%len(CourseData))
-with open(str(Year)+str(Semester)+"-data.json","w") as f:
-    f.write(json.dumps(CourseData))
+with open(f'data/{ysem}.json',"w") as f:
+    json.dump(CourseData, f, sort_keys=True, ensure_ascii=False, indent=2)

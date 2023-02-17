@@ -304,7 +304,7 @@ function changeSemester(year, sem){
     Year = year;
     Semester = sem;
     jQuery.ajaxSetup({async:false});
-    $.get(`${Year}${Semester}-data.json`,function(data,status){
+    $.get(`data/${Year}${Semester}.json`,function(data,status){
         if(status != "success"){
             alert("Couldn't get course data!!");
         }

@@ -1,9 +1,13 @@
 name: Update Course Data
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     - cron: '0 0,8,16 * * *'
+
 jobs:
   UpdateData:
     runs-on: ubuntu-latest

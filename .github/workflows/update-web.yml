@@ -8,6 +8,10 @@ on:
       - 'web/**'
   workflow_dispatch:
 
+concurrency:
+  group: '${{ github.workflow }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}'
+  cancel-in-progress: true
+
 jobs:
   UpdateWeb:
     runs-on: ubuntu-latest

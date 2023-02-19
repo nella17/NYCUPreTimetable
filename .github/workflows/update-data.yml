@@ -28,9 +28,13 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: pull data
+        id: pull
+        run: |
+          python3 crawler/updateData.py 1
+
+      - name: add data
         run: |
           f=`mktemp -d`
-          python3 crawler/updateData.py 1
           mv data/*.json $f
           git checkout gh-page
           mv $f/*.json data/
@@ -39,7 +43,7 @@ jobs:
         run: |
           git status
           git add data/
-          git commit -m "Update data ($(TZ=Asia/Taipei date -Iseconds))" || true
+          git commit -m "Update data (${{ steps.pull.outputs.ysem }})" || true
 
       - name: update list
         run: |

@@ -2,6 +2,7 @@ import json
 import re
 import requests
 import sys
+from os import getenv
 
 import urllib3
 urllib3.disable_warnings()
@@ -19,7 +20,7 @@ if len(sys.argv) >= 2:
 res = requests.get(baseURL+"?r=main/get_acysem", headers={'user-agent': 'Mozilla/5.0'}, verify=False)
 if res.status_code != 200:
     print("Request acysem data error!!")
-    exit()
+    exit(-1)
 ysem = res.json()[0]['T']
 Year = ysem[:-1]
 Semester = ysem[-1]
@@ -34,7 +35,7 @@ reqData = {
 res = requests.post(baseURL+"?r=main/get_type",data = reqData,headers={'user-agent': 'Mozilla/5.0'},verify=False)
 if res.status_code != 200:
     print("Request type data error!!")
-    exit()
+    exit(-1)
 data_type = [r["uid"] for r in json.loads(res.text)]
 #print(res.text)
 
@@ -163,5 +164,9 @@ for dep in data_dep:
                 if Verbose:
                     print("[Info] Get course - %s %s"%(C["cos_cname"], C["teacher"]))
 print("[Info] Total %d courses got."%len(CourseData))
+
 with open(f'data/{ysem}.json',"w") as f:
     json.dump(CourseData, f, sort_keys=True, ensure_ascii=False, indent=2)
+if github_output := getenv('GITHUB_OUTPUT'):
+    with open(github_output, 'w+') as f:
+        f.write(f'ysem={ysem}')

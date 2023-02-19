@@ -7,6 +7,9 @@ on:
     paths:
       - 'crawler/**'
   workflow_dispatch:
+    inputs:
+      argv:
+        description: 'argv'
   schedule:
     - cron: '11 3 * * 1-5'
 
@@ -30,7 +33,7 @@ jobs:
       - name: pull data
         id: pull
         run: |
-          python3 -u crawler/updateData.py 1
+          python3 -u crawler/updateData.py ${{ github.event.inputs.argv }} Y
 
       - name: add data
         run: |

@@ -7,21 +7,21 @@ from os import getenv
 import urllib3
 urllib3.disable_warnings()
 
-#  if len(sys.argv) < 3:
-#      print("Usage: updateData.py YEAR SEMESTER [verbose]")
-
-#  Year = int(sys.argv[1])
-#  Semester = int(sys.argv[2])
 baseURL = "https://timetable.nycu.edu.tw/"
 Verbose = False
-if len(sys.argv) >= 2:
+if sys.argv[-1] == 'Y':
     Verbose = True
+    sys.argv.pop()
 
-res = requests.get(baseURL+"?r=main/get_acysem", headers={'user-agent': 'Mozilla/5.0'}, verify=False)
-if res.status_code != 200:
-    print("Request acysem data error!!")
-    exit(-1)
-ysem = res.json()[0]['T']
+if len(sys.argv) >= 2:
+    ysem = sys.argv[1]
+else:
+    res = requests.get(baseURL+"?r=main/get_acysem", headers={'user-agent': 'Mozilla/5.0'}, verify=False)
+    if res.status_code != 200:
+        print("Request acysem data error!!")
+        exit(-1)
+    ysem: str = res.json()[0]['T']
+
 Year = ysem[:-1]
 Semester = ysem[-1]
 

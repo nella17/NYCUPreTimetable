@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'crawler/**'
   workflow_dispatch:
   schedule:
     - cron: '0 0,8,16 * * *'
@@ -24,7 +26,7 @@ jobs:
       - name: pull data
         run: |
           f=`mktemp -d`
-          python3 updateData.py 1
+          python3 crawler/updateData.py 1
           mv data/*.json $f
           git checkout gh-page
           mv $f/*.json data/
@@ -33,7 +35,7 @@ jobs:
         run: |
           git status
           git add data/
-          git commit -m "Update data $(TZ=Asia/Taipei date -Iseconds)" || true
+          git commit -m "Update data ($(TZ=Asia/Taipei date -Iseconds))" || true
 
       - name: update list
         run: |

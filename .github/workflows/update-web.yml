@@ -3,7 +3,9 @@ name: Update Web
 on:
   push:
     branches:
-      - web
+      - main
+    paths:
+      - 'web/**'
   workflow_dispatch:
 
 jobs:
@@ -14,15 +16,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: merge web
-        run: |
-          f="$(ls)"
-          git switch gh-page
-          git checkout web $f
-
-      - name: commit and push
+      - name: setup git user
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update web ($(git rev-parse web))" || true
+
+      - name: merge web
+        run: |
+          git switch gh-page
+          git checkout main web
+          mv web/* .
+          git add .
+
+      - name: commit and push
+        run: |
+          git commit -m "Update web ($(git rev-parse main))" || true
           git push

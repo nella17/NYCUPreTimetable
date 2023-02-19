@@ -155,11 +155,15 @@ for dep in data_dep:
                 C = OriginData[D][SID][CourseID]
                 CourseData[CourseID] = {
                     "id": C["cos_id"],
-                    "name": C["cos_cname"],
+                    "code": C["cos_code"],
+                    "name": C["cos_cname"] + ' ' + C["cos_ename"],
                     "time": C["cos_time"],
                     "credit": C["cos_credit"],
                     "hours": C["cos_hours"],
-                    "teacher": C["teacher"]
+                    "teacher": C["teacher"],
+                    "num_limit": C["num_limit"],
+                    "reg_num": C["reg_num"],
+                    "memo": C["memo"],
                 }
                 if Verbose:
                     print("[Info] Get course - %s %s"%(C["cos_cname"], C["teacher"]))

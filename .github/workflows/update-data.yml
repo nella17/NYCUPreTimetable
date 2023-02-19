@@ -30,7 +30,7 @@ jobs:
       - name: pull data
         id: pull
         run: |
-          python3 crawler/updateData.py 1
+          python3 -u crawler/updateData.py 1
 
       - name: add data
         run: |

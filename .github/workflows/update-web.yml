@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      - .github/workflows/update-web.yml
       - 'web/**'
   workflow_dispatch:
 

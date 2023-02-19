@@ -24,7 +24,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 0
+          ref: main
 
       - name: setup git user
         run: |
@@ -40,7 +40,8 @@ jobs:
         run: |
           f=`mktemp -d`
           mv data/*.json $f
-          git checkout gh-page
+          git fetch origin gh-page --depth 1
+          git switch gh-page
           mv $f/*.json data/
 
       - name: commit

@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 0
+          ref: main
 
       - name: setup git user
         run: |
@@ -28,8 +28,9 @@ jobs:
 
       - name: merge web
         run: |
+          git fetch origin gh-page --depth 1
           git switch gh-page
-          git checkout main web
+          git checkout main -- web
           mv web/* .
           git add .
 

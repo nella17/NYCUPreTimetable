@@ -295,6 +295,8 @@ $( document ).ready(async function() {
     $("#CopiedToast .toast-body").click(function(){
         window.open($("#CopiedToast .toast-body a").attr("href"));
     });
+
+    document.body.classList.remove('loading')
 });
 
 function changeSemester(year, sem){

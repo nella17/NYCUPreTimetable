@@ -204,7 +204,7 @@ $( document ).ready(async function() {
         if(S[0]==Year && S[1]==Semester){
             active = "active";
         }
-        $("#semesterDropdownMenu").append(`<a class="dropdown-item ${active}" id="semester-item-${S[0]}-${S[1]}" href="#" onclick="changeSemester(${S[0]},${S[1]})">${S[0]}-${S[1]}</a>`);
+        $("#semesterDropdownMenu").append(`<a class="dropdown-item ${active}" id="semester-item-${S[0]}-${S[1]}" href="#" onclick="changeSemester('${S[0]}','${S[1]}')">${S[0]}-${S[1]}</a>`);
     });
     
     jQuery.ajaxSetup({async:false});

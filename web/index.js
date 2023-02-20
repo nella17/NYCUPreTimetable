@@ -181,7 +181,7 @@ function setCourseInfoModal(CourseID){
 }
 
 $( document ).ready(async function() {
-    SemesterList = await fetch('data.json').then(res => res.json()).then(r => r.map(x => x.replace('.json','')).map(x => [x.substr(0,x.length-1),x.at(-1)])).reverse()
+    SemesterList = await fetch('data.json').then(res => res.json()).then(r => r.map(x => x.replace('.json','')).map(x => [x.substr(0,x.length-1),x.at(-1)]).reverse())
     Year = SemesterList.at(0)[0]
     Semester = SemesterList.at(0)[1]
 
@@ -204,7 +204,7 @@ $( document ).ready(async function() {
         if(S[0]==Year && S[1]==Semester){
             active = "active";
         }
-        $("#semesterDropdownMenu").append(`<a class="dropdown-item ${active}" id="semester-item-${S[0]}-${S[1]}" href="#" onclick="changeSemester(${S[0]},${S[1]})">${S[0]}-${S[1]}</a>`);
+        $("#semesterDropdownMenu").append(`<a class="dropdown-item ${active}" id="semester-item-${S[0]}-${S[1]}" href="#" onclick="changeSemester('${S[0]}','${S[1]}')">${S[0]}-${S[1]}</a>`);
     });
     
     jQuery.ajaxSetup({async:false});
@@ -305,6 +305,7 @@ function changeSemester(year, sem){
     if(!check){
         return ;
     }
+    document.body.classList.add('loading')
     $(`#semester-item-${Year}-${Semester}`).removeClass("active");
     save();
     Year = year;
@@ -325,4 +326,5 @@ function changeSemester(year, sem){
     localStorage.setItem("LastSemester", Semester);
     $("#semesterDropdownText").html(`${Year}-${Semester}`);
     $(`#semester-item-${Year}-${Semester}`).addClass("active");
+    document.body.classList.remove('loading')
 }

@@ -6237,7 +6237,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "丁乾坤、許瀚水、郭文娟、林重榮、陳怡仁、林佩玉、吳博貴、蘇建維、陳世真、廖文輝、尤香玉、陳克華、李安斐、林泰祺、鄧惟濃、周昱百、方文良、黃逸修、陳沂名",
-    "time": "S4n-"
+    "time": "M56-"
   },
   "1112_112409": {
     "code": "BEBN20043",
@@ -6966,7 +6966,7 @@
     "id": "113803",
     "memo": "醫學人文與倫理領域-醫學倫理類，限醫學系，為使課程品質提升限修40人。醫學系C組請至工五129室上課。本課程為應考公共衛生師指定修習科目。",
     "name": "醫院中的醫學倫理與人文 Medical Ethics and Humanity in Hospital",
-    "num_limit": "44",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "黃志賢、楊令瑀、雷文玫、賴其萬、蔡甫昌、陳秀丹",
     "time": "F12-EE129[GF],F12-YT301[YM]"
@@ -9872,7 +9872,7 @@
     "name": "應用疫苗學初探-從產業研發、疫苗政策、到全球衛生 An introduction to applied vaccinology- from vaccine development, vaccine policy, to global health",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "連加恩",
+    "teacher": "連加恩、衛雅樂",
     "time": "F56-YS405[YM]"
   },
   "1112_131216": {
@@ -15078,7 +15078,7 @@
     "id": "161004",
     "memo": "授課方式：視訊同步遠距。上課教室：陽明校區：教學大樓301；交大校區：工程五館129。",
     "name": "邏輯學 Logic",
-    "num_limit": "40",
+    "num_limit": "42",
     "reg_num": "-999",
     "teacher": "劉吉宴",
     "time": "T78-EE129[GF],T78-YT301[YM]"
@@ -15090,7 +15090,7 @@
     "id": "161005",
     "memo": "授課方式：視訊同步遠距。上課教室：陽明校區：教學大樓301；交大校區：工程五館129。",
     "name": "邏輯學 Logic",
-    "num_limit": "40",
+    "num_limit": "44",
     "reg_num": "-999",
     "teacher": "劉吉宴",
     "time": "T9a-EE129[GF],T9a-YT301[YM]"
@@ -15498,7 +15498,7 @@
     "id": "161043",
     "memo": "",
     "name": "中國歷代戲曲選讀 Selections of Dramas in Verse",
-    "num_limit": "35",
+    "num_limit": "36",
     "reg_num": "-999",
     "teacher": "賈元圓",
     "time": "M12-YT103[YM]"
@@ -18777,7 +18777,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "蕭智尹",
-    "time": "T34-HA109[GF]"
+    "time": "T34-EE112[GF]"
   },
   "1112_514021": {
     "code": "HSCH10027",
@@ -33244,7 +33244,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557605",
-    "memo": "此課程列入通識課程",
+    "memo": "",
     "name": "科學的歷程 The History of Science",
     "num_limit": "30",
     "reg_num": "-999",
@@ -34062,7 +34062,7 @@
     "id": "561023",
     "memo": "上課地點：浩然B1國際會議廳,限大二至大四同學修讀。",
     "name": "經典通識教育講座 Contemporary Civilization",
-    "num_limit": "160",
+    "num_limit": "150",
     "reg_num": "-999",
     "teacher": "王美鴻",
     "time": "W56-Lib-B1[GF]"

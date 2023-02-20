@@ -54,7 +54,7 @@ jobs:
         run: |
           ls data | jq -sRc 'split("\n")[:-1]' | tee data.json
           git add data.json
-          git commit -m "Update data.json" || true
+          git commit -m "Update data.json (${{ steps.pull.outputs.ysem }})" || true
 
       - name: push
         run: |

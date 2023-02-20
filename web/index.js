@@ -181,9 +181,9 @@ function setCourseInfoModal(CourseID){
 }
 
 $( document ).ready(async function() {
-    SemesterList = await fetch('data.json').then(res => res.json()).then(r => r.map(x => x.replace('.json','')).map(x => [x.substr(0,x.length-1),x.at(-1)]))
-    Year = SemesterList.at(-1)[0]
-    Semester = SemesterList.at(-1)[1]
+    SemesterList = await fetch('data.json').then(res => res.json()).then(r => r.map(x => x.replace('.json','')).map(x => [x.substr(0,x.length-1),x.at(-1)])).reverse()
+    Year = SemesterList.at(0)[0]
+    Semester = SemesterList.at(0)[1]
 
     LastYear = localStorage.getItem("LastYear");
     if(LastYear == null) LastYear = Year;

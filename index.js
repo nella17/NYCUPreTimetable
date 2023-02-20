@@ -1,4 +1,4 @@
-const SemesterList = []
+SemesterList = []
 Year = '?'
 Semester = '?'
 AllCourse = {}

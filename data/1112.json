@@ -4840,7 +4840,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "112204",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "運動生理學 Exercise Physiology",
     "num_limit": "45",
     "reg_num": "-999",
@@ -5552,7 +5552,7 @@
     "name": "競技物理治療 Sports Physical Therapy",
     "num_limit": "45",
     "reg_num": "-999",
-    "teacher": "黃崇舜、洪聰敏、簡若恩、陳曉謙、阮彥鈞、林威廷、方思睿、王中威",
+    "teacher": "黃崇舜、洪聰敏、簡若恩、陳曉謙、阮彥鈞、林威廷、方思睿、王中威、彭維辰",
     "time": "M34-YB624[YM]"
   },
   "1112_112268": {
@@ -6942,7 +6942,7 @@
     "id": "113801",
     "memo": "本課程上課地點為陽明校區，開放陽明校區大學部學生選課，並認列為領域課程(通識)。醫學系可認列醫學人文與倫理領域-醫學人文類，醫學系僅能在醫學人文與倫理領域學分與通識領域課程學分中擇一計算，若欲計算通識學分，請至領域課程中選修本課。本課程為應考公共衛生師指定修習科目。",
     "name": "性別與醫學 Gender and Medicine",
-    "num_limit": "20",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "任一安",
     "time": "F34-YT304[YM]"
@@ -7796,7 +7796,7 @@
     "name": "進階流行病學實證討論 Advanced Seminars in Epidemiology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "莊宜芳、蒲正筠",
+    "teacher": "莊宜芳、黃心苑、蒲正筠、陳信任",
     "time": "R2-"
   },
   "1112_130220": {
@@ -12436,7 +12436,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "132712",
-    "memo": "[English Medium Course]跨校區選課。全英語授課課程。開放大學部學生修讀。授課方式：視訊同步遠距。陽明校區：圖資大樓824；交大校區：工五129遠距教室。",
+    "memo": "[English Medium Course]跨校區選課。全英語授課課程。開放大學部學生修讀。授課方式：視訊同步遠距。陽明校區：圖資大樓824；交大校區：工五129遠距教室。開課老師每週會至不同校區實體上課，另一校區則視訊上課，詳情於E3公告。",
     "name": "決策與大腦 Decision making and the brain",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -12464,7 +12464,7 @@
     "name": "神經生理學 Neurophysiology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "連正章、鄭菡若",
+    "teacher": "連正章、林士傑、鄭菡若",
     "time": "T56-YL839[YM]"
   },
   "1112_132800": {
@@ -13389,7 +13389,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "張博論",
-    "time": "T34-YN109[YM]"
+    "time": "Tab-YN109[YM]"
   },
   "1112_133502": {
     "code": "XDLC00001",
@@ -13772,7 +13772,7 @@
     "name": "生物醫學資訊專題討論(週一博班) Biomedical Informatics Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "張博論、鍾翊方、洪哲倫、李國彬",
+    "teacher": "洪哲倫、鍾翊方、李國彬",
     "time": "M56-YR101[YM]"
   },
   "1112_140801": {
@@ -15078,7 +15078,7 @@
     "id": "161004",
     "memo": "授課方式：視訊同步遠距。上課教室：陽明校區：教學大樓301；交大校區：工程五館129。",
     "name": "邏輯學 Logic",
-    "num_limit": "42",
+    "num_limit": "43",
     "reg_num": "-999",
     "teacher": "劉吉宴",
     "time": "T78-EE129[GF],T78-YT301[YM]"
@@ -20128,7 +20128,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515170",
-    "memo": "M56-EE105,Tabc-PC4,R2-EE105,2abc為實驗課 PC4",
+    "memo": "M56-EE220,Tabc-PC4,R2-EE220,2abc為實驗課 PC4",
     "name": "物件導向程式設計 Object-Oriented Programming",
     "num_limit": "55",
     "reg_num": "-999",
@@ -20742,7 +20742,7 @@
     "id": "515500",
     "memo": "主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；電子，應數系及管理學院不同意所屬學生採計通識學分[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously];開放隨班附讀",
     "name": "離散數學 Discrete Mathematics",
-    "num_limit": "136",
+    "num_limit": "138",
     "reg_num": "-999",
     "teacher": "林政寬",
     "time": "F34-EC022[GF]"
@@ -20850,7 +20850,7 @@
     "id": "515509",
     "memo": "主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
     "name": "計算機組織 Computer Organization",
-    "num_limit": "102",
+    "num_limit": "104",
     "reg_num": "-999",
     "teacher": "李毅郎",
     "time": "R56-ED117[GF]"
@@ -23112,12 +23112,12 @@
     "time": "M34R8-SC106[GF]"
   },
   "1112_516700": {
-    "code": "SCMA10033",
+    "code": "SCMA10020",
     "credit": "3.00",
-    "hours": "3.00",
+    "hours": "4.00",
     "id": "516700",
     "memo": "",
-    "name": "線性代數(二) Linear Algebra(II)",
+    "name": "線性代數（二） Linear Algebra (II)",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "薛名成",
@@ -23937,7 +23937,7 @@
     "num_limit": "10",
     "reg_num": "-999",
     "teacher": "黃仕斌",
-    "time": "Wabc-A718[GF]"
+    "time": "Wabc-A703B[GF]"
   },
   "1112_517200": {
     "code": "MGTM10001",
@@ -25763,18 +25763,6 @@
     "teacher": "何震寰、方俊傑",
     "time": "M678R678-HA108[GF]"
   },
-  "1112_534702": {
-    "code": "HSAR30042",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "534702",
-    "memo": "限大三以上（含碩士班）選修",
-    "name": "智慧生活與創新設計 Smart Living and Innovative Design",
-    "num_limit": "25",
-    "reg_num": "-999",
-    "teacher": "侯君昊",
-    "time": "F678-HA105[GF]"
-  },
   "1112_534703": {
     "code": "HSAR30023",
     "credit": "6.00",
@@ -27544,7 +27532,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535422",
-    "memo": "2/17、2/24、3/3交大校區上課地點為EO103，陽明校區暫以視訊方式上課(將於E3公告)，之後以視訊同步遠距上課，上課教室將另行於E3公告。",
+    "memo": "2/17、2/24、3/3交大校區上課地點為EO103，陽明校區上課地點為每週五234節於實驗大樓A205室",
     "name": "智慧醫電概論 Introduction to Intelligent Bioelectronics",
     "num_limit": "125",
     "reg_num": "-999",
@@ -29673,7 +29661,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李育杰",
-    "time": "T34W3-SA213[GF]"
+    "time": "M7T34-SA213[GF]"
   },
   "1112_536716": {
     "code": "SCMA30046",
@@ -34710,7 +34698,7 @@
     "id": "561503",
     "memo": "",
     "name": "科技與電影 Technology and Film",
-    "num_limit": "78",
+    "num_limit": "80",
     "reg_num": "-999",
     "teacher": "郭嘉真",
     "time": "M78-ED117[GF]"
@@ -38169,7 +38157,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "余啟哲",
-    "time": "M78R34-SC151[GF]"
+    "time": "M78-SA311[GF],R34-SC151[GF]"
   },
   "1112_564017": {
     "code": "GECS10002",
@@ -38250,7 +38238,7 @@
     "id": "565000",
     "memo": "含近代物理",
     "name": "物理(二)榮譽班 Physics(II)",
-    "num_limit": "120",
+    "num_limit": "125",
     "reg_num": "-999",
     "teacher": "簡紋濱",
     "time": "M34R78-SA321[GF]"
@@ -38334,7 +38322,7 @@
     "id": "565007",
     "memo": "遠距課程, 教室:科學三館SC001",
     "name": "物理(二) Physics(II)",
-    "num_limit": "189",
+    "num_limit": "190",
     "reg_num": "-999",
     "teacher": "李威儀",
     "time": "R7-SC001[GF]"
@@ -45246,7 +45234,7 @@
     "id": "960000",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－國防政策 All-out Defense Education Military Training-National Defense Policies",
-    "num_limit": "64",
+    "num_limit": "66",
     "reg_num": "-999",
     "teacher": "陳效邦",
     "time": "T12-A104[GF]"
@@ -45270,7 +45258,7 @@
     "id": "960002",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－國際情勢 All-out Defense Education Military Training-International Situations",
-    "num_limit": "41",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "張郁青",
     "time": "W34-A104[GF]"
@@ -45330,7 +45318,7 @@
     "id": "960007",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－全民國防 All-out Defense Education Military Training-Civil Defense",
-    "num_limit": "43",
+    "num_limit": "42",
     "reg_num": "-999",
     "teacher": "卓瓊娟",
     "time": "M56-A104[GF]"

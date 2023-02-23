@@ -8624,7 +8624,7 @@
     "name": "福利政策專題討論 Seminar on Welfare Policy",
     "num_limit": "12",
     "reg_num": "-999",
-    "teacher": "周月清、林文旭、黃昱得",
+    "teacher": "周月清、林文旭",
     "time": "T56-YN611[YM]"
   },
   "1112_130704": {
@@ -11409,7 +11409,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "楊翠青",
-    "time": "W34-YT302[YM]"
+    "time": "W34-YT301[YM]"
   },
   "1112_132216": {
     "code": "BEBL30034",
@@ -13124,7 +13124,7 @@
     "name": "演化遺傳學與醫學 Evolutionary Genetics and Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "可文亞",
+    "teacher": "可文亞、王弘毅",
     "time": "M56-YK101[YM]"
   },
   "1112_133027": {
@@ -15114,7 +15114,7 @@
     "id": "161007",
     "memo": "",
     "name": "翻轉管理學 A Critical Understanding of Management",
-    "num_limit": "40",
+    "num_limit": "46",
     "reg_num": "-999",
     "teacher": "徐詩偉",
     "time": "F56-CS100[GF],F56-YT301[YM]"
@@ -15153,7 +15153,7 @@
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "林映彤",
-    "time": "T9a-YX501[YM]"
+    "time": "T9a-YX202[YM]"
   },
   "1112_161011": {
     "code": "GECE00319",
@@ -15594,7 +15594,7 @@
     "id": "161051",
     "memo": "",
     "name": "人際關係與溝通 Interpersonal Relations and Communication",
-    "num_limit": "35",
+    "num_limit": "38",
     "reg_num": "-999",
     "teacher": "彭懷恩",
     "time": "F34-YT204[YM]"
@@ -15606,7 +15606,7 @@
     "id": "161052",
     "memo": "",
     "name": "國際關係 International Relations",
-    "num_limit": "35",
+    "num_limit": "38",
     "reg_num": "-999",
     "teacher": "彭懷恩",
     "time": "F56-YT204[YM]"
@@ -34216,7 +34216,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "561038",
-    "memo": "陽明校區實地授課，交大校區線上，請向教師索取線上連結。",
+    "memo": "陽明校區實地授課，交大校區線上，第二周課程連結：https://meet.google.com/fix-bsnm-gys",
     "name": "領導與統御 Leadership",
     "num_limit": "50",
     "reg_num": "-999",
@@ -34650,7 +34650,7 @@
     "id": "561500",
     "memo": "",
     "name": "交通安全與生命教育 Traffic Safety and Life Education",
-    "num_limit": "72",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "吳宗修",
     "time": "T89-A901[GF]"
@@ -38226,7 +38226,7 @@
     "id": "565000",
     "memo": "含近代物理",
     "name": "物理(二)榮譽班 Physics(II)",
-    "num_limit": "129",
+    "num_limit": "130",
     "reg_num": "-999",
     "teacher": "簡紋濱",
     "time": "M34R78-SA321[GF]"
@@ -45057,7 +45057,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "系統工程",
-    "time": "W89-"
+    "time": "W67-"
   },
   "1112_910440": {
     "code": "SESE20231",

@@ -2600,7 +2600,7 @@
     "name": "整合醫學暨中醫學現代進展 Recent Advances in Integrative Medicine and Chinese Medicine",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "龔彥穎",
+    "teacher": "龔彥穎、郭文華、張清貿、楊仁鄰、鄭惇方、吳大鵬、張凱惟、張揚楷、張家國",
     "time": "W78-YT303[YM]"
   },
   "1112_110213": {
@@ -5325,7 +5325,7 @@
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "周立偉、施怡芬",
-    "time": ""
+    "time": "Myz-"
   },
   "1112_112259": {
     "code": "BEPT20082",
@@ -5337,7 +5337,7 @@
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "周立偉、施怡芬",
-    "time": ""
+    "time": "Fyz-"
   },
   "1112_112260": {
     "code": "BEPT10003",
@@ -9008,7 +9008,7 @@
     "name": "醫學概論 Introduction to Clinical Medicine",
     "num_limit": "9999",
     "reg_num": "15",
-    "teacher": "郭冠良、楊慕華、吳俊穎、鄭浩民、吳貞宜",
+    "teacher": "郭冠良、楊慕華、吳俊穎、吳貞宜、鄭浩民",
     "time": "R78-YR105[YM]"
   },
   "1112_131020": {
@@ -10076,7 +10076,7 @@
     "name": "健康生活型態介入 Healthy Lifestyle Intervention",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "劉影梅、曾新穆、曾聖凱",
+    "teacher": "劉影梅",
     "time": "R9a-YN603[YM]"
   },
   "1112_131809": {
@@ -14119,7 +14119,7 @@
     "memo": "開放大學部選修，歡迎其他研究所修讀。",
     "name": "健康資訊科技創新與可用性評估 Health Informatics Technology Innoratian and Fcasibility",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "侯宜菁",
     "time": "R56-YN318[YM]"
   },
@@ -18271,7 +18271,7 @@
     "memo": "限外文系",
     "name": "英語能力評鑑 English Competence Workshop",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "49",
     "teacher": "葛家榮",
     "time": "Rn-F326[GF]"
   },
@@ -20348,7 +20348,7 @@
     "name": "奈米科學與工程實驗 Nano science and engineering Lab.   ",
     "num_limit": "23",
     "reg_num": "22",
-    "teacher": "徐雍鎣、袁俊傑、柯富祥、蘇冠暐",
+    "teacher": "徐雍鎣、柯富祥、張家靖、蘇冠暐",
     "time": "M9ab-"
   },
   "1112_516006": {
@@ -25845,7 +25845,7 @@
     "num_limit": "40",
     "reg_num": "27",
     "teacher": "趙昌博",
-    "time": "T567-EE208[GF]"
+    "time": "T567-EE209[GF]"
   },
   "1112_535308": {
     "code": "EECN30039",
@@ -26443,7 +26443,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "347",
+    "reg_num": "346",
     "teacher": "資科工所",
     "time": ""
   },
@@ -27788,7 +27788,7 @@
     "name": "研究所專題討論(二) Seminar (II)",
     "num_limit": "9999",
     "reg_num": "134",
-    "teacher": "于弋翔",
+    "teacher": "于弋翔、黃炯憲",
     "time": "Wn56-EB117[GF],Wn56-EB227[GF]"
   },
   "1112_536216": {
@@ -37509,7 +37509,7 @@
     "num_limit": "15",
     "reg_num": "17",
     "teacher": "鄭彩娥",
-    "time": "W56-A508[GF]"
+    "time": "W56-A509[GF]"
   },
   "1112_579019": {
     "code": "GECL00006",

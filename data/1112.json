@@ -4016,7 +4016,7 @@
     "name": "專題討論(A班) Seminar",
     "num_limit": "9999",
     "reg_num": "15",
-    "teacher": "龔思豪、楊翠青、張懿欣、黃琤、呂世正、黃智生、涂玉青、陳奕帆、王琬菁、黃尉倫、蔡雨寰、吳俊忠",
+    "teacher": "龔思豪、楊翠青、張懿欣、黃琤、呂世正、陳奕帆、王琬菁、蔡雨寰、吳俊忠",
     "time": "M56-YT301[YM]"
   },
   "1112_112001": {
@@ -4232,7 +4232,7 @@
     "name": "臨床微生物實驗 Clinical Microbiology Laboratory",
     "num_limit": "9999",
     "reg_num": "35",
-    "teacher": "吳韋訥、楊翠青、龔思豪、蘇美慈、李詩益、鄭惠文",
+    "teacher": "吳韋訥、楊翠青、龔思豪、蘇美慈、洪小雅、李詩益、鄭惠文",
     "time": "W56R3-YB229[YM]"
   },
   "1112_112021": {
@@ -8064,12 +8064,12 @@
     "time": "W78-YN514[YM]"
   },
   "1112_130504": {
-    "code": "MDHH30094",
+    "code": "BEIR10001",
     "credit": "2.00",
     "hours": "2.00",
     "id": "130504",
     "memo": "管理與政策必選修之一。",
-    "name": "深度學習在智慧醫療的應用 Deep Learning for Smart Healthcare",
+    "name": "MATLAB進階程式設計與專題實作 MATLAB Advanced Programming Design",
     "num_limit": "15",
     "reg_num": "14",
     "teacher": "陳翎",
@@ -8942,7 +8942,7 @@
   "1112_131012": {
     "code": "MDBI30050",
     "credit": "2.00",
-    "hours": ".00",
+    "hours": "2.00",
     "id": "131012",
     "memo": "",
     "name": "系統生物學專題(二) Topics in Systems Biology (Ⅱ)",
@@ -12716,7 +12716,7 @@
     "name": "專題討論：視覺社會史/學(二) Seminar: Social History and Sociology of Visual Cultures Ⅱ ",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "勞維俊、劉瑞琪、黃桂瑩、邱剛彥、王潔瑩、葉嘉華",
+    "teacher": "勞維俊、劉瑞琪、黃桂瑩、葉嘉華、邱剛彥、王潔瑩",
     "time": "F12-YX322[YM]"
   },
   "1112_133301": {
@@ -12751,7 +12751,7 @@
     "memo": "[English Medium Course]1.視覺文化研究所課程結構發展重點二：近代視覺與社會。2.視覺文化研究所與亞際文化研究國際碩士學程(陽明校區)合班上課。3.本課程同意開放大學部學生選修，但學生需與授課老師面談同意後，始能以紙本加選的方式選修。4.本課程全英語授課。",
     "name": "帝國之眼：長十八世紀的英國繪畫 Imperial Eyes: British Painting in the Long Eighteenth Century",
     "num_limit": "9999",
-    "reg_num": "3",
+    "reg_num": "2",
     "teacher": "邱剛彥",
     "time": "R567-YX322[YM]"
   },
@@ -14156,13 +14156,13 @@
     "name": "進階家庭專科護理實習I Advanced Family Nurse Practitioner Practicum I",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "楊淑華",
+    "teacher": "楊淑華、商舒婷",
     "time": "R12345678-"
   },
   "1112_150214": {
     "code": "NSDN30082",
     "credit": "1.00",
-    "hours": "1.00",
+    "hours": "2.00",
     "id": "150214",
     "memo": "專科護理師組課程，開放護理學系碩士在職專班選修",
     "name": "進階藥理學案例討論 Clinical Pharmacology and Pharmacotherapy Case Study",
@@ -18319,7 +18319,7 @@
     "memo": "限外文系，開放四年級選修。",
     "name": "進階英語能力評鑑 Advanced English Competence Workshop",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "胡心瑜",
     "time": "W1-HC404[GF]"
   },
@@ -19387,7 +19387,7 @@
     "memo": "",
     "name": "線性代數 Linear Algebra",
     "num_limit": "60",
-    "reg_num": "67",
+    "reg_num": "66",
     "teacher": "吳卓諭",
     "time": "T34R7-ED303[GF]"
   },
@@ -25123,7 +25123,7 @@
     "memo": "限本所",
     "name": "演奏主修：鋼琴 Advanced Instruction in Piano",
     "num_limit": "9999",
-    "reg_num": "3",
+    "reg_num": "4",
     "teacher": "孫建如",
     "time": "Fb-HC609[GF]"
   },
@@ -26803,7 +26803,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "116",
+    "reg_num": "115",
     "teacher": "網工所",
     "time": ""
   },

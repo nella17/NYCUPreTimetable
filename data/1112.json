@@ -295,7 +295,7 @@
     "memo": "導師時間",
     "name": "心靈成長(四) Spiritual Growth Ⅳ",
     "num_limit": "9999",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "張婷婷",
     "time": "W34-YT104[YM]"
   },
@@ -391,7 +391,7 @@
     "memo": "",
     "name": "婦產科臨床實習(一) Clerkship in Obstetrics &amp; Gynecology",
     "num_limit": "9999",
-    "reg_num": "133",
+    "reg_num": "135",
     "teacher": "婦產學科",
     "time": ""
   },
@@ -439,7 +439,7 @@
     "memo": "",
     "name": "小兒科臨床實習(一) Clerkship in Pediatrics",
     "num_limit": "9999",
-    "reg_num": "133",
+    "reg_num": "134",
     "teacher": "小兒學科",
     "time": ""
   },
@@ -499,7 +499,7 @@
     "memo": "",
     "name": "精神科臨床實習(一) Clerkship in Psychiatry",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "8",
     "teacher": "精神學科",
     "time": ""
   },
@@ -511,7 +511,7 @@
     "memo": "",
     "name": "精神科臨床實習(二) Clerkship in Psychiatry",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "5",
     "teacher": "精神學科",
     "time": ""
   },
@@ -535,7 +535,7 @@
     "memo": "",
     "name": "神經科臨床實習(一) Clerkship in Neurology",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "18",
     "teacher": "神經學科",
     "time": ""
   },
@@ -571,7 +571,7 @@
     "memo": "",
     "name": "胸腔科臨床實習(一) Clerkship in Chest Medicine",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "25",
     "teacher": "內科學科",
     "time": ""
   },
@@ -607,7 +607,7 @@
     "memo": "",
     "name": "心臟科臨床實習(一) Clerkship in Cardiology",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "50",
     "teacher": "內科學科",
     "time": ""
   },
@@ -643,7 +643,7 @@
     "memo": "",
     "name": "腎臟科臨床實習(一) Clerkship in Nephrology",
     "num_limit": "9999",
-    "reg_num": "53",
+    "reg_num": "54",
     "teacher": "內科學科",
     "time": ""
   },
@@ -679,7 +679,7 @@
     "memo": "",
     "name": "新陳代謝科臨床實習(一) Clerkship in Metabolism",
     "num_limit": "9999",
-    "reg_num": "55",
+    "reg_num": "56",
     "teacher": "內科學科",
     "time": ""
   },
@@ -715,7 +715,7 @@
     "memo": "",
     "name": "腸胃科臨床實習(一) Clerkship in Gastroenterology",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "42",
     "teacher": "內科學科",
     "time": ""
   },
@@ -751,7 +751,7 @@
     "memo": "",
     "name": "感染科臨床實習(一) Clerkship in Infectious Disease",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "51",
     "teacher": "內科學科",
     "time": ""
   },
@@ -763,7 +763,7 @@
     "memo": "",
     "name": "感染科臨床實習(二) Clerkship in Infectious Disease",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "2",
     "teacher": "內科學科",
     "time": ""
   },
@@ -787,7 +787,7 @@
     "memo": "",
     "name": "免疫風濕科臨床實習(一) Clerkship in Immunology",
     "num_limit": "9999",
-    "reg_num": "59",
+    "reg_num": "60",
     "teacher": "內科學科",
     "time": ""
   },
@@ -823,7 +823,7 @@
     "memo": "",
     "name": "血液腫瘤科臨床實習(一) Clerkship in Hematology",
     "num_limit": "9999",
-    "reg_num": "58",
+    "reg_num": "60",
     "teacher": "內科學科",
     "time": ""
   },
@@ -859,7 +859,7 @@
     "memo": "",
     "name": "毒物科臨床實習(一) Clerkship in Toxicology",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "內科學科",
     "time": ""
   },
@@ -907,7 +907,7 @@
     "memo": "",
     "name": "一般內科臨床實習(二) Clerkship in General Internal Medicine",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "內科學科",
     "time": ""
   },
@@ -931,7 +931,7 @@
     "memo": "",
     "name": "內科加護病房臨床實習(一) Clerkship in Medical Intensive Care Unit",
     "num_limit": "9999",
-    "reg_num": "88",
+    "reg_num": "89",
     "teacher": "內科學科",
     "time": ""
   },
@@ -967,7 +967,7 @@
     "memo": "",
     "name": "骨科臨床實習(一) Clerkship in Orthopedics",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "25",
     "teacher": "骨科學科",
     "time": ""
   },
@@ -1003,7 +1003,7 @@
     "memo": "",
     "name": "急診科臨床實習(一) Clerkship in Emergency Medicine",
     "num_limit": "9999",
-    "reg_num": "131",
+    "reg_num": "133",
     "teacher": "急診醫學科",
     "time": ""
   },
@@ -1015,7 +1015,7 @@
     "memo": "",
     "name": "急診科臨床實習(二) Clerkship in Emergency Medicine",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "32",
     "teacher": "急診醫學科",
     "time": ""
   },
@@ -1027,7 +1027,7 @@
     "memo": "",
     "name": "急診科臨床實習(三) Clerkship in Emergency Medicine",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "7",
     "teacher": "急診醫學科",
     "time": ""
   },
@@ -1039,7 +1039,7 @@
     "memo": "",
     "name": "老年醫學臨床實習(一) Clerkship for Geratric Medicine",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "6",
     "teacher": "高齡醫學科",
     "time": ""
   },
@@ -1111,7 +1111,7 @@
     "memo": "",
     "name": "一般外科臨床實習(一) Clerkship in General Surgery",
     "num_limit": "9999",
-    "reg_num": "67",
+    "reg_num": "70",
     "teacher": "外科學科",
     "time": ""
   },
@@ -1123,7 +1123,7 @@
     "memo": "",
     "name": "一般外科臨床實習(二) Clerkship in General Surgery",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "13",
     "teacher": "外科學科",
     "time": ""
   },
@@ -1159,7 +1159,7 @@
     "memo": "",
     "name": "整形外科臨床實習(二) Clerkship in Plastic Surgery",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "10",
     "teacher": "外科學科",
     "time": ""
   },
@@ -1171,7 +1171,7 @@
     "memo": "",
     "name": "整形外科臨床實習(三) Clerkship in Plastic Surgery",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "外科學科",
     "time": ""
   },
@@ -1183,7 +1183,7 @@
     "memo": "",
     "name": "神經外科臨床實習(一) Clerkship in Neurosurgery",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "外科學科",
     "time": ""
   },
@@ -1195,7 +1195,7 @@
     "memo": "",
     "name": "神經外科臨床實習(二) Clerkship in Neurosurgery",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "3",
     "teacher": "外科學科",
     "time": ""
   },
@@ -1219,7 +1219,7 @@
     "memo": "",
     "name": "心臟血管外科臨床實習(一) Clerkship in Cardiovascular Surgery",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "52",
     "teacher": "外科學科",
     "time": ""
   },
@@ -1291,7 +1291,7 @@
     "memo": "",
     "name": "直腸外科臨床實習(一) Clerkship in Colorectal Surgery",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "29",
     "teacher": "外科學科",
     "time": ""
   },
@@ -1363,7 +1363,7 @@
     "memo": "",
     "name": "外科加護病房臨床實習(一) Clerkship in Surgery Intensive Care Unit",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "外科學科",
     "time": ""
   },
@@ -1435,7 +1435,7 @@
     "memo": "",
     "name": "耳鼻喉科臨床實習(一) Clerkship in Otolaryngology",
     "num_limit": "9999",
-    "reg_num": "71",
+    "reg_num": "73",
     "teacher": "耳鼻喉學科",
     "time": ""
   },
@@ -1507,7 +1507,7 @@
     "memo": "",
     "name": "放射治療科臨床實習(一) Clerkship in Radiation Oncology",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "放射線學科",
     "time": ""
   },
@@ -1519,7 +1519,7 @@
     "memo": "",
     "name": "放射治療科臨床實習(二) Clerkship in Radiation Oncology",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "放射線學科",
     "time": ""
   },
@@ -1543,7 +1543,7 @@
     "memo": "",
     "name": "放射診斷臨床實習(一) Clerkship in Radiology",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "10",
     "teacher": "放射線學科",
     "time": ""
   },
@@ -1555,7 +1555,7 @@
     "memo": "",
     "name": "放射診斷臨床實習(二) Clerkship in Radiology",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "放射線學科",
     "time": ""
   },
@@ -1579,7 +1579,7 @@
     "memo": "",
     "name": "復健科臨床實習(一) Clerkship in Physical Medicine &amp; Rehabilitation",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "52",
     "teacher": "復健醫學科",
     "time": ""
   },
@@ -1615,7 +1615,7 @@
     "memo": "",
     "name": "家庭醫學科臨床實習(一) Clerkship in Family Medicine",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "17",
     "teacher": "家庭醫學科",
     "time": ""
   },
@@ -1687,7 +1687,7 @@
     "memo": "",
     "name": "病理科臨床實習(一) Clerkship in Pathology",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "病理學科",
     "time": ""
   },
@@ -1723,7 +1723,7 @@
     "memo": "",
     "name": "核子醫學科臨床實習(一) Clerkship in Nuclear Medicine",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "9",
     "teacher": "放射線學科",
     "time": ""
   },
@@ -1867,7 +1867,7 @@
     "memo": "",
     "name": "附醫實習 Clerkship in University Hospital",
     "num_limit": "9999",
-    "reg_num": "129",
+    "reg_num": "135",
     "teacher": "醫學系",
     "time": ""
   },
@@ -2444,7 +2444,7 @@
     "name": "血液學 Hematology",
     "num_limit": "9999",
     "reg_num": "152",
-    "teacher": "高志平、劉嘉仁、簡聖軒、劉耀中、王浩元、柯博伸、林庭安、陳玟均、蔡淳光、高冠鈞、許德麟、蕭樑材",
+    "teacher": "蕭樑材、劉嘉仁、高志平、簡聖軒、劉耀中、王浩元、柯博伸、林庭安、陳玟均、蔡淳光、高冠鈞、許德麟",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
   "1112_110200": {
@@ -4904,7 +4904,7 @@
     "name": "臨床見習(四)  Clinical Clerkship in Physical Therapy (IV) ",
     "num_limit": "9999",
     "reg_num": "43",
-    "teacher": "蔡美文、李淑貞、李雪楨、羅鴻基、林子崴、張志謙、羅士倫、巫俊杉",
+    "teacher": "蔡美文、李淑貞、李雪楨、羅鴻基、林子崴、邵軒琳、張志謙、羅士倫、巫俊杉",
     "time": "W56-YB603[YM]"
   },
   "1112_112223": {
@@ -5316,24 +5316,24 @@
     "time": "SdUd-"
   },
   "1112_112258": {
-    "code": "BEPT20081",
+    "code": "BEPT20085",
     "credit": "1.00",
     "hours": "2.00",
     "id": "112258",
     "memo": "[English Medium Course]",
-    "name": "海外物理治療臨床見習(美國) Clinical Clerkship in Physical Therapy (USA)",
+    "name": "海外物理治療臨床見習(美國) Overseas Clinical Clerkship in Physical Therapy (USA)",
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "周立偉、施怡芬",
     "time": "Myz-"
   },
   "1112_112259": {
-    "code": "BEPT20082",
+    "code": "BEPT20086",
     "credit": "2.00",
     "hours": "4.00",
     "id": "112259",
     "memo": "[English Medium Course]",
-    "name": "海外物理治療臨床實習(芬蘭) Oversea Clinical Practice in Physical Therapy (Finland)",
+    "name": "海外物理治療臨床實習(芬蘭) Overseas Clinical Practice in Physical Therapy (Finland)",
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "周立偉、施怡芬",
@@ -6548,7 +6548,7 @@
     "name": "醫師科學家碩士專題研究 (四) Physician Scientist Research in Master Program (4)",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "兵岳忻",
+    "teacher": "兵岳忻、黃嵩立、莊宜芳",
     "time": "Uabc-"
   },
   "1112_113200": {
@@ -7040,7 +7040,7 @@
     "name": "藥理學 Pharmacology",
     "num_limit": "9999",
     "reg_num": "46",
-    "teacher": "王湘翠、林滿玉、李新城、鄭宏志、霍德義、張世霖、黃自強、兵岳忻、嚴錦城、張婷婷、陳介甫、潘懷宗、洪舜郁、呂至剛、張豫立、王笙帆、周士傑、葉翰宜、黃金洲",
+    "teacher": "王湘翠、黃金洲、林滿玉、李新城、鄭宏志、霍德義、張世霖、黃自強、兵岳忻、嚴錦城、張婷婷、陳介甫、潘懷宗、洪舜郁、呂至剛、張豫立、王笙帆、周士傑、葉翰宜",
     "time": "W56R5678-YX406[YM]"
   },
   "1112_130101": {
@@ -7052,7 +7052,7 @@
     "name": "醫師科學家碩士專題研究 (二) Physician Scientist Research in Master Program (2)",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "兵岳忻",
+    "teacher": "兵岳忻、邱士華、吳俊穎、陳志強、吳莉玲",
     "time": "Uabc-"
   },
   "1112_130102": {
@@ -7100,7 +7100,7 @@
     "name": "藥理學專題討論(二) Seminar in Pharmacology (Ⅱ)",
     "num_limit": "9999",
     "reg_num": "18",
-    "teacher": "嚴錦城、李新城、霍德義、邱士華、駱雨利、陳世彬、黃自強、兵岳忻、王湘翠、張婷婷、陳介甫、沈郁強、王笙帆、周士傑、葉翰宜",
+    "teacher": "嚴錦城、李新城、霍德義、邱士華、駱雨利、陳世彬、黃自強、兵岳忻、王湘翠、張婷婷、陳介甫、沈郁強、王笙帆、周士傑、葉翰宜、李癸汌",
     "time": "T1234-YR105[YM]"
   },
   "1112_130106": {
@@ -7232,7 +7232,7 @@
     "name": "血管生物學暨血管醫學專論 (二) Special Topics on Vascular Biology and Vascular Medicine (II)",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "張婷婷、陳肇文、黃金洲",
+    "teacher": "張婷婷、黃金洲、陳肇文",
     "time": "W9ab-YR508[YM]"
   },
   "1112_130118": {
@@ -13088,7 +13088,7 @@
     "name": "生物醫學資訊學研究技術(博) Biomedical Informatics Research Techniques",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "吳俊穎",
+    "teacher": "李國彬",
     "time": "Un-"
   },
   "1112_140803": {
@@ -13100,7 +13100,7 @@
     "name": "生物醫學資訊學教學(博) Teaching Experience in Biomedical Informatics",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "吳俊穎",
+    "teacher": "李國彬",
     "time": "Un-"
   },
   "1112_140900": {
@@ -25557,7 +25557,7 @@
     "num_limit": "9999",
     "reg_num": "13",
     "teacher": "鄭裕庭",
-    "time": "M789-ED220[GF]"
+    "time": "M789-EDB07[GF]"
   },
   "1112_535215": {
     "code": "EEIE30003",
@@ -25761,7 +25761,7 @@
     "num_limit": "9999",
     "reg_num": "45",
     "teacher": "陳坤志",
-    "time": "W234-ED525[GF]"
+    "time": "W234-ED219[GF]"
   },
   "1112_535300": {
     "code": "EECN30242",

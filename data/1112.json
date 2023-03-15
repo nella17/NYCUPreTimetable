@@ -2024,7 +2024,7 @@
     "name": "神經解剖學 Neuroanatomy",
     "num_limit": "9999",
     "reg_num": "185",
-    "teacher": "鄭瓊娟、傅毓秀、郭曉縈、侯珮珊、王先逸",
+    "teacher": "鄭瓊娟、傅毓秀、王先逸、郭曉縈、侯珮珊",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
   "1112_110162": {
@@ -2036,7 +2036,7 @@
     "name": "神經解剖學實驗 Neuroanatomy Laboratory",
     "num_limit": "9999",
     "reg_num": "185",
-    "teacher": "鄭瓊娟、郭曉縈、侯珮珊、王先逸",
+    "teacher": "鄭瓊娟、王先逸、郭曉縈、侯珮珊",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
   "1112_110163": {
@@ -2084,7 +2084,7 @@
     "name": "胚胎學 Embryology",
     "num_limit": "9999",
     "reg_num": "185",
-    "teacher": "鄭瓊娟、侯珮珊、王先逸",
+    "teacher": "鄭瓊娟、王先逸、侯珮珊",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
   "1112_110167": {
@@ -2108,7 +2108,7 @@
     "name": "神經症狀學 Symptomatology of nervous system disorders",
     "num_limit": "9999",
     "reg_num": "59",
-    "teacher": "陳世彬、李宜中、李怡慧、尤香玉、王嚴鋒、梁仁峯、賴冠霖",
+    "teacher": "陳世彬、李宜中、李怡慧、尤香玉、王嚴鋒、賴冠霖、蔣漢琳",
     "time": "F56-YM225[YM]"
   },
   "1112_110169": {
@@ -2844,7 +2844,7 @@
     "time": "T1234F1234-YD210[YM]"
   },
   "1112_111520": {
-    "code": "DEDE10013",
+    "code": "DEDE20051",
     "credit": ".50",
     "hours": "1.00",
     "id": "111520",
@@ -3456,12 +3456,12 @@
     "time": ""
   },
   "1112_111573": {
-    "code": "DEDE20012",
+    "code": "DEDE20049",
     "credit": "3.00",
     "hours": "3.00",
     "id": "111573",
     "memo": "台北榮總口腔醫學部",
-    "name": "口腔顎面外科學 Oral & Maxillofacial Surgery",
+    "name": "口腔顎面外科學 Oral &amp; Maxillofacial Surgery",
     "num_limit": "9999",
     "reg_num": "44",
     "teacher": "高壽延、楊政杰、涂曦丰、劉崇基、蔣維凡、羅文良、劉巡宇、洪凱風、吳政憲、成函潔、劉子綸、何翊芸",
@@ -4040,7 +4040,7 @@
     "name": "組織學 Histology",
     "num_limit": "9999",
     "reg_num": "48",
-    "teacher": "張明超、傅毓秀、葉添順、鄭瓊娟、李學德、郭曉縈、蔣偉程、王先逸",
+    "teacher": "張明超、傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、郭曉縈、蔣偉程",
     "time": "M34-YT304[YM]"
   },
   "1112_112003": {
@@ -7784,7 +7784,7 @@
     "name": "分子細胞生物學研究技術及實習 Techniques and Practice of Molecular Biological Research",
     "num_limit": "9999",
     "reg_num": "29",
-    "teacher": "楊慕華、吳肇卿、楊永正、高甫仁、王錦鈿、黃奇英、邱士華、陳斯婷、周德盈、牛道明、施俊哲、曾才郁",
+    "teacher": "楊慕華、吳肇卿、楊永正、高甫仁、王錦鈿、黃奇英、邱士華、陳斯婷、周德盈、牛道明、施俊哲、陳志學、曾才郁",
     "time": "F34-YL405[YM]"
   },
   "1112_130312": {
@@ -7868,7 +7868,7 @@
     "name": "組織學實驗 Histology Laboratory",
     "num_limit": "60",
     "reg_num": "59",
-    "teacher": "張明超、傅毓秀、葉添順、鄭瓊娟、李學德、郭曉縈、蔣偉程、王先逸",
+    "teacher": "張明超、傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、郭曉縈、蔣偉程",
     "time": "F234-YED109[YM]"
   },
   "1112_130401": {
@@ -7880,7 +7880,7 @@
     "name": "組織學實驗 Histology Laboratory",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "郭曉縈、張明超、傅毓秀、葉添順、鄭瓊娟、李學德、蔣偉程、王先逸",
+    "teacher": "郭曉縈、張明超、傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、蔣偉程",
     "time": "M234R234-YED109[YM]"
   },
   "1112_130402": {
@@ -7892,7 +7892,7 @@
     "name": "組織學 Histology",
     "num_limit": "9999",
     "reg_num": "21",
-    "teacher": "郭曉縈、張明超、傅毓秀、葉添順、鄭瓊娟、呂春敏、李學德、蔣偉程、王先逸",
+    "teacher": "郭曉縈、張明超、傅毓秀、葉添順、鄭瓊娟、呂春敏、李學德、王先逸、蔣偉程",
     "time": "M1R1-YEA100[YM]"
   },
   "1112_130403": {
@@ -7904,7 +7904,7 @@
     "name": "基礎與臨床人體神經解剖學 Basic and Clinical Human Neuroanatomy",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "蔡佩君、傅毓秀、鄭瓊娟、郭曉縈、侯珮珊、王先逸、陳天華",
+    "teacher": "蔡佩君、傅毓秀、鄭瓊娟、王先逸、郭曉縈、侯珮珊、陳天華",
     "time": "W5678-YEA100[YM]"
   },
   "1112_130405": {
@@ -7916,7 +7916,7 @@
     "name": "神經解剖學實驗 Neuroanatomy Laboratory",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "陳天華、傅毓秀、鄭瓊娟、蔡佩君、郭曉縈、侯珮珊、王先逸",
+    "teacher": "陳天華、傅毓秀、鄭瓊娟、王先逸、蔡佩君、郭曉縈、侯珮珊",
     "time": "W7-YEC109[YM]"
   },
   "1112_130406": {
@@ -8012,7 +8012,7 @@
     "name": "細胞生物學基本技術 Methods Techniques in Cell Biology",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "侯珮珊、傅毓秀、葉添順、鄭瓊娟、李學德、郭曉縈、王先逸、楊安航、賴品光",
+    "teacher": "侯珮珊、傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、郭曉縈、楊安航、賴品光",
     "time": "M567-YEA100[YM]"
   },
   "1112_130500": {
@@ -9620,7 +9620,7 @@
     "name": "高等牙髓病學-臨床進階篇 Advanced Endodontics - Clinical Science",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "楊淑芬、徐永儀、黃妙玨、陳誼安、李亞芸、白勝方、何怡青、郭恬君、林漢星、闕玲惠、王友志、陳益貞、林慧青、黃裕文、錢正原、蔡佳倫",
+    "teacher": "楊淑芬、徐永儀、黃妙玨、陳誼安、李亞芸、白勝方、何怡青、郭恬君、林漢星、闕玲惠、陳益貞、林慧青、黃裕文、錢正原、蔡佳倫、王友志",
     "time": "M5678T1234W5678R1234F5678-"
   },
   "1112_131414": {
@@ -9716,7 +9716,7 @@
     "name": "口腔腫瘤分子特論 Topics in Oral Molecular Oncology",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "林姝君、黎萬君、涂曦丰、林宥成、王鼎涵、張婷菡",
+    "teacher": "林姝君、涂曦丰",
     "time": "F56-YD302[YM]"
   },
   "1112_131505": {
@@ -9728,7 +9728,7 @@
     "name": "組織學與口腔醫學研究 Histology and Oral Medical Research ",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "林怡彣、王鼎涵",
+    "teacher": "林怡彣",
     "time": "W56-YD302[YM]"
   },
   "1112_131506": {
@@ -9740,7 +9740,7 @@
     "name": "學產研人才培訓先修概論 Introductory courses for development of biomedical multidisciplinary experts",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "黎萬君、林姝君、洪善鈴、羅正汎、黃何雄、林怡彣",
+    "teacher": "黎萬君、林怡彣",
     "time": "R56-YD320[YM]"
   },
   "1112_131507": {
@@ -13184,7 +13184,7 @@
     "name": "環境汙染與健康風險特論 Special Topics on Environmental Pollutions and Health Risk",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "潘文驥、楊振昌、郭憲文、余國賓、紀凱獻、黃鈺芳、張榮偉、李旻軒",
+    "teacher": "潘文驥、楊振昌、余國賓、紀凱獻、黃鈺芳、張榮偉、李旻軒",
     "time": "M234-YS103[YM]"
   },
   "1112_141101": {
@@ -19437,7 +19437,7 @@
     "num_limit": "50",
     "reg_num": "50",
     "teacher": "羅佩禎",
-    "time": "M34W2-EE105[GF]"
+    "time": "M34W2-EE209[GF]"
   },
   "1112_515193": {
     "code": "EEEC10016",
@@ -19613,7 +19613,7 @@
     "hours": "3.00",
     "id": "515408",
     "memo": "",
-    "name": "電磁學(二)  Electromagnetism (II)",
+    "name": "電磁學(二)  Electromagnetics(II)",
     "num_limit": "9999",
     "reg_num": "39",
     "teacher": "黃耀緯",
@@ -19625,7 +19625,7 @@
     "hours": "3.00",
     "id": "515409",
     "memo": "",
-    "name": "光子學（一）  Elements of Photonics(I)",
+    "name": "光子學（一）  Photonics(I)",
     "num_limit": "9999",
     "reg_num": "42",
     "teacher": "余沛慈",
@@ -32240,7 +32240,7 @@
     "name": "比較醫療法 Comparative Health Law",
     "num_limit": "30",
     "reg_num": "7",
-    "teacher": "陳鋕雄、賈文宇、岩田太、Robert Leflar",
+    "teacher": "陳鋕雄、賈文宇、Robert Leflar、岩田太",
     "time": "W34-MB1063[GF],W34-YS405[YM]"
   },
   "1112_557907": {
@@ -37519,7 +37519,7 @@
     "memo": "",
     "name": "入門華語會話(三) Introductory Chinese Conversation III",
     "num_limit": "15",
-    "reg_num": "16",
+    "reg_num": "17",
     "teacher": "林佳慧",
     "time": "W12-A508[GF]"
   },

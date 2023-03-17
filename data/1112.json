@@ -931,7 +931,7 @@
     "memo": "",
     "name": "內科加護病房臨床實習(一) Clerkship in Medical Intensive Care Unit",
     "num_limit": "9999",
-    "reg_num": "89",
+    "reg_num": "90",
     "teacher": "內科學科",
     "time": ""
   },
@@ -943,7 +943,7 @@
     "memo": "",
     "name": "內科加護病房臨床實習(二) Clerkship in Medical Intensive Care Unit",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "6",
     "teacher": "內科學科",
     "time": ""
   },
@@ -1087,7 +1087,7 @@
     "memo": "",
     "name": "胸腔外科臨床實習(二) Clerkship in Thoracic Surgery",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "外科學科",
     "time": ""
   },
@@ -3590,7 +3590,7 @@
   "1112_111808": {
     "code": "NSDN20007",
     "credit": "3.00",
-    "hours": "6.00",
+    "hours": "8.00",
     "id": "111808",
     "memo": "後14週密集實習，分二梯次",
     "name": "兒童護理學實習 Pediatric Nursing Practice",
@@ -9116,7 +9116,7 @@
     "name": "專題討論(碩) Seminar",
     "num_limit": "9999",
     "reg_num": "36",
-    "teacher": "楊智傑、陳麗芬、楊定一、楊靜修、盧俊良、王署君、蔡金吾、林嘉澍、陳永昇、鄭彥甫、鄭菡若、蔡世仁、李怡慧、洪成志、劉祐岑、尼大衛、蔡欣融",
+    "teacher": "楊智傑、陳麗芬、楊定一、楊靜修、盧俊良、王署君、蔡金吾、林嘉澍、陳永昇、鄭彥甫、鄭菡若、侯珮珊、蔡世仁、李怡慧、洪成志、劉祐岑、尼大衛、蔡欣融",
     "time": "T56-YL402[YM]"
   },
   "1112_131102": {
@@ -10208,7 +10208,7 @@
     "name": "模式生物於藥物開發的應用 Model Organisms in Drug Discovery",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "金翠庭、許翺麟、何國牟、鄭菡若、俞震亞",
+    "teacher": "金翠庭、俞震亞、許翺麟、何國牟、鄭菡若",
     "time": "T56-YC101[YM]"
   },
   "1112_131910": {
@@ -10394,7 +10394,7 @@
   "1112_132009": {
     "code": "PSPM30022",
     "credit": "3.00",
-    "hours": "3.00",
+    "hours": "6.00",
     "id": "132009",
     "memo": "碩士班乙組必修，上課地點：榮總藥學部及臨床病房",
     "name": "臨床藥學專科實習(一) Clinical Pharmacy Practice (Ⅰ)",
@@ -10580,7 +10580,7 @@
     "name": "食品安全法規及管理科學 Food safety Regulation and Management Science",
     "num_limit": "26",
     "reg_num": "13",
-    "teacher": "康照洲、倪貴榮、潘志寬、黃耀文、鄭幼文、林勤富、李青澔",
+    "teacher": "康照洲、倪貴榮、潘志寬、黃耀文、鄭幼文、李青澔",
     "time": "W56-YL404[YM]"
   },
   "1112_132110": {
@@ -11300,7 +11300,7 @@
     "name": "生醫影像原理與應用 Principles of Biomedical Imaging",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "盧家鋒、林慶波、陳志成、楊逢羿、詹明賢、高瑀絜、吳駿一",
+    "teacher": "盧家鋒、林慶波、陳志成、詹明賢、高瑀絜、吳駿一",
     "time": "F789-YB101[YM]"
   },
   "1112_132501": {
@@ -12284,7 +12284,7 @@
     "name": "進階細胞生物學 Advanced Cell Biology",
     "num_limit": "9999",
     "reg_num": "24",
-    "teacher": "李曉暉、林崇智、俞震亞、陳嘉霖、陳虹如、李敏嘉",
+    "teacher": "李曉暉、俞震亞、林崇智、陳嘉霖、陳虹如、李敏嘉",
     "time": "R234-YK101[YM]"
   },
   "1112_133007": {
@@ -12320,7 +12320,7 @@
     "name": "生命科學教學 Teaching practice on Biology",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "羅清維、陳俊銘、林崇智、鍾明怡、俞震亞、金翠庭、李敏嘉、袁維謙",
+    "teacher": "羅清維、陳俊銘、俞震亞、林崇智、鍾明怡、金翠庭、李敏嘉、袁維謙",
     "time": "Sn-"
   },
   "1112_133010": {
@@ -12356,7 +12356,7 @@
     "name": "論文研究進度報告(碩) Progress report",
     "num_limit": "9999",
     "reg_num": "42",
-    "teacher": "陳俊銘、林照雄、蔡亭芬、羅清維、林崇智、陳燕彰、鍾明怡、俞震亞、李曉暉、可文亞、張欣暘、陳虹如、李敏嘉、陳瀅州、陳儀聰、藍昇輝、袁維謙",
+    "teacher": "陳俊銘、林照雄、蔡亭芬、羅清維、俞震亞、林崇智、陳燕彰、鍾明怡、李曉暉、可文亞、張欣暘、陳虹如、李敏嘉、陳瀅州、陳儀聰、藍昇輝、袁維謙",
     "time": ""
   },
   "1112_133013": {
@@ -13112,7 +13112,7 @@
     "name": "專題討論(博) Seminar",
     "num_limit": "9999",
     "reg_num": "20",
-    "teacher": "楊靜修",
+    "teacher": "楊靜修、陳麗芬、楊定一、盧俊良、李國熙、王署君、蔡金吾、林嘉澍、楊智傑、陳永昇、鄭彥甫、鄭菡若、侯珮珊、蔡世仁、李怡慧、李正達、林永煬、洪成志、劉祐岑、尼大衛、蔡欣融",
     "time": "T78-YL402[YM]"
   },
   "1112_141000": {
@@ -36211,7 +36211,7 @@
     "memo": "(陽明校區)(醫技一)上課地點：山下排球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "0",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "林正仰",
     "time": "T78-PhE[YM]"
   },
@@ -36259,7 +36259,7 @@
     "memo": "(陽明校區)(生科不分一)上課地點：活動中心綜合球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "0",
-    "reg_num": "39",
+    "reg_num": "40",
     "teacher": "許錫賢",
     "time": "M34-PhE[YM]"
   },
@@ -37831,7 +37831,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "158",
+    "reg_num": "157",
     "teacher": "光電學院",
     "time": ""
   },

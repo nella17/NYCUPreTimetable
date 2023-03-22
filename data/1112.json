@@ -1928,7 +1928,7 @@
     "name": "進階臨床核心課程(二) Advanced Clinical Skills(II)",
     "num_limit": "9999",
     "reg_num": "15",
-    "teacher": "陳怡行、賴慧卿、劉時安、陳怡如、林明志、沈靜慧、沈宜靜、譚國棟、閻忠揚、蘇界守、林嘉彥、蔡佳叡、黃彥翔、李宇璇、徐佳鈿、林俊呈、張婷雅",
+    "teacher": "陳怡行、賴慧卿、劉時安、林明志、沈靜慧、沈宜靜、譚國棟、閻忠揚、蘇界守、林嘉彥、蔡佳叡、黃彥翔、李宇璇、阮昭奎、徐佳鈿、林俊呈、張婷雅",
     "time": "R56-"
   },
   "1112_110154": {
@@ -2480,7 +2480,7 @@
     "name": "傳染病學 Infectious Disease",
     "num_limit": "9999",
     "reg_num": "152",
-    "teacher": "林邑璁、李欣蓉、詹宇鈞、黃祥芬、陳昕白、吳冠陞、陳夙容、巫炳峰、張雅媛、王建淳、阮志翰、莊茜",
+    "teacher": "林邑璁、李欣蓉、詹宇鈞、黃祥芬、陳昕白、吳冠陞、陳夙容、巫炳峰、張雅媛、王建淳、阮志翰、莊茜、黃柏翰",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
   "1112_110203": {
@@ -25399,7 +25399,7 @@
     "memo": "",
     "name": "電子專題研討(系統組) Seminar on Electronics-Circuits and Systems",
     "num_limit": "150",
-    "reg_num": "132",
+    "reg_num": "131",
     "teacher": "陳坤志",
     "time": "T56-ED220[GF]"
   },
@@ -25435,7 +25435,7 @@
     "memo": "",
     "name": "專題研究 Graduate Research",
     "num_limit": "9999",
-    "reg_num": "467",
+    "reg_num": "466",
     "teacher": "電子所",
     "time": ""
   },
@@ -25651,7 +25651,7 @@
     "memo": "上課教室：工程四館合勤講堂",
     "name": "計算機結構 Computer Architecture",
     "num_limit": "200",
-    "reg_num": "263",
+    "reg_num": "262",
     "teacher": "劉志尉",
     "time": "F234-"
   },
@@ -26719,7 +26719,7 @@
     "memo": "[English Medium Course]請依各所入學年度之修業要點選課；資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously];開放隨班附讀",
     "name": "演算法 Algorithms",
     "num_limit": "150",
-    "reg_num": "137",
+    "reg_num": "136",
     "teacher": "荊宇泰",
     "time": "M34-ED117[GF]"
   },
@@ -34329,7 +34329,7 @@
     "num_limit": "45",
     "reg_num": "59",
     "teacher": "張敏敏",
-    "time": "Mab-A503[GF]"
+    "time": "Mab-A509[GF]"
   },
   "1112_562082": {
     "code": "GELT10006",
@@ -37579,7 +37579,7 @@
     "memo": "1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫&#34;網路選課加退選處理表&#34;，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。授課方式：視訊同步遠距。",
     "name": "學習與閱讀理解策略 Learning How to Learn: Strategies for Reading and Learning",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "陳鏗任",
     "time": "F56-HA219[GF],F56-YT305[YM]"
   },

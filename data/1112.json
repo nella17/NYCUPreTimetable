@@ -18271,7 +18271,7 @@
     "memo": "限外文系",
     "name": "英語能力評鑑 English Competence Workshop",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "葛家榮",
     "time": "Rn-F326[GF]"
   },
@@ -18825,7 +18825,7 @@
     "num_limit": "60",
     "reg_num": "70",
     "teacher": "董蘭榮",
-    "time": "M78R34-EE209[GF]"
+    "time": "M78R34-EE209[GF],M78R34-EE230[GF]"
   },
   "1112_515140": {
     "code": "EEEC10028",
@@ -30463,7 +30463,7 @@
     "memo": "",
     "name": "人工智慧與法律 Artificial Intelligence and Law",
     "num_limit": "45",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "陳鋕雄、施明遠、李界昇",
     "time": "R56-A103[GF]"
   },
@@ -34375,7 +34375,7 @@
     "memo": "",
     "name": "德文(三) German(III)",
     "num_limit": "45",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "汪錫麟",
     "time": "T56-A507[GF]"
   },

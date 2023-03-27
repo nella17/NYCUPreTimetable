@@ -9560,7 +9560,7 @@
     "name": "高等口腔病理學(含臨床病理討論) Advanced Oral Pathology (Include C.P.C.)",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "張國威、楊政杰、涂曦丰、吳靜宜、張婷菡、劉崇基、羅文良、劉宗榮、洪凱風",
+    "teacher": "張國威、楊政杰、涂曦丰、吳靜宜、張婷菡、劉崇基、羅文良、劉宗榮、洪凱風、洪佩詩",
     "time": "T78-YD207[YM]"
   },
   "1112_131408": {
@@ -9716,7 +9716,7 @@
     "name": "口腔腫瘤分子特論 Topics in Oral Molecular Oncology",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "林姝君、涂曦丰",
+    "teacher": "林姝君、涂曦丰、洪佩詩",
     "time": "F56-YD302[YM]"
   },
   "1112_131505": {
@@ -13112,7 +13112,7 @@
     "name": "專題討論(博) Seminar",
     "num_limit": "9999",
     "reg_num": "20",
-    "teacher": "楊靜修、陳麗芬、楊定一、盧俊良、李國熙、王署君、蔡金吾、林嘉澍、楊智傑、陳永昇、鄭彥甫、鄭菡若、侯珮珊、蔡世仁、李怡慧、李正達、林永煬、洪成志、劉祐岑、尼大衛、蔡欣融",
+    "teacher": "楊靜修、陳麗芬、楊定一、盧俊良、李國熙、王署君、蔡金吾、林嘉澍、楊智傑、陳永昇、鄭彥甫、鄭菡若、黃植懋、侯珮珊、蔡世仁、李怡慧、李正達、林永煬、洪成志、劉祐岑、尼大衛、蔡欣融",
     "time": "T78-YL402[YM]"
   },
   "1112_141000": {
@@ -14203,7 +14203,7 @@
     "memo": "請以信件通知為主",
     "name": "金融投資專題 Special topics on finance and investment",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "32",
     "teacher": "劉助",
     "time": "Fc-YR105[YM]"
   },
@@ -15511,7 +15511,7 @@
     "memo": "限本專班生修課；上課地點：台北北門校區",
     "name": "論文研討二 Seminar II",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "物流專班",
     "time": "Rabc-TB429[BM]"
   },
@@ -25435,7 +25435,7 @@
     "memo": "",
     "name": "專題研究 Graduate Research",
     "num_limit": "9999",
-    "reg_num": "465",
+    "reg_num": "464",
     "teacher": "電子所",
     "time": ""
   },
@@ -27163,7 +27163,7 @@
     "memo": "[English Medium Course]",
     "name": "二維電子材料與系統導論 Introduction to two-dimensional materials and systems",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "葉勝玄",
     "time": "T567-EE116[GF]"
   },
@@ -31483,7 +31483,7 @@
     "memo": "",
     "name": "碩士論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "21",
+    "reg_num": "22",
     "teacher": "工程專班",
     "time": ""
   },

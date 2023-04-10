@@ -4507,7 +4507,7 @@
     "memo": "",
     "name": "專題研究(二) Independent Study II",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "24",
     "teacher": "醫工系、朱唯勤、江惠華、詹家泰、陳右穎、林峻立、江明彰、駱俊良、李泉、劉承揚、羅俊民、賴穎暉、劉大中、蕭慶華、張智銘",
     "time": "Mn-YEA200[YM]"
   },
@@ -11311,7 +11311,7 @@
     "memo": "[English Medium Course]",
     "name": "專題討論(乙組) Seminar",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "17",
     "teacher": "張御展、李易展、陳傳霖、詹明賢、莊惠燕、吳駿一",
     "time": "F56-YT103[YM]"
   },
@@ -11637,7 +11637,7 @@
     "num_limit": "9999",
     "reg_num": "5",
     "teacher": "細川陽一郎",
-    "time": ""
+    "time": "F8-"
   },
   "1112_132606": {
     "code": "BEBN20037",
@@ -14144,7 +14144,7 @@
     "name": "進階家庭專科護理II Advanced Family Nurse Practitioner II",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "胡慧蘭、楊令瑀、楊秋月、童恒新、涂曦丰、劉佩青、陳盈如、沈淑芬、唐鳳屏、徐清樺",
+    "teacher": "胡慧蘭、楊令瑀、楊秋月、童恒新、涂曦丰、劉佩青、蕭慶華、陳盈如、沈淑芬、唐鳳屏、徐清樺",
     "time": "F234-YN322[YM]"
   },
   "1112_150213": {
@@ -34675,7 +34675,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。上課內容為：通識課程--梅竹賽介紹",
     "name": "大一體育 Physical Education",
     "num_limit": "0",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "張振興",
     "time": "F78-PE[GF]"
   },
@@ -35923,7 +35923,7 @@
     "memo": "身心障礙或持有醫院證明不宜上一般體育課者，需向體育教育中心申請統一編入「適應體育」上課。",
     "name": "體育－適應體育 Adapted Physical Education",
     "num_limit": "0",
-    "reg_num": "12",
+    "reg_num": "13",
     "teacher": "詹益欣",
     "time": "W78-PE[GF]"
   },

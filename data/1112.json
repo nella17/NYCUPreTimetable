@@ -4820,7 +4820,7 @@
     "name": "兒童物理治療學(二) Pediatric Physical Therapy (II)",
     "num_limit": "45",
     "reg_num": "43",
-    "teacher": "羅鴻基、李淑貞、莊頌音、黃湘茹、劉妍羚、徐維憶、巫俊杉、李哲緯、葉如晴",
+    "teacher": "羅鴻基、李淑貞、莊頌音、徐維憶、巫俊杉、李哲緯、葉如晴、黃湘茹、劉妍羚",
     "time": "F12-YB602[YM]"
   },
   "1112_112216": {
@@ -4916,7 +4916,7 @@
     "name": "兒童物理治療學實作 Pediatric Physical Therapy Practicum",
     "num_limit": "45",
     "reg_num": "43",
-    "teacher": "羅鴻基、李淑貞、莊頌音、黃湘茹、陳薇如、劉妍羚、徐維憶、巫俊杉、李哲緯、葉如晴",
+    "teacher": "羅鴻基、李淑貞、莊頌音、陳薇如、徐維憶、巫俊杉、李哲緯、葉如晴、黃湘茹、劉妍羚",
     "time": "F34-YB602[YM]"
   },
   "1112_112224": {
@@ -35611,7 +35611,7 @@
     "memo": "體育館B1體適能教室",
     "name": "體育－有氧舞蹈乙 Aerobic dance",
     "num_limit": "40",
-    "reg_num": "39",
+    "reg_num": "37",
     "teacher": "巫慧萍",
     "time": "F56-PE[GF]"
   },
@@ -35923,7 +35923,7 @@
     "memo": "身心障礙或持有醫院證明不宜上一般體育課者，需向體育教育中心申請統一編入「適應體育」上課。",
     "name": "體育－適應體育 Adapted Physical Education",
     "num_limit": "0",
-    "reg_num": "13",
+    "reg_num": "15",
     "teacher": "詹益欣",
     "time": "W78-PE[GF]"
   },
@@ -40656,12 +40656,12 @@
     "time": "W9abc-"
   },
   "1112_910192": {
-    "code": "SESE20140",
+    "code": "SESE10045",
     "credit": "3.00",
     "hours": "3.00",
     "id": "910192",
     "memo": "上課地點：國防大學理工學院",
-    "name": "動力學 Dynamics",
+    "name": "應用力學-動力學 Engineering Mechanics - Dynamics",
     "num_limit": "9999",
     "reg_num": "31",
     "teacher": "林聰穎",

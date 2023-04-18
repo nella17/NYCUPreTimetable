@@ -24492,12 +24492,12 @@
     "time": "F234-F106A[GF]"
   },
   "1112_534506": {
-    "code": "HKEC30016",
+    "code": "HSSC30032",
     "credit": "3.00",
     "hours": "3.00",
     "id": "534506",
     "memo": "[English Medium Course]",
-    "name": "女性主義科技研究 Feminist Technoscience Studies",
+    "name": "童年、青少年與文化 Childhood, Youth and Culture",
     "num_limit": "9999",
     "reg_num": "10",
     "teacher": "葉蔭聰",
@@ -27079,7 +27079,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "42",
+    "reg_num": "45",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -31591,7 +31591,7 @@
     "memo": "一二年級",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "陳俊太",
     "time": "Rab-SC105[GF]"
   },

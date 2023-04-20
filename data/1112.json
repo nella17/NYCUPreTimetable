@@ -15127,7 +15127,7 @@
     "memo": "1.中央研究院人文講座課程，歷史語言研究所王道還助理研究員主持授課。\n2.1112學期因應疫情採行線上教學。\n3.2023/04/06，依中研院行事曆維持正常上課。",
     "name": "人類的故事 The Story of Mankind",
     "num_limit": "35",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "王道還",
     "time": "R78-"
   },
@@ -19543,7 +19543,7 @@
     "memo": "",
     "name": "電路學 Circuit Theory",
     "num_limit": "70",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "戴亞翔",
     "time": "M56W34-CY203[GF]"
   },
@@ -19735,7 +19735,7 @@
     "memo": "",
     "name": "半導體元件及物理 Semiconductor Devices & Physics",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "陳俐吟",
     "time": "T234-CY201[GF]"
   },
@@ -21823,7 +21823,7 @@
     "memo": "B班",
     "name": "電磁學（二） Electromagnetics (II)",
     "num_limit": "70",
-    "reg_num": "69",
+    "reg_num": "68",
     "teacher": "周武清",
     "time": "T56R6-SC160[GF]"
   },
@@ -26395,7 +26395,7 @@
     "memo": "2/17、2/24、3/3交大校區上課地點為EO103，陽明校區上課地點為每週五234節於實驗大樓A205室",
     "name": "智慧醫電概論 Introduction to Intelligent Bioelectronics",
     "num_limit": "125",
-    "reg_num": "114",
+    "reg_num": "113",
     "teacher": "孫家偉、林慶波、吳育德、唐高駿、林峻立、陳冠宇、冉曉雯、張立鴻、賴穎暉、陳榮治、李博仁、林子恩、陳俐吟、江柏翰",
     "time": "F234-EO103[GF]"
   },
@@ -30643,7 +30643,7 @@
     "memo": "智能所業師課程",
     "name": "數位、AI與量子運算架構 Computing Architecture for Digital, AI and Quantum computing",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "梁伯嵩",
     "time": "Fbc-ED117[GF]"
   },
@@ -31147,7 +31147,7 @@
     "memo": "電控組；限陽明交大在職專班學生選修",
     "name": "電力電子 Power Electronics",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "23",
     "teacher": "陳鴻祺",
     "time": "Tabc-EE623[GF]"
   },
@@ -31231,7 +31231,7 @@
     "memo": "每學期3次課程，上課日暫訂為5/20(六)，詳細上課時間請留意專班網頁公告；限電資專班學生選修",
     "name": "專題研討 Seminars",
     "num_limit": "9999",
-    "reg_num": "128",
+    "reg_num": "127",
     "teacher": "李義明",
     "time": "S234567-"
   },
@@ -36739,7 +36739,7 @@
     "memo": "(大班授課)",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "120",
-    "reg_num": "88",
+    "reg_num": "87",
     "teacher": "王夏聲",
     "time": "M78R34-SA321[GF]"
   },
@@ -37831,7 +37831,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "156",
+    "reg_num": "155",
     "teacher": "光電學院",
     "time": ""
   },

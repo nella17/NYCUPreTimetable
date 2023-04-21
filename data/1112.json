@@ -5180,7 +5180,7 @@
     "name": "運動心理學 Exercise and Sport Psychology",
     "num_limit": "50",
     "reg_num": "34",
-    "teacher": "王子娟、彭涵妮",
+    "teacher": "王子娟、彭涵妮、楊長苓",
     "time": "T7-YB601[YM]"
   },
   "1112_112247": {
@@ -26443,7 +26443,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "341",
+    "reg_num": "340",
     "teacher": "資科工所",
     "time": ""
   },
@@ -30691,7 +30691,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "65",
+    "reg_num": "63",
     "teacher": "生醫工所",
     "time": ""
   },
@@ -32512,12 +32512,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "559006",
-    "memo": "",
+    "memo": "上課地點改為：台北北門校區四樓B401-1",
     "name": "台日企業專題研討 Taiwan Japan Management seminar",
     "num_limit": "60",
     "reg_num": "58",
     "teacher": "黃仕斌、鍾惠民、張家齊、蔡有光、劉興成",
-    "time": "U89-YL402[YM]"
+    "time": "U89-"
   },
   "1112_559007": {
     "code": "MGME30027",
@@ -35215,7 +35215,7 @@
     "memo": "",
     "name": "體育－棒球甲 Baseball",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "黃杉楹",
     "time": "T56-PE[GF]"
   },

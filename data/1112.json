@@ -16111,7 +16111,7 @@
     "memo": "",
     "name": "歷史學理論 The Theory of History",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "連瑞枝",
     "time": "T234-HK208[LJ]"
   },
@@ -16171,7 +16171,7 @@
     "memo": "",
     "name": "論文(一) Thesis Research(I)",
     "num_limit": "9999",
-    "reg_num": "3",
+    "reg_num": "2",
     "teacher": "人社系",
     "time": ""
   },
@@ -16279,7 +16279,7 @@
     "memo": "不接受大學部同學修課",
     "name": "客家與族群研究：經典選讀 Hakka and Ethnicity : Classic Readings",
     "num_limit": "9999",
-    "reg_num": "3",
+    "reg_num": "2",
     "teacher": "羅烈師",
     "time": "M567-HK318[LJ]"
   },
@@ -26443,7 +26443,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "340",
+    "reg_num": "339",
     "teacher": "資科工所",
     "time": ""
   },
@@ -30895,7 +30895,7 @@
     "memo": "",
     "name": "博士學位論文研究 Ph.D.Thesis Study",
     "num_limit": "9999",
-    "reg_num": "3",
+    "reg_num": "4",
     "teacher": "資訊學院博",
     "time": ""
   },
@@ -31255,7 +31255,7 @@
     "memo": "限資訊學院國防資安管理碩士在職專班學生選修；上課教室:台北北門校區第一演講廳",
     "name": "多媒體通訊系統 Multimedia Communications System",
     "num_limit": "60",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "趙禧綠",
     "time": "Rabc-TA506[BM]"
   },
@@ -31267,7 +31267,7 @@
     "memo": "限資訊學院國防資安管理碩士在職專班學生選修；上課教室:台北北門校區第一演講廳",
     "name": "電腦攻擊與防禦 The Attacks and Defense of Computers",
     "num_limit": "60",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "許富皓",
     "time": "Wabc-TA506[BM]"
   },
@@ -31279,7 +31279,7 @@
     "memo": "詳細上課時間請留意課程平台公告；限資訊學院國防資安管理碩士在職專班學生選修；上課教室:台北北門校區第一演講廳",
     "name": "專題研討 Seminar on Cybersecurity Management",
     "num_limit": "60",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "嚴力行",
     "time": "S34-TA506[BM]"
   },

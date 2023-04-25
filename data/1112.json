@@ -2540,7 +2540,7 @@
     "name": "基礎醫學總論 The Comprehensive Course of Basic Medical Science",
     "num_limit": "9999",
     "reg_num": "112",
-    "teacher": "凌憬峰、阮琪昌、張佩靖、呂春敏、陳紀如、嚴錦城、陳威儀、王琬菁、嵇達德、邱美妙",
+    "teacher": "凌憬峰、阮琪昌、陳紀如、嚴錦城、徐嘉琳、陳威儀、王琬菁、嵇達德、高正彥、邱美妙",
     "time": "Sb-YT002[YM]"
   },
   "1112_110208": {
@@ -27055,7 +27055,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "資通安全",
     "time": ""
   },
@@ -31255,7 +31255,7 @@
     "memo": "限資訊學院國防資安管理碩士在職專班學生選修；上課教室:台北北門校區第一演講廳",
     "name": "多媒體通訊系統 Multimedia Communications System",
     "num_limit": "60",
-    "reg_num": "42",
+    "reg_num": "41",
     "teacher": "趙禧綠",
     "time": "Rabc-TA506[BM]"
   },
@@ -31267,7 +31267,7 @@
     "memo": "限資訊學院國防資安管理碩士在職專班學生選修；上課教室:台北北門校區第一演講廳",
     "name": "電腦攻擊與防禦 The Attacks and Defense of Computers",
     "num_limit": "60",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "許富皓",
     "time": "Wabc-TA506[BM]"
   },
@@ -31279,7 +31279,7 @@
     "memo": "詳細上課時間請留意課程平台公告；限資訊學院國防資安管理碩士在職專班學生選修；上課教室:台北北門校區第一演講廳",
     "name": "專題研討 Seminar on Cybersecurity Management",
     "num_limit": "60",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "嚴力行",
     "time": "S34-TA506[BM]"
   },
@@ -32275,7 +32275,7 @@
     "memo": "",
     "name": "民法物權 Civil Law: Property",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "陳在方",
     "time": "R567-MB1069[GF]"
   },

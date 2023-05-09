@@ -2048,7 +2048,7 @@
     "name": "生理學 Physiology",
     "num_limit": "9999",
     "reg_num": "185",
-    "teacher": "吳鈺琳、黃娟娟、阮琪昌、李怡萱、林惠菁、張原翊、董萃英、舒宜芳、蔡明村、程子衍、黎思源、曾偉誠",
+    "teacher": "吳鈺琳、黃娟娟、阮琪昌、李怡萱、林惠菁、張原翊、董萃英、舒宜芳、蔡明村、程子珩、黎思源、曾偉誠",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
   "1112_110164": {
@@ -2564,7 +2564,7 @@
     "name": "泌尿學 Urology",
     "num_limit": "9999",
     "reg_num": "152",
-    "teacher": "林子平、黃志賢、林登龍、陳光國、張心湜、盧星華、邱文祥、吳東霖、劉裕明、林志杰、范玉華、黃奕燊、魏子鈞、黃子豪、顧明軒、黃逸修、鍾孝仁",
+    "teacher": "林子平、黃志賢、林登龍、陳光國、張心湜、盧星華、邱文祥、吳東霖、劉裕明、林志杰、范玉華、黃奕燊、魏子鈞、黃子豪、顧明軒、蔡承翰、黃逸修、鍾孝仁",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
   "1112_110210": {
@@ -5410,6 +5410,30 @@
     "reg_num": "42",
     "teacher": "羅鴻基、施怡芬、陳振昇",
     "time": "R9a-YB603[YM]"
+  },
+  "1112_112270": {
+    "code": "BEPT00003",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "112270",
+    "memo": "此為院系所特色短期交換生計畫開設之課程。",
+    "name": "國際學生臨床輔具見習 International Student Clinical Clerkship in Assistive Technology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林吟亮、李淑貞、周立偉、李惠敏",
+    "time": "W5678-"
+  },
+  "1112_112271": {
+    "code": "BEPT00004",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "112271",
+    "memo": "此為院系所特色短期交換生計畫課程。",
+    "name": "國際學生物理治療臨床見習 International Student Clinical Clerkship in Physical Therapy",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林吟亮、周立偉、黃安華、方婉羽",
+    "time": "W125678-"
   },
   "1112_112300": {
     "code": "BEIR10019",
@@ -11024,7 +11048,7 @@
     "name": "物理治療實證醫學 Evidence-based Practice in Physical Therapy",
     "num_limit": "40",
     "reg_num": "20",
-    "teacher": "李雪楨、王子娟、王瑞瑤、施怡芬、楊雅如、穆佩芬、李淑貞、蔡美文、周立偉、羅鴻基、陳喬男、黃崇舜、林吟亮、吳慧敏、黃安華",
+    "teacher": "李雪楨、王子娟、王瑞瑤、施怡芬、楊雅如、穆佩芬、李淑貞、蔡美文、游忠煌、周立偉、羅鴻基、陳喬男、黃崇舜、林吟亮、吳慧敏、黃安華",
     "time": "T234-YB603[YM]"
   },
   "1112_132401": {
@@ -19087,7 +19111,7 @@
     "memo": "",
     "name": "專題演講 Seminar",
     "num_limit": "9999",
-    "reg_num": "129",
+    "reg_num": "130",
     "teacher": "譚至善",
     "time": "F34-ED220[GF]"
   },
@@ -33055,7 +33079,7 @@
     "memo": "授課方式：視訊同步遠距。上課教室：陽明校區：教學大樓301；交大校區：綜合一館103",
     "name": "數據與日常生活 Data and Everyday Life",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "彭松嶽",
     "time": "R34-A103[GF],R34-YT301[YM]"
   },
@@ -34291,7 +34315,7 @@
     "memo": "",
     "name": "日文(六) Japanese(Ⅵ)",
     "num_limit": "45",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "賴郁芳",
     "time": "R56-A507[GF]"
   },
@@ -35383,7 +35407,7 @@
     "memo": "",
     "name": "游泳 swim",
     "num_limit": "40",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "徐國陽",
     "time": "F34-PE[GF]"
   },
@@ -35467,7 +35491,7 @@
     "memo": "",
     "name": "游泳 swim",
     "num_limit": "40",
-    "reg_num": "31",
+    "reg_num": "32",
     "teacher": "徐國陽",
     "time": "F12-PE[GF]"
   },
@@ -37147,7 +37171,7 @@
     "memo": "",
     "name": "家扶遊戲奇積—服務學習(二) KIDtopia- Service Learning (II)",
     "num_limit": "30",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "陳鏗任",
     "time": "Wab-SC105[GF]"
   },
@@ -37171,7 +37195,7 @@
     "memo": "",
     "name": "永續教育與策展行動—服務學習(二) Social Education and Curation for Sustainable Development- Servicing Learning II",
     "num_limit": "30",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "曾聖凱",
     "time": "Mn56-EA101[GF]"
   },

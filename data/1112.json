@@ -5411,30 +5411,6 @@
     "teacher": "羅鴻基、施怡芬、陳振昇",
     "time": "R9a-YB603[YM]"
   },
-  "1112_112270": {
-    "code": "BEPT00003",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "112270",
-    "memo": "此為院系所特色短期交換生計畫開設之課程。",
-    "name": "國際學生臨床輔具見習 International Student Clinical Clerkship in Assistive Technology",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "林吟亮、李淑貞、周立偉、李惠敏",
-    "time": "W5678-"
-  },
-  "1112_112271": {
-    "code": "BEPT00004",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "112271",
-    "memo": "此為院系所特色短期交換生計畫課程。",
-    "name": "國際學生物理治療臨床見習 International Student Clinical Clerkship in Physical Therapy",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "林吟亮、周立偉、黃安華、方婉羽",
-    "time": "W125678-"
-  },
   "1112_112300": {
     "code": "BEIR10019",
     "credit": "2.00",
@@ -37318,6 +37294,30 @@
     "reg_num": "30",
     "teacher": "蕭智尹",
     "time": "R34n-EE112[GF]"
+  },
+  "1112_577002": {
+    "code": "IAAE00003",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "577002",
+    "memo": "此為物輔系-院系所特色來校短期交換計畫課程",
+    "name": "國際學生臨床輔具見習 International Student Clinical Clerkship in Assistive Technology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林吟亮、李淑貞、周立偉、李惠敏",
+    "time": "W12-"
+  },
+  "1112_577003": {
+    "code": "IAAE00004",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "577003",
+    "memo": "此為物輔系-院系所特色來校短期交換計畫課程",
+    "name": "國際學生物理治療臨床見習 International Student Clinical Clerkship in Physical Therapy",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林吟亮、周立偉、黃安華、方婉羽",
+    "time": "W5678-"
   },
   "1112_579000": {
     "code": "GECL00010",

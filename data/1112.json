@@ -571,7 +571,7 @@
     "memo": "",
     "name": "胸腔科臨床實習(一) Clerkship in Chest Medicine",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "26",
     "teacher": "內科學科",
     "time": ""
   },
@@ -6619,7 +6619,7 @@
     "memo": "",
     "name": "病理學實驗 Pathology Laboratory",
     "num_limit": "156",
-    "reg_num": "151",
+    "reg_num": "152",
     "teacher": "李芬瑤、劉雯玲",
     "time": "T5678-YT002[YM]"
   },
@@ -37303,7 +37303,7 @@
     "memo": "此為物輔系-院系所特色來校短期交換計畫課程",
     "name": "國際學生臨床輔具見習 International Student Clinical Clerkship in Assistive Technology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "林吟亮、李淑貞、周立偉、李惠敏",
     "time": "W12-"
   },
@@ -37315,7 +37315,7 @@
     "memo": "此為物輔系-院系所特色來校短期交換計畫課程",
     "name": "國際學生物理治療臨床見習 International Student Clinical Clerkship in Physical Therapy",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "林吟亮、周立偉、黃安華、方婉羽",
     "time": "W5678-"
   },

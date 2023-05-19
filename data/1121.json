@@ -1964,7 +1964,7 @@
     "name": "成人護理學實習Ⅰ Adult Nursing PracticeⅠ",
     "num_limit": "254",
     "reg_num": "0",
-    "teacher": "陳俞琪、黃淑鶴、侯宜菁、陳律言、楊曼華、張議文、莊雯如、李雅萍、林曼玲、童惠芳、連如玉、呂翠萍、余白妃、張嘉琪、徐裳訢、塗勝翔、吳碧珠、郭憶文",
+    "teacher": "陳俞琪、黃淑鶴、侯宜菁、陳律言、楊曼華、張議文、莊雯如、李雅萍、溫明寰、林曼玲、童惠芳、王佳雯、王佩琮、連如玉、呂翠萍、余白妃、張嘉琪、徐裳訢、楊翎玉、許鈺絹、蘇惠文、塗勝翔、吳碧珠、郭憶文",
     "time": "M12345678T12345678W12345678-"
   },
   "1121_111806": {
@@ -2000,7 +2000,7 @@
     "name": "成人護理學實習Ⅱ Adult Nursing PracticeⅡ",
     "num_limit": "254",
     "reg_num": "0",
-    "teacher": "陳俞琪、廖媛美、黃淑鶴、侯宜菁、陳律言、楊曼華、張議文、廖淑櫻、莊雯如、李雅萍、林曼玲、童惠芳、許志忠、連如玉、呂翠萍、余白妃、張嘉琪、徐裳訢、塗勝翔、吳碧珠、郭憶文",
+    "teacher": "陳俞琪、廖媛美、黃淑鶴、侯宜菁、陳律言、楊曼華、張議文、廖淑櫻、莊雯如、李雅萍、溫明寰、林曼玲、童惠芳、王佳雯、王佩琮、許志忠、連如玉、呂翠萍、余白妃、張嘉琪、徐裳訢、楊翎玉、許鈺絹、蘇惠文、塗勝翔、吳碧珠、郭憶文",
     "time": "M12345678T12345678W12345678-"
   },
   "1121_111809": {
@@ -2060,7 +2060,7 @@
     "name": "精神衛生護理學實習 Psychiatric Mental Health Nursing Practice",
     "num_limit": "254",
     "reg_num": "0",
-    "teacher": "楊秋月、許樹珍、劉佩玟、王莉茹、鄭淑琴、劉雅綾",
+    "teacher": "楊秋月、許樹珍、張阿雪、劉佩玟、王莉茹、鄭淑琴、李昱穎、劉雅綾",
     "time": "M123456789T123456789W123456789-"
   },
   "1121_111815": {
@@ -4975,7 +4975,7 @@
     "memo": "醫二A",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "61",
     "teacher": "游麗如、徐子涵、王毓瑄、陳美瑜、鄭子豪、郭津岑、許翺麟、許玉璇",
     "time": "M5678-YEC309[YM]"
   },
@@ -5011,7 +5011,7 @@
     "memo": "醫學二A",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "62",
     "teacher": "游麗如、徐子涵、王毓瑄、陳美瑜、鄭子豪、郭津岑、許翺麟、許玉璇",
     "time": "F5678-YEC309[YM]"
   },
@@ -5154,8 +5154,8 @@
     "id": "113400",
     "memo": "請依醫學系PBL課程上課，不開放外系選修。",
     "name": "病理學 Pathology",
-    "num_limit": "9999",
-    "reg_num": "0",
+    "num_limit": "195",
+    "reg_num": "189",
     "teacher": "李芬瑤、許志怡、葉奕成、杭仁釩、梁文議、郭盈汝、林士傑、張富邦、劉雯玲",
     "time": "T5678-YX406[YM]"
   },
@@ -5166,8 +5166,8 @@
     "id": "113401",
     "memo": "請依醫學系PBL課程上課，不開放外系選修。",
     "name": "病理學實驗 Pathology Laboratory",
-    "num_limit": "9999",
-    "reg_num": "0",
+    "num_limit": "195",
+    "reg_num": "189",
     "teacher": "李芬瑤、劉雯玲",
     "time": "T5678-YX406[YM]"
   },
@@ -5179,7 +5179,7 @@
     "memo": "優先護理、藥學，次醫技、醫放、物輔，需先修解剖學 ，生理學等相關科目。",
     "name": "應用病理學 Applied Pathology",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "70",
     "teacher": "李芬瑤、許志怡、葉奕成、杭仁釩、梁文議、楊靜芬、郭盈汝、林士傑、陳妍英、張富邦、林士堯",
     "time": "T34-YX406[YM]"
   },
@@ -5190,8 +5190,8 @@
     "id": "113403",
     "memo": "優先醫技、醫放、物輔，次護理、藥學；需先修解剖學 ，生理學等相關科目。",
     "name": "病理學 Pathology",
-    "num_limit": "115",
-    "reg_num": "0",
+    "num_limit": "110",
+    "reg_num": "104",
     "teacher": "李芬瑤、許志怡、葉奕成、杭仁釩、梁文議、楊靜芬、郭盈汝、林士傑、陳妍英、張富邦、林士堯",
     "time": "F56-YX216[YM]"
   },
@@ -7096,7 +7096,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "130825",
-    "memo": "單周上課",
+    "memo": "雙周上課",
     "name": "職場健康管理 Occupational Health Management",
     "num_limit": "9999",
     "reg_num": "0",
@@ -7567,7 +7567,7 @@
     "memo": "必選",
     "name": "腦科學實習 Experimental Brain Science ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "鄭菡若、陳麗芬、楊定一、楊靜修、盧俊良、王署君、蔡金吾、林嘉澍、陳世彬、楊智傑、柯立偉、鄭彥甫、侯珮珊、李怡慧、蘇東平、尼大衛",
     "time": "Un-YL845[YM]"
   },
@@ -7603,7 +7603,7 @@
     "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
     "name": "神經資訊造影概論 Introduction to Neuroinformatics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "楊智傑",
     "time": "T2-YL839[YM]"
   },
@@ -7627,7 +7627,7 @@
     "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
     "name": "實驗神經概論 Introduction to Experimental Neuroscience",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "蔡金吾、楊定一、楊靜修、鄭菡若、洪成志",
     "time": "T3-YL839[YM]"
   },
@@ -7639,7 +7639,7 @@
     "memo": "[English Medium Course]腦科所碩士班",
     "name": "專題討論(碩) Seminar",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "楊智傑、陳麗芬、楊定一、楊靜修、王署君、蔡金吾、鄭彥甫、鄭菡若、李怡慧、劉祐岑",
     "time": "T56-YL402[YM]"
   },
@@ -7699,7 +7699,7 @@
     "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
     "name": "臨床腦疾病概論 Clinical Introduction to Brain Disease",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "李怡慧、盧俊良、陳世彬、楊智傑、吳昭慶、廖翊筑、李正達、王嚴鋒、劉祐岑",
     "time": "T4-YL839[YM]"
   },
@@ -7833,7 +7833,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "喬芷、林文旭、藍凡耘、何薇莉",
-    "time": "W12-YS405[YM]"
+    "time": "W56-YS405[YM]"
   },
   "1121_131205": {
     "code": "MDIH30002",
@@ -7868,7 +7868,7 @@
     "name": "健康經濟學 Health Economics",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "蒲正筠",
+    "teacher": "蒲正筠、周穎政",
     "time": "W34n-YS405[YM]"
   },
   "1121_131211": {
@@ -7881,7 +7881,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "衛雅樂、王先逸",
-    "time": "W56-YS405[YM]"
+    "time": "M56-YS405[YM]"
   },
   "1121_131212": {
     "code": "MDIH30022",
@@ -8038,6 +8038,18 @@
     "reg_num": "0",
     "teacher": "黃宣穎",
     "time": "T78-YS405[YM]"
+  },
+  "1121_131227": {
+    "code": "MDIH30024",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "131227",
+    "memo": "[English Medium Course]",
+    "name": "環境衛生學 Environmental Health",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "張榮偉、紀凱獻",
+    "time": ""
   },
   "1121_131300": {
     "code": "MDPH30021",
@@ -8995,7 +9007,7 @@
     "memo": "",
     "name": "衛生行政與健康保險 Health Policy and Health Insurance",
     "num_limit": "35",
-    "reg_num": "31",
+    "reg_num": "66",
     "teacher": "許銘能、吳肖琪、李玉春、楊靖慧、黃彥芳、廖薰香、蔡淑鈴、吳全峰、張淑卿、廖家鼎、李巧玲",
     "time": "R56-YK533[YM]"
   },
@@ -9007,7 +9019,7 @@
     "memo": "星期一567在圖資405，星期三567在守仁105",
     "name": "高等藥物治療學 Advanced Pharmacotherapy",
     "num_limit": "40",
-    "reg_num": "31",
+    "reg_num": "66",
     "teacher": "張豫立、楊振昌、張世霖、林邑璁、張瑞文、賴峻毅、姜紹青、陳育民、蘇建維、曾令民、蘇東平、陳肇文、朱佩欣、王苾如、唐德成、高志平、宋思賢、王嚴鋒、許百豐、陳香齡、宋俊松、蘇剛正、周建成、楊凱鈞、陳寬軒、童聖鈞、余聲隆、陳柏瑋、翁如潔、吳建興、黃瑩瑀、樊心蓉、林子超、許櫻寶、王笙帆、盧孟穗、陳俊豪、鄭乃銘、黃鈴茹、江東鴻、王浩元、蔣漢琳、楊子涵、陳佳慧、林家潔、王明業、黃聿璿、盧志嘉、王怡凱、吳汶儒、許越涵、趙凡琇、林韋綺、李珮甄、馮嘉毅、劉峻宇、黃逸修、曾偉誠",
     "time": "M567-YL405[YM],W567-YR105[YM]"
   },
@@ -9019,7 +9031,7 @@
     "memo": "",
     "name": "細胞色素P450藥物代謝特論 Special topics on cytochrome P450 in drug metabolism",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "翁芸芳、常敏之、蔡世峯、王鴻展",
     "time": "F56-YK436[YM]"
   },
@@ -9031,7 +9043,7 @@
     "memo": "課程教室: 台北榮總中正樓藥學部第一會議室",
     "name": "用藥安全與醫藥政策特論 Medication Safety and Medical Policy",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "張豫立、陳育群、李偉強、黃以信、李友專、余萬能、陳德禮、許家禎、周千瀅、陳寬軒、朱慶榮、蔡維禎",
     "time": "T34-"
   },
@@ -9043,7 +9055,7 @@
     "memo": "",
     "name": "藥事經濟學 Pharmacoeconomics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "王孟廷",
     "time": "W89-YK533[YM]"
   },
@@ -9067,7 +9079,7 @@
     "memo": "",
     "name": "臨床藥學專科實習(二) Clinical Pharmacy Practice (Ⅱ)",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "張豫立、陳涵栩、王培寧、蔡佩君、王復德、彭殿王、陳明晃、周月卿、王鑑瀛、陳明德、周中偉、趙大中、宋俊松、關尚勇、吳承學、鄒嘉玲、黃偉銘、許家禎、周千瀅、陳寬軒、王笙帆、陳倩、黃鈴茹、江東鴻、周睿信、王怡凱、黃金洲",
     "time": "MnTnWnRnFn-"
   },
@@ -9079,7 +9091,7 @@
     "memo": "乙丙組學生於圖資405教室上課，甲組學生請勿選擇此堂[English Medium Course]",
     "name": "專題討論 Seminar",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "東雅惠、王孟廷、許銘能、姜紹青、周月卿、張豫立、許家禎、周千瀅、陳寬軒、王笙帆",
     "time": "F34-YL402[YM]"
   },
@@ -9187,7 +9199,7 @@
     "memo": "限乙丙組同學修課，丙組同學為必修\n",
     "name": "藥物流行病學 Pharmacoepidemiology",
     "num_limit": "40",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "東雅惠、王孟廷、許家禎、周千瀅、黃彥銘、黃莉茵、黃薇伊、謝斯婷",
     "time": "T56-YL405[YM]"
   },
@@ -13739,6 +13751,42 @@
     "teacher": "黃奇英、李光申",
     "time": "S4n56789U4n56789-YR105[YM]"
   },
+  "1121_150304": {
+    "code": "LSMB30003",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "150304",
+    "memo": "實際上課日期時間另行通知\n本課程與管院EMBA學生共同修習",
+    "name": "全球經濟視野 Global Economic Prospects",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "溫金豐、鍾惠民、邱裕鈞",
+    "time": "Scd-TB307[BM]"
+  },
+  "1121_150305": {
+    "code": "LSMB30021",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "150305",
+    "memo": "實際上課日期時間另行通知\n本課程與管院EMBA學生共同修習",
+    "name": "行銷策略與管理 Marketing Strategies and Management",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "張家齊、楊智傑、祝鳳岡",
+    "time": "Fab-M105[GF]"
+  },
+  "1121_150306": {
+    "code": "LSMB30018",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "150306",
+    "memo": "實際上課日期時間另行通知\n本課程與管院EMBA學生共同修習",
+    "name": "領導溝通與健康暨醫療產業管理 Communication leadership and  the management of healthcare industry",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "鍾惠民、蔚順華、黃仕斌、張家齊",
+    "time": "Myz-TB307[BM]"
+  },
   "1121_161000": {
     "code": "GECE00099",
     "credit": "2.00",
@@ -13928,7 +13976,7 @@
     "name": "經濟學 Economics",
     "num_limit": "0",
     "reg_num": "0",
-    "teacher": "蒲正筠、周穎政、梁立霖",
+    "teacher": "蒲正筠、周穎政",
     "time": "R34-YT305[YM]"
   },
   "1121_161025": {
@@ -14080,9 +14128,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161038",
-    "memo": "",
+    "memo": "1.中央研究院中國文哲研究所陳瑋芬研究員主持授課。 2.112-1學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：文明的光與影 The guidance of career planning by academic masters：The light and shadow of Civilization",
-    "num_limit": "0",
+    "num_limit": "5",
     "reg_num": "0",
     "teacher": "陳瑋芬",
     "time": "R56-"
@@ -14370,7 +14418,7 @@
     "id": "161070",
     "memo": "",
     "name": "東亞近現代史 A Modern History of East-asia",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "嚴曉珮",
     "time": "R56-YT104[YM]"
@@ -15006,7 +15054,7 @@
     "id": "310013",
     "memo": "",
     "name": "榮格與心靈 Jung and Psyche",
-    "num_limit": "40",
+    "num_limit": "25",
     "reg_num": "0",
     "teacher": "劉大和",
     "time": "W234-HK106[LJ]"
@@ -15801,7 +15849,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "莊士卿",
-    "time": "T56R34-"
+    "time": "R34-ED305[GF],T56-SA215[GF]"
   },
   "1121_410014": {
     "code": "BTBT10034",
@@ -16048,9 +16096,9 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "410035",
-    "memo": "",
+    "memo": "生科系優先、限修過或正在選修微生物學或醫學微生物者",
     "name": "微生物學實驗 Microbiology Lab.",
-    "num_limit": "45",
+    "num_limit": "35",
     "reg_num": "0",
     "teacher": "曾慶平、麥如村",
     "time": "Wn56-"
@@ -19003,7 +19051,7 @@
     "memo": "",
     "name": "電子學(一) Electronic(I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "劉柏村",
     "time": "M78R34-CY202[GF]"
   },
@@ -19015,7 +19063,7 @@
     "memo": "上課教室:ED320",
     "name": "電子學實驗(一) Electronic Lab. (I)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "林容瑋",
     "time": "Rabcd-"
   },
@@ -19027,7 +19075,7 @@
     "memo": "",
     "name": "電磁學(一) Electromagnetics(I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "吳致盛",
     "time": "T5R78-CY201[GF]"
   },
@@ -19038,8 +19086,8 @@
     "id": "515408",
     "memo": "線上同步教學",
     "name": "微分方程 Differential Equations",
-    "num_limit": "100",
-    "reg_num": "0",
+    "num_limit": "9999",
+    "reg_num": "38",
     "teacher": "陳智弘",
     "time": "M34W2-EO103[GF]"
   },
@@ -19051,7 +19099,7 @@
     "memo": "光電系學生必修",
     "name": "服務學習(二) Service Learning II",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "高宗聖、鄒志偉、黃嘉彥、張祐嘉",
     "time": "F5-CY202[GF]"
   },
@@ -19063,7 +19111,7 @@
     "memo": "",
     "name": "光子學(二) Photonics(II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "高宗聖",
     "time": "M8W34-CY203[GF]"
   },
@@ -19075,7 +19123,7 @@
     "memo": "",
     "name": "光子學實驗 (二) Photonics Lab.(II) ",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "高宗聖",
     "time": "Tabcd-EO115[GF]"
   },
@@ -19087,7 +19135,7 @@
     "memo": "",
     "name": "光子學實驗 (二) Photonics Lab.(II) ",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "高宗聖",
     "time": "Rabcd-EO115[GF]"
   },
@@ -19099,7 +19147,7 @@
     "memo": "[English Medium Course]",
     "name": "訊號與系統 Signals and Systems",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "鄒志偉",
     "time": "T5R67-EO103[GF]"
   },
@@ -19111,7 +19159,7 @@
     "memo": "",
     "name": "光電工程專題(一) Special Project of Photonics (I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "光電系",
     "time": "S567-"
   },
@@ -19135,7 +19183,7 @@
     "memo": "",
     "name": "光電工程專題(三) Special Project of Photonics (III)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "光電系",
     "time": "S234-"
   },
@@ -20793,7 +20841,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳三元",
-    "time": "M34R3-EF201[GF]"
+    "time": "M234-EF201[GF]"
   },
   "1121_516312": {
     "code": "ENMS20008",
@@ -24741,7 +24789,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "簡鳳村",
-    "time": "F7-ED302[GF],W56-ED303[GF]"
+    "time": "T234-ED525[GF]"
   },
   "1121_535208": {
     "code": "EEIE30010",
@@ -24750,10 +24798,10 @@
     "id": "535208",
     "memo": "",
     "name": "半導體物理及元件(一) Semiconductor Physics and Devices (I)",
-    "num_limit": "80",
+    "num_limit": "60",
     "reg_num": "0",
     "teacher": "簡昭欣",
-    "time": "M34W7-ED116[GF]"
+    "time": "W7-ED116[GF],M34-ED301[GF]"
   },
   "1121_535209": {
     "code": "EEIE30070",
@@ -24786,7 +24834,7 @@
     "id": "535211",
     "memo": "[English Medium Course]",
     "name": "二維半導體概論 Introduction to 2D Semiconductors",
-    "num_limit": "9999",
+    "num_limit": "60",
     "reg_num": "0",
     "teacher": "連德軒",
     "time": "M56-ED101[GF],R4-ED301[GF]"
@@ -24897,7 +24945,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林柏宏",
-    "time": "M567-ED220[GF]"
+    "time": "M567-EDB06[GF]"
   },
   "1121_535221": {
     "code": "EEIE30021",
@@ -24906,7 +24954,7 @@
     "id": "535221",
     "memo": "",
     "name": "射頻積體電路 Radio-Frequency Integrated Circuits",
-    "num_limit": "9999",
+    "num_limit": "60",
     "reg_num": "0",
     "teacher": "郭建男",
     "time": "F234-ED101[GF]"
@@ -24918,7 +24966,7 @@
     "id": "535222",
     "memo": "",
     "name": "類比積體電路 Analog Integrated Circuits",
-    "num_limit": "9999",
+    "num_limit": "100",
     "reg_num": "0",
     "teacher": "陳巍仁",
     "time": "M34-ED219[GF],R7-ED220[GF]"
@@ -24964,12 +25012,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535226",
-    "memo": "",
+    "memo": "上課教室：ED417B",
     "name": "系統晶片設計 SOC Design",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "賴瑾",
+    "time": "W678-"
   },
   "1121_535227": {
     "code": "EEIE30014",
@@ -25006,6 +25054,66 @@
     "reg_num": "0",
     "teacher": "趙家佐",
     "time": "R789-EDB27[GF]"
+  },
+  "1121_535234": {
+    "code": "EEIE30047",
+    "credit": "3.00",
+    "hours": "4.00",
+    "id": "535234",
+    "memo": "",
+    "name": "計算機輔助設計特論 Special Topics in Computer Aided Design",
+    "num_limit": "85",
+    "reg_num": "0",
+    "teacher": "劉建男",
+    "time": "M34-ED116[GF],W34-ED219[GF]"
+  },
+  "1121_535235": {
+    "code": "EEIE30077",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "535235",
+    "memo": "",
+    "name": "深度學習 Deep Learning",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "張添烜",
+    "time": "M5W78-ED301[GF]"
+  },
+  "1121_535236": {
+    "code": "EEIE30051",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "535236",
+    "memo": "",
+    "name": "資料轉換積體電路 Data Conversion Integrated Circuits",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "吳介琮",
+    "time": "M2T2W2-ED219[GF]"
+  },
+  "1121_535237": {
+    "code": "EEIE30068",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "535237",
+    "memo": "",
+    "name": "影像處理 Image Processing",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "王聖智",
+    "time": "M56R7-ED525[GF]"
+  },
+  "1121_535238": {
+    "code": "EEIE30038",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "535238",
+    "memo": "",
+    "name": "矽奈米元件及物理 Silicon Nanometer Devices and Physics",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蘇彬",
+    "time": "R78-ED116[GF],T3-ED302[GF]"
   },
   "1121_535300": {
     "code": "EECN30046",
@@ -26383,7 +26491,7 @@
     "memo": "",
     "name": "專題研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "范倫達",
     "time": ""
   },
@@ -26395,7 +26503,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "45",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -26586,8 +26694,8 @@
     "id": "535951",
     "memo": "[English Medium Course][Core Course for Master student]",
     "name": "學位論文研究 Thesis",
-    "num_limit": "15",
-    "reg_num": "0",
+    "num_limit": "20",
+    "reg_num": "16",
     "teacher": "半導體境外",
     "time": ""
   },
@@ -30093,7 +30201,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "許雲翔、蕭振宇",
-    "time": "F678-"
+    "time": "F678-EDB27[GF]"
   },
   "1121_539006": {
     "code": "IIPS30016",
@@ -30260,7 +30368,7 @@
     "name": "生醫工程特論 Special Topics on Biomedical Engineering",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳冠宇、蔡德明、陳榮治、李博仁",
+    "teacher": "孫家偉",
     "time": "W56-ED103[GF]"
   },
   "1121_545458": {
@@ -30403,7 +30511,7 @@
     "memo": "",
     "name": "專題研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "范倫達",
     "time": ""
   },
@@ -32512,7 +32620,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561038",
-    "memo": "",
+    "memo": "授課老師：林基興老師 (聘請中)",
     "name": "知識融通：當代科技的健康效應 Consilience: Health Effects of Contemporary Technologies",
     "num_limit": "25",
     "reg_num": "0",
@@ -32524,7 +32632,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561039",
-    "memo": "",
+    "memo": "授課老師：林基興老師 (聘請中)",
     "name": "知識融通：當代科技的健康效應 Consilience: Health Effects of Contemporary Technologies",
     "num_limit": "37",
     "reg_num": "0",
@@ -32704,7 +32812,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561054",
-    "memo": "資工系、資管系學生宜自行修習該系之相關大數據課程",
+    "memo": "授課老師：白姝玉老師 (聘請中)；資工系、資管系學生宜修習該系之相關大數據課程",
     "name": "大數據分析入門與實務研討 Basic and Practice of Big Data Analytics",
     "num_limit": "37",
     "reg_num": "0",
@@ -33285,7 +33393,7 @@
     "num_limit": "25",
     "reg_num": "0",
     "teacher": "張月菁",
-    "time": "R56-"
+    "time": "R56-A309[GF]"
   },
   "1121_562018": {
     "code": "GELT00003",
@@ -33861,7 +33969,7 @@
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "馮秋玉",
-    "time": "W34-A502[GF]"
+    "time": "R34-A310[GF]"
   },
   "1121_562067": {
     "code": "GELT10008",
@@ -33909,7 +34017,7 @@
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "陳曉貞",
-    "time": "M56-A502[GF]"
+    "time": "M56-A501[GF]"
   },
   "1121_562071": {
     "code": "GELT10009",
@@ -33921,19 +34029,19 @@
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "賴郁芳",
-    "time": "M78-A501[GF]"
+    "time": "T78-A308[GF]"
   },
   "1121_562072": {
-    "code": "GELT10009",
+    "code": "GELT20016",
     "credit": "2.00",
     "hours": "2.00",
     "id": "562072",
     "memo": "",
-    "name": "日文(二) Japanese(II)",
+    "name": "日文(五) Japanese(V)",
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "黃聖文",
-    "time": "Mab-A502[GF]"
+    "time": "M56-A502[GF]"
   },
   "1121_562073": {
     "code": "GELT10009",
@@ -33948,36 +34056,36 @@
     "time": "W12-A308[GF]"
   },
   "1121_562074": {
-    "code": "GELT10009",
+    "code": "GELT20017",
     "credit": "2.00",
     "hours": "2.00",
     "id": "562074",
     "memo": "",
-    "name": "日文(二) Japanese(II)",
+    "name": "日文(四) Japanese(IV)",
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "周雅玲",
     "time": "W34-A501[GF]"
   },
   "1121_562075": {
-    "code": "GELT10009",
+    "code": "GELT20017",
     "credit": "2.00",
     "hours": "2.00",
     "id": "562075",
     "memo": "",
-    "name": "日文(二) Japanese(II)",
+    "name": "日文(四) Japanese(IV)",
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "馮秋玉",
-    "time": "W56-A502[GF]"
+    "time": "R56-A310[GF]"
   },
   "1121_562076": {
-    "code": "GELT20014",
+    "code": "GELT10009",
     "credit": "2.00",
     "hours": "2.00",
     "id": "562076",
     "memo": "",
-    "name": "日文(三) Japanese(III)",
+    "name": "日文(二) Japanese(II)",
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "賴薇如",
@@ -34008,12 +34116,12 @@
     "time": "R78-A502[GF]"
   },
   "1121_562079": {
-    "code": "GELT20017",
+    "code": "GELT20014",
     "credit": "2.00",
     "hours": "2.00",
     "id": "562079",
     "memo": "",
-    "name": "日文(四) Japanese(IV)",
+    "name": "日文(三) Japanese(III)",
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "洪淑娟",
@@ -34029,19 +34137,19 @@
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "賴郁芳",
-    "time": "M56-A501[GF]"
+    "time": "T56-A308[GF]"
   },
   "1121_562081": {
-    "code": "GELT20016",
+    "code": "GELT10009",
     "credit": "2.00",
     "hours": "2.00",
     "id": "562081",
     "memo": "",
-    "name": "日文(五) Japanese(V)",
+    "name": "日文(二) Japanese(II)",
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "詹兆雯",
-    "time": "T56-A308[GF]"
+    "time": "T56-A315[GF]"
   },
   "1121_562082": {
     "code": "GELT20015",
@@ -35836,132 +35944,132 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563121",
-    "memo": "第一週上課集合地點為活動中心綜合球場。",
+    "memo": "第一週上課集合地點為陽明校區活動中心綜合球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "陳厚諭",
+    "time": "T78-PhE[YM]"
   },
   "1121_563122": {
     "code": "GEPE00001",
     "credit": ".00",
     "hours": "2.00",
     "id": "563122",
-    "memo": "第一週上課集合地點為活動中心綜合球場。",
+    "memo": "第一週上課集合地點為陽明校區山下網球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "林正仰",
+    "time": "T78-PhE[YM]"
   },
   "1121_563123": {
     "code": "GEPE00001",
     "credit": ".00",
     "hours": "2.00",
     "id": "563123",
-    "memo": "第一週上課集合地點為活動中心綜合球場。",
+    "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "藍于青",
+    "time": "F56-PhE[YM]"
   },
   "1121_563124": {
     "code": "GEPE00001",
     "credit": ".00",
     "hours": "2.00",
     "id": "563124",
-    "memo": "第一週上課集合地點為活動中心綜合球場。",
+    "memo": "第一週上課集合地點為陽明校區活動中心綜合球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "張耀庭",
+    "time": "F78-PhE[YM]"
   },
   "1121_563125": {
     "code": "GEPE00001",
     "credit": ".00",
     "hours": "2.00",
     "id": "563125",
-    "memo": "第一週上課集合地點為活動中心綜合球場。",
+    "memo": "第一週上課集合地點為陽明校區山下排球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "陳厚諭",
+    "time": "T56-PhE[YM]"
   },
   "1121_563126": {
     "code": "GEPE00001",
     "credit": ".00",
     "hours": "2.00",
     "id": "563126",
-    "memo": "第一週上課集合地點為活動中心綜合球場。",
+    "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "林昭光",
+    "time": "T12-PhE[YM]"
   },
   "1121_563127": {
     "code": "GEPE00001",
     "credit": ".00",
     "hours": "2.00",
     "id": "563127",
-    "memo": "第一週上課集合地點為活動中心綜合球場。",
+    "memo": "第一週上課集合地點為陽明校區活動中心心肺功能室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "徐煒杰",
+    "time": "M56-PhE[YM]"
   },
   "1121_563128": {
     "code": "GEPE00001",
     "credit": ".00",
     "hours": "2.00",
     "id": "563128",
-    "memo": "第一週上課集合地點為活動中心綜合球場。",
+    "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "徐煒杰",
+    "time": "M12-PhE[YM]"
   },
   "1121_563129": {
     "code": "GEPE00001",
     "credit": ".00",
     "hours": "2.00",
     "id": "563129",
-    "memo": "第一週上課集合地點為活動中心綜合球場。",
+    "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "黃中興",
+    "time": "T34-PhE[YM]"
   },
   "1121_563130": {
     "code": "GEPE00001",
     "credit": ".00",
     "hours": "2.00",
     "id": "563130",
-    "memo": "第一週上課集合地點為活動中心綜合球場。",
+    "memo": "第一週上課集合地點為陽明校區山下排球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "待聘",
+    "time": "W78-PhE[YM]"
   },
   "1121_563131": {
     "code": "GEPE00001",
     "credit": ".00",
     "hours": "2.00",
     "id": "563131",
-    "memo": "第一週上課集合地點為活動中心綜合球場。",
+    "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "黃中興",
+    "time": "W56-PhE[YM]"
   },
   "1121_563132": {
     "code": "GEPE10002",
@@ -35972,8 +36080,8 @@
     "name": "匹克球 Pickleball",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "林昭光",
+    "time": "M12-PhE[YM]"
   },
   "1121_563133": {
     "code": "GEPE10013",
@@ -35984,8 +36092,8 @@
     "name": "體適能 Fitness",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "待聘",
+    "time": "M12-PhE[YM]"
   },
   "1121_563134": {
     "code": "GEPE10074",
@@ -35996,20 +36104,20 @@
     "name": "熱力有氧 vital aerobic exercise",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "藍于青",
+    "time": "M34-PhE[YM]"
   },
   "1121_563135": {
-    "code": "GEPE10012",
+    "code": "GEPE10013",
     "credit": ".00",
     "hours": "2.00",
     "id": "563135",
-    "memo": "上課地點：陽明校區山頂運動場",
-    "name": "飛盤 Frisbee",
+    "memo": "上課地點：陽明校區活動中心韻律教室",
+    "name": "體適能 Fitness",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "徐煒杰",
+    "time": "M34-PhE[YM]"
   },
   "1121_563136": {
     "code": "GEPE10007",
@@ -36020,8 +36128,8 @@
     "name": "籃球 Basketball",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "陳厚諭",
+    "time": "M56-PhE[YM]"
   },
   "1121_563137": {
     "code": "GEPE10008",
@@ -36032,188 +36140,188 @@
     "name": "網球 Tennis",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "莊泰源",
+    "time": "M56-PhE[YM]"
   },
   "1121_563138": {
-    "code": "GEPE10005",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "563138",
-    "memo": "上課地點：陽明校區活動中心桌球教室",
-    "name": "桌球 Table Tennis",
-    "num_limit": "30",
-    "reg_num": "0",
-    "teacher": "",
-    "time": ""
-  },
-  "1121_563139": {
     "code": "GEPE10008",
     "credit": ".00",
     "hours": "2.00",
-    "id": "563139",
+    "id": "563138",
     "memo": "上課地點：陽明校區山下網球場",
     "name": "網球 Tennis",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "陳厚諭",
+    "time": "M78-PhE[YM]"
   },
-  "1121_563140": {
+  "1121_563139": {
     "code": "GEPE10002",
     "credit": ".00",
     "hours": "2.00",
-    "id": "563140",
+    "id": "563139",
     "memo": "上課地點：陽明校區活動中心綜合球場",
     "name": "匹克球 Pickleball",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "藍于青",
+    "time": "M78-PhE[YM]"
   },
-  "1121_563141": {
+  "1121_563140": {
     "code": "GEPE10010",
     "credit": ".00",
     "hours": "2.00",
-    "id": "563141",
+    "id": "563140",
     "memo": "上課地點：陽明校區山頂運動場",
     "name": "足球 Soccer",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "徐煒杰",
+    "time": "M78-PhE[YM]"
+  },
+  "1121_563141": {
+    "code": "GEPE10004",
+    "credit": ".00",
+    "hours": "2.00",
+    "id": "563141",
+    "memo": "上課地點：陽明校區山下排球場",
+    "name": "排球 Volleyball",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "M78-PhE[YM]"
   },
   "1121_563142": {
-    "code": "GEPE10005",
+    "code": "GEPE10002",
     "credit": ".00",
     "hours": "2.00",
     "id": "563142",
-    "memo": "上課地點：陽明校區活動中心桌球教室",
-    "name": "桌球 Table Tennis",
+    "memo": "上課地點：陽明校區活動中心綜合球場",
+    "name": "匹克球 Pickleball",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "黃中興",
+    "time": "T12-PhE[YM]"
   },
   "1121_563143": {
-    "code": "GEPE10002",
+    "code": "GEPE10009",
     "credit": ".00",
     "hours": "2.00",
     "id": "563143",
     "memo": "上課地點：陽明校區活動中心綜合球場",
-    "name": "匹克球 Pickleball",
-    "num_limit": "30",
-    "reg_num": "0",
-    "teacher": "",
-    "time": ""
-  },
-  "1121_563144": {
-    "code": "GEPE10009",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "563144",
-    "memo": "上課地點：陽明校區活動中心綜合球場",
     "name": "羽球 Badminton",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "林正仰",
+    "time": "T56-PhE[YM]"
   },
-  "1121_563145": {
+  "1121_563144": {
     "code": "GEPE10001",
     "credit": ".00",
     "hours": "2.00",
-    "id": "563145",
+    "id": "563144",
     "memo": "上課地點：陽明校區活動中心韻律教室",
     "name": "動力伸展與紓壓 Power Extension and Relax",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "藍于青",
+    "time": "W12-PhE[YM]"
   },
-  "1121_563146": {
+  "1121_563145": {
     "code": "GEPE10008",
     "credit": ".00",
     "hours": "2.00",
-    "id": "563146",
+    "id": "563145",
     "memo": "上課地點：陽明校區山下網球場",
     "name": "網球 Tennis",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "待聘",
+    "time": "W12-PhE[YM]"
   },
-  "1121_563147": {
+  "1121_563146": {
     "code": "GEPE10005",
     "credit": ".00",
     "hours": "2.00",
-    "id": "563147",
-    "memo": "上課地點：陽明校區活動中心桌球教室",
+    "id": "563146",
+    "memo": "上課地點：陽明校區活動中心桌球室",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "黃中興",
+    "time": "W12-PhE[YM]"
+  },
+  "1121_563147": {
+    "code": "GEPE10010",
+    "credit": ".00",
+    "hours": "2.00",
+    "id": "563147",
+    "memo": "上課地點：陽明校區山頂運動場",
+    "name": "足球 Soccer",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "徐煒杰",
+    "time": "W12-PhE[YM]"
   },
   "1121_563148": {
-    "code": "GEPE10002",
+    "code": "GEPE10009",
     "credit": ".00",
     "hours": "2.00",
     "id": "563148",
     "memo": "上課地點：陽明校區活動中心綜合球場",
-    "name": "匹克球 Pickleball",
-    "num_limit": "30",
-    "reg_num": "0",
-    "teacher": "",
-    "time": ""
-  },
-  "1121_563149": {
-    "code": "GEPE10009",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "563149",
-    "memo": "上課地點：陽明校區活動中心綜合球場",
     "name": "羽球 Badminton",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "黃志成",
+    "time": "W56-PhE[YM]"
   },
-  "1121_563150": {
+  "1121_563149": {
     "code": "GEPE10005",
     "credit": ".00",
     "hours": "2.00",
-    "id": "563150",
-    "memo": "上課地點：陽明校區活動中心桌球教室",
+    "id": "563149",
+    "memo": "上課地點：陽明校區活動中心桌球室",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "黃中興",
+    "time": "W78-PhE[YM]"
   },
-  "1121_563151": {
+  "1121_563150": {
     "code": "GEPE10009",
     "credit": ".00",
     "hours": "2.00",
-    "id": "563151",
+    "id": "563150",
     "memo": "上課地點：陽明校區活動中心綜合球場",
     "name": "羽球 Badminton",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "黃志成",
+    "time": "W78-PhE[YM]"
+  },
+  "1121_563151": {
+    "code": "GEPE10005",
+    "credit": ".00",
+    "hours": "2.00",
+    "id": "563151",
+    "memo": "上課地點：陽明校區活動中心桌球室",
+    "name": "桌球 Table Tennis",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "黃中興",
+    "time": "R12-PhE[YM]"
   },
   "1121_563152": {
-    "code": "GEPE10004",
+    "code": "GEPE10005",
     "credit": ".00",
     "hours": "2.00",
     "id": "563152",
-    "memo": "上課地點：陽明校區活動中心綜合球場",
-    "name": "排球 Volleyball",
+    "memo": "上課地點：陽明校區活動中心桌球室",
+    "name": "桌球 Table Tennis",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "黃中興",
+    "time": "R34-PhE[YM]"
   },
   "1121_563153": {
     "code": "GEPE10006",
@@ -36224,8 +36332,8 @@
     "name": "游泳 swim",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "待聘",
+    "time": "R34-PhE[YM]"
   },
   "1121_563154": {
     "code": "GEPE10002",
@@ -36236,8 +36344,8 @@
     "name": "匹克球 Pickleball",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "藍于青",
+    "time": "F12-PhE[YM]"
   },
   "1121_563155": {
     "code": "GEPE10001",
@@ -36248,8 +36356,8 @@
     "name": "動力伸展與紓壓 Power Extension and Relax",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "藍于青",
+    "time": "F34-PhE[YM]"
   },
   "1121_563156": {
     "code": "GEPE10007",
@@ -36260,8 +36368,8 @@
     "name": "籃球 Basketball",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "陳厚諭",
+    "time": "F34-PhE[YM]"
   },
   "1121_563157": {
     "code": "GEPE10003",
@@ -36272,8 +36380,8 @@
     "name": "太極拳 Tai Chi",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "張耀庭",
+    "time": "F56-PhE[YM]"
   },
   "1121_563158": {
     "code": "GEPE10009",
@@ -36284,8 +36392,8 @@
     "name": "羽球 Badminton",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "陳厚諭",
+    "time": "F56-PhE[YM]"
   },
   "1121_564000": {
     "code": "GECS10001",
@@ -37197,7 +37305,7 @@
     "num_limit": "120",
     "reg_num": "0",
     "teacher": "梁美智、高智飛、黃植懋",
-    "time": "T2F34-EE105[GF]"
+    "time": "T2W56-EE105[GF]"
   },
   "1121_567005": {
     "code": "GEBT00001",
@@ -37736,7 +37844,7 @@
     "name": "分科教材教法(自然領域/生物) Subject-related Teaching Materials & Methods(Biology)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "佘曉清、蔡佩宜",
+    "teacher": "佘曉清、待聘",
     "time": "W56-HA208[GF]"
   },
   "1121_599010": {

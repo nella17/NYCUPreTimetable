@@ -2396,7 +2396,7 @@
     "name": "中醫概論 Introduction to Chinese Medicine",
     "num_limit": "70",
     "reg_num": "0",
-    "teacher": "簡采汝、劉茹涵、柯品豪、廖麗蘭",
+    "teacher": "簡采汝、劉茹涵、柯品豪、廖麗蘭、林舜穀",
     "time": "F12-YL402[YM]"
   },
   "1121_111924": {
@@ -2455,7 +2455,7 @@
     "memo": "暑期上課。",
     "name": "中藥炮製學 Processing of Chinese Medicine",
     "num_limit": "9999",
-    "reg_num": "91",
+    "reg_num": "92",
     "teacher": "陳日榮、賴尚志",
     "time": ""
   },
@@ -6450,7 +6450,7 @@
     "id": "130510",
     "memo": "管理與政策必選修之一，非醫管所學生需取得授課老師同意。",
     "name": "Python機器學習在智慧醫療的應用 Python Machine Learning for Smart Healthcare",
-    "num_limit": "17",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "陳翎",
     "time": "F78-YN511[YM]"
@@ -6474,7 +6474,7 @@
     "id": "130512",
     "memo": "",
     "name": "SAS 基礎資料分析 SAS Programming and Data Management",
-    "num_limit": "9999",
+    "num_limit": "8",
     "reg_num": "0",
     "teacher": "陳韵宜",
     "time": "M234-YN511[YM]"
@@ -11541,7 +11541,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "何彥如",
-    "time": "T567-"
+    "time": "T567-YX211[YM]"
   },
   "1121_133103": {
     "code": "SHPH30025",
@@ -11577,7 +11577,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林映彤、游尚愷",
-    "time": "W789-"
+    "time": "W789-YX211[YM]"
   },
   "1121_133106": {
     "code": "SHPH30027",
@@ -11601,7 +11601,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "鄭凱元",
-    "time": "R9ab-"
+    "time": "R9ab-YX211[YM]"
   },
   "1121_133108": {
     "code": "SHPH30029",
@@ -14003,6 +14003,18 @@
     "teacher": "游尚愷",
     "time": "R34-YT206[YM]"
   },
+  "1121_161020": {
+    "code": "GECE00351",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161020",
+    "memo": "[English Medium Course]",
+    "name": "自由、真理與民主於科技時代 Freedom, Truth & Democracy in a Technological Age",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "艾力",
+    "time": "R56-YT205[YM]"
+  },
   "1121_161021": {
     "code": "GECE00125",
     "credit": "2.00",
@@ -14034,9 +14046,9 @@
     "id": "161023",
     "memo": "",
     "name": "經濟學 Economics",
-    "num_limit": "30",
+    "num_limit": "28",
     "reg_num": "0",
-    "teacher": "梁立霖、周穎政",
+    "teacher": "梁立霖",
     "time": "M56-YB101[YM]"
   },
   "1121_161024": {
@@ -14046,10 +14058,10 @@
     "id": "161024",
     "memo": "",
     "name": "經濟學 Economics",
-    "num_limit": "20",
+    "num_limit": "18",
     "reg_num": "0",
     "teacher": "蒲正筠、周穎政",
-    "time": "R34-YT305[YM]"
+    "time": "R34-YT104[YM]"
   },
   "1121_161025": {
     "code": "GECE00193",
@@ -14574,7 +14586,7 @@
     "id": "161070",
     "memo": "",
     "name": "東亞近現代史 A Modern History of East-asia",
-    "num_limit": "20",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "嚴曉珮",
     "time": "R56-YT104[YM]"
@@ -14622,7 +14634,7 @@
     "id": "161074",
     "memo": "",
     "name": "安全衛生通識教育 General Knowledge of Safety Health",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "張榮偉、吳威德",
     "time": "W78-YT104[YM]"
@@ -15237,7 +15249,7 @@
     "num_limit": "25",
     "reg_num": "0",
     "teacher": "劉大和",
-    "time": "W234-HK106[LJ]"
+    "time": "R567-HK119[LJ]"
   },
   "1121_310014": {
     "code": "HKHS20028",
@@ -16024,7 +16036,7 @@
     "credit": "4.00",
     "hours": "4.00",
     "id": "410013",
-    "memo": "",
+    "memo": "本學期停開，請同學注意",
     "name": "有機化學（二） Organic Chemistry (II)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -17925,7 +17937,7 @@
     "num_limit": "25",
     "reg_num": "0",
     "teacher": "朱品璇",
-    "time": "F56-HC402[GF]"
+    "time": "T56-F210[GF]"
   },
   "1121_514132": {
     "code": "HSFL20043",
@@ -19924,7 +19936,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515622",
-    "memo": "外系生請於開學上網加選；系與電資學士班學生優先選課；主開3年級；[English Medium Course]新聘教師 樓洋 教授；本系生優先權順序：3年級，4年級，2年級，1年級",
+    "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；主開3年級；[English Medium Course]新聘教師 樓洋 教授；本系生優先權順序：3年級，4年級，2年級，1年級",
     "name": "網路科學與架構 Network Science, Models, and Architecture",
     "num_limit": "40",
     "reg_num": "0",
@@ -21655,7 +21667,7 @@
     "memo": "",
     "name": "有機化學(一) Organic Chemistry (Ｉ)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "鍾文聖",
     "time": "M34W34-SB211[GF]"
   },
@@ -21667,7 +21679,7 @@
     "memo": "限本系，外系學生需經任課教師同意後，方可加選本課程。",
     "name": "有機化學實驗(一) Organic Chemistry Labs. (Ｉ)",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "鍾文聖",
     "time": "R4n5678-SB120[GF]"
   },
@@ -21679,7 +21691,7 @@
     "memo": "",
     "name": "應用數學 Applied Mathematics",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "曾建銘",
     "time": "T34F2-SC159[GF]"
   },
@@ -21691,7 +21703,7 @@
     "memo": "",
     "name": "物理化學(一) Physical Chemistry(I)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "刁維光",
     "time": "T56F56-SB211[GF]"
   },
@@ -21703,7 +21715,7 @@
     "memo": "",
     "name": "服務學習(二) Service Learning II",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "詹揚翔",
     "time": "M56-SB201[GF]"
   },
@@ -21715,7 +21727,7 @@
     "memo": "",
     "name": "無機化學(一) Inorganic Chemistry (1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "54",
     "teacher": "李積琛",
     "time": "T34R2-SB210[GF]"
   },
@@ -21727,7 +21739,7 @@
     "memo": "",
     "name": "分析化學(二) Analytical Chemistry (2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "54",
     "teacher": "陳月枝",
     "time": "M56T5-SC159[GF]"
   },
@@ -26875,7 +26887,7 @@
     "memo": "[English Medium Course][Core Course for Master student]",
     "name": "學位論文研究 Thesis",
     "num_limit": "20",
-    "reg_num": "15",
+    "reg_num": "13",
     "teacher": "半導體境外",
     "time": ""
   },
@@ -30345,7 +30357,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "李耀仁",
-    "time": ""
+    "time": "W567-ED202[GF]"
   },
   "1121_539003": {
     "code": "IIPS30009",
@@ -30393,7 +30405,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "李耀仁",
-    "time": ""
+    "time": "W8-ED202[GF]"
   },
   "1121_539100": {
     "code": "IIAI30002",
@@ -32478,7 +32490,7 @@
     "id": "561010",
     "memo": "限大二以上同學修讀，修課學生需攜帶筆電。",
     "name": "循環經濟 Circular Economy",
-    "num_limit": "24",
+    "num_limit": "32",
     "reg_num": "0",
     "teacher": "李榮貴",
     "time": "W34-A401[GF]"
@@ -32490,7 +32502,7 @@
     "id": "561011",
     "memo": "上課地點：浩然B1國際會議廳,限大二至大四同學修讀。",
     "name": "經典通識教育講座 Contemporary Civilization",
-    "num_limit": "120",
+    "num_limit": "160",
     "reg_num": "0",
     "teacher": "王美鴻",
     "time": "W56-Lib-B1[GF]"
@@ -32826,7 +32838,7 @@
     "id": "561040",
     "memo": "限大二以上同學修讀，修課學生需攜帶筆電。",
     "name": "營運管理 Operations Management",
-    "num_limit": "36",
+    "num_limit": "48",
     "reg_num": "0",
     "teacher": "李榮貴",
     "time": "W56-A401[GF]"
@@ -32862,7 +32874,7 @@
     "id": "561043",
     "memo": "「運動與健康」限大四同學修讀。",
     "name": "運動與健康 Sport and Health",
-    "num_limit": "37",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "巫慧萍",
     "time": "T56-A205[GF]"
@@ -34360,7 +34372,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562084",
-    "memo": "",
+    "memo": "須先修畢日文(三)",
     "name": "中級日語聽講 Intermediate Japanese Listening and Conversation",
     "num_limit": "45",
     "reg_num": "0",
@@ -34372,7 +34384,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562085",
-    "memo": "",
+    "memo": "須先修畢日文(四)",
     "name": "日語簡報訓練 Presenting in Japanese",
     "num_limit": "45",
     "reg_num": "0",

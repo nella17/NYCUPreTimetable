@@ -5203,7 +5203,7 @@
     "memo": "公共衛生領域必修，限醫學系三年級(含)以上",
     "name": "流行病學 Epidemiology",
     "num_limit": "180",
-    "reg_num": "0",
+    "reg_num": "176",
     "teacher": "莊宜芳、陳信任、潘文驥、劉家軒、林詠青",
     "time": "M56-YT001[YM]"
   },
@@ -5263,7 +5263,7 @@
     "memo": "公共衛生領域必修，限醫學系三年級(含)以上。",
     "name": "生物統計學 Biostatistics",
     "num_limit": "150",
-    "reg_num": "0",
+    "reg_num": "141",
     "teacher": "郭炤裕",
     "time": "F56-YT001[YM]"
   },
@@ -5298,7 +5298,7 @@
     "id": "113800",
     "memo": "陽明校區限醫學系，交大校區限電機系；分組名單於開學前公告，陽明校區9/15(五)、9/22(五)請至綜三教室上課，9/29(五)起依分組名單至所屬教室上課(教學大樓205、301、305)，交大校區請至工程五館129上課。",
     "name": "醫學人文導論 Introduction to Medical Humanities",
-    "num_limit": "147",
+    "num_limit": "150",
     "reg_num": "0",
     "teacher": "鄧宗業、黃宣穎、雷文玫、楊育正",
     "time": "F34-YT205[YM],F34-YT301[YM],F34-YT305[YM]"
@@ -5311,7 +5311,7 @@
     "memo": "醫學人文與社會領域必修，週二12前九週上課，週三56後八週上課，課程教室將另行通知，限醫學系四年級。本課開放智慧健康照護跨域學程學生選修，欲選修者請務必聯繫醫學人文暨教育學科助教，以協助分班。",
     "name": "醫療與社會人文 Medical Humanity and Social Science",
     "num_limit": "153",
-    "reg_num": "0",
+    "reg_num": "147",
     "teacher": "周穎政、郭文華、黃嵩立、梁立霖、黃宣穎、藍凡耘、楊南屏、蔡景耀、王宗曦、顏永豐、李雅玲、蔡淑鈴、簡詩穎、黃品翔、陳秀丹、葉采衢",
     "time": "T12W56-"
   },
@@ -5380,7 +5380,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113807",
-    "memo": "(跨校區課程)開放全校區大學部學生選修，醫學系可認列為醫學人文與倫理領域-醫學人文類。陽明校區為實體課程，非陽明校區為遠距同步上課。",
+    "memo": "(跨校區課程)開放全校區大學部學生選修，醫學系可認列為醫學人文與倫理領域-醫學人文類。陽明校區為實體課程，非陽明校區為線上遠距同步上課。",
     "name": "高齡健康與人文關懷 Aging, Health and Humanities",
     "num_limit": "29",
     "reg_num": "0",
@@ -5394,7 +5394,7 @@
     "id": "113808",
     "memo": "(跨校區課程)開放全校區大學部學生選修，醫學系可認列為醫學人文與倫理領域-醫學人文類。陽明校區為實體課程，非陽明校區的同學請至工程五館129上課(遠距)。",
     "name": "從A到A+品質改善的理論與實踐 The Theory and Practice for Good to Great",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "0",
     "teacher": "楊令瑀、黃心苑、凌憬峰、蘇信寧、黃志賢、林麗華",
     "time": "T56-YM201[YM]"
@@ -5407,7 +5407,7 @@
     "memo": "限111-2部桃復健組(暑)、健康傳播組(暑)",
     "name": "醫學人文的實踐 The Practice of Medical Humanities",
     "num_limit": "0",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "楊秀儀、凌憬峰、盧鴻毅、鄭健禹、葉圜叡、蔡紫君",
     "time": "Ucd-"
   },
@@ -5432,7 +5432,7 @@
     "name": "回歸生命的自然軌跡～安寧醫學人文素養 On Life’s natural course: humanity aspect of hospice care",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "李雅玲",
+    "teacher": "李雅玲、璩大成",
     "time": "T56-YT301[YM]"
   },
   "1121_130000": {
@@ -8010,7 +8010,7 @@
     "id": "131225",
     "memo": "[English Medium Course]",
     "name": "SAS資料分析 Applied Data Analysis Using SAS ",
-    "num_limit": "9999",
+    "num_limit": "8",
     "reg_num": "0",
     "teacher": "陳韵宜",
     "time": "F78-YN514[YM]"
@@ -9820,7 +9820,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "132321",
-    "memo": "[English Medium Course]限修過材料力學，全英語修課\r\n",
+    "memo": "限修過材料力學",
     "name": "高等材料力學 Advanced Material Mechanics",
     "num_limit": "9999",
     "reg_num": "0",
@@ -11565,7 +11565,7 @@
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "嚴偉哲",
-    "time": "W56-YX206[YM]"
+    "time": "W56-"
   },
   "1121_133105": {
     "code": "SHPH30026",
@@ -13391,18 +13391,6 @@
     "teacher": "潘美連",
     "time": "Fc-YN511[YM]"
   },
-  "1121_150102": {
-    "code": "MDHH30018",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "150102",
-    "memo": "非本所在職專班請勿選，建議專一修。",
-    "name": "基礎生物統計 Basic Biostatistics",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "林寬佳",
-    "time": "S56-YS405[YM]"
-  },
   "1121_150103": {
     "code": "MDHH30088",
     "credit": "2.00",
@@ -14457,7 +14445,7 @@
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "王惠民",
-    "time": "Wab-A103[GF]"
+    "time": "W9a-A103[GF]"
   },
   "1121_161059": {
     "code": "GECE00006",
@@ -14644,7 +14632,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161075",
-    "memo": "本學期「食品安全與生活」課程碩、博士班修課意願，因修課人數有限，請填寫申請表:https://forms.gle/c9FkPXvbEd2dxRNh6",
+    "memo": "本學期「食品安全與生活」課程為跨校區課程，且兩校皆有教室同步上課；碩、博士班修課意願，因修課人數有限，請填寫申請表:https://forms.gle/c9FkPXvbEd2dxRNh6",
     "name": "食品安全與生活 Food Safety and Life",
     "num_limit": "0",
     "reg_num": "0",
@@ -15369,7 +15357,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "張藝曦",
-    "time": "M8-HKB09[LJ]"
+    "time": "T8-A309[GF]"
   },
   "1121_310025": {
     "code": "HKHS00001",
@@ -16030,18 +16018,6 @@
     "reg_num": "0",
     "teacher": "朱智瑋、林峻宇",
     "time": "F56-A103[GF]"
-  },
-  "1121_410013": {
-    "code": "BTBT10023",
-    "credit": "4.00",
-    "hours": "4.00",
-    "id": "410013",
-    "memo": "本學期停開，請同學注意",
-    "name": "有機化學（二） Organic Chemistry (II)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "莊士卿",
-    "time": "R34-ED305[GF],T56-SA215[GF]"
   },
   "1121_410014": {
     "code": "BTBT10034",
@@ -16744,7 +16720,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "430104",
-    "memo": "",
+    "memo": "本學期停開",
     "name": "計算生物學-建模與預測 Computaional Biology:Modeling and Prediction",
     "num_limit": "30",
     "reg_num": "0",
@@ -18544,12 +18520,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515118",
-    "memo": "",
+    "memo": "Lab: Mabc，教室EE632",
     "name": "進階物件導向程式設計 Advanced Object-Oriented Programming",
-    "num_limit": "50",
+    "num_limit": "40",
     "reg_num": "0",
     "teacher": "王學誠",
-    "time": "W34F7-EE635[GF]"
+    "time": "Mn56-EE632[GF]"
   },
   "1121_515119": {
     "code": "EEEC10004",
@@ -20408,7 +20384,7 @@
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "53",
     "reg_num": "0",
-    "teacher": "邵雲龍",
+    "teacher": "待聘",
     "time": "Tabc-"
   },
   "1121_516129": {
@@ -20432,8 +20408,8 @@
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "53",
     "reg_num": "0",
-    "teacher": "機械系",
-    "time": "Rn56-EE527"
+    "teacher": "待聘",
+    "time": "Wabc-"
   },
   "1121_516131": {
     "code": "ENME10017",
@@ -20898,8 +20874,8 @@
     "id": "516300",
     "memo": "1.材料系必修，開學前限材料系加選\n2.開學後開放外系或外校加選",
     "name": "材料科學與工程導論 (一) Introduction to Materials Science and Engineering (I)",
-    "num_limit": "80",
-    "reg_num": "0",
+    "num_limit": "90",
+    "reg_num": "26",
     "teacher": "陳智",
     "time": "R2F34-EF201[GF]"
   },
@@ -20971,7 +20947,7 @@
     "memo": "1.限材料系選修 2.外系以書面加選，需繳交材料費(材料跨域學程學生除外)",
     "name": "材料工程實驗(一)  Advanced Materials Labs.(I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "54",
     "teacher": "林宏洲、陳軍華",
     "time": "S1234-"
   },
@@ -22530,7 +22506,7 @@
     "id": "517502",
     "memo": "本課程不開放紙本加簽。管院管理基礎課程；主開大二資財系；上限86人，資財系大二、資財系大三、管科系大三必修；限資財系大二以上、其他學系大三以上同學選修。管院學生優先選課；輔開管理學院、管科系、運管系、工管系；工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修。運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。非管院學生請於開學加退選階段上網選課。",
     "name": "管理資訊系統 Management Information System",
-    "num_limit": "80",
+    "num_limit": "60",
     "reg_num": "0",
     "teacher": "陳耀宗",
     "time": "T234-M-b09[GF]"
@@ -22760,7 +22736,7 @@
     "name": "專題探索基本功－從閱讀到寫作 The Basics of Inquiry and Research: From Reading to Writing",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "王美鴻",
+    "teacher": "安勤之",
     "time": "W9a-A205[GF]"
   },
   "1121_519501": {
@@ -22904,7 +22880,7 @@
     "name": "百川學堂(一) Arete To-Be (I)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "百川",
+    "teacher": "簡紋濱",
     "time": "W56-"
   },
   "1121_530000": {
@@ -27618,8 +27594,8 @@
     "id": "536306",
     "memo": "[English Medium Course]1.第一階段限材料系、奈米所、國際半導體學院、前瞻半導體研究所加選 2.開學後開放外系或外校加選",
     "name": "奈米材料簡介 Introduction to Nanostructured Materials",
-    "num_limit": "60",
-    "reg_num": "0",
+    "num_limit": "86",
+    "reg_num": "26",
     "teacher": "韋光華",
     "time": "T789-EF201[GF]"
   },
@@ -27763,7 +27739,7 @@
     "memo": "第一階段限材料系、奈米碩博班、加速器學程材料組、奈米學士學位學程選修，第二階段經授課老師同意可手動加簽",
     "name": "奈米科技導論 Introduction to Nanotechnology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "25",
     "teacher": "張仍奎",
     "time": "M567-EF207[GF]"
   },
@@ -33009,7 +32985,7 @@
     "num_limit": "37",
     "reg_num": "0",
     "teacher": "待聘",
-    "time": "R78-CS-PC2[GF]"
+    "time": "M78-CS-PC2[GF]"
   },
   "1121_561055": {
     "code": "GECG10018",
@@ -36837,7 +36813,7 @@
     "num_limit": "100",
     "reg_num": "0",
     "teacher": "余啟哲",
-    "time": "MabRab-SA321[GF]"
+    "time": "Mab-SA321[GF]"
   },
   "1121_564021": {
     "code": "GECS10003",
@@ -36849,7 +36825,7 @@
     "num_limit": "70",
     "reg_num": "0",
     "teacher": "洪慧念",
-    "time": "T34F56-SC157[GF]"
+    "time": "T34F56-A306[GF],T34F56-SC157[GF]"
   },
   "1121_564022": {
     "code": "GECS10005",

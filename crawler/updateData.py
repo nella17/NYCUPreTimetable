@@ -13,14 +13,23 @@ if sys.argv[-1] == 'Y':
     Verbose = True
     sys.argv.pop()
 
-if len(sys.argv) >= 2:
-    ysem = sys.argv[1]
+res = requests.get(baseURL+"?r=main/get_acysem", headers={'user-agent': 'Mozilla/5.0'}, verify=False)
+if res.status_code != 200:
+    print("Request acysem data error!!")
+    exit(-1)
+data = [x['T'] for x in res.json()]
+if len(sys.argv) < 2:
+    ysem: str = data[0]
 else:
-    res = requests.get(baseURL+"?r=main/get_acysem", headers={'user-agent': 'Mozilla/5.0'}, verify=False)
-    if res.status_code != 200:
-        print("Request acysem data error!!")
-        exit(-1)
-    ysem: str = res.json()[0]['T']
+    ysem = ''
+    sel = sys.argv[1]
+    for x in data:
+        if re.findall(sel, x):
+            ysem = x
+            break
+
+if ysem == '':
+    exit(-1)
 
 Year = ysem[:-1]
 Semester = ysem[-1]

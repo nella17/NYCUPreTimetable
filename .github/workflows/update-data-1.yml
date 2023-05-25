@@ -1,0 +1,61 @@
+name: Update Course Data
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/update-data.yml
+      - 'crawler/**'
+  workflow_dispatch:
+    inputs:
+      argv:
+        description: 'argv'
+  schedule:
+    - cron: '11 4 * * 1'
+
+concurrency:
+  group: '${{ github.workflow }} ${{ github.event.inputs.argv }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}'
+  cancel-in-progress: true
+
+jobs:
+  UpdateData:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: main
+
+      - name: setup git user
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: pull data
+        id: pull
+        run: |
+          python3 -u crawler/updateData.py ${{ github.event.inputs.argv }} '1$' Y
+
+      - name: add data
+        run: |
+          f=`mktemp -d`
+          mv data/*.json $f
+          git fetch origin gh-page --depth 1
+          git switch gh-page
+          mv $f/*.json data/
+
+      - name: commit
+        run: |
+          git status
+          git add data/
+          git commit -m "Update data (${{ steps.pull.outputs.ysem }})" || true
+
+      - name: update list
+        run: |
+          ls data | jq -sRc 'split("\n")[:-1]' | tee data.json
+          git add data.json
+          git commit -m "Update data.json (${{ steps.pull.outputs.ysem }})" || true
+
+      - name: push
+        run: |
+          git push

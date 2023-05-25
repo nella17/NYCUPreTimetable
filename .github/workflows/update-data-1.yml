@@ -1,4 +1,4 @@
-name: Update Course Data
+name: Update Course Data 1$
 
 on:
   push:

@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - .github/workflows/update-data.yml
+      - .github/workflows/update-data-1.yml
       - 'crawler/**'
   workflow_dispatch:
     inputs:

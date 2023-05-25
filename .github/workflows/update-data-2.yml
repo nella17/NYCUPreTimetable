@@ -15,7 +15,7 @@ on:
     - cron: '11 5 * * 1'
 
 concurrency:
-  group: '${{ github.workflow }} ${{ github.event.inputs.argv }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}'
+  group: '${{ github.workflow }} 2$ @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}'
   cancel-in-progress: true
 
 jobs:
@@ -34,7 +34,7 @@ jobs:
       - name: pull data
         id: pull
         run: |
-          python3 -u crawler/updateData.py ${{ github.event.inputs.argv }} '2$' Y
+          python3 -u crawler/updateData.py '2$' Y
 
       - name: add data
         run: |

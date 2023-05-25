@@ -34,7 +34,7 @@ jobs:
       - name: pull data
         id: pull
         run: |
-          python3 -u crawler/updateData.py ${{ github.event.inputs.argv }} Y
+          python3 -u crawler/updateData.py "${{ github.event.inputs.argv }}" Y
 
       - name: add data
         run: |

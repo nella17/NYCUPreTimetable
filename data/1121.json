@@ -391,7 +391,7 @@
     "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
     "name": "大體解剖學 Gross Anatomy",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "135",
     "teacher": "鄭瓊娟、傅毓秀、李光申、李學德、蔡佩君、郭曉縈、侯珮珊、廖文輝、周昆達、周伯鑫、吳宏達、陳威志、吳飛逸",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
@@ -403,7 +403,7 @@
     "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
     "name": "大體解剖學實驗 Gross Anatomy Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "135",
     "teacher": "鄭瓊娟、傅毓秀、李學德、蔡佩君、郭曉縈、侯珮珊",
     "time": "T12345678W1234R12345678F1234-YEC109[YM]"
   },
@@ -415,7 +415,7 @@
     "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
     "name": "組織學 Histology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "135",
     "teacher": "鄭瓊娟、葉添順、李學德、王先逸、郭曉縈、蔣偉程",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
@@ -427,7 +427,7 @@
     "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
     "name": "組織學實驗 Lab. in Histology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "135",
     "teacher": "鄭瓊娟、葉添順、李學德、王先逸、郭曉縈、蔣偉程",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
@@ -463,7 +463,7 @@
     "memo": "限醫三, 請參照PBL整合課程行事曆",
     "name": "社區醫學 Community Medicine",
     "num_limit": "9999",
-    "reg_num": "134",
+    "reg_num": "135",
     "teacher": "陳育群、黃信彰、劉瑞瑤、黃駿豐、洪德仁、劉浩彥、林明慧、張曉婷",
     "time": "W56-YT001[YM]"
   },
@@ -475,7 +475,7 @@
     "memo": "限醫三, 請參照PBL整合課程行事曆",
     "name": "社區醫學實習 Community Medicine Practice",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "135",
     "teacher": "陳育群、陳亮恭、陳曾基、陳方佩、李威儒、彭莉甯、龔彥穎、蕭學誠、林雨亭、王崇仁、詹益祥、徐永年、林長熙、蔡世滋、陳冠宇、羅文林、何叔芳、陳珀勳、林明憲、劉瑞瑤、楊仁鄰、陳冠群、陳柏菁、張清貿、朱為民、莊美幸、黃駿豐、戴月明、余儀呈、洪德仁、余文瑞、吳大鵬、王正淵、何清幼、吳彬源、邱政宏、賴志冠、林信利、林宜璇、陳怡君、黃安君、林安民、黃仲禹、朱思盈、戴英修、施子健、劉浩彥、朱豐沅、鄭博仁、楊博欽、陳紓涵、廖廣榆、劉雅安、黃信得、朱柔澍、林明慧、張曉婷",
     "time": "R5678-YT001[YM]"
   },
@@ -487,7 +487,7 @@
     "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
     "name": "胚胎學 Embryology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "135",
     "teacher": "鄭瓊娟、李學德、王先逸",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
@@ -499,7 +499,7 @@
     "memo": "限醫三",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "134",
+    "reg_num": "135",
     "teacher": "凌憬峰、林慶波、吳鈺琳、陳麗芬、鄭瓊娟、邱士華、張世霖、黃自強、張原翊、吳莉玲、張雲亭、陳明德、王維庭",
     "time": ""
   },
@@ -632,7 +632,7 @@
     "name": "醫務領導和管理 Healthcare Leadership and Management",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "鄧宗業、黃心苑、周穎政、唐高駿、陳翎、楊南屏、洪芳明",
+    "teacher": "鄧宗業、黃心苑、周穎政、唐高駿、陳翎、洪芳明、陳韵宜",
     "time": "F5678-"
   },
   "1121_110049": {
@@ -1267,7 +1267,7 @@
     "memo": "",
     "name": "口腔診斷學 Oral Diagnosis",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "張國威、楊政杰、吳靜宜、洪凱風、張蓮鈺、林怡君、林弘斌、王文岑、李立慈、陳軒弘",
     "time": "M34-YD320[YM]"
   },
@@ -1291,7 +1291,7 @@
     "memo": "",
     "name": "牙髓病學 Endodontics",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "蔡佳倫、楊淑芬、黃妙玨、陳誼安、李亞芸、白勝方、何怡青、陳益貞、林慧青、錢正原、王友志",
     "time": "F34-YD105[YM]"
   },
@@ -1303,7 +1303,7 @@
     "memo": "",
     "name": "牙髓病學實驗 Endodontics Lab.",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "蔡佳倫、李士元、李亞芸、白勝方、徐永儀、何怡青、陳益貞、林慧青、王友志",
     "time": "F56789a-YD202[YM]"
   },
@@ -1327,7 +1327,7 @@
     "memo": "",
     "name": "兒童牙科學 Pediatric Dentistry  ",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "劉正芬、施文宇、王敏靜、莊麗娟、陳亮如、蔡宜峰、林雅文、陳瓊芬、謝春怡",
     "time": "R34-YD210[YM]"
   },
@@ -1339,7 +1339,7 @@
     "memo": "",
     "name": "兒童牙科學實驗 Pediatric Dentistry lab.",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "劉正芬、施文宇、王敏靜、莊麗娟、陳亮如、蔡宜峰、林雅文、陳瓊芬、謝春怡",
     "time": "T56-YD202[YM]"
   },
@@ -1483,7 +1483,7 @@
     "memo": "",
     "name": "內科學概論 Introduction to Internal Medicine",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "黃怡翔、陳涵栩、陳志強、胡啟民、王嚴鋒、陳瑋昇、陳俊宇、何莉櫻、賴建志、阮志翰、蔡淳光、何翊芯、吳政億、黃金洲、馮嘉毅、許劭榮",
     "time": "T34-YD214[YM]"
   },
@@ -1495,7 +1495,7 @@
     "memo": "",
     "name": "外科學概論 Introduction to Surgery",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "張世慶、許瀚水、陳維熊、洪榮志、黃正雄、羅文良、馬旭、葉發來、王鑑瀛、黃國宏、吳思賢、鍾孝仁、陳沂名",
     "time": "M12-YD105[YM]"
   },
@@ -1507,7 +1507,7 @@
     "memo": "",
     "name": "特殊需求者口腔醫療照護 Oral health care for patients of special needs",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "許明倫、程千芳、涂曦丰、彭莉甯、羅文良、劉正芬、李雅玲、李思慧、蔡佳芬、黃明裕",
     "time": "R56-YD210[YM]"
   },
@@ -1531,7 +1531,7 @@
     "memo": "",
     "name": "循環學 Circulation",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "林彥璋、胡瑜峰、盧澤民、羅文良、許喬博、施俊哲、余文鍾、吳道正、宋思賢、許百豐、鐘法博、李必昌、吳承學、陳素真、張俊欽、劉至民、吳政億、蔡泉財、黃金洲",
     "time": "M5-YT304[YM]"
   },
@@ -1543,7 +1543,7 @@
     "memo": "",
     "name": "臨床診斷學 Clinical and Laboratory Diagnosis",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "黃怡翔、陳涵栩、紀乃方、藍敏瑛、劉永揚、曾彥寒、廖顯宗、陳俊宇、許彥彬、李沛璋、謝昀蓁、葉建甫、范乃文、周昱百、陳天華、薛健佑、吳政億、黃冠榕",
     "time": "T5-YD105[YM]"
   },
@@ -1555,7 +1555,7 @@
     "memo": "",
     "name": "臨床診斷學實習 Practical Training of Clinical and Laboratory Diagnosis",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "黃怡翔、陳涵栩、紀乃方、藍敏瑛、曾彥寒、廖顯宗、陳俊宇、許彥彬、李沛璋、葉建甫、范乃文、周昱百、薛健佑、吳政億、吳啟榮、黃冠榕",
     "time": "T678-YD105[YM]"
   },
@@ -1567,7 +1567,7 @@
     "memo": "",
     "name": "麻醉學 Anesthesiology",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "曹正明、丁乾坤、楊舜欽、宋俊松、林世斌、王審之、鄧惟濃、郭怡敏、張文貴、劉靖揚",
     "time": "T34-YD105[YM]"
   },
@@ -1579,7 +1579,7 @@
     "memo": "上課時間：每週五下午2點至五點，上課地點：台北榮總",
     "name": "口腔顎面外科學 Oral & Maxillofacial Surgery",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "高壽延、楊政杰、涂曦丰、羅文良、洪凱風、吳政憲、雷文天、成函潔、黃傳貴",
     "time": "F5678-"
   },
@@ -1591,7 +1591,7 @@
     "memo": "",
     "name": "牙周病學 Periodontology",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "賴玉玲、陳恆理、董醒任、陳彥廷、林怡君、黃惠華、陳軒弘、張馨尹",
     "time": "R3-YD320[YM]"
   },
@@ -1603,7 +1603,7 @@
     "memo": "",
     "name": "牙科臨床實習 Clerkship in Clinical Dentistry",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "賴玉玲、李士元、張國威、陳恆理、楊政杰、涂曦丰、吳靜宜、耿藝文、張景智、高壽延、羅文良、施文宇、洪凱風、楊淑芬、馮懷珍、董醒任、吳政憲、李亞芸、雷文天、于恩浩、陳大為、林怡君、董愛康、吳姿瑩、吳詩韻、何怡青、陳江雲、楊子彰、葉聖威、洪振元、吳和泰、陳瓊芬、陳軒弘、梁祐銘、成函潔、謝春怡、蔡佳倫、鄭冬慧",
     "time": "F12349a-"
   },
@@ -1615,7 +1615,7 @@
     "memo": "",
     "name": "局部贗復學 Removable Partial Denture Prosthodontics",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "86",
     "teacher": "許明倫、耿藝文、張景智、陳岱茜、張志麟、陳正毅、謝旻杰",
     "time": "W12-YD210[YM]"
   },
@@ -1627,7 +1627,7 @@
     "memo": "",
     "name": "局部贋復學實驗 Removable Partial Denture Prosthodontics Lab.",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "許明倫、林嘉澍、耿藝文、張景智、張志麟、林慧觀、張采宇、楊博雅、黃籌永、謝旻杰",
     "time": "M123456789-YD210[YM]"
   },
@@ -1639,7 +1639,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "86",
     "teacher": "洪善鈴",
     "time": "R9a-YD214[YM]"
   },
@@ -1747,7 +1747,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "耿藝文",
     "time": "M9a-YD320[YM]"
   },
@@ -1759,7 +1759,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "黎萬君",
     "time": "W9a-YD320[YM]"
   },
@@ -1771,7 +1771,7 @@
     "memo": "",
     "name": "固定贋復學實驗 Fixed Prosthodontics Lab.",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "李士元、王君伃、陳信宏",
     "time": "W345678-YD202[YM]"
   },
@@ -1879,7 +1879,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "李士元",
     "time": "W9abc-YD302[YM]"
   },
@@ -2131,7 +2131,7 @@
     "memo": "需修習過內外科護理學之護理系四年級\n上課教室：護理館R418與414，台北榮民總醫院手術室及麻醉部",
     "name": "麻醉護理概論 Introduction to Anesthesia Nursing",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "80",
     "teacher": "黃淑鶴、楊惠如",
     "time": "Wab-YN418[YM]"
   },
@@ -4846,6 +4846,18 @@
     "reg_num": "0",
     "teacher": "李國彬",
     "time": "T34-YR105[YM]"
+  },
+  "1121_112529": {
+    "code": "LSLS20030",
+    "credit": "4.00",
+    "hours": "8.00",
+    "id": "112529",
+    "memo": "時間地點另行安排",
+    "name": "論文(上) Thesis, 1st semester",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": "U5678-"
   },
   "1121_112600": {
     "code": "XDIP10012",
@@ -12192,9 +12204,9 @@
     "time": "F12-YL401[YM]"
   },
   "1121_140310": {
-    "code": "MDCM30031",
-    "credit": "3.00",
-    "hours": "3.00",
+    "code": "MDCM30068",
+    "credit": "2.00",
+    "hours": "2.00",
     "id": "140310",
     "memo": "",
     "name": "臨床醫學研究設計與資料分析 Study design and data analysis for clinical research",
@@ -13799,30 +13811,6 @@
     "teacher": "黃奇英、李光申",
     "time": "S4n56789U4n56789-YR105[YM]"
   },
-  "1121_161000": {
-    "code": "GECE00099",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "161000",
-    "memo": "〔1〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽博雅書苑承辦人（分機ext.65285／Email: rxfan@nycu.edu.tw）辦理。",
-    "name": "初級日文(一) Basic Japanese (I)",
-    "num_limit": "18",
-    "reg_num": "0",
-    "teacher": "詹兆雯",
-    "time": "R12-YT103[YM]"
-  },
-  "1121_161001": {
-    "code": "GECE00100",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "161001",
-    "memo": "〔1〕需具日文基礎，為維持教學品質，限制修課人數。〔2〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽博雅書苑承辦人（分機ext.65285／Email: rxfan@nycu.edu.tw）辦理。",
-    "name": "初級日文(三) Basic Japanese (III)",
-    "num_limit": "16",
-    "reg_num": "0",
-    "teacher": "詹兆雯",
-    "time": "T9a-YT103[YM]"
-  },
   "1121_161002": {
     "code": "GECE00112",
     "credit": "2.00",
@@ -14757,7 +14745,7 @@
     "num_limit": "15",
     "reg_num": "0",
     "teacher": "李怡萱、郭文瑞、俞震亞、鄭凱元、嚴如玉、勞維俊、曲在雯、廖文霖、魏雋展",
-    "time": "R78-YL402[YM]"
+    "time": "R78-CS100[GF],R78-YL402[YM]"
   },
   "1121_230000": {
     "code": "MGBM30056",
@@ -21228,12 +21216,12 @@
     "time": "Wabcd-SC326[GF]"
   },
   "1121_516606": {
-    "code": "SCEP00009",
-    "credit": "2.00",
+    "code": "SCEP00007",
+    "credit": ".00",
     "hours": "2.00",
     "id": "516606",
     "memo": "",
-    "name": "服務學習二:物理科普教育推廣 Service Learning II",
+    "name": "服務學習(二) Service Learning II",
     "num_limit": "111",
     "reg_num": "0",
     "teacher": "張文豪",
@@ -30381,7 +30369,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "蔡宗亨",
-    "time": ""
+    "time": "R567-A316[GF]"
   },
   "1121_539004": {
     "code": "IIPS30019",
@@ -30393,7 +30381,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "冉曉雯、李耀仁、林柏宏",
-    "time": "T56-"
+    "time": "T56-ED301[GF]"
   },
   "1121_539005": {
     "code": "IIPS30001",
@@ -31868,7 +31856,7 @@
     "name": "金融科技 Financial technology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "戴天時、彭文志、黃俊龍、謝文良、林瑞嘉、黃思皓、鄧惠文、黃星華、郭家豪",
+    "teacher": "戴天時、林智勇、彭文志、黃俊龍、謝文良、林瑞嘉、黃思皓、鄧惠文、黃星華、郭家豪",
     "time": "U234-M101[GF]"
   },
   "1121_557705": {
@@ -33258,7 +33246,7 @@
     "id": "561074",
     "memo": "[English Medium Course]",
     "name": "探索科學I：舊世界的科學 Exploring History of Science. Part I:Science in Ancient Worlds",
-    "num_limit": "22",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "博佳佳",
     "time": "T34-A509[GF]"
@@ -37482,7 +37470,7 @@
     "id": "567003",
     "memo": "限中一中科學班學生選課",
     "name": "普通生物學實驗(一) General Biology Lab.(I)",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "0",
     "teacher": "陳文亮",
     "time": "M9ab-"
@@ -37506,7 +37494,7 @@
     "id": "567005",
     "memo": "理學院學士班學生優先選課",
     "name": "普通生物學(一) General Biology(I)",
-    "num_limit": "9999",
+    "num_limit": "90",
     "reg_num": "0",
     "teacher": "莊碧簪",
     "time": "Wn56-SA321[GF]"
@@ -37518,7 +37506,7 @@
     "id": "567006",
     "memo": "奈米學士班學生優先選課",
     "name": "普通生物學 General Biology",
-    "num_limit": "9999",
+    "num_limit": "27",
     "reg_num": "0",
     "teacher": "鄒協成、莊碧簪、梁美智",
     "time": "M567-EE548[GF]"
@@ -37618,6 +37606,30 @@
     "reg_num": "0",
     "teacher": "黃世昆",
     "time": "R567-CS105[GF]"
+  },
+  "1121_576000": {
+    "code": "AATL10011",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "576000",
+    "memo": "",
+    "name": "英國文化史 Perspectives in British History and Culture",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "蕭智尹",
+    "time": "R34n-"
+  },
+  "1121_576001": {
+    "code": "AATL00003",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "576001",
+    "memo": "",
+    "name": "西洋藝術史觀點 Perspectives in Western Art History",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "蕭智尹",
+    "time": "W34n-A103[GF]"
   },
   "1121_579000": {
     "code": "GECL00010",
@@ -39235,7 +39247,7 @@
     "memo": "上課地點在國防理工",
     "name": "物件導向程式設計 Object Oriented Programming",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "20",
     "teacher": "陳丙堃",
     "time": "Mabc-"
   },
@@ -39247,7 +39259,7 @@
     "memo": "上課地點在國防理工",
     "name": "離散數學 Discrete Mathematics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "20",
     "teacher": "王順吉",
     "time": "M34W4-"
   },
@@ -39259,7 +39271,7 @@
     "memo": "上課地點在國防理工",
     "name": "資料結構 Data Structure",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "20",
     "teacher": "周兆龍",
     "time": "W123-"
   },
@@ -39271,7 +39283,7 @@
     "memo": "上課地點在國防理工",
     "name": "數位電路設計 Digital Circuit Design",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "20",
     "teacher": "陳丙堃",
     "time": "Tabc-"
   },
@@ -39283,7 +39295,7 @@
     "memo": "此課程由曾建超老師授課六週，上課時間為R34n，地點於光復校區。其餘十二週由理工學院張凱威老師授課，上課地點於國防大學理工學院。",
     "name": "網路技術與實務1 Network Technology and Practice(1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "20",
     "teacher": "張凱威、曾建超",
     "time": "R234-"
   },
@@ -40351,7 +40363,7 @@
     "memo": "上課地點在國防理工",
     "name": "有機化學(1) Organic Chemistry(1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "系統工程",
     "time": "M3F67-"
   },
@@ -40363,7 +40375,7 @@
     "memo": "上課地點在國防理工",
     "name": "有機化學實驗(1) Organic Chemistry Lab.(1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "系統工程",
     "time": "M467-"
   },
@@ -40375,7 +40387,7 @@
     "memo": "上課地點在國防理工",
     "name": "工程數學(1) Engineering Mathematics(1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "系統工程",
     "time": "M8T12-"
   },
@@ -40387,7 +40399,7 @@
     "memo": "上課地點在國防理工",
     "name": "儀器及分析化學實驗(1) Analytical Chemistry Lab.(1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "游竹淋",
     "time": "T678-"
   },
@@ -40399,7 +40411,7 @@
     "memo": "上課地點在國防理工",
     "name": "儀器及分析化學(1) Analytical Chemistry(1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "王志嘉",
     "time": "W234-"
   },
@@ -40411,7 +40423,7 @@
     "memo": "化材組，上課地點在國防理工",
     "name": "服務學習 (1) Service Learning (I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "系統工程",
     "time": "R1-"
   },
@@ -40423,7 +40435,7 @@
     "memo": "上課地點在國防理工",
     "name": "材料科學導論 Introduction to Materials Science",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "許宏華、陳智",
     "time": "F234-"
   },
@@ -40675,7 +40687,7 @@
     "memo": "上課地點在國防理工",
     "name": "線性代數 Linear Algebra",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "張克勤",
     "time": "W234-"
   },
@@ -40855,7 +40867,7 @@
     "memo": "上課地點在國防理工",
     "name": "服務學習 (2) Service Learning(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "李志國",
     "time": "T9-"
   },
@@ -40879,7 +40891,7 @@
     "memo": "上課地點在國防理工",
     "name": "電子學(1) Electronics Circuits (1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "談光雄",
     "time": "R234-"
   },
@@ -40975,7 +40987,7 @@
     "memo": "上課地點在國防理工",
     "name": "熱力學(1) Thermodynamics(1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "夏筱明",
     "time": "F234-"
   },
@@ -41131,7 +41143,7 @@
     "memo": "上課地點在國防理工",
     "name": "應用力學－靜力學 Engineering Mechanics - Statics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "林聰穎",
     "time": "T678-"
   },
@@ -41263,7 +41275,7 @@
     "memo": "上課地點在國防理工",
     "name": "工程數學(1) Engineering Mathematics(1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "賴渝翔",
     "time": "R234-"
   },
@@ -41359,7 +41371,7 @@
     "memo": "上課地點在國防理工",
     "name": "工程圖學 Engineering Graphics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "系統工程",
     "time": "F67-"
   },
@@ -41419,7 +41431,7 @@
     "memo": "上課地點在國防理工，授課教師:黃國鑫",
     "name": "工廠實習(2) Workshop Practice(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "系統工程",
     "time": "W12-"
   },
@@ -41455,7 +41467,7 @@
     "memo": "上課地點在國防理工",
     "name": "工程數學(1) Engineering Mathematics(1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "潘冠呈",
     "time": "R123-"
   },
@@ -41467,7 +41479,7 @@
     "memo": "上課地點在國防理工",
     "name": "熱力學 Thermodynamics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "黃寶錩",
     "time": "F234-"
   },
@@ -41479,7 +41491,7 @@
     "memo": "上課地點在國防理工",
     "name": "應用力學－靜力學 Engineering Mechanics - Statics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "陳幼良",
     "time": "T678-"
   },
@@ -42331,7 +42343,7 @@
     "memo": "上課地點在國防理工",
     "name": "大地測量學實習 Geodesy Practice",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "李宜珊",
     "time": "F2-"
   },
@@ -42715,7 +42727,7 @@
     "memo": "上課地點在國防理工",
     "name": "電腦輔助製圖與實作 Computer Aided Drawing and Practice",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "簡志峻",
     "time": "W1F34-"
   },
@@ -42751,7 +42763,7 @@
     "memo": "上課地點在國防理工",
     "name": "工程數學(1) Engineering Mathematics(1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "楊順欽、林志平",
     "time": "T234-"
   },
@@ -43099,7 +43111,7 @@
     "memo": "上課地點在國防理工",
     "name": "中華民國憲法與立國精神 Constitution and Founding spirit of the ROC",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "系統工程",
     "time": "M678-"
   },
@@ -43111,7 +43123,7 @@
     "memo": "上課地點在國防理工",
     "name": "大陸問題研究 Studies on Mainland China",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "20",
     "teacher": "系統工程",
     "time": "T678-"
   },
@@ -43123,7 +43135,7 @@
     "memo": "上課地點在國防理工",
     "name": "中國現代史(含國軍建軍史) Chinese Modern History",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "19",
     "teacher": "系統工程",
     "time": "R234-"
   },
@@ -43135,7 +43147,7 @@
     "memo": "上課地點在國防理工",
     "name": "中華民國憲法與立國精神 Constitution and Founding spirit of the ROC",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "20",
     "teacher": "系統工程",
     "time": "M678-"
   },
@@ -43147,7 +43159,7 @@
     "memo": "上課地點在國防理工",
     "name": "中國現代史(含國軍建軍史) Chinese Modern History",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "系統工程",
     "time": "T678-"
   },
@@ -43159,7 +43171,7 @@
     "memo": "上課地點在國防理工",
     "name": "大陸問題研究 Studies on Mainland China",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "系統工程",
     "time": "M678-"
   },
@@ -43171,7 +43183,7 @@
     "memo": "上課地點在國防理工",
     "name": "中國現代史(含國軍建軍史) Chinese Modern History",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "系統工程",
     "time": "W678-"
   },

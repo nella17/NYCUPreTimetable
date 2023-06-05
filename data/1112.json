@@ -5887,7 +5887,7 @@
     "memo": "",
     "name": "骨質密度測定及紅外線掃瞄實習 Bone Density Measurement and Infra-red Thermography Practice",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "35",
     "teacher": "楊逢羿",
     "time": "U3-"
   },
@@ -5911,7 +5911,7 @@
     "memo": "",
     "name": "醫學物理學實習(輻射安全) Medical Physics Practice(Radiation Safety)",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "35",
     "teacher": "楊逢羿",
     "time": "U4-"
   },
@@ -37126,30 +37126,6 @@
     "reg_num": "17",
     "teacher": "楊本立",
     "time": "Fbc-SC162[GF]"
-  },
-  "1112_571000": {
-    "code": "GESL00005",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "571000",
-    "memo": "",
-    "name": "健康餐點與關懷弱勢-服務學習(二) Servicing Learning II",
-    "num_limit": "30",
-    "reg_num": "30",
-    "teacher": "蕭智尹",
-    "time": "MnTn-ED202[GF]"
-  },
-  "1112_571001": {
-    "code": "GESL00006",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "571001",
-    "memo": "",
-    "name": "家扶遊戲奇積—服務學習(二) KIDtopia- Service Learning (II)",
-    "num_limit": "30",
-    "reg_num": "4",
-    "teacher": "陳鏗任",
-    "time": "Wab-SC105[GF]"
   },
   "1112_571002": {
     "code": "GESL00007",

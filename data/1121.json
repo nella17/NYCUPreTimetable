@@ -128,7 +128,7 @@
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "凌憬峰",
+    "teacher": "醫學系",
     "time": "W34-YT304[YM]"
   },
   "1121_110007": {
@@ -140,7 +140,7 @@
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "凌憬峰",
+    "teacher": "醫學系",
     "time": "W34-YT304[YM]"
   },
   "1121_110008": {
@@ -152,7 +152,7 @@
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "凌憬峰",
+    "teacher": "醫學系",
     "time": "W34-YT304[YM]"
   },
   "1121_110009": {
@@ -164,7 +164,7 @@
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "凌憬峰",
+    "teacher": "醫學系",
     "time": "W34-YT304[YM]"
   },
   "1121_110010": {
@@ -176,7 +176,7 @@
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "凌憬峰",
+    "teacher": "醫學系",
     "time": "W34-YT206[YM]"
   },
   "1121_110011": {
@@ -188,7 +188,7 @@
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "凌憬峰",
+    "teacher": "醫學系",
     "time": "W34-YT206[YM]"
   },
   "1121_110012": {
@@ -200,7 +200,7 @@
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "凌憬峰",
+    "teacher": "醫學系",
     "time": "W34-YT206[YM]"
   },
   "1121_110013": {
@@ -212,7 +212,7 @@
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "凌憬峰",
+    "teacher": "醫學系",
     "time": "W34-YT206[YM]"
   },
   "1121_110014": {
@@ -224,7 +224,7 @@
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "凌憬峰",
+    "teacher": "醫學系",
     "time": "W34-YT206[YM]"
   },
   "1121_110015": {
@@ -236,7 +236,7 @@
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "凌憬峰",
+    "teacher": "醫學系",
     "time": "W34-YT206[YM]"
   },
   "1121_110016": {
@@ -1964,7 +1964,7 @@
     "name": "護理研究概論 Introduction to Nursing Research",
     "num_limit": "254",
     "reg_num": "-999",
-    "teacher": "陳律言、黃子庭、王子芳、陳俞琪、蔡慈儀、楊秋月、周承珍、楊曼華、林承霈",
+    "teacher": "陳律言、王子芳、陳俞琪、蔡慈儀、簡莉盈、楊秋月、周承珍、楊曼華、林承霈",
     "time": "F34-YN418[YM]"
   },
   "1121_111807": {
@@ -2445,7 +2445,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳日榮、賴尚志",
-    "time": ""
+    "time": "U123-"
   },
   "1121_111929": {
     "code": "PSPM10053",
@@ -4067,18 +4067,6 @@
     "teacher": "詹明賢、李易展、陳志成、楊逢羿、吳東信、許世明、吳杰、陳傳霖、盧家鋒、莊惠燕、高瑀絜、吳駿一、張御展",
     "time": "W56-YT303[YM]"
   },
-  "1121_112308": {
-    "code": "BEIR10027",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "112308",
-    "memo": "導師時間",
-    "name": "知性與感性時間(一) Time for Instruction and Inspiration (1)",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "詹明賢",
-    "time": "W34-YT301[YM]"
-  },
   "1121_112309": {
     "code": "BEIR20052",
     "credit": "2.00",
@@ -4148,7 +4136,7 @@
     "name": "生活在陽明(一) Life in National Yang-Ming University (1)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "吳駿一",
+    "teacher": "吳東信",
     "time": "W34-YT303[YM]"
   },
   "1121_112315": {
@@ -4160,7 +4148,7 @@
     "name": "生活在陽明(一) Life in National Yang-Ming University (1)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳瀅州",
+    "teacher": "陳傳霖",
     "time": "W34-YT303[YM]"
   },
   "1121_112316": {
@@ -4436,7 +4424,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李易展",
+    "teacher": "李易展、陳瀅州、吳駿一",
     "time": "Fab-"
   },
   "1121_112340": {
@@ -4448,7 +4436,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "盧家鋒",
+    "teacher": "盧家鋒、許世明、張御展",
     "time": "Fab-"
   },
   "1121_112400": {
@@ -5912,7 +5900,7 @@
     "name": "物質使用與公共衛生 Substance Use and Public Health",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳娟瑜、王先逸、郭柏秀、王聲昌",
+    "teacher": "陳娟瑜、王先逸、陳為堅、郭柏秀、王聲昌",
     "time": "W12-"
   },
   "1121_130204": {
@@ -6138,7 +6126,7 @@
     "id": "130222",
     "memo": "",
     "name": "健康與人權 Health and Human Rights",
-    "num_limit": "9999",
+    "num_limit": "10",
     "reg_num": "-999",
     "teacher": "吳全峰",
     "time": "M78-YS103[YM]"
@@ -6164,7 +6152,7 @@
     "name": "心理衛生流行病學 Mental Health Epidemiology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳娟瑜",
+    "teacher": "陳娟瑜、黃心苑、陳嘉新、莊宜芳",
     "time": "W78-YS103[YM]"
   },
   "1121_130225": {
@@ -8075,18 +8063,6 @@
     "teacher": "張榮偉、陳美蓮、紀凱獻、黃鈺芳、李旻軒、劉宗榮",
     "time": "R56-YS405[YM]"
   },
-  "1121_131228": {
-    "code": "MDIH30050",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "131228",
-    "memo": "[English Medium Course]",
-    "name": "感染與應用腫瘤免疫學 Infection and Applied Tumor Immunology",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "廖皎君",
-    "time": "R78-YR103[YM]"
-  },
   "1121_131300": {
     "code": "MDPH30021",
     "credit": "3.00",
@@ -8636,7 +8612,7 @@
     "name": "高齡健康照護與處置 Health care and intervention in older adults",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳怡如、王子芳、邱愛富、楊曼華",
+    "teacher": "陳怡如、王子芳、邱愛富、李雪楨、張立鴻、楊曼華、張豫立、陳怡亨、林明憲、余虹、何佳珍、曾崧華",
     "time": "T567-YN419[YM]"
   },
   "1121_131712": {
@@ -8673,7 +8649,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳律言、黃子庭、孫秀卿、陳俞琪、張秀如、林承霈",
-    "time": "W89-YN419[YM]"
+    "time": "F89-YN301[YM]"
   },
   "1121_131715": {
     "code": "NSCN30047",
@@ -10473,7 +10449,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "詹明賢",
-    "time": "T56-YB134[YM]"
+    "time": "T78-YB134[YM]"
   },
   "1121_132517": {
     "code": "BEIR30059",
@@ -12225,7 +12201,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李美璇",
-    "time": "W78-YR101[YM]"
+    "time": "W34-YR104[YM]"
   },
   "1121_140311": {
     "code": "MDCM30011",
@@ -14634,7 +14610,7 @@
     "id": "161071",
     "memo": "",
     "name": "十六、十七世紀歐洲藝術 The Golden Age of European Art, 1500-1700",
-    "num_limit": "0",
+    "num_limit": "25",
     "reg_num": "-999",
     "teacher": "葉嘉華",
     "time": "W34-A503[GF]"
@@ -14646,7 +14622,7 @@
     "id": "161072",
     "memo": "實地線上混合教學課程 (陽明校區：線上，請向教師索取線上連結；交大校區：A103)",
     "name": "達文西的世界·世界的達文西 The World of Leonardo da Vinci",
-    "num_limit": "0",
+    "num_limit": "25",
     "reg_num": "-999",
     "teacher": "葉嘉華、陳嘉新、邱剛彥、侯君昊、謝啟民、王潔瑩",
     "time": "W56-A103[GF]"
@@ -16014,7 +15990,7 @@
     "id": "410002",
     "memo": "",
     "name": "程式設計 Go Go Go Programming Go Go Go",
-    "num_limit": "14",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "羅惟正",
     "time": "T789-BI304[BA]"
@@ -16388,7 +16364,7 @@
     "name": "論文研究 Thesis",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "吳妍華、王雲銘、邱光裕",
+    "teacher": "吳妍華、邱光裕",
     "time": ""
   },
   "1121_430005": {
@@ -17072,7 +17048,7 @@
     "name": "博士班書報討論（B） Special Topics Seminar B(PhD)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林勇欣、李宗夷、陸志豪、高雅婷、陳亭妏、林峻宇",
+    "teacher": "林勇欣、李宗夷、陸志豪、高雅婷、林峻宇",
     "time": "M3-BI310[BA]"
   },
   "1121_440101": {
@@ -17084,7 +17060,7 @@
     "name": "基礎分子生物學(一) Basic Molecular Biology(I)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "中研院國際學程",
     "time": "T234-"
   },
   "1121_440102": {
@@ -17096,7 +17072,7 @@
     "name": "生物序列分析與高通量技術 Sequencing technology and high-throughput data analysis",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "中研院國際學程",
     "time": "F678-"
   },
   "1121_440103": {
@@ -17108,7 +17084,7 @@
     "name": "研究室見習 Rotation",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "中研院國際學程",
     "time": "M23-"
   },
   "1121_440104": {
@@ -17120,7 +17096,7 @@
     "name": "專題演講 Student Presentation",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "中研院國際學程",
     "time": "R78-"
   },
   "1121_440105": {
@@ -17132,7 +17108,7 @@
     "name": "博士班書報討論 Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "中研院國際學程",
     "time": "R56-"
   },
   "1121_440106": {
@@ -17144,8 +17120,8 @@
     "name": "生物機器學習 Machine Learning in Computational Biology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
-    "time": "R234-BI305[BA]"
+    "teacher": "中研院國際學程",
+    "time": "R234-"
   },
   "1121_440107": {
     "code": "BTBI30068",
@@ -17156,7 +17132,7 @@
     "name": "程式語言 Programming(Python)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "中研院國際學程",
     "time": "F34-"
   },
   "1121_440300": {
@@ -18028,7 +18004,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515000",
-    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，重修生或外系學生請於第三階段後加選。\n課程時間為周一晚上abcd，上課教室為工程四館ED320。",
+    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周一晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
     "reg_num": "-999",
@@ -18040,7 +18016,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515001",
-    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，重修生或外系學生請於第三階段後加選。\n課程時間為周三晚上abcd，上課教室為工程四館ED320。",
+    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周三晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
     "reg_num": "-999",
@@ -18052,7 +18028,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515002",
-    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，重修生或外系學生請於第三階段後加選。\n課程時間為周一晚上abcd，上課教室為工程四館ED222。",
+    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周一晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
     "reg_num": "-999",
@@ -18064,7 +18040,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515003",
-    "memo": "電子實驗課為電機系大二學生必修課程，重修生或外系學生請於第三階段後加選。\n以電機系大二學生優先、「2A班優先」、醫師工程師組。課程時間為周二晚上abcd，上課教室為工程四館ED320。",
+    "memo": "電子實驗課為電機系大二學生必修課程，第三階段起開放所有學生加退選。\n以電機系大二學生優先、「2A班優先」、醫師工程師組。課程時間為周二晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
     "reg_num": "-999",
@@ -18076,7 +18052,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515004",
-    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，重修生或外系學生請於第三階段後加選。\n課程時間為周三晚上abcd，上課教室為工程四館ED222。",
+    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周三晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
     "reg_num": "-999",
@@ -18304,7 +18280,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515023",
-    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，重修生或外系學生請於第三階段後加選。\n課程時間為周二晚上abcd，上課教室為工程四館ED222。",
+    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周二晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
     "reg_num": "-999",
@@ -19362,7 +19338,7 @@
     "id": "515413",
     "memo": "[English Medium Course]",
     "name": "訊號與系統 Signals and Systems",
-    "num_limit": "9999",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "鄒志偉",
     "time": "T5R67-EO103[GF]"
@@ -19420,7 +19396,7 @@
     "credit": "3.00",
     "hours": "5.00",
     "id": "515500",
-    "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Rabc上課教室:EC315、EC316 ；主開1年級；本系生優先權順序：1年級，4年級，3年級，2年級",
+    "memo": "一年級必修僅開學才開放選課(Required courses for first-year students can only be selected after the class begins )；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Rabc上課教室:EC315、EC316 ；主開1年級；本系生優先權順序：1年級，4年級，3年級，2年級",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "60",
     "reg_num": "-999",
@@ -19432,7 +19408,7 @@
     "credit": "3.00",
     "hours": "5.00",
     "id": "515501",
-    "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Mabc上課教室:EC315、EC316 ；主開1年級；本系生優先權順序：1年級，4年級，3年級，2年級",
+    "memo": "一年級必修僅開學才開放選課(Required courses for first-year students can only be selected after the class begins )；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Mabc上課教室:EC315、EC316 ；主開1年級；本系生優先權順序：1年級，4年級，3年級，2年級",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "60",
     "reg_num": "-999",
@@ -19444,7 +19420,7 @@
     "credit": "3.00",
     "hours": "5.00",
     "id": "515502",
-    "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Tabc上課教室:EC315、EC316 ；主開1年級[English Medium Course]，本系生優先權順序：1年級，4年級，3年級，2年級。實地線上混合教學課程 (陽明校區：線上，請向教師索取線上連結)",
+    "memo": "一年級必修僅開學才開放選課(Required courses for first-year students can only be selected after the class begins )；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Tabc上課教室:EC315、EC316 ；主開1年級[English Medium Course]，本系生優先權順序：1年級，4年級，3年級，2年級。實地線上混合教學課程 (陽明校區：線上，請向教師索取線上連結)",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "60",
     "reg_num": "-999",
@@ -19456,7 +19432,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515503",
-    "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously];本系生優先權順序：1年級，4年級，3年級，2年級",
+    "memo": "一年級必修僅開學才開放選課(Required courses for first-year students can only be selected after the class begins )；外系生請於開學上網加選；資工系與電資學士班學生優先選課；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously];本系生優先權順序：1年級，4年級，3年級，2年級",
     "name": "線性代數 Linear Algebra",
     "num_limit": "140",
     "reg_num": "-999",
@@ -19468,7 +19444,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515504",
-    "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course];本系生優先權順序：1年級，4年級，3年級，2年級;開放隨班附讀",
+    "memo": "一年級必修僅開學才開放選課(Required courses for first-year students can only be selected after the class begins )；外系生請於開學上網加選；資工系與電資學士班學生優先選課；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course];本系生優先權順序：1年級，4年級，3年級，2年級;開放隨班附讀",
     "name": "線性代數 Linear Algebra",
     "num_limit": "70",
     "reg_num": "-999",
@@ -19796,7 +19772,7 @@
     "name": "計算機系統管理 Computer System Administration",
     "num_limit": "120",
     "reg_num": "-999",
-    "teacher": "曾建超、王則涵、曾亮齊",
+    "teacher": "蔡孟勳",
     "time": "Rabc-EC122[GF]"
   },
   "1121_515609": {
@@ -20380,7 +20356,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "516123",
-    "memo": "核心選修課程/  開3/4年級",
+    "memo": "核心選修課程/  開3/4年級。系統工程學生請以網路選課加退選處理表做紙本加簽。",
     "name": "能源科技 Energy Technology ",
     "num_limit": "105",
     "reg_num": "-999",
@@ -20781,7 +20757,7 @@
     "num_limit": "45",
     "reg_num": "-999",
     "teacher": "袁宇秉",
-    "time": "M34n-EB415[GF]"
+    "time": "W34n-EB415[GF]"
   },
   "1121_516220": {
     "code": "ENCV10004",
@@ -22218,7 +22194,7 @@
     "id": "517207",
     "memo": "",
     "name": "航空運輸 Air Transportation",
-    "num_limit": "9999",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "黃寬丞",
     "time": "T567-A310[GF]"
@@ -22590,7 +22566,7 @@
     "id": "517502",
     "memo": "管院管理基礎課程；主開大二資財系；上限60人，資財系大二、管科系大三必修；限資財系大二以上、其他學系大三以上同學選修。資財系限必修本課程。管院學生優先選課；輔開管理學院、管科系、運管系、工管系；工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修。運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。非管院學生請於開學加退選階段上網選課。",
     "name": "管理資訊系統 Management Information System",
-    "num_limit": "60",
+    "num_limit": "55",
     "reg_num": "-999",
     "teacher": "陳耀宗",
     "time": "T234-M-b01[GF]"
@@ -22674,7 +22650,7 @@
     "id": "517509",
     "memo": "財金類課程；資財系優先選課；外系學生請於開學加退選階段上網選課。",
     "name": "數理統計 Mathematical Statistics",
-    "num_limit": "35",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "鄧惠文",
     "time": "M234R8-M-b09[GF]"
@@ -22696,7 +22672,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "517511",
-    "memo": "專業服務學習課程。",
+    "memo": "本課程為專業服務學習課程。本課程共掛為通識課程。",
     "name": "高齡財務規劃與實作 Elderly Financial Planning and Practice",
     "num_limit": "30",
     "reg_num": "-999",
@@ -22710,7 +22686,7 @@
     "id": "517512",
     "memo": "財金類課程；資財系優先選課；外系學生請於開學加退選階段上網選課。",
     "name": "財務風險管理 Financial Risk Management",
-    "num_limit": "35",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "郭家豪",
     "time": "R234-M-b09[GF]"
@@ -25278,7 +25254,7 @@
     "id": "535226",
     "memo": "上課教室：ED417B",
     "name": "系統晶片設計 SOC Design",
-    "num_limit": "9999",
+    "num_limit": "36",
     "reg_num": "-999",
     "teacher": "賴瑾",
     "time": "W789-"
@@ -27084,9 +27060,9 @@
     "time": "M567-EE231[GF]"
   },
   "1121_536074": {
-    "code": "ENSS30005",
-    "credit": "3.00",
-    "hours": "3.00",
+    "code": "ENSS30006",
+    "credit": ".00",
+    "hours": "2.00",
     "id": "536074",
     "memo": "",
     "name": "書報討論(一) Seminar(I)",
@@ -29058,10 +29034,10 @@
     "id": "537014",
     "memo": "開放大一到大四同學選修。※管科系、資財系大二學生限修大學部財務管理課程。※管院學生(含雙主修、輔系、跨域學程)若有特殊原因須修習此研究所課程抵免大學部財務管理課程之學分，須於修課前向所屬系辦申請，並經由此課程召集老師同意始得認列學分。實地線上混合教學課程 (陽明校區：線上，請向教師索取線上連結)",
     "name": "財務管理 Financial Management",
-    "num_limit": "9999",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "蔡璧徽",
-    "time": "F234-M205[GF]"
+    "time": "F234-AB103[GF]"
   },
   "1121_537015": {
     "code": "MGMS30065",
@@ -29404,7 +29380,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537214",
-    "memo": "台北校區主開",
+    "memo": "台北校區主開，光復校區視訊上課。非本系大學部學生選修必須經授課教師同意。",
     "name": "巨量資料分析 Big Data Analytics",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -29637,7 +29613,7 @@
     "num_limit": "40",
     "reg_num": "-999",
     "teacher": "蔡銘箴",
-    "time": "M34n-MB312[GF]"
+    "time": "W34n-MB304[GF]"
   },
   "1121_537605": {
     "code": "MGIM30030",
@@ -29766,7 +29742,7 @@
     "id": "537700",
     "memo": "財務類課程；財策組必修；財務金融碩博士班學生優先。上課教室：管理一館1樓光寶廳M115。",
     "name": "國際財務管理 Multinational Financial Management ",
-    "num_limit": "55",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "鍾惠民、梁婉麗",
     "time": "M567-"
@@ -29862,7 +29838,7 @@
     "id": "537708",
     "memo": "財務類課程；財務金融碩博士班學生優先。",
     "name": "資產評價理論 Asset Pricing Theory",
-    "num_limit": "60",
+    "num_limit": "55",
     "reg_num": "-999",
     "teacher": "郭家豪",
     "time": "W789-M101[GF]"
@@ -29898,7 +29874,7 @@
     "id": "537711",
     "memo": "財務類課程；財務金融碩博士班、資財系大三大四優先。本課程不開放博士班學生選修。上課教室：管理一館1樓光寶廳M115。",
     "name": "財務個案分析 Case study in finance",
-    "num_limit": "55",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "鍾惠民、王燈山",
     "time": "Rabc-"
@@ -29910,7 +29886,7 @@
     "id": "537712",
     "memo": "[English Medium Course]財務類課程；財務金融碩博士班、GMBA學生優先；英語授課。",
     "name": "機器學習與金融科技 Machine Learning and FinTech",
-    "num_limit": "80",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "鄧惠文",
     "time": "F234-M101[GF]"
@@ -30126,7 +30102,7 @@
     "id": "537817",
     "memo": "[English Medium Course]\n實地線上混合教學課程。\n陽明校區：線上，請向教師索取線上連結。",
     "name": "設計思考與商業模式創新 Design Thinking and Business Model Innovation",
-    "num_limit": "20",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "陳詩欣",
     "time": "M34n-A722[GF]"
@@ -30165,7 +30141,7 @@
     "num_limit": "35",
     "reg_num": "-999",
     "teacher": "陳詩欣、高啟明",
-    "time": "M678-A701[GF]"
+    "time": "M789-A701[GF]"
   },
   "1121_537821": {
     "code": "MGMT30009",
@@ -30573,7 +30549,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "許鉦宗",
-    "time": "R567-EE209[GF]"
+    "time": "R567-EE207[GF]"
   },
   "1121_545455": {
     "code": "EEBM30008",
@@ -30966,7 +30942,7 @@
     "id": "547704",
     "memo": "資訊類課程；財務金融碩博士班、資財系大三大四優先；財務金融博士班AI組必修。",
     "name": "人工智慧理論與實作 Artificial Intelligence: Theory and Practice",
-    "num_limit": "120",
+    "num_limit": "80",
     "reg_num": "-999",
     "teacher": "黃思皓",
     "time": "Wabc-M101[GF]"
@@ -31830,7 +31806,7 @@
     "id": "557607",
     "memo": "",
     "name": "資料探勘研究與實務 Data Mining Research & Practice",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "劉敦仁",
     "time": "Rabc-MB311[GF]"
@@ -32742,7 +32718,7 @@
     "id": "561028",
     "memo": "視訊同步遠距課程。光復校區A102、陽明校區YT305",
     "name": "領導與統御 Leadership",
-    "num_limit": "60",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "林紹胤",
     "time": "R789-A102[GF],R789-YT305[YM]"
@@ -32886,7 +32862,7 @@
     "id": "561040",
     "memo": "限大二以上同學修讀，修課學生需攜帶筆電。",
     "name": "營運管理 Operations Management",
-    "num_limit": "48",
+    "num_limit": "42",
     "reg_num": "-999",
     "teacher": "李榮貴",
     "time": "W56-A401[GF]"
@@ -33438,7 +33414,7 @@
     "id": "562001",
     "memo": "",
     "name": "英文聽力與討論 English Listening and Discussion",
-    "num_limit": "15",
+    "num_limit": "25",
     "reg_num": "-999",
     "teacher": "楊芳盈",
     "time": "F34-A307[GF]"
@@ -33448,7 +33424,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562003",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "英文聽力與討論 English Listening and Discussion",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33484,7 +33460,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562006",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "英文聽力與討論 English Listening and Discussion",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33496,7 +33472,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562007",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "英文聽力與討論 English Listening and Discussion",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33508,7 +33484,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562008",
-    "memo": "",
+    "memo": "[English Medium Course]保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "英文聽力與討論 English Listening and Discussion",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33520,7 +33496,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562009",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "英文聽力與討論 English Listening and Discussion",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33532,7 +33508,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562010",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "英文聽力與寫作 English Listening and Writing",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33544,7 +33520,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562011",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "英文聽力與寫作 English Listening and Writing",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33580,7 +33556,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562014",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "英文聽力與寫作 English Listening and Writing",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33592,7 +33568,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562015",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "英文閱讀與寫作 English Reading and Writing",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33628,7 +33604,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562018",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "英文閱讀與討論 English Reading and Discussion",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33748,7 +33724,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562028",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "英文口語發表 English Oral Presentation",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33772,7 +33748,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562030",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "英文口語溝通 English Communication",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33784,7 +33760,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562031",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "線上英文會議簡報 English for Online Presentations",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33808,7 +33784,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562033",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "英文字彙 Vocabulary Building",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33844,7 +33820,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562036",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "科技英文 Technical English",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33856,7 +33832,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562037",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "商用英文 Business English",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33916,7 +33892,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562042",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "旅遊英文 English for Tourists",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33940,7 +33916,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562048",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "職場英文 English for the Workplace",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33964,7 +33940,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562050",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "讀小說學英文 English Readers",
     "num_limit": "25",
     "reg_num": "-999",
@@ -33988,7 +33964,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562052",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "國際禮儀英文 English for International Etiquette",
     "num_limit": "25",
     "reg_num": "-999",
@@ -34026,7 +34002,7 @@
     "id": "562055",
     "memo": "",
     "name": "多文體英文寫作 Multigenre English Writing",
-    "num_limit": "25",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "張靜芬",
     "time": "M78-A504[GF]"
@@ -34038,7 +34014,7 @@
     "id": "562056",
     "memo": "",
     "name": "職場英文寫作 Workplace English Writing",
-    "num_limit": "25",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "秦毓婷",
     "time": "M56-A506[GF]"
@@ -34050,7 +34026,7 @@
     "id": "562057",
     "memo": "",
     "name": "職場英文寫作 Workplace English Writing",
-    "num_limit": "25",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "秦毓婷",
     "time": "R56-A506[GF]"
@@ -34386,7 +34362,7 @@
     "id": "562085",
     "memo": "須先修畢日文(四)",
     "name": "日語簡報訓練 Presenting in Japanese",
-    "num_limit": "45",
+    "num_limit": "15",
     "reg_num": "-999",
     "teacher": "上條純惠",
     "time": "F56-A501[GF]"
@@ -34660,7 +34636,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562108",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "跨文化溝通英語力 English for Intercultural Communication",
     "num_limit": "25",
     "reg_num": "-999",
@@ -34672,7 +34648,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562109",
-    "memo": "",
+    "memo": "保留大一優先選課，此課程於第四階段選課時開放大二以上同學選修。",
     "name": "英文聽力與討論 English Listening and Discussion",
     "num_limit": "25",
     "reg_num": "-999",
@@ -36268,7 +36244,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563132",
-    "memo": "上課地點：陽明校區活動中心綜合球場",
+    "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：醫二B、生科不分二、數位醫療學程二。\n第二階段後開放選修。",
     "name": "匹克球 Pickleball",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36280,7 +36256,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563133",
-    "memo": "上課地點：陽明校區活動中心韻律教室",
+    "memo": "上課地點：陽明校區活動中心韻律教室。\n第一階段開放選課系級：醫二B、生科不分二、數位醫療學程二。\n第二階段後開放選修。",
     "name": "體適能 Fitness",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36292,7 +36268,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563134",
-    "memo": "上課地點：陽明校區活動中心韻律教室",
+    "memo": "上課地點：陽明校區活動中心韻律教室。\n第一階段開放選課系級：醫工三、醫放三、物輔三。\n第二階段後開放選修。",
     "name": "熱力有氧 vital aerobic exercise",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36304,7 +36280,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563135",
-    "memo": "上課地點：陽明校區活動中心韻律教室",
+    "memo": "上課地點：陽明校區活動中心韻律教室。\n第一階段開放選課系級：醫工三、醫放三、物輔三。\n第二階段後開放選修。",
     "name": "體適能 Fitness",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36316,7 +36292,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563136",
-    "memo": "上課地點：陽明校區活動中心綜合球場",
+    "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：牙醫二、牙醫三。\n第二階段後開放選修。",
     "name": "籃球 Basketball",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36328,7 +36304,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563137",
-    "memo": "上課地點：陽明校區山下網球場",
+    "memo": "上課地點：陽明校區山下網球場。\n第一階段開放選課系級：牙醫二、牙醫三。\n第二階段後開放選修。",
     "name": "網球 Tennis",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36340,7 +36316,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563138",
-    "memo": "上課地點：陽明校區山下網球場",
+    "memo": "上課地點：陽明校區山下網球場。\n第一階段開放選課系級：醫學三。\n第二階段後開放選修。",
     "name": "網球 Tennis",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36352,7 +36328,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563139",
-    "memo": "上課地點：陽明校區活動中心綜合球場",
+    "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：醫學三。\n第二階段後開放選修。",
     "name": "匹克球 Pickleball",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36364,7 +36340,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563140",
-    "memo": "上課地點：陽明校區山頂運動場",
+    "memo": "上課地點：陽明校區山頂運動場。\n第一階段開放選課系級：醫學三。\n第二階段後開放選修。",
     "name": "足球 Soccer",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36376,7 +36352,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563141",
-    "memo": "上課地點：陽明校區山下排球場",
+    "memo": "上課地點：陽明校區山下排球場。\n第一階段開放選課系級：醫學三。\n第二階段後開放選修。",
     "name": "排球 Volleyball",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36388,7 +36364,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563142",
-    "memo": "上課地點：陽明校區活動中心綜合球場",
+    "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：護理二。\n第二階段後開放選修。",
     "name": "匹克球 Pickleball",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36412,7 +36388,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563144",
-    "memo": "上課地點：陽明校區活動中心韻律教室",
+    "memo": "上課地點：陽明校區活動中心韻律教室。\n第一階段開放選課系級：醫學二、數位醫療三。\n第二階段後開放選修。",
     "name": "動力伸展與紓壓 Power Extension and Relax",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36424,7 +36400,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563145",
-    "memo": "上課地點：陽明校區山下網球場",
+    "memo": "上課地點：陽明校區山下網球場。\n第一階段開放選課系級：醫學二、數位醫療三。\n第二階段後開放選修。",
     "name": "網球 Tennis",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36436,7 +36412,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563146",
-    "memo": "上課地點：陽明校區活動中心桌球室",
+    "memo": "上課地點：陽明校區活動中心桌球室。\n第一階段開放選課系級：醫學二、數位醫療三。\n第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36448,7 +36424,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563147",
-    "memo": "上課地點：陽明校區山頂運動場",
+    "memo": "上課地點：陽明校區山頂運動場。\n第一階段開放選課系級：醫學二、數位醫療三。\n第二階段後開放選修。",
     "name": "足球 Soccer",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36460,7 +36436,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563148",
-    "memo": "上課地點：陽明校區活動中心綜合球場",
+    "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：生科不分三。\n第二階段後開放選修。",
     "name": "羽球 Badminton",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36472,7 +36448,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563149",
-    "memo": "上課地點：陽明校區活動中心桌球室",
+    "memo": "上課地點：陽明校區活動中心桌球室。\n第一階段開放選課系級：醫技二。\n第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36484,7 +36460,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563150",
-    "memo": "上課地點：陽明校區活動中心綜合球場",
+    "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：醫技二。\n第二階段後開放選修。",
     "name": "羽球 Badminton",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36496,7 +36472,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563151",
-    "memo": "上課地點：陽明校區活動中心桌球室",
+    "memo": "上課地點：陽明校區活動中心桌球室。\n第一階段開放選課系級：藥學三。\n第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36508,7 +36484,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563152",
-    "memo": "上課地點：陽明校區活動中心桌球室",
+    "memo": "上課地點：陽明校區活動中心桌球室。\n第一階段開放選課系級：物輔二。\n第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36520,7 +36496,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563153",
-    "memo": "上課地點：陽明校區游泳健身館",
+    "memo": "上課地點：陽明校區游泳健身館。\n第一階段開放選課系級：物輔二。\n第二階段後開放選修。",
     "name": "游泳 swim",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36532,7 +36508,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563154",
-    "memo": "上課地點：陽明校區活動中心綜合球場",
+    "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：護理三。\n第二階段後開放選修。",
     "name": "匹克球 Pickleball",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36544,7 +36520,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563155",
-    "memo": "上課地點：陽明校區活動中心韻律教室",
+    "memo": "上課地點：陽明校區活動中心韻律教室。\n第一階段開放選課系級：醫技三、醫工二。\n第二階段後開放選修。",
     "name": "動力伸展與紓壓 Power Extension and Relax",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36556,7 +36532,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563156",
-    "memo": "上課地點：陽明校區活動中心綜合球場",
+    "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：醫技三、醫工二。\n第二階段後開放選修。",
     "name": "籃球 Basketball",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36568,7 +36544,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563157",
-    "memo": "上課地點：陽明校區活動中心韻律教室",
+    "memo": "上課地點：陽明校區活動中心韻律教室。\n第一階段開放選課系級：藥學二、醫放二。\n第二階段後開放選修。",
     "name": "太極拳 Tai Chi",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36580,7 +36556,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563158",
-    "memo": "上課地點：陽明校區活動中心綜合球場",
+    "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：藥學二、醫放二。\n第二階段後開放選修。",
     "name": "羽球 Badminton",
     "num_limit": "30",
     "reg_num": "-999",
@@ -36592,7 +36568,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563159",
-    "memo": "上課地點：陽明校區活動中心綜合球場。",
+    "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：醫工三、醫放三、物輔三。\n第二階段後開放選修。",
     "name": "五人制足球 Futsal",
     "num_limit": "30",
     "reg_num": "-999",
@@ -37631,6 +37607,30 @@
     "teacher": "黃世昆",
     "time": "R567-CS105[GF]"
   },
+  "1121_575000": {
+    "code": "GEAC00001",
+    "credit": ".00",
+    "hours": "1.00",
+    "id": "575000",
+    "memo": "交大校區藝文賞析教育重修者請直接將集滿三展一演認證並填妥心得之藝文護照繳至圖書館B1藝文空間。",
+    "name": "藝文賞析教育 Arts Appreciation Education",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "藝文中心",
+    "time": ""
+  },
+  "1121_575001": {
+    "code": "GEAC00001",
+    "credit": ".00",
+    "hours": "1.00",
+    "id": "575001",
+    "memo": "本校應屆畢業生若因畢業需求須當學期修兩門藝文賞析教育課程，請親洽藝文空間服務台。",
+    "name": "藝文賞析教育 Arts Appreciation Education",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "藝文中心",
+    "time": ""
+  },
   "1121_576000": {
     "code": "AATL10011",
     "credit": "3.00",
@@ -38634,7 +38634,7 @@
     "id": "639101",
     "memo": "[English Medium Course]",
     "name": "光學系統設計 Optical and Opto-mechatronics System Design",
-    "num_limit": "40",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "方怡欽",
     "time": "W567-CM212[GR]"
@@ -40005,18 +40005,6 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "高明秀",
-    "time": "F234-"
-  },
-  "1121_910106": {
-    "code": "SESE10148",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910106",
-    "memo": "上課地點在國防理工",
-    "name": "軟體需求分析 Software Requirements Analysis",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "紀虹名",
     "time": "F234-"
   },
   "1121_910107": {

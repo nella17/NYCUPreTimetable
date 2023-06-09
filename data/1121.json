@@ -500,7 +500,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "136",
-    "teacher": "凌憬峰、林慶波、吳鈺琳、陳麗芬、鄭瓊娟、邱士華、張世霖、黃自強、張原翊、吳莉玲、張雲亭、陳明德、王維庭",
+    "teacher": "凌憬峰、林惠菁、丁乾坤、陳世彬、楊智傑、張婷婷、鄭彥甫、陳志強、張榮偉、侯珮珊、高正彥、賴峻毅、任一安",
     "time": ""
   },
   "1121_110038": {
@@ -944,7 +944,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "146",
-    "teacher": "凌憬峰、楊令瑀、張佩靖、林伯剛、范佩貞、曾炳輝、王湘翠、嵇達德、莊宜芳、陳斯婷、蔡明翰、張崇德、黃志賢",
+    "teacher": "凌憬峰、林慶波、吳鈺琳、陳麗芬、鄭瓊娟、邱士華、張世霖、黃自強、張原翊、吳莉玲、張雲亭、陳明德、王維庭",
     "time": "Ua-YT002[YM]"
   },
   "1121_110076": {
@@ -1243,7 +1243,7 @@
     "memo": "",
     "name": "傳染病學 Infectious Disease",
     "num_limit": "50",
-    "reg_num": "74",
+    "reg_num": "42",
     "teacher": "王復德、林邑璁、詹宇鈞、黃祥芬、陳昕白、陳夙容、黃鈴茹、江東鴻、巫炳峰、張雅媛、黃盈綺、阮志翰、莊茜",
     "time": "W3-YD214[YM]"
   },
@@ -1279,7 +1279,7 @@
     "memo": "",
     "name": "牙科放射線學 Clinical Dental Radiology",
     "num_limit": "50",
-    "reg_num": "9",
+    "reg_num": "40",
     "teacher": "羅文良、陳志成、許世明、林重榮、施文宇、楊淑芬、吳政憲、周怡江、林怡君、吳和泰、成函潔",
     "time": "R12-YD105[YM]"
   },
@@ -1459,7 +1459,7 @@
     "memo": "",
     "name": "牙科器材學 Dental Materials",
     "num_limit": "50",
-    "reg_num": "73",
+    "reg_num": "41",
     "teacher": "黃何雄、林元敏、耿藝文",
     "time": "W78-YD105[YM]"
   },
@@ -1471,7 +1471,7 @@
     "memo": "",
     "name": "生物統計學 Biostatistics",
     "num_limit": "50",
-    "reg_num": "71",
+    "reg_num": "40",
     "teacher": "季麟揚、林伯彥",
     "time": "R12-YD210[YM]"
   },
@@ -1615,7 +1615,7 @@
     "memo": "",
     "name": "局部贗復學 Removable Partial Denture Prosthodontics",
     "num_limit": "50",
-    "reg_num": "82",
+    "reg_num": "46",
     "teacher": "許明倫、耿藝文、張景智、陳岱茜、張志麟、陳正毅、謝旻杰",
     "time": "W12-YD210[YM]"
   },
@@ -2709,7 +2709,7 @@
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "黃尉倫、洪小雅",
-    "time": "Tn-YT103[YM]"
+    "time": "Tn-YB100[YM]"
   },
   "1121_112014": {
     "code": "BEBL10030",
@@ -2926,6 +2926,30 @@
     "reg_num": "33",
     "teacher": "李學德、傅毓秀、葉添順、鄭瓊娟、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程",
     "time": "M89F12-YEC109[YM]"
+  },
+  "1121_112033": {
+    "code": "BEBL10035",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "112033",
+    "memo": "",
+    "name": "毒物化學實習 Clinical toxicology chemistry",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "何祥齡",
+    "time": "U9-"
+  },
+  "1121_112034": {
+    "code": "BEBL10032",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "112034",
+    "memo": "",
+    "name": "細胞學實習 Cytology practice",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "何祥齡",
+    "time": "Ua-"
   },
   "1121_112100": {
     "code": "BEBE10013",
@@ -3766,18 +3790,6 @@
     "reg_num": "7",
     "teacher": "蔡美文、王鐘賢、金惠民、鐘子雯、林孟瑜",
     "time": "T67-YB624[YM]"
-  },
-  "1121_112247": {
-    "code": "BEPT10038",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "112247",
-    "memo": "",
-    "name": "程式設計 Programming Design",
-    "num_limit": "30",
-    "reg_num": "0",
-    "teacher": "吳孝觀",
-    "time": "F56-YB101[YM]"
   },
   "1121_112248": {
     "code": "BEPT20080",
@@ -4821,7 +4833,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳嘉霖、楊念中、陳虹如",
-    "time": "T234-YED109[YM]"
+    "time": "S234-YED109[YM]"
   },
   "1121_112528": {
     "code": "LSLS20016",
@@ -4844,7 +4856,7 @@
     "name": "論文(上) Thesis, 1st semester",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "",
+    "teacher": "生科系基因體所",
     "time": "U5678-"
   },
   "1121_112600": {
@@ -5119,7 +5131,7 @@
     "memo": "",
     "name": "微生物學及免疫學 Microbiology & Immunology",
     "num_limit": "50",
-    "reg_num": "16",
+    "reg_num": "42",
     "teacher": "張佩靖、呂春敏、蔡明翰、蔡雨寰",
     "time": "M5678-YX406[YM]"
   },
@@ -5131,7 +5143,7 @@
     "memo": "",
     "name": "微生物學及免疫學實驗 Lab Practice in Microbiology ＆ Immunology",
     "num_limit": "50",
-    "reg_num": "11",
+    "reg_num": "42",
     "teacher": "張佩靖、朱孝益、呂春敏、蔡明翰",
     "time": "M5678-YEC211[YM]"
   },
@@ -6042,7 +6054,7 @@
     "id": "130216",
     "memo": "政法組碩士班必修，開放隨班附讀",
     "name": "經濟分析 Economic Analysis",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "19",
     "teacher": "蒲正筠、周穎政",
     "time": "F12-YS221[YM]"
@@ -6789,7 +6801,7 @@
     "num_limit": "9999",
     "reg_num": "4",
     "teacher": "林志遠",
-    "time": ""
+    "time": "R56-YN611[YM]"
   },
   "1121_130710": {
     "code": "MDHW30043",
@@ -8637,7 +8649,7 @@
     "num_limit": "9999",
     "reg_num": "10",
     "teacher": "陳律言、黃子庭、孫秀卿、陳俞琪、張秀如、林承霈",
-    "time": "F89-YN301[YM]"
+    "time": "R89-YN301[YM]"
   },
   "1121_131715": {
     "code": "NSCN30047",
@@ -10176,12 +10188,12 @@
     "time": "F56-YB429[YM]"
   },
   "1121_132425": {
-    "code": "BEPT30065",
+    "code": "BEPT30088",
     "credit": "1.00",
-    "hours": "2.00",
+    "hours": "1.00",
     "id": "132425",
     "memo": "1. 本課程為4個週五全天課程，確切上課時間，將會在E3與授課進度表公告\n2. 本課程限本系所學生修習",
-    "name": "高等骨科物理治療實作-肩頸部 Advanced Musculoskeletal Physical Therapy Practicum - Cervical Spine and Shoulder",
+    "name": "高等骨科物理治療實作-腰部 Advanced Musculoskeletal Physical Therapy Practicum -  Lumbar Spine",
     "num_limit": "30",
     "reg_num": "8",
     "teacher": "楊文輝",
@@ -11622,7 +11634,7 @@
     "id": "133104",
     "memo": "[English Medium Course] 醫學系大二英文課程，非通識（語言與溝通－英文）課程，全英語教學，提供醫學系二年級選修，「論述寫作」或「身體語言、冷讀、心靈探測」二門課程擇一修讀，為維持教學品質，限制修課人數。純線上同步遠距課程 (陽明校區：線上，請向教師索取線上連結；交大校區：線上，請向教師索取線上連結)\n",
     "name": "論述寫作 Argumentative Essays",
-    "num_limit": "0",
+    "num_limit": "35",
     "reg_num": "0",
     "teacher": "嚴偉哲",
     "time": "W56-"
@@ -13692,8 +13704,8 @@
     "time": "R12345678-"
   },
   "1121_150211": {
-    "code": "NSDN30083",
-    "credit": "3.00",
+    "code": "NSDN30084",
+    "credit": "4.00",
     "hours": "8.00",
     "id": "150211",
     "memo": "",
@@ -14747,6 +14759,30 @@
     "teacher": "李怡萱、郭文瑞、俞震亞、鄭凱元、嚴如玉、勞維俊、曲在雯、廖文霖、尼大衛、魏雋展",
     "time": "R78-CS100[GF],R78-YL402[YM]"
   },
+  "1121_161090": {
+    "code": "GECE00356",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161090",
+    "memo": "〔1〕需具日文基礎，為維持教學品質，限制修課人數。〔2〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽博雅書苑承辦人（分機ext.65285／Email: rxfan@nycu.edu.tw）辦理。",
+    "name": "日文(三) Japanese(III)",
+    "num_limit": "18",
+    "reg_num": "0",
+    "teacher": "周雅玲",
+    "time": "M12-YX201[YM]"
+  },
+  "1121_161091": {
+    "code": "GECE00354",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161091",
+    "memo": "〔1〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽博雅書苑承辦人（分機ext.65285／Email: rxfan@nycu.edu.tw）辦理。",
+    "name": "日文(一) Japanese(I)",
+    "num_limit": "18",
+    "reg_num": "0",
+    "teacher": "周雅玲",
+    "time": "M34-YX201[YM]"
+  },
   "1121_230000": {
     "code": "MGBM30056",
     "credit": "3.00",
@@ -15729,7 +15765,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "潘美玲、待聘",
-    "time": "T567-HK207[LJ]"
+    "time": "T567-A722[GF]"
   },
   "1121_330005": {
     "code": "HKEC30022",
@@ -16075,7 +16111,7 @@
     "memo": "[English Medium Course]",
     "name": "生物化學（一） Biochemistry (I)",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "蘭宜錚",
     "time": "F234-BI309[BA]"
   },
@@ -17056,7 +17092,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "440101",
-    "memo": "[English Medium Course]\nTIGP Bioinformatics Program , Academia Sinica",
+    "memo": "[English Medium Course] TIGP Bioinformatics Program , Academia Sinica\nClassroom: Room 308, Institute of Statistical Science, Academia Sinica",
     "name": "基礎分子生物學(一) Basic Molecular Biology(I)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -17068,7 +17104,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "440102",
-    "memo": "[English Medium Course]\nTIGP Bioinformatics Program , Academia Sinica",
+    "memo": "[English Medium Course] TIGP Bioinformatics Program , Academia Sinica\nClassroom: Room 308, Institute of Statistical Science, Academia Sinica",
     "name": "生物序列分析與高通量技術 Sequencing technology and high-throughput data analysis",
     "num_limit": "9999",
     "reg_num": "0",
@@ -17092,7 +17128,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "440104",
-    "memo": "[English Medium Course]\nTIGP Bioinformatics Program , Academia Sinica",
+    "memo": "[English Medium Course] TIGP Bioinformatics Program , Academia Sinica\nClassroom: Auditorium, B1F, Institute of Statistical Science, Academia Sinica.\n",
     "name": "專題演講 Student Presentation",
     "num_limit": "9999",
     "reg_num": "0",
@@ -17104,7 +17140,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "440105",
-    "memo": "[English Medium Course]\nTIGP Bioinformatics Program , Academia Sinica",
+    "memo": "[English Medium Course] TIGP Bioinformatics Program , Academia Sinica\nClassroom: Auditorium, B1F, Institute of Statistical Science, Academia Sinica.",
     "name": "博士班書報討論 Seminar",
     "num_limit": "9999",
     "reg_num": "0",
@@ -17116,7 +17152,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "440106",
-    "memo": "[English Medium Course]\nTIGP Bioinformatics Program , Academia Sinica",
+    "memo": "[English Medium Course] TIGP Bioinformatics Program , Academia Sinica\nClassroom: Room 308, Institute of Statistical Science, Academia Sinica",
     "name": "生物機器學習 Machine Learning in Computational Biology",
     "num_limit": "9999",
     "reg_num": "0",
@@ -17128,7 +17164,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "440107",
-    "memo": "[English Medium Course]\nTIGP Bioinformatics Program , Academia Sinica",
+    "memo": "[English Medium Course] TIGP Bioinformatics Program , Academia Sinica\nClassroom: Auditorium, B1F, Institute of Statistical Science, Academia Sinica.",
     "name": "程式語言 Programming(Python)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -18019,7 +18055,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周三晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
-    "reg_num": "53",
+    "reg_num": "54",
     "teacher": "陳立洲",
     "time": "Wabcd-"
   },
@@ -18223,7 +18259,7 @@
     "memo": "",
     "name": "微分方程 Differential Equation",
     "num_limit": "55",
-    "reg_num": "55",
+    "reg_num": "56",
     "teacher": "陳永平",
     "time": "M34W2-EE207[GF]"
   },
@@ -18582,7 +18618,7 @@
     "id": "515122",
     "memo": "",
     "name": "生醫工程導論 Introduction of Biomedical Engineering",
-    "num_limit": "50",
+    "num_limit": "9999",
     "reg_num": "39",
     "teacher": "許鉦宗、陳冠宇、蔡德明、陳稷康、陳榮治、李博仁、林子恩、蕭子健、江柏翰、黃薇蓁",
     "time": "W234-EE102[GF]"
@@ -18810,7 +18846,7 @@
     "id": "515142",
     "memo": "實驗教室安排於工四館ED415",
     "name": "VLSI實驗 VLSI Labs.",
-    "num_limit": "50",
+    "num_limit": "80",
     "reg_num": "50",
     "teacher": "張錫嘉",
     "time": "F567-"
@@ -19050,7 +19086,7 @@
     "id": "515162",
     "memo": "上課時段週一34節在工程五館EE623、\nLab: 週五89節實驗在工程五館EE611；其餘實驗時段請與授課教師聯絡。",
     "name": "電力電子實驗 Power Electronics Labs.",
-    "num_limit": "65",
+    "num_limit": "45",
     "reg_num": "65",
     "teacher": "陳鴻祺",
     "time": "M34F89-EE623[GF]"
@@ -19146,7 +19182,7 @@
     "id": "515170",
     "memo": "實驗教室安排於工四館ED414、ED415",
     "name": "VLSI實驗 VLSI Labs.",
-    "num_limit": "50",
+    "num_limit": "80",
     "reg_num": "50",
     "teacher": "廖育德",
     "time": "Tabc-"
@@ -19458,8 +19494,8 @@
     "id": "515505",
     "memo": "[English Medium Course]外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級。實地線上混合教學課程 (陽明校區：線上，請向教師索取線上連結)",
     "name": "演算法概論 Introduction to Algorithms",
-    "num_limit": "65",
-    "reg_num": "65",
+    "num_limit": "66",
+    "reg_num": "66",
     "teacher": "吳凱強",
     "time": "T34R7-EC114[GF]"
   },
@@ -19470,7 +19506,7 @@
     "id": "515506",
     "memo": "外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "演算法概論 Introduction to Algorithms",
-    "num_limit": "65",
+    "num_limit": "66",
     "reg_num": "65",
     "teacher": "施仁忠",
     "time": "T34R7-EC122[GF]"
@@ -19482,7 +19518,7 @@
     "id": "515507",
     "memo": "外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "演算法概論 Introduction to Algorithms",
-    "num_limit": "65",
+    "num_limit": "66",
     "reg_num": "52",
     "teacher": "蔡錫鈞",
     "time": "T34R7-ED117[GF]"
@@ -19818,7 +19854,7 @@
     "id": "515612",
     "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；主開2年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "圖形理論導論 Elementary graph theory",
-    "num_limit": "150",
+    "num_limit": "160",
     "reg_num": "150",
     "teacher": "李毅郎",
     "time": "M34-ED117[GF]"
@@ -20095,7 +20131,7 @@
     "memo": "2A [English Medium Course]",
     "name": "工程數學（一） Engineering Mathematics (I)",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "64",
     "teacher": "張瑞永",
     "time": "T2W34-EE106[GF]"
   },
@@ -20503,7 +20539,7 @@
     "memo": "核心選修課程/  開3/4年級",
     "name": "電動機械 Electromechanical Device",
     "num_limit": "35",
-    "reg_num": "35",
+    "reg_num": "36",
     "teacher": "李安謙",
     "time": "Wabc-EE132[GF]"
   },
@@ -21055,7 +21091,7 @@
     "memo": "",
     "name": "陶瓷材料 Ceramics Materials",
     "num_limit": "9999",
-    "reg_num": "55",
+    "reg_num": "56",
     "teacher": "陳三元",
     "time": "M34R3-EF201[GF]"
   },
@@ -21283,7 +21319,7 @@
     "memo": "",
     "name": "近代物理(二) Modern Physics (II)",
     "num_limit": "75",
-    "reg_num": "75",
+    "reg_num": "76",
     "teacher": "許世英",
     "time": "T78R2-SC160[GF]"
   },
@@ -21715,7 +21751,7 @@
     "memo": "",
     "name": "應用數學 Applied Mathematics",
     "num_limit": "60",
-    "reg_num": "59",
+    "reg_num": "60",
     "teacher": "曾建銘",
     "time": "T34F2-SC159[GF]"
   },
@@ -21751,7 +21787,7 @@
     "memo": "",
     "name": "無機化學(一) Inorganic Chemistry (1)",
     "num_limit": "9999",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "李積琛",
     "time": "T34R2-SB210[GF]"
   },
@@ -22015,7 +22051,7 @@
     "memo": "非管院學生請於9月4日上網加選。管院學生優先選課；上限90人，得請授課教師簽准後可放寬至95人；若有演習課則安排於9a；管理基礎學分學程課程。",
     "name": "統計學(一) Statistics (I)",
     "num_limit": "90",
-    "reg_num": "81",
+    "reg_num": "80",
     "teacher": "彭文理",
     "time": "M234-MB520[GF]"
   },
@@ -22099,7 +22135,7 @@
     "memo": "VIP跨域學程優先選課，若外系生欲修習本課程，需遞送選課動機及CV至pennynycuvip@nycu.edu.tw(信件請註明課名)，授課教師評估審查同意後可加入課程，僅開放大學部學生選課(undergraduate only)。",
     "name": "經營管理-創業與興業家精神 Entrepreneurs and Entrepreneurship",
     "num_limit": "50",
-    "reg_num": "16",
+    "reg_num": "19",
     "teacher": "黃寬丞、黃仕斌、姜真秀、吳昆峰、黃宜侯、蔡蕙安、蔡銘箴、姚銘忠、王志軒、蕭嬋、林士平、陳詩欣、閻姿慧、楊志偉",
     "time": "Wabc-"
   },
@@ -22315,7 +22351,7 @@
     "memo": "管科系大三必修。管科系優先；雙主修或輔系管科系、修習學分學程或跨域學程的同學均開放加簽。",
     "name": "組織行為 Organizational Behavior",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "李柏毅",
     "time": "M789-M301[GF]"
   },
@@ -22783,7 +22819,7 @@
     "memo": "[English Medium Course]\n限科法博、科法碩及科法專班同學選修",
     "name": "美國上市公司法 U.S. Publicly Traded Corporations",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "11",
     "teacher": "施明遠",
     "time": "U34-"
   },
@@ -25182,7 +25218,7 @@
     "id": "535220",
     "memo": "第一階段暫不開放加選，第二、第三階段及開學後加退選將另行通知。若有疑問請洽電子所翁小姐：03-5712121分機54103",
     "name": "實體設計自動化 Physical Design Automation",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "林柏宏",
     "time": "M567-EDB06[GF]"
@@ -25216,7 +25252,7 @@
     "credit": "3.00",
     "hours": "4.00",
     "id": "535223",
-    "memo": "(1)上課時間W56–ED415,Wab–LAB(2)第一、第二、第三階段選課：開放選課且電子所、電機系、前瞻半導體研究所優先；不開放填寫google表單(3)開學後加退選階段：開放選課；開放填寫google表單且依規定加簽(4)未加選到同學\n依照順位排序1.電子所 2.電機系 3.相關學院 4.外系所 5.外校 進行篩選進行網路加簽，加簽總人數會經老師評估後決定最後加簽人數。\n相關學院包含電機學院、資訊學院、產創學院、國半學院。如為外系所、外校欲進行加選，除填表單外，亦須提供曾修習兩門相關課程之修課成績單。若外系所、外校無提供成績單，即便選課系統選上，亦會被手動退選。相關課程：1.邏輯設計\n2.數位電路與系統3.超大型積體電路設計導論(VLSI)4.數位積體電路(DIC)\n\n",
+    "memo": "(1)上課時間W56–ED415,Wab–LAB(2)第一、第二、第三階段選課：開放選課且電子所、電機系、產創學院優先；不開放填寫google表單(3)開學後加退選階段：開放選課；開放填寫google表單且依規定加簽(4)未加選到同學\n依照順位排序1.電子所 2.電機系 3.相關學院 4.外系所 5.外校 進行篩選進行網路加簽，加簽總人數會經老師評估後決定最後加簽人數。\n相關學院包含電機學院、資訊學院、產創學院、國半學院。如為外系所、外校欲進行加選，除填表單外，亦須提供曾修習兩門相關課程之修課成績單。若外系所、外校無提供成績單，即便選課系統選上，亦會被手動退選。相關課程：1.邏輯設計\n2.數位電路與系統3.超大型積體電路設計導論(VLSI)4.數位積體電路(DIC)",
     "name": "積體電路設計實驗 Integrated Circuit Design Laboratory",
     "num_limit": "90",
     "reg_num": "57",
@@ -25252,12 +25288,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535226",
-    "memo": "上課教室：ED417B",
+    "memo": "",
     "name": "系統晶片設計 SOC Design",
-    "num_limit": "36",
+    "num_limit": "60",
     "reg_num": "36",
     "teacher": "賴瑾",
-    "time": "W789-"
+    "time": "W789-ED101[GF]"
   },
   "1121_535227": {
     "code": "EEIE30014",
@@ -25303,7 +25339,7 @@
     "memo": "",
     "name": "計算機輔助設計特論 Special Topics in Computer Aided Design",
     "num_limit": "85",
-    "reg_num": "51",
+    "reg_num": "52",
     "teacher": "劉建男",
     "time": "M34-ED116[GF],W34-ED219[GF]"
   },
@@ -25314,7 +25350,7 @@
     "id": "535235",
     "memo": "",
     "name": "深度學習 Deep Learning",
-    "num_limit": "9999",
+    "num_limit": "150",
     "reg_num": "64",
     "teacher": "張添烜",
     "time": "M78T7-ED201[GF]"
@@ -26262,7 +26298,7 @@
     "id": "535505",
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課;[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀；",
     "name": "作業系統 Operating System",
-    "num_limit": "40",
+    "num_limit": "80",
     "reg_num": "40",
     "teacher": "吳俊峯",
     "time": "W34-ED302[GF]"
@@ -26380,7 +26416,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535515",
-    "memo": "資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；[English Medium Course]第一階段選課上限45人, 第二階段開放到60人",
+    "memo": "資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；[English Medium Course]第一階段選課上限45人, 第三階段開放到60人",
     "name": "機器學習 Machine Learning ",
     "num_limit": "45",
     "reg_num": "45",
@@ -28689,7 +28725,7 @@
     "num_limit": "9999",
     "reg_num": "88",
     "teacher": "盧鴻興",
-    "time": "W567-A407[GF]"
+    "time": "W567-A102[GF]"
   },
   "1121_536908": {
     "code": "SCIS30082",
@@ -29011,7 +29047,7 @@
     "memo": "1.建議有初步資料庫管理操作概念或修過資料庫管理概論等基礎課程者較佳 2.並對數據分析有興趣者",
     "name": "智慧生產與大數據分析  Intelligent Manufacturing and Big Data Analytics",
     "num_limit": "30",
-    "reg_num": "5",
+    "reg_num": "6",
     "teacher": "何佩勳",
     "time": "R678-M104[GF]"
   },
@@ -29503,7 +29539,7 @@
     "memo": "博士班專業核心課程。限30人，不可旁聽，不開放社會人士選讀",
     "name": "萬用啟發式演算法 Metaheuristic Algorithms",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "林春成",
     "time": "T89a-MB506[GF]"
   },
@@ -30115,7 +30151,7 @@
     "memo": "[English Medium Course]\n實地線上混合教學課程。\n陽明校區：線上，請向教師索取線上連結。",
     "name": "設計思考與商業模式創新 Design Thinking and Business Model Innovation",
     "num_limit": "30",
-    "reg_num": "24",
+    "reg_num": "25",
     "teacher": "陳詩欣",
     "time": "M34n-A722[GF]"
   },
@@ -30331,7 +30367,7 @@
     "memo": "[English Medium Course]英文授課\n限科法博、科法碩及科法專班同學選修",
     "name": "美國財產法 U.S. Property Law",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "13",
     "teacher": "施明遠",
     "time": "F567-MB1063[GF]"
   },
@@ -30356,7 +30392,7 @@
     "name": "專題討論 [Ⅰ] Seminar on Special Topics [Ⅰ]",
     "num_limit": "9999",
     "reg_num": "11",
-    "teacher": "林志潔",
+    "teacher": "金孟華",
     "time": "Sn5-Lib-B1[GF]"
   },
   "1121_537915": {
@@ -30370,6 +30406,30 @@
     "reg_num": "23",
     "teacher": "科法所",
     "time": "Sabcd-ES806[GF]"
+  },
+  "1121_537916": {
+    "code": "LWLW30120",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "537916",
+    "memo": "交大校區同學以實體上課為主，陽明校區同學可以選擇網路方式上課。",
+    "name": "民法總則 Civil Law: General Principles",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "陳在方",
+    "time": "T567-ES806[GF]"
+  },
+  "1121_537917": {
+    "code": "LWLW30040",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "537917",
+    "memo": "",
+    "name": "刑法總則 Criminal Law: General Principles",
+    "num_limit": "20",
+    "reg_num": "0",
+    "teacher": "金孟華、待聘",
+    "time": "U567-"
   },
   "1121_539002": {
     "code": "IIPS30010",
@@ -30460,12 +30520,24 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539101",
-    "memo": "[English Medium Course]英文授課",
+    "memo": "智能所甲組專業選修課程、[English Medium Course]英文授課",
     "name": "數位語音訊號處理 Digital Speech Processing",
     "num_limit": "45",
     "reg_num": "4",
     "teacher": "廖元甫",
     "time": "T567-EDB06[GF]"
+  },
+  "1121_539102": {
+    "code": "IIAI30010",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "539102",
+    "memo": "智能所乙組核心課程、[English Medium Course]英文授課",
+    "name": "作業系統 Operating System",
+    "num_limit": "45",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "R567-ED305[GF]"
   },
   "1121_544000": {
     "code": "HSIE30019",
@@ -32250,7 +32322,7 @@
     "id": "557919",
     "memo": "",
     "name": "證據法 U.S. Evidence Law",
-    "num_limit": "15",
+    "num_limit": "20",
     "reg_num": "15",
     "teacher": "金孟華",
     "time": "S678-MB1069[GF]"
@@ -33054,7 +33126,7 @@
     "id": "561055",
     "memo": "交大校區實體授課、陽明校區線上；初選第一階段開放交大校區同學選課；初選第二階段開放陽明校區同學選課。",
     "name": "開門見山 Building Character through Examples",
-    "num_limit": "100",
+    "num_limit": "36",
     "reg_num": "100",
     "teacher": "林一平、謝仁俊",
     "time": "Mab-AB102[GF]"
@@ -33355,7 +33427,7 @@
     "memo": "純線上同步遠距課程，請向教師索取線上連結。",
     "name": "新竹六燃地方學：大學社會責任與在地實踐 Localogy of the Sixth Fuel Factory: University Social Responsibility ＆ Local Praxis",
     "num_limit": "45",
-    "reg_num": "45",
+    "reg_num": "49",
     "teacher": "賴雯淑",
     "time": "Wbc-"
   },
@@ -34099,7 +34171,7 @@
     "memo": "",
     "name": "日文(一) Japanese(I)",
     "num_limit": "45",
-    "reg_num": "41",
+    "reg_num": "43",
     "teacher": "賴薇如",
     "time": "T34-A308[GF]"
   },
@@ -34159,9 +34231,9 @@
     "memo": "",
     "name": "日文(一) Japanese(I)",
     "num_limit": "45",
-    "reg_num": "41",
+    "reg_num": "0",
     "teacher": "賴郁芳",
-    "time": "R56-A306[GF]"
+    "time": "F56-A306[GF]"
   },
   "1121_562068": {
     "code": "GELT10008",
@@ -34171,7 +34243,7 @@
     "memo": "",
     "name": "日文(一) Japanese(I)",
     "num_limit": "45",
-    "reg_num": "19",
+    "reg_num": "58",
     "teacher": "賴郁芳",
     "time": "R56-A501[GF]"
   },
@@ -34375,7 +34447,7 @@
     "memo": "須先修畢日文(四)",
     "name": "日語簡報訓練 Presenting in Japanese",
     "num_limit": "15",
-    "reg_num": "6",
+    "reg_num": "7",
     "teacher": "上條純惠",
     "time": "F56-A501[GF]"
   },
@@ -34387,7 +34459,7 @@
     "memo": "",
     "name": "日語辯論講座與實習 Japanese Debate and Internship",
     "num_limit": "20",
-    "reg_num": "5",
+    "reg_num": "8",
     "teacher": "上條純惠",
     "time": "Fab-A501[GF]"
   },
@@ -36849,7 +36921,7 @@
     "num_limit": "70",
     "reg_num": "3",
     "teacher": "洪慧念",
-    "time": "T34F56-A306[GF],T34F56-SC157[GF]"
+    "time": "T34F56-A305[GF],T34F56-SC157[GF]"
   },
   "1121_564022": {
     "code": "GECS10005",

@@ -535,7 +535,7 @@
     "memo": "",
     "name": "神經科臨床實習(一) Clerkship in Neurology",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "神經學科",
     "time": ""
   },
@@ -751,7 +751,7 @@
     "memo": "",
     "name": "感染科臨床實習(一) Clerkship in Infectious Disease",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "52",
     "teacher": "內科學科",
     "time": ""
   },
@@ -1159,7 +1159,7 @@
     "memo": "",
     "name": "整形外科臨床實習(二) Clerkship in Plastic Surgery",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "11",
     "teacher": "外科學科",
     "time": ""
   },
@@ -1291,7 +1291,7 @@
     "memo": "",
     "name": "直腸外科臨床實習(一) Clerkship in Colorectal Surgery",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "外科學科",
     "time": ""
   },
@@ -4963,7 +4963,7 @@
     "memo": "",
     "name": "物理治療臨床實習(七) Physical Therapy Practicum (VII)",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "8",
     "teacher": "羅鴻基、王子娟、王瑞瑤、施怡芬、楊雅如、李淑貞、李雪楨、蔡美文、周立偉、陳喬男、黃崇舜、林吟亮",
     "time": "U12-"
   },
@@ -4975,7 +4975,7 @@
     "memo": "",
     "name": "物理治療臨床實習(八) Physical Therapy Practicum (VIII)",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "8",
     "teacher": "羅鴻基、王子娟、王瑞瑤、施怡芬、楊雅如、李淑貞、李雪楨、蔡美文、周立偉、陳喬男、黃崇舜、林吟亮",
     "time": "Fn-"
   },
@@ -9463,7 +9463,7 @@
     "memo": "建議可於111-2學期結束前可完成實務實習者選課。",
     "name": "公共衛生實務實習 Public Health Practicum",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "8",
     "teacher": "莊宜芳",
     "time": "S56-YS107[YM]"
   },
@@ -27103,7 +27103,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "85",
+    "reg_num": "86",
     "teacher": "阿圖爾Artur Useinov",
     "time": "W567-AB101[GF]"
   },

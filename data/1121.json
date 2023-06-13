@@ -1640,7 +1640,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "洪善鈴",
+    "teacher": "耿藝文",
     "time": "R9a-YD214[YM]"
   },
   "1121_111539": {
@@ -1652,7 +1652,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "40",
     "reg_num": "-999",
-    "teacher": "林怡彣",
+    "teacher": "林姝君",
     "time": "S56-YD320[YM]"
   },
   "1121_111540": {
@@ -1664,7 +1664,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "黃何雄",
+    "teacher": "羅正汎",
     "time": "S56-YD320[YM]"
   },
   "1121_111541": {
@@ -1676,7 +1676,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "季麟揚",
+    "teacher": "張婷菡",
     "time": "S56-YD320[YM]"
   },
   "1121_111542": {
@@ -1712,7 +1712,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "張志麟",
+    "teacher": "林宥成",
     "time": "S56-YD320[YM]"
   },
   "1121_111545": {
@@ -1724,7 +1724,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "涂曦丰",
+    "teacher": "洪凱風",
     "time": "S56-YD320[YM]"
   },
   "1121_111546": {
@@ -1748,7 +1748,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "耿藝文",
+    "teacher": "林怡彣",
     "time": "M9a-YD320[YM]"
   },
   "1121_111548": {
@@ -1760,7 +1760,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "黎萬君",
+    "teacher": "王鼎涵",
     "time": "W9a-YD320[YM]"
   },
   "1121_111549": {
@@ -1784,7 +1784,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "王鼎涵",
+    "teacher": "黃何雄",
     "time": "M9a-YD320[YM]"
   },
   "1121_111551": {
@@ -1808,7 +1808,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "黃惠華",
+    "teacher": "季麟揚",
     "time": "M9a-YD320[YM]"
   },
   "1121_111553": {
@@ -1820,7 +1820,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "陳恆理",
+    "teacher": "黃惠華",
     "time": "R9a-YD214[YM]"
   },
   "1121_111554": {
@@ -1832,7 +1832,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "林嘉澍",
+    "teacher": "夏堪臺",
     "time": "R9a-YD214[YM]"
   },
   "1121_111555": {
@@ -1844,7 +1844,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "張景智",
+    "teacher": "李士元",
     "time": "R9a-YD214[YM]"
   },
   "1121_111556": {
@@ -1856,7 +1856,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "夏堪臺",
+    "teacher": "張志麟",
     "time": "M9a-YD320[YM]"
   },
   "1121_111557": {
@@ -1880,7 +1880,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李士元",
+    "teacher": "涂曦丰",
     "time": "W9abc-YD302[YM]"
   },
   "1121_111560": {
@@ -3981,7 +3981,43 @@
     "num_limit": "45",
     "reg_num": "-999",
     "teacher": "蔡美文、吳若嫣",
-    "time": "W23-YB530[YM]"
+    "time": "T23-YB530[YM]"
+  },
+  "1121_112264": {
+    "code": "BEPT20029",
+    "credit": "2.00",
+    "hours": "4.00",
+    "id": "112264",
+    "memo": "",
+    "name": "物理治療臨床實習(十一) Physical Therapy Practicum (XI)",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "",
+    "time": ""
+  },
+  "1121_112265": {
+    "code": "BEPT20029",
+    "credit": "2.00",
+    "hours": "4.00",
+    "id": "112265",
+    "memo": "",
+    "name": "物理治療臨床實習(十一) Physical Therapy Practicum (XI)",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "羅鴻基、王子娟、王瑞瑤、施怡芬、楊雅如、李淑貞、李雪楨、蔡美文、周立偉、陳喬男、黃崇舜、林吟亮",
+    "time": "Syz-"
+  },
+  "1121_112266": {
+    "code": "BEPT20031",
+    "credit": "2.00",
+    "hours": "4.00",
+    "id": "112266",
+    "memo": "",
+    "name": "物理治療臨床實習(十二) Physical Therapy Practicum (XII)",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "羅鴻基、王子娟、王瑞瑤、施怡芬、楊雅如、李淑貞、李雪楨、蔡美文、周立偉、陳喬男、黃崇舜、林吟亮",
+    "time": "Uyz-"
   },
   "1121_112300": {
     "code": "BEIR10003",
@@ -5048,7 +5084,7 @@
     "name": "生理學實驗 Physiology Laboratory",
     "num_limit": "126",
     "reg_num": "-999",
-    "teacher": "黃娟娟、吳鈺琳、阮琪昌、李怡萱、林惠菁、張原翊、許富淞、簡千栩、吳莉玲、唐德成",
+    "teacher": "黃娟娟、吳鈺琳、阮琪昌、李怡萱、林惠菁、張原翊、簡千栩、吳莉玲、唐德成",
     "time": "W5678-YED214[YM]"
   },
   "1121_113100": {
@@ -7556,7 +7592,7 @@
     "name": "合成生物學 Synthetic Biology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "鍾翊方、李國彬",
+    "teacher": "鍾翊方、李國彬、張菁芬",
     "time": "Tab-YR104[YM]"
   },
   "1121_131025": {
@@ -7568,7 +7604,7 @@
     "name": "合成生物學應用 Applied Synthetic Biology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "鍾翊方、李國彬",
+    "teacher": "鍾翊方、李國彬、張菁芬",
     "time": "Rab-YR104[YM]"
   },
   "1121_131100": {
@@ -8336,7 +8372,7 @@
     "name": "口腔生物學專題討論(碩) Seminars in Oral Biology (Master)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黎萬君、林姝君、洪善鈴、羅正汎、夏堪臺、黃何雄、劉澤英、林元敏、陳恆理、涂曦丰、吳靜宜、林怡彣、林宥成、王鼎涵、張婷菡、林榮辰、洪佩詩",
+    "teacher": "黎萬君、林姝君、洪善鈴、羅正汎、夏堪臺、黃何雄、陳恆理、涂曦丰、吳靜宜、林怡彣、林宥成、王鼎涵、張婷菡、林榮辰、洪佩詩",
     "time": "M78-YD320[YM]"
   },
   "1121_131504": {
@@ -10679,18 +10715,6 @@
     "teacher": "李超煌",
     "time": "F567-YK533[YM]"
   },
-  "1121_132612": {
-    "code": "BEBP30041",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "132612",
-    "memo": "上課時間與地點另行通知。English online course[English Medium Course]",
-    "name": "先進螢光與多光子顯微技術 Advanced fluorescence and multiphoton microscopy techniques",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "Hans Georg Breunig",
-    "time": "Wa-YK602-A1[Y"
-  },
   "1121_132613": {
     "code": "BEBN20023",
     "credit": "3.00",
@@ -12776,7 +12800,7 @@
     "name": "口腔生物學專題討論(博) Seminars in Oral Biology (PhD)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林怡彣、林姝君、洪善鈴、羅正汎、夏堪臺、黃何雄、劉澤英、林元敏、黎萬君、陳恆理、涂曦丰、吳靜宜、林宥成、王鼎涵、張婷菡、林榮辰、洪佩詩",
+    "teacher": "林怡彣、林姝君、洪善鈴、羅正汎、夏堪臺、黃何雄、黎萬君、陳恆理、涂曦丰、吳靜宜、林宥成、王鼎涵、張婷菡、林榮辰、洪佩詩",
     "time": "M56-YD302[YM]"
   },
   "1121_141400": {
@@ -15004,7 +15028,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "230019",
-    "memo": "",
+    "memo": "限一般碩士生修課",
     "name": "經營講座 Lectures on Business Practices",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -15666,7 +15690,7 @@
     "id": "310119",
     "memo": "",
     "name": "推測設計、科技與社會 Speculative Design, Technology and Society",
-    "num_limit": "9999",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "陳盈羽",
     "time": "F567-HK123[LJ]"
@@ -15690,7 +15714,7 @@
     "id": "310121",
     "memo": "",
     "name": "傳播環境與問題分析 Communicative Ecology Analysis",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "戴瑜慧",
     "time": "T234-HK104[LJ]"
@@ -17370,7 +17394,7 @@
     "id": "514012",
     "memo": "",
     "name": "設計概論 Introduction to Design",
-    "num_limit": "60",
+    "num_limit": "55",
     "reg_num": "-999",
     "teacher": "謝明勳",
     "time": "F34-HC103[GF]"
@@ -18618,7 +18642,7 @@
     "id": "515122",
     "memo": "",
     "name": "生醫工程導論 Introduction of Biomedical Engineering",
-    "num_limit": "9999",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "許鉦宗、陳冠宇、蔡德明、陳稷康、陳榮治、李博仁、林子恩、蕭子健、江柏翰、黃薇蓁",
     "time": "W234-EE102[GF]"
@@ -19662,7 +19686,7 @@
     "id": "515519",
     "memo": "外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；資訊工程組必修；資電工程組必修；主開3年級；本系生優先權順序：3年級，4年級，2年級，1年級",
     "name": "編譯器設計概論 Intro. to Compiler Design",
-    "num_limit": "100",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "游逸平",
     "time": "T234-EC016[GF]"
@@ -22374,7 +22398,7 @@
     "id": "517303",
     "memo": "1.開放全校大三大四學生選修。",
     "name": "策略管理 Strategic Management",
-    "num_limit": "50",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "黃瓊誼",
     "time": "T567-M115[GF]"
@@ -26466,7 +26490,7 @@
     "id": "535519",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；",
     "name": "強化學習專論 Selected Topics in Reinforcement Learning",
-    "num_limit": "75",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "吳毅成",
     "time": "Tabc-EC114[GF]"
@@ -28941,7 +28965,7 @@
     "num_limit": "22",
     "reg_num": "-999",
     "teacher": "高國揚",
-    "time": "M567-M104[GF]"
+    "time": "M567-M105[GF]"
   },
   "1121_537003": {
     "code": "MGMS30079",
@@ -29097,7 +29121,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "高國揚",
-    "time": "T567-M105[GF]"
+    "time": "R34n-M105[GF]"
   },
   "1121_537016": {
     "code": "MGMS30002",
@@ -29656,9 +29680,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537604",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]建議有程式背景。",
     "name": "數位內容與機器學習 Digital Content and Machine Learning",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "蔡銘箴",
     "time": "W34n-MB304[GF]"
@@ -32272,7 +32296,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557915",
-    "memo": "",
+    "memo": "外系同學如需選課，請與所辦徐小姐聯絡(分機57566)",
     "name": "專利法與實務專題 Special Topics on Patent Law and Practice",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32298,7 +32322,7 @@
     "id": "557917",
     "memo": "",
     "name": "刑事法中的化學變化：淺談法醫毒物學 Science in Criminal Law: An Introduction on Forensic Toxicology",
-    "num_limit": "9999",
+    "num_limit": "75",
     "reg_num": "-999",
     "teacher": "金孟華、待聘",
     "time": "S34-MB1063[GF]"
@@ -33126,7 +33150,7 @@
     "id": "561055",
     "memo": "上課地點在光復校區",
     "name": "開門見山 Building Character through Examples",
-    "num_limit": "130",
+    "num_limit": "190",
     "reg_num": "-999",
     "teacher": "林一平、謝仁俊",
     "time": "Mab-AB102[GF]"
@@ -33424,9 +33448,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561501",
-    "memo": "純線上同步遠距課程，請向教師索取線上連結。",
+    "memo": "不提供加簽。純線上同步遠距課程，請向教師索取線上連結。",
     "name": "新竹六燃地方學：大學社會責任與在地實踐 Localogy of the Sixth Fuel Factory: University Social Responsibility ＆ Local Praxis",
-    "num_limit": "45",
+    "num_limit": "67",
     "reg_num": "-999",
     "teacher": "賴雯淑",
     "time": "Wbc-"

@@ -2084,7 +2084,7 @@
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "254",
     "reg_num": "-999",
-    "teacher": "劉芷伶、蔡仁貞、鍾若男、明金蓮、林淑娟、林鳳蓮、王卿凌",
+    "teacher": "劉芷伶、蔡仁貞、鍾若男、林麗華、明金蓮、林淑娟、林鳳蓮、王卿凌、盧婉菁",
     "time": "S123456-"
   },
   "1121_111818": {
@@ -3981,7 +3981,7 @@
     "num_limit": "45",
     "reg_num": "-999",
     "teacher": "蔡美文、吳若嫣",
-    "time": "T23-YB530[YM]"
+    "time": "T34-YB530[YM]"
   },
   "1121_112264": {
     "code": "BEPT20029",
@@ -11733,7 +11733,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "洪紹洋、郭文華、王文基、范玫芳、林昭光、林宜平、陳嘉新、彭松嶽、顧彩璇、嚴曉珮",
-    "time": "Fy9a-"
+    "time": "Fy9a-YX201[YM]"
   },
   "1121_133201": {
     "code": "SHTS30042",
@@ -12045,7 +12045,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "連正章",
-    "time": ""
+    "time": "T34-YL512[YM]"
   },
   "1121_140200": {
     "code": "MDPH30086",
@@ -14692,12 +14692,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161075",
-    "memo": "本學期「食品安全與生活」課程為跨校區課程，陽明校區上課教室YX201、光復校區上課教室AB102；碩、博士班修課意願，因修課人數有限，請填寫申請表:https://forms.gle/c9FkPXvbEd2dxRNh6",
+    "memo": "大學部為選修通識課程請學生自行選課；碩、博士班修課意願，因修課人數有限，請填寫申請表:https://forms.gle/c9FkPXvbEd2dxRNh6\n，本課程為跨校區課程:\n陽明校區上課教室YT305、光復校區上課教室AB102",
     "name": "食品安全與生活 Food Safety and Life",
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "陳美蓮、陳鋕雄、賈文宇",
-    "time": "R34-AB102[GF],R34-YX201[YM]"
+    "time": "R34-AB102[GF],R34-YT305[YM]"
   },
   "1121_161076": {
     "code": "GECE00322",
@@ -15652,9 +15652,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310115",
-    "memo": "",
+    "memo": "上課教室更換至客家文化學院4樓國際會議廳",
     "name": "傳播過程與效果 Communication Process and Effect",
-    "num_limit": "42",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "俞蘋",
     "time": "W234-HK104[LJ]"
@@ -18846,7 +18846,7 @@
     "id": "515140",
     "memo": "",
     "name": "計算機組織 Computer Organization",
-    "num_limit": "150",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "劉志尉",
     "time": "M34W2-ED220[GF]"
@@ -19768,7 +19768,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "515603",
-    "memo": "不開放網路選課，需經指導教授同意後[需繳交指導教授同意書https://www.cs.nycu.edu.tw/education/cross-domain-study 下載]，以書面加簽[填寫加簽單]限已修習「智慧健康照護跨域學程」之同學選修。",
+    "memo": "不開放網路選課，需經指導教授同意後[需繳交指導教授同意書https://www.cs.nycu.edu.tw/education/cross-domain-study 下載]，以書面加簽[填寫加簽單]限「智慧健康照護跨域學程」之學生選修。",
     "name": "照護科技跨域專題(I) Smart Health Care Cross-Disciplinary Projects (I)",
     "num_limit": "0",
     "reg_num": "-999",
@@ -19780,7 +19780,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "515604",
-    "memo": "不開放網路選課，需經指導教授同意後[需繳交指導教授同意書https://www.cs.nycu.edu.tw/education/cross-domain-study 下載]，以書面加簽[填寫加簽單]限已修習「生物資訊工程跨域學程」之同學選修。",
+    "memo": "不開放網路選課，需經指導教授同意後[需繳交指導教授同意書https://www.cs.nycu.edu.tw/education/cross-domain-study 下載]，以書面加簽[填寫加簽單]限「生物資訊工程跨域學程」之學生選修。",
     "name": "生醫資訊跨領域專題(一) Biomedical Informatics Cross-Disciplinary Projects (I)",
     "num_limit": "0",
     "reg_num": "-999",
@@ -24635,18 +24635,6 @@
     "teacher": "李珮琪",
     "time": "F1-HC603[GF]"
   },
-  "1121_534806": {
-    "code": "HSIM30018",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "534806",
-    "memo": "限本所",
-    "name": "音樂學實務一 Musicology Practicum I",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "李奉書",
-    "time": "W34-HC513[GF]"
-  },
   "1121_534807": {
     "code": "HSIM30004",
     "credit": "3.00",
@@ -25240,7 +25228,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535220",
-    "memo": "第一階段暫不開放加選，第二、第三階段及開學後加退選將另行通知。若有疑問請洽電子所翁小姐：03-5712121分機54103",
+    "memo": "",
     "name": "實體設計自動化 Physical Design Automation",
     "num_limit": "0",
     "reg_num": "-999",
@@ -25312,7 +25300,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535226",
-    "memo": "",
+    "memo": "讀書會訊息：https://eenctu.nycu.edu.tw/tw/news/p1.php?num=1032",
     "name": "系統晶片設計 SOC Design",
     "num_limit": "60",
     "reg_num": "-999",
@@ -27825,7 +27813,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "林御專",
-    "time": "T678-EF202[GF]"
+    "time": "M56W5-EF202[GF]"
   },
   "1121_536313": {
     "code": "ENMS30007",
@@ -30016,7 +30004,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537804",
-    "memo": "",
+    "memo": "開放大三以上同學選修",
     "name": "人工智慧與高科技之商業運用 Artificial Intelligence and Its Application to High-Tech Business",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32037,7 +32025,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李昕潔",
-    "time": "Fabc-A701[GF]"
+    "time": "S234-A701[GF]"
   },
   "1121_557804": {
     "code": "MGMT30001",
@@ -32356,7 +32344,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "557920",
-    "memo": "",
+    "memo": "限科法所及科法專班同學選修\n",
     "name": "營業秘密與核心關鍵技術之保護 Protecting Trade Secrets and Key Technology",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -34482,7 +34470,7 @@
     "id": "562086",
     "memo": "",
     "name": "日語辯論講座與實習 Japanese Debate and Internship",
-    "num_limit": "20",
+    "num_limit": "15",
     "reg_num": "-999",
     "teacher": "上條純惠",
     "time": "Fab-A501[GF]"

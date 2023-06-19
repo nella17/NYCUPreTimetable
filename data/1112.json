@@ -787,7 +787,7 @@
     "memo": "",
     "name": "免疫風濕科臨床實習(一) Clerkship in Immunology",
     "num_limit": "9999",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "內科學科",
     "time": ""
   },
@@ -10795,7 +10795,7 @@
     "memo": "[English Medium Course]",
     "name": "專題討論(C班)(博) Seminar",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "14",
     "teacher": "黃琤、吳韋訥、孫光蕙、楊翠青、張懿欣、龔思豪、涂玉青、黃尉倫",
     "time": "T78-YT104[YM]"
   },
@@ -13339,7 +13339,7 @@
     "memo": "",
     "name": "醫學生物技術學研究(博) Research in Biotechnology",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "5",
     "teacher": "黃智生",
     "time": ""
   },
@@ -13447,7 +13447,7 @@
     "memo": "",
     "name": "微生物及免疫學研究(三)(博) Microbiology & Immunology Research (3) (Ph.D student)",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "11",
     "teacher": "微免所碩",
     "time": "Un-"
   },
@@ -17003,18 +17003,6 @@
     "teacher": "莊碧簪",
     "time": "T9-BI302[BA]"
   },
-  "1112_410057": {
-    "code": "BTBT30059",
-    "credit": "1.00",
-    "hours": "3.00",
-    "id": "410057",
-    "memo": "",
-    "name": "果蠅遺傳實驗實習 Drosophila Genetic Practice",
-    "num_limit": "6",
-    "reg_num": "0",
-    "teacher": "高智飛",
-    "time": "S567-BI618[BA]"
-  },
   "1112_410058": {
     "code": "BTBT00002",
     "credit": "1.00",
@@ -20059,7 +20047,7 @@
     "memo": "資工系與電資學士班學生優先選課；本課程實際內容為『程式能力鑑定』考試，及格條件為通過任一次考試，除考試後及另訂定的助教輔導時間外，本課程無實體教學。主開2年級",
     "name": "基礎程式設計 Basic Programming",
     "num_limit": "9999",
-    "reg_num": "319",
+    "reg_num": "324",
     "teacher": "林政寬、洪瑞鴻、黃寗琪",
     "time": ""
   },

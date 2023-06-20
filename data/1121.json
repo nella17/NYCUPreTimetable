@@ -1459,7 +1459,7 @@
     "memo": "",
     "name": "牙科器材學 Dental Materials",
     "num_limit": "50",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "黃何雄、林元敏、耿藝文",
     "time": "W78-YD105[YM]"
   },
@@ -2443,7 +2443,7 @@
     "memo": "暑期上課。",
     "name": "中藥炮製學 Processing of Chinese Medicine",
     "num_limit": "9999",
-    "reg_num": "95",
+    "reg_num": "96",
     "teacher": "陳日榮、賴尚志",
     "time": "U123-"
   },
@@ -2551,7 +2551,7 @@
     "memo": "",
     "name": "病理切片及細胞診斷實習 Pathological Technology & Diagnosis Cytology Practice",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "黃尉倫、呂世正",
     "time": "U1-"
   },
@@ -2563,7 +2563,7 @@
     "memo": "",
     "name": "臨床生化學實習 Clinical Biochemistry Practice Lab Internship",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "黃琤、張懿欣",
     "time": "S2-"
   },
@@ -2575,7 +2575,7 @@
     "memo": "",
     "name": "臨床血庫實習 Clinical Blood Banking Lab Internship",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "涂玉青、蘇美慈",
     "time": "S6-"
   },
@@ -2587,7 +2587,7 @@
     "memo": "",
     "name": "臨床血液學實習 Clinical Hematology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "呂世正、蘇美慈",
     "time": "S8-"
   },
@@ -2599,7 +2599,7 @@
     "memo": "",
     "name": "臨床生理學實習 Clinical Physiology Practice Lab Internship",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "吳韋訥",
     "time": "S3-"
   },
@@ -2611,7 +2611,7 @@
     "memo": "",
     "name": "臨床血清免疫實習 Clinical Serology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "孫光蕙、黃智生",
     "time": "S7-"
   },
@@ -2623,7 +2623,7 @@
     "memo": "",
     "name": "臨床病毒學實習 Clinical Virology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "龔思豪、蘇美慈、洪小雅",
     "time": "S5-"
   },
@@ -2635,7 +2635,7 @@
     "memo": "",
     "name": "臨床鏡檢及寄生蟲學實習 Clinical Microscopy & Parasitology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "黃智生、黃尉倫",
     "time": "S4-"
   },
@@ -2647,7 +2647,7 @@
     "memo": "",
     "name": "醫學分子檢驗實習 Molecular Diagnosis in Medicine Lab Internship",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "龔思豪、洪小雅",
     "time": "U2-"
   },
@@ -2659,7 +2659,7 @@
     "memo": "",
     "name": "臨床微生物學實習 Clinical Microbiology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "吳韋訥、楊翠青",
     "time": "S1-"
   },
@@ -2708,7 +2708,7 @@
     "name": "生技醫學講座 Biotechnology and Biomedical Seminar",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "黃尉倫、洪小雅",
+    "teacher": "黃尉倫、張佩靖、陳斯婷、簡千栩、洪小雅、藍昇輝、許凱程、陳培哲、洪瑞祥",
     "time": "Tn-YB100[YM]"
   },
   "1121_112014": {
@@ -2815,7 +2815,7 @@
     "memo": "",
     "name": "大四導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "涂玉青、龔思豪、黃尉倫",
     "time": "R9-"
   },
@@ -6935,18 +6935,6 @@
     "teacher": "陳美蓮、黃鈺芳、毛義方",
     "time": "T78-YS415[YM]"
   },
-  "1121_130810": {
-    "code": "MDEO30040",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "130810",
-    "memo": "",
-    "name": "環境流行病學專題討論(一) Seminars in Environmental Epidemiology (1)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "黃鈺芳、郭憲文",
-    "time": "W56-YS105[YM]"
-  },
   "1121_130812": {
     "code": "MDEO30050",
     "credit": "2.00",
@@ -6995,18 +6983,6 @@
     "teacher": "黃鈺芳、郭憲文",
     "time": "W34-YS105[YM]"
   },
-  "1121_130816": {
-    "code": "MDEO30041",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "130816",
-    "memo": "",
-    "name": "環境流行病學專題討論(三) Seminars in Environmental Epidemiology (3)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "黃鈺芳、郭憲文",
-    "time": "W56-YS105[YM]"
-  },
   "1121_130817": {
     "code": "MDEO30017",
     "credit": "2.00",
@@ -7029,7 +7005,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "楊振昌、潘文驥、張榮偉",
-    "time": "W4-YS301-3[YM"
+    "time": "W4n-YS415[YM]"
   },
   "1121_130819": {
     "code": "MDEO30099",
@@ -7041,7 +7017,7 @@
     "num_limit": "9999",
     "reg_num": "5",
     "teacher": "楊振昌、潘文驥、張榮偉",
-    "time": "W4-YS301-3[YM"
+    "time": "W4n-YS415[YM]"
   },
   "1121_130820": {
     "code": "MDEO30010",
@@ -7053,7 +7029,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "潘文驥",
-    "time": "W4n-YS105[YM]"
+    "time": "W4n-YS415[YM]"
   },
   "1121_130821": {
     "code": "MDEO30011",
@@ -7065,7 +7041,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "潘文驥",
-    "time": "W4n-YS105[YM]"
+    "time": "W4n-YS415[YM]"
   },
   "1121_130822": {
     "code": "MDEO30056",
@@ -7770,7 +7746,7 @@
     "id": "131200",
     "memo": "[English Medium Course]max. 12 students to main quality of teaching",
     "name": "STATA在多變項統計分析 Multivariate Analyses Using STATA",
-    "num_limit": "12",
+    "num_limit": "15",
     "reg_num": "12",
     "teacher": "喬芷",
     "time": "T3-YS405[YM]"
@@ -10463,6 +10439,18 @@
     "teacher": "李易展、莊惠燕、張御展",
     "time": "M78-YB134[YM]"
   },
+  "1121_132524": {
+    "code": "BEIR30010",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132524",
+    "memo": "",
+    "name": "幹細胞分子影像學 Molecular Imaging in Stem Cell Research",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蘇家豪",
+    "time": "F34-YB458[YM]"
+  },
   "1121_132600": {
     "code": "BEBP30006",
     "credit": "4.00",
@@ -10943,18 +10931,6 @@
     "teacher": "陳紀如",
     "time": "W56-YC313[YM]"
   },
-  "1121_132807": {
-    "code": "LSMI30036",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "132807",
-    "memo": "[English Medium Course]",
-    "name": "病毒學與生物技術 (全英語) Virology and biotechnology (in English)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "蔡明翰",
-    "time": "F78-YC313[YM]"
-  },
   "1121_132808": {
     "code": "LSMI30037",
     "credit": "2.00",
@@ -11025,7 +11001,7 @@
     "num_limit": "9999",
     "reg_num": "4",
     "teacher": "黃雪莉",
-    "time": "Sn-YC313[YM]"
+    "time": "Un-YC313[YM]"
   },
   "1121_132815": {
     "code": "LSMI30064",
@@ -12287,30 +12263,6 @@
     "teacher": "余國賓",
     "time": "T78-YS105[YM]"
   },
-  "1121_140606": {
-    "code": "MDEO30044",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "140606",
-    "memo": "",
-    "name": "環境流行病學專題討論(五) Seminars in Environmental Epidemiology (5)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "黃鈺芳、郭憲文",
-    "time": "W56-YS105[YM]"
-  },
-  "1121_140607": {
-    "code": "MDEO30097",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "140607",
-    "memo": "",
-    "name": "環境流行病學專題討論(七) Seminars on Environmental Epidemiology (7)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "黃鈺芳、郭憲文",
-    "time": "W56-YS105[YM]"
-  },
   "1121_140608": {
     "code": "MDEO30100",
     "credit": "1.00",
@@ -12321,7 +12273,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "楊振昌、潘文驥、張榮偉",
-    "time": "W4-YS301-3[YM"
+    "time": "W4n-YS415[YM]"
   },
   "1121_140609": {
     "code": "MDEO30101",
@@ -12333,7 +12285,7 @@
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "楊振昌、潘文驥、張榮偉",
-    "time": "W4-YS301-3[YM"
+    "time": "W4n-YS415[YM]"
   },
   "1121_140610": {
     "code": "MDEO30082",
@@ -12345,7 +12297,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "潘文驥",
-    "time": "W4n-YS105[YM]"
+    "time": "W4n-YS415[YM]"
   },
   "1121_140611": {
     "code": "MDEO30014",
@@ -12357,7 +12309,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "潘文驥",
-    "time": "Wn-YS105[YM]"
+    "time": "W4n-YS415[YM]"
   },
   "1121_140700": {
     "code": "MDEC30003",
@@ -18019,7 +17971,7 @@
     "memo": "A~F班、醫師工程師組。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
     "name": "電子學(一) Electronics (I)",
     "num_limit": "60",
-    "reg_num": "58",
+    "reg_num": "57",
     "teacher": "陳佳宏",
     "time": "M78R34-EE207[GF]"
   },
@@ -18043,7 +17995,7 @@
     "memo": "A~F班、醫師工程師組。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
     "name": "電子學(一) Electronics (I)",
     "num_limit": "60",
-    "reg_num": "70",
+    "reg_num": "72",
     "teacher": "陳巍仁",
     "time": "M78R34-ED116[GF]"
   },
@@ -18055,7 +18007,7 @@
     "memo": "A~F班、醫師工程師組。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
     "name": "電子學(一) Electronics (I)",
     "num_limit": "60",
-    "reg_num": "59",
+    "reg_num": "58",
     "teacher": "孟慶宗",
     "time": "M78R34-ED303[GF]"
   },
@@ -19074,7 +19026,7 @@
     "id": "515168",
     "memo": "上課教室：工程四館ED222",
     "name": "數位訊號處理應用實驗 Digital Signal Processing Laboratory",
-    "num_limit": "15",
+    "num_limit": "20",
     "reg_num": "15",
     "teacher": "鄭耿璽、桑梓賢",
     "time": "W567-"
@@ -22483,7 +22435,7 @@
     "memo": "管院管理基礎課程；管院學生優先選課；上限80人；主開大三工管系、輔開管理學院、管科系、運管系、資財系；工管系大三必修，運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。",
     "name": "生產與作業管理 Production and Operation Management",
     "num_limit": "80",
-    "reg_num": "82",
+    "reg_num": "83",
     "teacher": "王志軒",
     "time": "W234-MB520[GF]"
   },

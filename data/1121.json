@@ -2359,7 +2359,7 @@
     "memo": "初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
     "name": "藥學導論 Orientation in Pharmacy",
     "num_limit": "70",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "胡德民、王孟廷、林滿玉、黃奇英、康照洲、陳日榮、林宥欣、東雅惠、陳惠亭、許銘能、蘇溶真、廖曉偉、姜紹青、紀威光、黃文鴻、吳力人、趙彥欽、曾冠燁",
     "time": "M56-YL402[YM]"
   },
@@ -2443,7 +2443,7 @@
     "memo": "暑期上課。",
     "name": "中藥炮製學 Processing of Chinese Medicine",
     "num_limit": "9999",
-    "reg_num": "96",
+    "reg_num": "97",
     "teacher": "陳日榮、賴尚志",
     "time": "U123-"
   },
@@ -4327,7 +4327,7 @@
     "memo": "",
     "name": "X光心臟導管技術學實習 Cardiac Catheterization Practice",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "47",
     "teacher": "盧家鋒",
     "time": "W567-"
   },
@@ -4339,7 +4339,7 @@
     "memo": "",
     "name": "X光電腦斷層技術學實習 Computed Tomography Practice",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "48",
     "teacher": "張御展",
     "time": "W234-"
   },
@@ -4351,7 +4351,7 @@
     "memo": "",
     "name": "核醫造影技術學實習 Nuclear Medicine Imaging Technology Practice",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "48",
     "teacher": "許世明",
     "time": "M123456-"
   },
@@ -4363,7 +4363,7 @@
     "memo": "",
     "name": "超音波技術學實習 Ultrasonography Practice",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "49",
     "teacher": "盧家鋒",
     "time": "S234-"
   },
@@ -4375,7 +4375,7 @@
     "memo": "",
     "name": "放射性免疫暨核醫體外分析實習 Radioimmunoassay & Nuclear Medicine In-Vitro Analysis Practice",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "49",
     "teacher": "張御展",
     "time": "R234-"
   },
@@ -4387,7 +4387,7 @@
     "memo": "",
     "name": "牙科X光診斷技術學實習 Dental Radiographic Technique Practice",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "49",
     "teacher": "張御展",
     "time": "R567-"
   },
@@ -4399,7 +4399,7 @@
     "memo": "",
     "name": "磁共振技術學實習 Magnetic Resonance Practice",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "48",
     "teacher": "張御展",
     "time": "T567-"
   },
@@ -4411,7 +4411,7 @@
     "memo": "",
     "name": "一般及特殊X光診斷技術學實習 General & Special Radiographic Technique Practice",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "49",
     "teacher": "許世明",
     "time": "R8F12345678-"
   },
@@ -4435,7 +4435,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "53",
+    "reg_num": "51",
     "teacher": "盧家鋒、許世明、張御展",
     "time": "Fab-"
   },
@@ -5071,7 +5071,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "藥理學 Pharmacology",
     "num_limit": "9999",
-    "reg_num": "148",
+    "reg_num": "147",
     "teacher": "王湘翠、黃金洲、林滿玉、李新城、霍德義、駱雨利、張世霖、胡德民、張婷婷、兵岳忻、嚴錦城、梁耀仁、柯信國、張豫立、鄒樂起、李沛璋、謝昀蓁、王笙帆、葉翰宜、黃雅嫻、王怡凱",
     "time": "M12345678T34W1234R1234F12345678-YT002[YM]"
   },
@@ -5095,7 +5095,7 @@
     "memo": "",
     "name": "微生物學及免疫學 Microbiology & Immunology",
     "num_limit": "65",
-    "reg_num": "65",
+    "reg_num": "66",
     "teacher": "蔡雨寰、張佩靖、黃雪莉、呂春敏",
     "time": "T78F12-YB100[YM]"
   },
@@ -5155,7 +5155,7 @@
     "memo": "請依醫學系PBL課程上課，不開放外系選修。",
     "name": "病理學 Pathology",
     "num_limit": "195",
-    "reg_num": "190",
+    "reg_num": "189",
     "teacher": "李芬瑤、許志怡、葉奕成、杭仁釩、梁文議、郭盈汝、林士傑、張富邦、劉雯玲",
     "time": "T5678-YX406[YM]"
   },
@@ -5167,7 +5167,7 @@
     "memo": "請依醫學系PBL課程上課，不開放外系選修。",
     "name": "病理學實驗 Pathology Laboratory",
     "num_limit": "195",
-    "reg_num": "190",
+    "reg_num": "189",
     "teacher": "李芬瑤、劉雯玲",
     "time": "T5678-YX406[YM]"
   },
@@ -5311,7 +5311,7 @@
     "memo": "醫學人文與社會領域必修，週二12前九週上課，週三56後八週上課，課程教室將另行通知，限醫學系四年級。本課開放智慧健康照護跨域學程學生選修，欲選修者請務必聯繫醫學人文暨教育學科助教，以協助分班。",
     "name": "醫療與社會人文 Medical Humanity and Social Science",
     "num_limit": "153",
-    "reg_num": "148",
+    "reg_num": "147",
     "teacher": "周穎政、郭文華、黃嵩立、梁立霖、黃宣穎、藍凡耘、楊南屏、蔡景耀、王宗曦、顏永豐、李雅玲、蔡淑鈴、簡詩穎、黃品翔、陳秀丹、葉采衢",
     "time": "T12W56-"
   },
@@ -6511,7 +6511,7 @@
     "memo": "藥學系、傳醫所、衛福所合班上課",
     "name": "中藥概論 Introduction to Chinese Materia Medica",
     "num_limit": "70",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "陳日榮、沈雅敬、翁芸芳、蔡忠志、廖家慶",
     "time": "T34-YK533[YM]"
   },
@@ -8191,7 +8191,7 @@
     "memo": "榮總牙科",
     "name": "高等牙周病學—牙科植牙手術篇 Advanced Periodontology- Dental implant surgery",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "賴玉玲、陳恆理、董醒任、陳彥廷、林怡君、陳軒弘",
     "time": "M5678T1234W1234R5678F5678-"
   },
@@ -15979,7 +15979,7 @@
     "memo": "[English Medium Course]",
     "name": "生物化學（一） Biochemistry (I)",
     "num_limit": "30",
-    "reg_num": "31",
+    "reg_num": "32",
     "teacher": "蘭宜錚",
     "time": "F234-BI309[BA]"
   },
@@ -21187,7 +21187,7 @@
     "memo": "",
     "name": "近代物理(二) Modern Physics (II)",
     "num_limit": "75",
-    "reg_num": "77",
+    "reg_num": "76",
     "teacher": "許世英",
     "time": "T78R2-SC160[GF]"
   },
@@ -21199,7 +21199,7 @@
     "memo": "[English Medium Course]",
     "name": "熱物理 Thermal Physics",
     "num_limit": "75",
-    "reg_num": "75",
+    "reg_num": "74",
     "teacher": "蘇蓉容",
     "time": "T34n-SC160[GF]"
   },
@@ -21223,7 +21223,7 @@
     "memo": "[English Medium Course]",
     "name": "實驗物理(二) Experimental Physics(II)",
     "num_limit": "32",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "許鈺敏",
     "time": "F5678-SC324[GF]"
   },
@@ -21235,7 +21235,7 @@
     "memo": "A班-電子物理組選修,B班-光電奈米組必修",
     "name": "光學概論（一） Introduction to Optics (Ｉ)",
     "num_limit": "75",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "羅志偉",
     "time": "M6R34-SC160[GF]"
   },
@@ -21751,7 +21751,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論B(一) Seminar B (I)",
     "num_limit": "27",
-    "reg_num": "27",
+    "reg_num": "29",
     "teacher": "平松弘嗣",
     "time": "F34-SB202[GF]"
   },
@@ -22915,7 +22915,7 @@
     "memo": "此課程僅供研究生選修，不列入畢業學分。純線上同步遠距課程 (請向教師索取線上連結)",
     "name": "研究生英文:研究論文寫作 Graduate English: Research Paper Writing",
     "num_limit": "20",
-    "reg_num": "20",
+    "reg_num": "21",
     "teacher": "張月菁",
     "time": "R34-"
   },
@@ -24883,7 +24883,7 @@
     "memo": "",
     "name": "專題研究 Graduate Research",
     "num_limit": "9999",
-    "reg_num": "201",
+    "reg_num": "205",
     "teacher": "電子所",
     "time": ""
   },
@@ -26536,12 +26536,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535655",
-    "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課；[English Medium Course],",
+    "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課；[English Medium Course],[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "影像處理 Image Processing",
     "num_limit": "90",
     "reg_num": "57",
     "teacher": "莊仁輝",
-    "time": "T2F56-EC122[GF]"
+    "time": "F56-EC122[GF]"
   },
   "1121_535659": {
     "code": "CSIC30107",
@@ -28244,7 +28244,7 @@
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
     "reg_num": "71",
-    "teacher": "吳淑褓",
+    "teacher": "鄭彥如",
     "time": ""
   },
   "1121_536805": {
@@ -28256,7 +28256,7 @@
     "name": "專題演講 Departmental Colloquium",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "吳淑褓",
+    "teacher": "鄭彥如",
     "time": "F5678-SB210[GF]"
   },
   "1121_536806": {
@@ -28270,18 +28270,6 @@
     "reg_num": "3",
     "teacher": "許千樹",
     "time": "T567-EO701[GF]"
-  },
-  "1121_536807": {
-    "code": "SCIC30025",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "536807",
-    "memo": "",
-    "name": "有機反應機構 Organic Reaction Mechanism",
-    "num_limit": "9999",
-    "reg_num": "7",
-    "teacher": "鄭彥如",
-    "time": "M234-SB202[GF]"
   },
   "1121_536808": {
     "code": "SCIC30044",
@@ -28989,7 +28977,7 @@
     "num_limit": "10",
     "reg_num": "0",
     "teacher": "欒紀成",
-    "time": "T567-M104[GF]"
+    "time": "W567-M104[GF]"
   },
   "1121_537019": {
     "code": "MGMS30118",
@@ -40748,7 +40736,7 @@
     "name": "導師輔導(5) Tutor Guidance(5) ",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "系統工程",
+    "teacher": "藍建武",
     "time": "M12-"
   },
   "1121_910174": {
@@ -42596,7 +42584,7 @@
     "name": "建築設備 Building Equipment",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "蔡營寬",
+    "teacher": "張又升",
     "time": "T89W9-"
   },
   "1121_910328": {

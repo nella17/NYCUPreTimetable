@@ -392,7 +392,7 @@
     "name": "大體解剖學 Gross Anatomy",
     "num_limit": "9999",
     "reg_num": "177",
-    "teacher": "鄭瓊娟、傅毓秀、李光申、李學德、蔡佩君、郭曉縈、侯珮珊、廖文輝、周昆達、周伯鑫、吳宏達、陳威志、吳飛逸",
+    "teacher": "鄭瓊娟、傅毓秀、李光申、李學德、蔡佩君、郭曉縈、侯珮珊、周昆達、周伯鑫、吳宏達、陳威志、趙勻廷、吳飛逸",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
   "1121_110029": {
@@ -468,7 +468,7 @@
     "time": "W56-YT001[YM]"
   },
   "1121_110035": {
-    "code": "MDMD10078",
+    "code": "MDMD00006",
     "credit": "1.00",
     "hours": "2.00",
     "id": "110035",
@@ -2767,7 +2767,7 @@
     "memo": "",
     "name": "血液學及臨床血液學 Hematology and Clinical Hematology",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "呂世正、孫光蕙、涂玉青、蘇美慈、林烱熙",
     "time": "M234-YB101[YM]"
   },
@@ -2779,7 +2779,7 @@
     "memo": "",
     "name": "血庫學 Blood Banking",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "涂玉青、劉學玫、陳瀅如、劉峻宇",
     "time": "T56-YB101[YM]"
   },
@@ -2791,7 +2791,7 @@
     "memo": "[English Medium Course]於本系生醫工程館229實驗室",
     "name": "血液學及血庫學實驗 Hematology and Blood Banking Lab.",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "呂世正、吳韋訥、孫光蕙、黃智生、涂玉青、蘇美慈、黃憲堂、陳依妘",
     "time": "M5678R56-"
   },
@@ -2803,7 +2803,7 @@
     "memo": "",
     "name": "大三導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "黃智生、吳韋訥",
     "time": "W9-"
   },
@@ -4327,7 +4327,7 @@
     "memo": "",
     "name": "X光心臟導管技術學實習 Cardiac Catheterization Practice",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "45",
     "teacher": "盧家鋒",
     "time": "W567-"
   },
@@ -4339,7 +4339,7 @@
     "memo": "",
     "name": "X光電腦斷層技術學實習 Computed Tomography Practice",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "46",
     "teacher": "張御展",
     "time": "W234-"
   },
@@ -4351,7 +4351,7 @@
     "memo": "",
     "name": "核醫造影技術學實習 Nuclear Medicine Imaging Technology Practice",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "46",
     "teacher": "許世明",
     "time": "M123456-"
   },
@@ -4363,7 +4363,7 @@
     "memo": "",
     "name": "超音波技術學實習 Ultrasonography Practice",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "47",
     "teacher": "盧家鋒",
     "time": "S234-"
   },
@@ -4375,7 +4375,7 @@
     "memo": "",
     "name": "放射性免疫暨核醫體外分析實習 Radioimmunoassay & Nuclear Medicine In-Vitro Analysis Practice",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "47",
     "teacher": "張御展",
     "time": "R234-"
   },
@@ -4387,7 +4387,7 @@
     "memo": "",
     "name": "牙科X光診斷技術學實習 Dental Radiographic Technique Practice",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "47",
     "teacher": "張御展",
     "time": "R567-"
   },
@@ -4399,7 +4399,7 @@
     "memo": "",
     "name": "磁共振技術學實習 Magnetic Resonance Practice",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "46",
     "teacher": "張御展",
     "time": "T567-"
   },
@@ -4411,7 +4411,7 @@
     "memo": "",
     "name": "一般及特殊X光診斷技術學實習 General & Special Radiographic Technique Practice",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "47",
     "teacher": "許世明",
     "time": "R8F12345678-"
   },
@@ -4435,7 +4435,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "49",
     "teacher": "盧家鋒、許世明、張御展",
     "time": "Fab-"
   },
@@ -5191,7 +5191,7 @@
     "memo": "優先醫技、醫放、物輔，次護理、藥學；需先修解剖學 ，生理學等相關科目。",
     "name": "病理學 Pathology",
     "num_limit": "110",
-    "reg_num": "110",
+    "reg_num": "109",
     "teacher": "李芬瑤、許志怡、葉奕成、杭仁釩、梁文議、楊靜芬、郭盈汝、林士傑、陳妍英、張富邦、林士堯",
     "time": "F56-YX216[YM]"
   },
@@ -6212,7 +6212,7 @@
     "name": "分子生物學 Molecular Biology",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "葉添順、陳建鋒、李新城、兵岳忻、曾才郁",
+    "teacher": "葉添順、陳建鋒、傅淑玲、李新城",
     "time": "T56-YEA100[YM]"
   },
   "1121_130401": {
@@ -28999,7 +28999,7 @@
     "memo": "管科系所優先選課。開放大三大四同學選修。",
     "name": "新創事業與財務策略管理 New Venture and Financial Strategy Management",
     "num_limit": "25",
-    "reg_num": "25",
+    "reg_num": "26",
     "teacher": "陳宗岡、待聘",
     "time": "R67-M205[GF]"
   },
@@ -39091,7 +39091,7 @@
     "memo": "資工網攻，上課地點在國防理工",
     "name": "導師輔導(3) Tutor Guidance(3)",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "系統工程",
     "time": "M12-"
   },
@@ -39199,7 +39199,7 @@
     "memo": "上課地點在國防理工",
     "name": "物件導向程式設計 Object Oriented Programming",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "陳丙堃",
     "time": "Mabc-"
   },
@@ -39211,7 +39211,7 @@
     "memo": "上課地點在國防理工",
     "name": "離散數學 Discrete Mathematics",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "王順吉",
     "time": "M34W4-"
   },
@@ -39223,7 +39223,7 @@
     "memo": "上課地點在國防理工",
     "name": "資料結構 Data Structure",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "周兆龍",
     "time": "W123-"
   },
@@ -39235,7 +39235,7 @@
     "memo": "上課地點在國防理工",
     "name": "數位電路設計 Digital Circuit Design",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "陳丙堃",
     "time": "Tabc-"
   },
@@ -39247,7 +39247,7 @@
     "memo": "此課程由曾建超老師授課六週，上課時間為R34n，地點於光復校區。其餘十二週由理工學院張凱威老師授課，上課地點於國防大學理工學院。",
     "name": "網路技術與實務1 Network Technology and Practice(1)",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "張凱威、曾建超",
     "time": "R234-"
   },
@@ -39763,7 +39763,7 @@
     "memo": "資工組，上課地點在國防理工",
     "name": "體育(3) Physical Education(3)",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "系統工程",
     "time": "T34-"
   },
@@ -43063,7 +43063,7 @@
     "memo": "上課地點在國防理工",
     "name": "大陸問題研究 Studies on Mainland China",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "系統工程",
     "time": "T678-"
   },
@@ -43087,7 +43087,7 @@
     "memo": "上課地點在國防理工",
     "name": "中華民國憲法與立國精神 Constitution and Founding spirit of the ROC",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "系統工程",
     "time": "M678-"
   },

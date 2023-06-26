@@ -1992,7 +1992,7 @@
     "time": "M1234T12345678W12R12345678F1234-"
   },
   "1112_110159": {
-    "code": "MDMD10085",
+    "code": "MDMD10146",
     "credit": "1.00",
     "hours": "1.00",
     "id": "110159",
@@ -2122,6 +2122,18 @@
     "reg_num": "10",
     "teacher": "季康揚",
     "time": "W34-"
+  },
+  "1112_110170": {
+    "code": "MDMD10087",
+    "credit": ".50",
+    "hours": "1.00",
+    "id": "110170",
+    "memo": "",
+    "name": "組織學實驗 Lab. in Histology",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "鄭彥甫",
+    "time": ""
   },
   "1112_110171": {
     "code": "MDMD10117",
@@ -2947,7 +2959,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
-    "reg_num": "7",
+    "reg_num": "8",
     "teacher": "林怡彣",
     "time": "F9a-YD320[YM]"
   },
@@ -6607,7 +6619,7 @@
     "memo": "",
     "name": "病理學 Pathology",
     "num_limit": "156",
-    "reg_num": "153",
+    "reg_num": "152",
     "teacher": "李芬瑤、許志怡、杭仁釩、楊靜芬、張富邦、林士堯、劉雯玲",
     "time": "T5678-YT002[YM]"
   },
@@ -10135,7 +10147,7 @@
     "memo": "開放隨班附讀",
     "name": "生技新藥專題討論 Seminars in Biotechnology & Development of Novel Therapeutic Agents",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "23",
     "teacher": "黃奇英、蘇瑀、蕭崇瑋、劉俊煌、何國牟、張牧新、金翠庭",
     "time": "R56-YC101[YM]"
   },
@@ -12355,7 +12367,7 @@
     "memo": "碩必選(review)",
     "name": "論文研究進度報告(碩) Progress report",
     "num_limit": "9999",
-    "reg_num": "45",
+    "reg_num": "47",
     "teacher": "陳俊銘、林照雄、蔡亭芬、羅清維、俞震亞、林崇智、陳燕彰、鍾明怡、李曉暉、可文亞、張欣暘、陳虹如、李敏嘉、陳瀅州、陳儀聰、藍昇輝、袁維謙",
     "time": ""
   },
@@ -13543,7 +13555,7 @@
     "memo": "限本學程在職醫師學生選修。",
     "name": "論文研究 Progress Report",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "連正章",
     "time": ""
   },

@@ -79,7 +79,7 @@
     "memo": "大堂課與小組討論交替",
     "name": "科學發表與思維 Scientific Presentation and Thinking",
     "num_limit": "144",
-    "reg_num": "123",
+    "reg_num": "122",
     "teacher": "霍德義、黃金洲、陳志彥、林志慶、林邑璁、陳世彬、紀乃方、賴峻毅、詹宇鈞、江晨恩、蘇建維、林堯彬、陳明德、徐德福、劉峻宇、許劭榮",
     "time": "W78-YX216[YM]"
   },
@@ -91,7 +91,7 @@
     "memo": "",
     "name": "微積分(一) Calculus Ⅰ",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "宋文旭",
     "time": "W12-YX216[YM]"
   },
@@ -247,7 +247,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "20",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "葉添順",
     "time": "W34-YT204[YM]"
   },
@@ -4963,7 +4963,7 @@
     "memo": "醫二A,   醫二C, 醫技二, 藥學二合班上課",
     "name": "生物化學 Biochemistry",
     "num_limit": "9999",
-    "reg_num": "201",
+    "reg_num": "200",
     "teacher": "王琬菁、陳美瑜、鄭子豪、黃介嶸、許翺麟、姜為中",
     "time": "R56-,F34-EE105[GF],F34-YX216[YM]"
   },
@@ -4975,7 +4975,7 @@
     "memo": "醫二A",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "80",
-    "reg_num": "64",
+    "reg_num": "63",
     "teacher": "游麗如、徐子涵、王毓瑄、陳美瑜、鄭子豪、郭津岑、許翺麟、許玉璇",
     "time": "M5678-YEC309[YM]"
   },
@@ -5143,7 +5143,7 @@
     "memo": "暑假上課時間為8月7日~8月10日上午9:00~12:00，下午1:30-4:30，限111學年度之醫學系二年級的學生修課",
     "name": "微生物學及免疫學實驗  Lab Practice in Microbiology & Immunology",
     "num_limit": "0",
-    "reg_num": "5",
+    "reg_num": "6",
     "teacher": "陳紀如、徐嘉琳、高正彥",
     "time": "Sy-YC313[YM]"
   },
@@ -6344,7 +6344,7 @@
     "name": "腫瘤生物學 Tumor Biology",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "葉添順、李新城",
+    "teacher": "葉添順、李新城、曾才郁",
     "time": "R78-YEA100[YM]"
   },
   "1121_130500": {
@@ -8684,7 +8684,7 @@
     "name": "進階社區護理學實習(一) Advanced Community Nursing Practice (I)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "劉影梅、黃子庭、簡莉盈、周承珍、林承霈",
+    "teacher": "劉影梅、黃子庭、許樹珍、簡莉盈、周承珍、林承霈",
     "time": "M12345678-"
   },
   "1121_131808": {
@@ -8696,7 +8696,7 @@
     "name": "社區健康評估與計畫 Health Assessment and Planning in Community",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "簡莉盈、黃子庭、劉影梅、周承珍、林承霈",
+    "teacher": "簡莉盈、黃子庭、許樹珍、劉影梅、周承珍、林承霈",
     "time": "T567-YN301[YM]"
   },
   "1121_131809": {
@@ -8708,7 +8708,7 @@
     "name": "社區健康評估與計畫實習 Practice in Health Assessment and Planning in Community",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "劉影梅、黃子庭、簡莉盈、周承珍、林承霈",
+    "teacher": "劉影梅、黃子庭、許樹珍、簡莉盈、周承珍、林承霈",
     "time": "W1234n5678-"
   },
   "1121_131900": {
@@ -9320,7 +9320,7 @@
     "name": "食品管理專題討論 (三) Seminar on Food Management (3)",
     "num_limit": "26",
     "reg_num": "1",
-    "teacher": "康照洲",
+    "teacher": "康照洲、廖伯霖",
     "time": "F12-YL404[YM]"
   },
   "1121_132114": {
@@ -14299,7 +14299,7 @@
     "memo": "",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
     "num_limit": "10",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "徐詩偉、洪紹洋",
     "time": "F78-YX202[YM]"
   },
@@ -18127,7 +18127,7 @@
     "memo": "",
     "name": "微分方程 Differential Equation",
     "num_limit": "55",
-    "reg_num": "58",
+    "reg_num": "59",
     "teacher": "陳永平",
     "time": "M34W2-EE207[GF]"
   },
@@ -26106,7 +26106,7 @@
     "id": "535501",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "平行程式設計 Parallel Programming",
-    "num_limit": "120",
+    "num_limit": "130",
     "reg_num": "120",
     "teacher": "游逸平",
     "time": "R234-EDB27[GF]"
@@ -26118,7 +26118,7 @@
     "id": "535502",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課；",
     "name": "正規語言與計算理論 Formal Languages and Theory of Computation",
-    "num_limit": "40",
+    "num_limit": "50",
     "reg_num": "17",
     "teacher": "曾文貴",
     "time": "M7R34-ED302[GF]"
@@ -26178,7 +26178,7 @@
     "id": "535507",
     "memo": "原課名「逼近演算法」；新舊課程僅能採計1門為畢業學分，不能重覆採計。[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course],開放隨班附讀；資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "近似演算法 Introduction to Approximation Algorithms",
-    "num_limit": "40",
+    "num_limit": "60",
     "reg_num": "40",
     "teacher": "高孟駿",
     "time": "R56-ED102[GF]"
@@ -26226,7 +26226,7 @@
     "id": "535511",
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "資料視覺化與視覺分析 Data Visualization and Visual Analytics",
-    "num_limit": "80",
+    "num_limit": "110",
     "reg_num": "80",
     "teacher": "王昱舜",
     "time": "T34n-EC015[GF]"
@@ -26238,7 +26238,7 @@
     "id": "535512",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course],",
     "name": "演化計算 Evolutionary Computation",
-    "num_limit": "40",
+    "num_limit": "50",
     "reg_num": "40",
     "teacher": "陳穎平",
     "time": "R34-ED102[GF]"
@@ -26250,7 +26250,7 @@
     "id": "535513",
     "memo": "[English Medium Course]請依各所入學年度之修業要點選課；博士班資格考考核科目；資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "演算法 Algorithms",
-    "num_limit": "120",
+    "num_limit": "150",
     "reg_num": "93",
     "teacher": "荊宇泰",
     "time": "T7F34-ED117[GF]"
@@ -26262,7 +26262,7 @@
     "id": "535514",
     "memo": "限資科工所同學(不限年級)、資訊學院博士班及多媒體所/網工所(限碩二以上)同學選課；依各所入學年度之修業要點選課；[English Medium Course]",
     "name": "論文研討  Seminars",
-    "num_limit": "120",
+    "num_limit": "177",
     "reg_num": "99",
     "teacher": "陳志成",
     "time": "W78-ED117[GF]"
@@ -26274,7 +26274,7 @@
     "id": "535515",
     "memo": "資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；[English Medium Course]第一階段選課上限45人, 第三階段開放到60人",
     "name": "機器學習 Machine Learning ",
-    "num_limit": "45",
+    "num_limit": "60",
     "reg_num": "45",
     "teacher": "洪瑞鴻、邱維辰",
     "time": "M7R34-EC115[GF]"
@@ -26478,7 +26478,7 @@
     "id": "535650",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[English Medium Course],開放隨班附讀",
     "name": "3D遊戲程式 3D Game Programming ",
-    "num_limit": "40",
+    "num_limit": "60",
     "reg_num": "21",
     "teacher": "黃世強",
     "time": "M56R2-ED102[GF]"
@@ -26526,7 +26526,7 @@
     "id": "535654",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；原課名「數位電視廣播與串流」僅能採計一門；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀",
     "name": "視訊串流與追蹤 Video streaming and tracking",
-    "num_limit": "65",
+    "num_limit": "80",
     "reg_num": "58",
     "teacher": "蔡文錦",
     "time": "M34-EC115[GF]"
@@ -26538,7 +26538,7 @@
     "id": "535655",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課；[English Medium Course],[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "影像處理 Image Processing",
-    "num_limit": "90",
+    "num_limit": "96",
     "reg_num": "57",
     "teacher": "莊仁輝",
     "time": "F56-EC122[GF]"
@@ -26550,7 +26550,7 @@
     "id": "535659",
     "memo": "[English Medium Course]；資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "視訊壓縮 Video Compression",
-    "num_limit": "40",
+    "num_limit": "45",
     "reg_num": "40",
     "teacher": "劉育綸",
     "time": "M56R2-ED202[GF]"
@@ -26562,7 +26562,7 @@
     "id": "535660",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；英文授課[English Medium Course]；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "影像編修技術與特效合成 Image Manipulation Techniques and Visual Effects",
-    "num_limit": "30",
+    "num_limit": "35",
     "reg_num": "30",
     "teacher": "林奕成",
     "time": "R56-EC329[GF]"
@@ -35817,7 +35817,7 @@
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "詹益欣",
-    "time": "W12-PE[GF]"
+    "time": "Wz1-PE[GF]"
   },
   "1121_563103": {
     "code": "GEPE20008",

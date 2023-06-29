@@ -1999,7 +1999,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "76",
+    "reg_num": "74",
     "teacher": "許樹珍、胡慧蘭、周承珍、陳律言",
     "time": "R9a-YN416[YM]"
   },
@@ -2011,7 +2011,7 @@
     "memo": "",
     "name": "社區衛生護理學 Community Health Nursing",
     "num_limit": "254",
-    "reg_num": "75",
+    "reg_num": "73",
     "teacher": "于潄、黃子庭、王子芳、陳怡如、劉影梅、簡莉盈、陳紀雯、周承珍、林承霈、周明慧、張芬娥",
     "time": "M123456789W234-YN603[YM]"
   },
@@ -2035,7 +2035,7 @@
     "memo": "",
     "name": "精神衛生護理學 Psychiatric Mental Health Nursing",
     "num_limit": "254",
-    "reg_num": "75",
+    "reg_num": "73",
     "teacher": "許樹珍、楊秋月、張秀如、洪珮瑜",
     "time": "T1234567W5678-YN603[YM]"
   },
@@ -2059,7 +2059,7 @@
     "memo": "",
     "name": "護理倫理概論 Introduction to Nursing Ethics",
     "num_limit": "254",
-    "reg_num": "78",
+    "reg_num": "76",
     "teacher": "許樹珍、黃子庭、王子芳、蔡慈儀、雷文玫、林雅萍、林承霈、徐清樺",
     "time": "R56-YN418[YM]"
   },
@@ -2071,7 +2071,7 @@
     "memo": "",
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "254",
-    "reg_num": "75",
+    "reg_num": "73",
     "teacher": "李亭亭、蔡仁貞、童恒新、黃淑鶴、明金蓮、林淑娟",
     "time": "R78-YN418[YM]"
   },
@@ -2083,7 +2083,7 @@
     "memo": "台北榮總",
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "254",
-    "reg_num": "75",
+    "reg_num": "73",
     "teacher": "劉芷伶、蔡仁貞、鍾若男、林麗華、明金蓮、林淑娟、林鳳蓮、王卿凌、盧婉菁",
     "time": "S123456-"
   },
@@ -2131,7 +2131,7 @@
     "memo": "需修習過內外科護理學之護理系四年級\n上課教室：護理館R418與414，台北榮民總醫院手術室及麻醉部",
     "name": "麻醉護理概論 Introduction to Anesthesia Nursing",
     "num_limit": "9999",
-    "reg_num": "69",
+    "reg_num": "67",
     "teacher": "黃淑鶴、楊惠如",
     "time": "Wab-YN418[YM]"
   },
@@ -2443,7 +2443,7 @@
     "memo": "暑期上課。",
     "name": "中藥炮製學 Processing of Chinese Medicine",
     "num_limit": "9999",
-    "reg_num": "97",
+    "reg_num": "98",
     "teacher": "陳日榮、賴尚志",
     "time": "U123-"
   },
@@ -2708,7 +2708,7 @@
     "name": "生技醫學講座 Biotechnology and Biomedical Seminar",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "黃尉倫、張佩靖、陳斯婷、簡千栩、洪小雅、藍昇輝、許凱程、陳培哲、洪瑞祥",
+    "teacher": "黃尉倫、張佩靖、陳斯婷、簡千栩、洪小雅、藍昇輝、許凱程、陳培哲、洪瑞祥、黃麗蓉",
     "time": "Tn-YB100[YM]"
   },
   "1121_112014": {
@@ -7036,11 +7036,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "130822",
-    "memo": "",
+    "memo": "開放民眾隨班附讀：人數上限40人",
     "name": "環境毒理學 Environmental Toxicology",
     "num_limit": "9999",
     "reg_num": "35",
-    "teacher": "紀凱獻、張榮偉、廖伯霖、劉宗榮",
+    "teacher": "紀凱獻、張榮偉、林怡君、廖伯霖、劉宗榮",
     "time": "R12-YS105[YM]"
   },
   "1121_130823": {
@@ -7048,7 +7048,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "130823",
-    "memo": "",
+    "memo": "開放民眾隨班附讀，人數上限15人。",
     "name": "環境衛生學 Environmental Health",
     "num_limit": "9999",
     "reg_num": "23",
@@ -11892,12 +11892,12 @@
     "time": ""
   },
   "1121_133802": {
-    "code": "LSMO30005",
+    "code": "LSMO30004",
     "credit": "2.00",
     "hours": "2.00",
     "id": "133802",
     "memo": "",
-    "name": "疾病與健康特論 Quantitative Data Analysis",
+    "name": "疾病與健康特論 Special Lectures in Diseases and Health Science",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "連正章",
@@ -12132,12 +12132,12 @@
     "time": "W78-YL405[YM]"
   },
   "1121_140314": {
-    "code": "MDCM30059",
+    "code": "MDCM30069",
     "credit": "1.00",
     "hours": "1.00",
     "id": "140314",
     "memo": "",
-    "name": "基因治療與基因編輯文獻選讀三 Journal reading in gene therapy and genome editing III",
+    "name": "基因治療與基因編輯文獻選讀五 Journal reading in gene therapy and genome editing V",
     "num_limit": "9999",
     "reg_num": "5",
     "teacher": "牛道明、鄭彥甫",
@@ -12896,7 +12896,7 @@
     "name": "生醫影像暨放射科學總論 General Biomedical Imagingand Radiological Sciences",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "莊惠燕、吳育德、李易展、楊逢羿、吳東信、許世明、吳杰、陳傳霖、盧家鋒、詹明賢、高瑀絜、吳駿一、張御展",
+    "teacher": "莊惠燕、李易展、陳志成、楊逢羿、吳東信、許世明、吳杰、陳傳霖、盧家鋒、詹明賢、高瑀絜、吳駿一、張御展",
     "time": "F12-YB101[YM]"
   },
   "1121_142001": {
@@ -14392,7 +14392,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161063",
-    "memo": "",
+    "memo": "視訊同步遠距課程 (陽明校區：YX201；交大校區：CS100)",
     "name": "近現代臺灣之語言與文化 The Language and Culture of Taiwan in Its Modern Times",
     "num_limit": "15",
     "reg_num": "3",
@@ -14560,7 +14560,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161077",
-    "memo": "",
+    "memo": "視訊同步遠距課程 (陽明校區：YT301；交大校區：CS100)\n",
     "name": "智慧財產權導論 Introduction to intellectual property right",
     "num_limit": "15",
     "reg_num": "15",
@@ -14596,7 +14596,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161080",
-    "memo": "",
+    "memo": "112-1學期採行線上教學，請向教師索取線上連結。",
     "name": "民法生活百科 Encyclopedia of the Civil Law",
     "num_limit": "15",
     "reg_num": "15",
@@ -14620,7 +14620,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161089",
-    "memo": "陽交大、政大、北藝大三校教務學術合作博雅教育課程",
+    "memo": "1.陽交大、政大、北藝大三校教務學術合作博雅教育課程。2.視訊同步遠距課程 (陽明校區：YL402；交大校區：CS100)",
     "name": "跨領域通識課：那些動物教我的事 Cross-Disciplinary GE Course： Things We Learned from Animals",
     "num_limit": "45",
     "reg_num": "25",
@@ -15846,7 +15846,7 @@
     "id": "350002",
     "memo": "",
     "name": "台灣客家歷史專題 Special Topics on Hakka History in Taiwan",
-    "num_limit": "9999",
+    "num_limit": "16",
     "reg_num": "12",
     "teacher": "連瑞枝",
     "time": "Rabc-HK207[LJ]"
@@ -18019,7 +18019,7 @@
     "memo": "A~F班、醫師工程師組。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
     "name": "電子學(一) Electronics (I)",
     "num_limit": "60",
-    "reg_num": "58",
+    "reg_num": "59",
     "teacher": "孟慶宗",
     "time": "M78R34-ED303[GF]"
   },
@@ -20419,7 +20419,7 @@
     "memo": "核心選修課程/  開3/4年級",
     "name": "電動機械 Electromechanical Device",
     "num_limit": "35",
-    "reg_num": "35",
+    "reg_num": "36",
     "teacher": "李安謙",
     "time": "Wabc-EE132[GF]"
   },
@@ -25086,7 +25086,7 @@
     "id": "535220",
     "memo": "",
     "name": "實體設計自動化 Physical Design Automation",
-    "num_limit": "0",
+    "num_limit": "9999",
     "reg_num": "1",
     "teacher": "林柏宏",
     "time": "M567-EDB06[GF]"
@@ -26695,7 +26695,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "吳添立",
     "time": "W567-AB101[GF]"
   },

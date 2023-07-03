@@ -1999,7 +1999,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "73",
+    "reg_num": "67",
     "teacher": "許樹珍、胡慧蘭、周承珍、陳律言",
     "time": "R9a-YN416[YM]"
   },
@@ -2011,7 +2011,7 @@
     "memo": "",
     "name": "社區衛生護理學 Community Health Nursing",
     "num_limit": "254",
-    "reg_num": "72",
+    "reg_num": "66",
     "teacher": "于潄、黃子庭、王子芳、陳怡如、劉影梅、簡莉盈、陳紀雯、周承珍、林承霈、周明慧、張芬娥",
     "time": "M123456789W234-YN603[YM]"
   },
@@ -2035,7 +2035,7 @@
     "memo": "",
     "name": "精神衛生護理學 Psychiatric Mental Health Nursing",
     "num_limit": "254",
-    "reg_num": "72",
+    "reg_num": "66",
     "teacher": "許樹珍、楊秋月、張秀如、洪珮瑜",
     "time": "T1234567W5678-YN603[YM]"
   },
@@ -2059,7 +2059,7 @@
     "memo": "",
     "name": "護理倫理概論 Introduction to Nursing Ethics",
     "num_limit": "254",
-    "reg_num": "75",
+    "reg_num": "69",
     "teacher": "許樹珍、黃子庭、王子芳、蔡慈儀、雷文玫、林雅萍、林承霈、徐清樺",
     "time": "R56-YN418[YM]"
   },
@@ -2071,7 +2071,7 @@
     "memo": "",
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "254",
-    "reg_num": "72",
+    "reg_num": "66",
     "teacher": "李亭亭、蔡仁貞、童恒新、黃淑鶴、明金蓮、林淑娟",
     "time": "R78-YN418[YM]"
   },
@@ -2083,7 +2083,7 @@
     "memo": "台北榮總",
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "254",
-    "reg_num": "72",
+    "reg_num": "66",
     "teacher": "劉芷伶、蔡仁貞、鍾若男、林麗華、明金蓮、林淑娟、林鳳蓮、王卿凌、盧婉菁",
     "time": "S123456-"
   },
@@ -2131,7 +2131,7 @@
     "memo": "需修習過內外科護理學之護理系四年級\n上課教室：護理館R418與414，台北榮民總醫院手術室及麻醉部",
     "name": "麻醉護理概論 Introduction to Anesthesia Nursing",
     "num_limit": "9999",
-    "reg_num": "66",
+    "reg_num": "60",
     "teacher": "黃淑鶴、楊惠如",
     "time": "Wab-YN418[YM]"
   },
@@ -7065,7 +7065,7 @@
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "張榮偉、陳美蓮、毛義方、吳威德",
-    "time": "M56-YS105[YM]"
+    "time": "M56-YS103[YM]"
   },
   "1121_130825": {
     "code": "MDEO30063",
@@ -12716,7 +12716,7 @@
     "name": "健康與健康處置 Wellness and Health Management",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "張秀如、胡慧蘭",
+    "teacher": "張秀如、黃久美、穆佩芬、陳紀雯、廖媛美、童恒新、胡慧蘭、張黎露",
     "time": "F234-YN419[YM]"
   },
   "1121_141503": {
@@ -17433,7 +17433,7 @@
     "num_limit": "30",
     "reg_num": "17",
     "teacher": "蕭智尹",
-    "time": "T34-"
+    "time": "T34-A203[GF]"
   },
   "1121_514028": {
     "code": "HSCH10028",
@@ -17827,7 +17827,7 @@
     "memo": "B組，限外文系[English Medium Course]",
     "name": "傳達技巧工作坊(三)：討論與辯論技巧B組 Communicative Skills Workshop (3): Discussion and Debate B",
     "num_limit": "18",
-    "reg_num": "17",
+    "reg_num": "18",
     "teacher": "林建國",
     "time": "F34-HC402[GF]"
   },
@@ -18621,7 +18621,7 @@
     "num_limit": "9999",
     "reg_num": "7",
     "teacher": "電機系",
-    "time": "S2-"
+    "time": ""
   },
   "1121_515133": {
     "code": "EEEC20068",
@@ -18633,7 +18633,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "電機系",
-    "time": "S2-"
+    "time": ""
   },
   "1121_515134": {
     "code": "EEEC20083",
@@ -18645,7 +18645,7 @@
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "電機系",
-    "time": "S34-"
+    "time": ""
   },
   "1121_515135": {
     "code": "EEEC20085",
@@ -18657,7 +18657,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "電機系",
-    "time": "S34-"
+    "time": ""
   },
   "1121_515136": {
     "code": "EEEC20056",
@@ -19003,7 +19003,7 @@
     "memo": "課程時間為週二56節+週五第2節，週五第2節為助教時間與考試安排。請同學於每週二12:30提前至教室(工四館103)開始上課。",
     "name": "機率 Probability",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "69",
     "teacher": "王蒞君",
     "time": "Tn56F2-ED103[GF]"
   },
@@ -21380,7 +21380,7 @@
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "陳秋媛、林得勝、王國仲",
+    "teacher": "陳秋媛、吳昌鴻、林得勝",
     "time": "W78-SA321[GF]"
   },
   "1121_516703": {
@@ -21416,7 +21416,7 @@
     "name": "分析導論榮譽班(一) Introduction to Analysis (I), Honor Class",
     "num_limit": "25",
     "reg_num": "21",
-    "teacher": "黃信元",
+    "teacher": "王國仲",
     "time": "T34W5R78-SA215[GF]"
   },
   "1121_516706": {
@@ -21490,30 +21490,6 @@
     "reg_num": "51",
     "teacher": "傅恆霖",
     "time": "T2R56-SA213[GF]"
-  },
-  "1121_516712": {
-    "code": "SCMA20029",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "516712",
-    "memo": "",
-    "name": "拓樸學 General Topology",
-    "num_limit": "9999",
-    "reg_num": "8",
-    "teacher": "王業凱",
-    "time": "T7F34-SA214[GF]"
-  },
-  "1121_516713": {
-    "code": "SCMA20018",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "516713",
-    "memo": "",
-    "name": "實分析導論 Introduction to Real Analysis",
-    "num_limit": "9999",
-    "reg_num": "6",
-    "teacher": "王業凱",
-    "time": "T8F78-SA215[GF]"
   },
   "1121_516714": {
     "code": "SCMA20020",
@@ -21607,7 +21583,7 @@
     "memo": "限本系，外系學生需經任課教師同意後，方可加選本課程。",
     "name": "有機化學實驗(一) Organic Chemistry Labs. (Ｉ)",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "51",
     "teacher": "鍾文聖",
     "time": "R4n5678-SB120[GF]"
   },
@@ -26215,7 +26191,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；",
     "name": "程式安全 Secure Programming",
     "num_limit": "45",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "黃俊穎",
     "time": "F234-EC324[GF]"
   },
@@ -26227,7 +26203,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "資料視覺化與視覺分析 Data Visualization and Visual Analytics",
     "num_limit": "110",
-    "reg_num": "80",
+    "reg_num": "79",
     "teacher": "王昱舜",
     "time": "T34n-EC015[GF]"
   },
@@ -26323,7 +26299,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；",
     "name": "強化學習專論 Selected Topics in Reinforcement Learning",
     "num_limit": "110",
-    "reg_num": "65",
+    "reg_num": "64",
     "teacher": "吳毅成",
     "time": "Tabc-EC114[GF]"
   },
@@ -26527,7 +26503,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；原課名「數位電視廣播與串流」僅能採計一門；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀",
     "name": "視訊串流與追蹤 Video streaming and tracking",
     "num_limit": "80",
-    "reg_num": "58",
+    "reg_num": "57",
     "teacher": "蔡文錦",
     "time": "M34-EC115[GF]"
   },
@@ -26551,7 +26527,7 @@
     "memo": "[English Medium Course]；資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "視訊壓縮 Video Compression",
     "num_limit": "45",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "劉育綸",
     "time": "M56R2-ED202[GF]"
   },
@@ -26683,7 +26659,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "吳添立",
     "time": "W567-AB101[GF]"
   },
@@ -30347,6 +30323,18 @@
     "teacher": "侯拓宏、待聘",
     "time": "W567-ED202[GF]"
   },
+  "1121_539008": {
+    "code": "IIPS30020",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "539008",
+    "memo": "",
+    "name": "半導體物理及元件 Semiconductor Physics and Devices",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "M567-A310[GF]"
+  },
   "1121_539100": {
     "code": "IIAI30002",
     "credit": "3.00",
@@ -30367,7 +30355,7 @@
     "memo": "智能所甲組專業選修課程、[English Medium Course]英文授課",
     "name": "數位語音訊號處理 Digital Speech Processing",
     "num_limit": "45",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "廖元甫",
     "time": "T567-EDB06[GF]"
   },
@@ -36548,7 +36536,7 @@
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "王國仲",
+    "teacher": "吳昌鴻",
     "time": "T34F56-SC105[GF]"
   },
   "1121_564003": {
@@ -36707,18 +36695,6 @@
     "teacher": "陳子軒",
     "time": "M78R34-SC110[GF]"
   },
-  "1121_564016": {
-    "code": "GECS10001",
-    "credit": "4.00",
-    "hours": "4.00",
-    "id": "564016",
-    "memo": "",
-    "name": "微積分甲(一) Calculus A (I)",
-    "num_limit": "60",
-    "reg_num": "0",
-    "teacher": "吳昌鴻",
-    "time": "M78R34-SC204[GF]"
-  },
   "1121_564017": {
     "code": "GECS10001",
     "credit": "4.00",
@@ -36788,7 +36764,7 @@
     "name": "微積分學而班理論組(一) Honor Calculus Problem Solving Session (I)",
     "num_limit": "40",
     "reg_num": "0",
-    "teacher": "王國仲",
+    "teacher": "吳昌鴻",
     "time": "Fn-SA214[GF]"
   },
   "1121_565000": {
@@ -37150,6 +37126,18 @@
     "reg_num": "0",
     "teacher": "待聘",
     "time": "R234-SA015[GF]"
+  },
+  "1121_565030": {
+    "code": "GEPS10002",
+    "credit": "4.00",
+    "hours": "4.00",
+    "id": "565030",
+    "memo": "",
+    "name": "物理(二) Physics(II)",
+    "num_limit": "75",
+    "reg_num": "0",
+    "teacher": "吳光雄",
+    "time": "M34R78-SC162[GF]"
   },
   "1121_566000": {
     "code": "GECH00001",
@@ -38096,7 +38084,7 @@
     "name": "專題演講 Colloquium",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "簡靖航",
+    "teacher": "盧志文、葉士青、詹明哲、楊勝雄",
     "time": "F56-"
   },
   "1121_638001": {
@@ -38338,18 +38326,6 @@
     "reg_num": "6",
     "teacher": "楊秉純",
     "time": "M234-CM217[GR]"
-  },
-  "1121_638505": {
-    "code": "PTLE30017",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "638505",
-    "memo": "[English Medium Course]",
-    "name": "半導體製程導論 Introduction to Semiconductor Fabrication",
-    "num_limit": "30",
-    "reg_num": "9",
-    "teacher": "黃英原",
-    "time": "F234-CM214[GR]"
   },
   "1121_638506": {
     "code": "PTLE30024",

@@ -5999,18 +5999,6 @@
     "teacher": "劉子洋、王柏山",
     "time": "T567-YK101[YM]"
   },
-  "1112_112403": {
-    "code": "BEBP30029",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "112403",
-    "memo": "",
-    "name": "當代生醫影像與感應發展與應用 Development and applications of modern biomedical imaging and sensing technology",
-    "num_limit": "9999",
-    "reg_num": "1",
-    "teacher": "楊德明",
-    "time": "W56-YL403[YM]"
-  },
   "1112_112404": {
     "code": "BEBP30025",
     "credit": "3.00",
@@ -14647,7 +14635,7 @@
     "memo": "",
     "name": "環境外交 Environmental Diplomacy",
     "num_limit": "35",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "李河清",
     "time": "T78-YX201[YM]"
   },

@@ -1471,7 +1471,7 @@
     "memo": "",
     "name": "生物統計學 Biostatistics",
     "num_limit": "50",
-    "reg_num": "41",
+    "reg_num": "38",
     "teacher": "季麟揚、林伯彥",
     "time": "M12-YD214[YM]"
   },
@@ -1999,7 +1999,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "許樹珍、胡慧蘭、周承珍、陳律言",
     "time": "R9a-YN416[YM]"
   },
@@ -2011,7 +2011,7 @@
     "memo": "",
     "name": "社區衛生護理學 Community Health Nursing",
     "num_limit": "254",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "于潄、黃子庭、王子芳、陳怡如、劉影梅、簡莉盈、陳紀雯、周承珍、林承霈、周明慧、張芬娥",
     "time": "M123456789W234-YN603[YM]"
   },
@@ -2035,7 +2035,7 @@
     "memo": "",
     "name": "精神衛生護理學 Psychiatric Mental Health Nursing",
     "num_limit": "254",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "許樹珍、楊秋月、張秀如、洪珮瑜",
     "time": "T1234567W5678-YN603[YM]"
   },
@@ -2059,7 +2059,7 @@
     "memo": "",
     "name": "護理倫理概論 Introduction to Nursing Ethics",
     "num_limit": "254",
-    "reg_num": "58",
+    "reg_num": "57",
     "teacher": "許樹珍、黃子庭、王子芳、蔡慈儀、雷文玫、林雅萍、林承霈、徐清樺",
     "time": "R56-YN418[YM]"
   },
@@ -2071,7 +2071,7 @@
     "memo": "",
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "254",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "李亭亭、蔡仁貞、童恒新、黃淑鶴、明金蓮、林淑娟",
     "time": "R78-YN418[YM]"
   },
@@ -2083,7 +2083,7 @@
     "memo": "台北榮總",
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "254",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "劉芷伶、蔡仁貞、鍾若男、林麗華、明金蓮、林淑娟、林鳳蓮、王卿凌、盧婉菁",
     "time": "S123456-"
   },
@@ -4940,7 +4940,7 @@
     "name": "化學原理實驗 General Chemistry Laboratory",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "曾炳輝、林雅雄、鄭閔魁、廖韋晴、黃譯蔓",
+    "teacher": "曾炳輝、林雅雄、鄭閔魁、廖韋晴",
     "time": "R5678-YED309[YM]"
   },
   "1121_112905": {
@@ -9836,7 +9836,7 @@
     "name": "神經肌肉系統特論 Special Topics in Neuromuscular System",
     "num_limit": "40",
     "reg_num": "1",
-    "teacher": "周立偉、林吟亮",
+    "teacher": "周立偉、林吟亮、李惠敏",
     "time": "T56-YB603[YM]"
   },
   "1121_132403": {
@@ -10172,7 +10172,7 @@
     "name": "生醫影像暨放射科學概論 Introduction to Biomedical Imaging and Radiological Sciences",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "張御展、林慶波、吳育德、李易展、陳志成、楊逢羿、吳東信、許世明、吳杰、陳傳霖、盧家鋒、莊惠燕、高瑀絜、吳駿一",
+    "teacher": "張御展、林慶波、吳育德、李易展、陳志成、楊逢羿、吳東信、許世明、吳杰、陳傳霖、盧家鋒、詹明賢、莊惠燕、高瑀絜、吳駿一",
     "time": "F12-YT104[YM]"
   },
   "1121_132501": {
@@ -21751,7 +21751,7 @@
     "memo": "",
     "name": "專題研究(二) Research (2)",
     "num_limit": "0",
-    "reg_num": "1",
+    "reg_num": "2",
     "teacher": "鄭彥如",
     "time": "S234-"
   },
@@ -21861,7 +21861,7 @@
     "num_limit": "70",
     "reg_num": "0",
     "teacher": "游家牧",
-    "time": "T567-AB101[GF]"
+    "time": "T567-M-b09[GF]"
   },
   "1121_517008": {
     "code": "MGCM10008",
@@ -26491,7 +26491,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "元宇宙專題 Topics in Metaverse",
     "num_limit": "50",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "莊榮宏",
     "time": "Rabc-EC115[GF]"
   },
@@ -26503,7 +26503,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；原課名「數位電視廣播與串流」僅能採計一門；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀",
     "name": "視訊串流與追蹤 Video streaming and tracking",
     "num_limit": "80",
-    "reg_num": "57",
+    "reg_num": "56",
     "teacher": "蔡文錦",
     "time": "M34-EC115[GF]"
   },
@@ -28795,7 +28795,7 @@
     "memo": "1.管理決策分析組先修課程\n2.開放全校大三大四同學選修。\n※管院學生(含雙主修、輔系、跨域學程)若有特殊原因須修習此研究所課程抵免大學部管理學課程之學分，須於修課前向所屬系辦申請，並經由此課程召集老師同意始得認列學分。",
     "name": "管理學 Management",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "10",
     "teacher": "蕭嬋、李柏毅",
     "time": "T567-M301[GF]"
   },
@@ -28891,7 +28891,7 @@
     "memo": "英語授課。開放大三大四同學選修。管科所主開;GMBA輔開。[English Medium Course]",
     "name": "國際企業管理 International Business Management",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "郭國泰",
     "time": "F567-M301[GF]"
   },
@@ -29335,7 +29335,7 @@
     "memo": "限40人，工工系學生優先，不可旁聽，開放社會人士選讀",
     "name": "深度學習 Deep Learning with PyTorch",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "劉建良",
     "time": "T234-MB415[GF]"
   },
@@ -29551,7 +29551,7 @@
     "memo": "",
     "name": "離散數學 Discrete Mathematics",
     "num_limit": "35",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "徐熊健",
     "time": "M567-MB311[GF]"
   },
@@ -29659,7 +29659,7 @@
     "memo": "資訊類課程；財務金融碩博士班、資財系大三大四優先。",
     "name": "大數據分析與資料治理 Big Data Analytics and Data Governance",
     "num_limit": "55",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "林芳邦",
     "time": "Tabc-M-b01[GF]"
   },
@@ -33237,7 +33237,7 @@
     "num_limit": "37",
     "reg_num": "37",
     "teacher": "蔡華臻",
-    "time": "R9a-F210[GF]"
+    "time": "T78-F210[GF]"
   },
   "1121_561079": {
     "code": "GECG10020",

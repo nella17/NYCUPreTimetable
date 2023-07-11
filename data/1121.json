@@ -4327,7 +4327,7 @@
     "memo": "",
     "name": "X光心臟導管技術學實習 Cardiac Catheterization Practice",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "盧家鋒",
     "time": "W567-"
   },
@@ -4339,7 +4339,7 @@
     "memo": "",
     "name": "X光電腦斷層技術學實習 Computed Tomography Practice",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "張御展",
     "time": "W234-"
   },
@@ -4351,7 +4351,7 @@
     "memo": "",
     "name": "核醫造影技術學實習 Nuclear Medicine Imaging Technology Practice",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "許世明",
     "time": "M123456-"
   },
@@ -4363,7 +4363,7 @@
     "memo": "",
     "name": "超音波技術學實習 Ultrasonography Practice",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "盧家鋒",
     "time": "S234-"
   },
@@ -4375,7 +4375,7 @@
     "memo": "",
     "name": "放射性免疫暨核醫體外分析實習 Radioimmunoassay & Nuclear Medicine In-Vitro Analysis Practice",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "張御展",
     "time": "R234-"
   },
@@ -4387,7 +4387,7 @@
     "memo": "",
     "name": "牙科X光診斷技術學實習 Dental Radiographic Technique Practice",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "張御展",
     "time": "R567-"
   },
@@ -4399,7 +4399,7 @@
     "memo": "",
     "name": "磁共振技術學實習 Magnetic Resonance Practice",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "張御展",
     "time": "T567-"
   },
@@ -4411,7 +4411,7 @@
     "memo": "",
     "name": "一般及特殊X光診斷技術學實習 General & Special Radiographic Technique Practice",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "許世明",
     "time": "R8F12345678-"
   },
@@ -4435,7 +4435,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "42",
+    "reg_num": "41",
     "teacher": "盧家鋒、許世明、張御展",
     "time": "Fab-"
   },
@@ -11027,6 +11027,18 @@
     "teacher": "徐嘉琳、葛一樊",
     "time": "T34-YC401[YM]"
   },
+  "1121_132816": {
+    "code": "LSMI30062",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132816",
+    "memo": "",
+    "name": "微生物及免疫學專題討論(五)(碩) Microbiology & Immunology Seminar(5) (Master student)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳念榮、黃雪莉",
+    "time": "R34-YC302[YM]"
+  },
   "1121_132900": {
     "code": "LSBM30023",
     "credit": "4.00",
@@ -11608,7 +11620,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "133201",
-    "memo": "上課時間為9:30~12:20，上課教室在陽明校區知行樓211人社院會議室。",
+    "memo": "上課時間為9:30~12:20。",
     "name": "科技與社會導論 An Introduction to Science, Technology and Society",
     "num_limit": "9999",
     "reg_num": "2",
@@ -16375,7 +16387,7 @@
     "memo": "[English Medium Course]",
     "name": "論文研究 Thesis",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "楊進木、李宗夷、林勇欣",
     "time": ""
   },
@@ -16603,7 +16615,7 @@
     "memo": "",
     "name": "大腦與認知科學 Brain and Cognitive Science",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "黃植懋",
     "time": "Rabc-"
   },
@@ -16639,7 +16651,7 @@
     "memo": "",
     "name": "專題演講B-生資組 Departmental Seminar B",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "朱智瑋、吳妍華",
     "time": "T56-"
   },
@@ -16651,7 +16663,7 @@
     "memo": "[English Medium Course]",
     "name": "碩士班書報討論-生物資訊組 Special Topic Seminar in Bioinformatics(MS)",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "高雅婷、李宗夷、陸志豪、林勇欣、林峻宇",
     "time": "M4-BI310[BA]"
   },
@@ -16687,7 +16699,7 @@
     "memo": "",
     "name": "結構生物資訊 Structural Bioinformatics",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "楊進木",
     "time": "R567-BI305[BA]"
   },
@@ -16711,7 +16723,7 @@
     "memo": "視訊同步遠距課程",
     "name": "生物序列分析與高通量技術 Biological Sequence Analysis and High Throughput Technologies",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "陳亭妏",
     "time": "M567-BI301[BA],M567-YT301[YM]"
   },
@@ -22531,7 +22543,7 @@
     "memo": "財金類課程；資財系優先選課；外系學生請於開學加退選階段上網選課。",
     "name": "數理統計 Mathematical Statistics",
     "num_limit": "50",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "鄧惠文",
     "time": "M234R8-M-b09[GF]"
   },
@@ -22543,7 +22555,7 @@
     "memo": "大三必修；資財系優先選課；外系學生請於開學加退選階段上網選課。",
     "name": "公司理財 Corporate Finance",
     "num_limit": "50",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "林智勇",
     "time": "M567-M-b09[GF]"
   },
@@ -22567,7 +22579,7 @@
     "memo": "財金類課程；資財系優先選課；外系學生請於開學加退選階段上網選課。",
     "name": "財務風險管理 Financial Risk Management",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "郭家豪",
     "time": "R234-M-b09[GF]"
   },
@@ -22579,7 +22591,7 @@
     "memo": "大三必修；資財系優先選課；外系學生請於開學加退選階段上網選課。",
     "name": "期貨與選擇權 Futures and Options",
     "num_limit": "80",
-    "reg_num": "61",
+    "reg_num": "60",
     "teacher": "李漢星",
     "time": "R567-M101[GF]"
   },
@@ -27993,7 +28005,7 @@
     "num_limit": "9999",
     "reg_num": "9",
     "teacher": "李仁吉",
-    "time": "M678-SC158[GF]"
+    "time": "M789-SC160[GF]"
   },
   "1121_536700": {
     "code": "SCMA30010",
@@ -36503,6 +36515,18 @@
     "teacher": "莊泰源",
     "time": "M34-PhE[YM]"
   },
+  "1121_563160": {
+    "code": "GEPE10013",
+    "credit": ".00",
+    "hours": "2.00",
+    "id": "563160",
+    "memo": "上課地點:陽明校區活動中心韻律教室/牙醫二限修",
+    "name": "體適能 Fitness",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "F78-PhE[YM]"
+  },
   "1121_564000": {
     "code": "GECS10001",
     "credit": "4.00",
@@ -37374,7 +37398,7 @@
     "id": "567000",
     "memo": "英文授課 生物科技學系大一新生及轉學生優先選課，上限70人 通識校基本 通識跨院",
     "name": "普通生物學(一) General Biology(I)",
-    "num_limit": "30",
+    "num_limit": "90",
     "reg_num": "16",
     "teacher": "趙啟宏、鄒協成",
     "time": "Wn56-SC106[GF]"
@@ -37386,7 +37410,7 @@
     "id": "567002",
     "memo": " 生物科技學系大一新生/本系生及中一中科學班優先，上限90人 通識校基本 通識跨院",
     "name": "普通生物學(一) General Biology(I)",
-    "num_limit": "30",
+    "num_limit": "90",
     "reg_num": "24",
     "teacher": "林勇欣、莊碧簪、蘇昱誠",
     "time": "Wn56-SA320[GF]"

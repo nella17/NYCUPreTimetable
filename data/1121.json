@@ -47,6 +47,18 @@
     "teacher": "陳俊成",
     "time": "T56R4-"
   },
+  "1121_030005": {
+    "code": "IADI00180",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030005",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》.清大綜三 840",
+    "name": "高等可靠度分析 Advanced Reliability Analysis",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "彭健育",
+    "time": "W234-"
+  },
   "1121_110000": {
     "code": "MDMD10067",
     "credit": "2.00",
@@ -2551,7 +2563,7 @@
     "memo": "",
     "name": "病理切片及細胞診斷實習 Pathological Technology & Diagnosis Cytology Practice",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "42",
     "teacher": "黃尉倫、呂世正",
     "time": "U1-"
   },
@@ -2563,7 +2575,7 @@
     "memo": "",
     "name": "臨床生化學實習 Clinical Biochemistry Practice Lab Internship",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "42",
     "teacher": "黃琤、張懿欣",
     "time": "S2-"
   },
@@ -2575,7 +2587,7 @@
     "memo": "",
     "name": "臨床血庫實習 Clinical Blood Banking Lab Internship",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "42",
     "teacher": "涂玉青、蘇美慈",
     "time": "S6-"
   },
@@ -2587,7 +2599,7 @@
     "memo": "",
     "name": "臨床血液學實習 Clinical Hematology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "42",
     "teacher": "呂世正、蘇美慈",
     "time": "S8-"
   },
@@ -2599,7 +2611,7 @@
     "memo": "",
     "name": "臨床生理學實習 Clinical Physiology Practice Lab Internship",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "42",
     "teacher": "吳韋訥",
     "time": "S3-"
   },
@@ -2611,7 +2623,7 @@
     "memo": "",
     "name": "臨床血清免疫實習 Clinical Serology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "42",
     "teacher": "孫光蕙、黃智生",
     "time": "S7-"
   },
@@ -2623,7 +2635,7 @@
     "memo": "",
     "name": "臨床病毒學實習 Clinical Virology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "42",
     "teacher": "龔思豪、蘇美慈、洪小雅",
     "time": "S5-"
   },
@@ -2635,7 +2647,7 @@
     "memo": "",
     "name": "臨床鏡檢及寄生蟲學實習 Clinical Microscopy & Parasitology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "42",
     "teacher": "黃智生、黃尉倫",
     "time": "S4-"
   },
@@ -2647,7 +2659,7 @@
     "memo": "",
     "name": "醫學分子檢驗實習 Molecular Diagnosis in Medicine Lab Internship",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "42",
     "teacher": "龔思豪、洪小雅",
     "time": "U2-"
   },
@@ -2659,7 +2671,7 @@
     "memo": "",
     "name": "臨床微生物學實習 Clinical Microbiology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "42",
     "teacher": "吳韋訥、楊翠青",
     "time": "S1-"
   },
@@ -2815,7 +2827,7 @@
     "memo": "",
     "name": "大四導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "45",
+    "reg_num": "43",
     "teacher": "涂玉青、龔思豪、黃尉倫",
     "time": "R9-"
   },
@@ -4892,7 +4904,7 @@
     "name": "化學原理 General Chemistry",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "林達顯、曾炳輝",
+    "teacher": "曾炳輝、林達顯",
     "time": "W567-YX406[YM]"
   },
   "1121_112901": {
@@ -15151,7 +15163,7 @@
     "memo": "",
     "name": "社會經典閱讀(一) Reading Classics of Social Studies(I)",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "簡美玲",
     "time": "R678-SC151[GF]"
   },
@@ -15163,7 +15175,7 @@
     "memo": "",
     "name": "人文經典閱讀(一) Reading Classics of Humanities(I)",
     "num_limit": "50",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "劉大和",
     "time": "M567-HK105[LJ]"
   },
@@ -16267,7 +16279,7 @@
     "memo": "[English Medium Course]",
     "name": "論文研究 Thesis",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "張家靖、李明家、何奕儒",
     "time": ""
   },
@@ -17457,7 +17469,7 @@
     "num_limit": "30",
     "reg_num": "17",
     "teacher": "蕭智尹",
-    "time": "T34-A203[GF]"
+    "time": "T34-"
   },
   "1121_514028": {
     "code": "HSCH10028",
@@ -24787,7 +24799,7 @@
     "memo": "資安學程必選修課程。AI學程學生修業期間應修習2學期論文研討(書報討論)。",
     "name": "論文研討 Seminar",
     "num_limit": "150",
-    "reg_num": "71",
+    "reg_num": "70",
     "teacher": "陳佳宏",
     "time": "W56-ED220[GF]"
   },
@@ -24919,7 +24931,7 @@
     "memo": "",
     "name": "數位通訊 Digital Communication",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "簡鳳村",
     "time": "T234-ED525[GF]"
   },
@@ -25051,7 +25063,7 @@
     "memo": "",
     "name": "隨機過程 Stochastic Processes",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "簡鳳村",
     "time": "W234-ED301[GF]"
   },
@@ -25195,7 +25207,7 @@
     "memo": "",
     "name": "深度學習 Deep Learning",
     "num_limit": "150",
-    "reg_num": "87",
+    "reg_num": "86",
     "teacher": "張添烜",
     "time": "M78T7-ED201[GF]"
   },
@@ -25219,7 +25231,7 @@
     "memo": "",
     "name": "影像處理 Image Processing",
     "num_limit": "9999",
-    "reg_num": "70",
+    "reg_num": "69",
     "teacher": "王聖智",
     "time": "M56R7-ED525[GF]"
   },
@@ -26707,7 +26719,7 @@
     "memo": "前瞻所丙組核心課程；智能所甲組、丙組選修課程[English Medium Course]",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "9999",
-    "reg_num": "146",
+    "reg_num": "145",
     "teacher": "黃柏蒼",
     "time": "M567-AB101[GF]"
   },

@@ -2371,7 +2371,7 @@
     "memo": "初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
     "name": "藥學導論 Orientation in Pharmacy",
     "num_limit": "70",
-    "reg_num": "10",
+    "reg_num": "29",
     "teacher": "胡德民、王孟廷、林滿玉、黃奇英、康照洲、陳日榮、林宥欣、東雅惠、陳惠亭、許銘能、蘇溶真、廖曉偉、姜紹青、紀威光、黃文鴻、吳力人、趙彥欽、曾冠燁",
     "time": "M56-YL402[YM]"
   },
@@ -3935,18 +3935,6 @@
     "teacher": "羅鴻基、王子娟",
     "time": "Un-"
   },
-  "1121_112263": {
-    "code": "BEPT20006",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "112263",
-    "memo": "限物輔系大六學生(需完成大五臨床實習)\n因會有校外講師來授課，課程時間會調至禮拜六",
-    "name": "加護病房之物理治療 Physical therapy in intensive care unit",
-    "num_limit": "45",
-    "reg_num": "4",
-    "teacher": "蔡美文、吳若嫣",
-    "time": "T34-YB530[YM]"
-  },
   "1121_112264": {
     "code": "BEPT20029",
     "credit": "2.00",
@@ -4339,7 +4327,7 @@
     "memo": "",
     "name": "X光心臟導管技術學實習 Cardiac Catheterization Practice",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "盧家鋒",
     "time": "W567-"
   },
@@ -4351,7 +4339,7 @@
     "memo": "",
     "name": "X光電腦斷層技術學實習 Computed Tomography Practice",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "張御展",
     "time": "W234-"
   },
@@ -4363,7 +4351,7 @@
     "memo": "",
     "name": "核醫造影技術學實習 Nuclear Medicine Imaging Technology Practice",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "許世明",
     "time": "M123456-"
   },
@@ -4375,7 +4363,7 @@
     "memo": "",
     "name": "超音波技術學實習 Ultrasonography Practice",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "盧家鋒",
     "time": "S234-"
   },
@@ -4387,7 +4375,7 @@
     "memo": "",
     "name": "放射性免疫暨核醫體外分析實習 Radioimmunoassay & Nuclear Medicine In-Vitro Analysis Practice",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "張御展",
     "time": "R234-"
   },
@@ -4399,7 +4387,7 @@
     "memo": "",
     "name": "牙科X光診斷技術學實習 Dental Radiographic Technique Practice",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "張御展",
     "time": "R567-"
   },
@@ -4411,7 +4399,7 @@
     "memo": "",
     "name": "磁共振技術學實習 Magnetic Resonance Practice",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "張御展",
     "time": "T567-"
   },
@@ -4423,7 +4411,7 @@
     "memo": "",
     "name": "一般及特殊X光診斷技術學實習 General & Special Radiographic Technique Practice",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "許世明",
     "time": "R8F12345678-"
   },
@@ -4447,7 +4435,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "盧家鋒、許世明、張御展",
     "time": "Fab-"
   },
@@ -6498,7 +6486,7 @@
     "id": "130512",
     "memo": "",
     "name": "SAS 基礎資料分析 SAS Programming and Data Management",
-    "num_limit": "8",
+    "num_limit": "15",
     "reg_num": "4",
     "teacher": "陳韵宜",
     "time": "M234-YN511[YM]"
@@ -6523,7 +6511,7 @@
     "memo": "藥學系、傳醫所、衛福所合班上課",
     "name": "中藥概論 Introduction to Chinese Materia Medica",
     "num_limit": "70",
-    "reg_num": "12",
+    "reg_num": "31",
     "teacher": "陳日榮、沈雅敬、翁芸芳、蔡忠志、廖家慶",
     "time": "T34-YK533[YM]"
   },
@@ -9895,9 +9883,9 @@
     "memo": "限物輔系已完成物理治療臨床實習的研究生。因會有校外講師來授課，課程時間會調至禮拜六。",
     "name": "加護病房之物理治療 Physical therapy in intensive care unit",
     "num_limit": "45",
-    "reg_num": "4",
-    "teacher": "王瑞瑤、蔡美文、吳若嫣",
-    "time": "Sa-YB530[YM]"
+    "reg_num": "5",
+    "teacher": "蔡美文、王瑞瑤、吳若嫣",
+    "time": "T34-YB530[YM]"
   },
   "1121_132407": {
     "code": "BEPT10051",
@@ -13471,7 +13459,7 @@
     "memo": "",
     "name": "科技醫療服務管理創新 Double S.M.A.R.T Homespital Care",
     "num_limit": "15",
-    "reg_num": "6",
+    "reg_num": "8",
     "teacher": "尹彙文",
     "time": "S23-"
   },
@@ -18499,7 +18487,7 @@
     "memo": "教室於工程五館EE634",
     "name": "微算機原理與實驗 Principle of Microcomputer",
     "num_limit": "50",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "王宜楷",
     "time": "T56ab-EE634[GF]"
   },
@@ -18511,7 +18499,7 @@
     "memo": "",
     "name": "資料結構 Data Structure",
     "num_limit": "120",
-    "reg_num": "89",
+    "reg_num": "87",
     "teacher": "陳宏明",
     "time": "T56F5-EDB26[GF]"
   },
@@ -18559,7 +18547,7 @@
     "memo": "",
     "name": "網路程式設計 Network Programming",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "黃紹華",
     "time": "F234-ED713[GF]"
   },
@@ -19027,7 +19015,7 @@
     "memo": "課程時間為週二56節+週五第2節，週五第2節為助教時間與考試安排。請同學於每週二12:30提前至教室(工四館103)開始上課。",
     "name": "機率 Probability",
     "num_limit": "50",
-    "reg_num": "70",
+    "reg_num": "74",
     "teacher": "王蒞君",
     "time": "Tn56F2-ED103[GF]"
   },
@@ -25063,7 +25051,7 @@
     "memo": "",
     "name": "隨機過程 Stochastic Processes",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "23",
     "teacher": "簡鳳村",
     "time": "W234-ED301[GF]"
   },
@@ -25207,7 +25195,7 @@
     "memo": "",
     "name": "深度學習 Deep Learning",
     "num_limit": "150",
-    "reg_num": "86",
+    "reg_num": "85",
     "teacher": "張添烜",
     "time": "M78T7-ED201[GF]"
   },
@@ -28366,18 +28354,6 @@
     "reg_num": "3",
     "teacher": "李耀坤",
     "time": "M567-SB210[GF]"
-  },
-  "1121_536816": {
-    "code": "SCIC30018",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "536816",
-    "memo": "[English Medium Course]",
-    "name": "書報討論－化學生物組 Seminar",
-    "num_limit": "15",
-    "reg_num": "0",
-    "teacher": "李耀坤",
-    "time": "T78-EO615[GF]"
   },
   "1121_536850": {
     "code": "SCMS30005",
@@ -36187,7 +36163,7 @@
     "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "黃中興",
     "time": "W56-PhE[YM]"
   },

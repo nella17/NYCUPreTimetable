@@ -2011,7 +2011,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "55",
+    "reg_num": "52",
     "teacher": "許樹珍、胡慧蘭、周承珍、陳律言",
     "time": "R9a-YN416[YM]"
   },
@@ -2023,7 +2023,7 @@
     "memo": "",
     "name": "社區衛生護理學 Community Health Nursing",
     "num_limit": "254",
-    "reg_num": "54",
+    "reg_num": "51",
     "teacher": "于潄、黃子庭、王子芳、陳怡如、劉影梅、簡莉盈、陳紀雯、周承珍、林承霈、周明慧、張芬娥",
     "time": "M123456789W234-YN603[YM]"
   },
@@ -2047,7 +2047,7 @@
     "memo": "",
     "name": "精神衛生護理學 Psychiatric Mental Health Nursing",
     "num_limit": "254",
-    "reg_num": "54",
+    "reg_num": "51",
     "teacher": "許樹珍、楊秋月、張秀如、洪珮瑜",
     "time": "T1234567W5678-YN603[YM]"
   },
@@ -2071,7 +2071,7 @@
     "memo": "",
     "name": "護理倫理概論 Introduction to Nursing Ethics",
     "num_limit": "254",
-    "reg_num": "57",
+    "reg_num": "54",
     "teacher": "許樹珍、黃子庭、王子芳、蔡慈儀、雷文玫、林雅萍、林承霈、徐清樺",
     "time": "R56-YN418[YM]"
   },
@@ -2083,7 +2083,7 @@
     "memo": "",
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "254",
-    "reg_num": "54",
+    "reg_num": "51",
     "teacher": "李亭亭、蔡仁貞、童恒新、黃淑鶴、明金蓮、林淑娟",
     "time": "R78-YN418[YM]"
   },
@@ -2095,7 +2095,7 @@
     "memo": "台北榮總",
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "254",
-    "reg_num": "54",
+    "reg_num": "51",
     "teacher": "劉芷伶、蔡仁貞、鍾若男、林麗華、明金蓮、林淑娟、林鳳蓮、王卿凌、盧婉菁",
     "time": "S123456-"
   },
@@ -2143,7 +2143,7 @@
     "memo": "需修習過內外科護理學之護理系四年級\n上課教室：護理館R418與414，台北榮民總醫院手術室及麻醉部",
     "name": "麻醉護理概論 Introduction to Anesthesia Nursing",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "46",
     "teacher": "黃淑鶴、楊惠如",
     "time": "Wab-YN418[YM]"
   },
@@ -22939,7 +22939,7 @@
     "memo": "",
     "name": "初等應用統計 Introduction to Applied Statistics",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "吳俊育",
     "time": "W12-HA219[GF]"
   },
@@ -22951,7 +22951,7 @@
     "memo": "",
     "name": "教育研究之科學科技與社會議題 STS in Educational Research",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "楊子奇",
     "time": "W56-HA219[GF]"
   },
@@ -22963,7 +22963,7 @@
     "memo": "",
     "name": "教育研究法 Educational Research Methods",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "陳鏗任",
     "time": "W34-HA219[GF]"
   },
@@ -23095,7 +23095,7 @@
     "memo": "",
     "name": "數位學習導論 Foundations of E-learning",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "周倩",
     "time": "T234-HA216[GF]"
   },
@@ -23167,7 +23167,7 @@
     "memo": "",
     "name": "學習分析與教育資料科學 Learning Analytics and Educational Data Science",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "楊子奇",
     "time": "M567-HA220[GF]"
   },
@@ -25183,7 +25183,7 @@
     "memo": "",
     "name": "計算機輔助設計特論 Special Topics in Computer Aided Design",
     "num_limit": "85",
-    "reg_num": "57",
+    "reg_num": "56",
     "teacher": "劉建男",
     "time": "M34-ED116[GF],W34-ED219[GF]"
   },
@@ -27487,7 +27487,7 @@
     "memo": "[English Medium Course]大四、研究所合開。第三小時為非同步方式授課。",
     "name": "土壤動力學 Soil Dynamics",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "黃郁惟",
     "time": "T34-EB108[GF]"
   },
@@ -27871,7 +27871,7 @@
     "memo": "[English Medium Course]",
     "name": "專題演講 Colloquium",
     "num_limit": "9999",
-    "reg_num": "84",
+    "reg_num": "83",
     "teacher": "鍾介文",
     "time": "R56-SC001[GF]"
   },
@@ -27883,7 +27883,7 @@
     "memo": "",
     "name": "半導體物理及元件（一） Semiconductor Physics and Devices (I)",
     "num_limit": "80",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "趙天生",
     "time": "W789-SC162[GF]"
   },
@@ -27895,7 +27895,7 @@
     "memo": "",
     "name": "高等固態物理（一） Advanced Solid State Physics (I)",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "陳煜璋",
     "time": "T234-SC162[GF]"
   },
@@ -27907,7 +27907,7 @@
     "memo": "",
     "name": "半導體製程技術 Semiconductor Process and Technology",
     "num_limit": "75",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "蘇俊榮",
     "time": "T789-SC162[GF]"
   },
@@ -27919,7 +27919,7 @@
     "memo": "上課地點：國家同步輻射研究中心 (NSRRC)L100",
     "name": "加速器科技 Accelerator Technology",
     "num_limit": "60",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "鍾廷翊",
     "time": "F567-"
   },
@@ -27943,7 +27943,7 @@
     "memo": "",
     "name": "雷射導論 Int. to Laser",
     "num_limit": "40",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "徐琅",
     "time": "R234-SC162[GF]"
   },
@@ -28183,7 +28183,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論－高分子組 Seminar",
     "num_limit": "25",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "許千樹",
     "time": "W34-EO701[GF]"
   },
@@ -28231,7 +28231,7 @@
     "memo": "高分子、有機、無機、物化、分析、生化等領域請選本組。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "71",
+    "reg_num": "70",
     "teacher": "鄭彥如",
     "time": ""
   },
@@ -28243,7 +28243,7 @@
     "memo": "高分子、有機、無機、物化、分析、生化等領域請選本組",
     "name": "專題演講 Departmental Colloquium",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "10",
     "teacher": "鄭彥如",
     "time": "F5678-SB210[GF]"
   },
@@ -28255,7 +28255,7 @@
     "memo": "",
     "name": "光電有機材料 Organic Opto-electronic Materials",
     "num_limit": "25",
-    "reg_num": "3",
+    "reg_num": "2",
     "teacher": "許千樹",
     "time": "T567-EO701[GF]"
   },
@@ -28267,7 +28267,7 @@
     "memo": "",
     "name": "高分子物理 Polymer Physics",
     "num_limit": "60",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "陳俊太",
     "time": "W567-SB211[GF]"
   },
@@ -28281,7 +28281,7 @@
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "莊士卿",
-    "time": "M7T78-SB203[GF]"
+    "time": "T78W7-SB203[GF]"
   },
   "1121_536810": {
     "code": "SCIC30047",
@@ -28808,7 +28808,7 @@
     "name": "經營講座 Lectures on Business",
     "num_limit": "9999",
     "reg_num": "39",
-    "teacher": "蕭嬋、郭國泰、向倩儀",
+    "teacher": "蕭嬋、郭國泰",
     "time": "T89-M-b10[GF]"
   },
   "1121_537007": {
@@ -28834,18 +28834,6 @@
     "reg_num": "8",
     "teacher": "張家齊",
     "time": "W678-M115[GF]"
-  },
-  "1121_537009": {
-    "code": "MGMS30023",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "537009",
-    "memo": "商業智慧分析組組定必修。限管科所選修。",
-    "name": "商業智慧分析 Python for Data Analysis",
-    "num_limit": "30",
-    "reg_num": "3",
-    "teacher": "向倩儀、吳浩庠",
-    "time": "Wabc-M205[GF]"
   },
   "1121_537010": {
     "code": "MGMS30106",
@@ -39811,7 +39799,7 @@
     "memo": "動力組，上課地點在國防理工",
     "name": "體育(3) Physical Education(3)",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "系統工程",
     "time": "T12-"
   },
@@ -39928,7 +39916,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910105",
-    "memo": "上課地點在國防理工",
+    "memo": "[English Medium Course]上課地點在國防理工",
     "name": "建築資訊模型之理論應用與實作 Theory and Applications of Building Information Modeling",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40424,7 +40412,7 @@
     "name": "導師輔導(7) Tutor Guidance(7)",
     "num_limit": "9999",
     "reg_num": "24",
-    "teacher": "系統工程",
+    "teacher": "談光雄",
     "time": "M12-"
   },
   "1121_910148": {
@@ -40580,7 +40568,7 @@
     "name": "導師輔導(7) Tutor Guidance(7)",
     "num_limit": "9999",
     "reg_num": "25",
-    "teacher": "系統工程",
+    "teacher": "聶若鹽",
     "time": "M12-"
   },
   "1121_910161": {
@@ -40640,7 +40628,7 @@
     "name": "導師輔導(5) Tutor Guidance(5) ",
     "num_limit": "9999",
     "reg_num": "25",
-    "teacher": "系統工程",
+    "teacher": "劉敏憲",
     "time": "M12-"
   },
   "1121_910166": {
@@ -40772,7 +40760,7 @@
     "name": "導師輔導(3) Tutor Guidance(3)",
     "num_limit": "9999",
     "reg_num": "17",
-    "teacher": "系統工程",
+    "teacher": "李志國",
     "time": "M12-"
   },
   "1121_910177": {
@@ -41407,7 +41395,7 @@
     "memo": "上課地點在國防理工",
     "name": "工程數學(1) Engineering Mathematics(1)",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "潘冠呈",
     "time": "R123-"
   },
@@ -41419,7 +41407,7 @@
     "memo": "上課地點在國防理工",
     "name": "熱力學 Thermodynamics",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "黃寶錩",
     "time": "F234-"
   },
@@ -41431,7 +41419,7 @@
     "memo": "上課地點在國防理工",
     "name": "應用力學－靜力學 Engineering Mechanics - Statics",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "陳幼良",
     "time": "T678-"
   },
@@ -42032,7 +42020,7 @@
     "name": "導師輔導(1) Tutor Guidance(1) ",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
+    "teacher": "楊家宏",
     "time": "M12-"
   },
   "1121_910282": {
@@ -42067,7 +42055,7 @@
     "memo": "上課地點在國防理工，授課教師:陳冠宇",
     "name": "導師輔導(3) Tutor Guidance(3)",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "系統工程",
     "time": "M12-"
   },
@@ -43099,7 +43087,7 @@
     "memo": "上課地點在國防理工",
     "name": "大陸問題研究 Studies on Mainland China",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "系統工程",
     "time": "M678-"
   },

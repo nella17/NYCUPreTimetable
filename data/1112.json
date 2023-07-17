@@ -1975,7 +1975,7 @@
     "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
     "name": "大體解剖學 Gross Anatomy",
     "num_limit": "9999",
-    "reg_num": "185",
+    "reg_num": "186",
     "teacher": "鄭瓊娟、凌憬峰、李學德、蔡佩君、郭曉縈、陳瑞裕、林宏鑫",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
@@ -1999,7 +1999,7 @@
     "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
     "name": "組織學 Histology",
     "num_limit": "9999",
-    "reg_num": "185",
+    "reg_num": "186",
     "teacher": "鄭瓊娟、傅毓秀、李學德、郭曉縈",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
@@ -6907,7 +6907,7 @@
     "memo": "需修畢實驗生理學方可選修",
     "name": "生理學實驗教學實習 Teaching Practice on Physiological Lab.",
     "num_limit": "9999",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "張原翊、阮琪昌、李怡萱、簡千栩",
     "time": "TnWnRn-YED214[YM]"
   },
@@ -6919,7 +6919,7 @@
     "memo": "",
     "name": "生理醫學研究概論 Research Principle in Physiology &amp;amp; Medicine",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "吳莉玲、陳世彬、李曉暉、王琬菁、邱光裕、何奕儒、蔣偉程、姜為中、賴盈達、劉嚞睿、馬念涵、趙需文、劉彥良、吳偉立、郭瑋庭",
     "time": "R34-YR103[YM]"
   },
@@ -11971,7 +11971,7 @@
     "memo": "",
     "name": "微生物及免疫學研究(一)(碩一) Microbiology and Immunology Research Progress Report (1)  (1st year Msater student)",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "25",
     "teacher": "微免所碩",
     "time": "Un-"
   },
@@ -13447,7 +13447,7 @@
     "memo": "",
     "name": "微生物及免疫學研究(三)(博) Microbiology & Immunology Research (3) (Ph.D student)",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "12",
     "teacher": "微免所碩",
     "time": "Un-"
   },
@@ -42226,18 +42226,6 @@
     "reg_num": "24",
     "teacher": "李永隆",
     "time": "R234-"
-  },
-  "1112_910334": {
-    "code": "SESE10209",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910334",
-    "memo": "上課地點：國防大學理工學院",
-    "name": "兵器工程及實習(2) Ordnance  Engineering and Workshop (2)",
-    "num_limit": "9999",
-    "reg_num": "1",
-    "teacher": "孫懷谷",
-    "time": "T678-"
   },
   "1112_910335": {
     "code": "SESE20201",

@@ -4327,7 +4327,7 @@
     "memo": "",
     "name": "X光心臟導管技術學實習 Cardiac Catheterization Practice",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "盧家鋒",
     "time": "W567-"
   },
@@ -4339,7 +4339,7 @@
     "memo": "",
     "name": "X光電腦斷層技術學實習 Computed Tomography Practice",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "張御展",
     "time": "W234-"
   },
@@ -4351,7 +4351,7 @@
     "memo": "",
     "name": "核醫造影技術學實習 Nuclear Medicine Imaging Technology Practice",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "許世明",
     "time": "M123456-"
   },
@@ -4363,7 +4363,7 @@
     "memo": "",
     "name": "超音波技術學實習 Ultrasonography Practice",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "盧家鋒",
     "time": "S234-"
   },
@@ -4375,7 +4375,7 @@
     "memo": "",
     "name": "放射性免疫暨核醫體外分析實習 Radioimmunoassay & Nuclear Medicine In-Vitro Analysis Practice",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "張御展",
     "time": "R234-"
   },
@@ -4387,7 +4387,7 @@
     "memo": "",
     "name": "牙科X光診斷技術學實習 Dental Radiographic Technique Practice",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "張御展",
     "time": "R567-"
   },
@@ -4399,7 +4399,7 @@
     "memo": "",
     "name": "磁共振技術學實習 Magnetic Resonance Practice",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "張御展",
     "time": "T567-"
   },
@@ -4411,7 +4411,7 @@
     "memo": "",
     "name": "一般及特殊X光診斷技術學實習 General & Special Radiographic Technique Practice",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "許世明",
     "time": "R8F12345678-"
   },
@@ -4435,7 +4435,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "盧家鋒、許世明、張御展",
     "time": "Fab-"
   },
@@ -7396,7 +7396,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "131015",
-    "memo": "授課時間：暑期七月底至八月初。暑假上課日期：7/18、7/20、7/25、7/27、8/1、8/3，時間：上午9:00-12:00及下午13:30-16:30，線上或實體授課。非本所新生者，需先寄信經授課老師同意。",
+    "memo": "授課時間：暑期七月底至八月初。暑假上課日期：7/18、7/20、7/25、7/27、8/1、8/3，時間：上午9:00-12:00及下午13:30-16:30，線上或實體授課。修課學生請先至所上網頁填寫報名表單並經過授課教師同意。",
     "name": "生醫資訊程式設計 Biomedical Informatics Programming",
     "num_limit": "9999",
     "reg_num": "8",
@@ -8085,7 +8085,7 @@
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "林嘉澍、王敏靜",
-    "time": "T78-YD207[YM]"
+    "time": "T34-"
   },
   "1121_131406": {
     "code": "DEDE30045",
@@ -21763,7 +21763,7 @@
     "memo": "",
     "name": "專題研究(二) Research (2)",
     "num_limit": "0",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "鄭彥如",
     "time": "S234-"
   },
@@ -24787,7 +24787,7 @@
     "memo": "資安學程必選修課程。AI學程學生修業期間應修習2學期論文研討(書報討論)。",
     "name": "論文研討 Seminar",
     "num_limit": "150",
-    "reg_num": "70",
+    "reg_num": "75",
     "teacher": "陳佳宏",
     "time": "W56-ED220[GF]"
   },
@@ -25087,7 +25087,7 @@
     "memo": "",
     "name": "類比積體電路 Analog Integrated Circuits",
     "num_limit": "100",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "陳巍仁",
     "time": "M34-ED219[GF],R7-ED220[GF]"
   },
@@ -25099,7 +25099,7 @@
     "memo": "(1)上課時間W56–ED415,Wab–LAB(2)第一、第二、第三階段選課：開放選課且電子所、電機系、產創學院優先；不開放填寫google表單(3)開學後加退選階段：開放選課；開放填寫google表單且依規定加簽(4)未加選到同學\n依照順位排序1.電子所 2.電機系 3.相關學院 4.外系所 5.外校 進行篩選進行網路加簽，加簽總人數會經老師評估後決定最後加簽人數。\n相關學院包含電機學院、資訊學院、產創學院、國半學院。如為外系所、外校欲進行加選，除填表單外，亦須提供曾修習兩門相關課程之修課成績單。若外系所、外校無提供成績單，即便選課系統選上，亦會被手動退選。相關課程：1.邏輯設計\n2.數位電路與系統3.超大型積體電路設計導論(VLSI)4.數位積體電路(DIC)",
     "name": "積體電路設計實驗 Integrated Circuit Design Laboratory",
     "num_limit": "90",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "李鎮宜",
     "time": "W56ab-"
   },
@@ -25207,7 +25207,7 @@
     "memo": "",
     "name": "資料轉換積體電路 Data Conversion Integrated Circuits",
     "num_limit": "9999",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "吳介琮",
     "time": "M2T2W2-ED219[GF]"
   },
@@ -26095,7 +26095,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "平行程式設計 Parallel Programming",
     "num_limit": "130",
-    "reg_num": "122",
+    "reg_num": "121",
     "teacher": "游逸平",
     "time": "R234-EDB27[GF]"
   },
@@ -26143,7 +26143,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課;[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀；",
     "name": "作業系統 Operating System",
     "num_limit": "110",
-    "reg_num": "80",
+    "reg_num": "79",
     "teacher": "吳俊峯",
     "time": "W34-ED302[GF]"
   },
@@ -26347,7 +26347,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；請依各所入學年度之修業要點選課；[English Medium Course],優先順序為:A.研究生--1.資科工:碩+博, 2.碩班:網工,多工,數科工 B.如還有名額, 待開學後再給大學部書面加簽。此課程僅開一學期。",
     "name": "計算機架構 Computer Architecture",
     "num_limit": "80",
-    "reg_num": "42",
+    "reg_num": "41",
     "teacher": "單智君",
     "time": "T567-EC015[GF]"
   },
@@ -26407,7 +26407,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課;因設備問題，人數上限為50人",
     "name": "嵌入式系統設計 Embedded System Design",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "許騰尹",
     "time": "Rabc-EC016[GF],Rabc-EC221[GF],Rabc-EC222[GF]"
   },
@@ -26419,7 +26419,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；[English Medium Course]",
     "name": "網路安全 Network Security",
     "num_limit": "88",
-    "reg_num": "65",
+    "reg_num": "64",
     "teacher": "謝續平",
     "time": "T34n-EC115[GF]"
   },
@@ -26443,7 +26443,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
     "name": "賽局理論及應用 Game Theory and Its Applications",
     "num_limit": "60",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "嚴力行",
     "time": "M56-ED302[GF]"
   },
@@ -26491,7 +26491,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],",
     "name": "計算機圖學 Computer Graphics",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "林文杰",
     "time": "R34-EC114[GF]"
   },
@@ -26515,7 +26515,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；原課名「數位電視廣播與串流」僅能採計一門；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀",
     "name": "視訊串流與追蹤 Video streaming and tracking",
     "num_limit": "80",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "蔡文錦",
     "time": "M34-EC115[GF]"
   },
@@ -26575,7 +26575,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；數據科學與工程研究所二選一；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "資料探勘 Data Mining",
     "num_limit": "96",
-    "reg_num": "80",
+    "reg_num": "79",
     "teacher": "曾新穆",
     "time": "W34-EC015[GF]"
   },
@@ -38131,7 +38131,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },

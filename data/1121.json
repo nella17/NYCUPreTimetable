@@ -79,7 +79,7 @@
     "memo": "限醫學系學生修課",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "123",
-    "reg_num": "116",
+    "reg_num": "115",
     "teacher": "潘美連",
     "time": "M34-YX216[YM]"
   },
@@ -91,7 +91,7 @@
     "memo": "大堂課與小組討論交替",
     "name": "科學發表與思維 Scientific Presentation and Thinking",
     "num_limit": "144",
-    "reg_num": "122",
+    "reg_num": "121",
     "teacher": "霍德義、黃金洲、陳志彥、林志慶、林邑璁、陳世彬、紀乃方、賴峻毅、詹宇鈞、江晨恩、蘇建維、林堯彬、陳明德、徐德福、劉峻宇、許劭榮",
     "time": "W78-YX216[YM]"
   },
@@ -115,7 +115,7 @@
     "memo": "",
     "name": "普通物理學 General Physics",
     "num_limit": "9999",
-    "reg_num": "119",
+    "reg_num": "118",
     "teacher": "羅俊民、江明彰",
     "time": "T34-YX216[YM]"
   },
@@ -259,7 +259,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "20",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "葉添順",
     "time": "W34-YT204[YM]"
   },
@@ -2011,7 +2011,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "52",
+    "reg_num": "50",
     "teacher": "許樹珍、胡慧蘭、周承珍、陳律言",
     "time": "R9a-YN416[YM]"
   },
@@ -2023,7 +2023,7 @@
     "memo": "",
     "name": "社區衛生護理學 Community Health Nursing",
     "num_limit": "254",
-    "reg_num": "51",
+    "reg_num": "49",
     "teacher": "于潄、黃子庭、王子芳、陳怡如、劉影梅、簡莉盈、陳紀雯、周承珍、林承霈、周明慧、張芬娥",
     "time": "M123456789W234-YN603[YM]"
   },
@@ -2047,7 +2047,7 @@
     "memo": "",
     "name": "精神衛生護理學 Psychiatric Mental Health Nursing",
     "num_limit": "254",
-    "reg_num": "51",
+    "reg_num": "49",
     "teacher": "許樹珍、楊秋月、張秀如、洪珮瑜",
     "time": "T1234567W5678-YN603[YM]"
   },
@@ -2071,7 +2071,7 @@
     "memo": "",
     "name": "護理倫理概論 Introduction to Nursing Ethics",
     "num_limit": "254",
-    "reg_num": "54",
+    "reg_num": "52",
     "teacher": "許樹珍、黃子庭、王子芳、蔡慈儀、雷文玫、林雅萍、林承霈、徐清樺",
     "time": "R56-YN418[YM]"
   },
@@ -2083,7 +2083,7 @@
     "memo": "",
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "254",
-    "reg_num": "51",
+    "reg_num": "49",
     "teacher": "李亭亭、蔡仁貞、童恒新、黃淑鶴、明金蓮、林淑娟",
     "time": "R78-YN418[YM]"
   },
@@ -2095,7 +2095,7 @@
     "memo": "台北榮總",
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "254",
-    "reg_num": "51",
+    "reg_num": "49",
     "teacher": "劉芷伶、蔡仁貞、鍾若男、林麗華、明金蓮、林淑娟、林鳳蓮、王卿凌、盧婉菁",
     "time": "S123456-"
   },
@@ -2143,7 +2143,7 @@
     "memo": "需修習過內外科護理學之護理系四年級\n上課教室：護理館R418與414，台北榮民總醫院手術室及麻醉部",
     "name": "麻醉護理概論 Introduction to Anesthesia Nursing",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "44",
     "teacher": "黃淑鶴、楊惠如",
     "time": "Wab-YN418[YM]"
   },
@@ -4327,7 +4327,7 @@
     "memo": "",
     "name": "X光心臟導管技術學實習 Cardiac Catheterization Practice",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "盧家鋒",
     "time": "W567-"
   },
@@ -4339,7 +4339,7 @@
     "memo": "",
     "name": "X光電腦斷層技術學實習 Computed Tomography Practice",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "張御展",
     "time": "W234-"
   },
@@ -4351,7 +4351,7 @@
     "memo": "",
     "name": "核醫造影技術學實習 Nuclear Medicine Imaging Technology Practice",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "許世明",
     "time": "M123456-"
   },
@@ -4363,7 +4363,7 @@
     "memo": "",
     "name": "超音波技術學實習 Ultrasonography Practice",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "盧家鋒",
     "time": "S234-"
   },
@@ -4375,7 +4375,7 @@
     "memo": "",
     "name": "放射性免疫暨核醫體外分析實習 Radioimmunoassay & Nuclear Medicine In-Vitro Analysis Practice",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "張御展",
     "time": "R234-"
   },
@@ -4387,7 +4387,7 @@
     "memo": "",
     "name": "牙科X光診斷技術學實習 Dental Radiographic Technique Practice",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "張御展",
     "time": "R567-"
   },
@@ -4399,7 +4399,7 @@
     "memo": "",
     "name": "磁共振技術學實習 Magnetic Resonance Practice",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "張御展",
     "time": "T567-"
   },
@@ -4411,7 +4411,7 @@
     "memo": "",
     "name": "一般及特殊X光診斷技術學實習 General & Special Radiographic Technique Practice",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "許世明",
     "time": "R8F12345678-"
   },
@@ -4435,7 +4435,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "盧家鋒、許世明、張御展",
     "time": "Fab-"
   },
@@ -4747,7 +4747,7 @@
     "memo": "大三導師時間，時間地點另行安排",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "李曉暉、陳燕彰、可文亞、李敏嘉、袁維謙",
     "time": ""
   },
@@ -4759,7 +4759,7 @@
     "memo": "分組上課，上課教室傳甲436和圖資735",
     "name": "科學文獻研讀與分析(上) Scientific literature reading and analysis I",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "翁雨蕙、陳燕彰、可文亞、袁維謙",
     "time": "W56-YK436[YM],W56-YL735[YM]"
   },
@@ -4819,7 +4819,7 @@
     "memo": "限修過大一「生命科學實驗」課程",
     "name": "生物遺傳變異的酵母菌模式操作 Principles of inheritance and genetic manipulation in yeast model system",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "陳嘉霖、楊念中、陳虹如",
     "time": "S234-YED109[YM]"
   },
@@ -4831,7 +4831,7 @@
     "memo": "大三任選必修課程，十門課至少選三門",
     "name": "生物資訊學(一) Introduction to Bioinformatics (I)",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "李國彬",
     "time": "T34-YR105[YM]"
   },
@@ -4963,7 +4963,7 @@
     "memo": "醫二A,   醫二C, 醫技二, 藥學二合班上課",
     "name": "生物化學 Biochemistry",
     "num_limit": "9999",
-    "reg_num": "200",
+    "reg_num": "199",
     "teacher": "王琬菁、陳美瑜、鄭子豪、黃介嶸、許翺麟、姜為中",
     "time": "R56-,F34-EE105[GF],F34-YX216[YM]"
   },
@@ -5011,7 +5011,7 @@
     "memo": "醫學二A",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "80",
-    "reg_num": "80",
+    "reg_num": "79",
     "teacher": "游麗如、徐子涵、王毓瑄、陳美瑜、鄭子豪、郭津岑、許翺麟、許玉璇",
     "time": "F5678-YEC309[YM]"
   },
@@ -7651,7 +7651,7 @@
     "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
     "name": "臨床腦疾病概論 Clinical Introduction to Brain Disease",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "李怡慧、盧俊良、陳世彬、楊智傑、吳昭慶、廖翊筑、李正達、王嚴鋒、劉祐岑",
     "time": "T4-YL839[YM]"
   },
@@ -8080,7 +8080,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "131405",
-    "memo": "開放所有科系研究生、大學部學生選修，全英語授課[English Medium Course]",
+    "memo": "開放所有科系研究生、大學部學生選修，全英語授課[English Medium Course]\n牙311室上課",
     "name": "行為研究實驗設計與文獻整合分析 Experimental Design of Behavioral Research and Meta-analysis",
     "num_limit": "9999",
     "reg_num": "3",
@@ -10855,7 +10855,7 @@
     "memo": "開放隨班附讀、政大學生選修及大學部選修。開放大學部學生修讀。\n基因體所碩博任選必修科目。大三任選必修課程，十門課至少選三門。\n實地線上混合教學課程 (陽明校區：YK101；交大校區：線上，請向教師索取線上連結)",
     "name": "神經生物學 Neurobiology",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "劉福清、蔡惠珍、林貝容、周韻家",
     "time": "F567-YK101[YM]"
   },
@@ -11359,7 +11359,7 @@
     "memo": "大三任選必修課程，十門課至少選三門。",
     "name": "基礎免疫學 Basic Immunology",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "陳念榮",
     "time": "F34-YC401[YM]"
   },
@@ -11371,7 +11371,7 @@
     "memo": "",
     "name": "生物物理化學 Biophysical chemistry",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "3",
     "teacher": "許世宜、林達顯",
     "time": "T78-YK104[YM]"
   },
@@ -11407,7 +11407,7 @@
     "memo": "碩博任選必修科目。大三任選必修課程，十門課至少選三門。",
     "name": "結構生物學(一) Structural Biology(I)",
     "num_limit": "9999",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "許世宜、林達顯、黃介嶸、張欣暘",
     "time": "R56-YK101[YM]"
   },
@@ -11443,7 +11443,7 @@
     "memo": "大三任選必修課程，十門課至少選三門。",
     "name": "生物學特論(一) Honor Biology Ⅰ",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "周成功、郭育誠",
     "time": "M34-YT301[YM]"
   },
@@ -17193,7 +17193,7 @@
     "num_limit": "40",
     "reg_num": "40",
     "teacher": "羅禾淋",
-    "time": "M78-"
+    "time": "M78-HC104[GF]"
   },
   "1121_514006": {
     "code": "HSCH00002",
@@ -17385,7 +17385,7 @@
     "num_limit": "30",
     "reg_num": "8",
     "teacher": "郭明浩",
-    "time": "M678-HC104[GF]"
+    "time": "M678-HC101[GF]"
   },
   "1121_514022": {
     "code": "HSCH20009",
@@ -17445,7 +17445,7 @@
     "num_limit": "40",
     "reg_num": "40",
     "teacher": "羅禾淋",
-    "time": "M56-"
+    "time": "M56-HC104[GF]"
   },
   "1121_514027": {
     "code": "HSCH00019",
@@ -17457,7 +17457,7 @@
     "num_limit": "30",
     "reg_num": "17",
     "teacher": "蕭智尹",
-    "time": "T34-"
+    "time": "T34-HC101[GF]"
   },
   "1121_514028": {
     "code": "HSCH10028",
@@ -21476,7 +21476,7 @@
     "name": "機率論 Probability Theory",
     "num_limit": "9999",
     "reg_num": "57",
-    "teacher": "李育杰",
+    "teacher": "黃信元",
     "time": "W34F2-SA311[GF]"
   },
   "1121_516710": {
@@ -21550,6 +21550,18 @@
     "reg_num": "17",
     "teacher": "彭南夫",
     "time": "T56F7-SA214[GF]"
+  },
+  "1121_516718": {
+    "code": "SCMA20065",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "516718",
+    "memo": "",
+    "name": "量子計算 Quantum Computing",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蘇承芳",
+    "time": "T789-SA215[GF]"
   },
   "1121_516800": {
     "code": "SCAC00005",
@@ -21778,6 +21790,18 @@
     "reg_num": "40",
     "teacher": "張佳智",
     "time": "T67R8-SB201[GF]"
+  },
+  "1121_516819": {
+    "code": "SCAC20020",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "516819",
+    "memo": "",
+    "name": "無機化學特論-功能性系統中的化學與材料 Special Topics in Inorganic Chemistry-Chemistry and Materials in Functional Systems",
+    "num_limit": "16",
+    "reg_num": "0",
+    "teacher": "裘性天",
+    "time": "R34-SB321[GF]"
   },
   "1121_517000": {
     "code": "MGCM10013",
@@ -25915,7 +25939,7 @@
     "memo": "",
     "name": "富氏光學 Fourier Optics",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "許根玉",
     "time": "M4W34-EO115[GF]"
   },
@@ -25987,7 +26011,7 @@
     "memo": "",
     "name": "矽光子學 Silicon photonics",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "張祐嘉",
     "time": "W2F34-CY202[GF]"
   },
@@ -25999,7 +26023,7 @@
     "memo": "[English Medium Course]",
     "name": "材料光學 The Optical Properties of Materials",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "盧廷昌",
     "time": "F789-CY203[GF]"
   },
@@ -26059,7 +26083,7 @@
     "memo": "1.光電系碩士班及博士班必修2.光電系碩博士班學生優先選課",
     "name": "物理光學 Physical Optics",
     "num_limit": "70",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "賴英杰",
     "time": "R234-CY201[GF]"
   },
@@ -28067,18 +28091,6 @@
     "teacher": "蘇承芳",
     "time": "M9ab-SA213[GF]"
   },
-  "1121_536705": {
-    "code": "SCMA30019",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "536705",
-    "memo": "",
-    "name": "機器學習 Machine Learning",
-    "num_limit": "9999",
-    "reg_num": "12",
-    "teacher": "李育杰",
-    "time": "W7F56-SA311[GF]"
-  },
   "1121_536706": {
     "code": "SCMA30017",
     "credit": "3.00",
@@ -28355,6 +28367,18 @@
     "teacher": "李耀坤",
     "time": "M567-SB210[GF]"
   },
+  "1121_536816": {
+    "code": "SCIC30042",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536816",
+    "memo": "",
+    "name": "高分子合成 Polymer Synthesis",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "張佳智",
+    "time": "R3F34-SB201[GF]"
+  },
   "1121_536850": {
     "code": "SCMS30005",
     "credit": "1.00",
@@ -28593,7 +28617,7 @@
     "num_limit": "9999",
     "reg_num": "4",
     "teacher": "寺西慶哲",
-    "time": "T78F7-SC157[GF]"
+    "time": "T789-SC157[GF]"
   },
   "1121_536951": {
     "code": "SCIP30018",
@@ -28726,6 +28750,18 @@
     "reg_num": "2",
     "teacher": "高文芳",
     "time": "Rabc-SC162[GF]"
+  },
+  "1121_536963": {
+    "code": "SCIP30005",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536963",
+    "memo": "",
+    "name": "古典力學 Classical Mechanics",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "寺西慶哲",
+    "time": "M8F78-SC157[GF]"
   },
   "1121_537000": {
     "code": "MGMS30017",

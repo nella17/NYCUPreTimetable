@@ -2011,7 +2011,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "49",
+    "reg_num": "45",
     "teacher": "許樹珍、胡慧蘭、周承珍、陳律言",
     "time": "R9a-YN416[YM]"
   },
@@ -2023,7 +2023,7 @@
     "memo": "",
     "name": "社區衛生護理學 Community Health Nursing",
     "num_limit": "254",
-    "reg_num": "48",
+    "reg_num": "44",
     "teacher": "于潄、黃子庭、王子芳、陳怡如、劉影梅、簡莉盈、陳紀雯、周承珍、林承霈、周明慧、張芬娥",
     "time": "M123456789W234-YN603[YM]"
   },
@@ -2047,7 +2047,7 @@
     "memo": "",
     "name": "精神衛生護理學 Psychiatric Mental Health Nursing",
     "num_limit": "254",
-    "reg_num": "48",
+    "reg_num": "44",
     "teacher": "許樹珍、楊秋月、張秀如、洪珮瑜",
     "time": "T1234567W5678-YN603[YM]"
   },
@@ -2071,7 +2071,7 @@
     "memo": "",
     "name": "護理倫理概論 Introduction to Nursing Ethics",
     "num_limit": "254",
-    "reg_num": "51",
+    "reg_num": "47",
     "teacher": "許樹珍、黃子庭、王子芳、蔡慈儀、雷文玫、林雅萍、林承霈、徐清樺",
     "time": "R56-YN418[YM]"
   },
@@ -2083,7 +2083,7 @@
     "memo": "",
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "254",
-    "reg_num": "48",
+    "reg_num": "44",
     "teacher": "李亭亭、蔡仁貞、童恒新、黃淑鶴、明金蓮、林淑娟",
     "time": "R78-YN418[YM]"
   },
@@ -2095,7 +2095,7 @@
     "memo": "台北榮總",
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "254",
-    "reg_num": "48",
+    "reg_num": "44",
     "teacher": "劉芷伶、蔡仁貞、鍾若男、林麗華、明金蓮、林淑娟、林鳳蓮、王卿凌、盧婉菁",
     "time": "S123456-"
   },
@@ -2143,7 +2143,7 @@
     "memo": "需修習過內外科護理學之護理系四年級\n上課教室：護理館R418與414，台北榮民總醫院手術室及麻醉部",
     "name": "麻醉護理概論 Introduction to Anesthesia Nursing",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "39",
     "teacher": "黃淑鶴、楊惠如",
     "time": "Wab-YN418[YM]"
   },
@@ -13592,7 +13592,7 @@
     "name": "進階家庭專科護理實習I Advanced Family Nurse Practitioner Practicum I",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "楊淑華、陳盈如、商舒婷",
+    "teacher": "楊淑華、陳盈如、鄔恒斐、商舒婷",
     "time": "R12345678-"
   },
   "1121_150211": {
@@ -16038,7 +16038,7 @@
     "id": "410018",
     "memo": "限120人通識跨院\n通識校基本[資,工,理]\n生科系老師合開",
     "name": "生物科技概論(一) Introduction to Biotechnology (I)",
-    "num_limit": "100",
+    "num_limit": "120",
     "reg_num": "75",
     "teacher": "蘭宜錚",
     "time": "F7-BI310[BA]"
@@ -29085,7 +29085,7 @@
     "num_limit": "9999",
     "reg_num": "23",
     "teacher": "GMBA",
-    "time": "Mz-MB202[GF]"
+    "time": "Tab-MB110[GF]"
   },
   "1121_537158": {
     "code": "MGBA30019",
@@ -29097,7 +29097,7 @@
     "num_limit": "9999",
     "reg_num": "34",
     "teacher": "姜真秀、黃寬丞",
-    "time": "Wabc-MB110[GF]"
+    "time": "Rabc-M116[GF]"
   },
   "1121_537200": {
     "code": "MGTM30010",
@@ -31448,7 +31448,7 @@
     "name": "前瞻科技-應用數學 Foresight Technology-Applied Mathematics",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "李育杰",
+    "teacher": "林得勝",
     "time": "S234-SC106[GF]"
   },
   "1121_556703": {
@@ -33226,18 +33226,6 @@
     "reg_num": "0",
     "teacher": "博佳佳",
     "time": "T34-A509[GF]"
-  },
-  "1121_561076": {
-    "code": "GECG10019",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "561076",
-    "memo": "[English Medium Course]",
-    "name": "禁樂：藝術，社會，與審查制度 Forbidden Music: Arts, Society, and Censorship",
-    "num_limit": "15",
-    "reg_num": "2",
-    "teacher": "李奉書",
-    "time": "M34-HC501[GF]"
   },
   "1121_561077": {
     "code": "GECG00029",
@@ -38266,18 +38254,6 @@
     "reg_num": "7",
     "teacher": "盧志文",
     "time": "R234-CM216[GR]"
-  },
-  "1121_638404": {
-    "code": "PTPS30015",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "638404",
-    "memo": "",
-    "name": "光電物理與數值方法導論 Introduction to numerical methods in optical physics",
-    "num_limit": "9999",
-    "reg_num": "4",
-    "teacher": "簡靖航",
-    "time": "W234-CM217[GR]"
   },
   "1121_638405": {
     "code": "PTPS30007",

@@ -2011,7 +2011,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "42",
+    "reg_num": "41",
     "teacher": "許樹珍、胡慧蘭、周承珍、陳律言",
     "time": "R9a-YN416[YM]"
   },
@@ -2023,7 +2023,7 @@
     "memo": "",
     "name": "社區衛生護理學 Community Health Nursing",
     "num_limit": "254",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "于潄、黃子庭、王子芳、陳怡如、劉影梅、簡莉盈、陳紀雯、周承珍、林承霈、周明慧、張芬娥",
     "time": "M123456789W234-YN603[YM]"
   },
@@ -2047,7 +2047,7 @@
     "memo": "",
     "name": "精神衛生護理學 Psychiatric Mental Health Nursing",
     "num_limit": "254",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "許樹珍、楊秋月、張秀如、洪珮瑜",
     "time": "T1234567W5678-YN603[YM]"
   },
@@ -2071,7 +2071,7 @@
     "memo": "",
     "name": "護理倫理概論 Introduction to Nursing Ethics",
     "num_limit": "254",
-    "reg_num": "44",
+    "reg_num": "43",
     "teacher": "許樹珍、黃子庭、王子芳、蔡慈儀、雷文玫、林雅萍、林承霈、徐清樺",
     "time": "R56-YN418[YM]"
   },
@@ -2083,7 +2083,7 @@
     "memo": "",
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "254",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "李亭亭、蔡仁貞、童恒新、黃淑鶴、明金蓮、林淑娟",
     "time": "R78-YN418[YM]"
   },
@@ -2095,7 +2095,7 @@
     "memo": "台北榮總",
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "254",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "劉芷伶、蔡仁貞、鍾若男、林麗華、明金蓮、林淑娟、林鳳蓮、王卿凌、盧婉菁",
     "time": "S123456-"
   },
@@ -2143,7 +2143,7 @@
     "memo": "需修習過內外科護理學之護理系四年級\n上課教室：護理館R418與414，台北榮民總醫院手術室及麻醉部",
     "name": "麻醉護理概論 Introduction to Anesthesia Nursing",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "黃淑鶴、楊惠如",
     "time": "Wab-YN418[YM]"
   },
@@ -2371,7 +2371,7 @@
     "memo": "初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
     "name": "藥學導論 Orientation in Pharmacy",
     "num_limit": "70",
-    "reg_num": "29",
+    "reg_num": "27",
     "teacher": "胡德民、王孟廷、林滿玉、黃奇英、康照洲、陳日榮、林宥欣、東雅惠、陳惠亭、許銘能、蘇溶真、廖曉偉、姜紹青、紀威光、黃文鴻、吳力人、趙彥欽、曾冠燁",
     "time": "M56-YL402[YM]"
   },
@@ -6511,7 +6511,7 @@
     "memo": "藥學系、傳醫所、衛福所合班上課",
     "name": "中藥概論 Introduction to Chinese Materia Medica",
     "num_limit": "70",
-    "reg_num": "31",
+    "reg_num": "29",
     "teacher": "陳日榮、沈雅敬、翁芸芳、蔡忠志、廖家慶",
     "time": "T34-YK533[YM]"
   },
@@ -12871,7 +12871,7 @@
     "memo": "全英語授課課程；為本學系博士班必選課程，請與指導教授討論後再選[English Medium Course]",
     "name": "專題討論(一) Seminar (I)",
     "num_limit": "40",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "王瑞瑤、王子娟、施怡芬、楊雅如、陳振昇、蔚順華、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、周立偉、羅鴻基、陳喬男、黃崇舜、林吟亮、呂東武",
     "time": "M5678-YB102[YM]"
   },
@@ -15415,7 +15415,7 @@
     "memo": "",
     "name": "影音新聞實作 Video News Production",
     "num_limit": "9999",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "黃靜蓉",
     "time": "R234-HK114[LJ]"
   },
@@ -15427,7 +15427,7 @@
     "memo": "",
     "name": "基礎網頁設計 Web design",
     "num_limit": "45",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "陳盈羽",
     "time": "T567-HK114[LJ]"
   },
@@ -15499,7 +15499,7 @@
     "memo": "",
     "name": "多元文化與傳播 Multi-cultures and Communication",
     "num_limit": "45",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "李美華",
     "time": "R567-SC109[GF]"
   },
@@ -15547,7 +15547,7 @@
     "memo": "上課教室更換至客家文化學院4樓國際會議廳",
     "name": "傳播過程與效果 Communication Process and Effect",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "俞蘋",
     "time": "W234-HK104[LJ]"
   },
@@ -15559,7 +15559,7 @@
     "memo": "",
     "name": "傳播研究方法 Introduction to Research Methods",
     "num_limit": "42",
-    "reg_num": "42",
+    "reg_num": "41",
     "teacher": "李美華",
     "time": "M567-HK104[LJ]"
   },
@@ -20263,7 +20263,7 @@
     "memo": "開2/3/4年級",
     "name": "無人機飛行實作 Unmanned Aerial Vehicles",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "61",
     "teacher": "劉義強、賴錦文、程登湖",
     "time": "Mabc-EE106[GF]"
   },
@@ -21558,7 +21558,7 @@
     "id": "516718",
     "memo": "",
     "name": "量子計算 Quantum Computing",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "蘇承芳",
     "time": "T789-SA215[GF]"
@@ -30359,6 +30359,18 @@
     "teacher": "待聘",
     "time": "M567-A310[GF]"
   },
+  "1121_539009": {
+    "code": "IIPS30004",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "539009",
+    "memo": "",
+    "name": "半導體元件物理與奈米電晶體 Semiconductor Device Physics and Nanometer Scale Transistors",
+    "num_limit": "60",
+    "reg_num": "0",
+    "teacher": "陶元、孫元成",
+    "time": "M34F2-CS100[GF]"
+  },
   "1121_539100": {
     "code": "IIAI30002",
     "credit": "3.00",
@@ -32407,7 +32419,7 @@
     "memo": "「歷史分析：世界史導論」不接受修讀過「世界文明史」同學修讀。",
     "name": "歷史分析：世界史導論 History Analysis: Introduction to the World History",
     "num_limit": "33",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "陳仁姮",
     "time": "T34-A205[GF]"
   },
@@ -35347,7 +35359,7 @@
     "memo": "第一階段開放選課系級：\n電機3\n材料3\n應化3\n光電3\n管科3\n運管3\n工工3\n資財3\n人社3\n傳科3\n",
     "name": "體育－足球乙 Football",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "張生平",
     "time": "F12-PE[GF]"
   },
@@ -36175,7 +36187,7 @@
     "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "26",
     "teacher": "黃中興",
     "time": "W56-PhE[YM]"
   },
@@ -39811,7 +39823,7 @@
     "memo": "動力組，上課地點在國防理工",
     "name": "體育(3) Physical Education(3)",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "系統工程",
     "time": "T12-"
   },
@@ -41407,7 +41419,7 @@
     "memo": "上課地點在國防理工",
     "name": "工程數學(1) Engineering Mathematics(1)",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "潘冠呈",
     "time": "R123-"
   },
@@ -41419,7 +41431,7 @@
     "memo": "上課地點在國防理工",
     "name": "熱力學 Thermodynamics",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "黃寶錩",
     "time": "F234-"
   },
@@ -41431,7 +41443,7 @@
     "memo": "上課地點在國防理工",
     "name": "應用力學－靜力學 Engineering Mechanics - Statics",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "陳幼良",
     "time": "T678-"
   },
@@ -42067,7 +42079,7 @@
     "memo": "上課地點在國防理工，授課教師:陳冠宇",
     "name": "導師輔導(3) Tutor Guidance(3)",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "系統工程",
     "time": "M12-"
   },
@@ -43099,7 +43111,7 @@
     "memo": "上課地點在國防理工",
     "name": "大陸問題研究 Studies on Mainland China",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "系統工程",
     "time": "M678-"
   },

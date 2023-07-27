@@ -2455,7 +2455,7 @@
     "memo": "暑期上課。",
     "name": "中藥炮製學 Processing of Chinese Medicine",
     "num_limit": "9999",
-    "reg_num": "97",
+    "reg_num": "98",
     "teacher": "陳日榮、賴尚志",
     "time": "U123-"
   },
@@ -3970,6 +3970,18 @@
     "reg_num": "3",
     "teacher": "羅鴻基、王子娟、王瑞瑤、施怡芬、楊雅如、李淑貞、李雪楨、蔡美文、周立偉、陳喬男、黃崇舜、林吟亮",
     "time": "Uyz-"
+  },
+  "1121_112267": {
+    "code": "BEPT20087",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "112267",
+    "memo": "",
+    "name": "整合性臨床骨科 Integrated Course in Clinical Orthopedic",
+    "num_limit": "10",
+    "reg_num": "0",
+    "teacher": "施世亮",
+    "time": "W9a-YB530[YM]"
   },
   "1121_112300": {
     "code": "BEIR10003",
@@ -7784,7 +7796,7 @@
     "name": "永續性別：社會與健康 Sustainable Gender Equity: Social Inclusion and Health",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "喬芷、林文旭、藍凡耘、何薇莉",
+    "teacher": "喬芷、馮品佳、林文旭、藍凡耘、何薇莉",
     "time": "W56-YS405[YM]"
   },
   "1121_131205": {
@@ -17924,7 +17936,7 @@
     "name": "進階新聞英文:閱讀與聽力 Advanced Journalistic English: Reading and Listening",
     "num_limit": "25",
     "reg_num": "11",
-    "teacher": "待聘",
+    "teacher": "陳國華",
     "time": "R234-HC401[GF]"
   },
   "1121_514137": {
@@ -25029,7 +25041,7 @@
     "num_limit": "9999",
     "reg_num": "9",
     "teacher": "曾銘綸",
-    "time": "F234-ED201[GF]"
+    "time": "T34W4-EDB06[GF]"
   },
   "1121_535216": {
     "code": "EEIE30054",
@@ -25195,7 +25207,7 @@
     "memo": "[English Medium Course]線上授課 Online Course",
     "name": "VLSI測試與可測試性設計 VLSI Testing and Design for Testability",
     "num_limit": "55",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "趙家佐",
     "time": "M234-EDB06[GF]"
   },
@@ -25207,7 +25219,7 @@
     "memo": "",
     "name": "計算機輔助設計特論 Special Topics in Computer Aided Design",
     "num_limit": "85",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "劉建男",
     "time": "M34-ED116[GF],W34-ED219[GF]"
   },
@@ -30906,7 +30918,7 @@
     "id": "547704",
     "memo": "資訊類課程；財務金融碩博士班、資財系大三大四優先；財務金融博士班AI組必修。",
     "name": "人工智慧理論與實作 Artificial Intelligence: Theory and Practice",
-    "num_limit": "50",
+    "num_limit": "55",
     "reg_num": "48",
     "teacher": "黃思皓",
     "time": "Wabc-M101[GF]"

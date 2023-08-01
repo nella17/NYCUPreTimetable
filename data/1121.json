@@ -2455,7 +2455,7 @@
     "memo": "暑期上課。",
     "name": "中藥炮製學 Processing of Chinese Medicine",
     "num_limit": "9999",
-    "reg_num": "98",
+    "reg_num": "99",
     "teacher": "陳日榮、賴尚志",
     "time": "U123-"
   },
@@ -18139,7 +18139,7 @@
     "memo": "[English Medium Course]，2A。此課程不得列入生醫所畢業學分。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
     "name": "電路學－(英文班) Circuit Theory ",
     "num_limit": "70",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "蔡德明",
     "time": "T34R78-EE623[GF]"
   },
@@ -18643,7 +18643,7 @@
     "memo": "1. 限申請電機工程學系「跨域學程」修課，同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於9月20日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "跨領域專題(一) Crossdisciplinary Projects (I) ",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "電機系",
     "time": ""
   },
@@ -26731,7 +26731,7 @@
     "memo": "前瞻所丙組核心課程；智能所甲組、丙組選修課程[English Medium Course]",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "9999",
-    "reg_num": "144",
+    "reg_num": "143",
     "teacher": "黃柏蒼",
     "time": "M567-AB101[GF]"
   },
@@ -27523,7 +27523,7 @@
     "memo": "1.材料系大三、四選修 2.碩一、博一、博二研究生必修 3.限材料系、奈米所、前瞻半導體研究所加選 4.教室：工程六館國際會議廳",
     "name": "書報討論 Seminar",
     "num_limit": "200",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "鍾采甫",
     "time": "W56-EF104[GF]"
   },
@@ -27583,7 +27583,7 @@
     "memo": "1.第一階段限材料系、奈米所加選 2.開學後開放外系或外校加選",
     "name": "晶體學 Crystallography",
     "num_limit": "60",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "楊朝堯",
     "time": "M234-EF202[GF]"
   },
@@ -27679,7 +27679,7 @@
     "memo": "[English Medium Course]1.第一階段限材料系、奈米所、國際半導產業學院、前瞻半導體研究所加選 2.開學後開放外系或外校加選",
     "name": "半導體製程 Semiconductor Processings",
     "num_limit": "60",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "張翼",
     "time": "T56R6-EF201[GF]"
   },
@@ -30352,7 +30352,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539008",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "半導體物理及元件 Semiconductor Physics and Devices",
     "num_limit": "9999",
     "reg_num": "0",
@@ -39739,7 +39739,7 @@
     "memo": "電機組，上課地點在國防理工",
     "name": "體育(5) Physical Education(5) ",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "系統工程",
     "time": "W34-"
   },
@@ -40424,8 +40424,8 @@
     "name": "普通物理(1) General Physics (1) ",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "R34F1-"
+    "teacher": "杜建明",
+    "time": "R234-"
   },
   "1121_910147": {
     "code": "SESE00065",
@@ -40483,7 +40483,7 @@
     "memo": "上課地點在國防理工",
     "name": "自動控制系統(1) Automatic Control Systems(I)",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "楊家宏",
     "time": "T67F1-"
   },
@@ -40651,7 +40651,7 @@
     "memo": "電機班，上課地點在國防理工",
     "name": "導師輔導(5) Tutor Guidance(5) ",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "劉敏憲",
     "time": "M12-"
   },
@@ -40675,7 +40675,7 @@
     "memo": "上課地點在國防理工",
     "name": "電機機械 Electric Machinery",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "談光雄",
     "time": "T8W67-"
   },
@@ -40735,7 +40735,7 @@
     "memo": "上課地點在國防理工",
     "name": "單晶片 Single Chip",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "藍建武",
     "time": "F234-"
   },
@@ -42943,7 +42943,7 @@
     "memo": "上課地點在國防理工",
     "name": "心理學 Psychology",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "系統工程",
     "time": "T12-"
   },
@@ -42955,7 +42955,7 @@
     "memo": "上課地點在國防理工",
     "name": "哲學概論 Introdution to Philosophy",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "系統工程",
     "time": "T34-"
   },
@@ -43630,6 +43630,162 @@
     "reg_num": "0",
     "teacher": "藍建武",
     "time": "M678-"
+  },
+  "1121_910415": {
+    "code": "SESE10199",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "910415",
+    "memo": "上課地點在國防理工",
+    "name": "控制與自動化專題實作(3) Special topics for the Control and Automation(3)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林振輝",
+    "time": "M678-"
+  },
+  "1121_910416": {
+    "code": "SESE10195",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "910416",
+    "memo": "上課地點在國防理工",
+    "name": "無線通訊應用專題實作(3) Practice for  Applications of Wireless Communications (3)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "鄭紹宏",
+    "time": "M678-"
+  },
+  "1121_910417": {
+    "code": "SESE20257",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "910417",
+    "memo": "上課地點在國防理工",
+    "name": "資訊應用專題實作(3) Project of Information Applications(3)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "系統工程",
+    "time": "M678-"
+  },
+  "1121_910418": {
+    "code": "SESE20258",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "910418",
+    "memo": "上課地點在國防理工",
+    "name": "半導體元件應用專題實作(3) Project of Semiconductor Devices Application (3)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "謝育立",
+    "time": "M678-"
+  },
+  "1121_910419": {
+    "code": "SESE10197",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "910419",
+    "memo": "上課地點在國防理工",
+    "name": "光電應用專題實作(3) Optoelectronic application project(3)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "葉宗翰",
+    "time": "M678-"
+  },
+  "1121_910420": {
+    "code": "SESE10005",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "910420",
+    "memo": "上課地點在國防理工",
+    "name": "光電應用專題實作(1) Optoelectronic Application Project",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "謝輝煌",
+    "time": "M678-"
+  },
+  "1121_910421": {
+    "code": "SESE10048",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "910421",
+    "memo": "上課地點在國防理工",
+    "name": "控制與自動化專題實作(1) Special Topics for the Control and Automation",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "談光雄",
+    "time": "M678-"
+  },
+  "1121_910422": {
+    "code": "SESE10155",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "910422",
+    "memo": "上課地點在國防理工",
+    "name": "雷達系統應用專題實作(1) Practice for Application to Radar System",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "聶若鹽",
+    "time": "M678-"
+  },
+  "1121_910423": {
+    "code": "SESE10090",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "910423",
+    "memo": "上課地點在國防理工",
+    "name": "無線通訊應用專題實作(1) Practice for Applications of Wireless",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蘇英俊",
+    "time": "M678-"
+  },
+  "1121_910424": {
+    "code": "SESE10196",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "910424",
+    "memo": "上課地點在國防理工",
+    "name": "微波裝置專題實作(3) Design Topics of Microwave Devices(3)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "李志國",
+    "time": "M678-"
+  },
+  "1121_910425": {
+    "code": "SESE10040",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "910425",
+    "memo": "上課地點在國防理工",
+    "name": "微波裝置專題實作(1) Design Topics of Microwave Devices",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳淑娟",
+    "time": "M678-"
+  },
+  "1121_910426": {
+    "code": "SESE10150",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "910426",
+    "memo": "上課地點在國防理工",
+    "name": "通訊系統專題實作(1) Practice of Communication Systems",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "瞿忠正",
+    "time": "M678-"
+  },
+  "1121_910427": {
+    "code": "SESE00021",
+    "credit": ".00",
+    "hours": "2.00",
+    "id": "910427",
+    "memo": "上課地點在國防理工",
+    "name": "導師輔導(1) Tutor Guidance(1) ",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "謝育立",
+    "time": "M12-"
   },
   "1121_960000": {
     "code": "GEMT00003",

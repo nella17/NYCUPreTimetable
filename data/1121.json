@@ -79,7 +79,7 @@
     "memo": "限醫學系學生修課",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "123",
-    "reg_num": "115",
+    "reg_num": "114",
     "teacher": "潘美連",
     "time": "M34-YX216[YM]"
   },
@@ -91,7 +91,7 @@
     "memo": "大堂課與小組討論交替",
     "name": "科學發表與思維 Scientific Presentation and Thinking",
     "num_limit": "144",
-    "reg_num": "121",
+    "reg_num": "120",
     "teacher": "霍德義、黃金洲、陳志彥、林志慶、林邑璁、陳世彬、紀乃方、賴峻毅、詹宇鈞、江晨恩、蘇建維、林堯彬、陳明德、徐德福、劉峻宇、許劭榮",
     "time": "W78-YX216[YM]"
   },
@@ -115,7 +115,7 @@
     "memo": "",
     "name": "普通物理學 General Physics",
     "num_limit": "9999",
-    "reg_num": "118",
+    "reg_num": "117",
     "teacher": "羅俊民、江明彰",
     "time": "T34-YX216[YM]"
   },
@@ -331,7 +331,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "陳瀅州",
     "time": "W34-YX501[YM]"
   },
@@ -4975,7 +4975,7 @@
     "memo": "醫二A,   醫二C, 醫技二, 藥學二合班上課",
     "name": "生物化學 Biochemistry",
     "num_limit": "9999",
-    "reg_num": "199",
+    "reg_num": "198",
     "teacher": "王琬菁、陳美瑜、鄭子豪、黃介嶸、許翺麟、姜為中",
     "time": "R56-,F34-EE105[GF],F34-YX216[YM]"
   },
@@ -4987,7 +4987,7 @@
     "memo": "醫二A",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "80",
-    "reg_num": "63",
+    "reg_num": "62",
     "teacher": "游麗如、徐子涵、王毓瑄、陳美瑜、鄭子豪、郭津岑、許翺麟、許玉璇",
     "time": "M5678-YEC309[YM]"
   },
@@ -8720,7 +8720,7 @@
     "name": "生物藥學研究方法 Research Methods in Bio-Pharmaceutical Sciences",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃奇英、游麗如、蘇瑀、蕭崇瑋、何國牟、張牧新、金翠庭",
+    "teacher": "黃奇英、游麗如、蘇瑀、何國牟、張牧新、金翠庭",
     "time": "T34-YC101[YM]"
   },
   "1121_131901": {
@@ -8768,7 +8768,7 @@
     "name": "生物藥學通論 Fundamentals in Biopharmaceutical Sciences",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "張牧新、蘇瑀、黃奇英、蕭崇瑋、何國牟、金翠庭、劉嘉仁、顏厥全、趙大中、劉耀中、劉峻宇",
+    "teacher": "張牧新、蘇瑀、黃奇英、何國牟、金翠庭、劉嘉仁、顏厥全、趙大中、劉耀中、劉峻宇",
     "time": "R34-YC101[YM]"
   },
   "1121_131907": {
@@ -8804,7 +8804,7 @@
     "name": "尖端生物技術在生技新藥開發的應用 Application of Advanced Biotechnology to the Botanical and Pharmaceutical Development",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "金翠庭、蘇瑀、林照雄、蕭崇瑋、何國牟、張牧新",
+    "teacher": "金翠庭、蘇瑀、林照雄、何國牟、張牧新",
     "time": "Myz-YC101[YM]"
   },
   "1121_131910": {
@@ -8816,7 +8816,7 @@
     "name": "藥物開發的新趨勢 New Trends in Drug Development",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "蕭崇瑋、蘇瑀、劉俊煌、何國牟、張牧新、金翠庭",
+    "teacher": "張牧新、蘇瑀、劉俊煌、何國牟、金翠庭",
     "time": "Tyz-YC101[YM]"
   },
   "1121_131911": {
@@ -12764,7 +12764,7 @@
     "name": "特定領域護理實習 Professional field nursing practice",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "孫秀卿、陳俞琪、胡慧蘭",
+    "teacher": "孫秀卿、陳俞琪、童恒新、胡慧蘭",
     "time": "F12345678-"
   },
   "1121_141505": {
@@ -13711,7 +13711,7 @@
     "memo": "〔1〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽博雅書苑承辦人（分機ext.65285／Email: rxfan@nycu.edu.tw）辦理。",
     "name": "德文(一) German (I)",
     "num_limit": "35",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "唐岱霞",
     "time": "F56-YX503[YM]"
   },
@@ -17264,7 +17264,7 @@
     "name": "經典設計 Classic Design",
     "num_limit": "40",
     "reg_num": "40",
-    "teacher": "許峻誠",
+    "teacher": "許峻誠、吳東龍",
     "time": "R34-HC103[GF]"
   },
   "1121_514012": {
@@ -17324,7 +17324,7 @@
     "name": "器樂進階演奏（一） Advanced Instrumental Performance I",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "許佳穎",
+    "teacher": "黃郁婷",
     "time": ""
   },
   "1121_514017": {
@@ -17336,7 +17336,7 @@
     "name": "器樂進階演奏（二） Advanced Instrumental Performance II",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "李俊穎",
+    "teacher": "許佳穎",
     "time": ""
   },
   "1121_514018": {
@@ -17432,7 +17432,7 @@
     "name": "基本設計初階 Foundation Design（I）",
     "num_limit": "30",
     "reg_num": "30",
-    "teacher": "待聘",
+    "teacher": "王思如",
     "time": "M234-HC103[GF]"
   },
   "1121_514026": {
@@ -21775,7 +21775,7 @@
     "memo": "",
     "name": "專題研究(二) Research (2)",
     "num_limit": "0",
-    "reg_num": "7",
+    "reg_num": "8",
     "teacher": "鄭彥如",
     "time": "S234-"
   },
@@ -22303,7 +22303,7 @@
     "memo": "",
     "name": "半導體產業全球視野 Semiconductor Industry: Global Perspective",
     "num_limit": "9999",
-    "reg_num": "114",
+    "reg_num": "113",
     "teacher": "鍾惠民、林春成、蘇信寧、郭國泰、張永佳、待聘",
     "time": "Rabc-AB103[GF]"
   },
@@ -22883,6 +22883,66 @@
     "teacher": "程源中",
     "time": "F34-"
   },
+  "1121_520000": {
+    "code": "XDEP10001",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "520000",
+    "memo": "",
+    "name": "應用數學(一) Applied Mathematics (1)",
+    "num_limit": "60",
+    "reg_num": "0",
+    "teacher": "梁興弛",
+    "time": "R34n-SC109[GF]"
+  },
+  "1121_520001": {
+    "code": "XDEP10002",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "520001",
+    "memo": "",
+    "name": "應用物理(一) Applied Physics (1)",
+    "num_limit": "60",
+    "reg_num": "0",
+    "teacher": "余彥廷",
+    "time": "W234-SC110[GF]"
+  },
+  "1121_520002": {
+    "code": "XDEP10003",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "520002",
+    "memo": "",
+    "name": "應用電子學(一) Applied Electronics (1)",
+    "num_limit": "60",
+    "reg_num": "0",
+    "teacher": "陳振芳",
+    "time": "M567-SC151[GF]"
+  },
+  "1121_520003": {
+    "code": "XDEP10004",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "520003",
+    "memo": "",
+    "name": "電腦程式與計算分析(一) Computer Programming and Computational Analysis (1)",
+    "num_limit": "60",
+    "reg_num": "0",
+    "teacher": "陳永富",
+    "time": "F234-SC151[GF]"
+  },
+  "1121_520004": {
+    "code": "XDEP10005",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "520004",
+    "memo": "",
+    "name": "應用電子學實驗(一) Applied Electronic Laboratory (1)",
+    "num_limit": "60",
+    "reg_num": "0",
+    "teacher": "陳振芳",
+    "time": "Tabc-SC109[GF]"
+  },
   "1121_530000": {
     "code": "GELT30003",
     "credit": "2.00",
@@ -23228,7 +23288,7 @@
     "name": "語音學 Phonetics",
     "num_limit": "18",
     "reg_num": "1",
-    "teacher": "待聘",
+    "teacher": "萬宗綸",
     "time": "T567-HC404[GF]"
   },
   "1121_534101": {
@@ -26407,7 +26467,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course]",
     "name": "排隊理論 Queuing Theory",
     "num_limit": "60",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "李奇育",
     "time": "T34-ED202[GF]"
   },
@@ -26527,7 +26587,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "元宇宙專題 Topics in Metaverse",
     "num_limit": "50",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "莊榮宏",
     "time": "Rabc-EC115[GF]"
   },
@@ -26575,7 +26635,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；英文授課[English Medium Course]；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "影像編修技術與特效合成 Image Manipulation Techniques and Visual Effects",
     "num_limit": "35",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "林奕成",
     "time": "R56-EC329[GF]"
   },
@@ -26854,6 +26914,18 @@
     "reg_num": "3",
     "teacher": "許恒通",
     "time": "T567-EE116[GF]"
+  },
+  "1121_535915": {
+    "code": "STST30040",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "535915",
+    "memo": "[English Medium Course]",
+    "name": "先進電子構裝技術 Advanced Electronic Packaging Technology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": "F567-EE116[GF]"
   },
   "1121_535951": {
     "code": "STVS30005",
@@ -27259,7 +27331,7 @@
     "memo": "大四、研究所合開",
     "name": "大地工程失敗案例 Cases of Failure in Geotechnical Engineering",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "方永壽",
     "time": "T567-EB402[GF]"
   },
@@ -28555,7 +28627,7 @@
     "memo": "",
     "name": "統計推論(博) Statistical Inference",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "陳志榮",
     "time": "W567-A406[GF]"
   },
@@ -28579,7 +28651,7 @@
     "memo": "",
     "name": "高等倖存分析 Advanced Survival Analysis",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "王維菁",
     "time": "R234-A406[GF]"
   },
@@ -32409,7 +32481,7 @@
     "num_limit": "37",
     "reg_num": "27",
     "teacher": "王月秀",
-    "time": "M12-A509[GF]"
+    "time": "M12-A202[GF]"
   },
   "1121_561005": {
     "code": "GECG00028",
@@ -32601,7 +32673,7 @@
     "num_limit": "22",
     "reg_num": "21",
     "teacher": "王月秀",
-    "time": "M34-A509[GF]"
+    "time": "M34-A202[GF]"
   },
   "1121_561021": {
     "code": "GECG00054",
@@ -32877,7 +32949,7 @@
     "num_limit": "37",
     "reg_num": "32",
     "teacher": "黃漢昌",
-    "time": "W34-A509[GF]"
+    "time": "W34-A202[GF]"
   },
   "1121_561045": {
     "code": "GECG00027",
@@ -32889,7 +32961,7 @@
     "num_limit": "37",
     "reg_num": "15",
     "teacher": "黃漢昌",
-    "time": "W12-A509[GF]"
+    "time": "W12-A202[GF]"
   },
   "1121_561046": {
     "code": "GECG00087",
@@ -32985,7 +33057,7 @@
     "num_limit": "37",
     "reg_num": "19",
     "teacher": "潘璿安",
-    "time": "W56-A509[GF]"
+    "time": "W56-A202[GF]"
   },
   "1121_561054": {
     "code": "GECG10013",
@@ -33213,7 +33285,7 @@
     "num_limit": "22",
     "reg_num": "22",
     "teacher": "博佳佳",
-    "time": "R34-A509[GF]"
+    "time": "R34-A202[GF]"
   },
   "1121_561073": {
     "code": "GECG00064",
@@ -33225,7 +33297,7 @@
     "num_limit": "22",
     "reg_num": "22",
     "teacher": "博佳佳",
-    "time": "R78-A509[GF]"
+    "time": "R78-A202[GF]"
   },
   "1121_561074": {
     "code": "GECG00061",
@@ -33237,7 +33309,7 @@
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "博佳佳",
-    "time": "T34-A509[GF]"
+    "time": "T34-A202[GF]"
   },
   "1121_561077": {
     "code": "GECG00029",
@@ -33282,7 +33354,7 @@
     "id": "561500",
     "memo": "不提供加簽",
     "name": "心理學在現代生活中的應用 Psychology applied to modern life",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "30",
     "teacher": "楊大和",
     "time": "T56-A103[GF]"
@@ -33294,7 +33366,7 @@
     "id": "561501",
     "memo": "不提供加簽。純線上同步遠距課程，請向教師索取線上連結。",
     "name": "新竹六燃地方學：大學社會責任與在地實踐 Localogy of the Sixth Fuel Factory: University Social Responsibility ＆ Local Praxis",
-    "num_limit": "67",
+    "num_limit": "77",
     "reg_num": "67",
     "teacher": "賴雯淑",
     "time": "Wbc-"
@@ -33306,7 +33378,7 @@
     "id": "561502",
     "memo": "",
     "name": "機器人與人工智慧系統探索 Exploring Robotic and Artificial Intelligent Systems",
-    "num_limit": "45",
+    "num_limit": "60",
     "reg_num": "45",
     "teacher": "陳永平",
     "time": "T78-EE207[GF]"
@@ -33318,7 +33390,7 @@
     "id": "561503",
     "memo": "MOOCs，不接受傳科系學生修讀，不提供加簽，請隨時留意網路選課系統有無人退選。",
     "name": "故事創作與影像敘事 Storytelling and Narrative",
-    "num_limit": "40",
+    "num_limit": "50",
     "reg_num": "40",
     "teacher": "張宏宇",
     "time": "Tab-"
@@ -33330,7 +33402,7 @@
     "id": "561504",
     "memo": "",
     "name": "科技與博雅之反思 Reflections on S＆T and Liberal Arts",
-    "num_limit": "40",
+    "num_limit": "50",
     "reg_num": "23",
     "teacher": "蔡蕙安、胡慧蘭、王維菁、陳智、林炯源、戴立嘉、劉佩青、陳翎、水敬心、程海東",
     "time": "M56-A204[GF]"
@@ -33342,7 +33414,7 @@
     "id": "561505",
     "memo": "",
     "name": "交通安全與生命教育 Traffic Safety and Life Education",
-    "num_limit": "45",
+    "num_limit": "70",
     "reg_num": "48",
     "teacher": "吳宗修",
     "time": "T89-A901[GF]"
@@ -34231,7 +34303,7 @@
     "memo": "",
     "name": "日文(三) Japanese(III)",
     "num_limit": "45",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "上條純惠",
     "time": "R78-A502[GF]"
   },

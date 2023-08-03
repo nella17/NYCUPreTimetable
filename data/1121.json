@@ -59,6 +59,42 @@
     "teacher": "彭健育",
     "time": "W234-"
   },
+  "1121_030006": {
+    "code": "IADI00181",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030006",
+    "memo": "中央大學文學二館110\n",
+    "name": "電影研究之方法與課題 Methods & Issues in Film Studies",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "游靜",
+    "time": "F567-"
+  },
+  "1121_030007": {
+    "code": "IADI00008",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030007",
+    "memo": "中央大學 文學二館437",
+    "name": "日常生活與文化理論 Everyday Life and Cultural Theory",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "戴芃儀",
+    "time": "T567-"
+  },
+  "1121_030008": {
+    "code": "IADI00182",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030008",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，清大HSS人社C501",
+    "name": "五四新文學運動專題 Seminar on The May Fourth New Culture Movement",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "楊佳嫻",
+    "time": "T678-"
+  },
   "1121_110000": {
     "code": "MDMD10067",
     "credit": "2.00",
@@ -2371,7 +2407,7 @@
     "memo": "初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
     "name": "藥學導論 Orientation in Pharmacy",
     "num_limit": "70",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "胡德民、王孟廷、林滿玉、黃奇英、康照洲、陳日榮、林宥欣、東雅惠、陳惠亭、許銘能、蘇溶真、廖曉偉、姜紹青、紀威光、黃文鴻、吳力人、趙彥欽、曾冠燁",
     "time": "M56-YL402[YM]"
   },
@@ -3043,7 +3079,7 @@
     "memo": "",
     "name": "儀器分析 Instrumental Analysis",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "駱俊良",
     "time": "T34n-YT205[YM]"
   },
@@ -3115,7 +3151,7 @@
     "memo": "",
     "name": "微積分(一) Calculus Ⅰ",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "謝忠村",
     "time": "M234-YX501[YM]"
   },
@@ -3199,7 +3235,7 @@
     "memo": "",
     "name": "斜槓人生(三) Career Development and Preparation III",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "駱俊良",
     "time": "W34-YT203[YM]"
   },
@@ -3741,7 +3777,7 @@
     "num_limit": "16",
     "reg_num": "10",
     "teacher": "陳祐榕",
-    "time": "F12-YB611[YM]"
+    "time": "W12-YB611[YM]"
   },
   "1121_112246": {
     "code": "BEPT20022",
@@ -4891,7 +4927,7 @@
     "memo": "修課對象以必修生優先及陽明校區大一大二不分系學生。\n本課程不開放旁聽生。",
     "name": "解剖學 Anatomy",
     "num_limit": "125",
-    "reg_num": "100",
+    "reg_num": "99",
     "teacher": "郭曉縈、傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、蔡佩君、侯珮珊、蔣偉程",
     "time": "M567-YB100[YM]"
   },
@@ -5107,7 +5143,7 @@
     "memo": "",
     "name": "微生物學及免疫學 Microbiology & Immunology",
     "num_limit": "65",
-    "reg_num": "66",
+    "reg_num": "65",
     "teacher": "蔡雨寰、張佩靖、黃雪莉、呂春敏",
     "time": "T78F12-YB100[YM]"
   },
@@ -6235,7 +6271,7 @@
     "memo": "研究所：細胞生物學組必修。\n大學部：限必修生。",
     "name": "解剖學實驗 Anatomy Lab.",
     "num_limit": "9999",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "李學德、傅毓秀、葉添順、鄭瓊娟、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程",
     "time": "F56-YEC109[YM]"
   },
@@ -6523,7 +6559,7 @@
     "memo": "藥學系、傳醫所、衛福所合班上課",
     "name": "中藥概論 Introduction to Chinese Materia Medica",
     "num_limit": "70",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "陳日榮、沈雅敬、翁芸芳、蔡忠志、廖家慶",
     "time": "T34-YK533[YM]"
   },
@@ -8887,7 +8923,7 @@
     "memo": "初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
     "name": "藥物化學(一) Medicinal Chemistry (I)",
     "num_limit": "70",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "蘇溶真、陳惠亭、簡敦誠",
     "time": "W567-YK533[YM]"
   },
@@ -9595,7 +9631,7 @@
     "memo": "",
     "name": "工程數學(一) Engineering Mathematics Ⅰ",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "江明彰",
     "time": "F34n-YX501[YM]"
   },
@@ -9860,7 +9896,7 @@
     "name": "生物統計學 Biostatistics",
     "num_limit": "40",
     "reg_num": "2",
-    "teacher": "吳慧敏、黃志忠",
+    "teacher": "待聘",
     "time": "T12-YB101[YM]"
   },
   "1121_132404": {
@@ -10018,18 +10054,6 @@
     "reg_num": "0",
     "teacher": "李淑貞",
     "time": "M9a-"
-  },
-  "1121_132419": {
-    "code": "BEPT30058",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "132419",
-    "memo": "",
-    "name": "醫療經濟評估 Economic Evaluation in Medicine and Health Care",
-    "num_limit": "40",
-    "reg_num": "0",
-    "teacher": "吳慧敏、黃志忠",
-    "time": "T34-YB101[YM]"
   },
   "1121_132420": {
     "code": "BEPT30013",
@@ -14371,7 +14395,7 @@
     "memo": "",
     "name": "人腦心智運作與歷程 introduction to cognitive neuroscience and its methodology",
     "num_limit": "20",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "郭文瑞",
     "time": "T12-YL402[YM]"
   },
@@ -21572,7 +21596,7 @@
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "",
+    "teacher": "張君輔",
     "time": "W78-SB201[GF]"
   },
   "1121_516801": {
@@ -24575,18 +24599,6 @@
     "teacher": "羅芳偉",
     "time": "W9ab-HC501[GF]"
   },
-  "1121_534809": {
-    "code": "HSIM30038",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "534809",
-    "memo": "",
-    "name": "即時數位影音合成一 Real-time Digital Audio-visual Synthesis I",
-    "num_limit": "15",
-    "reg_num": "3",
-    "teacher": "董昭民",
-    "time": "W78-CCB27[GF]"
-  },
   "1121_534810": {
     "code": "HSIM30035",
     "credit": "2.00",
@@ -24861,7 +24873,7 @@
     "num_limit": "15",
     "reg_num": "1",
     "teacher": "董昭民",
-    "time": "R89-CCB27[GF]"
+    "time": "W78-CCB27[GF]"
   },
   "1121_535100": {
     "code": "EEEE30025",
@@ -26924,7 +26936,7 @@
     "name": "先進電子構裝技術 Advanced Electronic Packaging Technology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "陳俊豪",
     "time": "F567-EE116[GF]"
   },
   "1121_535951": {
@@ -28688,7 +28700,7 @@
     "name": "量子力學(一) Quantum Mechanics (I)",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "寺西慶哲",
+    "teacher": "梁興弛",
     "time": "T789-SC157[GF]"
   },
   "1121_536951": {
@@ -30428,7 +30440,7 @@
     "name": "半導體物理及元件 Semiconductor Physics and Devices",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "梁耕僑",
     "time": "M567-A310[GF]"
   },
   "1121_539009": {
@@ -33031,7 +33043,7 @@
     "memo": "課程不開放加簽",
     "name": "健康心理與壓力因應 Health Psychology and Stress Copings",
     "num_limit": "35",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "程千芳",
     "time": "T56-YT202[YM]"
   },
@@ -34099,7 +34111,7 @@
     "memo": "",
     "name": "日文(一) Japanese(I)",
     "num_limit": "45",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "上條純惠",
     "time": "Mab-A503[GF]"
   },
@@ -36259,7 +36271,7 @@
     "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "黃中興",
     "time": "W56-PhE[YM]"
   },

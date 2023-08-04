@@ -15043,7 +15043,7 @@
     "memo": "限管理學院各專班及經管所碩士生",
     "name": "管理個案分析 Analysis of Management Cases",
     "num_limit": "9999",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "楊千",
     "time": "Rabc-TB307[BM]"
   },
@@ -17983,7 +17983,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周三晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "陳立洲",
     "time": "Wabcd-"
   },
@@ -18079,7 +18079,7 @@
     "memo": "A~F班、醫師工程師組。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
     "name": "電子學(一) Electronics (I)",
     "num_limit": "60",
-    "reg_num": "59",
+    "reg_num": "58",
     "teacher": "陳科宏",
     "time": "M78R34-EE102[GF]"
   },
@@ -18115,7 +18115,7 @@
     "memo": "3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
     "name": "電路學 Circuit Theory ",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "蔡嘉明",
     "time": "T34R78-ED201[GF]"
   },
@@ -18235,7 +18235,7 @@
     "memo": "",
     "name": "微分方程 Differential Equation",
     "num_limit": "55",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "鄭裕庭",
     "time": "M34W2-ED203[GF]"
   },
@@ -18355,7 +18355,7 @@
     "memo": "讓剛踏進大學的新生建立正確的學習服務觀念，為未來四年奠立正確的學習觀念，將自己所長發揮出來給社會大眾。\n請同學注意：學生服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習二門服務學習(一)、(二)課程",
     "name": "服務學習 (二) Service Learning II",
     "num_limit": "9999",
-    "reg_num": "91",
+    "reg_num": "90",
     "teacher": "陳福川",
     "time": ""
   },
@@ -18475,7 +18475,7 @@
     "memo": "以電機系學生優先選課。",
     "name": "離散數學 Discrete Mathematics   ",
     "num_limit": "100",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "帥宏翰",
     "time": "Mn56-ED219[GF]"
   },
@@ -18511,7 +18511,7 @@
     "memo": "教室於工程五館EE634",
     "name": "微算機原理與實驗 Principle of Microcomputer",
     "num_limit": "50",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "王宜楷",
     "time": "T56ab-EE634[GF]"
   },
@@ -18535,7 +18535,7 @@
     "memo": "限電機系",
     "name": "資料結構 Data Structure",
     "num_limit": "100",
-    "reg_num": "100",
+    "reg_num": "99",
     "teacher": "黃俊達",
     "time": "W34n-ED116[GF]"
   },
@@ -20012,8 +20012,8 @@
     "name": "有機化學 Organic Chemistry",
     "num_limit": "35",
     "reg_num": "26",
-    "teacher": "待聘",
-    "time": "F567-EE210[GF]"
+    "teacher": "許銘華",
+    "time": "F567-EE112[GF]"
   },
   "1121_516100": {
     "code": "ENME10003",
@@ -20287,7 +20287,7 @@
     "memo": "開2/3/4年級",
     "name": "無人機飛行實作 Unmanned Aerial Vehicles",
     "num_limit": "60",
-    "reg_num": "61",
+    "reg_num": "60",
     "teacher": "劉義強、賴錦文、程登湖",
     "time": "Mabc-EE106[GF]"
   },
@@ -28651,7 +28651,7 @@
     "memo": "[English Medium Course]",
     "name": "數據科學概論 Introduction to Data Science",
     "num_limit": "9999",
-    "reg_num": "121",
+    "reg_num": "120",
     "teacher": "盧鴻興",
     "time": "W567-A102[GF]"
   },
@@ -31903,7 +31903,7 @@
     "memo": "1.與學分班合開 2.限本校在職專班學生選修 3.依資財系網站 https://imf.nycu.edu.tw/ 公告之課程時間表上課。",
     "name": "統計學 Statistics",
     "num_limit": "9999",
-    "reg_num": "3",
+    "reg_num": "2",
     "teacher": "鄧惠文",
     "time": "S567-M101[GF]"
   },
@@ -31927,7 +31927,7 @@
     "memo": "1.與學分班合開 2.限本校在職專班學生選修 3.依資財系網站 https://imf.nycu.edu.tw/ 公告之課程時間表上課。",
     "name": "金融科技 Financial technology",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "戴天時、林智勇、彭文志、黃俊龍、謝文良、林瑞嘉、黃思皓、鄧惠文、黃星華、郭家豪",
     "time": "U234-M101[GF]"
   },
@@ -31939,7 +31939,7 @@
     "memo": "1.與學分班合開 2.限本校在職專班學生選修 3.依資財系網站 https://imf.nycu.edu.tw/ 公告之課程時間表上課。",
     "name": "高科技公司財務個案 Case study of high tech companies",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "鍾惠民、王國強、王燈山",
     "time": "U567-M101[GF]"
   },

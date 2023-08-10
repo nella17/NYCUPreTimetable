@@ -115,7 +115,7 @@
     "memo": "限醫學系學生修課",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "123",
-    "reg_num": "114",
+    "reg_num": "113",
     "teacher": "潘美連",
     "time": "M34-YX216[YM]"
   },
@@ -127,7 +127,7 @@
     "memo": "大堂課與小組討論交替",
     "name": "科學發表與思維 Scientific Presentation and Thinking",
     "num_limit": "144",
-    "reg_num": "120",
+    "reg_num": "119",
     "teacher": "霍德義、黃金洲、陳志彥、林志慶、林邑璁、陳世彬、紀乃方、賴峻毅、詹宇鈞、江晨恩、蘇建維、林堯彬、陳明德、徐德福、劉峻宇、許劭榮",
     "time": "W78-YX216[YM]"
   },
@@ -355,7 +355,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "王琬菁",
     "time": "W34-YX501[YM]"
   },
@@ -5011,7 +5011,7 @@
     "memo": "醫二A,   醫二C, 醫技二, 藥學二合班上課",
     "name": "生物化學 Biochemistry",
     "num_limit": "9999",
-    "reg_num": "198",
+    "reg_num": "197",
     "teacher": "王琬菁、陳美瑜、鄭子豪、黃介嶸、許翺麟、姜為中",
     "time": "R56-,F34-EE105[GF],F34-YX216[YM]"
   },
@@ -5023,7 +5023,7 @@
     "memo": "醫二A",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "80",
-    "reg_num": "62",
+    "reg_num": "61",
     "teacher": "游麗如、徐子涵、王毓瑄、陳美瑜、鄭子豪、郭津岑、許翺麟、許玉璇",
     "time": "M5678-YEC309[YM]"
   },
@@ -7699,7 +7699,7 @@
     "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
     "name": "臨床腦疾病概論 Clinical Introduction to Brain Disease",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "李怡慧、盧俊良、陳世彬、楊智傑、吳昭慶、廖翊筑、李正達、王嚴鋒、劉祐岑",
     "time": "T4-YL839[YM]"
   },
@@ -13903,7 +13903,7 @@
     "memo": "實地線上混合教學課程 (陽明校區：YT304；交大校區：線上，請向教師索取線上連結)",
     "name": "哲學概論 Introduction to Philosophy",
     "num_limit": "20",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "鄭凱元",
     "time": "R34-YT304[YM]"
   },
@@ -14002,6 +14002,18 @@
     "reg_num": "27",
     "teacher": "吳哲硯",
     "time": "T78-YX503[YM]"
+  },
+  "1121_161027": {
+    "code": "GECE00352",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161027",
+    "memo": "",
+    "name": "生命現象探討 Frontiers in Life Sciences",
+    "num_limit": "35",
+    "reg_num": "0",
+    "teacher": "張南驥",
+    "time": "W9a-YX201[YM]"
   },
   "1121_161028": {
     "code": "GECE00155",
@@ -14562,7 +14574,7 @@
     "id": "161074",
     "memo": "",
     "name": "安全衛生通識教育 General Knowledge of Safety Health",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "張榮偉、吳威德",
     "time": "W78-YT104[YM]"
@@ -14611,7 +14623,7 @@
     "memo": "",
     "name": "比較東西方自然哲學與古醫學觀 Comparison of Eastern & Western Natural Philosophy and View of Ancient Medicine",
     "num_limit": "30",
-    "reg_num": "24",
+    "reg_num": "23",
     "teacher": "陳方佩",
     "time": "T34-YT202[YM]"
   },
@@ -36607,7 +36619,7 @@
     "memo": "上課地點:陽明校區活動中心韻律教室/牙醫二限修",
     "name": "體適能 Fitness",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "待聘",
     "time": "F78-PhE[YM]"
   },
@@ -40055,18 +40067,6 @@
     "teacher": "王志嘉",
     "time": "M34F2-"
   },
-  "1121_910110": {
-    "code": "SESE20238",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910110",
-    "memo": "上課地點在國防理工",
-    "name": "污染防治 Pollution Control",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "李金樹",
-    "time": "M34T1-"
-  },
   "1121_910111": {
     "code": "SESE20079",
     "credit": "1.00",
@@ -40076,7 +40076,7 @@
     "name": "火炸藥專題實作(3) Special Project on Explosive(3)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "楊琮貿",
+    "teacher": "李金樹",
     "time": "M678-"
   },
   "1121_910112": {
@@ -40196,8 +40196,8 @@
     "name": "火藥學(1) Explosives(I)",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "楊琮貿",
-    "time": "M34T8-"
+    "teacher": "李金樹",
+    "time": "M34R4-"
   },
   "1121_910122": {
     "code": "SESE10086",
@@ -40352,7 +40352,7 @@
     "name": "單元操作實驗(1) Unit Operation Lab.(I)",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "楊琮貿",
+    "teacher": "李金樹",
     "time": "R123-"
   },
   "1121_910135": {

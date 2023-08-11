@@ -2216,7 +2216,7 @@
     "name": "調劑學 Dispensing Pharmacy",
     "num_limit": "9999",
     "reg_num": "36",
-    "teacher": "東雅惠、姜紹青、黃劍銘、許嘉芬、簡美如、周千瀅、劉佩宜、陳美鈴、何沁沁、郭健文、郭雅惠、梁雅富",
+    "teacher": "陳謄州、姜紹青、黃劍銘、許嘉芬、簡美如、周千瀅、劉佩宜、陳美鈴、何沁沁、郭健文、郭雅惠、梁雅富",
     "time": "M78-YR105[YM]"
   },
   "1121_111905": {
@@ -2252,7 +2252,7 @@
     "name": "藥事行政法規 Pharmacy Administration and Pharmacy Law",
     "num_limit": "40",
     "reg_num": "34",
-    "teacher": "許銘能、陳映樺、蔡文瑛、張連成、陳文雯、林美智、林修德、江仟琦、連恆榮、洪肇宏",
+    "teacher": "許銘能、戴雪詠、陳映樺、蔡文瑛、張連成、陳文雯、林美智、林修德、江仟琦、洪肇宏",
     "time": "R34-YR105[YM]"
   },
   "1121_111908": {
@@ -5287,7 +5287,7 @@
     "memo": "本課程為應考公共衛生師指定修習科目",
     "name": "生物統計學 Biostatistics",
     "num_limit": "60",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "陳瓊梅",
     "time": "M34-YB624[YM]"
   },
@@ -6560,7 +6560,7 @@
     "name": "中藥概論 Introduction to Chinese Materia Medica",
     "num_limit": "70",
     "reg_num": "28",
-    "teacher": "陳日榮、沈雅敬、翁芸芳、蔡忠志、廖家慶",
+    "teacher": "陳日榮、盧美光、翁芸芳、蔡忠志、廖家慶、鄭銘仁",
     "time": "T34-YK533[YM]"
   },
   "1121_130601": {
@@ -8588,7 +8588,7 @@
     "name": "安寧緩和療護 Palliative care",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "吳孟嬪、穆佩芬、林承霈、黃勝堅、孫文榮",
+    "teacher": "吳孟嬪、穆佩芬、林承霈、黃勝堅、孫文榮、李俊秀",
     "time": "F9a-YN416[YM]"
   },
   "1121_131713": {
@@ -8948,7 +8948,7 @@
     "name": "衛生行政與健康保險 Health Policy and Health Insurance",
     "num_limit": "35",
     "reg_num": "36",
-    "teacher": "許銘能、吳肖琪、李玉春、楊靖慧、黃彥芳、廖薰香、蔡淑鈴、吳全峰、張淑卿、廖家鼎、李巧玲",
+    "teacher": "許銘能、吳肖琪、李玉春、楊靖慧、黃彥芳、廖薰香、蔡淑鈴、祝健芳、吳全峰、劉玉菁",
     "time": "R56-YK533[YM]"
   },
   "1121_132008": {
@@ -8960,7 +8960,7 @@
     "name": "高等藥物治療學 Advanced Pharmacotherapy",
     "num_limit": "40",
     "reg_num": "31",
-    "teacher": "張豫立、楊振昌、張世霖、林邑璁、張瑞文、姜紹青、賴峻毅、陳育民、蘇建維、曾令民、蘇東平、陳肇文、朱佩欣、王苾如、唐德成、高志平、宋思賢、王嚴鋒、許百豐、陳香齡、宋俊松、蘇剛正、周建成、楊凱鈞、陳寬軒、童聖鈞、余聲隆、陳柏瑋、翁如潔、吳建興、黃瑩瑀、樊心蓉、林子超、許櫻寶、王笙帆、盧孟穗、陳俊豪、鄭乃銘、黃鈴茹、江東鴻、王浩元、蔣漢琳、楊子涵、陳佳慧、林家潔、王明業、黃聿璿、盧志嘉、王怡凱、吳汶儒、許越涵、趙凡琇、林韋綺、李珮甄、馮嘉毅、劉峻宇、黃逸修、曾偉誠",
+    "teacher": "張豫立、楊振昌、張世霖、林邑璁、張瑞文、姜紹青、賴峻毅、陳育民、蘇建維、曾令民、蘇東平、陳肇文、朱佩欣、王苾如、唐德成、高志平、宋思賢、王嚴鋒、許百豐、陳香齡、宋俊松、蘇剛正、周建成、楊凱鈞、陳寬軒、童聖鈞、余聲隆、陳柏瑋、翁如潔、吳建興、黃瑩瑀、樊心蓉、林子超、許櫻寶、王笙帆、盧孟穗、張立人、陳俊豪、鄭乃銘、黃鈴茹、江東鴻、王浩元、蔣漢琳、何沁沁、楊子涵、林于瑄、林家潔、王明業、盧志嘉、王怡凱、吳汶儒、許越涵、林韋綺、李珮甄、黃偉倫、馮嘉毅、劉峻宇、黃逸修、曾偉誠",
     "time": "M567-YL405[YM],W567-YR105[YM]"
   },
   "1121_132009": {
@@ -14286,7 +14286,7 @@
     "id": "161050",
     "memo": "",
     "name": "科技與社會導論 Introduction to Science and Technology Studies",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "4",
     "teacher": "陳嘉新",
     "time": "F34-YT206[YM]"
@@ -14298,7 +14298,7 @@
     "id": "161051",
     "memo": "",
     "name": "數位傳播概論 Digital  Media and Society",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "4",
     "teacher": "彭懷恩",
     "time": "F34-YT104[YM]"
@@ -14310,7 +14310,7 @@
     "id": "161052",
     "memo": "",
     "name": "永續治理 Governance for Sustenbility",
-    "num_limit": "20",
+    "num_limit": "40",
     "reg_num": "20",
     "teacher": "李河清",
     "time": "R56-YT202[YM]"
@@ -14322,7 +14322,7 @@
     "id": "161053",
     "memo": "視訊同步遠距課程 (陽明校區：YT301；交大校區：CS100)",
     "name": "翻轉管理學 A Critical Understanding of Management",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "徐詩偉",
     "time": "F56-CS100[GF],F56-YT301[YM]"
@@ -14334,7 +14334,7 @@
     "id": "161054",
     "memo": "",
     "name": "政治學 Political Science",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "彭懷恩",
     "time": "F56-YT104[YM]"
@@ -14346,7 +14346,7 @@
     "id": "161055",
     "memo": "",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
-    "num_limit": "10",
+    "num_limit": "20",
     "reg_num": "9",
     "teacher": "徐詩偉、洪紹洋",
     "time": "F78-YX202[YM]"
@@ -14358,7 +14358,7 @@
     "id": "161056",
     "memo": "",
     "name": "歷代文選 Readings of Selected Chinese Literature",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "11",
     "teacher": "賈元圓",
     "time": "M12-YT205[YM]"
@@ -14370,7 +14370,7 @@
     "id": "161057",
     "memo": "",
     "name": "歷代文選 Readings of Selected Chinese Literature",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "9",
     "teacher": "賈元圓",
     "time": "M34-YT205[YM]"
@@ -14394,7 +14394,7 @@
     "id": "161059",
     "memo": "",
     "name": "人腦心智運作與歷程 introduction to cognitive neuroscience and its methodology",
-    "num_limit": "20",
+    "num_limit": "40",
     "reg_num": "19",
     "teacher": "郭文瑞",
     "time": "T12-YL402[YM]"
@@ -14406,7 +14406,7 @@
     "id": "161060",
     "memo": "",
     "name": "歷史與現代世界 History and the Modern World",
-    "num_limit": "20",
+    "num_limit": "40",
     "reg_num": "18",
     "teacher": "王文基",
     "time": "T12-YT202[YM]"
@@ -14418,7 +14418,7 @@
     "id": "161061",
     "memo": "",
     "name": "環境﹑經濟與社會 Environment, Economy and Society",
-    "num_limit": "20",
+    "num_limit": "40",
     "reg_num": "13",
     "teacher": "錢克綱",
     "time": "T12-YT205[YM]"
@@ -14430,7 +14430,7 @@
     "id": "161062",
     "memo": "",
     "name": "歷代詞曲選 Readings in Tz’u and Ch’u",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "楊芮芳",
     "time": "T12-YT303[YM]"
@@ -14442,7 +14442,7 @@
     "id": "161063",
     "memo": "視訊同步遠距課程 (陽明校區：YX201；交大校區：CS100)",
     "name": "近現代臺灣之語言與文化 The Language and Culture of Taiwan in Its Modern Times",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "3",
     "teacher": "王敬翔",
     "time": "T12-CS100[GF],T12-YX201[YM]"
@@ -14454,7 +14454,7 @@
     "id": "161064",
     "memo": "",
     "name": "面對治不好的病—生命末期照顧的醫學 Palliative Medicine",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "賴允亮",
     "time": "R12-YT104[YM]"
@@ -14466,7 +14466,7 @@
     "id": "161065",
     "memo": "限未修過世界文明課程(永久課號：GECE00173)同學選修",
     "name": "世界文明興起與轉型 The Rise And Transformation of  World  Civilization",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "洪德先",
     "time": "R12-EE129[GF],R12-YT305[YM]"
@@ -14478,7 +14478,7 @@
     "id": "161066",
     "memo": "",
     "name": "日常生活、科技與社會 Technology and Everyday Life",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "秦先玉",
     "time": "R12-YT204[YM]"
@@ -14490,7 +14490,7 @@
     "id": "161067",
     "memo": "視訊同步遠距課程 (陽明校區：YX201；交大校區：CS100)",
     "name": "臺灣政治概論 Introduction to Taiwan Politics",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "12",
     "teacher": "彭立忠",
     "time": "R12-CS100[GF],R12-YX201[YM]"
@@ -14502,7 +14502,7 @@
     "id": "161068",
     "memo": "",
     "name": "生活中的行為科學 Behavior Science in Life",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "林文旭",
     "time": "R12-YX206[YM]"
@@ -14514,7 +14514,7 @@
     "id": "161069",
     "memo": "",
     "name": "東南亞各國經濟、社會與文化 State Economics, Societies and Culture in Southeast Asia",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "8",
     "teacher": "林若雩",
     "time": "R12-YT205[YM]"
@@ -14526,7 +14526,7 @@
     "id": "161070",
     "memo": "[English Medium Course]全英語授課",
     "name": "東亞近現代史 A Modern History of East-asia",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "4",
     "teacher": "嚴曉珮",
     "time": "R56-YT104[YM]"
@@ -14562,7 +14562,7 @@
     "id": "161073",
     "memo": "[English Medium Course]全英語授課",
     "name": "近代科技之文化影響 The Cultural Effects of Recent Technology",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "4",
     "teacher": "霍弘毅",
     "time": "W9a-YX503[YM]"
@@ -14598,7 +14598,7 @@
     "id": "161076",
     "memo": "",
     "name": "現代國際經濟議題 The Modern International Economic Topics",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "曾憲政",
     "time": "T78-YT301[YM]"
@@ -14610,7 +14610,7 @@
     "id": "161077",
     "memo": "視訊同步遠距課程 (陽明校區：YT301；交大校區：CS100)\n",
     "name": "智慧財產權導論 Introduction to intellectual property right",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "王世仁",
     "time": "T34-CS100[GF],T34-YT301[YM]"
@@ -14622,7 +14622,7 @@
     "id": "161078",
     "memo": "",
     "name": "比較東西方自然哲學與古醫學觀 Comparison of Eastern & Western Natural Philosophy and View of Ancient Medicine",
-    "num_limit": "30",
+    "num_limit": "60",
     "reg_num": "23",
     "teacher": "陳方佩",
     "time": "T34-YT202[YM]"
@@ -14634,7 +14634,7 @@
     "id": "161079",
     "memo": "",
     "name": "電影與文學 Cinema and Literature",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "楊芮芳",
     "time": "T34-YT303[YM]"
@@ -14646,7 +14646,7 @@
     "id": "161080",
     "memo": "112-1學期採行線上教學，請向教師索取線上連結。",
     "name": "民法生活百科 Encyclopedia of the Civil Law",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "劉俊良",
     "time": "T34-"
@@ -36200,7 +36200,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳厚諭",
+    "teacher": "魏豐閔",
     "time": "T56-PhE[YM]"
   },
   "1121_563126": {
@@ -36224,7 +36224,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "徐煒杰",
+    "teacher": "林昭光",
     "time": "M56-PhE[YM]"
   },
   "1121_563128": {
@@ -36260,7 +36260,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "魏豐閔",
     "time": "W78-PhE[YM]"
   },
   "1121_563131": {
@@ -36296,7 +36296,7 @@
     "name": "體適能 Fitness",
     "num_limit": "30",
     "reg_num": "8",
-    "teacher": "待聘",
+    "teacher": "徐煒杰",
     "time": "M12-PhE[YM]"
   },
   "1121_563134": {
@@ -36392,7 +36392,7 @@
     "name": "排球 Volleyball",
     "num_limit": "30",
     "reg_num": "30",
-    "teacher": "待聘",
+    "teacher": "魏豐閔",
     "time": "M78-PhE[YM]"
   },
   "1121_563142": {
@@ -36440,7 +36440,7 @@
     "name": "網球 Tennis",
     "num_limit": "30",
     "reg_num": "26",
-    "teacher": "待聘",
+    "teacher": "魏豐閔",
     "time": "W12-PhE[YM]"
   },
   "1121_563146": {
@@ -36464,7 +36464,7 @@
     "name": "足球 Soccer",
     "num_limit": "30",
     "reg_num": "11",
-    "teacher": "徐煒杰",
+    "teacher": "林昭光",
     "time": "W12-PhE[YM]"
   },
   "1121_563148": {
@@ -36536,7 +36536,7 @@
     "name": "游泳 swim",
     "num_limit": "30",
     "reg_num": "13",
-    "teacher": "待聘",
+    "teacher": "魏豐閔",
     "time": "R34-PhE[YM]"
   },
   "1121_563154": {
@@ -36620,7 +36620,7 @@
     "name": "體適能 Fitness",
     "num_limit": "30",
     "reg_num": "39",
-    "teacher": "待聘",
+    "teacher": "魏豐閔",
     "time": "F78-PhE[YM]"
   },
   "1121_564000": {
@@ -37508,7 +37508,7 @@
     "name": "普通生物學(一) General Biology(I)",
     "num_limit": "90",
     "reg_num": "24",
-    "teacher": "林勇欣、莊碧簪、蘇昱誠",
+    "teacher": "林勇欣、邱光裕、蘇昱誠",
     "time": "Wn56-SA320[GF]"
   },
   "1121_567003": {

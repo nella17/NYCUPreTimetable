@@ -1472,7 +1472,7 @@
     "name": "兒童牙科學 Pediatric Dentistry  ",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "劉正芬、施文宇、王敏靜、莊麗娟、陳亮如、蔡宜峰、林雅文、陳瓊芬、謝春怡",
+    "teacher": "劉正芬、施文宇、陳亮如、王敏靜、莊麗娟、蔡宜峰、林雅文、陳瓊芬、謝春怡",
     "time": "R34-YD210[YM]"
   },
   "1121_111513": {
@@ -1484,7 +1484,7 @@
     "name": "兒童牙科學實驗 Pediatric Dentistry lab.",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "劉正芬、施文宇、王敏靜、莊麗娟、陳亮如、蔡宜峰、林雅文、陳瓊芬、謝春怡",
+    "teacher": "劉正芬、施文宇、陳亮如、王敏靜、莊麗娟、蔡宜峰、林雅文、陳瓊芬、謝春怡",
     "time": "T56-YD202[YM]"
   },
   "1121_111514": {
@@ -1628,7 +1628,7 @@
     "name": "內科學概論 Introduction to Internal Medicine",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "黃怡翔、陳涵栩、陳志強、胡啟民、王嚴鋒、陳瑋昇、陳俊宇、何莉櫻、賴建志、阮志翰、蔡淳光、何翊芯、吳政億、黃金洲、馮嘉毅、許劭榮",
+    "teacher": "黃怡翔、黃金洲、陳涵栩、陳志強、胡啟民、王嚴鋒、陳瑋昇、陳俊宇、何莉櫻、賴建志、阮志翰、蔡淳光、何翊芯、吳政億、馮嘉毅、許劭榮",
     "time": "T34-YD214[YM]"
   },
   "1121_111526": {
@@ -1676,7 +1676,7 @@
     "name": "循環學 Circulation",
     "num_limit": "50",
     "reg_num": "38",
-    "teacher": "林彥璋、胡瑜峰、盧澤民、羅文良、許喬博、施俊哲、余文鍾、吳道正、宋思賢、許百豐、鐘法博、李必昌、吳承學、陳素真、張俊欽、劉至民、吳政億、蔡泉財、黃金洲",
+    "teacher": "林彥璋、胡瑜峰、黃金洲、宋思賢、盧澤民、羅文良、許喬博、施俊哲、余文鍾、吳道正、許百豐、鐘法博、李必昌、吳承學、陳素真、張俊欽、劉至民、吳政億、蔡泉財",
     "time": "M5-YT304[YM]"
   },
   "1121_111530": {
@@ -1760,7 +1760,7 @@
     "name": "局部贗復學 Removable Partial Denture Prosthodontics",
     "num_limit": "50",
     "reg_num": "45",
-    "teacher": "許明倫、耿藝文、張景智、陳岱茜、張志麟、陳正毅、謝旻杰",
+    "teacher": "許明倫、耿藝文、張景智、陳岱茜、張志麟、謝旻杰、陳正毅",
     "time": "W12-YD210[YM]"
   },
   "1121_111537": {
@@ -1772,7 +1772,7 @@
     "name": "局部贋復學實驗 Removable Partial Denture Prosthodontics Lab.",
     "num_limit": "50",
     "reg_num": "45",
-    "teacher": "許明倫、林嘉澍、耿藝文、張景智、張志麟、林慧觀、張采宇、楊博雅、黃籌永、謝旻杰",
+    "teacher": "許明倫、林嘉澍、耿藝文、張景智、張志麟、謝旻杰、林慧觀、張采宇、楊博雅、黃籌永",
     "time": "M123456789-YD210[YM]"
   },
   "1121_111538": {
@@ -4867,7 +4867,7 @@
     "memo": "大三導師時間，時間地點另行安排",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "李曉暉、陳燕彰、可文亞、李敏嘉、袁維謙",
     "time": ""
   },
@@ -5764,7 +5764,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "130106",
-    "memo": "[English Medium Course]開放大學部選修。實地線上混合教學課程 (陽明校區：YR101；交大校區：線上，請向教師索取線上連結)",
+    "memo": "[English Medium Course]開放大學部選修。實地線上混合教學課程 (陽明校區：YR101；交大校區：線上，請加入https://classroom.google.com/c/NjE3OTk2NDgyODk4?cjc=ono2nij後點選google meet)",
     "name": "生醫科學與藥物發展的新知與前瞻 New frontiers in biomedical sciences and pharmaceutical development",
     "num_limit": "9999",
     "reg_num": "11",
@@ -29182,6 +29182,18 @@
     "reg_num": "7",
     "teacher": "郭國泰",
     "time": "Fabc-M104[GF]"
+  },
+  "1121_537023": {
+    "code": "MGMS30124",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "537023",
+    "memo": "上課教室:M210",
+    "name": "公司財務實證分析(一) Empirical Analyses on Corporate  Finance (I)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳宗岡",
+    "time": "W678-"
   },
   "1121_537153": {
     "code": "MGBA30006",

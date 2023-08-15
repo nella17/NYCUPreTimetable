@@ -179,18 +179,6 @@
     "teacher": "凌憬峰",
     "time": "W34-YT304[YM]"
   },
-  "1121_110007": {
-    "code": "MDMD10032",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "110007",
-    "memo": "導師時間",
-    "name": "心靈成長(一) Spiritual Growth Ⅰ",
-    "num_limit": "15",
-    "reg_num": "0",
-    "teacher": "許仁毓",
-    "time": "W34-YT304[YM]"
-  },
   "1121_110008": {
     "code": "MDMD10032",
     "credit": "1.00",
@@ -1064,7 +1052,7 @@
     "name": "行醫醫定行 Introduction to Rural Health Care",
     "num_limit": "0",
     "reg_num": "0",
-    "teacher": "醫學系",
+    "teacher": "凌憬峰、楊令瑀、阮琪昌、張原翊",
     "time": ""
   },
   "1121_110082": {
@@ -2372,7 +2360,7 @@
     "name": "藥物治療學 Pharmacotherapy",
     "num_limit": "40",
     "reg_num": "36",
-    "teacher": "姜紹青、陳涵栩、陽光耀、胡啟民、蔡長祐、鄧豪偉、余文鍾、陳克華、李懿宬、許百豐、劉慕恩、陳瑋昇、蘇剛正、陳夙容、劉力幗、王怡晴、陳寬軒、常宏傳、李政源、王彥博、張齡方、黃思瑩、陳美瑜、胡晉嘉、林于瑄、施立于、林聖凰、紀兆寧、胡藜方、陳慶鴻、趙凡琇、李蕎安、林依儂、陳筱莉、黃凱琳、楊家瑞",
+    "teacher": "姜紹青、陳涵栩、陽光耀、蔡長祐、鄧豪偉、余文鍾、陳克華、李懿宬、許百豐、劉慕恩、陳瑋昇、蘇剛正、陳夙容、劉力幗、黃君睿、王怡晴、陳寬軒、常宏傳、李政源、王彥博、張齡方、黃思瑩、陳美瑜、胡晉嘉、林于瑄、施立于、林聖凰、紀兆寧、胡藜方、陳慶鴻、趙凡琇、林依儂、黃凱琳、張沁靈、于慧慈、楊家瑞",
     "time": "W567-YL402[YM],R567-YR101[YM]"
   },
   "1121_111910": {
@@ -2396,7 +2384,7 @@
     "name": "藥品資訊與分析 Drug Information and Analysis",
     "num_limit": "40",
     "reg_num": "36",
-    "teacher": "東雅惠、王慧恆、許家禎、周千瀅、李婉詩、楊子涵、呂宛真",
+    "teacher": "東雅惠、王慧恆、許家禎、周千瀅、翁如潔、李婉詩、楊子涵、呂宛真",
     "time": "T34-YL401[YM]"
   },
   "1121_111912": {
@@ -2420,7 +2408,7 @@
     "name": "社區藥學 Introduction to Community Pharmacy",
     "num_limit": "30",
     "reg_num": "31",
-    "teacher": "姜紹青、許銘能、王明媛、邱建強、陳宜萱、鄭任翔、周佳賢、龍正軒、曾冠燁、潘美貝",
+    "teacher": "姜紹青、許銘能、王明媛、邱建強、張文靜、陳宜萱、周佳賢、龍正軒、曾冠燁、潘美貝",
     "time": "M34-YR101[YM]"
   },
   "1121_111914": {
@@ -2432,7 +2420,7 @@
     "name": "非處方藥學 Non-Prescription Therapeutics",
     "num_limit": "30",
     "reg_num": "31",
-    "teacher": "姜紹青、鄭文柏、陳昭姿、何暐、周子鈞、鄭任翔、周佳賢、龍正軒、鄭凱文、曾冠燁、潘美貝",
+    "teacher": "姜紹青、鄭文柏、陳昭姿、何暐、周子鈞、周佳賢、龍正軒、鄭凱文、郭雅芝、曾冠燁、潘美貝",
     "time": "T56-YR105[YM]"
   },
   "1121_111916": {
@@ -2828,7 +2816,7 @@
     "name": "生技醫學講座 Biotechnology and Biomedical Seminar",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "黃尉倫、張佩靖、陳斯婷、簡千栩、洪小雅、藍昇輝、許凱程、陳培哲、洪瑞祥、黃麗蓉",
+    "teacher": "黃尉倫、張佩靖、陳斯婷、簡千栩、洪小雅、藍昇輝、許凱程、陳培哲、洪瑞祥、黃麗蓉、陳之碩",
     "time": "Tn-YB100[YM]"
   },
   "1121_112014": {
@@ -5359,7 +5347,7 @@
     "memo": "本課程為應考公共衛生師指定修習科目",
     "name": "生物統計學 Biostatistics",
     "num_limit": "60",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "陳瓊梅",
     "time": "M34-YB624[YM]"
   },
@@ -6680,7 +6668,7 @@
     "name": "中醫學概論 Introduction of Traditional Chinese Medicine",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "陳方佩",
+    "teacher": "張清貿",
     "time": "R56-YR104[YM]"
   },
   "1121_130606": {
@@ -6824,7 +6812,7 @@
     "name": "社會科學與行為原理 Social science & Behavioral Science",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "喬芷、藍祚運、陳信任、林文旭、陳翎",
+    "teacher": "喬芷、陳信任、林文旭、陳翎、藍祚運",
     "time": "W34-YN613[YM]"
   },
   "1121_130704": {
@@ -6992,7 +6980,7 @@
     "name": "環境與職業衛生的趨勢與展望(一) The Trend and Future Perspective of Environmental and Occupational Health Sciences (1)",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "潘文驥、楊振昌、陳美蓮、郭憲文、余國賓、紀凱獻、黃鈺芳、張榮偉、李旻軒",
+    "teacher": "潘文驥、楊振昌、陳美蓮、余國賓、紀凱獻、黃鈺芳、張榮偉、李旻軒",
     "time": "T34-YX501[YM]"
   },
   "1121_130806": {
@@ -7004,7 +6992,7 @@
     "name": "環境與職業衛生的趨勢與展望(三) The Trend and Future Perspective of Environmental and Occupational Health Sciences (3)",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "潘文驥、楊振昌、陳美蓮、郭憲文、余國賓、紀凱獻、黃鈺芳、張榮偉、李旻軒",
+    "teacher": "潘文驥、楊振昌、陳美蓮、余國賓、紀凱獻、黃鈺芳、張榮偉、李旻軒",
     "time": "T34-YX501[YM]"
   },
   "1121_130807": {
@@ -7088,7 +7076,7 @@
     "name": "職業衛生管理 Occupational health management",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃鈺芳、郭憲文",
+    "teacher": "黃鈺芳",
     "time": "W34-YS105[YM]"
   },
   "1121_130817": {
@@ -7100,7 +7088,7 @@
     "name": "暴露評估 Exposure Assessment",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "黃鈺芳、郭憲文、張榮偉",
+    "teacher": "黃鈺芳、張榮偉",
     "time": "W78-YS105[YM]"
   },
   "1121_130818": {
@@ -7172,7 +7160,7 @@
     "name": "環境衛生學 Environmental Health",
     "num_limit": "9999",
     "reg_num": "22",
-    "teacher": "紀凱獻、郭憲文、余國賓、張榮偉、林怡君、劉宗榮、鄒瀚興",
+    "teacher": "紀凱獻、余國賓、張榮偉、林怡君、劉宗榮、鄒瀚興",
     "time": "R34-YT203[YM]"
   },
   "1121_130824": {
@@ -7771,7 +7759,7 @@
     "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
     "name": "臨床腦疾病概論 Clinical Introduction to Brain Disease",
     "num_limit": "9999",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "李怡慧、盧俊良、陳世彬、楊智傑、吳昭慶、廖翊筑、李正達、王嚴鋒、劉祐岑",
     "time": "T4-YL839[YM]"
   },
@@ -8816,7 +8804,7 @@
     "name": "生物藥學研究方法 Research Methods in Bio-Pharmaceutical Sciences",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃奇英、游麗如、蘇瑀、何國牟、張牧新、金翠庭",
+    "teacher": "黃奇英、胡瑜峰、游麗如、蘇瑀、何國牟、張牧新、金翠庭",
     "time": "T34-YC101[YM]"
   },
   "1121_131901": {
@@ -8828,7 +8816,7 @@
     "name": "分子生物學在藥物開發的應用 Molecular Biology in Pharmaceutical Sciences",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "金翠庭、蘇瑀、劉俊煌、何國牟、張牧新、曾才郁",
+    "teacher": "金翠庭、蘇瑀、何國牟、張牧新、曾才郁",
     "time": "M34-YC101[YM]"
   },
   "1121_131902": {
@@ -8852,7 +8840,7 @@
     "name": "生物藥學專題討論 Biopharmaceutical Sciences Seminar",
     "num_limit": "9999",
     "reg_num": "17",
-    "teacher": "金翠庭、蘇瑀、黃奇英、劉俊煌、何國牟、張牧新",
+    "teacher": "金翠庭、蘇瑀、黃奇英、何國牟、張牧新",
     "time": "T12-YC101[YM]"
   },
   "1121_131906": {
@@ -8876,7 +8864,7 @@
     "name": "新藥開發專題討論 Seminar on Drug Discovery",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "黃奇英、蘇瑀、蕭崇瑋、劉俊煌、何國牟、張牧新、金翠庭",
+    "teacher": "黃奇英、蘇瑀、何國牟、張牧新、金翠庭",
     "time": "R56-YC101[YM]"
   },
   "1121_131908": {
@@ -8900,7 +8888,7 @@
     "name": "尖端生物技術在生技新藥開發的應用 Application of Advanced Biotechnology to the Botanical and Pharmaceutical Development",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "金翠庭、蘇瑀、林照雄、何國牟、張牧新",
+    "teacher": "金翠庭、胡瑜峰、蘇瑀、林照雄、何國牟、張牧新",
     "time": "Myz-YC101[YM]"
   },
   "1121_131910": {
@@ -8912,7 +8900,7 @@
     "name": "藥物開發的新趨勢 New Trends in Drug Development",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "張牧新、蘇瑀、劉俊煌、何國牟、金翠庭",
+    "teacher": "張牧新、胡瑜峰、蘇瑀、何國牟、金翠庭",
     "time": "Tyz-YC101[YM]"
   },
   "1121_131911": {
@@ -8924,7 +8912,7 @@
     "name": "生物藥學實驗技術 Experimental techniques for modern biopharmaceutical sciences",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃奇英、蘇瑀、蕭崇瑋、劉俊煌、何國牟、張牧新、金翠庭",
+    "teacher": "黃奇英、蘇瑀、何國牟、張牧新、金翠庭",
     "time": "Wyz-YC101[YM]"
   },
   "1121_132000": {
@@ -9020,7 +9008,7 @@
     "name": "衛生行政與健康保險 Health Policy and Health Insurance",
     "num_limit": "35",
     "reg_num": "36",
-    "teacher": "許銘能、吳肖琪、李玉春、楊靖慧、黃彥芳、廖薰香、蔡淑鈴、祝健芳、吳全峰、劉玉菁",
+    "teacher": "許銘能、吳肖琪、李玉春、楊靖慧、黃彥芳、廖薰香、蔡淑鈴、祝健芳、吳全峰、劉玉菁、李佩芸",
     "time": "R56-YK533[YM]"
   },
   "1121_132008": {
@@ -9032,7 +9020,7 @@
     "name": "高等藥物治療學 Advanced Pharmacotherapy",
     "num_limit": "40",
     "reg_num": "31",
-    "teacher": "張豫立、楊振昌、張世霖、林邑璁、張瑞文、姜紹青、賴峻毅、陳育民、蘇建維、曾令民、蘇東平、陳肇文、朱佩欣、王苾如、唐德成、高志平、宋思賢、王嚴鋒、許百豐、陳香齡、宋俊松、蘇剛正、周建成、楊凱鈞、陳寬軒、童聖鈞、余聲隆、陳柏瑋、翁如潔、吳建興、黃瑩瑀、樊心蓉、林子超、許櫻寶、王笙帆、盧孟穗、張立人、陳俊豪、鄭乃銘、黃鈴茹、江東鴻、王浩元、蔣漢琳、何沁沁、楊子涵、林于瑄、林家潔、王明業、盧志嘉、王怡凱、吳汶儒、許越涵、林韋綺、李珮甄、黃偉倫、馮嘉毅、劉峻宇、黃逸修、曾偉誠",
+    "teacher": "張豫立、楊振昌、張世霖、林邑璁、宋思賢、張瑞文、姜紹青、賴峻毅、陳育民、蘇建維、曾令民、蘇東平、陳肇文、朱佩欣、王苾如、唐德成、高志平、王嚴鋒、許百豐、陳香齡、宋俊松、蘇剛正、周建成、楊凱鈞、陳寬軒、童聖鈞、余聲隆、陳柏瑋、翁如潔、吳建興、黃瑩瑀、樊心蓉、林子超、許櫻寶、王笙帆、盧孟穗、張立人、陳俊豪、鄭乃銘、黃鈴茹、江東鴻、王浩元、蔣漢琳、何沁沁、楊子涵、林于瑄、林家潔、王明業、盧志嘉、王怡凱、吳汶儒、許越涵、林韋綺、李珮甄、黃偉倫、馮嘉毅、劉峻宇、黃逸修、曾偉誠",
     "time": "M567-YL405[YM],W567-YR105[YM]"
   },
   "1121_132009": {
@@ -9056,7 +9044,7 @@
     "name": "用藥安全與醫藥政策特論 Medication Safety and Medical Policy",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "張豫立、陳育群、李偉強、黃以信、李友專、余萬能、陳德禮、許家禎、周千瀅、陳寬軒、王笙帆、朱慶榮、蔡維禎、何沁沁、王怡凱",
+    "teacher": "張豫立、陳育群、李偉強、黃以信、李友專、余萬能、陳德禮、許家禎、周千瀅、陳寬軒、王笙帆、蔡維禎、何沁沁、王怡凱、邱睦涵",
     "time": "T34-"
   },
   "1121_132011": {
@@ -9092,7 +9080,7 @@
     "name": "臨床藥學專科實習(二) Clinical Pharmacy Practice (Ⅱ)",
     "num_limit": "30",
     "reg_num": "7",
-    "teacher": "張豫立、陳涵栩、王培寧、蔡佩君、王復德、彭殿王、陳明晃、周月卿、王鑑瀛、陳明德、周中偉、趙大中、宋俊松、關尚勇、吳承學、鄒嘉玲、黃偉銘、許家禎、周千瀅、陳寬軒、王笙帆、陳倩、黃鈴茹、江東鴻、周睿信、王怡凱、黃金洲",
+    "teacher": "張豫立、黃金洲、陳涵栩、王培寧、蔡佩君、王復德、彭殿王、陳明晃、周月卿、王鑑瀛、陳明德、周中偉、趙大中、宋俊松、關尚勇、吳承學、鄒嘉玲、黃偉銘、許家禎、周千瀅、陳寬軒、王笙帆、陳倩、黃鈴茹、江東鴻、周睿信、王怡凱",
     "time": "MnTnWnRnFn-"
   },
   "1121_132014": {
@@ -9440,7 +9428,7 @@
     "name": "專題討論 Seminar",
     "num_limit": "72",
     "reg_num": "10",
-    "teacher": "廖伯霖、林照雄、楊振昌、蔡東湖、陳美蓮、林滿玉、林逸芬、范玫芳、黃雪莉、康照洲、楊登傑、林奇宏、倪貴榮、林宜平、王湘翠、魏國晋、林怡君、許銘能、蔡文城、林嬪嬪、劉宗榮、何其儻、潘志寬、鄭幼文、梁恭豪、劉文勝、王夢蓮、劉君豪、黃鈺芳、鄒瀚興、賴盈宏",
+    "teacher": "廖伯霖、林照雄、楊振昌、蔡東湖、陳美蓮、林滿玉、林逸芬、范玫芳、黃雪莉、康照洲、楊登傑、林奇宏、倪貴榮、黃鈺芳、林宜平、王湘翠、魏國晋、林怡君、許銘能、蔡文城、林嬪嬪、劉宗榮、何其儻、潘志寬、鄭幼文、梁恭豪、劉文勝、王夢蓮、劉君豪、鄒瀚興、賴盈宏",
     "time": "F56-YL402[YM]"
   },
   "1121_132115": {
@@ -12859,7 +12847,7 @@
     "memo": "",
     "name": "群體健康實證措施發展 Development of Evidence-based Practices for Enhancing Population Health (practicum)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "童恒新、孫秀卿、穆佩芬",
     "time": "F12345678-"
   },
@@ -12871,7 +12859,7 @@
     "memo": "",
     "name": "臨床實證措施應用與評值 Clinical evidence-based intervention and ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "童恒新、穆佩芬",
     "time": "F12345678-"
   },
@@ -12884,7 +12872,7 @@
     "name": "醫藥化學(一) Medicinal Chemistry (1)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "蘇瑀、林滿玉、蕭崇瑋、胡德民、陳日榮、張牧新、金翠庭、蘇東平、翁芸芳",
+    "teacher": "蘇瑀、林滿玉、胡德民、陳日榮、張牧新、金翠庭、蘇東平、翁芸芳、林彥竹",
     "time": "T56-YC101[YM]"
   },
   "1121_141601": {
@@ -12896,7 +12884,7 @@
     "name": "新藥開發特論(二) Special Topics on Drug Discovery (II)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃奇英、蘇瑀、蕭崇瑋、劉俊煌、何國牟、張牧新、金翠庭",
+    "teacher": "黃奇英、胡瑜峰、蘇瑀、何國牟、張牧新、金翠庭",
     "time": "R56-YC101[YM]"
   },
   "1121_141602": {
@@ -12908,7 +12896,7 @@
     "name": "新藥開發特論(一) Special Topics on Drug Discovery (I)",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "黃奇英、蘇瑀、蕭崇瑋、劉俊煌、何國牟、張牧新、金翠庭",
+    "teacher": "黃奇英、胡瑜峰、蘇瑀、何國牟、張牧新、金翠庭",
     "time": "R56-YC101[YM]"
   },
   "1121_141603": {
@@ -12920,7 +12908,7 @@
     "name": "進階生物藥學專題討論 Advanced Biopharmaceutical Sciences Seminar",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "蘇瑀、黃奇英、蕭崇瑋、劉俊煌、何國牟、張牧新、金翠庭",
+    "teacher": "蘇瑀、胡瑜峰、黃奇英、何國牟、張牧新、金翠庭",
     "time": "T78-YC101[YM]"
   },
   "1121_141700": {
@@ -13687,7 +13675,7 @@
     "memo": "",
     "name": "進階家庭專科護理實習III Advanced Family Nurse Practitioner Practicum III",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "童恒新、商舒婷",
     "time": "R12345678-"
   },
@@ -16326,7 +16314,7 @@
     "id": "410035",
     "memo": "生科系優先、限修過或正在選修微生物學或醫學微生物者",
     "name": "微生物學實驗 Microbiology Lab.",
-    "num_limit": "35",
+    "num_limit": "32",
     "reg_num": "32",
     "teacher": "曾慶平、麥如村",
     "time": "Tn56-SC212[GF]"
@@ -21871,7 +21859,7 @@
     "memo": "",
     "name": "專題研究(二) Research (2)",
     "num_limit": "0",
-    "reg_num": "8",
+    "reg_num": "10",
     "teacher": "鄭彥如",
     "time": "S234-"
   },
@@ -22782,7 +22770,7 @@
     "id": "517902",
     "memo": "視訊同步遠距課程",
     "name": "醫療法律與政策 Medical Law and Policy",
-    "num_limit": "40",
+    "num_limit": "60",
     "reg_num": "40",
     "teacher": "陳鋕雄、吳俊穎、邵之雋",
     "time": "Rab-ES806[GF],Rab-YT301[YM]"
@@ -23380,7 +23368,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "534100",
-    "memo": "[English Medium Course]聽語學程",
+    "memo": "聽語學程",
     "name": "語音學 Phonetics",
     "num_limit": "18",
     "reg_num": "1",
@@ -26875,7 +26863,7 @@
     "memo": "前瞻所丙組核心課程；智能所甲組、丙組選修課程[English Medium Course]",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "9999",
-    "reg_num": "143",
+    "reg_num": "142",
     "teacher": "黃柏蒼",
     "time": "M567-AB101[GF]"
   },
@@ -26971,7 +26959,7 @@
     "memo": "[English Medium Course]",
     "name": "半導體與能源 Semiconductor and Energy",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "蘇育陞",
     "time": "F234-EE130[GF]"
   },
@@ -28787,18 +28775,6 @@
     "teacher": "孟心飛",
     "time": "R56-SC157[GF]"
   },
-  "1121_536952": {
-    "code": "SCIP30044",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "536952",
-    "memo": "1. 英文授課[English Medium Course] 2. 同意社會人士隨班附讀，上限2人 [Allow up to 2 seats for the public to audit the course]\n",
-    "name": "高等量子力學 Advanced Quantum Mechanics",
-    "num_limit": "9999",
-    "reg_num": "2",
-    "teacher": "林及仁",
-    "time": "R789-SC157[GF]"
-  },
   "1121_536953": {
     "code": "SCIP30050",
     "credit": "3.00",
@@ -30307,7 +30283,7 @@
     "memo": "[English Medium Course]\n※限科法博、科法碩及科法專班同學選修\n※須先修過法學英文寫作、法學論文寫作與研究方法",
     "name": "運用AI的法律寫作：技巧、策略與工具 AI-Powered Legal Writing: Techniques, Tactics, and Tools",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "施明遠",
     "time": "W56-MB1069[GF]"
   },
@@ -30331,7 +30307,7 @@
     "memo": "跨校區課程\n開放管院、人社院、客家院同學選修\n修課人數上限︰30人。\n實地線上混合教學課程。\n陽明校區：線上，請向教師索取線上連結。",
     "name": "資通訊科技概論 Introduction to Information Technology",
     "num_limit": "30",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "李界昇",
     "time": "R56-EE206[GF]"
   },
@@ -30643,7 +30619,7 @@
     "memo": "生醫所主開(適用111學年前入學)",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "61",
+    "reg_num": "60",
     "teacher": "生醫工所",
     "time": ""
   },
@@ -32167,7 +32143,7 @@
     "memo": "[English Medium Course]英文授課\n",
     "name": "人權與現代科技發展 Human Rights and the Development of Modern Technology",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "林耕暉",
     "time": "Tabc-"
   },
@@ -32263,7 +32239,7 @@
     "memo": "[English Medium Course]英文授課",
     "name": "智慧財產權與資通訊科技法 Intellectual Property and Information Technology Law",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "劉尚志、陳在方、施明遠、陳豐奇、蔡志宏、黃崧洺",
     "time": "Rab-MB1063[GF]"
   },
@@ -33160,11 +33136,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561054",
-    "memo": "授課老師：白姝玉老師 (聘請中)；資工系、資管系學生宜修習該系之相關大數據課程",
+    "memo": "資工系、資管系學生宜修習該系之相關大數據課程",
     "name": "大數據分析入門與實務研討 Basic and Practice of Big Data Analytics",
     "num_limit": "37",
     "reg_num": "37",
-    "teacher": "待聘",
+    "teacher": "白姝玉",
     "time": "M78-CS-PC2[GF]"
   },
   "1121_561055": {
@@ -35180,7 +35156,7 @@
     "name": "皮拉提斯 Pilates",
     "num_limit": "40",
     "reg_num": "39",
-    "teacher": "黃惠芝",
+    "teacher": "徐卉宣",
     "time": "T78-PE[GF]"
   },
   "1121_563034": {
@@ -35301,18 +35277,6 @@
     "num_limit": "40",
     "reg_num": "33",
     "teacher": "張振興",
-    "time": "T56-PE[GF]"
-  },
-  "1121_563044": {
-    "code": "GEPE10071",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "563044",
-    "memo": "1.體育館B1韻律教室\n2.第一階段開放選課系級：\n百川3\n機械3\n土木3\n資工 3\n電物3\n應數3\n外文3\n生科3\n奈米3",
-    "name": "有氧舞蹈 Aerobic dance",
-    "num_limit": "40",
-    "reg_num": "15",
-    "teacher": "黃惠芝",
     "time": "T56-PE[GF]"
   },
   "1121_563045": {
@@ -36004,7 +35968,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "563102",
-    "memo": "身心障礙或持有醫院證明不宜上一般體育課者，需向體育教育中心申請統一編入「適應體育」上課。",
+    "memo": "身心障礙或持有醫院證明不宜上一般體育課者，需向體育教育中心申請統一編入「適應體育」上課。\n上課地點在游泳館二樓健身房。",
     "name": "體育－適應體育 Adapted Physical Education",
     "num_limit": "0",
     "reg_num": "0",
@@ -38817,7 +38781,7 @@
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "潘瑞文",
-    "time": "Rabc-"
+    "time": "Wabc-"
   },
   "1121_650004": {
     "code": "PTDP30006",

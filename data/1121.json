@@ -167,18 +167,6 @@
     "teacher": "羅俊民",
     "time": "T567-YE003[YM]"
   },
-  "1121_110006": {
-    "code": "MDMD10032",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "110006",
-    "memo": "導師時間",
-    "name": "心靈成長(一) Spiritual Growth Ⅰ",
-    "num_limit": "15",
-    "reg_num": "0",
-    "teacher": "凌憬峰",
-    "time": "W34-YT304[YM]"
-  },
   "1121_110008": {
     "code": "MDMD10032",
     "credit": "1.00",
@@ -1259,18 +1247,6 @@
     "teacher": "曾炳輝",
     "time": "W34-YT304[YM]"
   },
-  "1121_110099": {
-    "code": "MDMD10032",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "110099",
-    "memo": "導師時間",
-    "name": "心靈成長(一) Spiritual Growth Ⅰ",
-    "num_limit": "15",
-    "reg_num": "0",
-    "teacher": "王榮磻",
-    "time": "W34-YT304[YM]"
-  },
   "1121_110100": {
     "code": "MDMD10032",
     "credit": "1.00",
@@ -1736,7 +1712,7 @@
     "name": "牙科臨床實習 Clerkship in Clinical Dentistry",
     "num_limit": "50",
     "reg_num": "45",
-    "teacher": "賴玉玲、高壽延、李士元、張國威、陳恆理、楊政杰、涂曦丰、吳靜宜、耿藝文、張景智、羅文良、施文宇、洪凱風、楊淑芬、馮懷珍、董醒任、吳政憲、李亞芸、雷文天、于恩浩、陳大為、林怡君、董愛康、吳姿瑩、吳詩韻、何怡青、陳江雲、楊子彰、葉聖威、洪振元、吳和泰、陳瓊芬、陳軒弘、梁祐銘、成函潔、謝春怡、蔡佳倫、鄭冬慧",
+    "teacher": "賴玉玲、高壽延、李士元、張國威、陳恆理、楊政杰、涂曦丰、吳靜宜、耿藝文、張景智、羅文良、施文宇、洪凱風、楊淑芬、馮懷珍、董醒任、吳政憲、李亞芸、雷文天、于恩浩、陳大為、林怡君、董愛康、吳姿瑩、吳詩韻、何怡青、陳江雲、楊子彰、葉聖威、洪振元、吳和泰、陳瓊芬、陳軒弘、謝春怡、蔡佳倫、鄭冬慧",
     "time": "F12349a-"
   },
   "1121_111536": {
@@ -2491,7 +2467,7 @@
     "memo": "初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
     "name": "藥學導論 Orientation in Pharmacy",
     "num_limit": "70",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "胡德民、王孟廷、林滿玉、黃奇英、康照洲、陳日榮、林宥欣、東雅惠、陳惠亭、姜紹青、許銘能、蘇溶真、廖曉偉、紀威光、黃文鴻、吳力人、趙彥欽、曾冠燁",
     "time": "M56-YL402[YM]"
   },
@@ -3007,7 +2983,7 @@
     "memo": "",
     "name": "普通生物學 General Biology",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "34",
     "teacher": "林崇智、羅清維、陳燕彰、呂璦竹、吳如蕙",
     "time": "F234-YX406[YM]"
   },
@@ -3067,7 +3043,7 @@
     "memo": "",
     "name": "醫學工程導論 Introduction to Biomedical Engineering",
     "num_limit": "50",
-    "reg_num": "2",
+    "reg_num": "32",
     "teacher": "劉澤英、詹家泰、陳右穎、林峻立、江明彰、李泉、劉承揚、賴穎暉、劉大中",
     "time": "F56-YT205[YM]"
   },
@@ -3079,7 +3055,7 @@
     "memo": "",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "32",
     "teacher": "詹家泰",
     "time": "M567-YT305[YM]"
   },
@@ -3091,7 +3067,7 @@
     "memo": "",
     "name": "普通物理學(一) General Physics (Ⅰ)",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "39",
     "teacher": "李泉",
     "time": "R678-YX501[YM]"
   },
@@ -3211,7 +3187,7 @@
     "memo": "",
     "name": "微積分(一) Calculus Ⅰ",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "31",
     "teacher": "謝忠村",
     "time": "M234-YX501[YM]"
   },
@@ -3380,7 +3356,7 @@
     "name": "人文與生活(一) Humanities and Life (I)",
     "num_limit": "50",
     "reg_num": "8",
-    "teacher": "楊雅如、高甫仁",
+    "teacher": "楊雅如、高甫仁、施惠婷",
     "time": "W34-"
   },
   "1121_112206": {
@@ -3572,7 +3548,7 @@
     "name": "急救學 Emergency Management and First-Aid",
     "num_limit": "45",
     "reg_num": "41",
-    "teacher": "徐德福、黃獻皞、陳燕嘉、吳哲侃、陳盈如、廖婉如、李毅信、徐月霜、張靜怡、林佩瑩",
+    "teacher": "徐德福、黃獻皞、陳燕嘉、吳哲侃、陳盈如、廖婉如、李毅信、陳春廷、徐月霜、張靜怡、林佩瑩",
     "time": "W12-YB602[YM]"
   },
   "1121_112224": {
@@ -4087,7 +4063,7 @@
     "memo": "醫放一、醫工一合班",
     "name": "化學原理(一) Principles of Chemistry(1)",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "32",
     "teacher": "陳傳霖",
     "time": "T567-YL401[YM]"
   },
@@ -5035,7 +5011,7 @@
     "memo": "牙二, 醫工",
     "name": "化學原理實驗 General Chemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "曾炳輝、林雅雄、鄭閔魁、廖韋晴",
     "time": "W5678-YED309[YM]"
   },
@@ -6619,7 +6595,7 @@
     "memo": "藥學系、傳醫所、衛福所合班上課",
     "name": "中藥概論 Introduction to Chinese Materia Medica",
     "num_limit": "70",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "陳日榮、盧美光、翁芸芳、蔡忠志、廖家慶、鄭銘仁",
     "time": "T34-YK533[YM]"
   },
@@ -21667,7 +21643,7 @@
     "memo": "",
     "name": "有機化學(一) Organic Chemistry (Ｉ)",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "鍾文聖",
     "time": "M34W34-SB211[GF]"
   },
@@ -21679,7 +21655,7 @@
     "memo": "限本系，外系學生需經任課教師同意後，方可加選本課程。",
     "name": "有機化學實驗(一) Organic Chemistry Labs. (Ｉ)",
     "num_limit": "50",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "鍾文聖",
     "time": "R4n5678-SB120[GF]"
   },
@@ -21691,7 +21667,7 @@
     "memo": "",
     "name": "應用數學 Applied Mathematics",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "曾建銘",
     "time": "T34F2-SC159[GF]"
   },
@@ -21703,7 +21679,7 @@
     "memo": "",
     "name": "物理化學(一) Physical Chemistry(I)",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "刁維光",
     "time": "T56F56-SB211[GF]"
   },
@@ -21715,7 +21691,7 @@
     "memo": "",
     "name": "服務學習(二) Service Learning II",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "詹揚翔",
     "time": "M56-SB201[GF]"
   },
@@ -24931,7 +24907,7 @@
     "memo": "資安學程必選修課程。AI學程學生修業期間應修習2學期論文研討(書報討論)。",
     "name": "論文研討 Seminar",
     "num_limit": "150",
-    "reg_num": "76",
+    "reg_num": "77",
     "teacher": "陳佳宏",
     "time": "W56-ED220[GF]"
   },
@@ -30532,11 +30508,11 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539102",
-    "memo": "智能所乙組核心課程、[English Medium Course]英文授課",
+    "memo": "[English Medium Course]智能所乙組核心課程、英文授課",
     "name": "作業系統 Operating System",
     "num_limit": "45",
     "reg_num": "3",
-    "teacher": "待聘",
+    "teacher": "陳碩漢",
     "time": "R567-ED305[GF]"
   },
   "1121_544000": {
@@ -32311,7 +32287,7 @@
     "memo": "",
     "name": "刑事法中的化學變化：淺談法醫毒物學 Science in Criminal Law: An Introduction on Forensic Toxicology",
     "num_limit": "75",
-    "reg_num": "75",
+    "reg_num": "74",
     "teacher": "金孟華、楊筑安",
     "time": "S34-MB1063[GF]"
   },
@@ -34303,7 +34279,7 @@
     "memo": "",
     "name": "日文(二) Japanese(II)",
     "num_limit": "45",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "陳曉貞",
     "time": "W12-A308[GF]"
   },
@@ -35755,7 +35731,7 @@
     "memo": "體育館B1體適能教室",
     "name": "女生基礎律動 Female Basic Rhythmic Movement",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "巫慧萍",
     "time": "W56-PE[GF]"
   },
@@ -36307,7 +36283,7 @@
     "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "黃中興",
     "time": "W56-PhE[YM]"
   },
@@ -38840,8 +38816,8 @@
     "name": "基礎科學講座與實驗 Seminar and Lab",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "劉宗哲",
-    "time": "S234567-SA014[GF]"
+    "teacher": "林政寬",
+    "time": "S234567-EC315[GF],S234567-EC316[GF]"
   },
   "1121_910003": {
     "code": "SESE00026",
@@ -40388,7 +40364,7 @@
     "name": "單元操作實驗(1) Unit Operation Lab.(I)",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "李金樹",
+    "teacher": "系統工程",
     "time": "R123-"
   },
   "1121_910135": {
@@ -40485,7 +40461,7 @@
     "num_limit": "9999",
     "reg_num": "7",
     "teacher": "系統工程",
-    "time": "R1-"
+    "time": "W1-"
   },
   "1121_910143": {
     "code": "SESE10068",
@@ -42309,7 +42285,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林玉菁",
-    "time": "M34T6-"
+    "time": "M34W6-"
   },
   "1121_910295": {
     "code": "SESE10102",
@@ -42369,7 +42345,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "吳憲珉",
-    "time": "W67F2-"
+    "time": "W678-"
   },
   "1121_910300": {
     "code": "SESE20224",
@@ -42381,7 +42357,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "吳憲珉",
-    "time": "W8F34-"
+    "time": "F234-"
   },
   "1121_910301": {
     "code": "SESE20018",
@@ -42405,7 +42381,7 @@
     "num_limit": "9999",
     "reg_num": "9",
     "teacher": "李宜珊",
-    "time": "F2-"
+    "time": "W789-"
   },
   "1121_910303": {
     "code": "SESE00104",
@@ -42441,7 +42417,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
-    "time": "T78-"
+    "time": "W789-"
   },
   "1121_910306": {
     "code": "SESE20020",
@@ -42489,7 +42465,7 @@
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "蔡世樵",
-    "time": "M34F2-"
+    "time": "M34W2-"
   },
   "1121_910311": {
     "code": "SESE20017",
@@ -42501,7 +42477,7 @@
     "num_limit": "9999",
     "reg_num": "4",
     "teacher": "蔡世樵",
-    "time": "R234-"
+    "time": "W8R34-"
   },
   "1121_910312": {
     "code": "SESE10057",
@@ -42549,7 +42525,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
-    "time": "W678-"
+    "time": "W67R2-"
   },
   "1121_910316": {
     "code": "SESE20021",
@@ -42573,7 +42549,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林永慶",
-    "time": "W234-"
+    "time": "W34F2-"
   },
   "1121_910318": {
     "code": "SESE10018",
@@ -42597,7 +42573,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林永慶",
-    "time": "F234-"
+    "time": "M9T34-"
   },
   "1121_910320": {
     "code": "SESE10080",
@@ -42777,7 +42753,7 @@
     "num_limit": "9999",
     "reg_num": "12",
     "teacher": "簡志峻",
-    "time": "W1F34-"
+    "time": "M9F34-"
   },
   "1121_910335": {
     "code": "SESE00094",
@@ -42824,7 +42800,7 @@
     "name": "工程材料學 Engineering Materials",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
+    "teacher": "簡志峻",
     "time": "W234-"
   },
   "1121_910339": {
@@ -42861,7 +42837,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "宋欣芳",
-    "time": "M9F12-"
+    "time": "F267-"
   },
   "1121_910342": {
     "code": "SESE00096",
@@ -42933,7 +42909,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
-    "time": "T678-"
+    "time": "F234-"
   },
   "1121_910348": {
     "code": "SESE10009",
@@ -43606,18 +43582,6 @@
     "reg_num": "0",
     "teacher": "系統工程",
     "time": "W67-"
-  },
-  "1121_910404": {
-    "code": "SESE00043",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910404",
-    "memo": "上課地點在國防理工",
-    "name": "環境保護   Environmental Protection",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "R34-"
   },
   "1121_910405": {
     "code": "SESE00122",

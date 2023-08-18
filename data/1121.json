@@ -2024,7 +2024,7 @@
     "name": "認識-人﹑生活﹑生命 Awareness-Human Being, Living, Life",
     "num_limit": "254",
     "reg_num": "0",
-    "teacher": "廖媛美、陳俞琪、蔡慈儀、劉佩青",
+    "teacher": "劉佩青、陳俞琪、蔡慈儀、廖媛美",
     "time": "W34-YN301[YM]"
   },
   "1121_111803": {
@@ -2204,7 +2204,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "46",
-    "teacher": "王子芳、邱愛富、陳紀雯、楊曼華",
+    "teacher": "邱愛富、王子芳、陳紀雯、楊曼華",
     "time": "R9a-YN603[YM]"
   },
   "1121_111819": {
@@ -2540,7 +2540,7 @@
     "name": "藥你更棒(一) Pursuing your preeminence in pharmacy land (Ⅰ)",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "陳謄州",
+    "teacher": "陳奕帆",
     "time": "W34-YK533[YM]"
   },
   "1121_111928": {
@@ -2626,6 +2626,18 @@
     "reg_num": "2",
     "teacher": "胡德民、王孟廷、林滿玉、陳日榮、林宥欣、東雅惠、陳惠亭、姜紹青、許銘能、蘇溶真、廖曉偉",
     "time": "M78-YL402[YM]"
+  },
+  "1121_111937": {
+    "code": "PSPM00001",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "111937",
+    "memo": "一年級導師時間，含基礎服務學習，活動安排另行公告。",
+    "name": "藥你更棒(一) Pursuing your preeminence in pharmacy land (Ⅰ)",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "蘇佳沂",
+    "time": "W34-YK533[YM]"
   },
   "1121_112000": {
     "code": "BEBL20015",
@@ -3235,7 +3247,7 @@
     "memo": "",
     "name": "斜槓人生(一) Career Development and Preparation Ⅰ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "李泉",
     "time": "W34-YT103[YM]"
   },
@@ -3247,7 +3259,7 @@
     "memo": "",
     "name": "斜槓人生(一) Career Development and Preparation Ⅰ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "江明彰",
     "time": "W34-YT103[YM]"
   },
@@ -3259,7 +3271,7 @@
     "memo": "",
     "name": "斜槓人生(一) Career Development and Preparation Ⅰ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "羅俊民",
     "time": "W34-YT103[YM]"
   },
@@ -3283,7 +3295,7 @@
     "memo": "",
     "name": "斜槓人生(三) Career Development and Preparation III",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "劉承揚",
     "time": "W34-YT203[YM]"
   },
@@ -3391,7 +3403,7 @@
     "memo": "[English Medium Course]",
     "name": "老人學與成功老化 Gerontology and Successful Aging",
     "num_limit": "50",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "陳喬男",
     "time": "F78-YB624[YM]"
   },
@@ -3403,7 +3415,7 @@
     "memo": "導師時間",
     "name": "人文與生活(三) Humanities and Life (Ⅲ)",
     "num_limit": "50",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "宋文旭、王瑞瑤、李淑貞",
     "time": "W34-"
   },
@@ -4951,7 +4963,7 @@
     "memo": "限必修生及醫技系學生。",
     "name": "解剖學實驗 Anatomy Lab.",
     "num_limit": "9999",
-    "reg_num": "74",
+    "reg_num": "73",
     "teacher": "李學德、傅毓秀、葉添順、鄭瓊娟、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程",
     "time": "M89F1234-YEC109[YM]"
   },
@@ -4963,7 +4975,7 @@
     "memo": "修課對象以必修生優先及陽明校區大一大二不分系學生。\n本課程不開放旁聽生。",
     "name": "解剖學 Anatomy",
     "num_limit": "125",
-    "reg_num": "99",
+    "reg_num": "97",
     "teacher": "郭曉縈、傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、蔡佩君、侯珮珊、蔣偉程",
     "time": "M567-YB100[YM]"
   },
@@ -5323,7 +5335,7 @@
     "memo": "本課程為應考公共衛生師指定修習科目",
     "name": "生物統計學 Biostatistics",
     "num_limit": "60",
-    "reg_num": "39",
+    "reg_num": "37",
     "teacher": "陳瓊梅",
     "time": "M34-YB624[YM]"
   },
@@ -6307,7 +6319,7 @@
     "memo": "研究所：細胞生物學組必修。\n大學部：限必修生。",
     "name": "解剖學實驗 Anatomy Lab.",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "李學德、傅毓秀、葉添順、鄭瓊娟、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程",
     "time": "F56-YEC109[YM]"
   },
@@ -6849,7 +6861,7 @@
     "num_limit": "9999",
     "reg_num": "4",
     "teacher": "李玉春、楊銘欽",
-    "time": "R78-YN613[YM]"
+    "time": "T78-YN109[YM]"
   },
   "1121_130709": {
     "code": "MDHW30042",
@@ -7208,7 +7220,7 @@
     "name": "工業安全 Industrial Safety",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "毛義方",
+    "teacher": "毛義方、盧士一",
     "time": "U123-YS105[YM]"
   },
   "1121_130900": {
@@ -8096,7 +8108,7 @@
     "name": "臨床牙醫學專題討論(一)(碩士班) Seminar of Clinical Dentistry (1) (Master Course)",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "楊政杰、洪善鈴、李士元、季麟揚、張國威、黃何雄、許明倫、林元敏、林嘉澍、吳靜宜、林宥成、王鼎涵、張婷菡、賴玉玲、洪凱風、楊淑芬、董愛康、吳姿瑩、何怡青",
+    "teacher": "楊政杰、洪善鈴、李士元、季麟揚、張國威、黃何雄、許明倫、林元敏、林嘉澍、涂曦丰、吳靜宜、林宥成、王鼎涵、張婷菡、賴玉玲、羅文良、洪凱風、楊淑芬、董愛康、吳姿瑩、何怡青",
     "time": "T56-YD302[YM]"
   },
   "1121_131401": {
@@ -9655,7 +9667,7 @@
     "memo": "",
     "name": "工程數學(一) Engineering Mathematics Ⅰ",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "江明彰",
     "time": "F34n-YX501[YM]"
   },
@@ -9920,7 +9932,7 @@
     "name": "生物統計學 Biostatistics",
     "num_limit": "40",
     "reg_num": "2",
-    "teacher": "待聘",
+    "teacher": "施惠婷",
     "time": "T23-YB101[YM]"
   },
   "1121_132404": {
@@ -9992,7 +10004,7 @@
     "name": "專題討論(一) Seminar (I)",
     "num_limit": "40",
     "reg_num": "2",
-    "teacher": "王瑞瑤、王子娟、施怡芬、楊雅如、陳振昇、蔚順華、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、周立偉、羅鴻基、陳喬男、黃崇舜、林吟亮、呂東武",
+    "teacher": "王瑞瑤、王子娟、施怡芬、楊雅如、陳振昇、蔚順華、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、周立偉、羅鴻基、陳喬男、黃崇舜、施惠婷、林吟亮",
     "time": "M5678-YB102[YM]"
   },
   "1121_132411": {
@@ -10028,7 +10040,7 @@
     "name": "專題討論(二) Seminar (II)",
     "num_limit": "40",
     "reg_num": "20",
-    "teacher": "王瑞瑤、王子娟、施怡芬、楊雅如、陳振昇、蔚順華、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、周立偉、羅鴻基、陳喬男、黃崇舜、林吟亮、呂東武",
+    "teacher": "王瑞瑤、王子娟、施怡芬、楊雅如、陳振昇、蔚順華、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、周立偉、羅鴻基、陳喬男、黃崇舜、施惠婷、林吟亮",
     "time": "M5678-YB102[YM]"
   },
   "1121_132414": {
@@ -10700,7 +10712,7 @@
     "name": "癌症生物學及腫瘤模型工程 Cancer Biology and Tumor Model Engineering",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "待聘",
+    "teacher": "蘇佳沂",
     "time": "T567-YK436[YM]"
   },
   "1121_132700": {
@@ -12920,7 +12932,7 @@
     "name": "專題討論(一) Seminar (I)",
     "num_limit": "40",
     "reg_num": "0",
-    "teacher": "王瑞瑤、王子娟、施怡芬、楊雅如、陳振昇、蔚順華、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、周立偉、羅鴻基、陳喬男、黃崇舜、林吟亮、呂東武",
+    "teacher": "王瑞瑤、王子娟、施怡芬、楊雅如、陳振昇、蔚順華、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、周立偉、羅鴻基、陳喬男、黃崇舜、施惠婷、林吟亮",
     "time": "M5678-YB102[YM]"
   },
   "1121_141901": {
@@ -12932,7 +12944,7 @@
     "name": "專題討論(二) Seminar (II)",
     "num_limit": "40",
     "reg_num": "0",
-    "teacher": "王瑞瑤、王子娟、施怡芬、楊雅如、陳振昇、蔚順華、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、周立偉、羅鴻基、陳喬男、黃崇舜、林吟亮、呂東武",
+    "teacher": "王瑞瑤、王子娟、施怡芬、楊雅如、陳振昇、蔚順華、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、周立偉、羅鴻基、陳喬男、黃崇舜、施惠婷、林吟亮",
     "time": "M5678-YB102[YM]"
   },
   "1121_141903": {
@@ -13879,7 +13891,7 @@
     "memo": "〔1〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽博雅書苑承辦人（分機ext.65285／Email: rxfan@nycu.edu.tw）辦理。",
     "name": "韓語和韓國文化(一) Korean Language and culture (I)",
     "num_limit": "32",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "沈明珠",
     "time": "R56-YX201[YM]"
   },
@@ -14371,7 +14383,7 @@
     "memo": "",
     "name": "政治學 Political Science",
     "num_limit": "30",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "彭懷恩",
     "time": "F56-YT104[YM]"
   },
@@ -18320,7 +18332,7 @@
     "name": "服務學習 (二) Service Learning II",
     "num_limit": "9999",
     "reg_num": "161",
-    "teacher": "陳福川",
+    "teacher": "戴立嘉",
     "time": ""
   },
   "1121_515101": {
@@ -18340,12 +18352,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515102",
-    "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗時間為週一abc -ED713。 資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。本課程適合有程式設計相關基礎同學選修。",
+    "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗時間為週二abc -ED713。 資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。本課程適合有程式設計相關基礎同學選修。",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "溫宏斌",
-    "time": "Mn56-ED203[GF]"
+    "time": "Tn56-EDB01[GF]"
   },
   "1121_515103": {
     "code": "EEEC10012",
@@ -18380,7 +18392,7 @@
     "name": "服務學習 (二) Service Learning II",
     "num_limit": "9999",
     "reg_num": "90",
-    "teacher": "陳福川",
+    "teacher": "戴立嘉",
     "time": ""
   },
   "1121_515106": {
@@ -18412,7 +18424,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515108",
-    "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。課程教室工四館ED713、實作於週二abc (ED713)。資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。",
+    "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。課程教室工四館ED713、實作於週一abc (ED713)。資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "50",
     "reg_num": "0",
@@ -19088,7 +19100,7 @@
     "name": "控制系統整合應用實驗 Laboratory  of Control Systems Integration and Applications",
     "num_limit": "40",
     "reg_num": "7",
-    "teacher": "李慶鴻、待聘",
+    "teacher": "李慶鴻、彭昭暐",
     "time": "R567-"
   },
   "1121_515168": {
@@ -19927,7 +19939,7 @@
     "memo": "上課教室：工程五館548室",
     "name": "奈米與生涯規劃 Nano and Career Planning",
     "num_limit": "25",
-    "reg_num": "0",
+    "reg_num": "25",
     "teacher": "梁美智",
     "time": "W78-EE548[GF]"
   },
@@ -19987,7 +19999,7 @@
     "memo": "B班. 教室EE102",
     "name": "生涯規劃 Career Planning",
     "num_limit": "39",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "簡昭欣",
     "time": "W78-EE102[GF]"
   },
@@ -22735,7 +22747,7 @@
     "memo": "視訊同步遠距課程",
     "name": "醫療法律與政策 Medical Law and Policy",
     "num_limit": "60",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "陳鋕雄、吳俊穎、邵之雋",
     "time": "Rab-ES806[GF],Rab-YT301[YM]"
   },
@@ -25027,7 +25039,7 @@
     "memo": "",
     "name": "固態物理 Solid State Physics",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "顏順通",
     "time": "F678-ED220[GF]"
   },
@@ -25087,7 +25099,7 @@
     "memo": "",
     "name": "積體電路技術(一) Integrated Circuit Technology (I)",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "林鴻志",
     "time": "T2-ED116[GF],R56-ED220[GF]"
   },
@@ -25602,9 +25614,9 @@
     "id": "535319",
     "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程)【AI學程專業必修】",
     "name": "機器學習 Machine Learning",
-    "num_limit": "9999",
+    "num_limit": "70",
     "reg_num": "12",
-    "teacher": "電控所",
+    "teacher": "劉益宏",
     "time": "M567-EE220[GF]"
   },
   "1121_535350": {
@@ -26359,7 +26371,7 @@
     "memo": "[English Medium Course]請依各所入學年度之修業要點選課；博士班資格考考核科目；資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "演算法 Algorithms",
     "num_limit": "150",
-    "reg_num": "93",
+    "reg_num": "92",
     "teacher": "荊宇泰",
     "time": "T7F34-ED117[GF]"
   },
@@ -26383,7 +26395,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；[English Medium Course]第一階段選課上限45人, 第三階段開放到60人",
     "name": "機器學習 Machine Learning ",
     "num_limit": "60",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "洪瑞鴻、邱維辰",
     "time": "M7R34-EC115[GF]"
   },
@@ -26647,7 +26659,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課；[English Medium Course],[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "影像處理 Image Processing",
     "num_limit": "96",
-    "reg_num": "57",
+    "reg_num": "56",
     "teacher": "莊仁輝",
     "time": "F56-EC122[GF]"
   },
@@ -29023,7 +29035,7 @@
     "memo": "開放大一到大四同學選修。※管科系、資財系大二學生限修大學部財務管理課程。※管院學生(含雙主修、輔系、跨域學程)若有特殊原因須修習此研究所課程抵免大學部財務管理課程之學分，須於修課前向所屬系辦申請，並經由此課程召集老師同意始得認列學分。實地線上混合教學課程 (陽明校區：線上，請向教師索取線上連結)",
     "name": "財務管理 Financial Management",
     "num_limit": "150",
-    "reg_num": "100",
+    "reg_num": "99",
     "teacher": "蔡璧徽",
     "time": "F234-AB103[GF]"
   },
@@ -34183,7 +34195,7 @@
     "memo": "",
     "name": "日文(一) Japanese(I)",
     "num_limit": "45",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "周雅玲",
     "time": "W12-A501[GF]"
   },
@@ -36547,7 +36559,7 @@
     "memo": "上課地點：陽明校區游泳健身館。\n第一階段開放選課系級：物輔二。\n第二階段後開放選修。",
     "name": "游泳 swim",
     "num_limit": "30",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "魏豐閔",
     "time": "R34-PhE[YM]"
   },
@@ -37567,7 +37579,7 @@
     "memo": "奈米學士班學生優先選課",
     "name": "普通生物學 General Biology",
     "num_limit": "27",
-    "reg_num": "1",
+    "reg_num": "26",
     "teacher": "鄒協成、莊碧簪、梁美智",
     "time": "M567-EE548[GF]"
   },

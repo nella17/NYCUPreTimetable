@@ -1604,7 +1604,7 @@
     "name": "外科學概論 Introduction to Surgery",
     "num_limit": "50",
     "reg_num": "39",
-    "teacher": "張世慶、許瀚水、陳維熊、洪榮志、黃正雄、羅文良、馬旭、葉發來、王鑑瀛、黃國宏、吳思賢、鍾孝仁、陳沂名",
+    "teacher": "張世慶、許瀚水、洪榮志、黃正雄、羅文良、陳維熊、馬旭、葉發來、王鑑瀛、黃國宏、吳思賢、鍾孝仁、陳沂名",
     "time": "M12-YD105[YM]"
   },
   "1121_111527": {
@@ -10523,18 +10523,6 @@
     "teacher": "李易展、莊惠燕、張御展",
     "time": "M78-YB134[YM]"
   },
-  "1121_132524": {
-    "code": "BEIR30010",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "132524",
-    "memo": "",
-    "name": "幹細胞分子影像學 Molecular Imaging in Stem Cell Research",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "蘇家豪",
-    "time": "F34-YB458[YM]"
-  },
   "1121_132600": {
     "code": "BEBP30006",
     "credit": "4.00",
@@ -11069,7 +11057,7 @@
     "hours": "1.00",
     "id": "132814",
     "memo": "",
-    "name": "藥品微生物學：品保和品管 Pharmacuntical Microbiology ：Quality Assurance and Quality Control",
+    "name": "藥品微生物學：品保和品管 Pharmaceutical Microbiology：Quality Assurance and Quality Control",
     "num_limit": "9999",
     "reg_num": "4",
     "teacher": "黃雪莉",

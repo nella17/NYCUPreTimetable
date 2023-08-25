@@ -3344,7 +3344,7 @@
     "name": "物理治療導論 Introduction to Physical Therapy",
     "num_limit": "45",
     "reg_num": "15",
-    "teacher": "陳喬男、王瑞瑤、施怡芬、楊雅如、李淑貞、李雪楨、蔡美文、羅鴻基、黃崇舜",
+    "teacher": "陳喬男、王瑞瑤、楊雅如、李淑貞、李雪楨、蔡美文、羅鴻基、黃崇舜、林吟亮",
     "time": "T3-YB601[YM]"
   },
   "1121_112202": {
@@ -4219,7 +4219,7 @@
     "memo": "導師時間",
     "name": "生活在陽明(一) Life in National Yang-Ming University (1)",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "10",
     "teacher": "吳東信",
     "time": "W34-YT303[YM]"
   },
@@ -4963,7 +4963,7 @@
     "memo": "限必修生及醫技系學生。",
     "name": "解剖學實驗 Anatomy Lab.",
     "num_limit": "9999",
-    "reg_num": "78",
+    "reg_num": "77",
     "teacher": "李學德、傅毓秀、葉添順、鄭瓊娟、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程",
     "time": "M89F1234-YEC109[YM]"
   },
@@ -9451,7 +9451,7 @@
     "memo": "[English Medium Course]",
     "name": "高等醫學生物技術學 Advanced Medical Biotechnology",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "31",
     "teacher": "黃智生、吳韋訥、孫光蕙、楊翠青、張懿欣、涂玉青、黃琤、呂世正、龔思豪、黃尉倫、蘇美慈、洪小雅",
     "time": "W23F56-YB100[YM]"
   },
@@ -9932,7 +9932,7 @@
     "name": "生物統計學 Biostatistics",
     "num_limit": "40",
     "reg_num": "2",
-    "teacher": "施惠婷",
+    "teacher": "施惠婷、黃志忠",
     "time": "T23-YB101[YM]"
   },
   "1121_132404": {
@@ -10136,8 +10136,8 @@
     "name": "進階心肺物理治療(一) Advanced Cardiopulmonary Physical Therapy (I)",
     "num_limit": "20",
     "reg_num": "0",
-    "teacher": "蔡美文",
-    "time": "F56-YB419[YM]"
+    "teacher": "陳喬男",
+    "time": "F9a-YB419[YM]"
   },
   "1121_132424": {
     "code": "BEPT30056",
@@ -14610,7 +14610,7 @@
     "id": "161075",
     "memo": "大學部為選修通識課程請學生自行選課；碩、博士班修課意願，因修課人數有限，請填寫申請表:https://forms.gle/c9FkPXvbEd2dxRNh6\n，本課程為跨校區課程:\n陽明校區上課教室YT305、光復校區上課教室AB102",
     "name": "食品安全與生活 Food Safety and Life",
-    "num_limit": "20",
+    "num_limit": "80",
     "reg_num": "20",
     "teacher": "陳美蓮、陳鋕雄、賈文宇",
     "time": "R34-AB102[GF],R34-YT305[YM]"
@@ -20971,7 +20971,7 @@
     "memo": "限材料系選修",
     "name": "生涯規劃及導師時間(一)  Career Planning and Mentor's Hours (I)",
     "num_limit": "9999",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "楊朝堯",
     "time": "R56-EF205[GF]"
   },
@@ -21403,7 +21403,7 @@
     "memo": "",
     "name": "計算機概論（一） Introduction to Computer Science (I)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "59",
     "teacher": "陳秋媛",
     "time": "T78R56-SC201[GF]"
   },
@@ -21607,7 +21607,7 @@
     "memo": "",
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "55",
     "teacher": "張君輔",
     "time": "W78-SB201[GF]"
   },
@@ -21847,7 +21847,7 @@
     "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。",
     "name": "經濟學(一) Economics (I)",
     "num_limit": "135",
-    "reg_num": "0",
+    "reg_num": "107",
     "teacher": "郭家豪",
     "time": "W234-M101[GF]"
   },
@@ -21859,7 +21859,7 @@
     "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。已被鎖定選課的同學，如欲退選請Email老師，可協助進行線上即時退選。",
     "name": "經濟學(一) Economics (I)",
     "num_limit": "135",
-    "reg_num": "0",
+    "reg_num": "107",
     "teacher": "黃星華",
     "time": "W234-M-b10[GF]"
   },
@@ -21871,7 +21871,7 @@
     "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限98人，得請授課教師簽准後可放寬至103人；若有演習課則安排於9a；管理基礎學分學程課程。",
     "name": "會計學(一) Accounting (I)",
     "num_limit": "98",
-    "reg_num": "0",
+    "reg_num": "71",
     "teacher": "陳宗岡",
     "time": "M567-M-b10[GF]"
   },
@@ -21883,7 +21883,7 @@
     "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。實地線上混合教學課程 (陽明校區：線上，請向教師索取線上連結)",
     "name": "會計學(一) Accounting (I)",
     "num_limit": "135",
-    "reg_num": "0",
+    "reg_num": "71",
     "teacher": "蔡璧徽",
     "time": "M567-M101[GF]"
   },
@@ -21895,7 +21895,7 @@
     "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限75人，得請授課教師簽准後可放寬至80人；若有演習課則安排於9a；管理基礎學分學程課程。",
     "name": "會計學(一) Accounting (I)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "72",
     "teacher": "林瑞嘉、劉志諒",
     "time": "M567-M205[GF]"
   },
@@ -21907,7 +21907,7 @@
     "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限70人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(9/4提供)，登記時間至開學上課第一週週三(9/13)下午四點截止，於當週四分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "72",
     "teacher": "吳浩庠",
     "time": "T567-A316[GF]"
   },
@@ -21919,7 +21919,7 @@
     "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限70人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(9/4提供)，登記時間至開學上課第一週週三(9/13)下午四點截止，於當週四分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "71",
     "teacher": "林春成",
     "time": "T567-MB520[GF]"
   },
@@ -21931,7 +21931,7 @@
     "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限70人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(9/4提供)，登記時間至開學上課第一週週三(9/13)下午四點截止，於當週四分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "71",
     "teacher": "游家牧",
     "time": "T567-M-b09[GF]"
   },
@@ -21943,7 +21943,7 @@
     "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院學生優先選課；資財系必修；上限55人，得請授課教師簽准後可放寬至60人；若有演習課安排於9a。",
     "name": "程式設計 Programming",
     "num_limit": "55",
-    "reg_num": "1",
+    "reg_num": "46",
     "teacher": "黃思皓",
     "time": "R567-M-b01[GF]"
   },
@@ -22135,7 +22135,7 @@
     "memo": "",
     "name": "海洋運輸 Maritime Transportation ",
     "num_limit": "65",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "黃明居",
     "time": "T234-A901[GF]"
   },
@@ -22147,7 +22147,7 @@
     "memo": "",
     "name": "航空運輸 Air Transportation",
     "num_limit": "60",
-    "reg_num": "52",
+    "reg_num": "51",
     "teacher": "黃寬丞",
     "time": "T567-A310[GF]"
   },
@@ -22267,7 +22267,7 @@
     "memo": "管科系大三必修。管科系優先；雙主修或輔系管科系、修習學分學程或跨域學程的同學均開放加簽。",
     "name": "組織行為 Organizational Behavior",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "李柏毅",
     "time": "M789-M301[GF]"
   },
@@ -22291,7 +22291,7 @@
     "memo": "1.開放全校大三大四學生選修。",
     "name": "策略管理 Strategic Management",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "黃瓊誼",
     "time": "T567-M115[GF]"
   },
@@ -22531,7 +22531,7 @@
     "memo": "管院管理基礎課程；主開大二資財系；上限80人，資財系大二、管科系大三必修；限資財系大二以上、其他學系大三以上同學選修。管科系限必修本課程。管院學生優先選課；輔開管理學院、管科系、運管系、工管系；工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修。運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。",
     "name": "管理資訊系統 Management Information System",
     "num_limit": "80",
-    "reg_num": "80",
+    "reg_num": "79",
     "teacher": "顏琦龍",
     "time": "T234-M205[GF]"
   },
@@ -22579,7 +22579,7 @@
     "memo": "大二財金組必修；資財系優先選課；外系學生請於開學加退選階段上網選課。先修課程：經濟學(一)(二)。",
     "name": "個體經濟學 Micro-Economic",
     "num_limit": "80",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "黃星華",
     "time": "R234-M-b10[GF]"
   },
@@ -22591,7 +22591,7 @@
     "memo": "大二必修，資財系優先選課；外系學生請於開學加退選階段上網選課。已修過資財導論同學不得選修。",
     "name": "金融科技概論 Introduction to Financial Technology",
     "num_limit": "80",
-    "reg_num": "67",
+    "reg_num": "66",
     "teacher": "謝文良",
     "time": "R567-M-b10[GF]"
   },
@@ -22603,7 +22603,7 @@
     "memo": "財金類課程；資財系優先選課；外系學生請於開學加退選階段上網選課。",
     "name": "數理統計 Mathematical Statistics",
     "num_limit": "50",
-    "reg_num": "42",
+    "reg_num": "41",
     "teacher": "鄧惠文",
     "time": "M234R8-M-b09[GF]"
   },
@@ -23422,6 +23422,18 @@
     "reg_num": "5",
     "teacher": "劉啟明",
     "time": "T234-HC401[GF]"
+  },
+  "1121_534109": {
+    "code": "HSGF30028",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "534109",
+    "memo": "專選",
+    "name": "社會語音學 Sociophonetics",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "萬宗綸",
+    "time": "M567-HC401[GF]"
   },
   "1121_534200": {
     "code": "HSTE30017",
@@ -24935,6 +24947,18 @@
     "teacher": "李俊穎、辛幸純",
     "time": "W34-HC501[GF]"
   },
+  "1121_534835": {
+    "code": "HSIM30055",
+    "credit": "3.00",
+    "hours": "1.00",
+    "id": "534835",
+    "memo": "",
+    "name": "演奏主修：小提琴 Advanced Instruction in Violin",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "黃郁婷",
+    "time": "W34-HC512[GF]"
+  },
   "1121_535100": {
     "code": "EEEE30025",
     "credit": ".00",
@@ -25987,7 +26011,7 @@
     "memo": "光電系碩、博必選",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "205",
+    "reg_num": "204",
     "teacher": "光電系",
     "time": "S567-"
   },
@@ -26035,7 +26059,7 @@
     "memo": "1.光電系碩士班必修 2.光電系碩博士班優先選課3.碩一生統一由本系分發上課班級4.線上同步教學",
     "name": "光電子學 Optoelectronics",
     "num_limit": "60",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "李柏璁、張祐嘉",
     "time": "W567-CY201[GF]"
   },
@@ -26922,7 +26946,7 @@
     "id": "535909",
     "memo": "前瞻所甲組、乙組選修課程[English Medium Course]",
     "name": "半導體材料與元件特性分析 Semiconductor Material and Device Characterization",
-    "num_limit": "9999",
+    "num_limit": "45",
     "reg_num": "17",
     "teacher": "林群雄",
     "time": "R234-EE210[GF]"
@@ -28975,7 +28999,7 @@
     "memo": "開放全校大三大四及研究所同學選修。",
     "name": "經營講座 Lectures on Business",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "蕭嬋、郭國泰",
     "time": "T89-M-b10[GF]"
   },
@@ -34771,7 +34795,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "43",
     "teacher": "江竹偉",
     "time": "F78-PE[GF]"
   },
@@ -34915,7 +34939,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "江竹偉",
     "time": "M12-PE[GF]"
   },
@@ -34987,7 +35011,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "0",
-    "reg_num": "54",
+    "reg_num": "53",
     "teacher": "陳奐杰",
     "time": "M12-PE[GF]"
   },
@@ -37183,7 +37207,7 @@
     "memo": "機械 A",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "54",
+    "reg_num": "56",
     "teacher": "梁興弛",
     "time": "M567-SA014[GF]"
   },
@@ -37195,7 +37219,7 @@
     "memo": "機械 B",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "58",
+    "reg_num": "56",
     "teacher": "梁興弛",
     "time": "M567-SA015[GF]"
   },
@@ -37219,7 +37243,7 @@
     "memo": "奈米學士班",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "杜建明、謝東儒",
     "time": "T234-SA015[GF]"
   },
@@ -37231,7 +37255,7 @@
     "memo": "電物系 電物組",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "57",
+    "reg_num": "49",
     "teacher": "許鈺敏",
     "time": "W234-SA014[GF]"
   },
@@ -37243,7 +37267,7 @@
     "memo": "電物系 光電組",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "0",
+    "reg_num": "45",
     "teacher": "許鈺敏",
     "time": "W234-SA015[GF]"
   },
@@ -37267,7 +37291,7 @@
     "memo": "應化系",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "55",
+    "reg_num": "53",
     "teacher": "杜建明、謝東儒",
     "time": "Wn56-SA015[GF]"
   },
@@ -37279,7 +37303,7 @@
     "memo": "生科 A",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "67",
+    "reg_num": "44",
     "teacher": "待聘",
     "time": "R234-SA014[GF]"
   },
@@ -37291,7 +37315,7 @@
     "memo": "生科 B",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "20",
+    "reg_num": "43",
     "teacher": "待聘",
     "time": "R234-SA015[GF]"
   },
@@ -37555,7 +37579,7 @@
     "memo": " 生物科技學系大一新生/本系生及中一中科學班優先，上限90人 通識校基本 通識跨院",
     "name": "普通生物學(一) General Biology(I)",
     "num_limit": "90",
-    "reg_num": "24",
+    "reg_num": "39",
     "teacher": "林勇欣、邱光裕、蘇昱誠",
     "time": "Wn56-SA320[GF]"
   },
@@ -37567,7 +37591,7 @@
     "memo": "限中一中科學班學生選課",
     "name": "普通生物學實驗(一) General Biology Lab.(I)",
     "num_limit": "40",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "陳文亮",
     "time": "M9ab-SC210[GF]"
   },

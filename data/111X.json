@@ -112,24 +112,24 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515600",
-    "memo": "日期:7月4日-8月9日,資工系優先，本課程分發後不受理加簽。",
+    "memo": "日期:7月4日-8月9日,資工系優先，本課程分發後不受理加簽。教室:EC122",
     "name": "計算機組織 Computer Organization",
     "num_limit": "80",
     "reg_num": "67",
     "teacher": "蔡文錦",
-    "time": "M567T567W567-EC122[GF]"
+    "time": "M567T567W567-"
   },
   "111X_515601": {
     "code": "CSCS10021",
     "credit": "3.00",
     "hours": "5.00",
     "id": "515601",
-    "memo": "日期:7月20日-8月30日,資工系優先。本課程分發後若要加簽，請下載[暑修加簽單]，依流程於6月30日(週五)中午12:00前送交課務組辦理。",
+    "memo": "日期:7月20日-8月30日,資工系優先。本課程分發後若要加簽，請下載[暑修加簽單]，依流程於6月30日(週五)中午12:00前送交課務組辦理。教室:EC115",
     "name": "資料結構與物件導向程式設計 Data Structures and Object-oriented Programming",
     "num_limit": "80",
     "reg_num": "80",
     "teacher": "黃俊龍",
-    "time": "T567W567R567-EC115[GF],T9abW9abR9ab-EC315[GF],T9abW9abR9ab-EC316[GF]"
+    "time": "T567W567R567-,T9abW9abR9ab-EC315[GF],T9abW9abR9ab-EC316[GF]"
   },
   "111X_515602": {
     "code": "CSCS10032",

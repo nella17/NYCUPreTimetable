@@ -22638,7 +22638,7 @@
     "id": "517512",
     "memo": "財金類課程；資財系優先選課；外系學生請於開學加退選階段上網選課。",
     "name": "財務風險管理 Financial Risk Management",
-    "num_limit": "50",
+    "num_limit": "35",
     "reg_num": "49",
     "teacher": "郭家豪",
     "time": "R234-M-b09[GF]"
@@ -29898,7 +29898,7 @@
     "id": "537708",
     "memo": "財務類課程；財務金融碩博士班學生優先。",
     "name": "資產評價理論 Asset Pricing Theory",
-    "num_limit": "55",
+    "num_limit": "30",
     "reg_num": "33",
     "teacher": "郭家豪",
     "time": "W789-M101[GF]"

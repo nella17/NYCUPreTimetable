@@ -103,7 +103,7 @@
     "memo": "他系同學選修須經授課教師同意",
     "name": "生物學(上) General Biology (1)",
     "num_limit": "155",
-    "reg_num": "135",
+    "reg_num": "133",
     "teacher": "陳儀聰、陳俊銘、李曉暉",
     "time": "M34-YX406[YM]"
   },
@@ -115,7 +115,7 @@
     "memo": "限醫學系學生修課",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "123",
-    "reg_num": "113",
+    "reg_num": "112",
     "teacher": "潘美連",
     "time": "M34-YX216[YM]"
   },
@@ -127,7 +127,7 @@
     "memo": "大堂課與小組討論交替",
     "name": "科學發表與思維 Scientific Presentation and Thinking",
     "num_limit": "144",
-    "reg_num": "119",
+    "reg_num": "118",
     "teacher": "霍德義、黃金洲、陳志彥、林志慶、林邑璁、陳世彬、紀乃方、劉峻宇、賴峻毅、詹宇鈞、江晨恩、蘇建維、林堯彬、陳明德、徐德福、許劭榮",
     "time": "W78-YX216[YM]"
   },
@@ -139,7 +139,7 @@
     "memo": "",
     "name": "微積分(一) Calculus Ⅰ",
     "num_limit": "9999",
-    "reg_num": "140",
+    "reg_num": "138",
     "teacher": "宋文旭",
     "time": "W12-YX216[YM]"
   },
@@ -151,7 +151,7 @@
     "memo": "",
     "name": "普通物理學 General Physics",
     "num_limit": "9999",
-    "reg_num": "117",
+    "reg_num": "116",
     "teacher": "羅俊民、江明彰",
     "time": "T34-YX216[YM]"
   },
@@ -199,7 +199,7 @@
     "memo": "導師時間",
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "15",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "范佩貞",
     "time": "W34-YT206[YM]"
   },
@@ -295,7 +295,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "王先逸",
     "time": "W34-YT204[YM]"
   },
@@ -990,10 +990,10 @@
     "id": "110077",
     "memo": "醫師工程師組導師時間，交大校區上課",
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
-    "num_limit": "10",
-    "reg_num": "0",
+    "num_limit": "11",
+    "reg_num": "11",
     "teacher": "楊懷哲",
-    "time": "Ryz-"
+    "time": "W78-"
   },
   "1121_110078": {
     "code": "MDMD10033",
@@ -1219,7 +1219,7 @@
     "memo": "導師時間",
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "15",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "熊偉",
     "time": "W34-YT304[YM]"
   },
@@ -2983,7 +2983,7 @@
     "memo": "",
     "name": "精彩人生 (上) How to make your life splendid",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "楊翠青、蘇美慈",
     "time": "W34-YB101[YM]"
   },
@@ -2995,7 +2995,7 @@
     "memo": "",
     "name": "普通生物學 General Biology",
     "num_limit": "9999",
-    "reg_num": "130",
+    "reg_num": "127",
     "teacher": "林崇智、羅清維、陳燕彰、呂璦竹、吳如蕙",
     "time": "F234-YX406[YM]"
   },
@@ -3055,7 +3055,7 @@
     "memo": "",
     "name": "醫學工程導論 Introduction to Biomedical Engineering",
     "num_limit": "50",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "劉澤英、詹家泰、陳右穎、林峻立、江明彰、李泉、劉承揚、賴穎暉、劉大中",
     "time": "F56-YT205[YM]"
   },
@@ -3067,7 +3067,7 @@
     "memo": "",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "9999",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "詹家泰",
     "time": "M567-YT305[YM]"
   },
@@ -3079,7 +3079,7 @@
     "memo": "",
     "name": "普通物理學(一) General Physics (Ⅰ)",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "李泉",
     "time": "R678-YX501[YM]"
   },
@@ -3199,7 +3199,7 @@
     "memo": "",
     "name": "微積分(一) Calculus Ⅰ",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "謝忠村",
     "time": "M234-YX501[YM]"
   },
@@ -3271,7 +3271,7 @@
     "memo": "",
     "name": "斜槓人生(一) Career Development and Preparation Ⅰ",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "羅俊民",
     "time": "W34-YT103[YM]"
   },
@@ -3343,7 +3343,7 @@
     "memo": "",
     "name": "物理治療導論 Introduction to Physical Therapy",
     "num_limit": "45",
-    "reg_num": "55",
+    "reg_num": "53",
     "teacher": "陳喬男、王瑞瑤、楊雅如、李淑貞、李雪楨、蔡美文、羅鴻基、黃崇舜、林吟亮",
     "time": "T3-YB601[YM]"
   },
@@ -3355,7 +3355,7 @@
     "memo": "",
     "name": "輔助科技導論 Introduction to Assistive Technology ",
     "num_limit": "50",
-    "reg_num": "55",
+    "reg_num": "53",
     "teacher": "李淑貞",
     "time": "T4-YB601[YM]"
   },
@@ -3367,7 +3367,7 @@
     "memo": "導師時間",
     "name": "人文與生活(一) Humanities and Life (I)",
     "num_limit": "50",
-    "reg_num": "48",
+    "reg_num": "46",
     "teacher": "楊雅如、高甫仁、施惠婷",
     "time": "W34-"
   },
@@ -3379,7 +3379,7 @@
     "memo": "不分系任選必修，三門課至少選二門",
     "name": "普通物理學(一) General Physics (Ⅰ)",
     "num_limit": "192",
-    "reg_num": "51",
+    "reg_num": "104",
     "teacher": "黃宣誠",
     "time": "M56-YX216[YM]"
   },
@@ -3391,7 +3391,7 @@
     "memo": "他系同學選修須經授課教師同意",
     "name": "普通生物學實驗 General Biology Lab.",
     "num_limit": "70",
-    "reg_num": "48",
+    "reg_num": "46",
     "teacher": "林崇智、陳俊銘、羅清維、俞震亞、金翠庭、陳嘉霖、姜為中、呂璦竹、吳如蕙",
     "time": "W5678-"
   },
@@ -3907,7 +3907,7 @@
     "memo": "",
     "name": "微積分 Calculus",
     "num_limit": "150",
-    "reg_num": "90",
+    "reg_num": "88",
     "teacher": "宋文旭",
     "time": "T78-CS100[GF],T78-YX216[YM]"
   },
@@ -3955,7 +3955,7 @@
     "memo": "",
     "name": "物理治療職涯規劃 Physical Therapy Career Planning",
     "num_limit": "50",
-    "reg_num": "53",
+    "reg_num": "51",
     "teacher": "王子娟、李淑貞、趙遠宏、陳子敬、阮彥鈞",
     "time": "W2-YB601[YM]"
   },
@@ -4063,7 +4063,7 @@
     "memo": "醫放一、醫工一合班",
     "name": "化學原理(一) Principles of Chemistry(1)",
     "num_limit": "9999",
-    "reg_num": "82",
+    "reg_num": "80",
     "teacher": "陳傳霖",
     "time": "T567-YL401[YM]"
   },
@@ -4075,7 +4075,7 @@
     "memo": "為維持教學品質，限制修課人數",
     "name": "微積分(一) Calculus Ⅰ",
     "num_limit": "60",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "張力友",
     "time": "R56-YT206[YM]"
   },
@@ -4087,7 +4087,7 @@
     "memo": "",
     "name": "普通生物學實驗 Laboratory Studies of Biology",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "羅清維、陳俊銘、俞震亞、林崇智、陳嘉霖、姜為中、呂璦竹、吳如蕙",
     "time": "M567-YED109[YM]"
   },
@@ -4099,7 +4099,7 @@
     "memo": "導師時間",
     "name": "知性與感性時間(一) Time for Instruction and Inspiration (1)",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "高瑀絜",
     "time": "W34-YT301[YM]"
   },
@@ -4519,7 +4519,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "37",
     "teacher": "盧家鋒、許世明、張御展",
     "time": "Fab-"
   },
@@ -4591,7 +4591,7 @@
     "memo": "生科一、不分系一合班上課",
     "name": "化學原理實驗 Chemical Principle Lab.",
     "num_limit": "9999",
-    "reg_num": "57",
+    "reg_num": "56",
     "teacher": "許世宜、楊念中",
     "time": "M34-YED109[YM]"
   },
@@ -4603,7 +4603,7 @@
     "memo": "生一、不分系一、物治系合班上課。不分系任選必修，三門課至少選二門",
     "name": "化學原理(一) Principles of Chemistry(1)",
     "num_limit": "9999",
-    "reg_num": "64",
+    "reg_num": "63",
     "teacher": "許世宜",
     "time": "T56-YB100[YM]"
   },
@@ -4615,7 +4615,7 @@
     "memo": "生一、不分系一、醫學系B組、藥一合班上課。不分系任選必修，三門課至少選二門",
     "name": "微積分(一) Calculus I",
     "num_limit": "9999",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "王禹超",
     "time": "W12-YX406[YM]"
   },
@@ -4627,7 +4627,7 @@
     "memo": "生一、不分系一、醫學系B組合班上課",
     "name": "生命科學總論(上) Life Science Ⅰ-General Biology, 1st semester",
     "num_limit": "9999",
-    "reg_num": "57",
+    "reg_num": "56",
     "teacher": "李曉暉、可文亞、李敏嘉、陳瀅州、陳儀聰",
     "time": "R34-YB102[YM]"
   },
@@ -4639,7 +4639,7 @@
     "memo": "生科一、不分系一、醫學系B組合班上課",
     "name": "生命科學實驗 Life Science Laboratory",
     "num_limit": "9999",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "李曉暉、李勇陞、鄭浩民、鍾明怡、陳儀聰",
     "time": "R5678-YED109[YM]"
   },
@@ -4651,7 +4651,7 @@
     "memo": "生科二、不分系二、生物科管學程合班上課\n外系修課需經授課教師同意",
     "name": "生物化學 Biochemistry",
     "num_limit": "60",
-    "reg_num": "45",
+    "reg_num": "40",
     "teacher": "孫維欣、張欣暘、陳嘉霖",
     "time": "M34R34-YL402[YM]"
   },
@@ -4663,7 +4663,7 @@
     "memo": "生科二、不分系二合班上課",
     "name": "細胞生物學 Cell Biology",
     "num_limit": "9999",
-    "reg_num": "42",
+    "reg_num": "37",
     "teacher": "俞震亞、蔡亭芬、林崇智、李曉暉",
     "time": "F34-YK101[YM]"
   },
@@ -4675,7 +4675,7 @@
     "memo": "物治二、生科二、不分系二合班上課",
     "name": "有機化學實驗 Laboratory in Organic Chemistry",
     "num_limit": "9999",
-    "reg_num": "42",
+    "reg_num": "37",
     "teacher": "林照雄、楊念中",
     "time": "T789-YED109[YM]"
   },
@@ -4687,7 +4687,7 @@
     "memo": "生科二、不分系二合班上課",
     "name": "生化及細胞生物學實驗 Biochemistry & Cell Biology Laboratory",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "36",
     "teacher": "藍昇輝、陳俊銘、俞震亞、林崇智、張欣暘、李敏嘉",
     "time": "F5678-YED109[YM]"
   },
@@ -4735,7 +4735,7 @@
     "memo": "導師時間，分組上課",
     "name": "生涯發展與學習(一上) Career Development and Preparation Ⅰ, 1st semester",
     "num_limit": "9999",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "陳儀聰",
     "time": "W34-YL402[YM]"
   },
@@ -4951,7 +4951,7 @@
     "memo": "除「生物醫學資訊所」與「跨領域醫學博士學位學程」外，不開放外系、所選修",
     "name": "模擬系統與數據分析 Simulation Models and Data Analysis",
     "num_limit": "9999",
-    "reg_num": "14",
+    "reg_num": "9",
     "teacher": "巫坤品",
     "time": "R12-YL401[YM]"
   },
@@ -4987,7 +4987,7 @@
     "memo": "醫學一A",
     "name": "化學原理 General Chemistry",
     "num_limit": "9999",
-    "reg_num": "134",
+    "reg_num": "132",
     "teacher": "曾炳輝、林達顯",
     "time": "W567-YX406[YM]"
   },
@@ -5023,7 +5023,7 @@
     "memo": "牙二, 醫工",
     "name": "化學原理實驗 General Chemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "曾炳輝、鄭閔魁、廖韋晴、林雅雄",
     "time": "W5678-YED309[YM]"
   },
@@ -5059,7 +5059,7 @@
     "memo": "醫二A,   醫二C, 醫技二, 藥學二合班上課",
     "name": "生物化學 Biochemistry",
     "num_limit": "9999",
-    "reg_num": "197",
+    "reg_num": "196",
     "teacher": "王琬菁、陳美瑜、鄭子豪、黃介嶸、許翺麟、姜為中",
     "time": "F34-EE105[GF],R56-EE209[GF],R56F34-YX216[YM]"
   },
@@ -5107,7 +5107,7 @@
     "memo": "醫學二A",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "80",
-    "reg_num": "79",
+    "reg_num": "78",
     "teacher": "游麗如、王毓瑄、陳美瑜、鄭子豪、郭津岑、許翺麟、徐子涵、許玉璇",
     "time": "F5678-YEC309[YM]"
   },
@@ -5395,7 +5395,7 @@
     "memo": "陽明校區限醫學系，交大校區限電機系；分組名單於開學前公告，陽明校區9/15(五)、9/22(五)請至生醫工程館101階梯教室上課，9/29(五)起依分組名單至所屬教室上課(教學大樓205、301、305)，交大校區請至工程五館129上課。",
     "name": "醫學人文導論 Introduction to Medical Humanities",
     "num_limit": "157",
-    "reg_num": "155",
+    "reg_num": "153",
     "teacher": "鄧宗業、黃宣穎、雷文玫、楊育正",
     "time": "F34-YT205[YM],F34-YT301[YM],F34-YT305[YM]"
   },
@@ -7423,7 +7423,7 @@
     "memo": "不開放外系、所選修，生醫資訊所、不分系一年級、數位醫療學程合班上課。",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "9999",
-    "reg_num": "58",
+    "reg_num": "57",
     "teacher": "巫坤品",
     "time": "W56-YK104[YM]"
   },
@@ -7735,7 +7735,7 @@
     "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
     "name": "臨床腦疾病概論 Clinical Introduction to Brain Disease",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "李怡慧、盧俊良、陳世彬、楊智傑、吳昭慶、廖翊筑、李正達、王嚴鋒、劉祐岑",
     "time": "T4-YL839[YM]"
   },
@@ -10267,7 +10267,7 @@
     "memo": "生醫影像學程,開放隨班附讀[English Medium Course]",
     "name": "程式語言 Programming Language",
     "num_limit": "65",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "盧家鋒",
     "time": "R78-YL401[YM],R78-YL403[YM]"
   },
@@ -10424,7 +10424,7 @@
     "name": "放射大數據體學資料庫分析與應用 Big Data Analysis and Application for Omics and Radiation",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "張御展、李易展",
+    "teacher": "張御展",
     "time": "T56-YB134[YM]"
   },
   "1121_132519": {
@@ -11887,7 +11887,7 @@
     "memo": "1.全英語授課課程。\n2.本課程原則上僅限本校生命科學院學生(含大學部)及藥物科學院生物藥學研究所學生修習,其他學生如欲修課,需經本院審核同意。 \n3.不開放校際選課。\n4.本課程於陽明校區活動中心第三會議室上課[English Medium Course]",
     "name": "生命科學院-生物醫學講座 Special lectures on biomedicine",
     "num_limit": "155",
-    "reg_num": "28",
+    "reg_num": "36",
     "teacher": "連正章",
     "time": "W78-"
   },
@@ -13830,7 +13830,7 @@
     "id": "161013",
     "memo": "〔1〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽博雅書苑承辦人（分機ext.65285／Email: rxfan@nycu.edu.tw）辦理。",
     "name": "韓語和韓國文化(一) Korean Language and culture (I)",
-    "num_limit": "32",
+    "num_limit": "33",
     "reg_num": "15",
     "teacher": "沈明珠",
     "time": "R56-YX201[YM]"
@@ -13842,7 +13842,7 @@
     "id": "161014",
     "memo": "〔1〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽博雅書苑承辦人（分機ext.65285／Email: rxfan@nycu.edu.tw）辦理。",
     "name": "韓語和韓國文化(一) Korean Language and culture (I)",
-    "num_limit": "32",
+    "num_limit": "33",
     "reg_num": "16",
     "teacher": "沈明珠",
     "time": "R78-YX201[YM]"
@@ -13927,7 +13927,7 @@
     "memo": "限醫學系，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生，請勿隨意退課。",
     "name": "普通心理學 General Psychology",
     "num_limit": "0",
-    "reg_num": "63",
+    "reg_num": "62",
     "teacher": "張立鴻",
     "time": "T34-YT305[YM]"
   },
@@ -13986,7 +13986,7 @@
     "id": "161026",
     "memo": "[English Medium Course] 醫學系大二英文課程，非通識（語言與溝通－英文）課程，全英語教學，初選階段限醫學系二年級選修，「論述寫作」或「身體語言、冷讀、心靈探測」二門課程擇一修讀，為維持教學品質，限制修課人數。",
     "name": "身體語言、冷讀、心靈探測 Body Language, Cold Reading, and Mentalism",
-    "num_limit": "32",
+    "num_limit": "35",
     "reg_num": "27",
     "teacher": "吳哲硯",
     "time": "T78-YX503[YM]"
@@ -14227,7 +14227,7 @@
     "memo": "1.中央研究院歷史語言研究所王道還助研究員主持授課。 2.112-1學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：精讀《槍砲、病菌、與鋼鐵》 The guidance of career planning by academic masters：Critical Reading of Guns, Germs, and Steel",
     "num_limit": "10",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "王道還",
     "time": "R56-"
   },
@@ -14670,7 +14670,7 @@
     "id": "161090",
     "memo": "〔1〕需具日文基礎，為維持教學品質，限制修課人數。〔2〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽博雅書苑承辦人（分機ext.65285／Email: rxfan@nycu.edu.tw）辦理。",
     "name": "日文(三) Japanese(III)",
-    "num_limit": "35",
+    "num_limit": "32",
     "reg_num": "2",
     "teacher": "周雅玲",
     "time": "M12-YX201[YM]"
@@ -14984,7 +14984,7 @@
     "name": "海運業經營管理 Shipping Operations and Management",
     "num_limit": "60",
     "reg_num": "15",
-    "teacher": "黃明居、鍾政棋、盧峯海",
+    "teacher": "黃明居、呂錦山、盧峯海",
     "time": "S9ab-TA306[BM]"
   },
   "1121_250103": {
@@ -17971,7 +17971,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周一晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
-    "reg_num": "31",
+    "reg_num": "44",
     "teacher": "王夢偉",
     "time": "Mabcd-"
   },
@@ -17995,7 +17995,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周三晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
-    "reg_num": "28",
+    "reg_num": "44",
     "teacher": "王夢偉",
     "time": "Wabcd-"
   },
@@ -18223,7 +18223,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周二晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
-    "reg_num": "44",
+    "reg_num": "46",
     "teacher": "柯明道、陳柏宏、陳建安",
     "time": "Tabcd-"
   },
@@ -19999,7 +19999,7 @@
     "memo": "一B",
     "name": "圖學（一） Graphics (I)",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "57",
     "teacher": "鄭中緯",
     "time": "T567-EE131[GF]"
   },
@@ -20047,7 +20047,7 @@
     "memo": "",
     "name": "服務學習(一) Service Learning I",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "113",
     "teacher": "黃正昇",
     "time": ""
   },
@@ -20059,7 +20059,7 @@
     "memo": "",
     "name": "導師時間-快樂機械人(一) Happy Mechanical Engineers (I)",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "112",
     "teacher": "黃正昇",
     "time": "W78-EE106[GF]"
   },
@@ -20083,7 +20083,7 @@
     "memo": "一A",
     "name": "圖學（一） Graphics (I)",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "54",
     "teacher": "鄭中緯",
     "time": "F234-EE131[GF]"
   },
@@ -20094,7 +20094,7 @@
     "id": "516108",
     "memo": "3A 計中訓練教室(電腦教室)",
     "name": "計算機程式 Computer Programming",
-    "num_limit": "40",
+    "num_limit": "39",
     "reg_num": "39",
     "teacher": "洪榮煌",
     "time": "F234-"
@@ -20335,7 +20335,7 @@
     "memo": "EE527電腦教室。一B  專業選修/非核心選修",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "53",
-    "reg_num": "0",
+    "reg_num": "57",
     "teacher": "蔡文能",
     "time": "R34n-"
   },
@@ -20359,7 +20359,7 @@
     "memo": "EE527電腦教室。一A  專業選修/非核心選修",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "53",
-    "reg_num": "0",
+    "reg_num": "54",
     "teacher": "黃瑞宇",
     "time": "Wabc-"
   },
@@ -20575,7 +20575,7 @@
     "memo": "AB班",
     "name": "材料力學 Mechanics of Materials",
     "num_limit": "45",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "洪士林",
     "time": "T56R2-EB415[GF]"
   },
@@ -20599,7 +20599,7 @@
     "memo": "AB班；第三小時為非同步授課。",
     "name": "工程經濟學 Engineering Economics",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "黃玉霖",
     "time": "F34-EB117[GF]"
   },
@@ -20623,7 +20623,7 @@
     "memo": "AB班",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "洪士林",
     "time": "M567-EB415[GF]"
   },
@@ -20635,7 +20635,7 @@
     "memo": "",
     "name": "工程統計學 Engineering Statistics",
     "num_limit": "100",
-    "reg_num": "74",
+    "reg_num": "73",
     "teacher": "趙韋安",
     "time": "M234-EB117[GF]"
   },
@@ -20647,7 +20647,7 @@
     "memo": "",
     "name": "測量學（二） Surveying (II)",
     "num_limit": "60",
-    "reg_num": "53",
+    "reg_num": "52",
     "teacher": "黃金維",
     "time": "W34-EB115[GF]"
   },
@@ -20659,7 +20659,7 @@
     "memo": "",
     "name": "測量平差法  Adjustment Theory",
     "num_limit": "9999",
-    "reg_num": "58",
+    "reg_num": "57",
     "teacher": "王成機",
     "time": "F567-EB117[GF]"
   },
@@ -21367,7 +21367,7 @@
     "memo": "",
     "name": "計算機概論（一） Introduction to Computer Science (I)",
     "num_limit": "70",
-    "reg_num": "58",
+    "reg_num": "60",
     "teacher": "陳秋媛",
     "time": "T78R56-SC201[GF]"
   },
@@ -21402,10 +21402,10 @@
     "id": "516703",
     "memo": "",
     "name": "線性代數（一） Linear Algebra (I)",
-    "num_limit": "9999",
+    "num_limit": "60",
     "reg_num": "71",
     "teacher": "林得勝",
-    "time": "M56W34-SA214[GF]"
+    "time": "M56W34-SA311[GF]"
   },
   "1121_516704": {
     "code": "SCMA20016",
@@ -21477,7 +21477,7 @@
     "num_limit": "9999",
     "reg_num": "57",
     "teacher": "黃信元",
-    "time": "W34F2-SA311[GF]"
+    "time": "W34F2-SA214[GF]"
   },
   "1121_516710": {
     "code": "SCMA10004",
@@ -21811,7 +21811,7 @@
     "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。",
     "name": "經濟學(一) Economics (I)",
     "num_limit": "135",
-    "reg_num": "107",
+    "reg_num": "106",
     "teacher": "郭家豪",
     "time": "W234-M101[GF]"
   },
@@ -21859,7 +21859,7 @@
     "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限75人，得請授課教師簽准後可放寬至80人；若有演習課則安排於9a；管理基礎學分學程課程。",
     "name": "會計學(一) Accounting (I)",
     "num_limit": "75",
-    "reg_num": "72",
+    "reg_num": "71",
     "teacher": "林瑞嘉、劉志諒",
     "time": "M567-M205[GF]"
   },
@@ -21883,7 +21883,7 @@
     "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限70人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(9/4提供)，登記時間至開學上課第一週週三(9/13)下午四點截止，於當週四分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "70",
-    "reg_num": "71",
+    "reg_num": "70",
     "teacher": "林春成",
     "time": "T567-MB520[GF]"
   },
@@ -22315,7 +22315,7 @@
     "memo": "一年級必選",
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "63",
+    "reg_num": "62",
     "teacher": "工管系",
     "time": "W78-MB520[GF]"
   },
@@ -22327,7 +22327,7 @@
     "memo": "另1小時以非同步上課方式授課",
     "name": "工業工程與管理概論 Introduction to Industrial Engineering and Management",
     "num_limit": "9999",
-    "reg_num": "82",
+    "reg_num": "81",
     "teacher": "張永佳",
     "time": "R67-MB520[GF]"
   },
@@ -22748,7 +22748,7 @@
     "name": "專題探索(一) Topics Exploration (I)",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "百川",
+    "teacher": "程源中",
     "time": ""
   },
   "1121_519504": {
@@ -22760,7 +22760,7 @@
     "name": "專題探索(三) Topics Exploration (III)",
     "num_limit": "9999",
     "reg_num": "25",
-    "teacher": "百川",
+    "teacher": "程源中",
     "time": ""
   },
   "1121_519506": {
@@ -22891,7 +22891,7 @@
     "memo": "",
     "name": "應用數學(一) Applied Mathematics (1)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "梁興弛",
     "time": "R34n-SC109[GF]"
   },
@@ -22903,7 +22903,7 @@
     "memo": "",
     "name": "應用物理(一) Applied Physics (1)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "余彥廷",
     "time": "W234-SC110[GF]"
   },
@@ -22915,7 +22915,7 @@
     "memo": "",
     "name": "應用電子學(一) Applied Electronics (1)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "陳振芳",
     "time": "M567-SC151[GF]"
   },
@@ -22927,7 +22927,7 @@
     "memo": "",
     "name": "電腦程式與計算分析(一) Computer Programming and Computational Analysis (1)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "陳永富",
     "time": "F234-SC151[GF]"
   },
@@ -22939,7 +22939,7 @@
     "memo": "",
     "name": "應用電子學實驗(一) Applied Electronic Laboratory (1)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "陳振芳",
     "time": "Tabc-SC109[GF]"
   },
@@ -26767,7 +26767,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "34",
+    "reg_num": "42",
     "teacher": "資通安全",
     "time": ""
   },
@@ -26803,7 +26803,7 @@
     "memo": "[English Medium Course]",
     "name": "學位論文研究 Academic Dissertation Research",
     "num_limit": "9999",
-    "reg_num": "64",
+    "reg_num": "63",
     "teacher": "半導體所",
     "time": ""
   },
@@ -26815,7 +26815,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "108",
+    "reg_num": "107",
     "teacher": "吳添立",
     "time": "W567-AB101[GF]"
   },
@@ -26923,7 +26923,7 @@
     "memo": "修課學生需自備筆電；前瞻所乙組選修課程[English Medium Course]",
     "name": "工程設計 Engineering Design",
     "num_limit": "25",
-    "reg_num": "22",
+    "reg_num": "23",
     "teacher": "鍾錦翰",
     "time": "R34n-EE116[GF]"
   },
@@ -27019,7 +27019,7 @@
     "memo": "[English Medium Course]英文授課、遠距教學",
     "name": "電子材料概論 Electronic Properties of Materials",
     "num_limit": "15",
-    "reg_num": "1",
+    "reg_num": "2",
     "teacher": "葉勝玄",
     "time": "Mabc-"
   },
@@ -28855,7 +28855,7 @@
     "memo": "1. 本課程為師資生認證國中自然與生活科技領域教育專門課程學生使用，不能採計為教育專業學分。2. 本課程為「特別」課程，不能採計為研究所(含物理研究所)畢業學分，且大學生如欲將此課程列為畢業學分，需自行向各系確認是否承認該學分。3. 本課程無法於線上選課，請直接聯繫授課教師加選。",
     "name": "天文學初探 Astronomy 101",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "高文芳",
     "time": "F78-SC162[GF]"
   },
@@ -28964,7 +28964,7 @@
     "name": "經營講座 Lectures on Business",
     "num_limit": "9999",
     "reg_num": "38",
-    "teacher": "蕭嬋、郭國泰",
+    "teacher": "蕭嬋、郭國泰、朱慶忠",
     "time": "T89-M-b10[GF]"
   },
   "1121_537007": {
@@ -31147,7 +31147,7 @@
     "memo": "資訊組；限陽明交大在職專班學生選修",
     "name": "視訊串流與追蹤 Video Streaming and Tracking",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "11",
     "teacher": "蔡文錦",
     "time": "Fabc-EC114[GF]"
   },
@@ -32743,7 +32743,7 @@
     "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設核心社會,欲採計核心自然請至通識中心書面申請。",
     "name": "普通心理學 General Psychology",
     "num_limit": "50",
-    "reg_num": "46",
+    "reg_num": "47",
     "teacher": "梁瓊惠",
     "time": "T78-A103[GF]"
   },
@@ -34999,7 +34999,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "留鼎淙",
     "time": "F78-PE[GF]"
   },
@@ -35035,7 +35035,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "61",
+    "reg_num": "60",
     "teacher": "張祐華",
     "time": "R34-PE[GF]"
   },
@@ -35059,7 +35059,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "陳玫伶",
     "time": "W34-PE[GF]"
   },
@@ -36187,7 +36187,7 @@
     "memo": "第一週上課集合地點為陽明校區活動中心綜合球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "36",
     "teacher": "陳厚諭",
     "time": "T78-PhE[YM]"
   },
@@ -36199,7 +36199,7 @@
     "memo": "第一週上課集合地點為陽明校區山下網球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "林正仰",
     "time": "T78-PhE[YM]"
   },
@@ -36211,7 +36211,7 @@
     "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "35",
     "teacher": "藍于青",
     "time": "F56-PhE[YM]"
   },
@@ -36223,7 +36223,7 @@
     "memo": "第一週上課集合地點為陽明校區活動中心綜合球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "張耀庭",
     "time": "F78-PhE[YM]"
   },
@@ -36247,7 +36247,7 @@
     "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "林昭光",
     "time": "T12-PhE[YM]"
   },
@@ -36283,7 +36283,7 @@
     "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "黃中興",
     "time": "T34-PhE[YM]"
   },
@@ -36727,7 +36727,7 @@
     "memo": "",
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "25",
     "teacher": "陳冠宇",
     "time": "T34F56-SC204[GF]"
   },
@@ -36871,7 +36871,7 @@
     "memo": "(台中一中)(奈米學士班-半導體組)",
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "70",
     "teacher": "林武雄",
     "time": "M78R34-SC152[GF]"
   },
@@ -36943,7 +36943,7 @@
     "memo": "[English Medium Course]含近代物理",
     "name": "物理(一)榮譽班 Physics(I)",
     "num_limit": "85",
-    "reg_num": "28",
+    "reg_num": "29",
     "teacher": "郭昌洋",
     "time": "M34R78-SA320[GF]"
   },
@@ -37279,7 +37279,7 @@
     "memo": "生科 B",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "待聘",
     "time": "R234-SA015[GF]"
   },
@@ -38335,7 +38335,7 @@
     "memo": "光電學院111學年度起入學學生，碩士必修4學期、博士必修6學期課程",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "54",
+    "reg_num": "53",
     "teacher": "光電學院",
     "time": ""
   },
@@ -38467,7 +38467,7 @@
     "memo": "",
     "name": "淨零永續規劃及應用 The Design and Application of Net Zero Emission for Sustainable Development",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "楊秉純",
     "time": "M234-CM217[GR]"
   },
@@ -38515,7 +38515,7 @@
     "memo": "",
     "name": "顯示光學 Display Optics",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "鄭協昌",
     "time": "M678-CM212[GR]"
   },
@@ -38779,7 +38779,7 @@
     "memo": "限在職專班學生選修",
     "name": "能源科技與應用 Energy Technologies and Applications",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "詹明哲",
     "time": "Tabc-CM218[GR]"
   },

@@ -5632,12 +5632,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "130011",
-    "memo": "",
+    "memo": "上課地點：守仁樓四樓生理所",
     "name": "腸胃道粘膜免疫生理學 Gastrointestinal Mucosal Immunophysiology",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "吳莉玲",
-    "time": "R56-YL404[YM]"
+    "time": "R56-"
   },
   "1121_130012": {
     "code": "MDPY30032",
@@ -22000,7 +22000,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517013",
-    "memo": "非管院學生請於9月4日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記：https://forms.gle/qJpxXQsqCUezs2VMA；若有演習課安排於9a；管理基礎學分學程課程。",
+    "memo": "非管院學生請於9月4日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記：https://forms.gle/FXXeBFhege8yaPbg6 (第2階段)；若有演習課安排於9a；管理基礎學分學程課程。",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "53",
     "reg_num": "-999",
@@ -22012,7 +22012,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517014",
-    "memo": "非管院學生請於9月4日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記：https://forms.gle/qJpxXQsqCUezs2VMA；若有演習課安排於9a；管理基礎學分學程課程。",
+    "memo": "非管院學生請於9月4日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記：https://forms.gle/FXXeBFhege8yaPbg6 (第2階段)；若有演習課安排於9a；管理基礎學分學程課程。",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "53",
     "reg_num": "-999",
@@ -22024,7 +22024,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517015",
-    "memo": "非管院學生請於9月4日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記：https://forms.gle/qJpxXQsqCUezs2VMA；若有演習課安排於9a；管理基礎學分學程課程。",
+    "memo": "非管院學生請於9月4日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記：https://forms.gle/FXXeBFhege8yaPbg6 (第2階段)；若有演習課安排於9a；管理基礎學分學程課程。",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "53",
     "reg_num": "-999",
@@ -22352,7 +22352,7 @@
     "name": "半導體產業全球視野 Semiconductor Industry: Global Perspective",
     "num_limit": "150",
     "reg_num": "-999",
-    "teacher": "鍾惠民、林春成、蘇信寧、郭國泰、張永佳、待聘",
+    "teacher": "鍾惠民、林春成、蘇信寧、郭國泰、張永佳、李中生",
     "time": "Rabc-AB103[GF]"
   },
   "1121_517400": {
@@ -27078,7 +27078,7 @@
     "id": "535952",
     "memo": "[English Medium Course]英文授課、遠距教學",
     "name": "電子與光電材料 Electronic and Optoelectronic",
-    "num_limit": "15",
+    "num_limit": "13",
     "reg_num": "-999",
     "teacher": "唐奈歐",
     "time": "Rabc-"
@@ -27090,7 +27090,7 @@
     "id": "535953",
     "memo": "[English Medium Course]英文授課、遠距教學",
     "name": "電子材料概論 Electronic Properties of Materials",
-    "num_limit": "15",
+    "num_limit": "13",
     "reg_num": "-999",
     "teacher": "葉勝玄",
     "time": "Mabc-"
@@ -44001,7 +44001,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "王泰鈞",
-    "time": "W234-"
+    "time": "M9R34-"
   },
   "1121_910432": {
     "code": "SESE10166",

@@ -980,7 +980,7 @@
     "name": "基礎臨床技能訓練課程(一) Basic clinical skills (BCS) training(I)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "楊盈盈、黃孝先、蘇宇平、黃祥芬、邱逸淳、梁仁峯、陳昭銘、徐迺維、黃加璋、陳坤波、袁維新、葉建甫、陳偉華、陳明正、莊美幸、林泰祺、楊宗翰、許立翰、陳逸群、許黎洲、葉筱芸、賴昱維、曾麒龍、徐維良、蕭丞皓、盧嘉文、盧雅雯、張皓智、吳政億、楊博欽、熊偉、羅逸甯、呂學聖、魏天心、石柏軒、莊梓昱、康芳瑜、楊惠馨、黃文彬、馮嘉毅、黃竣暘、羅永鴻、曾偉誠、張鴻猷",
+    "teacher": "楊盈盈、李懿宬、黃孝先、蘇宇平、黃祥芬、邱逸淳、梁仁峯、陳昭銘、徐迺維、黃加璋、陳坤波、袁維新、葉建甫、陳偉華、陳明正、莊美幸、林泰祺、楊宗翰、許立翰、陳逸群、許黎洲、葉筱芸、賴昱維、曾麒龍、徐維良、蕭丞皓、盧嘉文、盧雅雯、張皓智、吳政億、楊博欽、熊偉、羅逸甯、呂學聖、魏天心、石柏軒、莊梓昱、康芳瑜、楊惠馨、黃文彬、馮嘉毅、黃竣暘、羅永鴻、曾偉誠、張鴻猷",
     "time": "R5678-YX406[YM]"
   },
   "1121_110077": {
@@ -5732,7 +5732,7 @@
     "name": "生醫科學與藥物發展的新知與前瞻 New frontiers in biomedical sciences and pharmaceutical development",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "嚴錦城、黃自強、嚴如玉、嚴偉哲、戚謹文、李德章、劉宗榮、葉翰宜",
+    "teacher": "嚴錦城、黃自強、嚴如玉、嚴偉哲、戚謹文、劉宗榮、李德章、葉翰宜",
     "time": "Tab-YR101[YM]"
   },
   "1121_130107": {
@@ -8276,7 +8276,7 @@
     "name": "生物醫學研究 Biomedical Research",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黎萬君、林姝君、洪善鈴、夏堪臺、黃何雄、林元敏、涂曦丰、林怡彣、鄭雲謙、陳亭妏、林宥成、王鼎涵、張婷菡、李德章、羅文良、劉宗榮、洪凱風、林榮辰、林伯彥、洪佩詩",
+    "teacher": "黎萬君、林姝君、洪善鈴、夏堪臺、黃何雄、林元敏、涂曦丰、林怡彣、鄭雲謙、陳亭妏、林宥成、王鼎涵、張婷菡、羅文良、劉宗榮、李德章、洪凱風、林榮辰、林伯彥、洪佩詩",
     "time": "R34-YD302[YM]"
   },
   "1121_131503": {
@@ -8972,7 +8972,7 @@
     "name": "用藥安全與醫藥政策特論 Medication Safety and Medical Policy",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "周月卿、陳育群、李偉強、黃以信、李友專、余萬能、陳德禮、陳寬軒、鄒嘉玲、許家禎、周千瀅、何沁沁、林于瑄、王怡凱、王笙帆、蔡維禎、邱睦涵",
+    "teacher": "周月卿、陳育群、李偉強、黃以信、李友專、余萬能、張豫立、陳德禮、陳寬軒、鄒嘉玲、許家禎、周千瀅、何沁沁、林于瑄、王怡凱、王笙帆、蔡維禎、邱睦涵",
     "time": "T34-"
   },
   "1121_132011": {
@@ -10952,7 +10952,7 @@
     "name": "藥品微生物學：品保和品管 Pharmaceutical Microbiology：Quality Assurance and Quality Control",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黃雪莉",
+    "teacher": "黃雪莉、蔡文城",
     "time": "Un-YC313[YM]"
   },
   "1121_132815": {
@@ -14344,9 +14344,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161058",
-    "memo": "如需加簽者，務必出席第一堂課程",
+    "memo": "",
     "name": "從臺海實例看國際關係 Taiwan’s International Relations and Historic Events",
-    "num_limit": "40",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "王惠民",
     "time": "W9a-A103[GF]"
@@ -14430,7 +14430,7 @@
     "id": "161065",
     "memo": "限未修過世界文明課程(永久課號：GECE00173)同學選修",
     "name": "世界文明興起與轉型 The Rise And Transformation of  World  Civilization",
-    "num_limit": "0",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "洪德先",
     "time": "R12-EE129[GF],R12-YT305[YM]"
@@ -14454,7 +14454,7 @@
     "id": "161067",
     "memo": "視訊同步遠距課程 (陽明校區：YX201；交大校區：CS100)",
     "name": "臺灣政治概論 Introduction to Taiwan Politics",
-    "num_limit": "32",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "彭立忠",
     "time": "R12-CS100[GF],R12-YX201[YM]"
@@ -14562,7 +14562,7 @@
     "id": "161076",
     "memo": "",
     "name": "現代國際經濟議題 The Modern International Economic Topics",
-    "num_limit": "0",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "曾憲政",
     "time": "T78-YT301[YM]"
@@ -14574,7 +14574,7 @@
     "id": "161077",
     "memo": "視訊同步遠距課程 (陽明校區：YT301；交大校區：CS100)\n",
     "name": "智慧財產權導論 Introduction to intellectual property right",
-    "num_limit": "0",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "王世仁",
     "time": "T34-CS100[GF],T34-YT301[YM]"
@@ -14668,7 +14668,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161093",
-    "memo": "本課程以「北投在地文史踏查」為課程主題，邀請在地文史工作者北投說書人 與人氣速寫畫家B6速寫男擔任業師，帶領同學一起繪製北投人文地景。\n1.09/22（五）12:00-13:30 ，基礎知能與課程介紹（實體課：陽明校區知行樓202教室(有提供便當)\n線上課程網址：https://nycu.webex.com/meet/lihung），選課學生必須上課。\n2.課程實際上課日期：10/14（六）、10/21(六)、11/11（六）、12/09（六）及(11/04、11/18、11/25其中一天，依09/22現場到課學生最大共識時間決定)\n3.上課地點：陽明校區韓偉故居、陽明校區知行樓202教室、北投區文史場域\n4.課程報名:https://forms.gle/QBp3vF5bcKFwn6RG9",
+    "memo": "本課程以「北投在地文史踏查」為課程主題，邀請在地文史工作者北投說書人 與人氣速寫畫家B6速寫男擔任業師，帶領同學一起繪製北投人文地景。\n1.09/22（五）12:00-13:30 ，基礎知能與課程介紹（實體課：陽明校區知行樓201教室(有提供便當)\n線上課程網址：https://nycu.webex.com/meet/lihung），選課學生必須上課。\n2.課程實際上課日期：10/14（六）、10/21(六)、11/11（六）、12/09（六）及(11/04、11/18、11/25其中一天，依09/22現場到課學生最大共識時間決定)\n3.上課地點：陽明校區韓偉故居、陽明校區知行樓202教室、北投區文史場域\n4.課程報名:https://forms.gle/QBp3vF5bcKFwn6RG9",
     "name": "敘事遊戲創意設計—共玩老北投 Creative Design of Narrative Games",
     "num_limit": "20",
     "reg_num": "-999",
@@ -14841,7 +14841,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "梁博淞",
-    "time": "R567-TB307[BM]"
+    "time": "R567-TA506[BM]"
   },
   "1121_230015": {
     "code": "MGBM30065",
@@ -19026,7 +19026,7 @@
     "id": "515162",
     "memo": "上課時段週一34節在工程五館EE623、\nLab: 週五89節實驗在工程五館EE611；其餘實驗時段請與授課教師聯絡。",
     "name": "電力電子實驗 Power Electronics Labs.",
-    "num_limit": "70",
+    "num_limit": "72",
     "reg_num": "-999",
     "teacher": "陳鴻祺",
     "time": "M34F89-EE623[GF]"
@@ -20490,7 +20490,7 @@
     "id": "516138",
     "memo": "開大學部1~4年級。上課教室主要在EE130，請注意課綱或E3公告，有幾堂會在計中PC4上課。",
     "name": "軟實力的哲學 The philosophy of soft skills",
-    "num_limit": "60",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "張瑞永、陳竺博淵",
     "time": "M34-CS-PC4[GF],M34-EE130[GF]"
@@ -22364,7 +22364,7 @@
     "name": "半導體產業全球視野 Semiconductor Industry: Global Perspective",
     "num_limit": "150",
     "reg_num": "-999",
-    "teacher": "鍾惠民、林春成、蘇信寧、郭國泰、張永佳、李中生",
+    "teacher": "鍾惠民、林春成、蘇信寧、郭國泰、黃寬丞、張永佳、李中生",
     "time": "Rabc-AB103[GF]"
   },
   "1121_517400": {
@@ -23565,7 +23565,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "吳泰毅",
-    "time": "T234-F204[GF]"
+    "time": "T234-F109[GF]"
   },
   "1121_534302": {
     "code": "HSCS30011",
@@ -23934,7 +23934,7 @@
     "id": "534502",
     "memo": "[English Medium Course]",
     "name": "法蘭克福學派論電影、 現代性與大眾文化 The Frankfurt School on Cinema, Modernity, and Mass Culture",
-    "num_limit": "9999",
+    "num_limit": "16",
     "reg_num": "-999",
     "teacher": "蔡華臻",
     "time": "R567-F106A[GF]"
@@ -26550,7 +26550,7 @@
     "id": "535517",
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀\n",
     "name": "腦機介面系統 Brain-Computer Interface",
-    "num_limit": "30",
+    "num_limit": "35",
     "reg_num": "-999",
     "teacher": "魏群樹",
     "time": "F34-EC329[GF]"
@@ -26718,7 +26718,7 @@
     "id": "535609",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[另外1小時(第3節)以非同步上課方式；the third period of class will be held asynchronously]",
     "name": "物聯網裝置與平台 IoT Devices and Platforms",
-    "num_limit": "0",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "林政寬",
     "time": "R56-EC315[GF]"
@@ -26814,7 +26814,7 @@
     "id": "535660",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；英文授課[English Medium Course]；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "影像編修技術與特效合成 Image Manipulation Techniques and Visual Effects",
-    "num_limit": "40",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "林奕成",
     "time": "R56-EC115[GF]"
@@ -28341,7 +28341,7 @@
     "num_limit": "50",
     "reg_num": "-999",
     "teacher": "蘇承芳",
-    "time": "M9ab-SA213[GF]"
+    "time": "M9ab-SA311[GF]"
   },
   "1121_536706": {
     "code": "SCMA30017",
@@ -28353,7 +28353,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "林奕亘",
-    "time": "T78R4-SA212[GF]"
+    "time": "T78R4-SA223[GF]"
   },
   "1121_536707": {
     "code": "SCMA30018",
@@ -37122,7 +37122,7 @@
     "id": "564020",
     "memo": "(全網路課程，但仍需到教室參與面授與實體考試)\n(重修班，高年級優先，大四(含)以上請直接將加簽單交至基礎大樓203室)",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "125",
+    "num_limit": "130",
     "reg_num": "-999",
     "teacher": "余啟哲",
     "time": "Mab-SA321[GF]"

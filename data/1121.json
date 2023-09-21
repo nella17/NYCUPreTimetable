@@ -2220,15 +2220,15 @@
     "time": "F56-YS420[YM]"
   },
   "1121_111821": {
-    "code": "NSDN20031",
+    "code": "NSDN20032",
     "credit": "2.00",
     "hours": "2.00",
     "id": "111821",
     "memo": "需修習過內外科護理學之護理系四年級\n上課教室：護理館R418與414，台北榮民總醫院手術室及麻醉部",
-    "name": "麻醉護理概論 Introduction to Anesthesia Nursing",
+    "name": "麻醉護理概論 Introduction of Nurse Anesthesia",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黃淑鶴、楊惠如",
+    "teacher": "楊惠如",
     "time": "Wab-YN418[YM]"
   },
   "1121_111902": {
@@ -3596,7 +3596,7 @@
     "name": "物理治療臨床實習(三) Physical Therapy Practicum (III)",
     "num_limit": "45",
     "reg_num": "-999",
-    "teacher": "羅鴻基、李雪楨、蔡美文",
+    "teacher": "羅鴻基、李雪楨、蔡美文、施惠婷",
     "time": "F12345678-"
   },
   "1121_112228": {
@@ -5454,7 +5454,7 @@
     "id": "113806",
     "memo": "醫學人文與倫理領域-醫學人文類，限醫學系，為使課程品質提升，故修課人數有限。",
     "name": "身心靈實證之生死學與全人醫學 Thanatology: Perspective from Body, Mind, Spirit, and Integrative Medicine",
-    "num_limit": "22",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "顏慕庸、蔡甫昌、蔡兆勳",
     "time": "T56-YT103[YM]"
@@ -5514,7 +5514,7 @@
     "id": "113811",
     "memo": "(跨校區課程)醫學系可認列為醫學人文與倫理領域-醫學人文類。陽明校區為實體課程，非陽明校區的同學請線上上課，使用cisco webex\n會議號： 2514 945 2435，密碼： 0000)。",
     "name": "回歸生命的自然軌跡～安寧醫學人文素養 On Life’s natural course: humanity aspect of hospice care",
-    "num_limit": "60",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "李雅玲、璩大成",
     "time": "T56-YT301[YM]"
@@ -8972,7 +8972,7 @@
     "name": "用藥安全與醫藥政策特論 Medication Safety and Medical Policy",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "周月卿、陳育群、李偉強、黃以信、李友專、余萬能、張豫立、陳德禮、陳寬軒、鄒嘉玲、許家禎、周千瀅、何沁沁、林于瑄、王怡凱、王笙帆、蔡維禎、邱睦涵",
+    "teacher": "張豫立、陳育群、李偉強、黃以信、李友專、余萬能、周月卿、陳德禮、陳寬軒、鄒嘉玲、許家禎、周千瀅、何沁沁、林于瑄、王怡凱、王笙帆、蔡維禎、邱睦涵",
     "time": "T34-"
   },
   "1121_132011": {
@@ -11469,7 +11469,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "何彥如",
-    "time": "T567-YX211[YM]"
+    "time": "T789-YX211[YM]"
   },
   "1121_133103": {
     "code": "SHPH30025",
@@ -13926,7 +13926,7 @@
     "id": "161023",
     "memo": "實地線上混合教學課程 (陽明校區：YX101；交大校區：線上，請向教師索取線上連結)",
     "name": "經濟學 Economics",
-    "num_limit": "0",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "梁立霖",
     "time": "M56-YX201[YM]"
@@ -14243,18 +14243,6 @@
     "teacher": "徐詩偉",
     "time": "F34-CS100[GF],F34-YX201[YM]"
   },
-  "1121_161050": {
-    "code": "GECE00071",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "161050",
-    "memo": "",
-    "name": "科技與社會導論 Introduction to Science and Technology Studies",
-    "num_limit": "0",
-    "reg_num": "-999",
-    "teacher": "陳嘉新",
-    "time": "F34-YT206[YM]"
-  },
   "1121_161051": {
     "code": "GECE00338",
     "credit": "2.00",
@@ -14526,7 +14514,7 @@
     "id": "161073",
     "memo": "[English Medium Course]全英語授課",
     "name": "近代科技之文化影響 The Cultural Effects of Recent Technology",
-    "num_limit": "30",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "霍弘毅",
     "time": "W9a-YX503[YM]"
@@ -15489,7 +15477,7 @@
     "num_limit": "45",
     "reg_num": "-999",
     "teacher": "李美華",
-    "time": "R567-SC109[GF]"
+    "time": "R567-A305[GF]"
   },
   "1121_310112": {
     "code": "HKCT00001",
@@ -15932,7 +15920,7 @@
     "name": "生涯規劃及導師時間 Career Planning and Mentor's Hours",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "生科系",
+    "teacher": "吳東昆、林志生、鄒協成、高雅婷、張晉源、李孟學",
     "time": "W78-SC105[GF]"
   },
   "1121_410011": {
@@ -15944,7 +15932,7 @@
     "name": "生涯規劃及導師時間 Career Planning and Mentor's Hours",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "生科系",
+    "teacher": "李宗夷、羅惟正",
     "time": "W78-SC109[GF]"
   },
   "1121_410012": {
@@ -17853,7 +17841,7 @@
     "num_limit": "18",
     "reg_num": "-999",
     "teacher": "劉啟明",
-    "time": "T567-F203[GF]"
+    "time": "T567-F206[GF]"
   },
   "1121_514127": {
     "code": "HSFL10036",
@@ -19410,7 +19398,7 @@
     "id": "515503",
     "memo": "一年級必修僅開學才開放選課(Required courses for first-year students can only be selected after the class begins )；外系生請於開學上網加選；資工系與電資學士班學生優先選課；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously];本系生優先權順序：1年級，4年級，3年級，2年級",
     "name": "線性代數 Linear Algebra",
-    "num_limit": "173",
+    "num_limit": "175",
     "reg_num": "-999",
     "teacher": "易志偉",
     "time": "W34-EDB27[GF]"
@@ -19482,7 +19470,7 @@
     "id": "515509",
     "memo": "外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課；主開2年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "計算機網路概論 Intro. to Computer Networks",
-    "num_limit": "82",
+    "num_limit": "96",
     "reg_num": "-999",
     "teacher": "蕭旭峰",
     "time": "T56-EC115[GF]"
@@ -28389,7 +28377,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "莊重",
-    "time": "M34R6-SA212[GF]"
+    "time": "M34R6-SA211[GF]"
   },
   "1121_536710": {
     "code": "SCMA30053",
@@ -29176,12 +29164,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537015",
-    "memo": "須修過組織行為、教師手動加簽",
+    "memo": "須修過組織行為、教師手動加簽；上課教室:Ｍ207",
     "name": "組織理論 Organization Theories",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "高國揚",
-    "time": "R34n-M105[GF]"
+    "time": "R34n-"
   },
   "1121_537016": {
     "code": "MGMS30002",
@@ -30028,7 +30016,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537712",
-    "memo": "[English Medium Course]財務類課程；財務金融碩博士班、GMBA學生優先；英語授課。",
+    "memo": "[English Medium Course]資訊類課程；財務金融碩博士班、GMBA學生優先；英語授課。",
     "name": "機器學習與金融科技 Machine Learning and FinTech",
     "num_limit": "50",
     "reg_num": "-999",
@@ -37122,7 +37110,7 @@
     "id": "564020",
     "memo": "(全網路課程，但仍需到教室參與面授與實體考試)\n(重修班，高年級優先，大四(含)以上請直接將加簽單交至基礎大樓203室)",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "130",
+    "num_limit": "140",
     "reg_num": "-999",
     "teacher": "余啟哲",
     "time": "Mab-SA321[GF]"
@@ -37254,7 +37242,7 @@
     "id": "565008",
     "memo": "",
     "name": "物理(一) Physics(I)",
-    "num_limit": "102",
+    "num_limit": "103",
     "reg_num": "-999",
     "teacher": "孟心飛",
     "time": "T78F34-EDB27[GF]"
@@ -37294,18 +37282,6 @@
     "reg_num": "-999",
     "teacher": "簡紋濱",
     "time": "Fbc-SA321[GF]"
-  },
-  "1121_565012": {
-    "code": "GEPS10007",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "565012",
-    "memo": "",
-    "name": "物理一(榮譽班)作業演算 Physics Recitation(I)",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "郭昌洋",
-    "time": "Fbc-SA320[GF]"
   },
   "1121_565013": {
     "code": "GEPS10005",
@@ -39189,7 +39165,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "鄭根發",
-    "time": "M34W2-"
+    "time": "M4W12-"
   },
   "1121_910010": {
     "code": "SESE10037",
@@ -39384,8 +39360,8 @@
     "time": "W34R2-"
   },
   "1121_910026": {
-    "code": "SESE10038",
-    "credit": "3.00",
+    "code": "SESE00093",
+    "credit": "4.00",
     "hours": "4.00",
     "id": "910026",
     "memo": "上課地點在國防理工 *重補修課程",
@@ -41663,18 +41639,6 @@
     "teacher": "系統工程",
     "time": "Wabc-"
   },
-  "1121_910228": {
-    "code": "SESE10032",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "910228",
-    "memo": "上課地點在國防理工，授課教師:蔡林昌",
-    "name": "工廠實習(2) Workshop Practice(2)",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "系統工程",
-    "time": "W34-"
-  },
   "1121_910229": {
     "code": "SESE10026",
     "credit": "3.00",
@@ -42092,7 +42056,7 @@
     "name": "材料力學 Mechanics of Materials",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "系統工程",
+    "teacher": "陳冠宇",
     "time": "Mabc-"
   },
   "1121_910267": {
@@ -42128,7 +42092,7 @@
     "name": "船舶及海洋工程概論 Introduction of Naval Architecture and Ocean Engineering",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "系統工程",
+    "teacher": "陳冠宇",
     "time": "M34R4-"
   },
   "1121_910270": {
@@ -42244,7 +42208,7 @@
     "credit": ".00",
     "hours": "1.00",
     "id": "910279",
-    "memo": "上課地點在國防理工，授課教師:陳冠宇",
+    "memo": "上課地點在國防理工。",
     "name": "服務學習 (2) Service Learning(2)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42304,11 +42268,11 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910284",
-    "memo": "上課地點在國防理工，授課教師:陳冠宇",
+    "memo": "上課地點在國防理工。",
     "name": "導師輔導(3) Tutor Guidance(3)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "系統工程",
+    "teacher": "陳冠宇",
     "time": "M12-"
   },
   "1121_910285": {
@@ -42441,7 +42405,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "林玉菁",
-    "time": "W234-"
+    "time": "W678-"
   },
   "1121_910297": {
     "code": "SESE10152",
@@ -42513,7 +42477,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李宜珊",
-    "time": "W789-"
+    "time": "W678-"
   },
   "1121_910303": {
     "code": "SESE00104",
@@ -42561,7 +42525,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "侯昭平",
-    "time": "W12R1-"
+    "time": "M6W12-"
   },
   "1121_910307": {
     "code": "SESE00065",
@@ -42584,7 +42548,7 @@
     "name": "導師輔導(1) Tutor Guidance(1) ",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "蔡世樵",
+    "teacher": "林永慶",
     "time": "M12-"
   },
   "1121_910310": {
@@ -42644,7 +42608,7 @@
     "name": "氣象學 Meteorology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "王泰鈞",
+    "teacher": "林永慶",
     "time": "W234-"
   },
   "1121_910315": {
@@ -42801,7 +42765,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "張文南",
-    "time": "M34W2-"
+    "time": "M34W1-"
   },
   "1121_910330": {
     "code": "SESE10147",
@@ -42825,7 +42789,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "張文南",
-    "time": "T678-"
+    "time": "T8W34-"
   },
   "1121_910332": {
     "code": "SESE00023",
@@ -42861,7 +42825,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "簡志峻",
-    "time": "M9F34-"
+    "time": "WaF34-"
   },
   "1121_910335": {
     "code": "SESE00094",
@@ -43739,18 +43703,6 @@
     "teacher": "系統工程",
     "time": "F34-"
   },
-  "1121_910409": {
-    "code": "SESE00041",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910409",
-    "memo": "上課地點在國防理工",
-    "name": "法文(一)   French(1)",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "系統工程",
-    "time": "R12-"
-  },
   "1121_910410": {
     "code": "SESE00041",
     "credit": "2.00",
@@ -43989,7 +43941,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "侯昭平",
-    "time": "M678-"
+    "time": "M789-"
   },
   "1121_910430": {
     "code": "SESE20175",

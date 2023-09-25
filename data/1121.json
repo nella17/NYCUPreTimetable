@@ -6791,18 +6791,6 @@
     "teacher": "紀凱獻",
     "time": "M34-YS105[YM]"
   },
-  "1121_130803": {
-    "code": "MDEO30093",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "130803",
-    "memo": "",
-    "name": "傳染病與病媒管制研究設計 Case Study of Infectious Disease Vector Control",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "王正雄",
-    "time": "M34-YS103[YM]"
-  },
   "1121_130804": {
     "code": "MDEO30046",
     "credit": "2.00",
@@ -6911,18 +6899,6 @@
     "teacher": "李旻軒",
     "time": "W34n-YS103[YM]"
   },
-  "1121_130815": {
-    "code": "MDEO30065",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "130815",
-    "memo": "",
-    "name": "職業衛生管理 Occupational health management",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "黃鈺芳、郭憲文",
-    "time": "W34-YS105[YM]"
-  },
   "1121_130817": {
     "code": "MDEO30017",
     "credit": "2.00",
@@ -7019,18 +6995,6 @@
     "teacher": "張榮偉、陳美蓮、毛義方、吳威德",
     "time": "M56-YS103[YM]"
   },
-  "1121_130825": {
-    "code": "MDEO30063",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "130825",
-    "memo": "雙周上課",
-    "name": "職場健康管理 Occupational Health Management",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "楊冠洋、王怡人",
-    "time": "R789a-YS105[YM]"
-  },
   "1121_130827": {
     "code": "MDEO30088",
     "credit": "2.00",
@@ -7042,18 +7006,6 @@
     "reg_num": "3",
     "teacher": "黃鈺芳",
     "time": "F34-YS103[YM]"
-  },
-  "1121_130828": {
-    "code": "MDEO30031",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "130828",
-    "memo": "",
-    "name": "消費性商品安全與風險管理 The safety and risk management of consumer product ",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "張榮偉",
-    "time": "F34-YS105[YM]"
   },
   "1121_130829": {
     "code": "MDEO30003",
@@ -12047,30 +11999,6 @@
     "teacher": "潘文驥、楊振昌、陳美蓮、余國賓、紀凱獻、黃鈺芳、張榮偉、李旻軒、郭憲文",
     "time": "T34-YX501[YM]"
   },
-  "1121_140603": {
-    "code": "MDEO30094",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "140603",
-    "memo": "",
-    "name": "職業衛生書報討論(七) Seminars in Occupational Hygiene(7) ",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "陳美蓮、紀凱獻、黃鈺芳、張榮偉、李旻軒",
-    "time": "T56-YS415[YM]"
-  },
-  "1121_140604": {
-    "code": "MDEO30054",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "140604",
-    "memo": "",
-    "name": "環境科學與風險專題討論(五) Seminars on the Environmental Science and Risk (5)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "余國賓",
-    "time": "T78-YS105[YM]"
-  },
   "1121_140605": {
     "code": "MDEO30095",
     "credit": "2.00",
@@ -12105,18 +12033,6 @@
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "楊振昌、潘文驥、張榮偉",
-    "time": "W4n-YS415[YM]"
-  },
-  "1121_140610": {
-    "code": "MDEO30082",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "140610",
-    "memo": "",
-    "name": "新興環境流行病學專題討論(七) Seminar for Emerging Topics in Environmental Epidemiology(7)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "潘文驥",
     "time": "W4n-YS415[YM]"
   },
   "1121_140611": {
@@ -17071,7 +16987,7 @@
     "memo": "",
     "name": "設計概論 Introduction to Design",
     "num_limit": "55",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "謝明勳",
     "time": "F34-HC103[GF]"
   },
@@ -22567,7 +22483,7 @@
     "memo": "",
     "name": "專題探索(一) Topics Exploration (I)",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "33",
     "teacher": "程源中",
     "time": ""
   },
@@ -26311,7 +26227,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀\n",
     "name": "腦機介面系統 Brain-Computer Interface",
     "num_limit": "35",
-    "reg_num": "26",
+    "reg_num": "27",
     "teacher": "魏群樹",
     "time": "F34-EC329[GF]"
   },

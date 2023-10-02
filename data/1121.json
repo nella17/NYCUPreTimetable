@@ -6275,18 +6275,6 @@
     "teacher": "陳韵宜",
     "time": "M234-YN511[YM]"
   },
-  "1121_130513": {
-    "code": "MDHH30098",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "130513",
-    "memo": "",
-    "name": "專案管理實務應用 Project management: Principles and Practice",
-    "num_limit": "9999",
-    "reg_num": "1",
-    "teacher": "李清池",
-    "time": "R78-YN514[YM]"
-  },
   "1121_130514": {
     "code": "MDHH30102",
     "credit": "1.00",
@@ -24117,7 +24105,7 @@
     "num_limit": "9999",
     "reg_num": "39",
     "teacher": "簡鳳村",
-    "time": "T234-ED525[GF]"
+    "time": "T234-"
   },
   "1121_535208": {
     "code": "EEIE30010",
@@ -38299,9 +38287,9 @@
     "memo": "資工組，上課地點在國防理工",
     "name": "服務學習 (2) Service Learning(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "18",
     "teacher": "余琬瑜",
-    "time": "M2-"
+    "time": "W8-"
   },
   "1121_910036": {
     "code": "SESE00025",
@@ -38971,7 +38959,7 @@
     "memo": "環資組，上課地點在國防理工。重補修隨班附讀。",
     "name": "體育(3) Physical Education(3)",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "14",
     "teacher": "系統工程",
     "time": "M34-"
   },
@@ -40219,7 +40207,7 @@
     "memo": "上課地點在國防理工",
     "name": "導師輔導(5) Tutor Guidance(5) ",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "31",
     "teacher": "賴渝翔",
     "time": "M12-"
   },
@@ -40279,7 +40267,7 @@
     "memo": "上課地點在國防理工，授課教師:方友霖老師",
     "name": "導師輔導(5) Tutor Guidance(5) ",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "0",
     "teacher": "系統工程",
     "time": "M12-"
   },
@@ -40363,7 +40351,7 @@
     "memo": "上課地點在國防理工",
     "name": "戰機飛彈性能分析 Performance Analysis of Aircraft and Missile",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "26",
     "teacher": "系統工程",
     "time": "Mabc-"
   },
@@ -40375,7 +40363,7 @@
     "memo": "上課地點在國防理工，授課教師:黃國鑫",
     "name": "工廠實習 Workshop Practice",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "15",
     "teacher": "系統工程",
     "time": "W34-"
   },
@@ -40459,7 +40447,7 @@
     "memo": "上課地點在國防理工",
     "name": "電腦輔助設計 Computer Aided Design",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "13",
     "teacher": "系統工程",
     "time": "Tabc-"
   },
@@ -40471,7 +40459,7 @@
     "memo": "上課地點在國防理工，授課教師:蔡林昌",
     "name": "工廠實習 Workshop Practice",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "8",
     "teacher": "系統工程",
     "time": "W34-"
   },
@@ -40531,7 +40519,7 @@
     "memo": "上課地點在國防理工",
     "name": "彈藥學 Ammunitions",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "12",
     "teacher": "葉昭南",
     "time": "Mab-"
   },
@@ -40844,7 +40832,7 @@
     "name": "特殊船舶設計專題實作(1) Special Ship Design Project(I)",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "系統工程",
+    "teacher": "劉宗龍",
     "time": "M678-"
   },
   "1121_910271": {
@@ -40868,7 +40856,7 @@
     "name": "造船原理(2) Principles of Naval Architeeture (II)",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "系統工程",
+    "teacher": "劉宗龍",
     "time": "T67W6-"
   },
   "1121_910273": {
@@ -40939,7 +40927,7 @@
     "memo": "上課地點在國防理工 ，授課教師:林盈志",
     "name": "服務學習 (2) Service Learning(2)",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "14",
     "teacher": "系統工程",
     "time": "F1-"
   },
@@ -40951,7 +40939,7 @@
     "memo": "上課地點在國防理工。",
     "name": "服務學習 (2) Service Learning(2)",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "21",
     "teacher": "系統工程",
     "time": "F1-"
   },
@@ -41048,7 +41036,7 @@
     "name": "導師輔導(5) Tutor Guidance(5) ",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "系統工程",
+    "teacher": "劉宗龍",
     "time": "M12-"
   },
   "1121_910288": {
@@ -41707,7 +41695,7 @@
     "memo": "上課地點在國防理工",
     "name": "中級英文(1) Intermediate English(1)",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "26",
     "teacher": "系統工程",
     "time": "F12-"
   },
@@ -42031,7 +42019,7 @@
     "memo": "上課地點在國防理工",
     "name": "孫子兵法與人生 The Art of War and Life",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "25",
     "teacher": "系統工程",
     "time": "F34-"
   },
@@ -42139,7 +42127,7 @@
     "memo": "上課地點在國防理工",
     "name": "美學與人生   Aesthetics and Life",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "28",
     "teacher": "系統工程",
     "time": "W67-"
   },
@@ -42655,7 +42643,7 @@
     "memo": "上課地點: 國防理工學院",
     "name": "太空專題實作(1) Project on Aerospace(1)",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "7",
     "teacher": "李彥宏",
     "time": "M678-"
   },
@@ -42691,7 +42679,7 @@
     "memo": "上課地點: 國防理工學院",
     "name": "服務學習 (2) Service Learning(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "系統工程",
     "time": "W1-"
   },
@@ -42739,7 +42727,7 @@
     "memo": "上課地點: 國防理工學院",
     "name": "太空與國防 Space and National Defense",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "18",
     "teacher": "李彥宏",
     "time": "M34-"
   },

@@ -1163,18 +1163,6 @@
     "teacher": "陳瓊芬",
     "time": "W56-YD214[YM]"
   },
-  "1121_111502": {
-    "code": "DEDE10005",
-    "credit": "2.00",
-    "hours": "4.00",
-    "id": "111502",
-    "memo": "",
-    "name": "口腔醫學專題研究 Independent Study on Oral Medicine",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "洪善鈴、楊政杰、吳靜宜",
-    "time": "W9abc-YD302[YM]"
-  },
   "1121_111503": {
     "code": "DEDE10009",
     "credit": "2.00",
@@ -1270,18 +1258,6 @@
     "reg_num": "41",
     "teacher": "蔡佳倫、李士元、李亞芸、白勝方、徐永儀、何怡青、陳益貞、林慧青、陳泰全、王友志",
     "time": "F56789a-YD202[YM]"
-  },
-  "1121_111511": {
-    "code": "DEDE10061",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "111511",
-    "memo": "",
-    "name": "醫學數位內容 The introduction of digital clinical content ",
-    "num_limit": "50",
-    "reg_num": "0",
-    "teacher": "楊政杰、朱唯勤、賴穎暉",
-    "time": "S234-YD320[YM]"
   },
   "1121_111512": {
     "code": "DEDE20001",
@@ -1759,7 +1735,7 @@
     "memo": "",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "50",
-    "reg_num": "49",
+    "reg_num": "47",
     "teacher": "林宥成",
     "time": "W56-ED302[GF]"
   },
@@ -3283,7 +3259,7 @@
     "memo": "非物治系學生選修本課程，需先經授課老師同意",
     "name": "操作治療學 Manual Therapy",
     "num_limit": "45",
-    "reg_num": "38",
+    "reg_num": "39",
     "teacher": "王子娟、蔡永裕、李茵",
     "time": "T56-YB601[YM]"
   },
@@ -3667,7 +3643,7 @@
     "memo": "",
     "name": "微積分 Calculus",
     "num_limit": "150",
-    "reg_num": "111",
+    "reg_num": "110",
     "teacher": "宋文旭",
     "time": "T78-CS100[GF],T78-YX216[YM]"
   },
@@ -6307,7 +6283,7 @@
     "memo": "",
     "name": "專案管理實務應用 Project management: Principles and Practice",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "李清池",
     "time": "R78-YN514[YM]"
   },
@@ -7363,7 +7339,7 @@
     "memo": "",
     "name": "睡眠訊號分析與臨床判讀實務 Rules and Practice of Sleep Stage Scoring",
     "num_limit": "6",
-    "reg_num": "7",
+    "reg_num": "8",
     "teacher": "蔡欣融",
     "time": "M78-YL845[YM]"
   },
@@ -9847,7 +9823,7 @@
     "memo": null,
     "name": "實驗腫瘤治療學 Experimental cancer therapy",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "藍耿立",
     "time": "R12-YR104[YM]"
   },
@@ -10147,7 +10123,7 @@
     "memo": "[English Medium Course]開放隨班附讀",
     "name": "LabVIEW程式設計與應用 LabVIEW Programming and Applications",
     "num_limit": "20",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "陳奕帆",
     "time": "F234-YL403[YM]"
   },
@@ -17851,7 +17827,7 @@
     "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於9月20日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機工程專題 (一) Special Project on Electrical Engineering (I)",
     "num_limit": "9999",
-    "reg_num": "257",
+    "reg_num": "258",
     "teacher": "電機系",
     "time": ""
   },
@@ -19256,7 +19232,7 @@
     "name": "導師時間-快樂機械人(一) Happy Mechanical Engineers (I)",
     "num_limit": "9999",
     "reg_num": "109",
-    "teacher": "黃正昇",
+    "teacher": "黃正昇、洪景華",
     "time": "W78-EE106[GF]"
   },
   "1121_516106": {
@@ -24091,7 +24067,7 @@
     "memo": "",
     "name": "專題研究 Graduate Research",
     "num_limit": "9999",
-    "reg_num": "471",
+    "reg_num": "472",
     "teacher": "電子所",
     "time": ""
   },
@@ -27091,7 +27067,7 @@
     "memo": "[English Medium Course]",
     "name": "專題演講 Colloquium",
     "num_limit": "9999",
-    "reg_num": "201",
+    "reg_num": "202",
     "teacher": "鍾介文",
     "time": "R56-SC001[GF]"
   },
@@ -27835,7 +27811,7 @@
     "memo": "",
     "name": "書報討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "孟心飛",
     "time": "R56-SC157[GF]"
   },
@@ -29023,7 +28999,7 @@
     "memo": "限科管所",
     "name": "國際行銷 International Marketing",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "林亭汝",
     "time": "Mabc-A722[GF]"
   },
@@ -32407,7 +32383,7 @@
     "memo": "限牙醫系一。 1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設核心社會,欲採計核心自然請至通識中心書面申請。",
     "name": "普通心理學 General Psychology",
     "num_limit": "42",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "許鶯珠",
     "time": "M56-A503[GF]"
   },

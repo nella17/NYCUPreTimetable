@@ -91,7 +91,7 @@
     "memo": "",
     "name": "微積分(一) Calculus Ⅰ",
     "num_limit": "9999",
-    "reg_num": "111",
+    "reg_num": "110",
     "teacher": "宋文旭",
     "time": "W12-YX216[YM]"
   },
@@ -631,7 +631,7 @@
     "memo": "醫學系學生皆可選修，如預選修之同學請由「醫師科學家專題研究(一)」開始選修，惟醫師科研學程學生必修；醫學系B組同學不可同時選修醫師科學家碩士專題研究；須先找好專題研究指導老師後，再加選本堂課。",
     "name": "醫師科學家專題研究(一) Physician-Scientist Program-Research 1",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "兵岳忻",
     "time": "Uabc-"
   },
@@ -703,7 +703,7 @@
     "memo": "醫學系學生皆可選修，如預選修之同學請由「醫師科學家暑期專題研究(一)」開始選修；須先找好專題研究指導老師後，再加選本堂課。",
     "name": "醫師科學家暑期專題研究(一) Physician-Scientist Program-Summer Research (1)",
     "num_limit": "9999",
-    "reg_num": "3",
+    "reg_num": "2",
     "teacher": "兵岳忻",
     "time": "S12-YM201[YM]"
   },
@@ -6825,7 +6825,7 @@
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "黃鈺芳",
-    "time": "F34-YS103[YM]"
+    "time": "F12-YS103[YM]"
   },
   "1121_130829": {
     "code": "MDEO30003",
@@ -6986,7 +6986,7 @@
   "1121_131004": {
     "code": "MDBI30089",
     "credit": ".00",
-    "hours": "2.00",
+    "hours": "1.00",
     "id": "131004",
     "memo": "",
     "name": "生物醫學資訊學新知（一） Advances in Biomedical Informatics I",
@@ -7255,7 +7255,7 @@
     "memo": "開放其他所選修和隨班附讀及大學部選修",
     "name": "小鼠行為學特論 Current Topics in Mouse Behavioral Studies",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "鄭菡若",
     "time": "F567-YL745[YM]"
   },
@@ -10831,7 +10831,7 @@
     "memo": "全英語授課課程。限修原因：維持課程品質。前九週上課，每次兩小時，課程提前結束。[English Medium Course] 實地線上混合教學課程 (陽明校區：YK101；交大校區：線上，請向教師索取線上連結)",
     "name": "基礎英文科學寫作 Basic Scientific Writing in English",
     "num_limit": "40",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "柯比KIRBY RALPH",
     "time": "W56-YK101[YM]"
   },
@@ -13940,7 +13940,7 @@
     "name": "跨領域通識課：那些動物教我的事 Cross-Disciplinary GE Course： Things We Learned from Animals",
     "num_limit": "50",
     "reg_num": "59",
-    "teacher": "李怡萱、郭文瑞、俞震亞、鄭凱元、嚴如玉、勞維俊、曲在雯、廖文霖、尼大衛、魏雋展",
+    "teacher": "李怡萱、郭文瑞、俞震亞、鄭凱元、嚴如玉、曲在雯、廖文霖、尼大衛、魏雋展",
     "time": "R78-CS100[GF],R78-YL402[YM]"
   },
   "1121_161090": {
@@ -21871,7 +21871,7 @@
     "memo": "",
     "name": "專題探索(一) Topics Exploration (I)",
     "num_limit": "9999",
-    "reg_num": "34",
+    "reg_num": "35",
     "teacher": "程源中",
     "time": ""
   },
@@ -21895,7 +21895,7 @@
     "memo": "",
     "name": "畢業專題(一) Senior project(I)",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "8",
     "teacher": "安勤之",
     "time": ""
   },
@@ -22015,7 +22015,7 @@
     "memo": "",
     "name": "畢業專題(一) Senior project(I)",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "安勤之",
     "time": ""
   },
@@ -35275,7 +35275,7 @@
     "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "藍于青",
     "time": "F56-PhE[YM]"
   },

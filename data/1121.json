@@ -1735,7 +1735,7 @@
     "memo": "",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "50",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "林宥成",
     "time": "W56-ED302[GF]"
   },
@@ -8767,7 +8767,7 @@
     "memo": "",
     "name": "藥品臨床試驗法規科學與專利實務 Clinical Trial Regulatory Science and Patent Practice",
     "num_limit": "30",
-    "reg_num": "15",
+    "reg_num": "16",
     "teacher": "張連成、許銘能",
     "time": "W34-YR103[YM]"
   },
@@ -13375,7 +13375,7 @@
     "memo": "[English Medium Course]初選限醫技一、護理一、醫工一，全英語授課，為維持教學品質，限制修課人數。",
     "name": "BBC 6 分鐘英文：環境議題 BBC 6-minute English: Environmental Issues",
     "num_limit": "33",
-    "reg_num": "36",
+    "reg_num": "37",
     "teacher": "林志瑋",
     "time": "W12-YT103[YM]"
   },
@@ -17419,7 +17419,7 @@
     "memo": "",
     "name": "微分方程 Differential Equation",
     "num_limit": "55",
-    "reg_num": "76",
+    "reg_num": "75",
     "teacher": "鄭裕庭",
     "time": "M34W2-ED203[GF]"
   },
@@ -35395,7 +35395,7 @@
     "memo": "上課地點：陽明校區活動中心韻律教室。\n第一階段開放選課系級：醫二B、生科不分二、數位醫療學程二。\n第二階段後開放選修。",
     "name": "體適能 Fitness",
     "num_limit": "30",
-    "reg_num": "15",
+    "reg_num": "23",
     "teacher": "徐煒杰",
     "time": "M12-PhE[YM]"
   },
@@ -35407,7 +35407,7 @@
     "memo": "上課地點：陽明校區活動中心韻律教室。\n第一階段開放選課系級：醫工三、醫放三、物輔三。\n第二階段後開放選修。",
     "name": "熱力有氧 vital aerobic exercise",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "藍于青",
     "time": "M34-PhE[YM]"
   },
@@ -35419,7 +35419,7 @@
     "memo": "上課地點：陽明校區活動中心韻律教室。\n第一階段開放選課系級：醫工三、醫放三、物輔三。\n第二階段後開放選修。",
     "name": "體適能 Fitness",
     "num_limit": "30",
-    "reg_num": "20",
+    "reg_num": "21",
     "teacher": "徐煒杰",
     "time": "M34-PhE[YM]"
   },
@@ -35431,7 +35431,7 @@
     "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：牙醫二、牙醫三。\n第二階段後開放選修。",
     "name": "籃球 Basketball",
     "num_limit": "30",
-    "reg_num": "28",
+    "reg_num": "31",
     "teacher": "陳厚諭",
     "time": "M56-PhE[YM]"
   },
@@ -35443,7 +35443,7 @@
     "memo": "上課地點：陽明校區山下網球場。\n第一階段開放選課系級：牙醫二、牙醫三。\n第二階段後開放選修。",
     "name": "網球 Tennis",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "28",
     "teacher": "莊泰源",
     "time": "M56-PhE[YM]"
   },
@@ -35455,7 +35455,7 @@
     "memo": "上課地點：陽明校區山下網球場。\n第一階段開放選課系級：醫學三。\n第二階段後開放選修。",
     "name": "網球 Tennis",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "33",
     "teacher": "陳厚諭",
     "time": "M78-PhE[YM]"
   },
@@ -35467,7 +35467,7 @@
     "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：醫學三。\n第二階段後開放選修。",
     "name": "匹克球 Pickleball",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "32",
     "teacher": "藍于青",
     "time": "M78-PhE[YM]"
   },
@@ -35479,7 +35479,7 @@
     "memo": "上課地點：陽明校區山頂運動場。\n第一階段開放選課系級：醫學三。\n第二階段後開放選修。",
     "name": "足球 Soccer",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "徐煒杰",
     "time": "M78-PhE[YM]"
   },
@@ -35491,7 +35491,7 @@
     "memo": "上課地點：陽明校區山下排球場。\n第一階段開放選課系級：醫學三。\n第二階段後開放選修。",
     "name": "排球 Volleyball",
     "num_limit": "30",
-    "reg_num": "28",
+    "reg_num": "30",
     "teacher": "魏豐閔",
     "time": "M78-PhE[YM]"
   },
@@ -35503,7 +35503,7 @@
     "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：護理二。\n第二階段後開放選修。",
     "name": "匹克球 Pickleball",
     "num_limit": "30",
-    "reg_num": "29",
+    "reg_num": "30",
     "teacher": "黃中興",
     "time": "T12-PhE[YM]"
   },
@@ -35527,7 +35527,7 @@
     "memo": "上課地點：陽明校區活動中心韻律教室。\n第一階段開放選課系級：醫學二、數位醫療三。\n第二階段後開放選修。",
     "name": "動力伸展與紓壓 Power Extension and Relax",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "藍于青",
     "time": "W12-PhE[YM]"
   },
@@ -35539,7 +35539,7 @@
     "memo": "上課地點：陽明校區山下網球場。\n第一階段開放選課系級：醫學二、數位醫療三。\n第二階段後開放選修。",
     "name": "網球 Tennis",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "33",
     "teacher": "魏豐閔",
     "time": "W12-PhE[YM]"
   },
@@ -35575,7 +35575,7 @@
     "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：生科不分三。\n第二階段後開放選修。",
     "name": "羽球 Badminton",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "黃志成",
     "time": "W56-PhE[YM]"
   },
@@ -35587,7 +35587,7 @@
     "memo": "上課地點：陽明校區活動中心桌球室。\n第一階段開放選課系級：醫技二。\n第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "黃中興",
     "time": "W78-PhE[YM]"
   },
@@ -35599,7 +35599,7 @@
     "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：醫技二。\n第二階段後開放選修。",
     "name": "羽球 Badminton",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "32",
     "teacher": "黃志成",
     "time": "W78-PhE[YM]"
   },
@@ -35635,7 +35635,7 @@
     "memo": "上課地點：陽明校區游泳健身館。\n第一階段開放選課系級：物輔二。\n第二階段後開放選修。",
     "name": "游泳 swim",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "魏豐閔",
     "time": "R34-PhE[YM]"
   },
@@ -35647,7 +35647,7 @@
     "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：護理三。\n第二階段後開放選修。",
     "name": "匹克球 Pickleball",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "33",
     "teacher": "藍于青",
     "time": "F12-PhE[YM]"
   },
@@ -35671,7 +35671,7 @@
     "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：醫技三、醫工二。\n第二階段後開放選修。",
     "name": "籃球 Basketball",
     "num_limit": "30",
-    "reg_num": "10",
+    "reg_num": "11",
     "teacher": "陳厚諭",
     "time": "F34-PhE[YM]"
   },
@@ -35683,7 +35683,7 @@
     "memo": "上課地點：陽明校區活動中心韻律教室。\n第一階段開放選課系級：藥學二、醫放二。\n第二階段後開放選修。",
     "name": "太極拳 Tai Chi",
     "num_limit": "30",
-    "reg_num": "13",
+    "reg_num": "18",
     "teacher": "張耀庭",
     "time": "F56-PhE[YM]"
   },
@@ -35707,7 +35707,7 @@
     "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：醫工三、醫放三、物輔三。\n第二階段後開放選修。",
     "name": "五人制足球 Futsal",
     "num_limit": "30",
-    "reg_num": "10",
+    "reg_num": "11",
     "teacher": "莊泰源",
     "time": "M34-PhE[YM]"
   },

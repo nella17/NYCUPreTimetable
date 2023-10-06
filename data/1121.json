@@ -3116,7 +3116,7 @@
     "name": "物理治療導論 Introduction to Physical Therapy",
     "num_limit": "45",
     "reg_num": "44",
-    "teacher": "陳喬男、王瑞瑤、楊雅如、李淑貞、李雪楨、蔡美文、羅鴻基、黃崇舜、林吟亮",
+    "teacher": "陳喬男、王瑞瑤、楊雅如、李淑貞、李雪楨、羅鴻基、黃崇舜、林吟亮",
     "time": "T3-YB601[YM]"
   },
   "1121_112202": {
@@ -3200,7 +3200,7 @@
     "name": "基礎物理治療學 Fundamental Physical Therapy",
     "num_limit": "45",
     "reg_num": "38",
-    "teacher": "施怡芬、王瑞瑤、楊雅如、蔡美文、羅鴻基、黃崇舜、彭麗貞、王怡品、吳若嫣",
+    "teacher": "施怡芬、王瑞瑤、楊雅如、羅鴻基、黃崇舜、彭麗貞、王怡品、吳若嫣",
     "time": "M56R5-YB601[YM]"
   },
   "1121_112213": {
@@ -3212,7 +3212,7 @@
     "name": "基礎物理治療學實作 Fundamental Physical Therapy and Practice",
     "num_limit": "45",
     "reg_num": "38",
-    "teacher": "施怡芬、王瑞瑤、楊雅如、蔡美文、羅鴻基、黃崇舜、彭麗貞、王怡品、吳若嫣",
+    "teacher": "施怡芬、王瑞瑤、楊雅如、羅鴻基、黃崇舜、彭麗貞、王怡品、吳若嫣",
     "time": "M78R678-YB601[YM]"
   },
   "1121_112214": {
@@ -3224,7 +3224,7 @@
     "name": "臨床見習(一) Clinical Clerkship in Physical Therapy(Ⅰ)",
     "num_limit": "45",
     "reg_num": "38",
-    "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、蔡美文、黃崇舜、朱俊榮、林珊如、魏敏如、徐瑞隆、陳元劭、蔡佳容、林佩伶、秦雅玲、方婉羽、張簡書勝、葉姵君、邵芙昕、喻大忠、蔡明倫、黃建儒、李肇中、李怡安、宋敦仁、黃琬葶、高宜暄、莊雅雯、周玟玲、張伸睿、黃亭瑜、厲真、蔡瑋祺、杜俊宏、張育嘉、張杏妃、曾俊智、李建志、廖儀依、許穎昌、巫俊杉、王禎、王祚萱、顏如欣、杜禹昇、陳慧玲、徐綺霞、翁昀秀、陳詠馨、陳琬婷、王佩茹、楊政浩、楊子瑩、游佩芯、黃佳琦、呂怡慧",
+    "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、黃崇舜、魏敏如、陳元劭、蔡佳容、林佩伶、秦雅玲、方婉羽、張簡書勝、葉姵君、喻大忠、蔡明倫、黃建儒、李肇中、李怡安、宋敦仁、黃琬葶、高宜暄、莊雅雯、周玟玲、張伸睿、黃亭瑜、厲真、蔡瑋祺、張杏妃、曾俊智、李建志、廖儀依、許穎昌、巫俊杉、王禎、王祚萱、顏如欣、杜禹昇、陳慧玲、翁昀秀、陳詠馨、陳琬婷、王佩茹、楊政浩、楊子瑩、游佩芯",
     "time": "T12-YB624[YM]"
   },
   "1121_112215": {
@@ -3380,7 +3380,7 @@
     "name": "物理治療臨床實習(三) Physical Therapy Practicum (III)",
     "num_limit": "45",
     "reg_num": "39",
-    "teacher": "羅鴻基、李雪楨、蔡美文、施惠婷",
+    "teacher": "羅鴻基、李雪楨、施惠婷",
     "time": "F12345678-"
   },
   "1121_112228": {
@@ -3428,7 +3428,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "45",
     "reg_num": "40",
-    "teacher": "蔡美文、王子娟、林吟亮",
+    "teacher": "王子娟、林吟亮",
     "time": "Tcd-"
   },
   "1121_112232": {
@@ -3548,7 +3548,7 @@
     "name": "競技運動防護見習(一) Field Observation for Sport Injury Management(Ⅰ)",
     "num_limit": "45",
     "reg_num": "16",
-    "teacher": "黃崇舜、王子娟、施怡芬、蔡美文、林吟亮",
+    "teacher": "黃崇舜、王子娟、施怡芬、林吟亮",
     "time": "Uyz-YB603[YM]"
   },
   "1121_112243": {
@@ -3560,7 +3560,7 @@
     "name": "競技運動防護見習：基礎評估 Field Observation for Sports InjuryManagement: Assessment skills",
     "num_limit": "45",
     "reg_num": "8",
-    "teacher": "黃崇舜、王子娟、施怡芬、蔡美文、林吟亮",
+    "teacher": "黃崇舜、王子娟、施怡芬、林吟亮",
     "time": "Uyz-"
   },
   "1121_112244": {
@@ -3572,7 +3572,7 @@
     "name": "競技運動防護見習：脊椎評估與處置 Field Observation for Sports InjuryManagement: Assessment and management of thespine",
     "num_limit": "45",
     "reg_num": "4",
-    "teacher": "黃崇舜、王子娟、施怡芬、蔡美文、林吟亮",
+    "teacher": "黃崇舜、王子娟、施怡芬、林吟亮",
     "time": "Uyz-"
   },
   "1121_112245": {
@@ -3608,7 +3608,7 @@
     "name": "物理治療臨床實習(九) Physical Therapy Practicum (IX)",
     "num_limit": "45",
     "reg_num": "26",
-    "teacher": "羅鴻基、李雪楨、蔡美文",
+    "teacher": "羅鴻基、李雪楨、施惠婷",
     "time": "U1234-"
   },
   "1121_112251": {
@@ -3680,7 +3680,7 @@
     "name": "高齡健康促進 Health Promotion in Elderly",
     "num_limit": "32",
     "reg_num": "15",
-    "teacher": "楊雅如、陳喬男、李淑貞、李雪楨、蔡美文、劉力幗、吳品嫻、王怡品",
+    "teacher": "楊雅如、陳喬男、李淑貞、李雪楨、劉力幗、吳品嫻、王怡品",
     "time": "R34-YB603[YM]"
   },
   "1121_112257": {
@@ -3716,7 +3716,7 @@
     "name": "臨床見習(三) Clinical Clerkship in Physical Therapy (Ⅲ)",
     "num_limit": "45",
     "reg_num": "38",
-    "teacher": "林吟亮、王子娟、楊雅如、陳喬男、羅鴻基、黃崇舜、張正琪、朱俊榮、陳子敬、董阜玲、徐瑞隆、蔡佳容、林維萱、邵芙昕、喻大忠、蔡明倫、黃建儒、黃琬葶、莊雅雯、陳恩賜、厲真、魏士傑、杜俊宏、張娟青、曾俊智、李建志、許穎昌、陳俊年、羅士倫、巫俊杉、王祚萱、張立萱、陳琬婷、楊政浩、陳靖沂、陳祐榕、黃安華",
+    "teacher": "林吟亮、王子娟、楊雅如、陳喬男、羅鴻基、黃崇舜、陳子敬、徐瑞隆、黃琬葶、陳恩賜、厲真、魏士傑、曾俊智、李建志、陳俊年、羅士倫、巫俊杉、王祚萱、張立萱、陳琬婷、楊政浩、陳靖沂",
     "time": "R78-YB624[YM]"
   },
   "1121_112260": {
@@ -3764,7 +3764,7 @@
     "name": "物理治療臨床實習(十一) Physical Therapy Practicum (XI)",
     "num_limit": "9999",
     "reg_num": "11",
-    "teacher": "羅鴻基、王子娟、王瑞瑤、施怡芬、楊雅如、陳喬男、李淑貞、李雪楨、蔡美文、周立偉、黃崇舜、林吟亮",
+    "teacher": "羅鴻基、王子娟、王瑞瑤、施怡芬、楊雅如、陳喬男、李淑貞、李雪楨、周立偉、黃崇舜、林吟亮",
     "time": "Syz-"
   },
   "1121_112266": {
@@ -3776,7 +3776,7 @@
     "name": "物理治療臨床實習(十二) Physical Therapy Practicum (XII)",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "羅鴻基、王子娟、王瑞瑤、施怡芬、楊雅如、陳喬男、李淑貞、李雪楨、蔡美文、周立偉、黃崇舜、林吟亮",
+    "teacher": "羅鴻基、王子娟、王瑞瑤、施怡芬、楊雅如、陳喬男、李淑貞、李雪楨、周立偉、黃崇舜、林吟亮",
     "time": "Uyz-"
   },
   "1121_112267": {
@@ -3788,7 +3788,7 @@
     "name": "整合性臨床骨科 Integrated Course in Clinical Orthopedic",
     "num_limit": "10",
     "reg_num": "3",
-    "teacher": "施世亮",
+    "teacher": "施世亮、張彧銓",
     "time": "W9a-YB530[YM]"
   },
   "1121_112300": {
@@ -6620,7 +6620,7 @@
     "name": "環境衛生學 Environmental Health",
     "num_limit": "9999",
     "reg_num": "22",
-    "teacher": "陳美蓮、楊振昌、余國賓、紀凱獻、黃鈺芳、潘文驥、張榮偉、李旻軒、郭憲文、王正雄",
+    "teacher": "陳美蓮、余國賓、紀凱獻、黃鈺芳、潘文驥、張榮偉、郭憲文、王正雄",
     "time": "T12-YS415[YM]"
   },
   "1121_130805": {
@@ -9500,7 +9500,7 @@
     "name": "加護病房之物理治療 Physical therapy in intensive care unit",
     "num_limit": "45",
     "reg_num": "13",
-    "teacher": "蔡美文、王瑞瑤、吳若嫣",
+    "teacher": "吳若嫣、王瑞瑤",
     "time": "R34-YB530[YM]"
   },
   "1121_132407": {
@@ -9548,7 +9548,7 @@
     "name": "營養學 Nutrition",
     "num_limit": "40",
     "reg_num": "6",
-    "teacher": "蔡美文、王鐘賢、金惠民、鐘子雯、林孟瑜",
+    "teacher": "王鐘賢、金惠民、鐘子雯、林孟瑜",
     "time": "T5678-YB636-1[YM"
   },
   "1121_132413": {
@@ -9560,7 +9560,7 @@
     "name": "專題討論(二) Seminar (II)",
     "num_limit": "40",
     "reg_num": "22",
-    "teacher": "楊雅如、王子娟、王瑞瑤、施怡芬、陳振昇、蔚順華、陳喬男、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、周立偉、羅鴻基、黃崇舜、施惠婷、林吟亮、李思平、陳昭縈",
+    "teacher": "楊雅如、王子娟、王瑞瑤、施怡芬、陳振昇、蔚順華、陳喬男、李雪楨、游忠煌、宋文旭、周立偉、羅鴻基、黃崇舜、施惠婷、林吟亮、李思平、陳昭縈",
     "time": "M5678-YB102[YM]"
   },
   "1121_132414": {
@@ -9572,7 +9572,7 @@
     "name": "健康促進與功能重建之理論基礎與實證(一) Health Promotion and Functional Restoration: Theory and Evidence (I)",
     "num_limit": "20",
     "reg_num": "4",
-    "teacher": "陳喬男、蔡美文",
+    "teacher": "陳喬男",
     "time": "M9a-YB624[YM]"
   },
   "1121_132415": {
@@ -9584,7 +9584,7 @@
     "name": "健康促進與功能重建之理論基礎與實證(三) Health Promotion and Functional Restoration: Theory and Evidence (III)",
     "num_limit": "20",
     "reg_num": "4",
-    "teacher": "李雪楨、蔡美文",
+    "teacher": "李雪楨",
     "time": "M9a-YB430[YM]"
   },
   "1121_132416": {
@@ -9692,7 +9692,7 @@
     "name": "競技傷害機能重建與實作(一) Sports Injury Functional Rehabilitation and Practicum(I)",
     "num_limit": "30",
     "reg_num": "7",
-    "teacher": "施怡芬、王子娟、蔡美文、黃崇舜、林吟亮",
+    "teacher": "施怡芬、王子娟、黃崇舜、林吟亮",
     "time": "Sabcd-YB636-1[YM"
   },
   "1121_132427": {
@@ -9704,7 +9704,7 @@
     "name": "競技傷害物理治療與實作(一) Sports Physical Therapy and Practicum(I)",
     "num_limit": "30",
     "reg_num": "7",
-    "teacher": "施怡芬、王子娟、蔡美文、黃崇舜、林吟亮",
+    "teacher": "施怡芬、王子娟、黃崇舜、林吟亮",
     "time": "Uabcd-YB636-1[YM"
   },
   "1121_132428": {
@@ -11276,7 +11276,7 @@
     "name": "專題討論：視覺社會史/學(三) Seminar: Social History and Sociology of Visual Cultures Ⅲ",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "邱剛彥、劉瑞琪、黃桂瑩、葉嘉華、王潔瑩",
+    "teacher": "邱剛彥、劉瑞琪、王潔瑩、黃桂瑩、葉嘉華",
     "time": "F12-YX322[YM]"
   },
   "1121_133306": {
@@ -12212,7 +12212,7 @@
     "name": "專題討論(二) Seminar (II)",
     "num_limit": "40",
     "reg_num": "1",
-    "teacher": "楊雅如、王子娟、王瑞瑤、施怡芬、陳振昇、蔚順華、陳喬男、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、周立偉、羅鴻基、黃崇舜、施惠婷、林吟亮、李思平、陳昭縈",
+    "teacher": "楊雅如、蔚順華、陳喬男、周立偉、羅鴻基、施惠婷、林吟亮、李思平、陳昭縈",
     "time": "M5678-YB102[YM]"
   },
   "1121_141903": {
@@ -13844,7 +13844,7 @@
     "name": "達文西的世界·世界的達文西 The World of Leonardo da Vinci",
     "num_limit": "45",
     "reg_num": "45",
-    "teacher": "葉嘉華、陳嘉新、邱剛彥、侯君昊、謝啟民、王潔瑩",
+    "teacher": "葉嘉華、陳嘉新、王潔瑩、邱剛彥、侯君昊、謝啟民",
     "time": "W56-A103[GF]"
   },
   "1121_161074": {
@@ -29361,7 +29361,7 @@
     "num_limit": "9999",
     "reg_num": "17",
     "teacher": "施明遠",
-    "time": "F567-A303[GF]"
+    "time": "F567-A307[GF]"
   },
   "1121_537913": {
     "code": "LWLW30163",

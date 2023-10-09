@@ -28,7 +28,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "030006",
-    "memo": "中央大學文學二館110\n",
+    "memo": "中央大學文學二館110，請參考下方連結檔案P5-P13，https://pdc.adm.ncu.edu.tw/Course/other/CCOP_1.pdf，建立中央的NetID(臨時學號)及個人基本資料。",
     "name": "電影研究之方法與課題 Methods & Issues in Film Studies",
     "num_limit": "9999",
     "reg_num": "3",
@@ -40,7 +40,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "030007",
-    "memo": "中央大學 文學二館437",
+    "memo": "中央大學 文學二館437，請參考下方連結檔案P5-P13，https://pdc.adm.ncu.edu.tw/Course/other/CCOP_1.pdf，建立中央的NetID(臨時學號)及個人基本資料。",
     "name": "日常生活與文化理論 Everyday Life and Cultural Theory",
     "num_limit": "9999",
     "reg_num": "1",
@@ -6860,7 +6860,7 @@
     "name": "研究報告初報 Background Review for the Proposal",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "許瀚水、陳理維、鄭玫枝、丁乾坤、林邑璁、宋思賢、劉嘉仁",
+    "teacher": "鄭玫枝、陳理維、許瀚水、丁乾坤、林邑璁、宋思賢、劉嘉仁",
     "time": "R7-YN118[YM]"
   },
   "1121_130901": {
@@ -6872,7 +6872,7 @@
     "name": "研究進度報告 Progress Report",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "許瀚水、陳理維、鄭玫枝、丁乾坤、林邑璁、宋思賢、劉嘉仁",
+    "teacher": "鄭玫枝、陳理維、許瀚水、丁乾坤、林邑璁、宋思賢、劉嘉仁",
     "time": "R8-YN118[YM]"
   },
   "1121_130902": {
@@ -11828,7 +11828,7 @@
     "name": "博士論文研究初報 Research Review of Thesis - PhD Program",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "許瀚水、陳理維、鄭玫枝、丁乾坤、林邑璁、宋思賢、劉嘉仁",
+    "teacher": "鄭玫枝、陳理維、許瀚水、丁乾坤、林邑璁、宋思賢、劉嘉仁",
     "time": "R78-YN118[YM]"
   },
   "1121_140701": {
@@ -11840,7 +11840,7 @@
     "name": "博士論文進度報告 Progress Report - PhD Program",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "許瀚水、陳理維、鄭玫枝、丁乾坤、林邑璁、宋思賢、劉嘉仁",
+    "teacher": "鄭玫枝、陳理維、許瀚水、丁乾坤、林邑璁、宋思賢、劉嘉仁",
     "time": "R78-YN118[YM]"
   },
   "1121_140800": {
@@ -13029,7 +13029,7 @@
     "num_limit": "40",
     "reg_num": "40",
     "teacher": "唐岱霞",
-    "time": "F56-YX503[YM]"
+    "time": "F56-YX501[YM]"
   },
   "1121_161003": {
     "code": "GECE00113",
@@ -13041,7 +13041,7 @@
     "num_limit": "32",
     "reg_num": "7",
     "teacher": "唐岱霞",
-    "time": "F78-YX503[YM]"
+    "time": "F78-YX501[YM]"
   },
   "1121_161004": {
     "code": "GECE00133",
@@ -16936,7 +16936,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "514119",
-    "memo": "共掛核心課程，建議大一修習，其他年級依照自己需求彈性修課。",
+    "memo": "[English Medium Course]共掛核心課程，建議大一修習，其他年級依照自己需求彈性修課。",
     "name": "西洋文學概論(一) Introduction to Western Literature (1)",
     "num_limit": "70",
     "reg_num": "64",
@@ -24391,7 +24391,7 @@
     "memo": "",
     "name": "資料轉換積體電路 Data Conversion Integrated Circuits",
     "num_limit": "9999",
-    "reg_num": "67",
+    "reg_num": "66",
     "teacher": "吳介琮",
     "time": "M2T2W2-ED219[GF]"
   },
@@ -25279,7 +25279,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "419",
+    "reg_num": "418",
     "teacher": "資科工所",
     "time": ""
   },
@@ -30067,7 +30067,7 @@
     "memo": "電控組；限陽明交大在職專班學生選修",
     "name": "微感測器設計 Design of Microsensors",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "17",
     "teacher": "邱一",
     "time": "Wabc-EE208[GF]"
   },

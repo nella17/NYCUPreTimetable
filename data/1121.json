@@ -7220,7 +7220,7 @@
     "name": "數位醫學 Digital Medicine",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "楊智傑、吳俊穎、唐高駿、楊永正",
+    "teacher": "楊智傑、郭博昭、吳俊穎、唐高駿、楊永正",
     "time": "W56-YR104[YM]"
   },
   "1121_131101": {
@@ -12212,7 +12212,7 @@
     "name": "專題討論(二) Seminar (II)",
     "num_limit": "40",
     "reg_num": "1",
-    "teacher": "楊雅如、蔚順華、陳喬男、周立偉、羅鴻基、施惠婷、林吟亮、李思平、陳昭縈",
+    "teacher": "林吟亮、蔚順華、陳喬男、周立偉、羅鴻基、施惠婷、李思平、陳昭縈",
     "time": "M5678-YB102[YM]"
   },
   "1121_141903": {
@@ -20083,7 +20083,7 @@
     "memo": "限材料系選修",
     "name": "服務學習 (二) Service Learning II",
     "num_limit": "9999",
-    "reg_num": "52",
+    "reg_num": "51",
     "teacher": "楊朝堯",
     "time": "F78-"
   },
@@ -25279,7 +25279,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "418",
+    "reg_num": "416",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25567,7 +25567,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "128",
+    "reg_num": "127",
     "teacher": "網工所",
     "time": ""
   },
@@ -37351,7 +37351,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "106",
+    "reg_num": "101",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },

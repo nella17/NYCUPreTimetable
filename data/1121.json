@@ -392,7 +392,7 @@
     "name": "生理學 Physiology",
     "num_limit": "9999",
     "reg_num": "176",
-    "teacher": "吳鈺琳、胡瑜峰、黃娟娟、阮琪昌、李怡萱、林惠菁、黃自強、張原翊、簡千栩、吳莉玲、董萃英",
+    "teacher": "吳鈺琳、胡瑜峰、阮琪昌、李怡萱、林惠菁、黃自強、張原翊、簡千栩、吳莉玲、董萃英",
     "time": "M1234T1234W1234R1234F1234-YT001[YM]"
   },
   "1121_110033": {
@@ -3824,7 +3824,7 @@
     "name": "普通生物學實驗 Laboratory Studies of Biology",
     "num_limit": "9999",
     "reg_num": "76",
-    "teacher": "羅清維、陳俊銘、俞震亞、林崇智、陳嘉霖、姜為中、陳妤、吳如蕙",
+    "teacher": "羅清維、陳俊銘、俞震亞、林崇智、陳嘉霖、姜為中",
     "time": "M567-YED109[YM]"
   },
   "1121_112303": {
@@ -4723,7 +4723,7 @@
     "memo": "牙醫一, 醫技一, 藥學合班上課",
     "name": "化學原理 General Chemistry",
     "num_limit": "9999",
-    "reg_num": "108",
+    "reg_num": "107",
     "teacher": "黃介嶸、姜為中、許邦弘",
     "time": "F56-AB102[GF],F56-YX406[YM]"
   },
@@ -8552,7 +8552,7 @@
     "name": "衛生行政與健康保險 Health Policy and Health Insurance",
     "num_limit": "35",
     "reg_num": "38",
-    "teacher": "許銘能、吳肖琪、李玉春、楊靖慧、黃彥芳、廖薰香、蔡淑鈴、祝健芳、吳全峰、劉玉菁、李佩芸",
+    "teacher": "許銘能、吳肖琪、李玉春、楊靖慧、黃彥芳、廖薰香、蔡淑鈴、祝健芳、吳全峰、劉玉菁、諶立中、李佩芸",
     "time": "R56-YK533[YM]"
   },
   "1121_132008": {
@@ -10144,7 +10144,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "132614",
-    "memo": "如有外籍生選修則英語授課。Teach in English and Chinese[English Medium Course]",
+    "memo": "如有外籍生選修則英語授課。Teach in English and Chinese",
     "name": "生醫斷層影像原理與應用 Principle and applications of biomedical tomography",
     "num_limit": "30",
     "reg_num": "22",
@@ -12620,7 +12620,7 @@
     "name": "醫藥品產業概論 Introduction to the Pharmaceutical and Medical Device Industry",
     "num_limit": "45",
     "reg_num": "10",
-    "teacher": "楊世偉、吳育德、康照洲、楊智傑、高純琇、溫國蘭、鄭仲志、周麗美、王怡婷、蔡恩加、李弼凱、郭義松",
+    "teacher": "楊世偉、吳育德、康照洲、楊智傑、高純琇、劉建昇、溫國蘭、鄭仲志、周麗美、王怡婷、蔡恩加、李弼凱、廖建忠、郭義松",
     "time": "W89-YR105[YM]"
   },
   "1121_150000": {
@@ -25279,7 +25279,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "414",
+    "reg_num": "413",
     "teacher": "資科工所",
     "time": ""
   },

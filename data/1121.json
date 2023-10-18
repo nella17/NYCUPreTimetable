@@ -1184,7 +1184,7 @@
     "name": "口腔胚胎及組織學實驗 Oral Embryology & Histology Lab.",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "夏堪臺、黎萬君、吳靜宜、林怡彣、張婷菡",
+    "teacher": "夏堪臺、吳靜宜、林怡彣、張婷菡",
     "time": "T1234F12345678-YD320[YM]"
   },
   "1121_111505": {
@@ -25279,7 +25279,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "412",
+    "reg_num": "409",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25675,7 +25675,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "134",
+    "reg_num": "132",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -25843,7 +25843,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "55",
+    "reg_num": "52",
     "teacher": "電資碩士學程",
     "time": ""
   },

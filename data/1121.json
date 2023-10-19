@@ -3416,7 +3416,7 @@
     "name": "臨床推理與決策分析(一) Clinical Reasoning and Decision Making (Ⅰ)",
     "num_limit": "45",
     "reg_num": "38",
-    "teacher": "王子娟、王瑞瑤、楊雅如、羅鴻基、施惠婷、陳子敬、劉育銓",
+    "teacher": "王子娟、王瑞瑤、楊雅如、羅鴻基、施惠婷、王鐘賢、金惠民、陳子敬、劉育銓",
     "time": "R5-YB602[YM]"
   },
   "1121_112231": {
@@ -5564,7 +5564,7 @@
     "name": "藥理學實驗教學實習(一)  Pharmacology Lab.Teaching Practice (I)",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "張婷婷",
+    "teacher": "王湘翠",
     "time": "R345678-YED214[YM]"
   },
   "1121_130116": {
@@ -8216,7 +8216,7 @@
     "name": "護理角色於社會心理以及社會福祉的照護 Nurses’role on psychosocial and well-being",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "陳律言、黃子庭、孫秀卿、陳俞琪、張秀如、林承霈",
+    "teacher": "陳律言、黃子庭、孫秀卿、陳俞琪、張秀如、林承霈、AGUS SETIAWAN",
     "time": "R89-YN301[YM]"
   },
   "1121_131715": {
@@ -24583,7 +24583,7 @@
     "memo": "",
     "name": "電力電子 Power Electronics",
     "num_limit": "55",
-    "reg_num": "98",
+    "reg_num": "97",
     "teacher": "侯中權",
     "time": "Tabc-EE105[GF]"
   },
@@ -25279,7 +25279,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "409",
+    "reg_num": "405",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25675,7 +25675,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "132",
+    "reg_num": "131",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -25903,7 +25903,7 @@
     "memo": "前瞻所丙組核心課程；智能所甲組、丙組選修課程[English Medium Course]",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "9999",
-    "reg_num": "318",
+    "reg_num": "317",
     "teacher": "黃柏蒼",
     "time": "M567-AB101[GF]"
   },
@@ -26143,7 +26143,7 @@
     "memo": "教室在EE B1會議廳",
     "name": "書報討論（一） Seminar (I)",
     "num_limit": "9999",
-    "reg_num": "255",
+    "reg_num": "254",
     "teacher": "蔡佳霖",
     "time": "R78-EEB24[GF]"
   },
@@ -30895,7 +30895,7 @@
     "memo": "1.限財金專班同學選修 2.上課時間及地點將依指導教授不同而有異動 3.尚未擇定指導教授者不得選修；選課前請確認已繳交指導教授申請表。",
     "name": "碩士論文研究 Thesis",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "12",
     "teacher": "財金所",
     "time": "Uabc-M101[GF]"
   },

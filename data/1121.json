@@ -12188,7 +12188,7 @@
     "name": "進階生物藥學專題討論 Advanced Biopharmaceutical Sciences Seminar",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "蘇瑀、胡瑜峰、黃奇英、何國牟、張牧新、金翠庭",
+    "teacher": "蘇瑀、胡瑜峰、黃奇英、何國牟、張牧新",
     "time": "T78-YC101[YM]"
   },
   "1121_141702": {
@@ -25279,7 +25279,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "405",
+    "reg_num": "404",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25567,7 +25567,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "127",
+    "reg_num": "126",
     "teacher": "網工所",
     "time": ""
   },
@@ -25675,7 +25675,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "131",
+    "reg_num": "129",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -35599,7 +35599,7 @@
     "memo": "上課地點：陽明校區活動中心綜合球場。\n第一階段開放選課系級：醫技二。\n第二階段後開放選修。",
     "name": "羽球 Badminton",
     "num_limit": "30",
-    "reg_num": "32",
+    "reg_num": "33",
     "teacher": "黃志成",
     "time": "W78-PhE[YM]"
   },

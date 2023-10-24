@@ -896,7 +896,7 @@
     "name": "基礎臨床技能訓練課程(一) Basic clinical skills (BCS) training(I)",
     "num_limit": "9999",
     "reg_num": "146",
-    "teacher": "楊盈盈、李懿宬、黃孝先、蘇宇平、黃祥芬、邱逸淳、梁仁峯、陳昭銘、徐迺維、黃加璋、陳坤波、袁維新、葉建甫、陳偉華、陳明正、莊美幸、林泰祺、楊宗翰、許立翰、陳逸群、許黎洲、葉筱芸、賴昱維、曾麒龍、徐維良、蕭丞皓、盧嘉文、盧雅雯、張皓智、吳政億、楊博欽、熊偉、羅逸甯、呂學聖、魏天心、石柏軒、莊梓昱、康芳瑜、楊惠馨、黃文彬、馮嘉毅、黃竣暘、羅永鴻、曾偉誠、張鴻猷",
+    "teacher": "楊盈盈、李懿宬、黃孝先、蘇宇平、黃祥芬、邱逸淳、梁仁峯、陳昭銘、陳坤波、徐迺維、黃加璋、黃文彬、袁維新、葉建甫、陳偉華、陳明正、莊美幸、林泰祺、楊宗翰、許立翰、陳逸群、許黎洲、葉筱芸、賴昱維、曾麒龍、徐維良、蕭丞皓、盧嘉文、盧雅雯、張皓智、吳政億、楊博欽、熊偉、羅逸甯、呂學聖、魏天心、石柏軒、莊梓昱、康芳瑜、楊惠馨、馮嘉毅、黃竣暘、羅永鴻、曾偉誠、張鴻猷",
     "time": "R5678-YX406[YM]"
   },
   "1121_110077": {
@@ -5300,7 +5300,7 @@
     "name": "分子生物技術 Techniques of Molecular Biology",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "阮琪昌、廖辰中、陳建鋒、林照雄、吳鈺琳、葉添順、蔡有光、鍾明怡、兵岳忻、王湘翠、可文亞、張原翊、簡千栩",
+    "teacher": "阮琪昌、廖辰中、林照雄、吳鈺琳、葉添順、蔡有光、鍾明怡、兵岳忻、王湘翠、可文亞、張原翊、簡千栩、陳建鋒",
     "time": "F56-YR105[YM]"
   },
   "1121_130004": {
@@ -5444,7 +5444,7 @@
     "name": "分子生物學 Molecular Biology",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "李新城、陳建鋒、花嘉玲、兵岳忻、王湘翠、曾才郁",
+    "teacher": "李新城、兵岳忻、王湘翠、陳建鋒、花嘉玲、曾才郁",
     "time": "W78R78-YR104[YM]"
   },
   "1121_130105": {
@@ -5504,7 +5504,7 @@
     "name": "生化暨細胞藥理特論 Special Topics in Biochemical & Cellular Pharmacology",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "兵岳忻、陳建鋒、花嘉玲、葉添順、李新城、王笙帆",
+    "teacher": "兵岳忻、葉添順、李新城、陳建鋒、花嘉玲、王笙帆",
     "time": "T567-YR104[YM]"
   },
   "1121_130111": {
@@ -5996,7 +5996,7 @@
     "name": "分子生物學 Molecular Biology",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "葉添順、陳建鋒、傅淑玲、李新城",
+    "teacher": "葉添順、傅淑玲、李新城、陳建鋒",
     "time": "T56-YEA100[YM]"
   },
   "1121_130401": {
@@ -6356,7 +6356,7 @@
     "name": "中醫藥實驗概論 Experimental Methods for Traditional Chinese Medicine",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "林東毅、陳建鋒、黃心苑、傅淑玲、蔡東湖、藍耿立、龔彥穎、張清貿、邱仁輝、王致又",
+    "teacher": "林東毅、黃心苑、傅淑玲、蔡東湖、藍耿立、龔彥穎、張清貿、邱仁輝、陳建鋒、王致又",
     "time": "M34-YR102[YM]"
   },
   "1121_130607": {
@@ -8216,7 +8216,7 @@
     "name": "護理角色於社會心理以及社會福祉的照護 Nurses’role on psychosocial and well-being",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "陳律言、黃子庭、孫秀卿、陳俞琪、張秀如、林承霈、AGUS SETIAWAN",
+    "teacher": "陳律言、黃子庭、孫秀卿、陳俞琪、張秀如、林承霈、AGUS SETIAWAN、廖咨詠",
     "time": "R89-YN301[YM]"
   },
   "1121_131715": {
@@ -9080,7 +9080,7 @@
     "name": "腫瘤診斷與治療策略 Cancer Diagnostics and Therapeutic Landscape",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "黃尉倫、陳建鋒、蘇美慈、莊惠燕、鄧豪偉、鄭維中、張庭毓、曾如玉、卓良益、劉楊威",
+    "teacher": "黃尉倫、蘇美慈、莊惠燕、鄧豪偉、陳建鋒、鄭維中、張庭毓、曾如玉、卓良益、劉楊威",
     "time": "M34-YT104[YM]"
   },
   "1121_132209": {
@@ -10436,7 +10436,7 @@
     "name": "現代生物學研究方法 Research Methods for Modern Microbiology & Immunology",
     "num_limit": "9999",
     "reg_num": "21",
-    "teacher": "徐嘉琳、廖辰中、陳建鋒、董建億、張佩靖、黃雪莉、呂春敏、陳紀如、陳念榮、葛一樊、蔡明翰、蔡雨寰、高正彥、曾才郁",
+    "teacher": "徐嘉琳、廖辰中、董建億、張佩靖、黃雪莉、呂春敏、陳紀如、陳念榮、葛一樊、蔡明翰、蔡雨寰、高正彥、陳建鋒、曾才郁",
     "time": "R56-YC401[YM]"
   },
   "1121_132804": {
@@ -11528,7 +11528,7 @@
     "name": "儀器分析及實習 Instrumentation in Medical Research & Associated Lab. Works",
     "num_limit": "9999",
     "reg_num": "34",
-    "teacher": "王錦鈿、陳建鋒、林照雄、李易展、林達顯、黃奇英、黃怡翔、邱士華、陳燕彰、陳念榮、陳斯婷、高瑀絜、曾才郁",
+    "teacher": "王錦鈿、林照雄、李易展、林達顯、黃奇英、黃怡翔、邱士華、陳燕彰、陳念榮、陳斯婷、高瑀絜、陳建鋒、曾才郁",
     "time": "F34n5678-YL405[YM]"
   },
   "1121_140302": {
@@ -11600,7 +11600,7 @@
     "name": "腫瘤轉移的分子機制 Molecular Mechanisms of Tumor Metastasis",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "楊慕華、吳肇卿、陳建鋒、黃奇英、顏厥全、阮麗蓉、黃彥華、周德盈、沈家寧、黃雯華、曾才郁",
+    "teacher": "楊慕華、吳肇卿、黃奇英、顏厥全、阮麗蓉、黃彥華、周德盈、陳建鋒、沈家寧、黃雯華、曾才郁",
     "time": "F12-YL405[YM]"
   },
   "1121_140308": {
@@ -12620,7 +12620,7 @@
     "name": "醫藥品產業概論 Introduction to the Pharmaceutical and Medical Device Industry",
     "num_limit": "45",
     "reg_num": "10",
-    "teacher": "楊世偉、吳育德、康照洲、楊智傑、高純琇、劉建昇、溫國蘭、鄭仲志、周麗美、王怡婷、蔡恩加、李弼凱、廖建忠、郭義松",
+    "teacher": "楊世偉、吳育德、康照洲、楊智傑、高純琇、劉建昇、鄭仲志、周麗美、王怡婷、蔡恩加、李弼凱、廖建忠、溫國蘭、郭義松",
     "time": "W89-YR105[YM]"
   },
   "1121_150000": {
@@ -25279,7 +25279,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "404",
+    "reg_num": "403",
     "teacher": "資科工所",
     "time": ""
   },
@@ -27644,7 +27644,7 @@
     "name": "分子結構、分子光譜與光化學 Structure, Spectroscopy and Photochemistry of Molecules",
     "num_limit": "25",
     "reg_num": "15",
-    "teacher": "太田信廣、江幡孝之",
+    "teacher": "太田信廣",
     "time": "T234-SB321[GF]"
   },
   "1121_536900": {
@@ -31412,7 +31412,7 @@
     "name": "董事多元化人才培訓 Why diversity, inclusion, and equity matter to your board - talents training and education",
     "num_limit": "9999",
     "reg_num": "57",
-    "teacher": "林志潔、鍾惠民、張家齊、待聘、蒲樹盛",
+    "teacher": "林志潔、鍾惠民、張家齊、蒲樹盛、林宗志",
     "time": "Ubcd-"
   },
   "1121_559010": {

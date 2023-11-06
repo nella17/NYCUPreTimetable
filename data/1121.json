@@ -3224,7 +3224,7 @@
     "name": "臨床見習(一) Clinical Clerkship in Physical Therapy(Ⅰ)",
     "num_limit": "45",
     "reg_num": "38",
-    "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、黃崇舜、魏敏如、陳元劭、蔡佳容、林佩伶、秦雅玲、方婉羽、張簡書勝、葉姵君、喻大忠、蔡明倫、黃建儒、李肇中、李怡安、宋敦仁、黃琬葶、高宜暄、莊雅雯、周玟玲、張伸睿、黃亭瑜、厲真、蔡瑋祺、張杏妃、曾俊智、李建志、廖儀依、許穎昌、巫俊杉、王禎、王祚萱、顏如欣、杜禹昇、陳慧玲、翁昀秀、陳詠馨、陳琬婷、王佩茹、楊政浩、楊子瑩、游佩芯",
+    "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、黃崇舜、魏敏如、陳元劭、蔡佳容、林佩伶、秦雅玲、方婉羽、張簡書勝、葉姵君、喻大忠、蔡明倫、黃建儒、李肇中、李怡安、宋敦仁、黃琬葶、高宜暄、莊雅雯、周玟玲、張伸睿、黃亭瑜、厲真、蔡瑋祺、張杏妃、曾俊智、李建志、廖儀依、許穎昌、巫俊杉、王禎、王祚萱、顏如欣、杜禹昇、陳慧玲、翁昀秀、陳詠馨、陳琬婷、王佩茹、楊政浩、楊子瑩、游佩芯、羅唯熏",
     "time": "T12-YB624[YM]"
   },
   "1121_112215": {
@@ -6260,7 +6260,7 @@
     "name": "醫療照護研究法 Health Services Research & Practice",
     "num_limit": "9999",
     "reg_num": "29",
-    "teacher": "黃心苑",
+    "teacher": "黃心苑、陳娟瑜",
     "time": "W56-YN511[YM]"
   },
   "1121_130512": {
@@ -12716,7 +12716,7 @@
     "name": "醫療照護研究法 Health Services Research & Practice",
     "num_limit": "9999",
     "reg_num": "26",
-    "teacher": "黃心苑、陳娟瑜",
+    "teacher": "黃心苑",
     "time": "S23-YN511[YM]"
   },
   "1121_150108": {
@@ -12776,7 +12776,7 @@
     "name": "科技醫療服務管理創新 Double S.M.A.R.T Homespital Care",
     "num_limit": "20",
     "reg_num": "7",
-    "teacher": "尹彙文",
+    "teacher": "尹彙文、黃仕斌、蔡秉晃",
     "time": "S23-"
   },
   "1121_150113": {
@@ -22099,7 +22099,7 @@
     "memo": "此課程僅供研究生選修，不列入畢業學分。",
     "name": "研究生英文:研究論文寫作 Graduate English: Research Paper Writing",
     "num_limit": "20",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "張靜芬",
     "time": "T34-A504[GF]"
   },
@@ -31339,7 +31339,7 @@
     "memo": "限交大校區EMBA及陽明校區生技EMBA學生修課。",
     "name": "贏利模式研討 Business Model in Excellence",
     "num_limit": "9999",
-    "reg_num": "75",
+    "reg_num": "74",
     "teacher": "劉助、林春成、黃仕斌、陳宗岡、黃寬丞、鍾惠民、張家齊、戴天時、姚銘忠、林瑞嘉、陳來助",
     "time": "S234-M-b10[GF]"
   },
@@ -31363,7 +31363,7 @@
     "memo": "限交大校區EMBA及陽明校區生技EMBA學生修課。",
     "name": "高階主管會計 Accounting for Executives",
     "num_limit": "9999",
-    "reg_num": "59",
+    "reg_num": "58",
     "teacher": "蕭子誼、陳宗岡、林瑞嘉",
     "time": "U234-M116[GF]"
   },
@@ -31387,7 +31387,7 @@
     "memo": "限交大校區EMBA及陽明校區生技EMBA學生修課。",
     "name": "習慣領域與創新決策 Habitual Domains and Innovative Decision Making",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "黃鴻順",
     "time": "Sbcd-M116[GF]"
   },
@@ -31399,7 +31399,7 @@
     "memo": "限交大校區EMBA及陽明校區生技EMBA學生修課。",
     "name": "企業法律專題 Special Topics on Business Law",
     "num_limit": "9999",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "林志潔、邱羽凡",
     "time": "S89a-M116[GF]"
   },
@@ -31411,7 +31411,7 @@
     "memo": "限交大校區EMBA及陽明校區生技EMBA學生修課。上課教室：台北北門校區4樓B401-1",
     "name": "董事多元化人才培訓 Why diversity, inclusion, and equity matter to your board - talents training and education",
     "num_limit": "9999",
-    "reg_num": "57",
+    "reg_num": "56",
     "teacher": "林志潔、鍾惠民、張家齊、蒲樹盛、林宗志",
     "time": "Ubcd-"
   },
@@ -31423,7 +31423,7 @@
     "memo": "限交大校區EMBA及陽明校區生技EMBA學生修課。",
     "name": "零碳轉型高階管理人才培訓(一) Introduction to strategic carbon management",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "23",
     "teacher": "黃仕斌、張家齊、陳來助",
     "time": "U89a-M116[GF]"
   },
@@ -37351,7 +37351,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "96",
+    "reg_num": "95",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },

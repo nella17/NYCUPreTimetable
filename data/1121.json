@@ -2376,9 +2376,9 @@
     "time": "U123-"
   },
   "1121_111929": {
-    "code": "PSPM10053",
+    "code": "PSPM20037",
     "credit": "2.00",
-    "hours": "4.00",
+    "hours": "2.00",
     "id": "111929",
     "memo": "暑期實習課程，須修畢7學分中藥相關課程學分數，且為大三(含)以上學生可選修。",
     "name": "中藥實習 Traditional Chinese Medicine Practice Experience",
@@ -15163,7 +15163,7 @@
     "memo": "",
     "name": "客家社會與文化 Hakka Society and Culture",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "林秀幸",
     "time": "Wabc-HK207[LJ]"
   },
@@ -15175,7 +15175,7 @@
     "memo": "",
     "name": "學術寫作 Academic Writing and Presentation",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "蔡晏霖",
     "time": "Tabc-HK207[LJ]"
   },
@@ -25843,7 +25843,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "52",
+    "reg_num": "51",
     "teacher": "電資碩士學程",
     "time": ""
   },

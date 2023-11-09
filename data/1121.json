@@ -2144,7 +2144,7 @@
     "name": "藥學專題討論(一)(學術專題/醫院藥事/藥政專題/藥業專題) Pharmacy Seminar(I) (Academic Research/ Hospital Pharmacy/ Pharmaceutical Affairs/ Pharmaceutical Industry)",
     "num_limit": "40",
     "reg_num": "36",
-    "teacher": "胡德民、王孟廷、林滿玉、陳日榮、林宥欣、姜紹青、東雅惠、陳惠亭、廖曉偉、陳謄州、許銘能、蘇溶真",
+    "teacher": "胡德民、王孟廷、林滿玉、陳日榮、林宥欣、姜紹青、東雅惠、陳惠亭、廖曉偉、陳謄州、許銘能、蘇溶真、朱裕文、廖怡茹",
     "time": "F56-YR101[YM]"
   },
   "1121_111909": {
@@ -4975,7 +4975,7 @@
     "memo": "請依醫學系PBL課程上課，不開放外系選修。",
     "name": "病理學 Pathology",
     "num_limit": "195",
-    "reg_num": "186",
+    "reg_num": "187",
     "teacher": "李芬瑤、許志怡、葉奕成、郭盈汝、杭仁釩、梁文議、林士傑、張富邦、劉雯玲",
     "time": "T5678-YX406[YM]"
   },
@@ -4987,7 +4987,7 @@
     "memo": "請依醫學系PBL課程上課，不開放外系選修。",
     "name": "病理學實驗 Pathology Laboratory",
     "num_limit": "195",
-    "reg_num": "186",
+    "reg_num": "187",
     "teacher": "李芬瑤、劉雯玲",
     "time": "T5678-YX406[YM]"
   },
@@ -6788,7 +6788,7 @@
     "name": "環境毒理學 Environmental Toxicology",
     "num_limit": "9999",
     "reg_num": "40",
-    "teacher": "紀凱獻、張榮偉、林怡君、廖伯霖、劉宗榮",
+    "teacher": "紀凱獻、張榮偉、林怡君、廖伯霖、劉宗榮、楊冠洋、林純吉",
     "time": "R12-YT202[YM]"
   },
   "1121_130823": {
@@ -6800,7 +6800,7 @@
     "name": "環境衛生學 Environmental Health",
     "num_limit": "9999",
     "reg_num": "26",
-    "teacher": "紀凱獻、余國賓、張榮偉、林怡君、劉宗榮、鄒瀚興",
+    "teacher": "紀凱獻、余國賓、張榮偉、林怡君、王怡人、劉宗榮、鄒瀚興",
     "time": "R34-YT203[YM]"
   },
   "1121_130824": {
@@ -24367,7 +24367,7 @@
     "memo": "",
     "name": "計算機輔助設計特論 Special Topics in Computer Aided Design",
     "num_limit": "85",
-    "reg_num": "106",
+    "reg_num": "105",
     "teacher": "劉建男",
     "time": "M34-ED116[GF],W34-ED219[GF]"
   },
@@ -29815,7 +29815,7 @@
     "memo": "資科工所、網資學程博士班 博士生資格考通過後必修",
     "name": "博士學位論文研究 Ph.D.Thesis Study",
     "num_limit": "110",
-    "reg_num": "95",
+    "reg_num": "94",
     "teacher": "資科工博",
     "time": ""
   },
@@ -37351,7 +37351,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "95",
+    "reg_num": "93",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },

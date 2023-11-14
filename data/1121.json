@@ -2048,7 +2048,7 @@
     "name": "外科基本手術技術、器械介紹及微創手術演進 Surgical Techniques, Instrument Introduction and Evolution of Minimally Invasive Surgery",
     "num_limit": "25",
     "reg_num": "33",
-    "teacher": "張世慶、藍苑慈、戴宏達、吳祚光、陳正彥、陳世欽、黃聖捷、蘇府蔚、林瑞萍、陳斐文、許皓雯、黃國宏",
+    "teacher": "張世慶、藍苑慈、戴宏達、石育仲、吳祚光、陳正彥、陳世欽、黃聖捷、蘇府蔚、林瑞萍、陳斐文、許皓雯、黃國宏",
     "time": "F56-YS420[YM]"
   },
   "1121_111821": {
@@ -2096,7 +2096,7 @@
     "name": "調劑學 Dispensing Pharmacy",
     "num_limit": "9999",
     "reg_num": "36",
-    "teacher": "陳謄州、姜紹青、黃劍銘、許嘉芬、簡美如、周千瀅、何沁沁、劉佩宜、陳美鈴、郭健文、郭雅惠、梁雅富",
+    "teacher": "陳謄州、姜紹青、黃劍銘、許嘉芬、周千瀅、何沁沁、劉佩宜、陳美鈴、郭健文、郭雅惠、潘韻婷、李郁玟",
     "time": "M78-YR105[YM]"
   },
   "1121_111905": {
@@ -37351,7 +37351,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "93",
+    "reg_num": "92",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },

@@ -25567,7 +25567,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "124",
+    "reg_num": "123",
     "teacher": "網工所",
     "time": ""
   },
@@ -29815,7 +29815,7 @@
     "memo": "資科工所、網資學程博士班 博士生資格考通過後必修",
     "name": "博士學位論文研究 Ph.D.Thesis Study",
     "num_limit": "110",
-    "reg_num": "94",
+    "reg_num": "93",
     "teacher": "資科工博",
     "time": ""
   },
@@ -37351,7 +37351,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "92",
+    "reg_num": "91",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },
@@ -37855,7 +37855,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，專二(含)以上每學期必選課程",
     "name": "個別研討-專班 Independent Study-Degree Program",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "光電專班",
     "time": "WzRzFz-"
   },

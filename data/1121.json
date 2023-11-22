@@ -4411,7 +4411,7 @@
     "memo": "生科二、不分系二合班上課",
     "name": "生化及細胞生物學實驗 Biochemistry & Cell Biology Laboratory",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "34",
     "teacher": "藍昇輝、陳俊銘、俞震亞、林崇智、張欣暘、李敏嘉",
     "time": "F5678-YED109[YM]"
   },
@@ -6404,7 +6404,7 @@
     "name": "常見疾病的中西醫整合療法 Integration of western and traditional Chinese medicine for common diseases",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "龔彥穎、張清貿、楊仁鄰、曾元卜、張凱惟、林以正",
+    "teacher": "龔彥穎、張清貿、楊仁鄰、張凱惟、曾元卜、林以正",
     "time": "F78-YR102[YM]"
   },
   "1121_130611": {
@@ -8108,7 +8108,7 @@
     "name": "進階心理健康護理學(一) Advanced Mental Health Nursing (I)",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "張秀如、許樹珍、楊秋月",
+    "teacher": "張秀如、許樹珍、楊秋月、沈青青",
     "time": "T567-YN322[YM]"
   },
   "1121_131706": {
@@ -25675,7 +25675,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "126",
+    "reg_num": "125",
     "teacher": "多媒體所",
     "time": ""
   },

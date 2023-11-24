@@ -1832,7 +1832,7 @@
     "name": "傳播科技與健康照護 The application of media and technology in healthcare",
     "num_limit": "254",
     "reg_num": "20",
-    "teacher": "胡慧蘭、陳俞琪、童恒新、曾意儒、雷文玫、侯宜菁、詹力韋、林承霈、游婉雲、程威銘、陳盈如",
+    "teacher": "胡慧蘭、陳俞琪、童恒新、詹力韋、曾意儒、雷文玫、侯宜菁、林承霈、游婉雲、程威銘、陳盈如",
     "time": "M34-YN321[YM]"
   },
   "1121_111802": {
@@ -7904,7 +7904,7 @@
     "name": "生物醫學研究 Biomedical Research",
     "num_limit": "9999",
     "reg_num": "10",
-    "teacher": "黎萬君、林姝君、洪善鈴、夏堪臺、黃何雄、林元敏、林怡彣、鄭雲謙、陳亭妏、王鼎涵、張婷菡、劉宗榮、李德章、洪凱風、林榮辰",
+    "teacher": "黎萬君、林姝君、洪善鈴、夏堪臺、黃何雄、林元敏、鄭雲謙、林怡彣、陳亭妏、王鼎涵、張婷菡、劉宗榮、李德章、洪凱風、林榮辰",
     "time": "R34-YD302[YM]"
   },
   "1121_131503": {
@@ -14768,7 +14768,7 @@
     "name": "畢業專題(下) Final Year Projet (II)",
     "num_limit": "9999",
     "reg_num": "40",
-    "teacher": "游婉雲、張玉佩、李美華、魏玓、賴至慧、俞蘋、黃淑鈴、吳岱芸、陳維平",
+    "teacher": "游婉雲、賴至慧、張玉佩、李美華、魏玓、俞蘋、黃淑鈴、吳岱芸、陳維平",
     "time": "Mz1-HK104[LJ]"
   },
   "1121_310108": {
@@ -15488,7 +15488,7 @@
     "name": "神經生物學(一) Neurobiology (I)",
     "num_limit": "9999",
     "reg_num": "42",
-    "teacher": "莊碧簪、高智飛、黃植懋",
+    "teacher": "莊碧簪、黃植懋、高智飛",
     "time": "R34-BI303[BA]"
   },
   "1121_410034": {
@@ -15524,7 +15524,7 @@
     "name": "分子生物學(二) Molecular Biology (II)",
     "num_limit": "40",
     "reg_num": "20",
-    "teacher": "趙啟宏、何奕儒、蘇昱誠",
+    "teacher": "趙啟宏、蘇昱誠、何奕儒",
     "time": "W567-BI309[BA]"
   },
   "1121_430000": {
@@ -15956,7 +15956,7 @@
     "name": "碩士班書報討論-生物資訊組 Special Topic Seminar in Bioinformatics(MS)",
     "num_limit": "9999",
     "reg_num": "21",
-    "teacher": "高雅婷、李宗夷、陸志豪、林勇欣、林峻宇",
+    "teacher": "高雅婷、李宗夷、陸志豪、林峻宇、林勇欣",
     "time": "M4-BI310[BA]"
   },
   "1121_430102": {
@@ -18140,7 +18140,7 @@
     "name": "AI無線通訊系統實驗 AI Lab for Wireless Communication",
     "num_limit": "30",
     "reg_num": "20",
-    "teacher": "伍紹勳、方凱田、黃昱智",
+    "teacher": "伍紹勳、黃昱智、方凱田",
     "time": "Mabc-ED814[GF]"
   },
   "1121_515160": {
@@ -18404,7 +18404,7 @@
     "name": "服務學習(二) Service Learning II",
     "num_limit": "9999",
     "reg_num": "32",
-    "teacher": "高宗聖、鄒志偉、黃嘉彥、張祐嘉",
+    "teacher": "高宗聖、鄒志偉、張祐嘉、黃嘉彥",
     "time": "F5-CY202[GF]"
   },
   "1121_515410": {
@@ -19304,7 +19304,7 @@
     "name": "電工實驗 Electrical Engineering Lab.",
     "num_limit": "55",
     "reg_num": "44",
-    "teacher": "成維華、陳宗麟、程登湖",
+    "teacher": "成維華、程登湖、陳宗麟",
     "time": "F567-EE339B[GF]"
   },
   "1121_516113": {
@@ -19424,7 +19424,7 @@
     "name": "無人機飛行實作 Unmanned Aerial Vehicles",
     "num_limit": "60",
     "reg_num": "62",
-    "teacher": "劉義強、賴錦文、程登湖",
+    "teacher": "劉義強、程登湖、賴錦文",
     "time": "Mabc-EE106[GF]"
   },
   "1121_516123": {
@@ -25567,7 +25567,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "123",
+    "reg_num": "122",
     "teacher": "網工所",
     "time": ""
   },
@@ -27032,7 +27032,7 @@
     "name": "環境工程(概論) Introduction to Environmental Engineering",
     "num_limit": "30",
     "reg_num": "22",
-    "teacher": "楊德忠、黃志彬、張淑閔、莊易學、吳佳真、李旻軒、林亮毅",
+    "teacher": "楊德忠、黃志彬、張淑閔、莊易學、林亮毅、吳佳真、李旻軒",
     "time": "F567-EV402[GF]"
   },
   "1121_536500": {
@@ -28208,7 +28208,7 @@
     "name": "全球智慧財產權管理與企業法律 Global IP Management & Business Law",
     "num_limit": "40",
     "reg_num": "18",
-    "teacher": "陳在方、林建中、金孟華、施明遠、李界昇、郭詠華",
+    "teacher": "陳在方、金孟華、林建中、施明遠、李界昇、郭詠華",
     "time": "M567-MB110[GF]"
   },
   "1121_537154": {
@@ -36620,7 +36620,7 @@
     "name": "近代生物學(一) Modern Biology (I)",
     "num_limit": "120",
     "reg_num": "118",
-    "teacher": "梁美智、高智飛、黃植懋",
+    "teacher": "梁美智、黃植懋、高智飛",
     "time": "T2W56-EE105[GF]"
   },
   "1121_567005": {
@@ -37351,7 +37351,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "91",
+    "reg_num": "90",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },

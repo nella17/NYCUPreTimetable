@@ -311,6 +311,18 @@
     "teacher": "外國學校",
     "time": ""
   },
+  "111X_040011": {
+    "code": "IAFA00435",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "040011",
+    "memo": "",
+    "name": "全球化下的中國 Global China",
+    "num_limit": "9999",
+    "reg_num": "1",
+    "teacher": "外國學校",
+    "time": ""
+  },
   "111X_113800": {
     "code": "MDMD10001",
     "credit": "2.00",
@@ -1328,7 +1340,7 @@
     "name": "永續發展之土木工程 Sustainability in civil engineering practices",
     "num_limit": "9999",
     "reg_num": "24",
-    "teacher": "翁孟嘉、林子剛、張智安、趙韋安、莊子毅、黃郁惟",
+    "teacher": "翁孟嘉、林子剛、張智安、莊子毅、趙韋安、黃郁惟",
     "time": ""
   },
   "111X_638400": {

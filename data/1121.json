@@ -16353,7 +16353,7 @@
     "num_limit": "25",
     "reg_num": "26",
     "teacher": "林明學",
-    "time": "Rab-HC104[GF]"
+    "time": "Rab-HC101[GF]"
   },
   "1121_514001": {
     "code": "HSCH00005",
@@ -16365,7 +16365,7 @@
     "num_limit": "20",
     "reg_num": "28",
     "teacher": "林明學",
-    "time": "Wab-HC103[GF]"
+    "time": "Wab-F326[GF]"
   },
   "1121_514002": {
     "code": "HSCH20006",
@@ -25279,7 +25279,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "394",
+    "reg_num": "392",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25567,7 +25567,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "121",
+    "reg_num": "120",
     "teacher": "網工所",
     "time": ""
   },
@@ -30139,7 +30139,7 @@
     "memo": "學期3次課程，上課日暫訂為12/2(六)，上課地點：合勤講堂。詳細上課時間請留意專班網頁公告；限電資專班學生選修",
     "name": "專題研討 Seminars",
     "num_limit": "9999",
-    "reg_num": "136",
+    "reg_num": "138",
     "teacher": "李義明",
     "time": "S234567-"
   },

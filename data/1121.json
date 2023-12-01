@@ -25567,7 +25567,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "120",
+    "reg_num": "119",
     "teacher": "網工所",
     "time": ""
   },
@@ -29815,7 +29815,7 @@
     "memo": "資科工所、網資學程博士班 博士生資格考通過後必修",
     "name": "博士學位論文研究 Ph.D.Thesis Study",
     "num_limit": "110",
-    "reg_num": "93",
+    "reg_num": "92",
     "teacher": "資科工博",
     "time": ""
   },

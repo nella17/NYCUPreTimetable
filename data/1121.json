@@ -25279,7 +25279,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "390",
+    "reg_num": "389",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25291,7 +25291,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "平行程式設計 Parallel Programming",
     "num_limit": "130",
-    "reg_num": "129",
+    "reg_num": "128",
     "teacher": "游逸平",
     "time": "R234-EDB27[GF]"
   },
@@ -25399,7 +25399,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；",
     "name": "程式安全 Secure Programming",
     "num_limit": "53",
-    "reg_num": "44",
+    "reg_num": "43",
     "teacher": "黃俊穎",
     "time": "F234-EC324[GF]"
   },
@@ -25819,7 +25819,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "資通安全",
     "time": ""
   },

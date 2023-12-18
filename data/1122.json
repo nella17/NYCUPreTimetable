@@ -4399,7 +4399,7 @@
     "memo": "",
     "name": "工程數學(二) Engineering Mathematics II",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "江明彰",
     "time": "F567-YT104[YM]"
   },
@@ -4411,7 +4411,7 @@
     "memo": "",
     "name": "電路學 Electric Circuits",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "陳右穎",
     "time": "M567-YT303[YM]"
   },
@@ -4423,7 +4423,7 @@
     "memo": "",
     "name": "電路學實驗 Electric Circuits Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "陳右穎",
     "time": "T789-YE003[YM]"
   },
@@ -4435,7 +4435,7 @@
     "memo": "",
     "name": "材料科學導論 Introduction to Materials Science",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "劉大中",
     "time": "M234-YT303[YM]"
   },
@@ -4447,7 +4447,7 @@
     "memo": "[English Medium Course]",
     "name": "科技論文導讀 Directed Reading: Science and Technology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "羅俊民",
     "time": "M89-YEA200[YM]"
   },
@@ -7027,7 +7027,7 @@
     "memo": "需修畢實驗生理學方可選修",
     "name": "生理學實驗教學實習 Teaching Practice on Physiological Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "19",
     "teacher": "李怡萱",
     "time": "TnWnRn-YED214[YM]"
   },
@@ -7039,7 +7039,7 @@
     "memo": "",
     "name": "生理醫學研究概論 Research Principle in Physiology &amp;amp; Medicine",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "18",
     "teacher": "簡千栩",
     "time": "R34-YR103[YM]"
   },
@@ -10616,7 +10616,7 @@
     "name": "專題討論 Seminar",
     "num_limit": "50",
     "reg_num": "23",
-    "teacher": "陳謄州、王孟廷、簡麗年、郭炤裕、姜紹青、東雅惠、許銘能、周月卿、張豫立、陳寬軒、許家禎、周千瀅、王笙帆",
+    "teacher": "陳謄州、王孟廷、姜紹青、東雅惠、許銘能、周月卿、張豫立、陳寬軒、鄒嘉玲、許家禎、周千瀅、何沁沁、王笙帆",
     "time": "F34-YL402[YM]"
   },
   "1122_132100": {

@@ -6897,7 +6897,7 @@
     "num_limit": "40",
     "reg_num": "9",
     "teacher": "黃志賢、楊令瑀、雷文玫、賴其萬、蔡甫昌、陳秀丹",
-    "time": "F12-CS100[GF]"
+    "time": "F12-CS100[GF],F12-YM201[YM]"
   },
   "1122_113804": {
     "code": "MDMD10001",
@@ -11181,7 +11181,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "詹家泰",
-    "time": "W567-YEA205[YM]"
+    "time": "T567-YEA205[YM]"
   },
   "1122_132311": {
     "code": "BEBE30036",
@@ -15384,15 +15384,15 @@
     "time": "R34-EE129[GF],R34-YL839[YM]"
   },
   "1122_161053": {
-    "code": "GECE00378",
+    "code": "GECE00379",
     "credit": "1.00",
     "hours": "1.00",
     "id": "161053",
     "memo": "",
-    "name": "科技性別知多少 About gender equity in STEM pipeline",
+    "name": "科技性別平等的妳我她 Gender equality in STEM pipeline",
     "num_limit": "0",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "林滿玉、周倩、林志潔",
     "time": "T56-A103[GF]"
   },
   "1122_161054": {
@@ -16185,7 +16185,7 @@
     "num_limit": "40",
     "reg_num": "0",
     "teacher": "謝一誼",
-    "time": "F567-HK104[LJ]"
+    "time": "R567-HK105[LJ]"
   },
   "1122_310013": {
     "code": "HKHS20049",
@@ -18347,18 +18347,6 @@
     "teacher": "郭明浩",
     "time": "R9ab-"
   },
-  "1122_514028": {
-    "code": "HSCH10033",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "514028",
-    "memo": "",
-    "name": "創意機器人 Creative Robotics",
-    "num_limit": "12",
-    "reg_num": "0",
-    "teacher": "王識源",
-    "time": "M78-HA101[GF]"
-  },
   "1122_514100": {
     "code": "HSFL10031",
     "credit": "2.00",
@@ -19100,7 +19088,7 @@
     "name": "電子實驗(二) Electronics Lab. (II)",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "林容瑋、陳柏宏、柯明道",
+    "teacher": "林容瑋、柯明道",
     "time": "Tabcd-"
   },
   "1122_515027": {
@@ -19112,7 +19100,7 @@
     "name": "電子實驗(二) Electronics Lab. (II)",
     "num_limit": "52",
     "reg_num": "0",
-    "teacher": "陳建安、陳柏宏、柯明道",
+    "teacher": "陳建安、柯明道",
     "time": "Tabcd-"
   },
   "1122_515028": {
@@ -19148,7 +19136,7 @@
     "name": "電磁學 Electromagnetics",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "蔡作敏",
+    "teacher": "蔡作敏、林俊廷",
     "time": "M56R12-EE105[GF]"
   },
   "1122_515031": {
@@ -19160,7 +19148,7 @@
     "name": "電磁學 Electromagnetics",
     "num_limit": "100",
     "reg_num": "0",
-    "teacher": "唐震寰",
+    "teacher": "唐震寰、黃瑞彬",
     "time": "M56R12-ED219[GF]"
   },
   "1122_515032": {
@@ -19174,30 +19162,6 @@
     "reg_num": "0",
     "teacher": "簡昭欣",
     "time": "M56R12-ED303[GF]"
-  },
-  "1122_515033": {
-    "code": "EEEC10032",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "515033",
-    "memo": "R1為助教時間",
-    "name": "電磁學 Electromagnetics",
-    "num_limit": "50",
-    "reg_num": "0",
-    "teacher": "林俊廷",
-    "time": "R12-ED203[GF],M56-EDB06[GF]"
-  },
-  "1122_515034": {
-    "code": "EEEC10032",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "515034",
-    "memo": "R1為助教時間",
-    "name": "電磁學 Electromagnetics",
-    "num_limit": "50",
-    "reg_num": "0",
-    "teacher": "黃瑞彬",
-    "time": "R12-ED101[GF],M56-EDB01[GF]"
   },
   "1122_515035": {
     "code": "EEEC10032",
@@ -19220,20 +19184,20 @@
     "name": "電磁學(英文班) Electromagnetics",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "胡樹",
+    "teacher": "胡樹、黃謀勤",
     "time": "M56R12-EDB26[GF]"
   },
-  "1122_515037": {
-    "code": "EEEC10035",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "515037",
-    "memo": "[English Medium Course]",
-    "name": "電磁學(英文班) Electromagnetics",
-    "num_limit": "50",
+  "1122_515038": {
+    "code": "EEEC10031",
+    "credit": "2.00",
+    "hours": "4.00",
+    "id": "515038",
+    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。 課程時間為週四晚上abcd，上課教室為工程四館ED320。",
+    "name": "電子實驗(二) Electronics Lab. (II)",
+    "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃謀勤",
-    "time": "R12-ED103[GF]"
+    "teacher": "林容瑋、陳柏宏",
+    "time": "Rabcd-"
   },
   "1122_515101": {
     "code": "EEEC00001",
@@ -20708,7 +20672,7 @@
     "name": "照護科技跨域專題(II) Smart Health Care Cross-Disciplinary Projects (II)",
     "num_limit": "0",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "資工系",
     "time": ""
   },
   "1122_515622": {
@@ -20720,7 +20684,7 @@
     "name": "生醫資訊跨領域專題(二) Biomedical Informatics Cross-Disciplinary Projects (II)",
     "num_limit": "0",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "資工系",
     "time": ""
   },
   "1122_515623": {
@@ -20887,7 +20851,7 @@
     "memo": "",
     "name": "機率與統計 Probability and Statistics",
     "num_limit": "40",
-    "reg_num": "41",
+    "reg_num": "44",
     "teacher": "簡鳳村",
     "time": "T2F34-EE207[GF]"
   },
@@ -21076,7 +21040,7 @@
     "credit": "3.00",
     "hours": "6.00",
     "id": "516115",
-    "memo": "限本系學生選課，外系生請加簽。",
+    "memo": "[機械實作] 配合課程開課的時程於6月底辦理機械實作成果發表競賽。修課學生如未依規定參與課程成果發表，該學期成績不予通過。限本系學生選課，外系生請加簽。",
     "name": "機械實作 Mechanical Practice",
     "num_limit": "40",
     "reg_num": "0",
@@ -21220,7 +21184,7 @@
     "credit": "3.00",
     "hours": "6.00",
     "id": "516127",
-    "memo": "限本系學生選課，外系生請加簽。",
+    "memo": "[機械實作] 配合課程開課的時程於6月底辦理機械實作成果發表競賽。修課學生如未依規定參與課程成果發表，該學期成績不予通過。限本系學生選課，外系生請加簽。",
     "name": "機械實作 Mechanical Practice",
     "num_limit": "40",
     "reg_num": "0",
@@ -21268,7 +21232,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "516131",
-    "memo": "「除選課外，須於期限內繳交專題指導老師確認單至系辦才算有學分。」修畢大學部專題(一)與大學部專題(二)者，可合併列計為一門核心選修課程(任一領域)。大學部專題(一)及大學部專題(二)，為個別的單一課程，無須先修完(一)再修(二)。",
+    "memo": "[大學部專題] 配合課程開課的時程於6月底辦理大學部專題海報展。修課學生如未依規定參與課程成果發表，該學期成績不予通過。「除選課外，須於期限內繳交專題指導老師確認單至系辦才算有學分。」修畢大學部專題(一)與大學部專題(二)者，可合併列計為一門核心選修課程(任一領域)。大學部專題(一)及大學部專題(二)，為個別的單一課程，無須先修完(一)再修(二)。",
     "name": "大學部專題 (一) Supervised Independent Study(I)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -21280,7 +21244,7 @@
     "credit": "3.00",
     "hours": "6.00",
     "id": "516132",
-    "memo": "限本系學生選課，外系生請加簽。",
+    "memo": "[機械實作] 配合課程開課的時程於6月底辦理機械實作成果發表競賽。修課學生如未依規定參與課程成果發表，該學期成績不予通過。限本系學生選課，外系生請加簽。",
     "name": "機械實作 Mechanical Practice",
     "num_limit": "40",
     "reg_num": "0",
@@ -23371,7 +23335,7 @@
     "memo": "大三財金組必修；資財系優先選課。外系同學請於開學加退選階段上網選課。限大三以上學生修課。應屆畢業生或重修生方能修習外系(校)課程抵免或免修本課程；本學期如欲修習外系(校)課程抵免或免修本課程，請於本學期加退選截止日前經由任課教師審核後，並送至資財系辦公室，逾期不受理。",
     "name": "財務報表分析 Financial Statement Analysis",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "林瑞嘉",
     "time": "T234-M-b09[GF]"
   },
@@ -23395,7 +23359,7 @@
     "memo": "資訊類課程；資財系優先選課。外系同學請於開學加退選階段上網選課。限大三以上學生修課。",
     "name": "系統分析與設計 System Analysis and Design",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "陳耀宗",
     "time": "R234-M102[GF]"
   },
@@ -23407,7 +23371,7 @@
     "memo": "財金類課程；資財系優先選課。外系同學請於開學加退選階段上網選課。限大三以上學生修課。",
     "name": "財務工程導論 Introduction in Financial Engineering",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "戴天時",
     "time": "W234-M-b09[GF]"
   },
@@ -23419,7 +23383,7 @@
     "memo": "財金類課程；資財系優先選課。外系同學請於開學加退選階段上網選課。限大三以上學生修課。",
     "name": "貨幣銀行與金融風暴 Money, Banking , and Financial Crisis",
     "num_limit": "60",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "謝文良",
     "time": "R567-M-b09[GF]"
   },
@@ -24813,7 +24777,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "楊子樵",
-    "time": "F567-F106A[GF]"
+    "time": "F567-HC101[GF]"
   },
   "1122_534516": {
     "code": "HSSC30049",
@@ -26483,6 +26447,18 @@
     "teacher": "電信所",
     "time": ""
   },
+  "1122_535373": {
+    "code": "EECM30149",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "535373",
+    "memo": "",
+    "name": "衛星通訊與系統設計 Satellite Communications and Systems Design",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林俊廷、待聘",
+    "time": "Wabc-ED103[GF]"
+  },
   "1122_535400": {
     "code": "EEEO30129",
     "credit": "3.00",
@@ -26733,7 +26709,7 @@
     "num_limit": "125",
     "reg_num": "0",
     "teacher": "孫家偉、林慶波、吳育德、唐高駿、林峻立、陳冠宇、陳俐吟、張立鴻、賴穎暉、陳榮治、李博仁、林子恩、江柏翰、李正匡",
-    "time": "F234-,F234-YT003[YM]"
+    "time": "F234-"
   },
   "1122_535422": {
     "code": "EEEO30133",
@@ -31879,7 +31855,7 @@
     "memo": "每學期3次課程，上課日暫訂為5/18(六)，詳細上課時間請留意專班網頁公告；限電資專班學生選修",
     "name": "專題研討 Seminars",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "135",
     "teacher": "李義明",
     "time": "S234567-ED219[GF]"
   },
@@ -33640,7 +33616,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561033",
-    "memo": "「生命與生醫」不接受生科系同學修讀。[English Medium Course]",
+    "memo": "「生命與生醫」不接受生科系同學修讀。大四學生選修。[English Medium Course]",
     "name": "生命與生醫 Life and Biomedicine",
     "num_limit": "40",
     "reg_num": "0",
@@ -34230,7 +34206,7 @@
     "id": "561084",
     "memo": "",
     "name": "科技與醫療的人文關懷 Humanism in Technology and Medical Cares",
-    "num_limit": "70",
+    "num_limit": "35",
     "reg_num": "0",
     "teacher": "程千芳、陳俞琪、王小滕、林士平、林承霈",
     "time": "R56-A401[GF]"
@@ -39658,18 +39634,6 @@
     "reg_num": "0",
     "teacher": "光電專班",
     "time": "WzRzFz-"
-  },
-  "1122_910000": {
-    "code": "SESE00011",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910000",
-    "memo": "*中港澳地區學生與系統工程學程學生不得選修",
-    "name": "國防科技概論(1) Introduction to Defense Technology (I)",
-    "num_limit": "70",
-    "reg_num": "0",
-    "teacher": "李永隆",
-    "time": "F567-EE106[GF]"
   },
   "1122_910001": {
     "code": "SESE00093",

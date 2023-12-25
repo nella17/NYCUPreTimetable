@@ -25279,7 +25279,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "387",
+    "reg_num": "385",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25675,7 +25675,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "124",
+    "reg_num": "123",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -27415,7 +27415,7 @@
     "memo": "高分子、有機、無機、物化、分析、生化等領域請選本組。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "195",
+    "reg_num": "196",
     "teacher": "鄭彥如",
     "time": ""
   },
@@ -37351,7 +37351,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "89",
+    "reg_num": "87",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },

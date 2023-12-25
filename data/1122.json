@@ -4495,7 +4495,7 @@
     "memo": "",
     "name": "臨床工程實務 Workshop in Clinical Engineering",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "羅俊民、林重榮、林伯剛、張誌剛、郭昭宏、鄭銘輝、吳思賢、蔡依霖、劉馨惠、鄭淑娟",
     "time": "T567-YT204[YM]"
   },
@@ -4651,7 +4651,7 @@
     "memo": "",
     "name": "大三導師時間 Tutor time",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "江惠華、陳右穎、賴穎暉",
     "time": "Sab-"
   },
@@ -4663,7 +4663,7 @@
     "memo": "",
     "name": "大四導師時間 Tutor time",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "劉澤英、詹家泰",
     "time": "Uab-"
   },
@@ -6811,7 +6811,7 @@
     "memo": "本課程為應考公共衛生師指定修習科目。",
     "name": "生物統計學 Biostatistics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "陳瓊梅",
     "time": "F567-YX503[YM]"
   },
@@ -11203,7 +11203,7 @@
     "memo": "",
     "name": "醫療器材上市法規實作 Practical Skills of the Regulatory Requirements of Medical Devices",
     "num_limit": "45",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "楊世偉、鄭玉珮、郭俊毅、徐文達、呂玉蓉、范文佳、謝芝蕙、薛仁瑋、詹明宜",
     "time": "W89a-YB102[YM]"
   },
@@ -11887,7 +11887,7 @@
     "memo": "[English Medium Course]",
     "name": "專題討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "59",
     "teacher": "郭文娟、吳育德、高甫仁、薛特、陳浩夫、陳奕帆、蘇佳沂、賈世璿、邱爾德、饒啟文",
     "time": "M56-YK208[YM]"
   },
@@ -27811,7 +27811,7 @@
     "memo": "英語授課[English Medium Course]；境外碩士專班必修 [Core Course for Master student]",
     "name": "學位論文研究 Thesis",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "半導體境外",
     "time": ""
   },
@@ -27823,7 +27823,7 @@
     "memo": "同步線上遠距教學；英語授課[English Medium Course]；境外班必修",
     "name": "封裝技術與設備 Packaging Technology and Equipment",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "陳俊豪",
     "time": ""
   },
@@ -27835,7 +27835,7 @@
     "memo": "實體課程（越南VNU-HUS當地授課）；英語授課[English Medium Course]",
     "name": "薄膜技術 Thin Film Technology",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "Quang Duy Dao",
     "time": "S567-"
   },
@@ -27847,7 +27847,7 @@
     "memo": "實體課程（越南VNU-HUS當地授課）；英語授課[English Medium Course]",
     "name": "半導體製造技術導論 Introduction to Semiconductor Manufacturing Technology",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "Pham Nguyen Hai",
     "time": "S234-"
   },
@@ -27859,7 +27859,7 @@
     "memo": "同步線上遠距教學；英語授課[English Medium Course]；境外班必修；前瞻所甲組(核心)",
     "name": "微電子積體電路製程 VLSI Manufacture Technology",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "鍾錦翰",
     "time": ""
   },

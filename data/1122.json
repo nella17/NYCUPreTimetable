@@ -40,12 +40,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "030004",
-    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，綜三119",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，綜三631",
     "name": "金融數學二 Financial Mathematics II",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "東聖甯",
-    "time": "M34F34-"
+    "time": "M34W34-"
   },
   "1122_030005": {
     "code": "IADI00245",
@@ -583,7 +583,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "生理學 Physiology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "135",
     "teacher": "吳鈺琳、黃娟娟、阮琪昌、李怡萱、林惠菁、張原翊、洪成志、楊凱鈞、蔡明村、董萃英、舒宜芳、程子珩、曾偉誠",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
@@ -595,7 +595,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "生理學實驗 Physiology Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "吳鈺琳、林惠菁",
     "time": "T5678R5678-YED214[YM]"
   },
@@ -2695,7 +2695,7 @@
     "memo": "",
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "10",
-    "reg_num": "42",
+    "reg_num": "8",
     "teacher": "洪善鈴",
     "time": "W34-YD214[YM]"
   },
@@ -2707,7 +2707,7 @@
     "memo": "",
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "林嘉澍",
     "time": "W34-YD214[YM]"
   },
@@ -2719,7 +2719,7 @@
     "memo": "",
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "黎萬君",
     "time": "W34-YD214[YM]"
   },
@@ -2731,7 +2731,7 @@
     "memo": "",
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "陳恆理",
     "time": "W34-YD214[YM]"
   },
@@ -2743,7 +2743,7 @@
     "memo": "",
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "張景智",
     "time": "W34-YD214[YM]"
   },
@@ -2767,7 +2767,7 @@
     "memo": "",
     "name": "導師時間(四) Class Meeting(IV)",
     "num_limit": "10",
-    "reg_num": "41",
+    "reg_num": "9",
     "teacher": "吳靜宜",
     "time": "W34-YD210[YM]"
   },
@@ -2779,7 +2779,7 @@
     "memo": "",
     "name": "導師時間(四) Class Meeting(IV)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "林元敏",
     "time": "W34-YD210[YM]"
   },
@@ -2791,7 +2791,7 @@
     "memo": "",
     "name": "導師時間(四) Class Meeting(IV)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "王敏靜",
     "time": "W34-YD210[YM]"
   },
@@ -2803,7 +2803,7 @@
     "memo": "",
     "name": "導師時間(四) Class Meeting(IV)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "陳瓊芬",
     "time": "W34-YD210[YM]"
   },
@@ -2815,7 +2815,7 @@
     "memo": "",
     "name": "導師時間(四) Class Meeting(IV)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "吳姿瑩",
     "time": "W34-YD210[YM]"
   },
@@ -2959,7 +2959,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
-    "reg_num": "42",
+    "reg_num": "8",
     "teacher": "林姝君",
     "time": "F9a-YD320[YM]"
   },
@@ -2971,7 +2971,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "洪凱風",
     "time": "F9a-YD320[YM]"
   },
@@ -2983,7 +2983,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "羅正汎",
     "time": "F9a-YD320[YM]"
   },
@@ -2995,7 +2995,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "張婷菡",
     "time": "F9a-YD320[YM]"
   },
@@ -3007,7 +3007,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "林宥成",
     "time": "F9a-YD320[YM]"
   },
@@ -3547,7 +3547,7 @@
     "memo": "導師時間",
     "name": "省思-人﹑生活﹑生命 Reflection-Human Being, Living, Life",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "陳俞琪、蔡慈儀、廖媛美、林源倍、盧郁安、趙禧綠、戴立嘉、劉佩青",
     "time": "W78-A205[GF]"
   },
@@ -3559,7 +3559,7 @@
     "memo": "前12週密集上課(護理414室)，13-16週榮總實習",
     "name": "健康評估與護理措施實習 Health Assessment and Nursing Practice Lab",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "楊曼華、陳俞琪、廖媛美、胡慧蘭、黃淑鶴、侯宜菁、陳律言、林承霈、李雅萍、呂翠萍、徐清樺、林承萱、徐裳訢、蘇惠文、楊翎玉、劉芷伶",
     "time": "M1234n5678T1234n5678-YN414[YM]"
   },
@@ -3571,7 +3571,7 @@
     "memo": "導師時間",
     "name": "創造-人﹑生活﹑生命 Creation-Human Being, Living, Life",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "楊秋月、黃淑鶴、侯宜菁、林承霈",
     "time": "W34-YN603[YM]"
   },
@@ -3583,7 +3583,7 @@
     "memo": "前4週密集上課",
     "name": "兒童護理學 Pediatric Nursing",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "陳紀雯、王子芳、穆佩芬、張瑞文、劉佩青、楊翠芬、呂立、沈青青、賴鼎璁",
     "time": "M12345678-YN416[YM]"
   },
@@ -3619,7 +3619,7 @@
     "memo": "前4週密集上課",
     "name": "婦嬰護理學 Maternity Nursing",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "黃久美、蔡慈儀、黃淑鶴、張秀能、柯惠娟、陳淑芬、孫志琪",
     "time": "W12345678-YN416[YM]"
   },
@@ -3643,7 +3643,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "陳律言、許樹珍、胡慧蘭、周承珍",
     "time": "T9a-YN418[YM]"
   },
@@ -3655,7 +3655,7 @@
     "memo": "上課地點：實習醫院",
     "name": "綜合臨床護理學實習(二) Comprehensive Nursing Practice(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "劉芷伶、李亭亭、黃淑鶴、鍾若男、明金蓮、林淑娟、王卿凌、盧婉菁",
     "time": "M12345678T12345678W12345678-"
   },
@@ -3667,7 +3667,7 @@
     "memo": "",
     "name": "護理專業問題研討 Seminar in Professional Issues",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "童恒新、胡慧蘭、周承珍、林麗華",
     "time": "F234-EE129[GF],F234-YN418[YM]"
   },
@@ -3691,7 +3691,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "陳紀雯、王子芳、邱愛富、楊曼華",
     "time": "R9a-YN418[YM]"
   },
@@ -3739,7 +3739,7 @@
     "memo": "",
     "name": "人類發展學(含實習) Human Development",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "黃久美、王子芳、陳俞琪、陳紀雯、黃淑鶴、劉佩青",
     "time": "F5678-CS100[GF],F5678-YL404[YM]"
   },
@@ -4195,7 +4195,7 @@
     "memo": "不開放校際選修及隨班附讀。",
     "name": "生理學 Physiology",
     "num_limit": "158",
-    "reg_num": "30",
+    "reg_num": "109",
     "teacher": "阮琪昌、吳鈺琳、黃娟娟、李怡萱、林惠菁、張原翊、簡千栩、吳莉玲、唐德成",
     "time": "W12R34-YX406[YM]"
   },
@@ -4219,7 +4219,7 @@
     "memo": "不開放隨班附讀及跨校選修。",
     "name": "生理學實驗 Physiology Lab.",
     "num_limit": "126",
-    "reg_num": "30",
+    "reg_num": "71",
     "teacher": "李怡萱、吳鈺琳、阮琪昌、林惠菁、張原翊、簡千栩、吳莉玲、唐德成",
     "time": "W5678-YED214[YM]"
   },
@@ -5659,7 +5659,7 @@
     "memo": "",
     "name": "放射物理學實驗(二)(A) Radiation Physics Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "吳杰",
     "time": "M78-YB118[YM],F2-YT205[YM]"
   },
@@ -5671,7 +5671,7 @@
     "memo": "",
     "name": "放射物理學實驗(二)(B) Radiation Physics Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "吳杰",
     "time": "T78-YB118[YM],F2-YT103[YM]"
   },
@@ -6115,8 +6115,8 @@
     "memo": "",
     "name": "導師時間 class meeting",
     "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "高甫仁",
+    "reg_num": "1",
+    "teacher": "吳育德",
     "time": ""
   },
   "1122_112403": {
@@ -6127,8 +6127,8 @@
     "memo": "",
     "name": "導師時間 class meeting",
     "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "賈世璿",
+    "reg_num": "1",
+    "teacher": "高甫仁",
     "time": ""
   },
   "1122_112404": {
@@ -6295,7 +6295,7 @@
     "memo": "導師時間",
     "name": "生涯發展與學習(二下) Career Development and Preparation Ⅱ, 2nd Semester",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "俞震亞",
     "time": "W34-YK101[YM]"
   },
@@ -6307,7 +6307,7 @@
     "memo": "導師時間",
     "name": "生涯發展與學習(二下) Career Development and Preparation Ⅱ, 2nd Semester",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "2",
     "teacher": "陳虹如",
     "time": "W34-YK101[YM]"
   },
@@ -6319,7 +6319,7 @@
     "memo": "導師時間",
     "name": "生涯發展與學習(二下) Career Development and Preparation Ⅱ, 2nd Semester",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "陳嘉霖",
     "time": "W34-YK101[YM]"
   },
@@ -6331,7 +6331,7 @@
     "memo": "導師時間",
     "name": "生涯發展與學習(二下) Career Development and Preparation Ⅱ, 2nd Semester",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "陳紀如",
     "time": "W34-YK101[YM]"
   },
@@ -6343,7 +6343,7 @@
     "memo": "導師時間",
     "name": "生涯發展與學習(二下) Career Development and Preparation Ⅱ, 2nd Semester",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "賈世璿",
     "time": "W34-YK101[YM]"
   },
@@ -6547,7 +6547,7 @@
     "memo": "醫技一, 生科一, 不分系一",
     "name": "有機化學 Organic Chemistry",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "75",
     "teacher": "蔡有光、王毓瑄、林照雄、廖韋晴",
     "time": "M12F1-YT003[YM]"
   },
@@ -6559,7 +6559,7 @@
     "memo": "醫技一",
     "name": "分析化學 Analytical Chemistry",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "曾炳輝、黃介嶸、蔡有光、張崇德",
     "time": "T56-YX501[YM]"
   },
@@ -6595,7 +6595,7 @@
     "memo": "醫學1A, 醫技1",
     "name": "有機化學實驗 Organic Chemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "蔡有光、王毓瑄、姜為中、徐子涵",
     "time": "W5678-YED309[YM]"
   },
@@ -6751,7 +6751,7 @@
     "memo": "",
     "name": "細胞診斷學 Diagnostic Cytology",
     "num_limit": "38",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "李芬瑤、郭盈汝、杭仁釩、賴瓊如、林士傑",
     "time": "R5-YT305[YM]"
   },
@@ -7432,7 +7432,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "130120",
-    "memo": "上課地點：台北榮總醫學科技大樓9F",
+    "memo": "[English Medium Course]上課地點：台北榮總醫學科技大樓9F",
     "name": "藥物裝載與傳遞奈米工程導讀 Introduction of drug package and delivery system in nano scale",
     "num_limit": "9999",
     "reg_num": "0",
@@ -7456,7 +7456,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "130122",
-    "memo": "上課地點：榮總致德樓705室",
+    "memo": "[English Medium Course]上課地點：榮總致德樓705室",
     "name": "誘導幹細胞與基因編輯特論 Induced Pluripotent Stem Cells and Genome Editing",
     "num_limit": "9999",
     "reg_num": "0",
@@ -8119,7 +8119,7 @@
     "memo": "研究生: 細胞生物學組必修。\n\n大學部：\n1. 必修生優先。\n2. 已修習或已修畢本學科開設組織學課程。\n3. 若已修畢非本學科開設之組織學課程，須經本學科審核同意才可選課。",
     "name": "組織學實驗 Histology Laboratory",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "葉添順、傅毓秀、鄭瓊娟、李學德、王先逸、郭曉縈、蔣偉程",
     "time": "F234-YED109[YM]"
   },
@@ -8478,7 +8478,7 @@
     "id": "130703",
     "memo": "碩、博班",
     "name": "福利政策專題討論 Seminar on Welfare Policy",
-    "num_limit": "12",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "周月清、簡麗年",
     "time": "T56-YN611[YM]"
@@ -8562,8 +8562,8 @@
     "id": "130710",
     "memo": "",
     "name": "健康政策專題討論 Seminar on Health Policy",
-    "num_limit": "12",
-    "reg_num": "0",
+    "num_limit": "16",
+    "reg_num": "1",
     "teacher": "蔡憶文、喬芷、林文旭、藍凡耘",
     "time": "T56-YN613[YM]"
   },
@@ -9031,7 +9031,7 @@
     "memo": "不分系二、生科系二、醫學系B組二、藥學二、物治二合班上課，開放全校選修。",
     "name": "量化數據分析 Quantitative data analysis",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "33",
     "teacher": "陳卓逸",
     "time": "M34-YL401[YM]"
   },
@@ -9043,7 +9043,7 @@
     "memo": "",
     "name": "資料科學基礎 Fundamentals of Data Science",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "陳卓逸",
     "time": "M78-YL401[YM]"
   },
@@ -9055,7 +9055,7 @@
     "memo": "除生醫資訊所、跨領域醫學學程、不分系、醫學系外，不開放外系、所選修，生醫資訊所、不分一、醫一B合班上課。",
     "name": "抽象思考與演算法 Abstraction and Algorithms",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "巫坤品",
     "time": "W78-YL401[YM]"
   },
@@ -9067,7 +9067,7 @@
     "memo": "除生醫資訊所、跨領域醫學學程、生科系外，不開放外系、所選修，生醫資訊所、生科一合班上課。",
     "name": "抽象思考與演算法 Abstraction and Algorithms",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "25",
     "teacher": "巫坤品",
     "time": "M78-YL405[YM]"
   },
@@ -14216,7 +14216,7 @@
     "name": "生命科學教學 Teaching practice on Biology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "羅清維、陳俊銘、俞震亞、林崇智、鍾明怡、金翠庭、李敏嘉、袁維謙",
+    "teacher": "羅清維、陳俊銘、俞震亞、林崇智、金翠庭、陳嘉霖、李敏嘉、袁維謙",
     "time": "Sn-"
   },
   "1122_142701": {
@@ -15366,7 +15366,7 @@
     "id": "161030",
     "memo": "1.中央研究院人文講座課程，中國文哲研究所陳瑋芬研究員主持授課。 2.112-2學期採行線上教學。",
     "name": "「文明」的邏輯 The Logic of “Civilization”",
-    "num_limit": "0",
+    "num_limit": "35",
     "reg_num": "0",
     "teacher": "陳瑋芬",
     "time": "R56-"
@@ -15376,9 +15376,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161031",
-    "memo": "1.中央研究院人文講座課程，中國文哲研究所楊小濱研究員主持授課。2.112-2學期採行線上教學。",
+    "memo": "1.中央研究院人文講座課程，中國文哲研究所楊小濱研究員主持授課。2.112-2學期採行線上教學。3.2024-03-28課程實體參訪胡適紀念館",
     "name": "華文現當代詩賞析 Reading and Appreciating Modern Chinese Poetry",
-    "num_limit": "0",
+    "num_limit": "35",
     "reg_num": "0",
     "teacher": "楊小濱",
     "time": "R56-"
@@ -15390,7 +15390,7 @@
     "id": "161032",
     "memo": "1.中央研究院人文講座課程，歷史語言研究所巫毓荃副研究員主持授課。2.112-2學期採行線上教學。",
     "name": "瘋狂與社會 Madness and Society",
-    "num_limit": "0",
+    "num_limit": "35",
     "reg_num": "0",
     "teacher": "巫毓荃",
     "time": "R56-"
@@ -15400,9 +15400,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161033",
-    "memo": "",
+    "memo": "1.中央研究院法律學研究所王鵬翔副研究員主持授課。 2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：因果論辯 The guidance of career planning by academic masters： Causal Dialectics",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "王鵬翔",
     "time": "R56-"
@@ -15412,9 +15412,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161034",
-    "memo": "",
+    "memo": "1.中央研究院民族學研究所劉紹華研究員主持授課。 2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：人類學與道德世界：動物篇 The guidance of career planning by academic masters:Anthropology and the Moral World:Human-Animal Relationships",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "劉紹華",
     "time": "R56-"
@@ -15424,9 +15424,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161035",
-    "memo": "",
+    "memo": "1.中央研究院近代史研究所張哲嘉副研究員主持授課。 2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：江戶時期的本草與博物學 The guidance of career planning by academic masters：Materia medica and Natural History of the Edo Period",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "張哲嘉",
     "time": "R56-"
@@ -15436,9 +15436,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161036",
-    "memo": "",
+    "memo": "1.中央研究院歷史語言研究所王道還助研究員主持授課。 2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。5.第一次上課請務必出席，未參與第一堂課的同學不得加選。",
     "name": "巨人的肩膀：精讀《槍砲、病菌、與鋼鐵》 The guidance of career planning by academic masters：Critical Reading of Guns, Germs, and Steel",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "王道還",
     "time": "R56-"
@@ -15448,9 +15448,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161037",
-    "memo": "",
+    "memo": "1.中央研究院人文講座課程，中央研究院近代史研究所林滿紅研究員主持授課。2.112-2學期採行線上教學。",
     "name": "近代亞太世界中的美日崛興與臺灣 The Modern Rise of the United States and Japan in the Asia-Pacific World and Taiwan",
-    "num_limit": "0",
+    "num_limit": "35",
     "reg_num": "0",
     "teacher": "林滿紅",
     "time": "R78-"
@@ -15460,9 +15460,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161038",
-    "memo": "",
+    "memo": "1.中央研究院人文講座課程，中央研究院社會學研究所江彥生研究員主持授課。2.112-2學期採行線上教學。",
     "name": "群策 Group Decision Making",
-    "num_limit": "0",
+    "num_limit": "35",
     "reg_num": "0",
     "teacher": "江彥生",
     "time": "R78-"
@@ -15472,9 +15472,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161039",
-    "memo": "",
+    "memo": "1.中央研究院人文講座課程，中央研究院政治學研究所吳親恩副研究員主持授課。2.112-2學期採行線上教學。",
     "name": "政治與經濟的互動 The Interaction between Politics and Economics",
-    "num_limit": "0",
+    "num_limit": "35",
     "reg_num": "0",
     "teacher": "吳親恩",
     "time": "R78-"
@@ -15484,9 +15484,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161040",
-    "memo": "",
+    "memo": "1.中央研究院民族學研究所余安邦副研究員主持授課。2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：存在心理學與電影 IV The guidance of career planning by academic masters：Existential psychology and cinema IV",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "余安邦",
     "time": "R78-"
@@ -15496,9 +15496,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161041",
-    "memo": "",
+    "memo": "1.中央研究院歐美研究所黃瑞祺研究員主持授課。2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：批判理論 The guidance of career planning by academic masters：Critical theory of society",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "黃瑞祺",
     "time": "R78-"
@@ -15508,9 +15508,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161042",
-    "memo": "",
+    "memo": "1.中央研究院歷史語言研究所陳正國研究員主持授課。2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：文明：光明面與黑暗面 The guidance of career planning by academic masters：Civilization in its Bright and Dark Sides",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "陳正國",
     "time": "R78-"
@@ -15520,9 +15520,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161043",
-    "memo": "",
+    "memo": "1.中央研究院歷史語言研究所陳熙遠研究員主持授課。2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：檔案裡的江湖 The guidance of career planning by academic masters：Ganghood in the Archives",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "陳熙遠",
     "time": "R78-"
@@ -15532,9 +15532,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161044",
-    "memo": "",
+    "memo": "1.中央研究院中國文哲研究所楊小濱研究員主持授課。2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：臺灣藝術電影賞析 The guidance of career planning by academic masters：Appreciating and Analyzing Taiwan Art Cinema",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "楊小濱",
     "time": "R78-"
@@ -15544,9 +15544,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161045",
-    "memo": "",
+    "memo": "1.中央研究院經濟研究所黃登興研究員主持授課。2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：政經體制與經濟發展 The guidance of career planning by academic masters：Political and Economic system and Economic development",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "黃登興",
     "time": "R78-"
@@ -15556,9 +15556,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161046",
-    "memo": "",
+    "memo": "1.中央研究院歷史語言研究所李尚仁研究員主持授課。 2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：科學、製藥工業與現代醫學:以學名藥的歷史為例 The guidance of career planning by academic masters：Science, Pharmaceutical Industry and Modern Medicine: The Case",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "李尚仁",
     "time": "R78-"
@@ -15642,7 +15642,7 @@
     "id": "161054",
     "memo": "",
     "name": "科學與哲學跨領域研究：分子生物學的哲學 Multidisciplinary Research in Science and Philosophy: Philosophy of Molecular Biology",
-    "num_limit": "40",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "蔡有光、鄭凱元",
     "time": "R12-YT304[YM]"
@@ -15654,7 +15654,7 @@
     "id": "161055",
     "memo": "",
     "name": "城市與氣候變遷 Cities and climate change",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "李河清",
     "time": "R56-YX503[YM]"
@@ -15702,7 +15702,7 @@
     "id": "162003",
     "memo": "[1] 具德文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。",
     "name": "德文(二) German (II)",
-    "num_limit": "35",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "唐岱霞",
     "time": "F56-YX501[YM]"
@@ -16711,7 +16711,7 @@
     "memo": "",
     "name": "客家與傳播 Hakka and Communication",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "97",
     "teacher": "賴至慧",
     "time": "M234-HKB08[LJ]"
   },
@@ -17121,7 +17121,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "蘭宜錚",
-    "time": "W234-BI303[BA]"
+    "time": "M8W34-BI303[BA]"
   },
   "1122_410012": {
     "code": "BTBT10035",
@@ -17986,18 +17986,6 @@
     "reg_num": "0",
     "teacher": "何信瑩",
     "time": "W567-BI310[BA]"
-  },
-  "1122_430112": {
-    "code": "BTBT30091",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "430112",
-    "memo": "",
-    "name": "生物資料庫理論與實作 Biological Databases: Theories and Practice",
-    "num_limit": "7",
-    "reg_num": "0",
-    "teacher": "李宗夷",
-    "time": "M789-BI304[BA]"
   },
   "1122_430200": {
     "code": "BTMB30014",
@@ -20927,18 +20915,6 @@
     "teacher": "資工系",
     "time": ""
   },
-  "1122_515623": {
-    "code": "CSIC30160",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "515623",
-    "memo": "本院學生優先;本課程由台積電業師講授。",
-    "name": "雲原生軟體開發與最佳實踐 Cloud Native Development: towards Best Practice",
-    "num_limit": "120",
-    "reg_num": "0",
-    "teacher": "黃俊龍、曾建超",
-    "time": "Wabc-ED117[GF]"
-  },
   "1122_515624": {
     "code": "CSCS20046",
     "credit": "3.00",
@@ -22783,7 +22759,7 @@
     "memo": "",
     "name": "無機化學(二) Inorganic Chemistry (2)",
     "num_limit": "60",
-    "reg_num": "52",
+    "reg_num": "53",
     "teacher": "劉學儒",
     "time": "T34R2-SB211[GF]"
   },
@@ -24623,18 +24599,6 @@
     "teacher": "黃惠萍",
     "time": "F567-F204[GF]"
   },
-  "1122_534400": {
-    "code": "HSAA30078",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "534400",
-    "memo": "應藝所優先 ; 開學後可開放外系所及大學部選修。(授課教師：余德彰)",
-    "name": "劇本導引概念共創－厚設計的路徑 Scenario-Oriented Concept Co-creation, A Path to Thick Design",
-    "num_limit": "50",
-    "reg_num": "0",
-    "teacher": "待聘",
-    "time": "M567-HA315[GF]"
-  },
   "1122_534401": {
     "code": "HSAA30049",
     "credit": "3.00",
@@ -24741,7 +24705,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "莊明振",
-    "time": "R567-HA325[GF]"
+    "time": "R567-HA302[GF]"
   },
   "1122_534411": {
     "code": "HSAA30044",
@@ -24813,7 +24777,7 @@
     "num_limit": "40",
     "reg_num": "0",
     "teacher": "待聘",
-    "time": "R567-"
+    "time": "R567-HA315[GF]"
   },
   "1122_534418": {
     "code": "HSAA30039",
@@ -24838,6 +24802,18 @@
     "reg_num": "0",
     "teacher": "賴雯淑",
     "time": ""
+  },
+  "1122_534420": {
+    "code": "HSAA30078",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "534420",
+    "memo": "",
+    "name": "劇本導引概念共創－厚設計的路徑 Scenario-Oriented Concept Co-creation, A Path to Thick Design",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "M56-HA315[GF]"
   },
   "1122_534500": {
     "code": "HSSC30045",
@@ -26973,7 +26949,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳姿伶",
-    "time": "T234-EO115[GF]"
+    "time": "R234-EO105[GF]"
   },
   "1122_535423": {
     "code": "EEEO30135",
@@ -27370,6 +27346,18 @@
     "reg_num": "0",
     "teacher": "待聘、陳添福",
     "time": "M78-EC114[GF]"
+  },
+  "1122_535531": {
+    "code": "CSIC30160",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "535531",
+    "memo": "本院學生優先;本課程由台積電業師講授。",
+    "name": "雲原生軟體開發與最佳實踐 Cloud Native Development: towards Best Practice",
+    "num_limit": "120",
+    "reg_num": "0",
+    "teacher": "黃俊龍、曾建超",
+    "time": "Wabc-ED117[GF]"
   },
   "1122_535600": {
     "code": "CSIC30115",
@@ -29082,7 +29070,7 @@
     "id": "536703",
     "memo": "",
     "name": "隨機過程專題 Topics in stochastic processes",
-    "num_limit": "9999",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "陳冠宇",
     "time": "W34F3-SA215[GF]"
@@ -29644,12 +29632,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "536956",
-    "memo": "本課程為大學部課程 [This course is an undergraduate course]",
+    "memo": "1. 本課程為大學部課程 [This course is an undergraduate course] 2. 教室: 【光復】科學三館_SC427 [Classroom: 【Guangfu】Science Building 3_SC427]",
     "name": "經典物理(二) Classical Physics (II)",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林貴林",
-    "time": "W234-SC157[GF]"
+    "time": "T234-"
   },
   "1122_536957": {
     "code": "SCIP30031",
@@ -29932,7 +29920,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537021",
-    "memo": "",
+    "memo": "不開放網路選課，請同學自行找老師加簽。",
     "name": "高等作業研究 Advanced Operations Research",
     "num_limit": "15",
     "reg_num": "0",
@@ -30664,9 +30652,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537712",
-    "memo": "資訊類課程；財務金融碩博士班、資財系大三大四學生優先。非本課程輔開系所之外系所學生請於開學後再上網加選課程。無法於線上加選者請紙本加簽。",
+    "memo": "本課程暫不開放選課。資訊類課程；財務金融碩博士班、資財系大三大四學生優先。",
     "name": "資料科學 Data Science",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "游家牧",
     "time": "M567-M-b09[GF]"
@@ -37711,7 +37699,7 @@
     "memo": "(大班授課)",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "120",
-    "reg_num": "105",
+    "reg_num": "104",
     "teacher": "王夏聲",
     "time": "T34F56-SA321[GF]"
   },
@@ -37987,7 +37975,7 @@
     "memo": "含近代物理",
     "name": "物理(二)榮譽班 Physics(II)",
     "num_limit": "87",
-    "reg_num": "13",
+    "reg_num": "87",
     "teacher": "簡紋濱",
     "time": "M34R78-SA321[GF]"
   },
@@ -37998,8 +37986,8 @@
     "id": "565001",
     "memo": "[English Medium Course]含近代物理",
     "name": "物理(二)榮譽班 Physics(II)",
-    "num_limit": "87",
-    "reg_num": "0",
+    "num_limit": "85",
+    "reg_num": "74",
     "teacher": "郭昌洋",
     "time": "M34R78-SA320[GF]"
   },
@@ -38011,7 +37999,7 @@
     "memo": "[English Medium Course]",
     "name": "物理(二) Physics(II)",
     "num_limit": "85",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "科契諾",
     "time": "M34R78-SC106[GF]"
   },
@@ -38023,7 +38011,7 @@
     "memo": "",
     "name": "物理(二) Physics(II)",
     "num_limit": "85",
-    "reg_num": "0",
+    "reg_num": "75",
     "teacher": "林貴林",
     "time": "M34R78-SC001[GF]"
   },
@@ -38035,7 +38023,7 @@
     "memo": "",
     "name": "物理(二) Physics(II)",
     "num_limit": "85",
-    "reg_num": "0",
+    "reg_num": "81",
     "teacher": "陳煜璋",
     "time": "M34R78-SA311[GF]"
   },
@@ -38046,8 +38034,8 @@
     "id": "565005",
     "memo": "含近代物理",
     "name": "物理(二)榮譽班 Physics(II)",
-    "num_limit": "89",
-    "reg_num": "0",
+    "num_limit": "85",
+    "reg_num": "84",
     "teacher": "楊本立",
     "time": "T78F34-SA321[GF]"
   },
@@ -38058,8 +38046,8 @@
     "id": "565006",
     "memo": "含近代物理[English Medium Course]",
     "name": "物理(二)榮譽班 Physics(II)",
-    "num_limit": "85",
-    "reg_num": "30",
+    "num_limit": "89",
+    "reg_num": "89",
     "teacher": "林俊良",
     "time": "T78F34-SA320[GF]"
   },
@@ -38070,8 +38058,8 @@
     "id": "565007",
     "memo": "[English Medium Course]",
     "name": "物理(二) Physics(II)",
-    "num_limit": "95",
-    "reg_num": "0",
+    "num_limit": "87",
+    "reg_num": "87",
     "teacher": "籔下篤史",
     "time": "T78F34-SC106[GF]"
   },
@@ -38082,8 +38070,8 @@
     "id": "565008",
     "memo": "",
     "name": "物理(二) Physics(II)",
-    "num_limit": "95",
-    "reg_num": "0",
+    "num_limit": "85",
+    "reg_num": "84",
     "teacher": "孟心飛",
     "time": "T78F34-EC015[GF]"
   },
@@ -38095,7 +38083,7 @@
     "memo": "遠距課程",
     "name": "物理(二) Physics(II)",
     "num_limit": "180",
-    "reg_num": "0",
+    "reg_num": "177",
     "teacher": "李威儀",
     "time": "T78-SC001[GF]"
   },
@@ -38107,7 +38095,7 @@
     "memo": "生科系優先",
     "name": "物理(二) Physics(II)",
     "num_limit": "85",
-    "reg_num": "0",
+    "reg_num": "55",
     "teacher": "張正宏",
     "time": "T7F34-SC105[GF]"
   },
@@ -38275,7 +38263,7 @@
     "memo": "電物系 光電組",
     "name": "物理實驗(二) Physics Lab. (II)",
     "num_limit": "56",
-    "reg_num": "42",
+    "reg_num": "43",
     "teacher": "許鈺敏",
     "time": "W234-SA015[GF]"
   },
@@ -38299,7 +38287,7 @@
     "memo": "應化系",
     "name": "物理實驗(二) Physics Lab. (II)",
     "num_limit": "56",
-    "reg_num": "46",
+    "reg_num": "47",
     "teacher": "杜建明、謝東儒",
     "time": "Wn56-SA015[GF]"
   },
@@ -38454,8 +38442,8 @@
     "id": "567000",
     "memo": "生物科技學系大一新生/本系生、中一中科學班、醫師工程師組優先，上限90人 通識校基本 通識跨院",
     "name": "普通生物學(二) General Biology (II)",
-    "num_limit": "90",
-    "reg_num": "14",
+    "num_limit": "70",
+    "reg_num": "25",
     "teacher": "廖光文、曲在雯、何奕儒",
     "time": "Wn56-SA320[GF]"
   },
@@ -38466,7 +38454,7 @@
     "id": "567001",
     "memo": "[English Medium Course]英文授課 生物科技學系大一新生及轉學生優先選課，上限70人 通識校基本 通識跨院",
     "name": "普通生物學(二) General Biology (II)",
-    "num_limit": "70",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "趙啟宏、林東毅",
     "time": "Wn56-SC106[GF]"

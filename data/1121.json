@@ -6582,7 +6582,7 @@
     "id": "130800",
     "memo": "[English Medium Course]",
     "name": "粉塵測定與控制 Measurement and Control of Particulate matter",
-    "num_limit": "9999",
+    "num_limit": "10",
     "reg_num": "5",
     "teacher": "余國賓、紀凱獻",
     "time": "M56-YS105[YM]"
@@ -6594,7 +6594,7 @@
     "id": "130801",
     "memo": "[English Medium Course]",
     "name": "生物性危害評估 Biohazard Risk Assessment",
-    "num_limit": "9999",
+    "num_limit": "10",
     "reg_num": "4",
     "teacher": "余國賓",
     "time": "M78-YS105[YM]"
@@ -6606,7 +6606,7 @@
     "id": "130802",
     "memo": "[English Medium Course]",
     "name": "環境變遷與公害防治 Environment Change and Social Effects of Pollution",
-    "num_limit": "20",
+    "num_limit": "15",
     "reg_num": "10",
     "teacher": "紀凱獻",
     "time": "M34-YS105[YM]"
@@ -6618,7 +6618,7 @@
     "id": "130804",
     "memo": "",
     "name": "環境衛生學 Environmental Health",
-    "num_limit": "9999",
+    "num_limit": "20",
     "reg_num": "22",
     "teacher": "陳美蓮、余國賓、紀凱獻、黃鈺芳、潘文驥、張榮偉、郭憲文、王正雄",
     "time": "T12-YS415[YM]"

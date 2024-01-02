@@ -631,7 +631,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "社區醫學實習 Community Medicine Practice",
     "num_limit": "9999",
-    "reg_num": "176",
+    "reg_num": "135",
     "teacher": "陳育群",
     "time": "R5678-"
   },
@@ -4243,7 +4243,7 @@
     "memo": "不開放校際選修及隨班附讀。",
     "name": "生理學 Physiology",
     "num_limit": "158",
-    "reg_num": "173",
+    "reg_num": "135",
     "teacher": "阮琪昌、吳鈺琳、黃娟娟、李怡萱、林惠菁、張原翊、簡千栩、吳莉玲、唐德成",
     "time": "W12R34-YX406[YM]"
   },
@@ -6667,7 +6667,7 @@
     "memo": "醫學1A, 藥學2",
     "name": "有機化學實驗 Organic Chemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "蔡有光、王毓瑄、姜為中、徐子涵",
     "time": "F5678-YED309[YM]"
   },
@@ -10736,7 +10736,7 @@
     "name": "食品安全流行病學 Food Safety Epidemiology",
     "num_limit": "42",
     "reg_num": "0",
-    "teacher": "林怡君、楊迎緋、連耿汶",
+    "teacher": "林怡君、東雅惠、楊迎緋、連耿汶",
     "time": "M56-YT203[YM]"
   },
   "1122_132103": {
@@ -15412,7 +15412,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161030",
-    "memo": "1.中央研究院人文講座課程，中國文哲研究所陳瑋芬研究員主持授課。 2.112-2學期採行線上教學。",
+    "memo": "1.中央研究院人文講座課程，中國文哲研究所陳瑋芬研究員主持授課。 2.112-2學期採行線上教學，但含到院實體活動。",
     "name": "「文明」的邏輯 The Logic of “Civilization”",
     "num_limit": "20",
     "reg_num": "0",
@@ -15424,7 +15424,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161031",
-    "memo": "1.中央研究院人文講座課程，中國文哲研究所楊小濱研究員主持授課。2.112-2學期採行線上教學。3.2024-03-28課程實體參訪胡適紀念館",
+    "memo": "1.中央研究院人文講座課程，中國文哲研究所楊小濱研究員主持授課。2.112-2學期採行線上教學，但含到院實體活動。3.2024-03-28課程實體參訪胡適紀念館",
     "name": "華文現當代詩賞析 Reading and Appreciating Modern Chinese Poetry",
     "num_limit": "20",
     "reg_num": "0",
@@ -17899,7 +17899,7 @@
     "memo": "本課程上課時間：3/25-4/3(不含假日)，每天18:00-20:00，共8天\n欲修習課程請e-mail至系辦公室承辦人員張小姐報名(qaz32194@nycu.edu.tw )",
     "name": "玉山學者講座：轉錄調控與表觀遺傳機制 Lecture of Yushan Scholar： Mechanisms of Transcriptional Regulation and Epigenetic Control",
     "num_limit": "0",
-    "reg_num": "0",
+    "reg_num": "23",
     "teacher": "待聘、蕭育源",
     "time": "M9ab-BI303[BA]"
   },
@@ -19147,7 +19147,7 @@
     "memo": "A班預設英文授課 [English Medium Course]",
     "name": "機率(英文班) Probability",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "18",
     "teacher": "高榮鴻",
     "time": "T56-ED101[GF],F2-ED103[GF]"
   },
@@ -19531,7 +19531,7 @@
     "memo": "電機丙組與醫師工程師組優先選課，請其他系所學生於開學後再開放加選。",
     "name": "化學(二) Chemistry(II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "陳榮治、李博仁",
     "time": "T34n-EE113[GF]"
   },
@@ -19816,7 +19816,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515128",
-    "memo": "",
+    "memo": "電機系優先",
     "name": "數位電路與系統 Digital Circuits and Systems",
     "num_limit": "100",
     "reg_num": "0",
@@ -23889,7 +23889,7 @@
     "num_limit": "40",
     "reg_num": "0",
     "teacher": "安勤之",
-    "time": ""
+    "time": "T34n-"
   },
   "1122_519515": {
     "code": "XDAP00022",
@@ -23901,7 +23901,7 @@
     "num_limit": "40",
     "reg_num": "0",
     "teacher": "安勤之",
-    "time": ""
+    "time": "W34n-"
   },
   "1122_519516": {
     "code": "XDAP00023",
@@ -25530,7 +25530,7 @@
     "id": "534807",
     "memo": "",
     "name": "現代音樂創作技巧 Techniques  of Contemporary Composition",
-    "num_limit": "16",
+    "num_limit": "8",
     "reg_num": "0",
     "teacher": "羅芳偉",
     "time": "W789-HC501[GF]"
@@ -25566,7 +25566,7 @@
     "id": "534810",
     "memo": "",
     "name": "作曲家專題一 Seminar on Composers 1",
-    "num_limit": "15",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "羅芳偉",
     "time": "M56-HC501[GF]"
@@ -31084,7 +31084,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537904",
-    "memo": "[English Medium Course]英文授課\n限科法所參加比賽同學選修",
+    "memo": "[English Medium Course]英文授課\n限科法所參加比賽同學選修（不開放選課，由所辦加選）",
     "name": "國際商務仲裁實例演練 International Commercial Arbitration: Case Studies",
     "num_limit": "9999",
     "reg_num": "0",
@@ -31096,7 +31096,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "537906",
-    "memo": "限科法所碩士班報專討同學選修",
+    "memo": "限科法所碩士班報專討同學選修（不開放選課，由所辦加選）",
     "name": "碩士論文研究 Thesis of Master Degree",
     "num_limit": "9999",
     "reg_num": "0",
@@ -31174,18 +31174,6 @@
     "reg_num": "0",
     "teacher": "張文貞、待聘",
     "time": "R34-MB1063[GF]"
-  },
-  "1122_537913": {
-    "code": "LWLW30297",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "537913",
-    "memo": "[English Medium Course]任何同學均可選修",
-    "name": "智慧財產權與科技法 intellectual property and technology law",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "陳在方、施明遠",
-    "time": "W56-MB1063[GF]"
   },
   "1122_537914": {
     "code": "LWLW30191",
@@ -32613,7 +32601,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "羅志偉",
-    "time": "Wabc-SC106[GF],Wabc-SC201[GF]"
+    "time": "Wabc-SC106[GF]"
   },
   "1122_556704": {
     "code": "SCPA30016",
@@ -33117,7 +33105,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林建中、潘天蔚",
-    "time": "M789-MB1069[GF]"
+    "time": "T234-ES806[GF]"
   },
   "1122_557903": {
     "code": "LWLW30294",
@@ -33356,8 +33344,8 @@
     "name": "民事訴訟法(二)               Civil Procedure (II)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "待聘",
-    "time": "S234-EE106[GF]"
+    "teacher": "陳在方",
+    "time": "F567-ES806[GF]"
   },
   "1122_557924": {
     "code": "LWLW30130",
@@ -33370,18 +33358,6 @@
     "reg_num": "0",
     "teacher": "郭詠華、曾鈺珺",
     "time": "S234-A103[GF]"
-  },
-  "1122_557925": {
-    "code": "LWLW30300",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "557925",
-    "memo": "大學部限已修過智慧財產權相關課程者",
-    "name": "智慧財產戰略與全球科技競爭 Intellectual Property Strategy and Global Technology Competition",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "劉尚志、陳在方",
-    "time": "S34-MB1069[GF],S34-TA505[BM]"
   },
   "1122_557926": {
     "code": "LWLW30254",
@@ -33412,7 +33388,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557928",
-    "memo": "限科法專班報專討同學選修",
+    "memo": "限科法專班報專討同學選修（不開放選課，由所辦加選）",
     "name": "碩士論文研究 Thesis of Master Degree",
     "num_limit": "9999",
     "reg_num": "0",
@@ -34905,7 +34881,7 @@
     "num_limit": "25",
     "reg_num": "0",
     "teacher": "吳思葦",
-    "time": "T56-A504[GF]"
+    "time": "T56-A505[GF]"
   },
   "1122_562027": {
     "code": "GELT00024",
@@ -36164,7 +36140,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "48",
-    "teacher": "留鼎淙",
+    "teacher": "張振興",
     "time": "M56-PE[GF]"
   },
   "1122_563026": {
@@ -36223,9 +36199,9 @@
     "memo": "",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "張振興",
-    "time": "M78-PE[GF]"
+    "reg_num": "29",
+    "teacher": "留鼎淙",
+    "time": "F56-PE[GF]"
   },
   "1122_563031": {
     "code": "GEPE10023",
@@ -37926,7 +37902,7 @@
     "id": "564012",
     "memo": "[English Medium Course]",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "70",
     "reg_num": "78",
     "teacher": "科特林",
     "time": "M78R34-SC106[GF]"
@@ -38025,7 +38001,7 @@
     "num_limit": "120",
     "reg_num": "0",
     "teacher": "余啟哲",
-    "time": "MabRab-SA321[GF]"
+    "time": "Mab-SA321[GF]"
   },
   "1122_564021": {
     "code": "GECS10004",

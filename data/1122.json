@@ -2384,7 +2384,7 @@
     "name": "進階臨床核心課程(二) Advanced Clinical Skills(II)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "賴慧卿",
+    "teacher": "賴慧卿、劉時安、謝祖怡、徐佳鈿、林明志、沈靜慧、沈宜靜、譚國棟、閻忠揚、林嘉彥、黃彥翔、李宇璇、阮昭奎、吳尚儒、林俊呈",
     "time": ""
   },
   "1122_110196": {
@@ -2408,7 +2408,7 @@
     "name": "急重症影像醫學 Emergency Radiology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "吳銘庭、王柏欽、王俊傑、王威登、蔡孟原、江佳陵",
+    "teacher": "吳銘庭、王柏欽、王俊傑、王威登、蔡孟原、江佳陵、陳怡君",
     "time": ""
   },
   "1122_110198": {
@@ -2420,7 +2420,7 @@
     "name": "實證醫學文獻評讀解析 Evidence-based medicine critical appraisal Skills",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "吳輔榮、朱哲生、許智揚、梁君安、簡茹君",
+    "teacher": "吳輔榮、朱哲生、許智揚、梁君安、陳俊宇、簡茹君",
     "time": ""
   },
   "1122_110199": {
@@ -2468,7 +2468,7 @@
     "name": "國家考試複習課程 Medical writing exam review course",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳怡行、周佳滿、沈靜慧、程遠揚、陳彥如、呂俊德、陳逸群、林辰祐、楊子瑤、呂曉瑜、阮昭奎、黃永杰、林玟君、李柏昕、林宇力、黃儀倢、鄭由承、胡如娟、張婷雅",
+    "teacher": "陳怡行、周佳滿、林明志、沈靜慧、程遠揚、陳彥如、呂俊德、陳逸群、林辰祐、楊子瑤、呂曉瑜、黃勝揚、阮昭奎、黃永杰、林玟君、李柏昕、林宇力、黃儀倢、鄭由承、胡如娟、周建志、張婷雅",
     "time": "R789-"
   },
   "1122_110203": {
@@ -2900,7 +2900,7 @@
     "name": "口腔解剖學 Oral Anatomy",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "楊政杰、涂曦丰、林宥成、高壽延、羅文良、吳政憲、吳和泰",
+    "teacher": "楊政杰、高壽延、涂曦丰、林宥成、羅文良、吳政憲、吳和泰",
     "time": "T1234F1234-YD210[YM]"
   },
   "1122_111517": {
@@ -2912,7 +2912,7 @@
     "name": "口腔解剖學實驗 Oral Anatomy Lab.",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "楊政杰、涂曦丰、林宥成、高壽延、吳政憲、于恩浩、吳和泰、邱昱瑋",
+    "teacher": "楊政杰、高壽延、涂曦丰、林宥成、吳政憲、于恩浩、吳和泰、邱昱瑋",
     "time": "T1234F12345678-YD210[YM]"
   },
   "1122_111518": {
@@ -3536,7 +3536,7 @@
     "name": "牙科技術觀摩 Clinical Skills Demonstration in Dentistry",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "賴玉玲、李士元、張國威、陳恆理、楊政杰、耿藝文、張景智、高壽延、羅文良、施文宇、洪凱風、楊淑芬、吳政憲、林怡君、董愛康、吳姿瑩、吳詩韻、何怡青、陳江雲、楊子彰、葉聖威、陳軒弘、梁祐銘、成函潔、謝春怡、蔡佳倫、鄭冬慧",
+    "teacher": "賴玉玲、高壽延、李士元、張國威、陳恆理、楊政杰、耿藝文、張景智、羅文良、施文宇、洪凱風、楊淑芬、吳政憲、林怡君、董愛康、吳姿瑩、吳詩韻、何怡青、陳江雲、楊子彰、葉聖威、陳軒弘、梁祐銘、成函潔、謝春怡、蔡佳倫、鄭冬慧",
     "time": "F56789a-"
   },
   "1122_111570": {
@@ -4100,7 +4100,7 @@
     "name": "專題討論(A班) Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "涂玉青、楊翠青、張懿欣、黃琤、呂世正、龔思豪、陳奕帆、黃尉倫、洪小雅、蔡雨寰",
+    "teacher": "涂玉青、阮琪昌、楊翠青、張懿欣、黃琤、呂世正、龔思豪、黃智生、嚴錦城、陳奕帆、黃尉倫、蘇美慈、洪小雅、蔡雨寰",
     "time": "M56-YT301[YM]"
   },
   "1122_112002": {
@@ -4136,7 +4136,7 @@
     "name": "專題討論(B班) Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黃尉倫、楊翠青、張懿欣、涂玉青、黃琤、呂世正、龔思豪、蘇美慈、洪小雅、蔡雨寰、高正彥",
+    "teacher": "黃尉倫、楊翠青、張懿欣、涂玉青、黃琤、呂世正、龔思豪、黃智生、嚴錦城、張原翊、蘇美慈、洪小雅、蔡雨寰、高正彥",
     "time": "F34-YB102[YM]"
   },
   "1122_112005": {
@@ -5505,7 +5505,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "施怡芬、陳振昇、羅鴻基",
-    "time": "Syz-"
+    "time": "F9a-"
   },
   "1122_112264": {
     "code": "BEPT10012",
@@ -5517,7 +5517,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳喬男、李雪楨、周立偉",
-    "time": "Syz-"
+    "time": "F9a-"
   },
   "1122_112265": {
     "code": "BEPT20089",
@@ -6248,7 +6248,7 @@
     "name": "遺傳學原理的實作與應用 Laboratory in Fundamental Genetics and its Applications ",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳嘉霖、楊念中、陳虹如",
+    "teacher": "陳嘉霖、陳虹如、楊念中",
     "time": "F5678-YED109[YM]"
   },
   "1122_112504": {
@@ -6728,7 +6728,7 @@
     "name": "微生物學及免疫學實驗  Lab Practice in Microbiology & Immunology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳紀如",
+    "teacher": "陳紀如、徐嘉琳、高正彥",
     "time": "W5678-YEC211[YM]"
   },
   "1122_113201": {
@@ -6740,7 +6740,7 @@
     "name": "微生物學及免疫學 Microbiology &amp; Immunology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳紀如",
+    "teacher": "陳紀如、徐嘉琳、高正彥",
     "time": "W12F5678-ED101[GF],W12F5678-YX216[YM]"
   },
   "1122_113300": {
@@ -6836,8 +6836,8 @@
     "name": "環境衛生概論 Introduction to Environmental Health",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "楊振昌、陳美蓮、郭憲文、余國賓、紀凱獻、潘文驥、張榮偉",
-    "time": "S12-YX216[YM]"
+    "teacher": "楊振昌、陳美蓮、余國賓、紀凱獻、黃鈺芳、潘文驥、張榮偉、郭憲文",
+    "time": "S12-"
   },
   "1122_113502": {
     "code": "MDMD10106",
@@ -7566,7 +7566,7 @@
     "id": "130201",
     "memo": "與醫管所合開；限修過「經濟分析」課程或經授課老師同意。開放隨班附讀。本門課程不開放大學部學生選修。因本門課程有限修人數，初選階段僅限公衛群學生選修。其他系所可於加退選時候選修。",
     "name": "健康經濟學 Health Economics",
-    "num_limit": "30",
+    "num_limit": "25",
     "reg_num": "-999",
     "teacher": "蒲正筠、周穎政、梁立霖",
     "time": "F12-YS221[YM]"
@@ -7857,7 +7857,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "潘文驥、鄭浩民、陳信任、莊宜芳、蕭金福、詹大千",
-    "time": "M12-YS221[YM]"
+    "time": ""
   },
   "1122_130226": {
     "code": "MDPH30018",
@@ -7938,7 +7938,7 @@
     "id": "130232",
     "memo": "",
     "name": "臨床試驗研究設計與實務 Research design and practical issues on clinical trial",
-    "num_limit": "9999",
+    "num_limit": "22",
     "reg_num": "-999",
     "teacher": "林明薇",
     "time": "R78-YS221[YM]"
@@ -8721,7 +8721,7 @@
     "num_limit": "18",
     "reg_num": "-999",
     "teacher": "黃鈺芳、楊振昌、陳美蓮、余國賓、紀凱獻、潘文驥、張榮偉、李旻軒、郭憲文",
-    "time": "T34-YB100[YM]"
+    "time": "T34-YT205[YM]"
   },
   "1122_130808": {
     "code": "MDEO30039",
@@ -8733,7 +8733,7 @@
     "num_limit": "18",
     "reg_num": "-999",
     "teacher": "黃鈺芳、楊振昌、陳美蓮、余國賓、紀凱獻、潘文驥、張榮偉、李旻軒、郭憲文",
-    "time": "T34-YB100[YM]"
+    "time": "T34-YT205[YM]"
   },
   "1122_130809": {
     "code": "MDEO30070",
@@ -9176,7 +9176,7 @@
     "name": "微菌叢與人類疾病 Microbiota and Human Diseases",
     "num_limit": "40",
     "reg_num": "-999",
-    "teacher": "吳俊穎、黃雪莉、鄭浩民、陳斯婷、高正彥、陳怡如、曾景鴻",
+    "teacher": "吳俊穎、黃雪莉、鄭浩民、廖曉偉、高正彥、陳怡如、曾景鴻",
     "time": "T56-YR101[YM]"
   },
   "1122_131015": {
@@ -9592,7 +9592,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "131212",
-    "memo": "[English Medium Course]【From Week 1-8 Feb. 22 - Apr. 11】",
+    "memo": "[English Medium Course]【From Week 2-9 Feb. 29 - Apr. 18】",
     "name": "青少年健康行為概論 Introduction to adolescent health",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -9640,7 +9640,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "131216",
-    "memo": "[English Medium Course] 六月密集課程，授課時間另行公布",
+    "memo": "[English Medium Course] an intensive course from June 17-28. The detailed schedule will be announced after we receive the Professor&#039;s flight information.六月17-28日期間之密集課程，授課時間另行公布",
     "name": "人道危機與發展: 國際組織和非政府組織的作用與挑戰 The roles and challenges of International Agencies and NGOs in humanitarian crisis and development",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -9652,7 +9652,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "131217",
-    "memo": "[English Medium Course]二月-五月密集課程，授課時間另外公佈。",
+    "memo": "[English Medium Course]We are glad to invite Dr. Victoria Fan from the Center for Global Development, Washington, DC, USA, to conduct the course. It will be a comprehensive course, including in-class, online, and field trip components. The first 3 day of classes is on Feb 21. 22. 23 are intensive, and the other days will be online. 二月-五月密集課程，授課時間另外公佈。",
     "name": "傳染病流行病學、經濟學和政策 Infectious Disease Epidemiology, Economics, and Policy",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -10076,7 +10076,7 @@
     "name": "口腔組織工程與生技材料專題討論 Oral Tissue Engineering and Biotechnology Materials Panel Discussion",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林元敏、李士元",
+    "teacher": "林元敏、李士元、黃何雄",
     "time": "W9a-YD207[YM]"
   },
   "1122_131601": {
@@ -10089,7 +10089,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "林宥成",
-    "time": "W56-YD209[YM]"
+    "time": "W78-YD209[YM]"
   },
   "1122_131700": {
     "code": "NSCN30058",
@@ -10878,7 +10878,7 @@
     "id": "132114",
     "memo": "",
     "name": "專題討論 Seminar",
-    "num_limit": "74",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "楊登傑、林照雄、楊振昌、蔡東湖、陳美蓮、林滿玉、林逸芬、范玫芳、黃雪莉、康照洲、林奇宏、倪貴榮、黃鈺芳、林宜平、王湘翠、魏國晋、林怡君、廖伯霖、許銘能、蔡文城、林嬪嬪、劉宗榮、何其儻、鄭幼文、梁恭豪、鄒瀚興、賴盈宏",
     "time": "F56-YN118[YM]"
@@ -11000,7 +11000,7 @@
     "name": "專題討論(A班) Seminar (A)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "呂世正、吳韋訥、孫光蕙、楊翠青、張懿欣、涂玉青、黃琤、龔思豪、黃智生、黃尉倫、蘇美慈、洪小雅",
+    "teacher": "呂世正、吳韋訥、孫光蕙、楊翠青、張懿欣、涂玉青、黃琤、龔思豪、黃智生、黃尉倫、洪小雅",
     "time": "M78-YT104[YM]"
   },
   "1122_132207": {
@@ -13581,7 +13581,7 @@
     "num_limit": "10",
     "reg_num": "-999",
     "teacher": "黃鈺芳、楊振昌、陳美蓮、余國賓、紀凱獻、潘文驥、張榮偉、李旻軒、郭憲文",
-    "time": "T34-YB100[YM]"
+    "time": "T34-YT205[YM]"
   },
   "1122_140603": {
     "code": "MDEO30035",
@@ -13593,7 +13593,7 @@
     "num_limit": "10",
     "reg_num": "-999",
     "teacher": "黃鈺芳、楊振昌、陳美蓮、余國賓、紀凱獻、潘文驥、張榮偉、李旻軒、郭憲文",
-    "time": "T34-YB100[YM]"
+    "time": "T34-YT205[YM]"
   },
   "1122_140604": {
     "code": "MDEO30069",
@@ -13652,7 +13652,7 @@
     "name": "環境職業流行病學特論 Environmental and Occupational Epidemiology",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "潘文驥",
+    "teacher": "郭憲文",
     "time": "R56-YS105[YM]"
   },
   "1122_140610": {
@@ -13976,7 +13976,7 @@
     "name": "群體健康實證措施發展 Development of Evidence-based Practices for Enhancing Population Health (practicum)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "童恒新",
+    "teacher": "童恒新、陳俞琪",
     "time": "R12345678-"
   },
   "1122_141503": {
@@ -15929,7 +15929,7 @@
     "hours": "3.00",
     "id": "230002",
     "memo": "",
-    "name": "AI實務 Foundations of AI: From Basucs to Practice",
+    "name": "AI實務 Foundations of AI: From Basics to Practice",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "待聘",
@@ -16542,7 +16542,7 @@
     "id": "310102",
     "memo": "",
     "name": "說服傳播 Persuasive Communication",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "俞蘋",
     "time": "T234-HK104[LJ]"
@@ -17632,7 +17632,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "430017",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "蛋白質物理生化學 Physical Biochemistry of Protein",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -18080,7 +18080,7 @@
     "name": "高等生物工程 Advanced Bioengineering",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "鄒協成",
+    "teacher": "蕭育源",
     "time": "W56-BI301[BA]"
   },
   "1122_430204": {
@@ -19485,7 +19485,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "戴立嘉",
-    "time": "W5-EE209[GF]"
+    "time": ""
   },
   "1122_515102": {
     "code": "EEEC00001",
@@ -19497,7 +19497,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "戴立嘉",
-    "time": "W6-EE209[GF]"
+    "time": ""
   },
   "1122_515103": {
     "code": "EEEC00005",
@@ -19640,7 +19640,7 @@
     "name": "固態物理(一) Solid State Physics (I)",
     "num_limit": "60",
     "reg_num": "-999",
-    "teacher": "簡昭欣",
+    "teacher": "林炯源",
     "time": "T34F7-ED301[GF]"
   },
   "1122_515115": {
@@ -24008,7 +24008,7 @@
     "name": "電腦程式與計算分析(一) Computer Programming and Computational Analysis (1)",
     "num_limit": "60",
     "reg_num": "-999",
-    "teacher": "陳永富、待聘",
+    "teacher": "陳永富、杜岳錡",
     "time": "F234-SC152[GF]"
   },
   "1122_520009": {
@@ -24020,7 +24020,7 @@
     "name": "應用電子學實驗(一) Applied Electronic Laboratory (1)",
     "num_limit": "60",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "陳建至",
     "time": "Wabc-"
   },
   "1122_530000": {
@@ -25797,7 +25797,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "冀泰石",
-    "time": "W56-ED220[GF]"
+    "time": "W56-ED220[GF],W56-EE209[GF]"
   },
   "1122_535101": {
     "code": "EEEE30001",
@@ -26073,7 +26073,7 @@
     "num_limit": "130",
     "reg_num": "-999",
     "teacher": "陳冠能",
-    "time": "M34n-ED219[GF]"
+    "time": "W34n-ED220[GF]"
   },
   "1122_535216": {
     "code": "EEIE30046",
@@ -26889,7 +26889,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "施閔雄、張書維",
-    "time": "R234-EO115[GF]"
+    "time": "T567-EO115[GF]"
   },
   "1122_535412": {
     "code": "EEEO30089",
@@ -27873,7 +27873,7 @@
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "陳俊豪",
-    "time": ""
+    "time": "Mabc-"
   },
   "1122_535952": {
     "code": "STVS30008",
@@ -27909,7 +27909,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "鍾錦翰",
-    "time": ""
+    "time": "Wabc-"
   },
   "1122_536000": {
     "code": "ENRB00001",
@@ -30707,18 +30707,6 @@
     "teacher": "黃思皓",
     "time": "W89a-M101[GF]"
   },
-  "1122_537712": {
-    "code": "MGIF30079",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "537712",
-    "memo": "本課程112學年度 下學期停開。",
-    "name": "資料科學 Data Science",
-    "num_limit": "0",
-    "reg_num": "-999",
-    "teacher": "游家牧",
-    "time": "M567-M-b09[GF]"
-  },
   "1122_537713": {
     "code": "MGIF30083",
     "credit": "3.00",
@@ -31210,18 +31198,6 @@
     "reg_num": "-999",
     "teacher": "李界昇",
     "time": "Sn5-"
-  },
-  "1122_537918": {
-    "code": "LWLW30259",
-    "credit": ".00",
-    "hours": "3.00",
-    "id": "537918",
-    "memo": "限科法所碩班同學選修",
-    "name": "科技法律服務學習 Learning &amp; Serviece in Technology Law",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "科法所",
-    "time": ""
   },
   "1122_537919": {
     "code": "LWLW30141",
@@ -31928,7 +31904,7 @@
     "name": "論文研討(博) Seminar on Thesis",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "管科系",
     "time": ""
   },
   "1122_547001": {
@@ -32000,7 +31976,7 @@
     "name": "博士論文研究 Ph.D Dissertation",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "科管所",
     "time": ""
   },
   "1122_547900": {
@@ -32608,7 +32584,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557000",
-    "memo": "台北校區授課，限管院專班生選課；輔開生醫EMBA；上課地點：台北校區三樓第二演講廳B307",
+    "memo": "台北校區授課，限管院專班生選課；輔開生醫EMBA；上課地點：北門校區三樓第二演講廳B307",
     "name": "企業經營與倫理專題講座 Seminar on Enterprise Management and Ethics",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -37984,7 +37960,7 @@
     "credit": "4.00",
     "hours": "4.00",
     "id": "564020",
-    "memo": "全網路授課，但面授與考試為實體進行，需到教室。",
+    "memo": "全網路授課，但面授與考試為實體進行，需到教室。(高年級優先)",
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "120",
     "reg_num": "-999",
@@ -39224,7 +39200,7 @@
     "name": "教學實習(自然領域/生物) Teaching Practice (Biology)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "佘曉清、待聘",
+    "teacher": "佘曉清、薛靜瑩",
     "time": "W56-HA218[GF]"
   },
   "1122_599006": {

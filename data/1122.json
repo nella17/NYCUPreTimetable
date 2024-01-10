@@ -728,7 +728,7 @@
     "name": "核心內科講堂 Core-Course in Internal Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黃怡翔",
+    "teacher": "黃怡翔、李懿宬、劉峻宇、陳明翰、吳道正、林堯彬、林芳綺、陳瑋昇、李政源、潘聖衛、賴建志、蔡明村、林晉宇、王維庭、李國華、沈宜靜、陳燕溫、黃偉杰、蔡依霖、施彥丞、阮志翰、何翊芯、莊茜、蔡弘正、林詠萱、吳崇暉、林亮羽、馮嘉毅、許劭榮、曾偉誠",
     "time": ""
   },
   "1122_110055": {
@@ -740,7 +740,7 @@
     "name": "臨床病例及病理討論 Clinical Case Discussion (CPC)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黃怡翔",
+    "teacher": "黃怡翔、胡瑜峰、陳志彥、陳育群、藍耿立、張世霖、林邑璁、鄭浩民、陳牧宏、雷文玫、賴峻毅、胡啟民、羅景全、藍苑慈、鍾芷萍、洪凱風、柯信國、黃德光、廖顯宗、李政源、郭盈汝、賴建志、陳威志、王彥博、黃君睿、劉耀中、林浚仁、簡聖軒、杭仁釩、劉至民、石柏威、陳一瑋、林士傑、楊宗杰、黃偉杰、張富邦、林庭安、鄧欣一、阮志翰、張天恩、陳玟均、陳天華、陳宥任、蔡淳光、何翊芯、莊茜、楊婉琴、楊博欽、何揚、陳範宇、張綜顯、林亮羽、許劭榮",
     "time": ""
   },
   "1122_110056": {
@@ -2732,7 +2732,7 @@
     "name": "整合醫學暨中醫學現代進展 Recent Advances in Integrative Medicine and Chinese Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "龔彥穎、郭文華、張清貿、楊仁鄰、鄭惇方、張凱惟、吳大鵬、張家國",
+    "teacher": "龔彥穎、郭文華、張清貿、楊仁鄰、鄭惇方、張凱惟、吳大鵬、張家國、陳昭憲",
     "time": "W78-YT303[YM]"
   },
   "1122_111500": {
@@ -3668,7 +3668,7 @@
     "name": "兒童護理學 Pediatric Nursing",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳紀雯、王子芳、穆佩芬、張瑞文、劉佩青、楊翠芬、呂立、沈青青、賴鼎璁",
+    "teacher": "陳紀雯、王子芳、張瑞文、劉佩青、楊翠芬、沈青青、賴鼎璁",
     "time": "M12345678-YN416[YM]"
   },
   "1122_111805": {
@@ -3692,7 +3692,7 @@
     "name": "兒童護理學實習 Pediatric Nursing Practice",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳紀雯、賴品欣、林秀蘭、楊馥菱、黃祖涵、簡莉文、戴怡旻、劉芷伶",
+    "teacher": "陳紀雯、賴品欣、林秀蘭、楊馥菱、黃祖涵、簡莉文、戴怡旻",
     "time": "M12345678T12345678W12345678-"
   },
   "1122_111807": {
@@ -4818,7 +4818,7 @@
     "id": "112203",
     "memo": "上課時間地點待議，請洽授課教師，限物輔系同學修課",
     "name": "物理治療臨床服務 Physical Therapy Clinical Serving",
-    "num_limit": "45",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、陳振昇、李淑貞、李雪楨、蔡美文、宋文旭、羅鴻基、施惠婷、朱俊榮、董阜玲、江威漢、陳祐榕、林永章、林珊如、魏敏如、鄭董絢、莊頌音、黃心怡、曾裕良、徐瑞隆、陳元劭、陳薇如、高嘉瑄、游玉菁、黃安華、蔡佳容、林維萱、林佩伶、秦雅玲、方婉羽、楊祥生、張簡書勝、葉姵君、蔣志豪、邵芙昕、洪詩雯、呂怡慧、蕭茗榕、喻大忠、蔡明倫、黃建儒、莊邵雯、李肇中、李怡安、袁婉齡、宋敦仁、林婕妤、陳佳伶、黃琬葶、高宜暄、莊雅雯、周玟玲、張伸睿、許書旋、黃亭瑜、陳恩賜、厲真、張紋蜜、蔡瑋祺、杜俊宏、張育嘉、張娟青、張杏妃、吳汶儒、黃冠樺、盧小惠、楊雅如、張志謙、李名哲、羅士倫、巫俊杉、王禎、王祚萱、顏如欣、吳嘉偉、杜禹昇、張詠家、翁昀秀、陳詠馨、張立萱、陳琬婷、王佩茹、何美達、黃政溶、洪素鶯、黃佳琦、陳慧玲",
     "time": "U12-"
@@ -5852,7 +5852,7 @@
     "name": "放射診斷學 Radiodiagnosis",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "邱宏仁、吳銘庭、凌憬峰、林重榮、賴炳宏、鄧木火、黃宣恩、沈書慧、黃振義、吳宏達、邱乃祈、李潤川、柳建安、吳慶蘭",
+    "teacher": "邱宏仁、吳銘庭、凌憬峰、林重榮、賴炳宏、鄧木火、黃宣恩、沈書慧、黃振義、吳宏達、邱乃祈、李潤川、柳建安、吳慶蘭、林德銘",
     "time": "M56-YT204[YM]"
   },
   "1122_112321": {
@@ -7216,12 +7216,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "130007",
-    "memo": "",
+    "memo": "教室改為守仁樓4樓",
     "name": "再生醫學特論 Advanced Topics in  Regenerative Medicine",
     "num_limit": "10",
     "reg_num": "-999",
     "teacher": "簡千栩",
-    "time": "F78-YR104[YM]"
+    "time": "T34-"
   },
   "1122_130008": {
     "code": "MDPY30029",
@@ -7701,7 +7701,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "詹宇鈞、李美璇、陽光耀、王復德、詹大千、陳昕白、黃頌恩、巫炳峰、馮嘉毅",
-    "time": "T56-YS221[YM]"
+    "time": "U9-YS221[YM]"
   },
   "1122_130210": {
     "code": "MDPH30076",
@@ -8516,7 +8516,7 @@
     "name": "扶正的力量 The power of righting inTCM",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "許中華",
+    "teacher": "許中華、賴榮年、劉佳祐",
     "time": "T78-YR101[YM]"
   },
   "1122_130700": {
@@ -13460,7 +13460,7 @@
     "name": "專題討論(碩士班) Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林東毅、傅淑玲、蔡東湖、陳方佩、許中華、藍耿立、龔彥穎、張清貿、盧美光、簡采汝、彭溫雅",
+    "teacher": "林東毅、傅淑玲、蔡東湖、陳方佩、許中華、藍耿立、龔彥穎、張清貿、盧美光、簡采汝、彭溫雅、林舜穀",
     "time": "R34n-YR101[YM]"
   },
   "1122_140406": {
@@ -13484,7 +13484,7 @@
     "name": "傳統醫藥學綜論 Comprehansive Introduction of Traditional Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳方佩、傅淑玲、蔡東湖、林滿玉、許中華、藍耿立、陳日榮、林東毅、龔彥穎、張清貿、林麗純、陳裕仁、邱仁輝、盧美光、王致又、簡采汝、彭溫雅、徐蔚泓",
+    "teacher": "陳方佩、傅淑玲、蔡東湖、林滿玉、許中華、藍耿立、陳日榮、林東毅、龔彥穎、張清貿、林麗純、陳裕仁、黃怡超、邱仁輝、盧美光、洪裕強、王致又、簡采汝、彭溫雅、徐蔚泓",
     "time": "R56-YR101[YM]"
   },
   "1122_140408": {
@@ -13496,7 +13496,7 @@
     "name": "專題討論(博士班) Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林東毅、傅淑玲、蔡東湖、陳方佩、許中華、藍耿立、龔彥穎、張清貿、盧美光、簡采汝、彭溫雅",
+    "teacher": "林東毅、傅淑玲、蔡東湖、陳方佩、許中華、藍耿立、龔彥穎、張清貿、盧美光、簡采汝、彭溫雅、林舜穀",
     "time": "R34n-YR101[YM]"
   },
   "1122_140409": {
@@ -14241,7 +14241,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "微免所碩",
-    "time": "Un-"
+    "time": "Sn-"
   },
   "1122_142503": {
     "code": "LSMI30057",
@@ -15088,7 +15088,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161000",
-    "memo": "",
+    "memo": "跨校區同步遠距課程 (臺北陽明校區：YT301；新竹光復校區：A103)",
     "name": "翻轉管理學 A Critical Understanding of Management",
     "num_limit": "30",
     "reg_num": "-999",
@@ -15100,7 +15100,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161001",
-    "memo": "",
+    "memo": "跨校區同步遠距課程 (臺北陽明校區：YT301；新竹光復校區：A103)",
     "name": "翻轉管理學 A Critical Understanding of Management",
     "num_limit": "30",
     "reg_num": "-999",
@@ -15184,7 +15184,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161008",
-    "memo": "",
+    "memo": "跨校區同步遠距課程 (臺北陽明校區：YT305；其他校區：授課教師課前提供線上教室連結)",
     "name": "從現當代小說看臺灣歷史 History of Taiwan through Modern and Contemporary Literature",
     "num_limit": "30",
     "reg_num": "-999",
@@ -15196,7 +15196,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161009",
-    "memo": "",
+    "memo": "跨校區同步遠距課程 (臺北陽明校區：YX201；其他校區：授課教師課前提供線上教室連結)",
     "name": "中國文明的興起與轉型 The Rise and Transformation  of Chinese Civilization",
     "num_limit": "30",
     "reg_num": "-999",
@@ -15280,7 +15280,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161017",
-    "memo": "",
+    "memo": "跨校區同步遠距課程 (臺北陽明校區：YX201；新竹光復校區：A103)",
     "name": "臺灣政治概論 Introduction to Taiwan Politics",
     "num_limit": "30",
     "reg_num": "-999",
@@ -15328,7 +15328,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161021",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]\n跨校區同步遠距課程 (台北陽明校區：YX201；其他校區：授課教師課前提供線上教室連結)",
     "name": "香港城市文化之邊走邊學 Understanding Hong Kong Through Walking",
     "num_limit": "25",
     "reg_num": "-999",
@@ -16554,7 +16554,7 @@
     "id": "310101",
     "memo": "",
     "name": "統計學 Statistics and Statistical Computing Language",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "陶振超",
     "time": "M567-HK114[LJ]"
@@ -16770,7 +16770,7 @@
     "id": "310121",
     "memo": "",
     "name": "客家與傳播 Hakka and Communication",
-    "num_limit": "9999",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "賴至慧",
     "time": "M234-HKB08[LJ]"
@@ -19818,7 +19818,7 @@
     "id": "515127",
     "memo": "電機系優先",
     "name": "數位電路與系統 Digital Circuits and Systems",
-    "num_limit": "120",
+    "num_limit": "150",
     "reg_num": "-999",
     "teacher": "張添烜",
     "time": "T78R8-ED219[GF]"
@@ -19830,7 +19830,7 @@
     "id": "515128",
     "memo": "電機系優先",
     "name": "數位電路與系統 Digital Circuits and Systems",
-    "num_limit": "120",
+    "num_limit": "150",
     "reg_num": "-999",
     "teacher": "陳坤志",
     "time": "T78R8-ED116[GF]"
@@ -20176,7 +20176,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515158",
-    "memo": "",
+    "memo": "授課老師：吳易忠助理教授",
     "name": "邏輯設計 Logic Design",
     "num_limit": "50",
     "reg_num": "-999",
@@ -20188,7 +20188,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515159",
-    "memo": "",
+    "memo": "授課老師：林群祐副教授",
     "name": "類比積體電路導論 Introduction to Analog Integrated Circuits",
     "num_limit": "80",
     "reg_num": "-999",
@@ -21930,7 +21930,7 @@
     "id": "516230",
     "memo": "限土木系大三、大四學生",
     "name": "土木施工學 Construction Engineering",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "-999",
     "teacher": "王維志",
     "time": "W567-EB415[GF]"
@@ -23937,7 +23937,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "梁興弛",
-    "time": "F234-"
+    "time": "R678-SC151[GF]"
   },
   "1122_520001": {
     "code": "XDEP10007",
@@ -24021,7 +24021,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "陳建至",
-    "time": "M234-SC110[GF]"
+    "time": "M567-SC151[GF]"
   },
   "1122_520008": {
     "code": "XDEP10004",
@@ -26200,9 +26200,9 @@
     "credit": "3.00",
     "hours": "4.00",
     "id": "535224",
-    "memo": "第一階段不開放選課[English Medium Course]上課教室：W56–ED415,Wab–LAB",
+    "memo": "[English Medium Course](1)上課時間W56–ED415, Wab–LAB(2)第二、第三階段選課：開放選課且電子所、電機系、產創學院優先；不開放填寫google加簽表單(3)開學後加退選階段：開放選課；開放填寫google加簽表單且依規定加簽。加簽方式會在第一堂課時說明並提供表單，欲加簽同學第一堂課請務必要來。 (4)未加選到同學依照學系、年級等進行篩選後網路加簽(詳細順位排序方式於第一堂課公布)，加簽總人數會經老師評估後決定。如為外系所、外校欲進行加選，除填表單外，亦須提供曾修習兩門或兩門以上相關課程之修課成績單。若外系所、外校無提供成績單，即便選課系統選上，亦會被手動退選。相關課程：1.邏輯設計 2.數位電路與系統3.超大型積體電路設計導論(VLSI)4.數位積體電路(DIC)",
     "name": "積體電路設計實驗 Integrated Circuit Design Laboratory",
-    "num_limit": "0",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "李鎮宜",
     "time": "W56ab-"
@@ -26274,7 +26274,7 @@
     "id": "535230",
     "memo": "[English Medium Course]",
     "name": "機器學習智能晶片設計 Machine Learning Intelligent Chip Design",
-    "num_limit": "9999",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "陳坤志",
     "time": "W234-ED219[GF]"
@@ -30738,7 +30738,7 @@
     "id": "537713",
     "memo": "財務類課程；財務金融碩博士班及資財系學生優先。非本課程輔開系所之外系所學生請於開學後再上網加選課程。無法於線上加選者請紙本加簽。",
     "name": "金融創新 Financial Innovations",
-    "num_limit": "35",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "黃星華",
     "time": "R89a-M101[GF]"
@@ -30772,7 +30772,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "537716",
-    "memo": "[English Medium Course]本課程預定上課時間為113年3月2日以及3月3日(上午9點至下午18點)。This course is scheduled to be held on March 2 and March 3, 2024 (From 9 a.m. to 18 p.m.)",
+    "memo": "[English Medium Course]本課程預定上課時間為113年3月2日以及3月3日(上午9點至下午18點)。The course time is scheduled on March 2 (Sat.) and March 3 (Sun.) , 2024 (From 9 a.m. to 18 p.m.)",
     "name": "智慧數據分析 Smart Data Analytics",
     "num_limit": "30",
     "reg_num": "-999",
@@ -31686,7 +31686,7 @@
     "id": "545500",
     "memo": "資科工所、網資學程博士班 博士生資格考通過後必修。",
     "name": "博士學位論文研究 Ph.D.Thesis Study",
-    "num_limit": "110",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "資科工博",
     "time": ""
@@ -38490,7 +38490,7 @@
     "id": "567000",
     "memo": "生物科技學系大一新生/本系生、中一中科學班、醫師工程師組優先，上限90人 通識校基本 通識跨院",
     "name": "普通生物學(二) General Biology (II)",
-    "num_limit": "80",
+    "num_limit": "90",
     "reg_num": "-999",
     "teacher": "廖光文、曲在雯、何奕儒",
     "time": "Wn56-SA320[GF]"
@@ -38841,6 +38841,18 @@
     "num_limit": "0",
     "reg_num": "-999",
     "teacher": "胡德民、王孟廷、林滿玉、陳日榮、林宥欣、廖曉偉",
+    "time": ""
+  },
+  "1122_577003": {
+    "code": "IAAE00008",
+    "credit": ".50",
+    "hours": ".50",
+    "id": "577003",
+    "memo": "",
+    "name": "國際藥學工作坊 International Pharmacy Workshop",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "",
     "time": ""
   },
   "1122_579000": {

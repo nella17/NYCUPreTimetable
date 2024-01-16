@@ -6172,7 +6172,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "112346",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "生物化學概論 Introduction to Biochemistry",
     "num_limit": "60",
     "reg_num": "31",
@@ -6500,7 +6500,7 @@
     "name": "植物生理學 Plant Physiology",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "蔡宜芳、李秀敏、葉國禎、涂世隆、朱修安、余天心、王中茹、吳志謙、何金敏",
+    "teacher": "蔡宜芳、李秀敏、葉國禎、涂世隆、朱修安、余天心、王中茹、何金敏、吳志航、何承訓",
     "time": "T34-YK101[YM]"
   },
   "1122_112522": {
@@ -8287,7 +8287,7 @@
     "memo": "[English Medium Course]",
     "name": "專題討論(英) Seminar",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "12",
     "teacher": "侯珮珊、鄭瓊娟、王先逸",
     "time": "T56-YT205[YM]"
   },
@@ -9307,7 +9307,7 @@
     "memo": "[English Medium Course]開放跨系選修",
     "name": "情緒神經科學 Affective Neuroscience?",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "14",
     "teacher": "林嘉澍",
     "time": "W56-YL839[YM]"
   },
@@ -9405,7 +9405,7 @@
     "num_limit": "9999",
     "reg_num": "6",
     "teacher": "李正達",
-    "time": "M23-"
+    "time": "R23-"
   },
   "1122_131109": {
     "code": "MDBS30053",
@@ -9681,7 +9681,7 @@
     "num_limit": "9999",
     "reg_num": "11",
     "teacher": "范鈺梅",
-    "time": "F1-YS405[YM]"
+    "time": "U9-YS405[YM]"
   },
   "1122_131218": {
     "code": "MDIH30069",
@@ -11527,7 +11527,7 @@
     "memo": "",
     "name": "新興領域物理治療 Emerging Physical Therapy Practice",
     "num_limit": "40",
-    "reg_num": "18",
+    "reg_num": "13",
     "teacher": "王子娟、傅士豪、湯士萱、陳月霞、陳怡同、陳德生、李君碩",
     "time": "S34-YB602[YM]"
   },
@@ -12045,7 +12045,7 @@
     "num_limit": "9999",
     "reg_num": "11",
     "teacher": "陳浩夫",
-    "time": "F9ab-YK436[YM]"
+    "time": "T9ab-YK436[YM]"
   },
   "1122_132613": {
     "code": "BEBP30046",
@@ -15031,7 +15031,7 @@
     "memo": "",
     "name": "進階家庭專科護理實習III Advanced Family Nurse Practitioner Practicum III",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "童恒新",
     "time": "R12345678-"
   },
@@ -15570,7 +15570,7 @@
     "id": "161041",
     "memo": "1.中央研究院歐美研究所黃瑞祺研究員主持授課。2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：批判理論 The guidance of career planning by academic masters：Critical theory of society",
-    "num_limit": "8",
+    "num_limit": "0",
     "reg_num": "8",
     "teacher": "黃瑞祺",
     "time": "R78-"
@@ -19435,7 +19435,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先。不開放系統選課，要加退選的同學，自第三階段起洽詢助教。課程時間為週三晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(二) Electronics Lab. (II)",
     "num_limit": "60",
-    "reg_num": "57",
+    "reg_num": "58",
     "teacher": "陳立洲",
     "time": "Wabcd-"
   },
@@ -20503,7 +20503,7 @@
     "memo": "[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；本系生優先權順序：1年級，4年級，3年級，2年級 ；電子，應數系及管理學院不同意所屬學生採計通識學分[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
     "name": "離散數學 Discrete Mathematics",
     "num_limit": "75",
-    "reg_num": "77",
+    "reg_num": "78",
     "teacher": "嚴力行",
     "time": "M34-EC122[GF]"
   },
@@ -20551,7 +20551,7 @@
     "memo": "主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；本系生優先權順序：1年級，4年級，3年級，2年級 ; Tabc上課教室:EC315、EC316、EC324。",
     "name": "資料結構與物件導向程式設計 Data Structures and Object-oriented Programming",
     "num_limit": "75",
-    "reg_num": "75",
+    "reg_num": "77",
     "teacher": "詹力韋",
     "time": "M56R2-EC114[GF],Tabc-EC315[GF],Tabc-EC316[GF],Tabc-EC324[GF]"
   },
@@ -22771,7 +22771,7 @@
     "memo": "",
     "name": "有機化學(二) Organic Chemistry (2)",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "61",
     "teacher": "鍾文聖",
     "time": "M34W34-SB211[GF]"
   },
@@ -23155,7 +23155,7 @@
     "memo": "非管院同學請於2月5日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限88人，得請授課教師簽准後可放寬至93人，若超過人數上限或教師簽准名額額滿，請至線上表單登記：https://forms.gle/6LR23SnYDVCAJrjr6；管理基礎學分學程課程",
     "name": "作業研究(二) Operations Research (II)",
     "num_limit": "88",
-    "reg_num": "88",
+    "reg_num": "87",
     "teacher": "王晉元",
     "time": "T234-AB101[GF]"
   },
@@ -23167,7 +23167,7 @@
     "memo": "非管院同學請於2月5日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限20人，得請授課教師簽准後可放寬至25人；管理基礎學分學程課程；英文授課[English Medium Course]",
     "name": "作業研究(二) Operations Research (II)",
     "num_limit": "20",
-    "reg_num": "20",
+    "reg_num": "21",
     "teacher": "水敬心",
     "time": "T234-A309[GF]"
   },
@@ -23647,7 +23647,7 @@
     "memo": "資財系必修；不開放網路選課。請依資財系專題程執行辦法規定修課。限資財系(含雙主修)學生選修。",
     "name": "資訊與財金專題(一) Projects in Information Management and Finance (I)",
     "num_limit": "0",
-    "reg_num": "43",
+    "reg_num": "47",
     "teacher": "資財系",
     "time": ""
   },
@@ -27175,7 +27175,7 @@
     "memo": "[English Medium Course]請依各所入學年度之修業要點選課；資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously];開放隨班附讀",
     "name": "演算法 Algorithms",
     "num_limit": "150",
-    "reg_num": "150",
+    "reg_num": "151",
     "teacher": "荊宇泰",
     "time": "M34F2-ED117[GF]"
   },
@@ -27283,7 +27283,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；",
     "name": "嵌入式即時系統 Real-time and embedded systems",
     "num_limit": "40",
-    "reg_num": "44",
+    "reg_num": "45",
     "teacher": "張立平",
     "time": "T567-ED202[GF]"
   },
@@ -29862,7 +29862,7 @@
     "id": "537007",
     "memo": "開放大一到大四同學選修。※管科系、資財系大二學生限修大學部財務管理課程。※管院學生(含雙主修、輔系、跨域學程)若有特殊原因須修習此研究所課程抵免大學部財務管理課程之學分，須於修課前向所屬系辦申請，並經由此課程召集老師同意始得認列學分；陽明校區學生若人數額滿時，欲加簽此課程，請與老師e-mail聯絡。",
     "name": "財務管理 Financial Management",
-    "num_limit": "150",
+    "num_limit": "140",
     "reg_num": "154",
     "teacher": "蔡璧徽",
     "time": "W789-AB102[GF],W789-YT301[YM]"
@@ -34458,7 +34458,7 @@
     "id": "561084",
     "memo": "本課程期望創造醫療與科技跨領域的對話，因此選課學生設定為：第一階段陽明校區至光復校區共學生35人、第二階段光復校區學生35人",
     "name": "科技與醫療的人文關懷 Humanism in Technology and Medical Cares",
-    "num_limit": "51",
+    "num_limit": "60",
     "reg_num": "39",
     "teacher": "程千芳、陳俞琪、王小滕、林士平、林承霈",
     "time": "R56-A401[GF]"

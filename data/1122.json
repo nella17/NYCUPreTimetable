@@ -3836,7 +3836,7 @@
     "name": "微積分(二) Calculus Ⅱ",
     "num_limit": "30",
     "reg_num": "29",
-    "teacher": "胡德民",
+    "teacher": "胡德民、杜岳錡",
     "time": "W34-SC109[GF]"
   },
   "1122_111901": {
@@ -7280,7 +7280,7 @@
     "name": "腦損傷與退化之機轉與治療 Mechanisms and Therapy of Diseases in the Nervous System",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "李怡萱",
+    "teacher": "李怡萱、楊定一、鄭瓊娟、俞震亞、陳世彬、李怡慧、廖翊筑、謝奉勳、翁雨蕙、季康揚",
     "time": "T56-YR105[YM]"
   },
   "1122_130012": {
@@ -10041,7 +10041,7 @@
     "num_limit": "9999",
     "reg_num": "11",
     "teacher": "林榮辰",
-    "time": "W34-YD415[YM]"
+    "time": "W34-YD304[YM]"
   },
   "1122_131508": {
     "code": "DEOB30018",
@@ -10292,7 +10292,7 @@
     "name": "跨文化進階護理角色與功能 Cross-cultural advanced nursing roles and functions",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳律言、孫秀卿、陳俞琪",
+    "teacher": "陳律言、孫秀卿、陳俞琪、林承霈",
     "time": "S12345678-"
   },
   "1122_131800": {
@@ -11853,7 +11853,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "蘇家豪",
-    "time": "F56-YB458[YM]"
+    "time": "M23-YB134[YM]"
   },
   "1122_132522": {
     "code": "BEIR30064",
@@ -12287,6 +12287,18 @@
     "teacher": "高正彥",
     "time": "T78-YC302[YM]"
   },
+  "1122_132804": {
+    "code": "LSMI30069",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132804",
+    "memo": null,
+    "name": "病毒學與生物技術(全英語) 112-2 Virology and biotechnology (in English) 112-2",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蔡明翰",
+    "time": "R78-YC313[YM]"
+  },
   "1122_132805": {
     "code": "LSMI30070",
     "credit": "2.00",
@@ -12440,7 +12452,7 @@
     "name": "專題討論(A) Seminar",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "生化所碩",
+    "teacher": "鄭子豪、陳美瑜、林達顯、陳威儀、姜為中",
     "time": "T78-YC501[YM]"
   },
   "1122_132902": {
@@ -12452,7 +12464,7 @@
     "name": "專題討論(C) Seminar",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "生化所碩",
+    "teacher": "游麗如、黃介嶸、蔡有光、王琬菁、張崇德",
     "time": "R78-YC501[YM]"
   },
   "1122_132904": {
@@ -12957,7 +12969,7 @@
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "嚴如玉、洪裕宏",
-    "time": "R567-YX206[YM]"
+    "time": "R567-YX503[YM]"
   },
   "1122_133200": {
     "code": "SHTS30041",
@@ -13868,7 +13880,7 @@
     "name": "臨床牙醫學專題討論(二)(博士班) Seminar of Advanced Clinical Dentistry ( II )",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "楊政杰、李士元、張國威、黃何雄、許明倫、林元敏、林嘉澍、吳靜宜、林宥成、王鼎涵、張婷菡、洪凱風",
+    "teacher": "楊政杰、高壽延、李士元、季麟揚、黃何雄、許明倫、林元敏、林嘉澍、涂曦丰、吳靜宜、林宥成、王鼎涵、洪凱風",
     "time": "M9a-YD302[YM]"
   },
   "1122_141400": {
@@ -14252,7 +14264,7 @@
     "name": "專題討論(B) Seminar",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "生化所博",
+    "teacher": "許翺麟、郭津岑、曾炳輝、廖韋晴",
     "time": "T78-YC516[YM]"
   },
   "1122_142700": {
@@ -17887,7 +17899,7 @@
     "memo": "本課程上課時間：3/25-4/3(不含假日)，每天18:00-20:00，共8天\n欲修習課程請e-mail至系辦公室承辦人員張小姐報名(qaz32194@nycu.edu.tw )",
     "name": "玉山學者講座：轉錄調控與表觀遺傳機制 Lecture of Yushan Scholar： Mechanisms of Transcriptional Regulation and Epigenetic Control",
     "num_limit": "0",
-    "reg_num": "26",
+    "reg_num": "27",
     "teacher": "江正明、蕭育源",
     "time": "M9ab-BI303[BA]"
   },
@@ -19831,7 +19843,7 @@
     "memo": "實驗課EE224",
     "name": "智慧機器人實驗 Intelligent Robotics Laboratory",
     "num_limit": "28",
-    "reg_num": "28",
+    "reg_num": "29",
     "teacher": "宋開泰",
     "time": "W234-"
   },
@@ -22856,7 +22868,7 @@
     "name": "書報討論A(二) Seminar A (2)",
     "num_limit": "26",
     "reg_num": "26",
-    "teacher": "",
+    "teacher": "應化系",
     "time": "F34-SB211[GF]"
   },
   "1122_516815": {
@@ -22868,7 +22880,7 @@
     "name": "書報討論B(二) Seminar B (2)",
     "num_limit": "26",
     "reg_num": "19",
-    "teacher": "",
+    "teacher": "應化系",
     "time": "F34-SB202[GF]"
   },
   "1122_516816": {
@@ -22939,7 +22951,7 @@
     "memo": "如欲選修本課程，請至應化系辦公室索取專題指導教授同意書，於系辦規定之時程內，完成簽署且將專題指導教授同意書繳回系辦，俾利選課。",
     "name": "專題研究(三) Research(3)",
     "num_limit": "0",
-    "reg_num": "1",
+    "reg_num": "2",
     "teacher": "鄭彥如",
     "time": "S234-"
   },
@@ -23119,7 +23131,7 @@
     "memo": "非管院同學請於2月5日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限88人，得請授課教師簽准後可放寬至93人，若超過人數上限或教師簽准名額額滿，請至線上表單登記：https://forms.gle/6LR23SnYDVCAJrjr6；管理基礎學分學程課程",
     "name": "作業研究(二) Operations Research (II)",
     "num_limit": "88",
-    "reg_num": "93",
+    "reg_num": "92",
     "teacher": "洪暉智",
     "time": "T234-MB520[GF]"
   },
@@ -25893,7 +25905,7 @@
     "num_limit": "120",
     "reg_num": "82",
     "teacher": "洪瑞華",
-    "time": "T56-ED116[GF]"
+    "time": "T56-ED219[GF]"
   },
   "1122_535201": {
     "code": "EEIE30058",
@@ -25902,10 +25914,10 @@
     "id": "535201",
     "memo": "",
     "name": "電子專題研討(系統組) Seminar on Electronics-Circuits and Systems",
-    "num_limit": "170",
+    "num_limit": "115",
     "reg_num": "106",
     "teacher": "溫    岸",
-    "time": "T56-ED219[GF]"
+    "time": "T56-ED116[GF]"
   },
   "1122_535202": {
     "code": "EEIE30062",
@@ -26215,7 +26227,7 @@
     "memo": "",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "100",
-    "reg_num": "100",
+    "reg_num": "101",
     "teacher": "周世傑",
     "time": "W78-ED219[GF],F56-EDB27[GF]"
   },
@@ -26397,7 +26409,7 @@
     "num_limit": "9999",
     "reg_num": "6",
     "teacher": "彭昭暐",
-    "time": "R234-EE117[GF]"
+    "time": "T234-EE117[GF]"
   },
   "1122_535308": {
     "code": "EECN30176",
@@ -26717,7 +26729,7 @@
     "hours": "3.00",
     "id": "535371",
     "memo": "[English Medium Course]",
-    "name": "綠能奈米科技 Green energy nanotechnology",
+    "name": "綠能奈米科技 Green Nanotechnology",
     "num_limit": "60",
     "reg_num": "17",
     "teacher": "寒川誠二",
@@ -27691,7 +27703,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -29133,7 +29145,7 @@
     "num_limit": "9999",
     "reg_num": "8",
     "teacher": "翁志文",
-    "time": "M78R34-SA213[GF]"
+    "time": "M78R4n-SA213[GF]"
   },
   "1122_536703": {
     "code": "SCMA30056",
@@ -29947,7 +29959,7 @@
     "memo": "開放大三大四選修。",
     "name": "知識經濟時代的策略思維 Strategic Thinking in the Era of Knowledge Economy",
     "num_limit": "40",
-    "reg_num": "47",
+    "reg_num": "48",
     "teacher": "郭國泰、朱博湧、朱慶忠",
     "time": "R567-M205[GF]"
   },
@@ -30016,7 +30028,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537151",
-    "memo": "英文授課、非IMBA課程、限GMBA學生，學分班與GMBA碩班合開[English Medium Course]；若外系生欲修習本課程，需遞送選課動機及CV至pennynycuvip@nycu.edu.tw(信件請註明課名)，授課教師評估審查同意後可加入課程\n1. Non GMBAer please send the reason for application and CV to pennynycuvip@nycu.edu.tw 2. Can join the course after being approved by the subject professors.",
+    "memo": "英文授課、非IMBA課程、限GMBA學生，學分班與GMBA碩班合開[English Medium Course]",
     "name": "財務管理與投資 Financial Management and Investment",
     "num_limit": "9999",
     "reg_num": "14",
@@ -30307,7 +30319,7 @@
     "memo": "碩博合班上課",
     "name": "論文研討(下) Seminar (II)",
     "num_limit": "9999",
-    "reg_num": "71",
+    "reg_num": "70",
     "teacher": "陳文智、林義貴",
     "time": "M56-MB520[GF]"
   },
@@ -31533,7 +31545,7 @@
     "num_limit": "9999",
     "reg_num": "5",
     "teacher": "江柏翰",
-    "time": "F567-EE118[GF]"
+    "time": "W234-EE117[GF]"
   },
   "1122_545456": {
     "code": "EEBM30018",
@@ -31580,7 +31592,7 @@
     "name": "生醫感測暨腫瘤醫學特論 Advanced Biomedicine Sensing and Oncology",
     "num_limit": "10",
     "reg_num": "14",
-    "teacher": "陳榮治",
+    "teacher": "陳榮治、莊競程",
     "time": "W234-EE102[GF]"
   },
   "1122_545460": {
@@ -32131,7 +32143,7 @@
     "memo": "每學期3次課程，上課日暫訂為5/18(六)，詳細上課時間請留意專班網頁公告；限電資專班學生選修",
     "name": "專題研討 Seminars",
     "num_limit": "9999",
-    "reg_num": "137",
+    "reg_num": "136",
     "teacher": "李義明",
     "time": "S234567-ED219[GF]"
   },
@@ -40065,7 +40077,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林振輝",
-    "time": "F234-"
+    "time": "W789-"
   },
   "1122_910009": {
     "code": "SESE10039",
@@ -40101,7 +40113,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林振輝",
-    "time": "M34R1-"
+    "time": "F346-"
   },
   "1122_910012": {
     "code": "SESE20106",
@@ -40221,7 +40233,7 @@
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "謝育立",
-    "time": "M678-"
+    "time": "Tabc-"
   },
   "1122_910022": {
     "code": "SESE20265",
@@ -40341,7 +40353,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "藍建武",
-    "time": "W234-"
+    "time": "W123-"
   },
   "1122_910032": {
     "code": "SESE00064",
@@ -40365,7 +40377,7 @@
     "num_limit": "9999",
     "reg_num": "24",
     "teacher": "楊家宏",
-    "time": "T123-"
+    "time": "W467-"
   },
   "1122_910034": {
     "code": "SESE20116",
@@ -40412,7 +40424,7 @@
     "name": "導師輔導(8) Tutor Guidance(8)",
     "num_limit": "9999",
     "reg_num": "24",
-    "teacher": "鄭紹宏",
+    "teacher": "談光雄",
     "time": "M12-"
   },
   "1122_910038": {
@@ -40437,7 +40449,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "聶若鹽、余俊宏",
-    "time": "W234-"
+    "time": "W678-"
   },
   "1122_910040": {
     "code": "SESE10233",
@@ -40448,7 +40460,7 @@
     "name": "導師輔導(8) Tutor Guidance(8)",
     "num_limit": "9999",
     "reg_num": "25",
-    "teacher": "瞿忠正",
+    "teacher": "聶若鹽",
     "time": "M12-"
   },
   "1122_910041": {
@@ -40497,7 +40509,7 @@
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "蘇英俊",
-    "time": "T678-"
+    "time": "Tabc-"
   },
   "1122_910045": {
     "code": "SESE20178",
@@ -40545,7 +40557,7 @@
     "num_limit": "9999",
     "reg_num": "12",
     "teacher": "李志國",
-    "time": "M9W67-"
+    "time": "M9ab-"
   },
   "1122_910049": {
     "code": "SESE20107",
@@ -41025,7 +41037,7 @@
     "num_limit": "9999",
     "reg_num": "14",
     "teacher": "系統工程",
-    "time": "W234-"
+    "time": "W123-"
   },
   "1122_910089": {
     "code": "SESE00018",
@@ -41204,7 +41216,7 @@
     "name": "普通化學實驗 General Chemistry Laboratory",
     "num_limit": "9999",
     "reg_num": "26",
-    "teacher": "劉敏憲",
+    "teacher": "系統工程",
     "time": "W12-"
   },
   "1122_910104": {
@@ -41421,7 +41433,7 @@
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "系統工程",
-    "time": "R2-"
+    "time": "R1-"
   },
   "1122_910122": {
     "code": "SESE00014",
@@ -41445,7 +41457,7 @@
     "num_limit": "9999",
     "reg_num": "33",
     "teacher": "張枝成",
-    "time": "M34W12-"
+    "time": "M34F67-"
   },
   "1122_910124": {
     "code": "SESE10106",
@@ -41528,7 +41540,7 @@
     "name": "導師輔導(2)  Tutor Guidance(2) ",
     "num_limit": "9999",
     "reg_num": "27",
-    "teacher": "余琬瑜",
+    "teacher": "張凱威",
     "time": "M12-"
   },
   "1122_910131": {
@@ -41540,7 +41552,7 @@
     "name": "服務學習 (1) Service Learning (I)",
     "num_limit": "9999",
     "reg_num": "27",
-    "teacher": "余琬瑜",
+    "teacher": "張凱威",
     "time": "M9-"
   },
   "1122_910132": {
@@ -41552,7 +41564,7 @@
     "name": "導師輔導(4) Tutor Guidance(4)",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "劉中宇",
+    "teacher": "余琬瑜",
     "time": "M12-"
   },
   "1122_910133": {
@@ -41564,7 +41576,7 @@
     "name": "導師輔導(6) Tutor Guidance(6)",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "系統工程",
+    "teacher": "羅序仁",
     "time": "M12-"
   },
   "1122_910134": {
@@ -41576,7 +41588,7 @@
     "name": "導師輔導(6) Tutor Guidance(6)",
     "num_limit": "9999",
     "reg_num": "21",
-    "teacher": "劉芳萍",
+    "teacher": "劉中宇",
     "time": "M12-"
   },
   "1122_910135": {
@@ -41600,7 +41612,7 @@
     "name": "導師輔導(8) Tutor Guidance(8)",
     "num_limit": "9999",
     "reg_num": "17",
-    "teacher": "蔡宗憲",
+    "teacher": "劉芳萍",
     "time": "M12-"
   },
   "1122_910137": {
@@ -41709,7 +41721,7 @@
     "num_limit": "9999",
     "reg_num": "5",
     "teacher": "張凱威、曾建超",
-    "time": "R234-"
+    "time": "F234-"
   },
   "1122_910146": {
     "code": "SESE10125",
@@ -41889,7 +41901,7 @@
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "張凱威",
-    "time": "M3T34-"
+    "time": "W678-"
   },
   "1122_910161": {
     "code": "SESE00074",
@@ -42009,7 +42021,7 @@
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "系統工程",
-    "time": "Mabc-"
+    "time": "Wabc-"
   },
   "1122_910171": {
     "code": "SESE20001",
@@ -42021,7 +42033,7 @@
     "num_limit": "9999",
     "reg_num": "8",
     "teacher": "系統工程",
-    "time": "Wabc-"
+    "time": "Tabc-"
   },
   "1122_910172": {
     "code": "SESE20275",
@@ -42033,7 +42045,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "劉中宇",
-    "time": "T234-"
+    "time": "Tabc-"
   },
   "1122_910173": {
     "code": "SESE10233",
@@ -42044,7 +42056,7 @@
     "name": "導師輔導(8) Tutor Guidance(8)",
     "num_limit": "9999",
     "reg_num": "20",
-    "teacher": "林明憲",
+    "teacher": "游竹淋",
     "time": "M12-"
   },
   "1122_910174": {
@@ -42092,7 +42104,7 @@
     "name": "功能性鍍膜專題實作(4) Special Project on Functional Coatings(4)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "葛明德",
+    "teacher": "葛明德、系統工程",
     "time": "M678-"
   },
   "1122_910178": {
@@ -42117,7 +42129,7 @@
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "系統工程",
-    "time": "M34T2-"
+    "time": "M34F1-"
   },
   "1122_910180": {
     "code": "SESE20122",
@@ -42152,7 +42164,7 @@
     "name": "導師輔導(6) Tutor Guidance(6)",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "游竹淋",
+    "teacher": "黃文鍵",
     "time": "M12-"
   },
   "1122_910183": {
@@ -42260,7 +42272,7 @@
     "name": "化學反應工程 Chemical Reaction Engineering",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "葛明德",
+    "teacher": "葛明德、系統工程",
     "time": "T6F67-"
   },
   "1122_910192": {
@@ -42272,7 +42284,7 @@
     "name": "火藥學實驗 Explosives Lab",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "葛明德",
+    "teacher": "葛明德、系統工程",
     "time": "T789-"
   },
   "1122_910193": {
@@ -42308,7 +42320,7 @@
     "name": "有機材料 Organic Materials",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "蔡厚仁",
+    "teacher": "系統工程",
     "time": "W6R12-"
   },
   "1122_910196": {
@@ -42356,7 +42368,7 @@
     "name": "導師輔導(4) Tutor Guidance(4)",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "黃文鍵",
+    "teacher": "系統工程",
     "time": "M12-"
   },
   "1122_910200": {
@@ -42393,7 +42405,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "王志嘉",
-    "time": "MabF7-"
+    "time": "T12Wc-"
   },
   "1122_910203": {
     "code": "SESE20132",
@@ -42405,7 +42417,7 @@
     "num_limit": "9999",
     "reg_num": "4",
     "teacher": "系統工程",
-    "time": "T2R34-"
+    "time": "R34F3-"
   },
   "1122_910204": {
     "code": "SESE10088",
@@ -42453,7 +42465,7 @@
     "num_limit": "9999",
     "reg_num": "7",
     "teacher": "系統工程",
-    "time": "W1R12-"
+    "time": "W4R12-"
   },
   "1122_910208": {
     "code": "SESE10070",
@@ -42477,7 +42489,7 @@
     "num_limit": "9999",
     "reg_num": "7",
     "teacher": "系統工程",
-    "time": "F346-"
+    "time": "F467-"
   },
   "1122_910210": {
     "code": "SESE00022",
@@ -42513,7 +42525,7 @@
     "num_limit": "9999",
     "reg_num": "20",
     "teacher": "王志嘉",
-    "time": "M8T89-"
+    "time": "T89F7-"
   },
   "1122_910213": {
     "code": "SESE00038",
@@ -43172,8 +43184,8 @@
     "name": "普通化學 General Chemistry ",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "系統工程",
-    "time": "Mab-"
+    "teacher": "鄭根發",
+    "time": "Tabc-"
   },
   "1122_910268": {
     "code": "SESE10054",
@@ -43185,7 +43197,7 @@
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "鄭根發",
-    "time": "Tabc-"
+    "time": "Mabc-"
   },
   "1122_910269": {
     "code": "SESE10076",
@@ -43292,7 +43304,7 @@
     "name": "實驗設計法 Experiments Design",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
+    "teacher": "陳冠宇",
     "time": "T346-"
   },
   "1122_910278": {
@@ -43304,7 +43316,7 @@
     "name": "機率與統計 Probability and Statistics",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
+    "teacher": "王春和",
     "time": "T346-"
   },
   "1122_910279": {
@@ -43437,7 +43449,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "葉昭南",
-    "time": "M34W1-"
+    "time": "Mabc-"
   },
   "1122_910290": {
     "code": "SESE20201",
@@ -43521,7 +43533,7 @@
     "num_limit": "9999",
     "reg_num": "13",
     "teacher": "周志正",
-    "time": "W234-"
+    "time": "T678-"
   },
   "1122_910297": {
     "code": "SESE20284",
@@ -43544,7 +43556,7 @@
     "name": "車輛設計製造專題實作(2) Simple Vehicle Design and Manufacture Project(2)",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "系統工程",
+    "teacher": "黃寶錩",
     "time": "M678-"
   },
   "1122_910299": {
@@ -43556,7 +43568,7 @@
     "name": "車輛結構分析 Vehicle Structure Analysis",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "系統工程",
+    "teacher": "曾有志",
     "time": "R12F1-"
   },
   "1122_910300": {
@@ -43569,7 +43581,7 @@
     "num_limit": "9999",
     "reg_num": "5",
     "teacher": "朱子文",
-    "time": "T678-"
+    "time": "W234-"
   },
   "1122_910301": {
     "code": "SESE20206",
@@ -43724,7 +43736,7 @@
     "name": "流體力學 Fluid Mechanics",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "系統工程",
+    "teacher": "陳冠宇",
     "time": "Mabc-"
   },
   "1122_910314": {
@@ -43772,7 +43784,7 @@
     "name": "太空專題實作(4) Project on Aerospace(2)",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "李彥宏",
+    "teacher": "賴正權",
     "time": "M678-"
   },
   "1122_910318": {
@@ -43796,7 +43808,7 @@
     "name": "導師輔導(8) Tutor Guidance(8)",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "林聰穎",
+    "teacher": "孔健君",
     "time": "M12-"
   },
   "1122_910320": {
@@ -43892,7 +43904,7 @@
     "name": "導師輔導(6) Tutor Guidance(6)",
     "num_limit": "9999",
     "reg_num": "26",
-    "teacher": "孔健君",
+    "teacher": "賴渝翔",
     "time": "M12-"
   },
   "1122_910328": {
@@ -43941,7 +43953,7 @@
     "num_limit": "9999",
     "reg_num": "11",
     "teacher": "系統工程",
-    "time": "W67-"
+    "time": "W34-"
   },
   "1122_910332": {
     "code": "SESE10248",
@@ -43977,7 +43989,7 @@
     "num_limit": "9999",
     "reg_num": "19",
     "teacher": "孔健君",
-    "time": "T234-"
+    "time": "T34W1-"
   },
   "1122_910335": {
     "code": "SESE20149",
@@ -44000,7 +44012,7 @@
     "name": "導師輔導(4) Tutor Guidance(4)",
     "num_limit": "9999",
     "reg_num": "15",
-    "teacher": "賴渝翔",
+    "teacher": "夏筱明",
     "time": "M12-"
   },
   "1122_910337": {
@@ -44025,7 +44037,7 @@
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "尤懷德",
-    "time": "W678-"
+    "time": "Mabc-"
   },
   "1122_910339": {
     "code": "SESE10231",
@@ -44049,7 +44061,7 @@
     "num_limit": "9999",
     "reg_num": "13",
     "teacher": "賴渝翔",
-    "time": "W12R1-"
+    "time": "M34R1-"
   },
   "1122_910341": {
     "code": "SESE10065",
@@ -44061,7 +44073,7 @@
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "系統工程",
-    "time": "W1F67-"
+    "time": "F167-"
   },
   "1122_910342": {
     "code": "SESE10162",
@@ -44073,7 +44085,7 @@
     "num_limit": "9999",
     "reg_num": "10",
     "teacher": "系統工程",
-    "time": "W34-"
+    "time": "W67-"
   },
   "1122_910343": {
     "code": "SESE10095",
@@ -44085,7 +44097,7 @@
     "num_limit": "9999",
     "reg_num": "6",
     "teacher": "夏筱明",
-    "time": "M34T4-"
+    "time": "T4W34-"
   },
   "1122_910344": {
     "code": "SESE10074",
@@ -44120,7 +44132,7 @@
     "name": "導師輔導(2)  Tutor Guidance(2) ",
     "num_limit": "9999",
     "reg_num": "33",
-    "teacher": "夏筱明",
+    "teacher": "系統工程",
     "time": "M12-"
   },
   "1122_910347": {
@@ -44145,7 +44157,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
-    "time": "W12-"
+    "time": "M89-"
   },
   "1122_910349": {
     "code": "SESE10117",
@@ -44157,7 +44169,7 @@
     "num_limit": "9999",
     "reg_num": "33",
     "teacher": "夏筱明",
-    "time": "M89-"
+    "time": "W12-"
   },
   "1122_910350": {
     "code": "SESE10031",
@@ -44792,7 +44804,7 @@
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
     "reg_num": "27",
-    "teacher": "鄭紹宏",
+    "teacher": "系統工程",
     "time": "T12-"
   },
   "1122_910403": {
@@ -44804,7 +44816,7 @@
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
     "reg_num": "26",
-    "teacher": "賴渝翔",
+    "teacher": "宋易哲",
     "time": "R12-"
   },
   "1122_910404": {
@@ -44816,7 +44828,7 @@
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
     "reg_num": "30",
-    "teacher": "宋易哲",
+    "teacher": "系統工程",
     "time": "M34-"
   },
   "1122_910405": {
@@ -44828,7 +44840,7 @@
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
     "reg_num": "33",
-    "teacher": "尤懷德",
+    "teacher": "系統工程",
     "time": "M67-"
   },
   "1122_910406": {
@@ -44852,7 +44864,7 @@
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "王泰鈞",
+    "teacher": "鄭紹宏",
     "time": "F67-"
   },
   "1122_910408": {
@@ -44925,7 +44937,7 @@
     "num_limit": "9999",
     "reg_num": "31",
     "teacher": "夏筱明",
-    "time": "F2-"
+    "time": "T9-"
   },
   "1122_910414": {
     "code": "SESE00038",
@@ -44937,7 +44949,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "黃寶錩",
-    "time": "T1-"
+    "time": "R2-"
   },
   "1122_910415": {
     "code": "SESE00038",
@@ -45020,7 +45032,7 @@
     "name": "導師輔導(4) Tutor Guidance(4)",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "系統工程",
+    "teacher": "陳冠宇",
     "time": "M12-"
   },
   "1122_910422": {

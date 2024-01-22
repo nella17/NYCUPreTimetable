@@ -4159,7 +4159,7 @@
     "memo": "",
     "name": "生物技術於醫學之應用 Biotechnology in Medicine",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "吳韋訥、楊翠青、張懿欣、涂玉青、黃琤、蔡有光、呂世正、龔思豪、黃尉倫、蔡雨寰、蘇溶真、賴建勳",
     "time": "T56-YT103[YM]"
   },
@@ -4171,7 +4171,7 @@
     "memo": "",
     "name": "研究論文 Bachelor thesis",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "黃智生",
     "time": "U1-"
   },
@@ -4219,7 +4219,7 @@
     "memo": "",
     "name": "大四導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "黃尉倫、涂玉青、龔思豪",
     "time": "W9-"
   },
@@ -10939,7 +10939,7 @@
     "memo": "",
     "name": "醫學分子檢驗學 Molecular Diagnosis in Medicine",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "黃智生、吳韋訥、孫光蕙、涂玉青、呂世正、龔思豪、洪舜郁、吳俊忠、游雅言、洪加政、何祥齡",
     "time": "W78-YT104[YM]"
   },
@@ -10987,7 +10987,7 @@
     "memo": "",
     "name": "醫學檢驗法規與品質管理(II) Regulations and Quality management in Medical Laboratory Sciences (II)",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "洪小雅、王世仁、李子偉、陳呈堯、李湘琳",
     "time": "F78-YT202[YM]"
   },
@@ -18594,7 +18594,7 @@
     "id": "514023",
     "memo": "",
     "name": "創意城市案例分析 Creative City Case Study",
-    "num_limit": "0",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "曾聖凱",
     "time": ""
@@ -31483,7 +31483,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "53",
+    "reg_num": "52",
     "teacher": "生醫工所",
     "time": ""
   },

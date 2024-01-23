@@ -511,7 +511,7 @@
     "memo": "外系選修需經開課單位同意",
     "name": "生物學(下) General Biology (2)",
     "num_limit": "9999",
-    "reg_num": "121",
+    "reg_num": "122",
     "teacher": "羅清維、黃雪莉、陳燕彰、可文亞",
     "time": "M34-YX406[YM]"
   },
@@ -607,7 +607,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "神經解剖學實驗 Neuroanatomy Laboratory",
     "num_limit": "9999",
-    "reg_num": "176",
+    "reg_num": "177",
     "teacher": "鄭瓊娟、王先逸、郭曉縈、侯珮珊",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
@@ -3128,7 +3128,7 @@
     "name": "牙周病學 Periodontology",
     "num_limit": "50",
     "reg_num": "40",
-    "teacher": "賴玉玲、洪善鈴、陳恆理、董醒任、陳彥廷、林怡君、黃惠華、陳軒弘",
+    "teacher": "賴玉玲、洪善鈴、陳恆理、董醒任、陳彥廷、林怡君、黃惠華、陳軒弘、陳雅琪",
     "time": "R34-YD105[YM]"
   },
   "1122_111533": {
@@ -3259,7 +3259,7 @@
     "memo": "",
     "name": "法醫學 Forensic Pathology",
     "num_limit": "46",
-    "reg_num": "45",
+    "reg_num": "46",
     "teacher": "蕭開平",
     "time": "W56-YD214[YM]"
   },
@@ -3271,7 +3271,7 @@
     "memo": "",
     "name": "口腔植體學 Clinical Dental Implantology",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "46",
     "teacher": "許明倫、陳恆理、羅文良、楊淑芬、張志麟、陳正毅、謝昀伶、許綺真、陳青青、楊書維、張毓靜、何家銘",
     "time": "R12-YD214[YM]"
   },
@@ -3283,7 +3283,7 @@
     "memo": "",
     "name": "牙科臨床病理討論 Dental Clinical Pathological Conference",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "46",
     "teacher": "洪凱風、許明倫、涂曦丰、賴玉玲、劉正芬、楊淑芬、徐永儀、李亞芸、黃正峰、白勝方、于恩浩、林怡君、董愛康、吳姿瑩、吳詩韻、王敏靜、何怡青、陳正毅、黃惠華、葉聖威、洪振元、游依璇、蔡佳倫、陳大中",
     "time": "R34-YD214[YM]"
   },
@@ -3295,7 +3295,7 @@
     "memo": "",
     "name": "牙醫倫理學 Dental Ethics",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "46",
     "teacher": "許明倫、季麟揚、賴玉玲、羅文良、楊淑芬、林孝義、吳姿瑩、何怡青、鄧政雄、張采宇、何家銘",
     "time": "R56-YD105[YM]"
   },
@@ -3307,7 +3307,7 @@
     "memo": "",
     "name": "齒顎矯正學 Orthodontics",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "46",
     "teacher": "吳姿瑩、胡兆仁、游依璇、梁祐銘、許文瑛",
     "time": "T34-YD320[YM]"
   },
@@ -3319,7 +3319,7 @@
     "memo": "",
     "name": "齒顎矯正學實驗 Orthodontics Lab.",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "46",
     "teacher": "吳姿瑩、游依璇、梁祐銘",
     "time": "T567-YD214[YM]"
   },
@@ -3415,7 +3415,7 @@
     "memo": "榮總口腔醫學部",
     "name": "兒童牙科學臨床實習 Internship in Pedodontics",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3427,7 +3427,7 @@
     "memo": "台北榮總",
     "name": "內外科實習 Internship in Internal Medicine and Surgery",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3439,7 +3439,7 @@
     "memo": "榮總口腔醫學部",
     "name": "全口贗復學臨床實習 Internship in Complete Denture Prosthodontics",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3451,7 +3451,7 @@
     "memo": "榮總口腔醫學部",
     "name": "口腔診斷學與放射線學臨床實習 Internship in Oral Diagnosis and Dental Radiology",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3463,7 +3463,7 @@
     "memo": "榮總口腔醫學部",
     "name": "口腔顎面外科學臨床實習 Internship in Oral & Maxillofacial Surgery",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3475,7 +3475,7 @@
     "memo": "榮總口腔醫學部",
     "name": "固定贋復學臨床實習 Internship in Fixed Prosthodontics",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3487,7 +3487,7 @@
     "memo": "榮總口腔醫學部",
     "name": "家庭社區與特殊需求牙醫學實習 Internship in Family, Community and Special Need Dentistry",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3499,7 +3499,7 @@
     "memo": "榮總口腔醫學部",
     "name": "局部贗復學臨床實習 Internship in Removable Partial Denture Prosthodontics",
     "num_limit": "9999",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3511,7 +3511,7 @@
     "memo": "榮總口腔醫學部",
     "name": "牙周病學臨床實習 Internship in Periodontology",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3523,7 +3523,7 @@
     "memo": "榮總口腔醫學部",
     "name": "牙髓病學臨床實習 Internship in Endodontics",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3535,7 +3535,7 @@
     "memo": "榮總口腔醫學部",
     "name": "牙體復形學臨床實習 Internship in Operative Dentistry",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3547,7 +3547,7 @@
     "memo": "榮總口腔醫學部",
     "name": "齒顎矯正學臨床實習 Internship in Orthodontics",
     "num_limit": "9999",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3667,7 +3667,7 @@
     "memo": "前4週密集上課",
     "name": "兒童護理學 Pediatric Nursing",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "陳紀雯、王子芳、張瑞文、劉佩青、楊翠芬、曾偉杰、沈青青、賴鼎璁",
     "time": "M12345678-YN416[YM]"
   },
@@ -3691,7 +3691,7 @@
     "memo": "後14週密集實習，分二梯次",
     "name": "兒童護理學實習 Pediatric Nursing Practice",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "陳紀雯、賴品欣、林秀蘭、楊馥菱、黃祖涵、簡莉文、戴怡旻",
     "time": "M12345678T12345678W12345678-"
   },
@@ -3703,7 +3703,7 @@
     "memo": "前4週密集上課",
     "name": "婦嬰護理學 Maternity Nursing",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "黃久美、蔡慈儀、黃淑鶴、張秀能、柯惠娟、陳淑芬",
     "time": "W12345678-YN416[YM]"
   },
@@ -3715,7 +3715,7 @@
     "memo": "5-16週密集實習，分兩梯次。",
     "name": "婦嬰護理學實習 Maternity Nursing Practice",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "蔡慈儀、李詩敏、王媛、柯惠娟、林思妤、孫志琪、鍾侑倫、楊雯如、林玉蘭、蔣欣純、方月吟、呂欣芮、許淳媁、徐理仁、徐嘉澧、吳惠茹、魏妡珆、夏惠珍、楊易宏",
     "time": "W12345678-"
   },
@@ -3775,7 +3775,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "陳紀雯、王子芳、邱愛富、楊曼華",
     "time": "R9a-YN418[YM]"
   },
@@ -5563,7 +5563,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "21",
     "teacher": "陳喬男、李雪楨、周立偉",
     "time": "F9a-"
   },
@@ -6799,7 +6799,7 @@
     "memo": "",
     "name": "寄生蟲學 Parasitology",
     "num_limit": "200",
-    "reg_num": "144",
+    "reg_num": "145",
     "teacher": "嵇達德、廖皎君、陳正成",
     "time": "M56-YT001[YM]"
   },
@@ -8239,7 +8239,7 @@
     "memo": "開放大學部高年級(三、四年級)學生選修，不包括醫學系及牙醫系。",
     "name": "基礎與臨床人體神經解剖學 Basic and Clinical Human Neuroanatomy",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "10",
     "teacher": "侯珮珊、傅毓秀、鄭瓊娟、王先逸、蔡佩君、郭曉縈、陳天華",
     "time": "W5678-YEA100[YM]"
   },
@@ -8251,7 +8251,7 @@
     "memo": "限醫、牙學系重修生選課，與基礎與臨床人體神經解剖學合班上課。",
     "name": "神經解剖學實驗 Neuroanatomy Laboratory",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "陳天華、傅毓秀、鄭瓊娟、王先逸、蔡佩君、郭曉縈、侯珮珊",
     "time": "W7-YEA100[YM]"
   },
@@ -8347,7 +8347,7 @@
     "memo": "限醫牙學系重修生選課，與基礎與臨床人體神經解剖學合班上課",
     "name": "神經解剖學 Neuroanatomy",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "侯珮珊、傅毓秀、鄭瓊娟、王先逸、蔡佩君、郭曉縈、陳天華",
     "time": "W56-YEA100[YM]"
   },
@@ -9415,7 +9415,7 @@
     "memo": "隔週上課，每次上課2小時",
     "name": "睡眠轉譯醫學 Sleep translational medicine",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "11",
     "teacher": "楊靜修",
     "time": "T9a-YL402[YM]"
   },
@@ -21870,7 +21870,7 @@
     "id": "516226",
     "memo": "遠距教學",
     "name": "營建管理 Construction Management",
-    "num_limit": "50",
+    "num_limit": "60",
     "reg_num": "51",
     "teacher": "黃玉霖",
     "time": "F234-"
@@ -22951,7 +22951,7 @@
     "memo": "如欲選修本課程，請至應化系辦公室索取專題指導教授同意書，於系辦規定之時程內，完成簽署且將專題指導教授同意書繳回系辦，俾利選課。",
     "name": "專題研究(三) Research(3)",
     "num_limit": "0",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "鄭彥如",
     "time": "S234-"
   },
@@ -23410,18 +23410,6 @@
     "reg_num": "68",
     "teacher": "陳文智",
     "time": "R567-MB506[GF]"
-  },
-  "1122_517402": {
-    "code": "MGEM10002",
-    "credit": "1.00",
-    "hours": "3.00",
-    "id": "517402",
-    "memo": "",
-    "name": "工程圖學 Engineering Graphics",
-    "num_limit": "70",
-    "reg_num": "70",
-    "teacher": "黃博滄",
-    "time": "W7-MB415[GF],W56-MB520[GF]"
   },
   "1122_517403": {
     "code": "MGEM20006",
@@ -26347,7 +26335,7 @@
     "memo": "大四及研究所。*電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程)",
     "name": "功率積體電路設計 Power Integrated Circuits Design",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "80",
     "teacher": "陳科宏",
     "time": "F234-EE623[GF]"
   },
@@ -26803,7 +26791,7 @@
     "memo": "個別與指導教授約時間地點討論",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "117",
+    "reg_num": "202",
     "teacher": "光電系",
     "time": ""
   },
@@ -27703,7 +27691,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -31655,18 +31643,6 @@
     "teacher": "孫家偉",
     "time": "W56-EE105[GF]"
   },
-  "1122_545465": {
-    "code": "EEBM30033",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "545465",
-    "memo": "",
-    "name": "機器學習中的線性代數 Linear Algebra in Machine Learning",
-    "num_limit": "9999",
-    "reg_num": "8",
-    "teacher": "待聘、蕭子健",
-    "time": "R234-EE112[GF]"
-  },
   "1122_545466": {
     "code": "EEBM30021",
     "credit": "3.00",
@@ -34484,7 +34460,7 @@
     "name": "藥學知多少 An introductory guide to pharmacy",
     "num_limit": "50",
     "reg_num": "50",
-    "teacher": "胡德民、林滿玉、康照洲、姜紹青、陳謄州、許銘能、楊思源、石博文",
+    "teacher": "胡德民、林滿玉、康照洲、姜紹青、陳惠亭、陳謄州、許銘能",
     "time": "T34-A204[GF]"
   },
   "1122_561087": {
@@ -39172,12 +39148,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "599000",
-    "memo": "1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫網路選課加退選處理表，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。授課方式：視訊同步遠距。",
+    "memo": "1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫網路選課加退選處理表，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。(非同步遠距課程)",
     "name": "學習與閱讀理解策略 Learning How to Learn: Strategies for Reading and Learning",
     "num_limit": "9999",
     "reg_num": "15",
     "teacher": "陳鏗任",
-    "time": "F56-HA219[GF],F56-YT305[YM]"
+    "time": "F56-HA219[GF]"
   },
   "1122_599001": {
     "code": "GETE10020",

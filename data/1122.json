@@ -20983,7 +20983,7 @@
     "memo": "另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously，跨域生初選第二階開放選課；外系生請於開學上網加選；Tabc上課教室:EC315、EC316 ；主開1年級，本系生優先權順序：1年級，4年級，3年級，2年級。",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "60",
-    "reg_num": "5",
+    "reg_num": "6",
     "teacher": "林政寬",
     "time": "R78-EC122[GF],S678-EC315[GF],S678-EC316[GF],S678-EC324[GF]"
   },
@@ -37773,7 +37773,7 @@
     "num_limit": "71",
     "reg_num": "70",
     "teacher": "楊春美",
-    "time": "F56-,T34-EE105[GF]"
+    "time": "F56-EE102[GF],T34-EE105[GF]"
   },
   "1122_564011": {
     "code": "GECS10002",
@@ -38251,7 +38251,7 @@
     "memo": "",
     "name": "物理(一) Physics(I)",
     "num_limit": "75",
-    "reg_num": "6",
+    "reg_num": "7",
     "teacher": "吳光雄",
     "time": "M34R78-SC162[GF]"
   },

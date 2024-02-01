@@ -5623,7 +5623,7 @@
     "memo": "",
     "name": "物理治療職涯規劃 Physical Therapy Career Planning",
     "num_limit": "50",
-    "reg_num": "4",
+    "reg_num": "5",
     "teacher": "王子娟",
     "time": "Wyz-"
   },
@@ -9263,30 +9263,6 @@
     "teacher": "楊永正",
     "time": "F56-YR103[YM]"
   },
-  "1122_131021": {
-    "code": "MDBI30010",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "131021",
-    "memo": "開放大學部選修，須經授課老師同意，方可選修。",
-    "name": "合成生物學專題 Topics on Synthetic Biology",
-    "num_limit": "9999",
-    "reg_num": "1",
-    "teacher": "鍾翊方",
-    "time": "Mbc-YR105[YM]"
-  },
-  "1122_131022": {
-    "code": "MDBI30012",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "131022",
-    "memo": "開放大學部選修，須經授課老師同意，方可選修。",
-    "name": "合成生物學實作 Synthetic Biology In Practice",
-    "num_limit": "9999",
-    "reg_num": "1",
-    "teacher": "鍾翊方",
-    "time": "Rbc-YR105[YM]"
-  },
   "1122_131100": {
     "code": "MDBS30013",
     "credit": "2.00",
@@ -11265,7 +11241,7 @@
     "num_limit": "10",
     "reg_num": "7",
     "teacher": "劉澤英",
-    "time": "W567-YEA301[YM]"
+    "time": "T89a-YEA301[YM]"
   },
   "1122_132400": {
     "code": "BEPT10059",
@@ -15460,7 +15436,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161033",
-    "memo": "1.中央研究院法律學研究所王鵬翔副研究員主持授課。 2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
+    "memo": "1.中央研究院法律學研究所王鵬翔副研究員主持授課。 2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。5. 因課程為隔週上課，第二次上課已過加退選時間，請同學留意選課狀況！請有意願修課或加選的同學務必要參與第一堂課，以瞭解課程內容以及成績要求，避免誤判課程內容，造成排課憾事！因果論辯(四)13：20-15：10，線上教室連結：https://meet.google.com/gfx-vnmi-gwy",
     "name": "巨人的肩膀：因果論辯 The guidance of career planning by academic masters： Causal Dialectics",
     "num_limit": "8",
     "reg_num": "8",
@@ -19488,26 +19464,14 @@
     "time": "Rabcd-"
   },
   "1122_515101": {
-    "code": "EEEC00001",
+    "code": "EEEC00011",
     "credit": ".00",
-    "hours": "1.00",
+    "hours": "2.00",
     "id": "515101",
     "memo": "讓剛踏進大學的新生建立正確的學習服務觀念，為未來四年奠立正確的學習觀念，將自己所長發揮出來給社會大眾。 請同學注意：學生服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習二門服務學習(一)、(二)課程。",
     "name": "服務學習 (一) Service Learning I",
     "num_limit": "9999",
-    "reg_num": "163",
-    "teacher": "戴立嘉",
-    "time": ""
-  },
-  "1122_515102": {
-    "code": "EEEC00001",
-    "credit": ".00",
-    "hours": "1.00",
-    "id": "515102",
-    "memo": "讓剛踏進大學的新生建立正確的學習服務觀念，為未來四年奠立正確的學習觀念，將自己所長發揮出來給社會大眾。 請同學注意：學生服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習二門服務學習(一)、(二)課程。",
-    "name": "服務學習 (一) Service Learning I",
-    "num_limit": "9999",
-    "reg_num": "148",
+    "reg_num": "263",
     "teacher": "戴立嘉",
     "time": ""
   },
@@ -20123,18 +20087,6 @@
     "teacher": "陳科宏、洪浩喬、蔡作敏、冀泰石",
     "time": "Mabc-EE105[GF]"
   },
-  "1122_515155": {
-    "code": "EEEC20078",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "515155",
-    "memo": "",
-    "name": "通訊系統電腦模擬 Computer Simulation of Communication Systems ",
-    "num_limit": "50",
-    "reg_num": "22",
-    "teacher": "吳卓諭",
-    "time": "W234-ED713[GF]"
-  },
   "1122_515156": {
     "code": "EEEC10002",
     "credit": "3.00",
@@ -20431,7 +20383,7 @@
     "memo": "由專題指導老師約定討論時間及地點",
     "name": "光電工程專題(四) Special Project of Photonics(IV)",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "光電系",
     "time": ""
   },
@@ -22951,7 +22903,7 @@
     "memo": "如欲選修本課程，請至應化系辦公室索取專題指導教授同意書，於系辦規定之時程內，完成簽署且將專題指導教授同意書繳回系辦，俾利選課。",
     "name": "專題研究(三) Research(3)",
     "num_limit": "0",
-    "reg_num": "3",
+    "reg_num": "4",
     "teacher": "鄭彥如",
     "time": "S234-"
   },
@@ -25915,7 +25867,7 @@
     "memo": "上課教室–ED108",
     "name": "類比電路專題研討(系統組) Seminar on Analog Electronics Circuits",
     "num_limit": "45",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "待聘",
     "time": "T56-"
   },
@@ -26179,7 +26131,7 @@
     "memo": "[English Medium Course](1)上課時間W56–ED415, Wab–LAB(2)第二、第三階段選課：開放選課且電子所、電機系、產創學院優先；不開放填寫google加簽表單(3)開學後加退選階段：開放選課；開放填寫google加簽表單且依規定加簽。加簽方式會在第一堂課時說明並提供表單，欲加簽同學第一堂課請務必要來。 (4)未加選到同學依照學系、年級等進行篩選後網路加簽(詳細順位排序方式於第一堂課公布)，加簽總人數會經老師評估後決定。如為外系所、外校欲進行加選，除填表單外，亦須提供曾修習兩門或兩門以上相關課程之修課成績單。若外系所、外校無提供成績單，即便選課系統選上，亦會被手動退選。相關課程：1.邏輯設計 2.數位電路與系統3.超大型積體電路設計導論(VLSI)4.數位積體電路(DIC)",
     "name": "積體電路設計實驗 Integrated Circuit Design Laboratory",
     "num_limit": "60",
-    "reg_num": "61",
+    "reg_num": "60",
     "teacher": "李鎮宜",
     "time": "W56ab-"
   },
@@ -26239,7 +26191,7 @@
     "memo": "",
     "name": "高等數位訊號處理 Advanced Digital Signal Processing",
     "num_limit": "100",
-    "reg_num": "103",
+    "reg_num": "102",
     "teacher": "桑梓賢、鄭耿璽",
     "time": "R34-ED116[GF],T8-ED220[GF]"
   },
@@ -27787,7 +27739,7 @@
     "memo": "[English Medium Course]",
     "name": "記憶體電路及系統設計 Memory Circuits and System",
     "num_limit": "9999",
-    "reg_num": "91",
+    "reg_num": "90",
     "teacher": "黃柏蒼",
     "time": "R567-EE102[GF]"
   },
@@ -28788,12 +28740,12 @@
     "time": "R234-EF207[GF]"
   },
   "1122_536450": {
-    "code": "ENNV30002",
+    "code": "ENNV30045",
     "credit": "3.00",
     "hours": "3.00",
     "id": "536450",
     "memo": "環工所學生優先",
-    "name": " 水回收技術 Water Reuse:Technologies and Applications",
+    "name": "污水工程 Wastewater Treatment and Reclamation",
     "num_limit": "25",
     "reg_num": "16",
     "teacher": "黃志彬",
@@ -28927,7 +28879,7 @@
     "memo": "",
     "name": "專題演講 Colloquium",
     "num_limit": "9999",
-    "reg_num": "154",
+    "reg_num": "153",
     "teacher": "陳智彥",
     "time": "R56-SC001[GF]"
   },
@@ -28951,7 +28903,7 @@
     "memo": "",
     "name": "半導體物理及元件（二） Semiconductor Physics and Devices (II)",
     "num_limit": "70",
-    "reg_num": "70",
+    "reg_num": "71",
     "teacher": "蘇俊榮",
     "time": "T789-SC160[GF]"
   },
@@ -28963,7 +28915,7 @@
     "memo": "",
     "name": "光電子學 Optical Electronics",
     "num_limit": "70",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "蘇冠暐",
     "time": "M567-SC162[GF]"
   },
@@ -28999,7 +28951,7 @@
     "memo": "[English Medium Course]",
     "name": "Labview程式設計(一) Labview Programming(I)",
     "num_limit": "70",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "籔下篤史",
     "time": "T234-SC162[GF]"
   },
@@ -29023,7 +28975,7 @@
     "memo": "",
     "name": "量子物理與元件 Quantum Physics and Devices",
     "num_limit": "70",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "羅舜聰",
     "time": "F234-SC162[GF]"
   },
@@ -29059,7 +29011,7 @@
     "memo": "[English Medium Course]",
     "name": "軟物質光電元件 soft matter optoelectronics devices",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "鍾介文",
     "time": "W789-SC162[GF]"
   },
@@ -31447,7 +31399,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "44",
     "teacher": "生醫工所",
     "time": ""
   },
@@ -33020,7 +32972,7 @@
     "name": "民事訴訟法案例研析 Case Analysis of Civil Procedure Law",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "待聘",
+    "teacher": "徐應松",
     "time": "M34-MB1069[GF]"
   },
   "1122_557901": {
@@ -33068,7 +33020,7 @@
     "name": "生醫科技法律 Biomedical Technology and Law",
     "num_limit": "9999",
     "reg_num": "21",
-    "teacher": "陳鋕雄、待聘、陳豐奇",
+    "teacher": "陳鋕雄、陳豐奇、蘇嘉瑞",
     "time": "Mabc-MB1069[GF]"
   },
   "1122_557905": {
@@ -33092,7 +33044,7 @@
     "name": "智慧財產法 Intellectual Property Law",
     "num_limit": "9999",
     "reg_num": "62",
-    "teacher": "待聘",
+    "teacher": "蔡明誠",
     "time": "Rabc-TA505[BM]"
   },
   "1122_557907": {
@@ -33164,7 +33116,7 @@
     "name": "民法物權 Civil Law: Property",
     "num_limit": "9999",
     "reg_num": "35",
-    "teacher": "陳在方",
+    "teacher": "陳在方、林煜騰",
     "time": "R567-MB1069[GF]"
   },
   "1122_557913": {
@@ -33260,7 +33212,7 @@
     "name": "歐盟數位轉型法律 EU Digital Transformation Laws",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "待聘、陳鋕雄",
+    "teacher": "Daria Bulgakova、陳鋕雄",
     "time": "Fab-"
   },
   "1122_557921": {
@@ -33356,7 +33308,7 @@
     "name": "集體勞動法與裁決實務 Collective Labor Law and Unfair Labor Practices: Theory and Practice",
     "num_limit": "9999",
     "reg_num": "19",
-    "teacher": "邱羽凡",
+    "teacher": "邱羽凡、劉冠廷",
     "time": "Tabc-MB1063[GF]"
   },
   "1122_557931": {

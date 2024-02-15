@@ -15102,7 +15102,7 @@
     "id": "161004",
     "memo": "",
     "name": "中國歷代戲曲選讀 Selections of Dramas in Verse",
-    "num_limit": "25",
+    "num_limit": "30",
     "reg_num": "25",
     "teacher": "賈元圓",
     "time": "M12-YT103[YM]"
@@ -15114,7 +15114,7 @@
     "id": "161005",
     "memo": "",
     "name": "中國歷代戲曲選讀 Selections of Dramas in Verse",
-    "num_limit": "25",
+    "num_limit": "30",
     "reg_num": "17",
     "teacher": "賈元圓",
     "time": "M34-YT103[YM]"
@@ -15126,7 +15126,7 @@
     "id": "161006",
     "memo": "[English Medium Course]",
     "name": "邏輯學 Logic",
-    "num_limit": "40",
+    "num_limit": "45",
     "reg_num": "40",
     "teacher": "嚴偉哲",
     "time": "T12-YT202[YM]"
@@ -15186,7 +15186,7 @@
     "id": "161011",
     "memo": "",
     "name": "比較東西方自然哲學與古醫學觀 Comparison of Eastern & Western Natural Philosophy and View of Ancient Medicine",
-    "num_limit": "40",
+    "num_limit": "60",
     "reg_num": "24",
     "teacher": "陳方佩、張清貿、楊仁鄰、吳大鵬",
     "time": "T34-YT202[YM]"
@@ -15258,7 +15258,7 @@
     "id": "161018",
     "memo": "",
     "name": "經濟學 Economics",
-    "num_limit": "35",
+    "num_limit": "40",
     "reg_num": "34",
     "teacher": "蒲正筠、周穎政",
     "time": "R34-YT104[YM]"
@@ -15294,7 +15294,7 @@
     "id": "161021",
     "memo": "[English Medium Course]\n跨校區同步遠距課程 (台北陽明校區：YX201；其他校區：授課教師課前提供線上教室連結)",
     "name": "香港城市文化之邊走邊學 Understanding Hong Kong Through Walking",
-    "num_limit": "25",
+    "num_limit": "35",
     "reg_num": "17",
     "teacher": "勞維俊",
     "time": "R34-YX201[YM]"
@@ -15354,7 +15354,7 @@
     "id": "161026",
     "memo": "",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
-    "num_limit": "18",
+    "num_limit": "20",
     "reg_num": "18",
     "teacher": "洪紹洋",
     "time": "F34-YX202[YM]"
@@ -15366,7 +15366,7 @@
     "id": "161027",
     "memo": "",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
-    "num_limit": "18",
+    "num_limit": "20",
     "reg_num": "18",
     "teacher": "徐詩偉",
     "time": "F78-YX202[YM]"
@@ -15402,7 +15402,7 @@
     "id": "161030",
     "memo": "1.中央研究院人文講座課程，中國文哲研究所陳瑋芬研究員主持授課。 2.112-2學期採行線上教學，但含到院實體活動。",
     "name": "「文明」的邏輯 The Logic of “Civilization”",
-    "num_limit": "35",
+    "num_limit": "40",
     "reg_num": "15",
     "teacher": "陳瑋芬",
     "time": "R56-"
@@ -15414,7 +15414,7 @@
     "id": "161031",
     "memo": "1.中央研究院人文講座課程，中國文哲研究所楊小濱研究員主持授課。2.112-2學期採行線上教學，但含到院實體活動。3.2024-03-28課程實體參訪胡適紀念館",
     "name": "華文現當代詩賞析 Reading and Appreciating Modern Chinese Poetry",
-    "num_limit": "35",
+    "num_limit": "40",
     "reg_num": "35",
     "teacher": "楊小濱",
     "time": "R56-"
@@ -15426,7 +15426,7 @@
     "id": "161032",
     "memo": "1.中央研究院人文講座課程，歷史語言研究所巫毓荃副研究員主持授課。2.112-2學期採行線上教學。",
     "name": "瘋狂與社會 Madness and Society",
-    "num_limit": "35",
+    "num_limit": "40",
     "reg_num": "35",
     "teacher": "巫毓荃",
     "time": "R56-"
@@ -15438,7 +15438,7 @@
     "id": "161033",
     "memo": "1.中央研究院法律學研究所王鵬翔副研究員主持授課。 2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。5. 因課程為隔週上課，第二次上課已過加退選時間，請同學留意選課狀況！請有意願修課或加選的同學務必要參與第一堂課，以瞭解課程內容以及成績要求，避免誤判課程內容，造成排課憾事！因果論辯(四)13：20-15：10，線上教室連結：https://meet.google.com/gfx-vnmi-gwy",
     "name": "巨人的肩膀：因果論辯 The guidance of career planning by academic masters： Causal Dialectics",
-    "num_limit": "8",
+    "num_limit": "10",
     "reg_num": "8",
     "teacher": "王鵬翔",
     "time": "R56-"
@@ -15450,7 +15450,7 @@
     "id": "161034",
     "memo": "1.中央研究院民族學研究所劉紹華研究員主持授課。 2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：人類學與道德世界：動物篇 The guidance of career planning by academic masters:Anthropology and the Moral World:Human-Animal Relationships",
-    "num_limit": "8",
+    "num_limit": "10",
     "reg_num": "8",
     "teacher": "劉紹華",
     "time": "R56-"
@@ -15462,7 +15462,7 @@
     "id": "161035",
     "memo": "1.中央研究院近代史研究所張哲嘉副研究員主持授課。 2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：江戶時期的本草與博物學 The guidance of career planning by academic masters：Materia medica and Natural History of the Edo Period",
-    "num_limit": "8",
+    "num_limit": "10",
     "reg_num": "8",
     "teacher": "張哲嘉",
     "time": "R56-"
@@ -15474,7 +15474,7 @@
     "id": "161036",
     "memo": "1.中央研究院歷史語言研究所王道還助研究員主持授課。 2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。5.第一次上課請務必出席，未參與第一堂課的同學不得加選。",
     "name": "巨人的肩膀：精讀《槍砲、病菌、與鋼鐵》 The guidance of career planning by academic masters：Critical Reading of Guns, Germs, and Steel",
-    "num_limit": "8",
+    "num_limit": "10",
     "reg_num": "8",
     "teacher": "王道還",
     "time": "R56-"
@@ -15486,7 +15486,7 @@
     "id": "161037",
     "memo": "1.中央研究院人文講座課程，中央研究院近代史研究所林滿紅研究員主持授課。2.112-2學期採行線上教學。",
     "name": "近代亞太世界中的美日崛興與臺灣 The Modern Rise of the United States and Japan in the Asia-Pacific World and Taiwan",
-    "num_limit": "35",
+    "num_limit": "40",
     "reg_num": "35",
     "teacher": "林滿紅",
     "time": "R78-"
@@ -15498,7 +15498,7 @@
     "id": "161038",
     "memo": "1.中央研究院人文講座課程，中央研究院社會學研究所江彥生研究員主持授課。2.112-2學期採行線上教學。",
     "name": "群策 Group Decision Making",
-    "num_limit": "35",
+    "num_limit": "40",
     "reg_num": "35",
     "teacher": "江彥生",
     "time": "R78-"
@@ -15510,7 +15510,7 @@
     "id": "161039",
     "memo": "1.中央研究院人文講座課程，中央研究院政治學研究所吳親恩副研究員主持授課。2.112-2學期採行線上教學。",
     "name": "政治與經濟的互動 The Interaction between Politics and Economics",
-    "num_limit": "35",
+    "num_limit": "40",
     "reg_num": "35",
     "teacher": "吳親恩",
     "time": "R78-"
@@ -15522,7 +15522,7 @@
     "id": "161040",
     "memo": "1.中央研究院民族學研究所余安邦副研究員主持授課。2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：存在心理學與電影 IV The guidance of career planning by academic masters：Existential psychology and cinema IV",
-    "num_limit": "8",
+    "num_limit": "10",
     "reg_num": "8",
     "teacher": "余安邦",
     "time": "R78-"
@@ -15534,7 +15534,7 @@
     "id": "161042",
     "memo": "1.中央研究院歷史語言研究所陳正國研究員主持授課。2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：文明：光明面與黑暗面 The guidance of career planning by academic masters：Civilization in its Bright and Dark Sides",
-    "num_limit": "8",
+    "num_limit": "10",
     "reg_num": "7",
     "teacher": "陳正國",
     "time": "R78-"
@@ -15546,7 +15546,7 @@
     "id": "161043",
     "memo": "1.中央研究院歷史語言研究所陳熙遠研究員主持授課。2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：檔案裡的江湖 The guidance of career planning by academic masters：Ganghood in the Archives",
-    "num_limit": "8",
+    "num_limit": "10",
     "reg_num": "8",
     "teacher": "陳熙遠",
     "time": "R78-"
@@ -15558,7 +15558,7 @@
     "id": "161044",
     "memo": "1.中央研究院中國文哲研究所楊小濱研究員主持授課。2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：臺灣藝術電影賞析 The guidance of career planning by academic masters：Appreciating and Analyzing Taiwan Art Cinema",
-    "num_limit": "8",
+    "num_limit": "10",
     "reg_num": "8",
     "teacher": "楊小濱",
     "time": "R78-"
@@ -15570,7 +15570,7 @@
     "id": "161045",
     "memo": "1.中央研究院經濟研究所黃登興研究員主持授課。2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：政經體制與經濟發展 The guidance of career planning by academic masters：Political and Economic system and Economic development",
-    "num_limit": "8",
+    "num_limit": "10",
     "reg_num": "8",
     "teacher": "黃登興",
     "time": "R78-"
@@ -15582,7 +15582,7 @@
     "id": "161046",
     "memo": "1.中央研究院歷史語言研究所李尚仁研究員主持授課。 2.112-2學期採行線上教學。 3.隔週上課，每次上課兩小時。4.課程不開放加簽。",
     "name": "巨人的肩膀：科學、製藥工業與現代醫學:以學名藥的歷史為例 The guidance of career planning by academic masters：Science, Pharmaceutical Industry and Modern Medicine: The Case",
-    "num_limit": "8",
+    "num_limit": "10",
     "reg_num": "8",
     "teacher": "李尚仁",
     "time": "R78-"
@@ -15630,7 +15630,7 @@
     "id": "161051",
     "memo": "",
     "name": "人腦心智運作與歷程 introduction to cognitive neuroscience and its methodology",
-    "num_limit": "35",
+    "num_limit": "40",
     "reg_num": "35",
     "teacher": "郭文瑞",
     "time": "T12-YL403[YM]"
@@ -15666,7 +15666,7 @@
     "id": "161055",
     "memo": "",
     "name": "城市與氣候變遷 Cities and climate change",
-    "num_limit": "25",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "李河清",
     "time": "T78-YX201[YM]"
@@ -19207,7 +19207,7 @@
     "memo": "",
     "name": "訊號與系統 Signals and Systems",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "63",
     "teacher": "王忠炫",
     "time": "M34W2-ED103[GF]"
   },
@@ -29791,7 +29791,7 @@
     "memo": "開放大一到大四同學選修。※管科系、資財系大二學生限修大學部財務管理課程。※管院學生(含雙主修、輔系、跨域學程)若有特殊原因須修習此研究所課程抵免大學部財務管理課程之學分，須於修課前向所屬系辦申請，並經由此課程召集老師同意始得認列學分；陽明校區學生若人數額滿時，欲加簽此課程，請與老師e-mail聯絡。",
     "name": "財務管理 Financial Management",
     "num_limit": "140",
-    "reg_num": "153",
+    "reg_num": "155",
     "teacher": "蔡璧徽",
     "time": "W789-AB102[GF],W789-YT301[YM]"
   },

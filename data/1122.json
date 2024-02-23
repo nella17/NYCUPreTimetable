@@ -11240,7 +11240,7 @@
     "name": "醫工創新與臨床實踐 Biomedical Engineering Innovation and Clinical Practice",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "劉澤英、陳敏弘、林恆甫、賴彥君",
+    "teacher": "劉澤英、陳敏弘、林恆甫、賴彥君、張智銘",
     "time": "T89a-YEA301[YM]"
   },
   "1122_132400": {
@@ -11264,7 +11264,7 @@
     "name": "物理治療實證醫學 Evidence-based Practice in Physical Therapy",
     "num_limit": "40",
     "reg_num": "-999",
-    "teacher": "李雪楨、王子娟、王瑞瑤、施怡芬、楊雅如、周立偉、陳喬男、李淑貞、蔡美文、游忠煌、黃淑鶴、羅鴻基、林吟亮、黃崇舜、施惠婷、穆佩芬、吳慧敏、黃安華",
+    "teacher": "李雪楨、王子娟、王瑞瑤、施怡芬、楊雅如、周立偉、陳喬男、李淑貞、蔡美文、游忠煌、黃淑鶴、羅鴻基、林吟亮、黃崇舜、施惠婷、穆佩芬、吳慧敏、陳詠宸、黃安華",
     "time": "T234-YB603[YM]"
   },
   "1122_132402": {
@@ -11817,7 +11817,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "詹明賢",
-    "time": "W78-YB134[YM]"
+    "time": "R78-YB134[YM]"
   },
   "1122_132524": {
     "code": "BEIR30066",
@@ -15054,7 +15054,7 @@
     "id": "161000",
     "memo": "跨校區同步遠距課程 (臺北陽明校區：YT301；新竹光復校區：A103)；，開學後人工加加簽開放5位「優先開放第一週有來課堂且為特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」",
     "name": "翻轉管理學 A Critical Understanding of Management",
-    "num_limit": "41",
+    "num_limit": "46",
     "reg_num": "-999",
     "teacher": "徐詩偉",
     "time": "F34-A103[GF],F34-YT301[YM]"
@@ -15076,9 +15076,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161002",
-    "memo": "為維護教學品質，請注意以下事項：1. 本課程為光復校區實體課程，未開放線上教學。2. 初選第二階段增開15位名額；本課程人數上限為50人，不開放加簽。",
+    "memo": "為維護教學品質，請注意以下事項：1. 本課程為光復校區實體課程，未開放線上教學",
     "name": "從臺海實例看國際關係 Taiwan’s International Relations and Historic Events",
-    "num_limit": "60",
+    "num_limit": "72",
     "reg_num": "-999",
     "teacher": "王惠民",
     "time": "W9a-A204[GF]"
@@ -15150,7 +15150,7 @@
     "id": "161008",
     "memo": "跨校區同步遠距課程 (臺北陽明校區：YT305；其他校區：https://meet.google.com/nbx-tpcm-bwq)",
     "name": "從現當代小說看臺灣歷史 History of Taiwan through Modern and Contemporary Literature",
-    "num_limit": "31",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "王敬翔",
     "time": "T12-YT305[YM]"
@@ -15213,7 +15213,7 @@
     "num_limit": "0",
     "reg_num": "-999",
     "teacher": "嚴如玉",
-    "time": "T56-YX503[YM]"
+    "time": "T56-YX216[YM]"
   },
   "1122_161015": {
     "code": "GECE00124",
@@ -16533,7 +16533,7 @@
     "num_limit": "35",
     "reg_num": "-999",
     "teacher": "戴瑜慧",
-    "time": "R67-HK114[LJ]"
+    "time": "R67-HK208[LJ]"
   },
   "1122_310105": {
     "code": "HKCT10024",
@@ -16842,7 +16842,7 @@
     "id": "330010",
     "memo": "",
     "name": "人類學理論 Theory in Anthropology",
-    "num_limit": "30",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "蔡晏霖",
     "time": "T567-HK207[LJ]"
@@ -16938,10 +16938,10 @@
     "id": "350001",
     "memo": "上課教室：HK115",
     "name": "學術寫作 Academic Writing and Presentation",
-    "num_limit": "9999",
+    "num_limit": "10",
     "reg_num": "-999",
     "teacher": "連瑞枝",
-    "time": "Wabc-"
+    "time": "Wabc-HK208[LJ]"
   },
   "1122_350002": {
     "code": "HKSC30017",
@@ -17649,7 +17649,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李明家",
-    "time": "R34n-BI301[BA]"
+    "time": "R34n-BI311[BA]"
   },
   "1122_430022": {
     "code": "BTBT30113",
@@ -17733,7 +17733,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蕭育源",
-    "time": "R234-BI311[BA]"
+    "time": "R234-BI301[BA]"
   },
   "1122_430029": {
     "code": "BTBT30040",
@@ -18234,7 +18234,7 @@
     "id": "510000",
     "memo": "電機院級(學) 核心通識-社會與經濟/通識核心/通識跨院/通識校基本/基本素養-量性推理 1.電機學院大三、大四優先 2.電機學院學生可列為跨院基本素養通識課程 。 應數.傳科系及管理學院不同意所屬學生採計通識學分",
     "name": "統計學 Statistics",
-    "num_limit": "110",
+    "num_limit": "125",
     "reg_num": "-999",
     "teacher": "陳志榮",
     "time": "M56R2-AB101[GF]"
@@ -20541,7 +20541,7 @@
     "num_limit": "91",
     "reg_num": "-999",
     "teacher": "葉宗泰",
-    "time": "R56-EC016[GF]"
+    "time": "R56-EC022[GF]"
   },
   "1122_515512": {
     "code": "CSCS10004",
@@ -22605,7 +22605,7 @@
     "num_limit": "50",
     "reg_num": "-999",
     "teacher": "許元春",
-    "time": "W6F56-SA311[GF]"
+    "time": "W5F56-SA311[GF]"
   },
   "1122_516710": {
     "code": "SCMA10034",
@@ -23313,7 +23313,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "吳浩庠",
-    "time": "Wabc-M301[GF]"
+    "time": ""
   },
   "1122_517305": {
     "code": "MGMS10003",
@@ -23889,7 +23889,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "余彥廷",
-    "time": "W789-SC151[GF]"
+    "time": "W789-SC206[GF]"
   },
   "1122_520002": {
     "code": "XDEP10002",
@@ -23949,7 +23949,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "梁興弛",
-    "time": "R34n-SC151[GF]"
+    "time": "R34n-SC206[GF]"
   },
   "1122_520007": {
     "code": "XDEP10003",
@@ -24153,7 +24153,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "林珊如",
-    "time": "F2-HA216[GF]"
+    "time": "F3-HA216[GF]"
   },
   "1122_534008": {
     "code": "HSIE30019",
@@ -24574,18 +24574,6 @@
     "reg_num": "-999",
     "teacher": "黃惠萍",
     "time": "R567-F216[GF]"
-  },
-  "1122_534308": {
-    "code": "HSCS30034",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "534308",
-    "memo": "傳播所新媒體與使用者經驗組學生優先",
-    "name": "設計思考與理論 Design Thinking and Theories",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "李峻德",
-    "time": "R567-F109[GF]"
   },
   "1122_534309": {
     "code": "HSCS30004",
@@ -26178,7 +26166,7 @@
     "id": "535228",
     "memo": "[English Medium Course]\n第一次上課教室–EDB27",
     "name": "計算機結構 Computer Architecture",
-    "num_limit": "9999",
+    "num_limit": "140",
     "reg_num": "-999",
     "teacher": "賴伯承",
     "time": "R34n-"
@@ -26214,7 +26202,7 @@
     "id": "535231",
     "memo": "限已修畢「系統晶片設計」",
     "name": "高階系統晶片設計 Advanced SOC Design",
-    "num_limit": "9999",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "賴瑾",
     "time": "W789-ED203[GF]"
@@ -26672,7 +26660,7 @@
     "name": "衛星通訊與系統設計 Satellite Communications and Systems Design",
     "num_limit": "110",
     "reg_num": "-999",
-    "teacher": "林俊廷、待聘",
+    "teacher": "林俊廷、楊凱鈞、詹鎮宇",
     "time": "Wabc-ED219[GF]"
   },
   "1122_535400": {
@@ -27450,7 +27438,7 @@
     "id": "535608",
     "memo": "資訊學院優先(不開放在職專班網路選課)",
     "name": "密碼工程 Cryptography Engineering",
-    "num_limit": "90",
+    "num_limit": "145",
     "reg_num": "-999",
     "teacher": "謝致仁",
     "time": "Rabc-ED117[GF]"
@@ -27477,7 +27465,7 @@
     "num_limit": "120",
     "reg_num": "-999",
     "teacher": "林奕成",
-    "time": "T34-EC016[GF]"
+    "time": "T34-EDB27[GF]"
   },
   "1122_535652": {
     "code": "CSIC30034",
@@ -29193,7 +29181,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "康明軒",
-    "time": "M56R5-SA223[GF]"
+    "time": "M56R5-SA211[GF]"
   },
   "1122_536711": {
     "code": "SCMA30059",
@@ -31228,24 +31216,24 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "539000",
-    "memo": "[English Medium Course]、甲組專業選修課程、乙組專業選修課程、第一週教室：EDB07",
+    "memo": "[English Medium Course]、甲組專業選修課程、乙組專業選修課程",
     "name": "先進元件製造技術導論(二) Introduction to advanced device fabrication technology (2)",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李耀仁",
-    "time": "R8-"
+    "time": "R8-A306[GF]"
   },
   "1122_539001": {
     "code": "IIPS30012",
     "credit": "3.00",
     "hours": "3.00",
     "id": "539001",
-    "memo": "甲組專業選修課程、乙組專業選修課程、第一週教室：EDB07",
+    "memo": "甲組專業選修課程、乙組專業選修課程",
     "name": "積體電路技術(二) IC technology (2)",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李耀仁",
-    "time": "R567-"
+    "time": "R567-A306[GF]"
   },
   "1122_539002": {
     "code": "IIPS30021",
@@ -34014,7 +34002,7 @@
     "id": "561054",
     "memo": "「造型與繪圖」不接受已修過「幾何造形」的同學選讀。",
     "name": "造型與繪圖 Patterning and Drawing",
-    "num_limit": "41",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "陳明璋",
     "time": "F12-CS-PC2[GF]"
@@ -34026,7 +34014,7 @@
     "id": "561055",
     "memo": "「造型與繪圖」不接受已修過「幾何造形」的同學選讀。",
     "name": "造型與繪圖 Patterning and Drawing",
-    "num_limit": "41",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "陳明璋",
     "time": "F34-CS-PC2[GF]"
@@ -34098,7 +34086,7 @@
     "id": "561062",
     "memo": "",
     "name": "氣候變遷與永續發展 Climate Change and Sustainable Development",
-    "num_limit": "50",
+    "num_limit": "55",
     "reg_num": "-999",
     "teacher": "倪貴榮、李界昇、郭詠華",
     "time": "T34-A205[GF]"
@@ -34218,7 +34206,7 @@
     "id": "561073",
     "memo": "「文學經典：台灣文學」(3學分) 不接受已修過「文學經典：台灣文學」(2學分)及修讀過「台灣社會與文化」同學修讀。",
     "name": "文學經典：台灣文學 Taiwanese Literature",
-    "num_limit": "20",
+    "num_limit": "45",
     "reg_num": "-999",
     "teacher": "黃毓婷",
     "time": "F567-A205[GF]"
@@ -37950,7 +37938,7 @@
     "id": "565008",
     "memo": "",
     "name": "物理(二) Physics(II)",
-    "num_limit": "98",
+    "num_limit": "99",
     "reg_num": "-999",
     "teacher": "孟心飛",
     "time": "T78F34-EC015[GF]"
@@ -38709,7 +38697,7 @@
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "許巧蒨",
-    "time": "W34-A315[GF]"
+    "time": "W34-A203[GF]"
   },
   "1122_579002": {
     "code": "GECL00010",
@@ -38937,7 +38925,7 @@
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "許巧蒨",
-    "time": "W56-A315[GF]"
+    "time": "W56-A203[GF]"
   },
   "1122_579021": {
     "code": "GECL00027",
@@ -39400,12 +39388,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "638404",
-    "memo": "上課時間將異動至Mabc時段，教室改為CM215",
+    "memo": "",
     "name": "光電儀器學 Experimental Photonics",
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "詹明哲",
-    "time": "MbcR5-CM212[GR]"
+    "time": "Mabc-CM215[GR]"
   },
   "1122_638405": {
     "code": "PTPS30008",
@@ -41524,7 +41512,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910145",
-    "memo": "上課地點：國防大學理工學院",
+    "memo": "此課程由曾建超老師授課三週，地點於光復校區。其餘十五週由理工學院張凱威老師授課，上課地點於國防大學理工學院。",
     "name": "網路技術與實務(2) Network Technology and Practice(2)",
     "num_limit": "9999",
     "reg_num": "-999",

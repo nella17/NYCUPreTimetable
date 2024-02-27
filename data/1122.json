@@ -4868,7 +4868,7 @@
     "name": "實證醫學概論 Introduction to Evidence-Based Medicine",
     "num_limit": "45",
     "reg_num": "-999",
-    "teacher": "施惠婷、王瑞瑤、施怡芬、楊雅如、陳喬男、李雪楨、蔡美文、林吟亮、黃崇舜",
+    "teacher": "施惠婷、王瑞瑤、施怡芬、楊雅如、陳喬男、李雪楨、蔡美文、林吟亮、黃崇舜、黃安華",
     "time": "W8-YB624[YM]"
   },
   "1122_112208": {
@@ -6789,7 +6789,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳紀如、徐嘉琳、高正彥",
-    "time": "W12F5678-ED101[GF],W12F5678-YX216[YM]"
+    "time": "W12F567-ED101[GF],W12F567-YX216[YM]"
   },
   "1122_113300": {
     "code": "MDDI10001",
@@ -7832,7 +7832,7 @@
     "name": "進階流行病學研究設計 Advanced Study Designs in Epidemiology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳信任、莊宜芳、東雅惠、劉家軒",
+    "teacher": "陳信任、陳娟瑜、莊宜芳、東雅惠、劉家軒",
     "time": "R789-YT202[YM]"
   },
   "1122_130221": {
@@ -9548,7 +9548,7 @@
     "name": "健康行為與促進 Health Behavior Promotion",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳信任",
+    "teacher": "陳信任、簡莉盈、陳娟瑜",
     "time": "W78-YS405[YM]"
   },
   "1122_131212": {
@@ -9848,7 +9848,7 @@
     "name": "高等牙髓病學(四) Advanced Endodontics (Ⅳ)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "楊淑芬、吳靜宜、陳誼安、李亞芸、白勝方、何怡青、郭恬君、陳正毅、陳益貞、蔡佳倫",
+    "teacher": "楊淑芬、吳靜宜、陳誼安、李亞芸、白勝方、何怡青、郭恬君、林郁恆、陳正毅、陳益貞、蔡佳倫",
     "time": "W9a-"
   },
   "1122_131414": {
@@ -15258,7 +15258,7 @@
     "id": "161017",
     "memo": "跨校區同步遠距課程 (臺北陽明校區：YX201；新竹光復校區：A103)，開學後人工加簽，開放3位「優先開放第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」",
     "name": "臺灣政治概論 Introduction to Taiwan Politics",
-    "num_limit": "30",
+    "num_limit": "31",
     "reg_num": "-999",
     "teacher": "彭立忠",
     "time": "R12-A103[GF],R12-YX201[YM]"
@@ -15993,7 +15993,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "丁承",
-    "time": "W234-TB307[BM]"
+    "time": "W234-TB435[BM]"
   },
   "1122_230009": {
     "code": "MGBM30023",
@@ -16161,7 +16161,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "劉志諒",
-    "time": "W234-TB435[BM]"
+    "time": "W234-TB305[BM]"
   },
   "1122_250000": {
     "code": "MGTM30017",
@@ -16461,7 +16461,7 @@
     "num_limit": "40",
     "reg_num": "-999",
     "teacher": "盧正恒",
-    "time": "R234-HK105[LJ]"
+    "time": "R234-HKB09[LJ]"
   },
   "1122_310017": {
     "code": "HKHS10015",
@@ -16809,7 +16809,7 @@
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "劉大和",
-    "time": "W789-HK120[LJ]"
+    "time": "W789-HK119[LJ]"
   },
   "1122_330007": {
     "code": "HKEC30008",
@@ -19137,7 +19137,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "劉益宏",
-    "time": "T34R7-EE207[GF]"
+    "time": "T34R7-EE132[GF]"
   },
   "1122_515008": {
     "code": "EEEC10010",
@@ -20574,7 +20574,7 @@
     "id": "515514",
     "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課；學士班七大主題學程;[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously] ; 本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "人工智慧概論 Intro. to Artificial Intelligence",
-    "num_limit": "110",
+    "num_limit": "140",
     "reg_num": "-999",
     "teacher": "彭文志",
     "time": "T56-ED117[GF]"
@@ -23442,7 +23442,7 @@
     "id": "517409",
     "memo": "",
     "name": "精實企業管理 Lean Enterprise Management",
-    "num_limit": "9999",
+    "num_limit": "100",
     "reg_num": "-999",
     "teacher": "陳亭志",
     "time": "F234-MB405[GF]"
@@ -27174,7 +27174,7 @@
     "id": "535518",
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；",
     "name": "嵌入式即時系統 Real-time and embedded systems",
-    "num_limit": "40",
+    "num_limit": "42",
     "reg_num": "-999",
     "teacher": "張立平",
     "time": "T567-ED202[GF]"
@@ -34098,7 +34098,7 @@
     "id": "561063",
     "memo": "課程不開放加簽",
     "name": "與社會心理學共舞 Interplay with Social Psychology",
-    "num_limit": "85",
+    "num_limit": "83",
     "reg_num": "-999",
     "teacher": "程千芳",
     "time": "T34-YX501[YM]"
@@ -34605,7 +34605,7 @@
     "num_limit": "25",
     "reg_num": "-999",
     "teacher": "吳宇晴",
-    "time": "R56-A302[GF]"
+    "time": "R56-A203[GF]"
   },
   "1122_562018": {
     "code": "GELT00023",
@@ -44874,7 +44874,7 @@
     "id": "960006",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－防衛動員 All-out Defense Education Military Training-Defense Mobilization",
-    "num_limit": "51",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "王先正",
     "time": "F34-A104[GF]"

@@ -404,7 +404,7 @@
     "name": "醫師科學家研究概論(下) Physician-Scientist Program-Career Planning(2)",
     "num_limit": "45",
     "reg_num": "-999",
-    "teacher": "兵岳忻、張佩靖、郭文娟、蔡金吾、林士傑、何國牟、郭曉縈、侯珮珊、陳摘文、林錦洲、陳德禮",
+    "teacher": "兵岳忻、張佩靖、郭文娟、蔡金吾、林士傑、何國牟、郭曉縈、侯珮珊、陳摘文、林錦洲、陳德禮、葉俊廷",
     "time": "T8-YM225[YM]"
   },
   "1122_110028": {
@@ -13209,7 +13209,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "范佩貞",
-    "time": "T56-YR102[YM]"
+    "time": "Mbc-YR102[YM]"
   },
   "1122_133507": {
     "code": "XDLC30033",
@@ -15102,7 +15102,7 @@
     "id": "161004",
     "memo": "",
     "name": "中國歷代戲曲選讀 Selections of Dramas in Verse",
-    "num_limit": "25",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "賈元圓",
     "time": "M12-YT103[YM]"
@@ -15114,7 +15114,7 @@
     "id": "161005",
     "memo": "",
     "name": "中國歷代戲曲選讀 Selections of Dramas in Verse",
-    "num_limit": "25",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "賈元圓",
     "time": "M34-YT103[YM]"
@@ -15222,7 +15222,7 @@
     "id": "161015",
     "memo": "開學後人工加簽，開放3位「優先開放第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」",
     "name": "日常生活、科技與社會 Technology and Everyday Life",
-    "num_limit": "30",
+    "num_limit": "32",
     "reg_num": "-999",
     "teacher": "秦先玉",
     "time": "R12-YT204[YM]"
@@ -18250,18 +18250,6 @@
     "reg_num": "-999",
     "teacher": "高竹嵐",
     "time": "M56R2-AB102[GF]"
-  },
-  "1122_510002": {
-    "code": "EEAE00003",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "510002",
-    "memo": "1.電機學院大學部優先選課 2.電機學院學生可列為通識課程(跨院基本素養)",
-    "name": "工程與專業倫理 Engineering and Professional Ethics",
-    "num_limit": "60",
-    "reg_num": "-999",
-    "teacher": "黃育綸、徐保羅、黃欽勇",
-    "time": "R56-A301[GF]"
   },
   "1122_514000": {
     "code": "HSCH00001",
@@ -25905,7 +25893,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蘇彬",
-    "time": "T2-ED116[GF],R34-EE132[GF]"
+    "time": "T2-ED116[GF],R34-ED203[GF]"
   },
   "1122_535208": {
     "code": "EEIE30042",
@@ -26973,7 +26961,7 @@
     "num_limit": "45",
     "reg_num": "-999",
     "teacher": "葉宗泰",
-    "time": "Rabc-EC220[GF],Rabc-EC221[GF],Rabc-EC222[GF],M34-ED302[GF]"
+    "time": "M34-EC022[GF],Rabc-EC220[GF],Rabc-EC221[GF],Rabc-EC222[GF]"
   },
   "1122_535503": {
     "code": "CSIC30015",
@@ -33990,7 +33978,7 @@
     "id": "561055",
     "memo": "「造型與繪圖」不接受已修過「幾何造形」的同學選讀。",
     "name": "造型與繪圖 Patterning and Drawing",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "陳明璋",
     "time": "F34-CS-PC2[GF]"
@@ -37878,7 +37866,7 @@
     "id": "565005",
     "memo": "含近代物理",
     "name": "物理(二)榮譽班 Physics(II)",
-    "num_limit": "95",
+    "num_limit": "97",
     "reg_num": "-999",
     "teacher": "楊本立",
     "time": "T78F34-SA321[GF]"
@@ -37902,7 +37890,7 @@
     "id": "565007",
     "memo": "[English Medium Course]",
     "name": "物理(二) Physics(II)",
-    "num_limit": "95",
+    "num_limit": "99",
     "reg_num": "-999",
     "teacher": "籔下篤史",
     "time": "T78F34-SC106[GF]"
@@ -38298,7 +38286,7 @@
     "id": "567001",
     "memo": "[English Medium Course]英文授課 生物科技學系大一新生及轉學生優先選課，上限70人 通識校基本 通識跨院",
     "name": "普通生物學(二) General Biology (II)",
-    "num_limit": "80",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "趙啟宏、林東毅",
     "time": "Wn56-SC106[GF]"

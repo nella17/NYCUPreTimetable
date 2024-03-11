@@ -728,7 +728,7 @@
     "name": "核心內科講堂 Core-Course in Internal Medicine",
     "num_limit": "9999",
     "reg_num": "149",
-    "teacher": "黃怡翔、李懿宬、劉峻宇、陳明翰、吳道正、林堯彬、潘聖衛、林芳綺、陳瑋昇、李政源、賴建志、蔡明村、林晉宇、王維庭、李國華、沈宜靜、黃偉杰、陳燕溫、蔡依霖、施彥丞、阮志翰、何翊芯、莊茜、蔡弘正、林詠萱、吳崇暉、林亮羽、馮嘉毅、許劭榮、曾偉誠",
+    "teacher": "黃怡翔、李懿宬、陳明翰、吳道正、林堯彬、潘聖衛、林芳綺、陳瑋昇、李政源、賴建志、蔡明村、林晉宇、簡聖軒、王維庭、李國華、沈宜靜、黃偉杰、陳燕溫、蔡依霖、施彥丞、阮志翰、陳玟均、何翊芯、莊茜、蔡弘正、林詠萱、吳崇暉、林亮羽、馮嘉毅、許劭榮、曾偉誠",
     "time": ""
   },
   "1122_110055": {
@@ -18943,7 +18943,7 @@
     "memo": "",
     "name": "類比積體電路導論 Introduction to Analog Integrated Circuits",
     "num_limit": "9999",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "洪崇智",
     "time": "T5R34-ED220[GF]"
   },
@@ -23395,7 +23395,7 @@
     "memo": "",
     "name": "娛樂媒介與故事行銷 Entertainment Media and storytelling marketing",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "10",
     "teacher": "陳延昇",
     "time": "M567-F216[GF]"
   },
@@ -26371,7 +26371,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "114",
+    "reg_num": "113",
     "teacher": "數據所",
     "time": ""
   },

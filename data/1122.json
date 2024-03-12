@@ -427,7 +427,7 @@
     "memo": "醫學系學生皆可選修，如欲選修之同學請由醫師科學家專題研究(一)開始選修；醫學系B組同學不可同時選修醫師科學家碩士專題研究。",
     "name": "醫師科學家專題研究(二) Physician-Scientist Program-Research 2",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "兵岳忻、黃宣誠、邱士華、陳世彬、廖皎君",
     "time": "Sa-"
   },
@@ -3703,7 +3703,7 @@
     "memo": "上課地點：實習醫院",
     "name": "護理管理與行政概論實習 Introduction to Nursing Management and Administration Practice",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "37",
     "teacher": "李亭亭、黃淑鶴、明金蓮、林淑娟、盧婉菁、游佩玲、鄭菁慧",
     "time": "M12345678T12345678W12345678-"
   },
@@ -10560,9 +10560,9 @@
     "time": "W34-YB101[YM]"
   },
   "1122_132211": {
-    "code": "BEBL30043",
+    "code": "BEBL30048",
     "credit": "1.00",
-    "hours": "2.00",
+    "hours": "1.00",
     "id": "132211",
     "memo": "",
     "name": "醣質生物學特論(一) Special Topics on Glycobiology I",
@@ -11428,7 +11428,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "132609",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "應用雷射與非線性光學 Introduction to laser and nonlinear optics",
     "num_limit": "20",
     "reg_num": "5",
@@ -15500,7 +15500,7 @@
     "name": "論文專題與畢業製作(一) Graduation Project (I)",
     "num_limit": "9999",
     "reg_num": "39",
-    "teacher": "張藝曦、連瑞枝、莊雅仲、簡美玲、黃紹恆、潘美玲、林秀幸、劉大和、許維德、朱華瑄、柯朝欽",
+    "teacher": "張藝曦、連瑞枝、莊雅仲、簡美玲、黃紹恆、潘美玲、林秀幸、羅烈師、劉大和、許維德、朱華瑄、盧正恒、柯朝欽",
     "time": ""
   },
   "1122_310005": {
@@ -15751,7 +15751,7 @@
     "memo": "",
     "name": "新科技與組織傳播 New Technology and Organizational Communication",
     "num_limit": "9999",
-    "reg_num": "71",
+    "reg_num": "70",
     "teacher": "李美華",
     "time": "M567-A305[GF]"
   },
@@ -18621,7 +18621,7 @@
     "num_limit": "60",
     "reg_num": "62",
     "teacher": "李佩雯",
-    "time": "M8-ED101[GF],F78-ED203[GF]"
+    "time": "M8-ED101[GF],F78-ED116[GF]"
   },
   "1122_515118": {
     "code": "EEEC20015",
@@ -19483,7 +19483,7 @@
     "memo": "[English Medium Course]主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課 ; 本系生優先權順序：2年級，4年級，3年級，1年級 [另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
     "name": "計算機組織 Computer Organization",
     "num_limit": "91",
-    "reg_num": "61",
+    "reg_num": "60",
     "teacher": "蔡淳仁",
     "time": "R56-EC115[GF]"
   },
@@ -24643,7 +24643,7 @@
     "memo": "",
     "name": "應用於毫米波通信多工系統的頻率合成器系統晶片設計 Frequency Synthesizer IC Design for Millimeter Wave Communication Multiplexing System",
     "num_limit": "30",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "曾煜輝",
     "time": "W34n-EE220[GF]"
   },
@@ -26704,12 +26704,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "536072",
-    "memo": "上課教室在工五館 331",
+    "memo": "",
     "name": "航太結構分析 Aerospace structural analysis",
     "num_limit": "30",
     "reg_num": "13",
     "teacher": "金大仁",
-    "time": "Rabc-"
+    "time": "Rabc-EE231[GF]"
   },
   "1122_536073": {
     "code": "ENSS30012",
@@ -28267,7 +28267,7 @@
     "memo": "",
     "name": "貝氏分析 Bayesian Analysis",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "洪慧念",
     "time": "M234-A406[GF]"
   },
@@ -28279,7 +28279,7 @@
     "memo": "請AI跨域學程同學選修前事先諮詢開課教師相關課程要求與適合度。",
     "name": "多變量分析 Multivariate Analysis",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "黃冠華",
     "time": "W234-A406[GF]"
   },
@@ -28291,7 +28291,7 @@
     "memo": "[English Medium Course]",
     "name": "統計計算 Statistical Computing",
     "num_limit": "45",
-    "reg_num": "24",
+    "reg_num": "23",
     "teacher": "盧鴻興",
     "time": "T567-A406[GF]"
   },
@@ -28303,7 +28303,7 @@
     "memo": "",
     "name": "長期追蹤資料分析 Longitudinal Data Analysis",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "黃冠華",
     "time": "M567-A406[GF]"
   },
@@ -28315,7 +28315,7 @@
     "memo": "",
     "name": "時間序列 Time Series",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "高竹嵐",
     "time": "R567-A304[GF]"
   },
@@ -28327,7 +28327,7 @@
     "memo": "[English Medium Course]",
     "name": "專題討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "43",
     "teacher": "林聖軒",
     "time": "F34n-A427[GF]"
   },
@@ -31783,7 +31783,7 @@
     "memo": "開放台聯大大三以上同學選修",
     "name": "法律之經濟分析 Economic Analysis of Law",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "27",
     "teacher": "林欣吾",
     "time": "Fab-MB1069[GF]"
   },
@@ -32755,7 +32755,7 @@
     "memo": "",
     "name": "書學與書道 Theories and Practice of Calligraphy",
     "num_limit": "50",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "黃漢昌",
     "time": "W12-A202[GF]"
   },
@@ -35059,7 +35059,7 @@
     "memo": "綜合球館2樓",
     "name": "體育－網球甲 Tennis",
     "num_limit": "32",
-    "reg_num": "31",
+    "reg_num": "32",
     "teacher": "伍啟萌",
     "time": "M56-PE[GF]"
   },
@@ -36463,7 +36463,7 @@
     "memo": "[English Medium Course]",
     "name": "物理(二) Physics(II)",
     "num_limit": "85",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "科契諾",
     "time": "M34R78-SC106[GF]"
   },
@@ -37255,7 +37255,7 @@
     "memo": "",
     "name": "國際藥學工作坊 International Pharmacy Workshop",
     "num_limit": "0",
-    "reg_num": "0",
+    "reg_num": "6",
     "teacher": "胡德民、林滿玉、陳日榮、張豫立",
     "time": ""
   },

@@ -4064,7 +4064,7 @@
     "name": "臨床微生物實驗 Clinical Microbiology Laboratory",
     "num_limit": "9999",
     "reg_num": "35",
-    "teacher": "吳韋訥、楊翠青、龔思豪、李詩益、鄭惠文",
+    "teacher": "吳韋訥、楊翠青、龔思豪、洪小雅、李詩益、鄭惠文",
     "time": "W56R3-YB229[YM]"
   },
   "1122_112007": {
@@ -4460,7 +4460,7 @@
     "name": "專題研究(一) Independent Study I",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "醫工系",
+    "teacher": "醫工系、朱唯勤、駱俊良、李泉",
     "time": "Tn-YEA200[YM]"
   },
   "1122_112117": {
@@ -4472,7 +4472,7 @@
     "name": "專題研究(二) Independent Study II",
     "num_limit": "9999",
     "reg_num": "19",
-    "teacher": "醫工系、江惠華、詹家泰、劉澤英、陳右穎、江明彰、駱俊良、李泉、賴穎暉、劉大中、蕭慶華、張智銘",
+    "teacher": "醫工系、江惠華、詹家泰、劉澤英、陳右穎、江明彰、賴穎暉、劉大中、蕭慶華、張智銘、李卓穎",
     "time": "Mn-YEA200[YM]"
   },
   "1122_112118": {
@@ -4484,7 +4484,7 @@
     "name": "專題研究(四) Independent StudyⅣ",
     "num_limit": "9999",
     "reg_num": "11",
-    "teacher": "醫工系、江惠華、詹家泰、陳右穎、林峻立、江明彰、駱俊良、賴穎暉、劉大中、蕭慶華、張智銘",
+    "teacher": "醫工系、江惠華、詹家泰、陳右穎、江明彰、劉大中、蕭慶華、張智銘、李卓穎",
     "time": "Wn-YEA200[YM]"
   },
   "1122_112119": {
@@ -18523,7 +18523,7 @@
     "memo": "T56abcd-ED713，Tabcd為實驗課 ED713",
     "name": "物件導向程式設計 Object-Oriented Programming",
     "num_limit": "50",
-    "reg_num": "45",
+    "reg_num": "46",
     "teacher": "黃紹華",
     "time": "T56abcd-ED713[GF]"
   },
@@ -30021,7 +30021,7 @@
     "num_limit": "50",
     "reg_num": "49",
     "teacher": "林群雄",
-    "time": "F567-ED202[GF]"
+    "time": "F567-ED302[GF]"
   },
   "1122_539100": {
     "code": "IIAI30004",

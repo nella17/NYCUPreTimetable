@@ -5312,7 +5312,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "39",
-    "teacher": "王子娟、林吟亮",
+    "teacher": "王子娟、蔡美文、林吟亮",
     "time": "R9a-YB603[YM]"
   },
   "1122_112261": {
@@ -11132,7 +11132,7 @@
     "name": "專題討論(甲組) Seminar",
     "num_limit": "9999",
     "reg_num": "27",
-    "teacher": "吳杰、吳東信",
+    "teacher": "吳杰、林慶波、陳志成、楊逢羿、吳東信、許世明、盧家鋒、高瑀絜",
     "time": "F56-YT206[YM]"
   },
   "1122_132506": {
@@ -11324,7 +11324,7 @@
     "name": "高溫腫瘤學 Hyperthermia",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "楊逢羿、季匡華",
+    "teacher": "楊逢羿",
     "time": "W234-YB134[YM]"
   },
   "1122_132600": {
@@ -13424,7 +13424,7 @@
     "name": "專題討論(博士班) Seminar",
     "num_limit": "9999",
     "reg_num": "22",
-    "teacher": "高瑀絜、詹明賢",
+    "teacher": "高瑀絜、林慶波、陳志成、楊逢羿、吳東信、許世明、陳傳霖、盧家鋒、詹明賢、吳駿一",
     "time": "F34-YB101[YM]"
   },
   "1122_142400": {
@@ -25075,7 +25075,7 @@
     "memo": "限已繳交”指導教授同意書”的電控所學生選修；未繳交”指導教授同意書”的學生，請勿選修。",
     "name": "學位論文研究 Academic Dissertation Research",
     "num_limit": "9999",
-    "reg_num": "180",
+    "reg_num": "181",
     "teacher": "電控所",
     "time": ""
   },
@@ -26968,7 +26968,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "536120",
-    "memo": "[EE527電腦教室] 開4/碩/博。",
+    "memo": "[English Medium Course][EE527電腦教室] 開4/碩/博。",
     "name": "影像分析與應用 Image Analysis and Applications",
     "num_limit": "40",
     "reg_num": "31",

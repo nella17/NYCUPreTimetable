@@ -3644,7 +3644,7 @@
     "name": "婦嬰護理學 Maternity Nursing",
     "num_limit": "9999",
     "reg_num": "40",
-    "teacher": "黃久美、蔡慈儀、黃淑鶴、張秀能、柯惠娟、陳淑芬",
+    "teacher": "黃久美、蔡慈儀、黃淑鶴、張秀能、陳淑芬、柯惠娟",
     "time": "W12345678-YN416[YM]"
   },
   "1122_111808": {
@@ -3656,7 +3656,7 @@
     "name": "婦嬰護理學實習 Maternity Nursing Practice",
     "num_limit": "9999",
     "reg_num": "40",
-    "teacher": "蔡慈儀、李詩敏、王媛、柯惠娟、夏惠珍、楊雯如、林玉蘭、蔣欣純、吳惠茹、魏妡珆、林思妤、孫志琪、鍾侑倫、楊易宏、方月吟、呂欣芮、許淳媁、徐嘉澧、徐理仁",
+    "teacher": "蔡慈儀、李詩敏、王媛、夏惠珍、楊雯如、蔣欣純、吳惠茹、魏妡珆、林思妤、孫志琪、鍾侑倫、林玉蘭、楊易宏、柯惠娟、方月吟、呂欣芮、許淳媁、徐嘉澧、徐理仁",
     "time": "W12345678-"
   },
   "1122_111809": {
@@ -5132,7 +5132,7 @@
     "name": "呼吸循環物理治療學(二) Cardiovascular and Pulmonary Physical Therapy (II)",
     "num_limit": "50",
     "reg_num": "38",
-    "teacher": "蔡美文、陳喬男、黃心怡、黃睦升、賴亮穎、騰婷、蕭琬蓁、陳立唯、洪素鶯",
+    "teacher": "蔡美文、陳喬男、黃心怡、黃睦升、賴亮穎、騰婷、吳佳恩、蕭琬蓁、陳立唯、洪素鶯",
     "time": "R12-YB601[YM]"
   },
   "1122_112246": {
@@ -5144,7 +5144,7 @@
     "name": "呼吸循環物理治療學實作 Cardiovascular and Pulmonary Physical Therapy Practicum",
     "num_limit": "9999",
     "reg_num": "38",
-    "teacher": "蔡美文、陳喬男、黃心怡、黃睦升、賴亮穎、騰婷、蕭琬蓁、陳立唯、洪素鶯",
+    "teacher": "蔡美文、陳喬男、黃心怡、黃睦升、賴亮穎、騰婷、吳佳恩、蕭琬蓁、陳立唯、洪素鶯",
     "time": "R34-YB601[YM]"
   },
   "1122_112247": {
@@ -16387,7 +16387,7 @@
     "memo": "",
     "name": "細胞生物學(二) Cell Biology(II)",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "43",
     "teacher": "趙瑞益、黃兆祺、莊碧簪",
     "time": "F56-BI302[BA]"
   },
@@ -30583,7 +30583,7 @@
     "memo": "光電組；限陽明交大在職專班學生選修",
     "name": "顯示科技概論 Introduction to Display Technologies",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "戴亞翔、陳方中、劉柏村、陳皇銘",
     "time": "Tabc-EO105[GF]"
   },
@@ -30691,7 +30691,7 @@
     "memo": "每學期3次課程，上課日暫訂為5/18(六)，詳細上課時間請留意專班網頁公告；限電資專班學生選修",
     "name": "專題研討 Seminars",
     "num_limit": "9999",
-    "reg_num": "135",
+    "reg_num": "134",
     "teacher": "李義明",
     "time": "S234567-ED219[GF]"
   },

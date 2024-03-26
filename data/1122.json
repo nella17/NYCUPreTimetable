@@ -2564,7 +2564,7 @@
     "name": "核子醫學 Nuclear Medicine",
     "num_limit": "9999",
     "reg_num": "146",
-    "teacher": "彭南靖、黃文盛、王昱豐、胡蓮欣",
+    "teacher": "彭南靖、黃文盛、王昱豐、胡蓮欣、李哲皓",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
   "1122_110213": {
@@ -2588,7 +2588,7 @@
     "name": "基礎醫學總論 The Comprehensive Course of Basic Medical Science",
     "num_limit": "9999",
     "reg_num": "104",
-    "teacher": "凌憬峰、吳鈺琳、阮琪昌、李怡萱、陳威儀、陳紀如、嚴錦城、徐嘉琳、王琬菁、嵇達德、張原翊、高正彥、吳莉玲、邱美妙",
+    "teacher": "凌憬峰、吳鈺琳、阮琪昌、陳念榮、李怡萱、陳威儀、嚴錦城、王琬菁、嵇達德、張原翊、高正彥、吳莉玲、邱美妙",
     "time": "Sb-YT002[YM]"
   },
   "1122_110215": {
@@ -26167,7 +26167,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "112",
+    "reg_num": "111",
     "teacher": "網工所",
     "time": ""
   },
@@ -30127,7 +30127,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "生醫工所",
     "time": ""
   },
@@ -37867,7 +37867,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "70",
+    "reg_num": "69",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },
@@ -38784,8 +38784,8 @@
     "time": "Wabc-"
   },
   "1122_910039": {
-    "code": "SESE20180",
-    "credit": "3.00",
+    "code": "SESE10249",
+    "credit": "1.00",
     "hours": "3.00",
     "id": "910039",
     "memo": "此課程由余俊宏老師授課2週，地點於光復校區，其餘16週由理工學院聶若鹽老師授課，上課地點於國防大學理工學院。",

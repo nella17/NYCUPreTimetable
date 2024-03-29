@@ -8132,7 +8132,7 @@
     "name": "健康與長期照護保險制度 Health and long-term care Insurance",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "李玉春、楊銘欽、張麗娟",
+    "teacher": "李玉春、楊銘欽",
     "time": "T12-YN613[YM]"
   },
   "1122_130701": {
@@ -9788,7 +9788,7 @@
     "name": "跨文化進階護理角色與功能 Cross-cultural advanced nursing roles and functions",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "陳律言、孫秀卿、陳俞琪、胡慧蘭、林承霈",
+    "teacher": "陳律言、孫秀卿、許樹珍、陳俞琪、胡慧蘭、林承霈",
     "time": "S12345678-"
   },
   "1122_131800": {
@@ -25891,7 +25891,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "368",
+    "reg_num": "367",
     "teacher": "資科工所",
     "time": ""
   },
@@ -26167,7 +26167,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "111",
+    "reg_num": "110",
     "teacher": "網工所",
     "time": ""
   },
@@ -30127,7 +30127,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "生醫工所",
     "time": ""
   },

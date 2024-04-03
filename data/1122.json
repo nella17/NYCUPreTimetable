@@ -3116,7 +3116,7 @@
     "name": "全口贋復學實驗 Complete Denture Prosthodontics Lab",
     "num_limit": "50",
     "reg_num": "42",
-    "teacher": "許明倫、耿藝文、張景智、張志麟、謝旻杰、林慧觀、楊博雅、許文瑛、黃籌永",
+    "teacher": "許明倫、耿藝文、張景智、張志麟、謝旻杰、林慧觀、楊博雅、許文瑛、黃籌永、吳曉霖",
     "time": "M345678-YD210[YM]"
   },
   "1122_111536": {
@@ -5384,7 +5384,7 @@
     "name": "物理治療職涯規劃 Physical Therapy Career Planning",
     "num_limit": "50",
     "reg_num": "11",
-    "teacher": "王子娟",
+    "teacher": "王子娟、陳子敬",
     "time": "Wyz-"
   },
   "1122_112300": {
@@ -26359,7 +26359,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "112",
+    "reg_num": "111",
     "teacher": "數據所",
     "time": ""
   },

@@ -10040,7 +10040,7 @@
     "name": "藥理學(二) Pharmacology (2)",
     "num_limit": "70",
     "reg_num": "35",
-    "teacher": "林滿玉、李新城、駱雨利、黃自強、嚴錦城、王湘翠、黃世宗、楊志新、藍耿欣、沈郁強",
+    "teacher": "林滿玉、李新城、駱雨利、黃自強、嚴錦城、王湘翠、黃世宗、楊志新、沈郁強、李沛璋",
     "time": "M56W56-YK533[YM]"
   },
   "1122_132004": {
@@ -12732,12 +12732,12 @@
     "time": "R78-YL405[YM]"
   },
   "1122_140301": {
-    "code": "MDCM30038",
+    "code": "MDCM30071",
     "credit": ".00",
-    "hours": ".00",
+    "hours": "1.00",
     "id": "140301",
     "memo": "",
-    "name": "論文研究(博士班四年級) Research Review of Thesis DI",
+    "name": "論文研究(博四) Research Review of Thesis DI",
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "王錦鈿、牛道明、李光申、楊慕華、黃奇英、黃怡翔、黃柏勳、李美璇、陳世彬、楊智宇、陳斯婷、賴峻毅、謝世良、吳肇卿",
@@ -14003,54 +14003,6 @@
     "teacher": "侯宜菁",
     "time": "Fab-YN318[YM]"
   },
-  "1122_150202": {
-    "code": "NSDN30042",
-    "credit": "3.00",
-    "hours": "8.00",
-    "id": "150202",
-    "memo": "",
-    "name": "老人健康評估與措施實習 Practice in Gerontological Health Assessment and Management",
-    "num_limit": "9999",
-    "reg_num": "3",
-    "teacher": "王子芳",
-    "time": "W12345678-"
-  },
-  "1122_150203": {
-    "code": "NSDN30012",
-    "credit": "3.00",
-    "hours": "8.00",
-    "id": "150203",
-    "memo": "",
-    "name": "健康資訊科技實習 Health technology Practice",
-    "num_limit": "9999",
-    "reg_num": "3",
-    "teacher": "侯宜菁、李亭亭",
-    "time": "W12345678-"
-  },
-  "1122_150205": {
-    "code": "NSDN30014",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "150205",
-    "memo": "隔週上課，一次四小時，歡迎其他系所選修。",
-    "name": "兒童健康照護專題 Seminar in Child Health Care",
-    "num_limit": "9999",
-    "reg_num": "3",
-    "teacher": "劉佩青",
-    "time": "R56-YN321[YM]"
-  },
-  "1122_150206": {
-    "code": "NSDN30052",
-    "credit": "3.00",
-    "hours": "8.00",
-    "id": "150206",
-    "memo": "",
-    "name": "護理資訊實習 Introduction to Nursing Informatics Practice",
-    "num_limit": "9999",
-    "reg_num": "3",
-    "teacher": "李亭亭、侯宜菁",
-    "time": "W12345678-"
-  },
   "1122_150207": {
     "code": "NSDN30077",
     "credit": "1.00",
@@ -14062,18 +14014,6 @@
     "reg_num": "8",
     "teacher": "楊秋月",
     "time": "R9a-YN414B[YM]"
-  },
-  "1122_150208": {
-    "code": "NSDN30016",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "150208",
-    "memo": "歡迎其他系所選修",
-    "name": "兒童照護專題討論 Seminar for Selective Topics on Child Health Nursing",
-    "num_limit": "9999",
-    "reg_num": "7",
-    "teacher": "陳紀雯",
-    "time": "R56-YN414B[YM]"
   },
   "1122_150209": {
     "code": "NSDN30024",
@@ -14087,18 +14027,6 @@
     "teacher": "侯宜菁、陳紀雯、胡慧蘭",
     "time": "F56-YN416[YM]"
   },
-  "1122_150211": {
-    "code": "NSDN30079",
-    "credit": "4.00",
-    "hours": "8.00",
-    "id": "150211",
-    "memo": "",
-    "name": "進階家庭專科護理實習II Advanced Family Nurse Practitioner Practicum II",
-    "num_limit": "9999",
-    "reg_num": "6",
-    "teacher": "陳盈如、楊淑華",
-    "time": "R12345678-"
-  },
   "1122_150213": {
     "code": "NSCN30078",
     "credit": "1.00",
@@ -14111,18 +14039,6 @@
     "teacher": "童恒新、胡慧蘭、劉佩青",
     "time": "F34-YN414[YM]"
   },
-  "1122_150214": {
-    "code": "NSDN30082",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "150214",
-    "memo": "專科護理師組課程，開放護理學系碩士在職專班選修",
-    "name": "進階藥理學案例討論 Clinical Pharmacology and Pharmacotherapy Case Study",
-    "num_limit": "9999",
-    "reg_num": "11",
-    "teacher": "胡慧蘭、李國熙、童恒新、林佩玉、陳志強、龔彥穎、劉佩青、黃啟原、廖俊星",
-    "time": "F9a-YN322[YM]"
-  },
   "1122_150215": {
     "code": "NSDN30067",
     "credit": "2.00",
@@ -14134,30 +14050,6 @@
     "reg_num": "18",
     "teacher": "童恒新、胡慧蘭、劉佩青",
     "time": "F12-YN414[YM]"
-  },
-  "1122_150216": {
-    "code": "NSDN30075",
-    "credit": "4.00",
-    "hours": "8.00",
-    "id": "150216",
-    "memo": "",
-    "name": "進階家庭專科護理實習I Advanced Family Nurse Practitioner Practicum I",
-    "num_limit": "9999",
-    "reg_num": "1",
-    "teacher": "楊淑華、蔡佳辰",
-    "time": ""
-  },
-  "1122_150217": {
-    "code": "NSDN30084",
-    "credit": "4.00",
-    "hours": "8.00",
-    "id": "150217",
-    "memo": "",
-    "name": "進階家庭專科護理實習III Advanced Family Nurse Practitioner Practicum III",
-    "num_limit": "9999",
-    "reg_num": "1",
-    "teacher": "童恒新",
-    "time": "R12345678-"
   },
   "1122_150300": {
     "code": "LSMB30013",
@@ -16955,18 +16847,6 @@
     "teacher": "朱智瑋、吳妍華",
     "time": "T56-BI135[BA]"
   },
-  "1122_430101": {
-    "code": "BTBT30107",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "430101",
-    "memo": "[English Medium Course]",
-    "name": "碩士班書報討論-生物資訊組 Special Topic Seminar in Bioinformatics(MS)",
-    "num_limit": "9999",
-    "reg_num": "21",
-    "teacher": "林勇欣、李宗夷、陸志豪、高雅婷、林峻宇",
-    "time": "M4-BI310[BA]"
-  },
   "1122_430102": {
     "code": "BTBI30015",
     "credit": "1.00",
@@ -17050,18 +16930,6 @@
     "reg_num": "18",
     "teacher": "陳亭妏",
     "time": "M567-BI301[BA]"
-  },
-  "1122_430109": {
-    "code": "BTBI30117",
-    "credit": "4.00",
-    "hours": "4.00",
-    "id": "430109",
-    "memo": "",
-    "name": "Go人工智慧大數據平行運算 Artificial intelligent big data parallel computation by Go",
-    "num_limit": "15",
-    "reg_num": "2",
-    "teacher": "羅惟正",
-    "time": "W5689-BI304[BA]"
   },
   "1122_430110": {
     "code": "BTBI30118",
@@ -25075,7 +24943,7 @@
     "memo": "上課地點：工五館國際會議廳",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "173",
+    "reg_num": "172",
     "teacher": "陳鴻祺、李慶鴻",
     "time": "W56-EEB24[GF]"
   },
@@ -25219,7 +25087,7 @@
     "memo": "[English Medium Course]電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程)",
     "name": "生醫工程 Biomedical Engineering",
     "num_limit": "72",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "戴立嘉",
     "time": "M234-EE220[GF]"
   },
@@ -26251,7 +26119,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "109",
+    "reg_num": "108",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -30283,7 +30151,7 @@
     "memo": "生醫所主開",
     "name": "生醫統計學 Biomedical Statistics",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "陳稷康",
     "time": "R234-EDB01[GF]"
   },

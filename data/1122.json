@@ -15223,7 +15223,7 @@
     "memo": "",
     "name": "經濟學:一種看世界的方法 Economics:one way we see the world",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "葉俊顯、莊委桐",
     "time": "M234-TB307[BM]"
   },
@@ -30607,7 +30607,7 @@
     "memo": "電控組；限陽明交大在職專班學生選修",
     "name": "功率積體電路設計 Power Management IC Design",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "陳科宏",
     "time": "Tabc-EE208[GF]"
   },
@@ -36982,42 +36982,6 @@
     "reg_num": "24",
     "teacher": "陳文亮",
     "time": "R234-SC210[GF]"
-  },
-  "1122_571000": {
-    "code": "GESL00011",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "571000",
-    "memo": "",
-    "name": "青銀共學太極拳(2)─專業服務學習 Intergenerational TaiChi Chuan learning course (2) -Professional Service Learning",
-    "num_limit": "30",
-    "reg_num": "11",
-    "teacher": "陳俊銘",
-    "time": "R9a-YK101[YM]"
-  },
-  "1122_571001": {
-    "code": "GESL00008",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "571001",
-    "memo": "上課教室於【光復】活動中心三樓會議室",
-    "name": "校務活動培訓與實作-基礎服務學習 The Practice training of Campus Activities - Foundational Service Learning",
-    "num_limit": "50",
-    "reg_num": "6",
-    "teacher": "游鳳芸",
-    "time": "W9-"
-  },
-  "1122_571002": {
-    "code": "GESL00012",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "571002",
-    "memo": "",
-    "name": "烘焙甜點與責任消費─服務學習二 Baking Practice and Responsible Consumption -Basic Service Learning",
-    "num_limit": "35",
-    "reg_num": "34",
-    "teacher": "蕭智尹",
-    "time": "MnTn-ED202[GF]"
   },
   "1122_571003": {
     "code": "GESL00007",

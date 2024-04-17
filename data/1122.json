@@ -10039,7 +10039,7 @@
     "memo": "大學部三年級為必修課；\n碩士班研究生需完成必選修四選一，以完成畢業學分門檻，可選擇之課程為下列四堂:  藥理學(二)、細胞生物學、轉譯生物藥學的實際應用、生物藥學特論",
     "name": "藥理學(二) Pharmacology (2)",
     "num_limit": "70",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "林滿玉、李新城、駱雨利、黃自強、嚴錦城、王湘翠、黃世宗、楊志新、沈郁強、李沛璋",
     "time": "M56W56-YK533[YM]"
   },
@@ -26395,7 +26395,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "資通安全",
     "time": ""
   },
@@ -26419,7 +26419,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "54",
+    "reg_num": "53",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -30715,7 +30715,7 @@
     "memo": "詳細上課時間請留意課程平台公告；限資訊學院國防資安管理碩士在職專班學生選修；上課教室:台北北門校區第二演講廳",
     "name": "專題研討 Seminar on Cybersecurity Management",
     "num_limit": "100",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "嚴力行",
     "time": "S34-TB307[BM]"
   },
@@ -30739,7 +30739,7 @@
     "memo": "上課教室:台北北門校區第一演講廳",
     "name": "軟體測試與程式安全 Software Testing and Secure Programming",
     "num_limit": "60",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "黃世昆",
     "time": "Wabc-TA506[BM]"
   },
@@ -30751,7 +30751,7 @@
     "memo": "上課教室:台北北門校區第一演講廳",
     "name": "計算機網路 Computer Networks",
     "num_limit": "60",
-    "reg_num": "30",
+    "reg_num": "28",
     "teacher": "趙禧綠",
     "time": "Rabc-TA506[BM]"
   },
@@ -30775,7 +30775,7 @@
     "memo": "限本專班同學選修；上課地點為警政署偵防大樓4樓簡報室",
     "name": "通訊監察與解析 Lawful interception: principle and application",
     "num_limit": "60",
-    "reg_num": "42",
+    "reg_num": "41",
     "teacher": "林煒翔",
     "time": "Rab-"
   },
@@ -31639,7 +31639,7 @@
     "memo": "[English Medium Course]",
     "name": "美國契約法 U.S. Contract Law",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "倪貴榮、陳在方",
     "time": "Tabc-MB1069[GF]"
   },
@@ -31699,7 +31699,7 @@
     "memo": "",
     "name": "民法物權 Civil Law: Property",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "陳在方",
     "time": "R567-MB1069[GF]"
   },
@@ -37867,7 +37867,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "69",
+    "reg_num": "68",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },

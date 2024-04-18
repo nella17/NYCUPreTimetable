@@ -12835,7 +12835,7 @@
     "memo": "",
     "name": "專題討論(碩士班) Seminar",
     "num_limit": "9999",
-    "reg_num": "21",
+    "reg_num": "22",
     "teacher": "林東毅、傅淑玲、蔡東湖、陳方佩、許中華、藍耿立、龔彥穎、張清貿、盧美光、簡采汝、彭溫雅、林舜穀",
     "time": "R34n-YR101[YM]"
   },
@@ -26251,7 +26251,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "108",
+    "reg_num": "107",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -27319,7 +27319,7 @@
     "memo": "1.碩一、博一、博二研究生必修 2.限材料系、奈米所、前瞻半導體研究所加選",
     "name": "書報討論 Seminar",
     "num_limit": "200",
-    "reg_num": "153",
+    "reg_num": "152",
     "teacher": "林御專",
     "time": "W56-EF104[GF]"
   },
@@ -27379,7 +27379,7 @@
     "memo": "第一至第三階段限材料系、奈米所、前瞻半導體研究所加選，開學後加退選開放外系或外校加選",
     "name": "X 光繞射學 X-ray Diffraction",
     "num_limit": "60",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "陳軍華",
     "time": "T7R56-EF201[GF]"
   },
@@ -30715,7 +30715,7 @@
     "memo": "詳細上課時間請留意課程平台公告；限資訊學院國防資安管理碩士在職專班學生選修；上課教室:台北北門校區第二演講廳",
     "name": "專題研討 Seminar on Cybersecurity Management",
     "num_limit": "100",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "嚴力行",
     "time": "S34-TB307[BM]"
   },
@@ -30727,7 +30727,7 @@
     "memo": "限本專班同學選修；已有指導教授者才可選修，若尚未繳交過指導教授協議書，最遲開學後兩週內交至專班辦公室。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "國防資安專班",
     "time": ""
   },
@@ -30775,7 +30775,7 @@
     "memo": "限本專班同學選修；上課地點為警政署偵防大樓4樓簡報室",
     "name": "通訊監察與解析 Lawful interception: principle and application",
     "num_limit": "60",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "林煒翔",
     "time": "Rab-"
   },
@@ -30787,7 +30787,7 @@
     "memo": "",
     "name": "碩士論文研究   Thesis Research",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "產安專班",
     "time": ""
   },

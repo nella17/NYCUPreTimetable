@@ -10244,7 +10244,7 @@
     "name": "食品加工與安全書報討論 (四) Food processing and safety publications discussion (4)",
     "num_limit": "12",
     "reg_num": "6",
-    "teacher": "楊登傑",
+    "teacher": "楊登傑、何其儻",
     "time": "M9a-YN205[YM]"
   },
   "1122_132104": {
@@ -14145,7 +14145,7 @@
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "楊淑華、蔡佳辰",
-    "time": ""
+    "time": "R12345678-"
   },
   "1122_150217": {
     "code": "NSDN30084",
@@ -24283,7 +24283,7 @@
     "memo": "",
     "name": "音樂論壇 Music Colloquium",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "李俊穎、辛幸純、董昭民、羅芳偉、李奉書",
     "time": "T56-AD027[GF]"
   },
@@ -24295,7 +24295,7 @@
     "memo": "非音樂所同學修習室內樂，須先有曲目與團隊成員，並經過甄試通過方可選修課程。",
     "name": "室內樂 Chamber Music",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "李俊穎、辛幸純、李奉書、李珮琪、徐伯年、張先惠、林薏蕙、孫建如、黃郁婷、潘世洵、許佳穎、陳昱翰、謝孟軒",
     "time": "M1-HC605[GF]"
   },
@@ -24475,7 +24475,7 @@
     "memo": "限本所",
     "name": "演奏主修：低音管 Advanced Instruction in Bassoon",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "張先惠",
     "time": "Fb-HC616[GF]"
   },
@@ -24679,7 +24679,7 @@
     "memo": "僅開放電子所學生選課（預備研究生洽承辦人加選）",
     "name": "專題研究 Graduate Research",
     "num_limit": "9999",
-    "reg_num": "491",
+    "reg_num": "490",
     "teacher": "電子所",
     "time": ""
   },
@@ -25699,7 +25699,7 @@
     "memo": "",
     "name": "新穎半導體電晶體與感測器 New Semiconductor Transistors and Sensors",
     "num_limit": "30",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "冉曉雯",
     "time": "F234-CY201[GF]"
   },
@@ -26167,7 +26167,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "109",
+    "reg_num": "108",
     "teacher": "網工所",
     "time": ""
   },
@@ -26395,7 +26395,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "資通安全",
     "time": ""
   },
@@ -30127,7 +30127,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "生醫工所",
     "time": ""
   },
@@ -30739,7 +30739,7 @@
     "memo": "上課教室:台北北門校區第一演講廳",
     "name": "軟體測試與程式安全 Software Testing and Secure Programming",
     "num_limit": "60",
-    "reg_num": "44",
+    "reg_num": "43",
     "teacher": "黃世昆",
     "time": "Wabc-TA506[BM]"
   },
@@ -30775,7 +30775,7 @@
     "memo": "限本專班同學選修；上課地點為警政署偵防大樓4樓簡報室",
     "name": "通訊監察與解析 Lawful interception: principle and application",
     "num_limit": "60",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "林煒翔",
     "time": "Rab-"
   },
@@ -42197,7 +42197,7 @@
     "hours": "3.00",
     "id": "910344",
     "memo": "上課地點：國防大學理工學院",
-    "name": "機動學 Mechanical Dynamics",
+    "name": "機動學 Mechanisms",
     "num_limit": "9999",
     "reg_num": "8",
     "teacher": "林聰穎",

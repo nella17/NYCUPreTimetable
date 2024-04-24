@@ -5852,7 +5852,7 @@
     "name": "骨質密度測定及紅外線掃瞄實習 Bone Density Measurement and Infra-red Thermography Practice",
     "num_limit": "9999",
     "reg_num": "32",
-    "teacher": "詹明賢、陳富都、陳木熊、楊舜仲",
+    "teacher": "詹明賢、陳富都、范源洪、劉致康、陳木熊、楊舜仲",
     "time": "U3-"
   },
   "1122_112340": {
@@ -13064,7 +13064,7 @@
     "name": "博士論文進度報告 Progress Report - PhD Program",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "鄭玫枝、陳理維、許瀚水、丁乾坤、林邑璁、宋思賢、劉嘉仁",
+    "teacher": "鄭玫枝、陳理維、許瀚水、丁乾坤、林邑璁、宋思賢、劉嘉仁、馮長風、張西川",
     "time": "R78-YN118[YM]"
   },
   "1122_140800": {
@@ -18247,7 +18247,7 @@
     "memo": "A~F班 3學分4小時，3小時上課第4小時授權每位老師彈性規劃。",
     "name": "電子學(二) Electronics (II)",
     "num_limit": "60",
-    "reg_num": "59",
+    "reg_num": "58",
     "teacher": "胡樹",
     "time": "M78R34-ED103[GF]"
   },
@@ -18571,7 +18571,7 @@
     "memo": "",
     "name": "固態物理(一) Solid State Physics (I)",
     "num_limit": "60",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "林炯源",
     "time": "T34F7-ED301[GF]"
   },
@@ -18703,7 +18703,7 @@
     "memo": "",
     "name": "控制系統設計 Design and Simulation of Control Systems     ",
     "num_limit": "70",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "吳炳飛",
     "time": "M2W34-EE623[GF]"
   },
@@ -19015,7 +19015,7 @@
     "memo": "",
     "name": "半導體工程 Semiconductor Engineering",
     "num_limit": "40",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "洪瑞華",
     "time": "M567-ED301[GF]"
   },
@@ -26251,7 +26251,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "107",
+    "reg_num": "106",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -30607,7 +30607,7 @@
     "memo": "電控組；限陽明交大在職專班學生選修",
     "name": "功率積體電路設計 Power Management IC Design",
     "num_limit": "9999",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "陳科宏",
     "time": "Tabc-EE208[GF]"
   },
@@ -30643,7 +30643,7 @@
     "memo": "電信組；限陽明交大在職專班學生選修",
     "name": "數位通訊 Digital Communications",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "陸曉峰",
     "time": "Fabc-ED201[GF]"
   },
@@ -30691,7 +30691,7 @@
     "memo": "每學期3次課程，上課日暫訂為5/18(六)，詳細上課時間請留意專班網頁公告；限電資專班學生選修",
     "name": "專題研討 Seminars",
     "num_limit": "9999",
-    "reg_num": "134",
+    "reg_num": "133",
     "teacher": "李義明",
     "time": "S234567-ED219[GF]"
   },
@@ -30703,7 +30703,7 @@
     "memo": "限本專班95級(含)以後同學選修；已有指導教授者才可選修，若尚未繳交過指導教授協議書，最遲開學兩週後交至專班辦公室。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "96",
+    "reg_num": "95",
     "teacher": "電資專班",
     "time": ""
   },
@@ -36199,7 +36199,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "石至文",
     "time": "T34F56-SC206[GF]"
   },
@@ -36391,7 +36391,7 @@
     "memo": "全網路授課，但面授與考試為實體進行，需到教室。(高年級優先)\n*第一次面授時間：2/26(一)",
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "130",
-    "reg_num": "139",
+    "reg_num": "138",
     "teacher": "余啟哲",
     "time": "Mab-SA321[GF]"
   },

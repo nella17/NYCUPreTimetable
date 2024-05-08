@@ -11844,12 +11844,12 @@
     "time": "Uy-YC313[YM]"
   },
   "1122_132816": {
-    "code": "LSMI30073",
+    "code": "LSMI30026",
     "credit": "2.00",
     "hours": "2.00",
     "id": "132816",
-    "memo": "[English Medium Course]",
-    "name": "表觀基因體學與人類疾病 (全英語) Epigenomics and Human Diseases (in English)",
+    "memo": "",
+    "name": "表觀基因體學與人類疾病 Epigenetic and Human Disease",
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "張佩靖",
@@ -12836,7 +12836,7 @@
     "name": "專題討論(碩士班) Seminar",
     "num_limit": "9999",
     "reg_num": "22",
-    "teacher": "林東毅、傅淑玲、蔡東湖、陳方佩、許中華、藍耿立、龔彥穎、張清貿、盧美光、簡采汝、彭溫雅、林舜穀",
+    "teacher": "林東毅、傅淑玲、蔡東湖、陳方佩、許中華、藍耿立、龔彥穎、張清貿、黃怡超、盧美光、簡采汝、彭溫雅、林舜穀",
     "time": "R34n-YR101[YM]"
   },
   "1122_140406": {
@@ -13411,7 +13411,7 @@
     "memo": "[English Medium Course]全英語授課課程",
     "name": "專題討論(博士班) Seminar",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "23",
     "teacher": "高瑀絜、林慶波、陳志成、楊逢羿、吳東信、許世明、陳傳霖、盧家鋒、詹明賢、吳駿一",
     "time": "F34-YB101[YM]"
   },
@@ -18439,7 +18439,7 @@
     "memo": "",
     "name": "生涯規劃與導師時間 Career Planning and Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "261",
+    "reg_num": "262",
     "teacher": "劉建男",
     "time": "W78-"
   },
@@ -25891,7 +25891,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "365",
+    "reg_num": "364",
     "teacher": "資科工所",
     "time": ""
   },

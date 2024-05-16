@@ -10976,7 +10976,7 @@
     "name": "有限元素法 Finite Element Method",
     "num_limit": "15",
     "reg_num": "12",
-    "teacher": "陳振昇",
+    "teacher": "陳振昇、施世亮",
     "time": "F234-YL401[YM]"
   },
   "1122_132417": {
@@ -13447,7 +13447,7 @@
     "memo": "",
     "name": "微生物及免疫學研究(三)(博) Microbiology and Immunology Research Progress Report (3)  (Ph.D student)",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "13",
     "teacher": "微免所碩",
     "time": "Un-"
   },
@@ -26359,7 +26359,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "111",
+    "reg_num": "110",
     "teacher": "數據所",
     "time": ""
   },

@@ -1,4 +1,52 @@
 {
+  "1131_030001": {
+    "code": "IADI30001",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "030001",
+    "memo": "",
+    "name": "代數與算術 Algebra and Arithmetic",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "于靖",
+    "time": "W56-"
+  },
+  "1131_030002": {
+    "code": "IADI30002",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030002",
+    "memo": "",
+    "name": "代數幾何一 Algebraic Geometry I",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "卓士堯",
+    "time": "T34n-"
+  },
+  "1131_030003": {
+    "code": "IADI00003",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030003",
+    "memo": "",
+    "name": "微分幾何一 Differential Geometry I",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "何南國",
+    "time": "F567-"
+  },
+  "1131_030004": {
+    "code": "IADI30003",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030004",
+    "memo": "",
+    "name": "天體力學導論 Introduction to Celestial Mechanics",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳國璋",
+    "time": "T345-"
+  },
   "1131_110000": {
     "code": "MDMD10032",
     "credit": "1.00",
@@ -103,7 +151,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "劉文勝",
     "time": "W34-YT204[YM]"
   },
@@ -115,7 +163,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "楊令瑀",
     "time": "W34-YT204[YM]"
   },
@@ -127,7 +175,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "黃志賢",
     "time": "W34-YT204[YM]"
   },
@@ -139,7 +187,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "熊偉",
     "time": "W34-YX501[YM]"
   },
@@ -151,7 +199,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "吳芬芬",
     "time": "W34-YT204[YM]"
   },
@@ -163,7 +211,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "曾炳輝",
     "time": "W34-YX501[YM]"
   },
@@ -175,7 +223,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "6",
     "teacher": "范佩貞",
     "time": "W34-YX501[YM]"
   },
@@ -187,7 +235,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "黃駿豐",
     "time": "W34-YX501[YM]"
   },
@@ -199,7 +247,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "鄭涵方",
     "time": "W34-YX501[YM]"
   },
@@ -211,7 +259,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "張鴻猷",
     "time": "W34-YX501[YM]"
   },
@@ -223,7 +271,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "蔡明翰",
     "time": "W34-YT304[YM]"
   },
@@ -235,7 +283,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "陳信彰",
     "time": "W34-YT304[YM]"
   },
@@ -247,7 +295,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "嵇達德",
     "time": "W34-YT304[YM]"
   },
@@ -259,7 +307,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "林秉熙",
     "time": "W34-YX501[YM]"
   },
@@ -271,7 +319,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "謝瀛洲",
     "time": "W34-YX501[YM]"
   },
@@ -596,7 +644,7 @@
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "侯珮珊",
+    "teacher": "郭曉縈",
     "time": ""
   },
   "1131_110050": {
@@ -10363,7 +10411,7 @@
     "memo": "[English Medium Course]",
     "name": "專題討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "31",
     "teacher": "饒啟文、吳育德、高甫仁、薛特、郭文娟、陳浩夫、陳奕帆、賈世璿",
     "time": "M56-YK208[YM]"
   },
@@ -23855,18 +23903,6 @@
     "teacher": "許富淞",
     "time": "F34-HB204[GF]"
   },
-  "1131_534312": {
-    "code": "HSCS30020",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "534312",
-    "memo": "須經授課教師同意方得選修",
-    "name": "新媒體環境傳播專題 Special Topic on New Media, Environment and Communication",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "黃惠萍",
-    "time": "F567-HB216[GF]"
-  },
   "1131_534313": {
     "code": "HSCS30019",
     "credit": ".00",
@@ -24070,6 +24106,18 @@
     "reg_num": "0",
     "teacher": "謝啟民",
     "time": "T234-HA315[GF]"
+  },
+  "1131_534416": {
+    "code": "HSAA30039",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "534416",
+    "memo": "",
+    "name": "藝術與設計專題研討 Seminar on Arts and Design",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "顧廣毅",
+    "time": "R234-HA314[GF]"
   },
   "1131_534500": {
     "code": "HSSC30019",
@@ -27091,7 +27139,7 @@
     "memo": "[English Medium Course]",
     "name": "學位論文研究 Academic Dissertation Research",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "半導體所",
     "time": ""
   },
@@ -27103,21 +27151,9 @@
     "memo": "[English Medium Course]",
     "name": "書報討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "吉里斯",
     "time": "W567-AB101[GF]"
-  },
-  "1131_535902": {
-    "code": "STST30006",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "535902",
-    "memo": "[English Medium Course](1)第一階段、第二階段、第三階段選課國半院、電子所、產創學院優先 (2)開學後加退選階段：開放外系及外校選課；開放填寫google加簽表單且依規定加簽。加簽方式會在第一堂課時說明並提供表單，欲加簽同學第一堂課請務必要來。",
-    "name": "半導體元件可靠度及其失效物理 Reliability and Failure Physics of Semiconductor Devices",
-    "num_limit": "40",
-    "reg_num": "0",
-    "teacher": "吳添立",
-    "time": "M234-ED116[GF]"
   },
   "1131_535903": {
     "code": "STST30016",
@@ -28583,18 +28619,6 @@
     "teacher": "官大智",
     "time": "W789-SC201[GF]"
   },
-  "1131_536707": {
-    "code": "SCMA30060",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "536707",
-    "memo": "",
-    "name": "數值最佳化與應用 Numerical Optimization with applications",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "薛名成",
-    "time": ""
-  },
   "1131_536708": {
     "code": "SCMA30051",
     "credit": "3.00",
@@ -29061,7 +29085,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林俊源",
-    "time": "M89W6-SC157[GF]"
+    "time": "M89W6-"
   },
   "1131_536956": {
     "code": "SCIP30043",
@@ -33789,7 +33813,7 @@
     "num_limit": "30",
     "reg_num": "0",
     "teacher": "楊子樵",
-    "time": ""
+    "time": "T34-HC104[GF]"
   },
   "1131_561500": {
     "code": "GEGE00016",
@@ -33798,7 +33822,7 @@
     "id": "561500",
     "memo": "",
     "name": "機器人與人工智慧系統探索 Exploring Robotic and Artificial Intelligent Systems",
-    "num_limit": "50",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "陳永平",
     "time": "T78-A401[GF]"
@@ -37881,7 +37905,7 @@
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "李大偉",
-    "time": "T56F2-SC207[GF]"
+    "time": "R34-SC207[GF]"
   },
   "1131_566010": {
     "code": "GECH00002",

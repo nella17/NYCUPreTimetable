@@ -2120,7 +2120,7 @@
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "254",
     "reg_num": "0",
-    "teacher": "李亭亭、蔡仁貞、童恒新、黃淑鶴、明金蓮、林淑娟",
+    "teacher": "李亭亭、童恒新、黃淑鶴、明金蓮、林淑娟",
     "time": "R78-YN418[YM]"
   },
   "1131_111815": {
@@ -2132,7 +2132,7 @@
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "254",
     "reg_num": "0",
-    "teacher": "李亭亭、蔡仁貞、鍾若男、明金蓮、林淑娟、林鳳蓮、王卿凌、盧婉菁",
+    "teacher": "李亭亭、黃淑鶴、鍾若男、明金蓮、林淑娟、王卿凌、盧婉菁、游佩玲",
     "time": "S123456-"
   },
   "1131_111816": {
@@ -2182,6 +2182,18 @@
     "reg_num": "0",
     "teacher": "楊惠如",
     "time": "Wab-YN418[YM]"
+  },
+  "1131_111820": {
+    "code": "NSDN00002",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "111820",
+    "memo": "",
+    "name": "媒體新科技與健康照護應用 媒體新科技與健康照護應用",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "胡慧蘭",
+    "time": "S234n-"
   },
   "1131_111901": {
     "code": "PSPM10054",
@@ -2371,7 +2383,7 @@
     "memo": "暑期實習課程，須修畢7學分中藥相關課程學分數，且為大三(含)以上學生可選修。",
     "name": "中藥實習 Traditional Chinese Medicine Practice Experience",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "22",
     "teacher": "姜紹青",
     "time": "SnUn-"
   },
@@ -4975,7 +4987,7 @@
     "memo": "醫二A,   醫二C, 醫技二, 藥學二合班上課",
     "name": "生物化學 Biochemistry",
     "num_limit": "9999",
-    "reg_num": "132",
+    "reg_num": "159",
     "teacher": "王琬菁、陳美瑜、鄭子豪、黃介嶸、許翺麟、姜為中",
     "time": "F34-EE129[GF],R56-EE209[GF],R56F34-YX216[YM]"
   },
@@ -5743,7 +5755,7 @@
     "memo": "藥理學課程週三56在教學大樓202教室上課、週四3456在牙105室。藥理實驗課程週四5678節請至實驗大樓D2大實驗室。",
     "name": "藥理學 Pharmacology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "王湘翠、黃金洲、林滿玉、李新城、鄭宏志、霍德義、駱雨利、張世霖、胡德民、黃自強、張婷婷、兵岳忻、嚴錦城、吳昭慶、洪舜郁、呂至剛、沈郁強、張豫立、王笙帆、周士傑、葉翰宜",
     "time": "R3456-YD105[YM],W56-YT202[YM]"
   },
@@ -5755,7 +5767,7 @@
     "memo": "牙三與藥理所合班，週四5678節上課，上課日期請參照藥理學整合課表。可英語授課開放外籍生選修。",
     "name": "藥理學實驗 Pharmacology Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "王湘翠",
     "time": "R789a-YED214[YM]"
   },
@@ -5972,7 +5984,7 @@
     "name": "物質使用與公共衛生 Substance Use and Public Health",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳娟瑜、王先逸、陳為堅、郭柏秀、王聲昌",
+    "teacher": "陳娟瑜、陳嘉新、王先逸、陳為堅、郭柏秀、王聲昌",
     "time": "W12-YS221[YM]"
   },
   "1131_130206": {
@@ -8216,7 +8228,7 @@
     "name": "口腔癌基因體學 Genomic Studies in Oral Cancers",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "林姝君、黎萬君、涂曦丰、林宥成、張婷菡",
+    "teacher": "林姝君、黎萬君、涂曦丰、洪凱風、林宥成、張婷菡、洪佩詩、周忠憲",
     "time": "F567-YD302[YM]"
   },
   "1131_131507": {
@@ -11792,7 +11804,7 @@
     "name": "老年生理變化與照護議題 Physiological Changes and Care Issues in the Elderly",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳喬男、楊曼華",
+    "teacher": "陳喬男、楊曼華、林承霈",
     "time": "R56-YN109[YM]"
   },
   "1131_133510": {
@@ -13484,7 +13496,7 @@
     "name": "健康資訊科技實習 Health technology Practice",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "侯宜菁、李亭亭",
+    "teacher": "李亭亭",
     "time": "W12345678-"
   },
   "1131_150204": {
@@ -13960,11 +13972,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161026",
-    "memo": "[1] 本課程不開放隨班附讀。\n[2] 本課程上課地點為臺北陽明校區；首週上課時間為 09/05（四）14:00-16:00。\n[3] 本課程含「課前說明會」、「課堂講授」（含基礎知能講授、田野踏查、技能實作、成果整合）、「期末成果展」三階段，課程資源寶貴，修習本課程之同學須務必全程到課，表現與出席為重要指標，如需請假，請提供相關證明。\n[4] 本課程為全實體課程，請位在非開課校區之同學留意每週上課時間、地點與通勤所需時間（校內接駁車資訊：https://tinyurl.com/mwcn9f7t）。\n[5] 本課程含校外教學與參訪，請同學們留意當周課程時間以預做自身時間規劃和調整。",
+    "memo": "[1] 本課程不開放隨班附讀。\n[2] 本課程上課地點為臺北陽明校區；首週上課時間為 09/05（四）14:00-16:00。\n[3] 本課程含「課前說明會」、「課堂講授」（含基礎知能講授、田野踏查、技能實作、成果整合）、「期末成果展」三階段，課程資源寶貴，修習本課程之同學須務必全程到課，表現與出席為重要指標，如需請假，請提供相關證明。\n[4] 本課程為全實體課程，請位在非開課校區之同學留意每週上課時間、地點與通勤所需時間（校內接駁車資訊：https://tinyurl.com/mwcn9f7t）。\n[5] 本課程含校外教學與參訪，請同學們留意當周課程時間以預做自身時間規劃和調整。\n[6] 如有選課與課程進行等相關問題，請洽本課程教學助理或博雅書苑課程承辦人范先生（Email: rxfan@nycu.edu.tw / 校內分機：65285）。",
     "name": "課．城市：走進士林與天母 From Campus to City : Walk Into Shilin and Tienmu",
     "num_limit": "0",
     "reg_num": "0",
-    "teacher": "洪紹洋、張立鴻",
+    "teacher": "洪紹洋、林伶美、張立鴻",
     "time": "R5678-YX502[YM]"
   },
   "1131_161027": {
@@ -14109,7 +14121,7 @@
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "秦先玉",
-    "time": "R12-YT204[YM]"
+    "time": "R12-YT205[YM]"
   },
   "1131_161039": {
     "code": "GECE00189",
@@ -14349,7 +14361,7 @@
     "num_limit": "18",
     "reg_num": "0",
     "teacher": "沈明珠",
-    "time": "W56-YX201[YM]"
+    "time": "T56-YX201[YM]"
   },
   "1131_162001": {
     "code": "GELW00010",
@@ -14361,7 +14373,7 @@
     "num_limit": "18",
     "reg_num": "0",
     "teacher": "沈明珠",
-    "time": "W78-YX201[YM]"
+    "time": "T78-YX201[YM]"
   },
   "1131_162002": {
     "code": "GELW00006",
@@ -14464,7 +14476,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162010",
-    "memo": "[English Medium Course]初選限藥學二，全英文授課，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course]初選第一、二階段限藥學二，全英文授課，為維持教學品質，限制修課人數。",
     "name": "英國浪漫詩歌賞析 British Romantic Poetry",
     "num_limit": "35",
     "reg_num": "0",
@@ -14476,7 +14488,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162011",
-    "memo": "[English Medium Course]醫學系大二英文課程，非通識(語言與溝通－英文)課程，全英語教學，初選階段限醫學系二年級選修，「英國浪漫詩歌賞析」、「科學英文」或「英語口說訓練:演講與簡報」三門課程擇一修讀，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course]醫學系大二英文課程，非通識(語言與溝通－英文)課程，全英語教學，初選第一、二階段限醫學系二年級選修，「英國浪漫詩歌賞析」、「科學英文」或「英語口說訓練:演講與簡報」三門課程擇一修讀，為維持教學品質，限制修課人數。",
     "name": "英國浪漫詩歌賞析 British Romantic Poetry",
     "num_limit": "35",
     "reg_num": "0",
@@ -14572,7 +14584,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162019",
-    "memo": "[English Medium Course][English Medium Course]醫學系大二英文課程，非通識(語言與溝通－英文)課程，全英語教學，初選階段限醫學系二年級選修，「英國浪漫詩歌賞析」、「科學英文」或「英語口說訓練:演講與簡報」三門課程擇一修讀，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course][English Medium Course]1.醫學系大二英文課程，非通識(語言與溝通－英文)課程，全英語教學，初選第一、二階段限醫學系二年級選修，「英國浪漫詩歌賞析」、「科學英文」或「英語口說訓練:演講與簡報」三門課程擇一修讀，為維持教學品質，限制修課人數。 2.大一選修過相同課程不得選修此課程。",
     "name": "英語口說訓練：演講與簡報 English Speaking practice: English Public Speaking and Presentation",
     "num_limit": "35",
     "reg_num": "0",
@@ -14584,7 +14596,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162020",
-    "memo": "[English Medium Course]醫學系大二英文課程，非通識(語言與溝通－英文)課程，全英語教學，初選階段限醫學系二年級選修，「英國浪漫詩歌賞析」、「科學英文」或「英語口說訓練:演講與簡報」三門課程擇一修讀，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course]1.醫學系大二英文課程，非通識(語言與溝通－英文)課程，全英語教學，初選第一、二階段限醫學系二年級選修，「英國浪漫詩歌賞析」、「科學英文」或「英語口說訓練:演講與簡報」三門課程擇一修讀，為維持教學品質，限制修課人數。 2.大一選修過相同課程不得選修此課程。",
     "name": "英語口說訓練：演講與簡報 English Speaking practice: English Public Speaking and Presentation",
     "num_limit": "35",
     "reg_num": "0",
@@ -14596,7 +14608,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162021",
-    "memo": "[English Medium Course] \n1.醫學系大二英文課程，非通識(語言與溝通－英文)課程，全英語教學，初選階段限醫學系二年級選修，「英國浪漫詩歌賞析」、「科學英文」或「英語口說訓練:演講與簡報」三門課程擇一修讀，為維持教學品質，限制修課人數。\n2.大一選修過相同課程不得選修此課程。",
+    "memo": "[English Medium Course] \n1.醫學系大二英文課程，非通識(語言與溝通－英文)課程，全英語教學，初選第一、二階段限醫學系二年級選修，「英國浪漫詩歌賞析」、「科學英文」或「英語口說訓練:演講與簡報」三門課程擇一修讀，為維持教學品質，限制修課人數。2.大一選修過相同課程不得選修此課程。",
     "name": "科學英文 English for Science",
     "num_limit": "18",
     "reg_num": "0",
@@ -15080,7 +15092,7 @@
     "name": "論文專題與畢業製作(二) Graduation Project (II)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "羅烈師",
+    "teacher": "羅烈師、盧正恒",
     "time": ""
   },
   "1131_310009": {
@@ -15128,7 +15140,7 @@
     "name": "導師時間  Mentor's Hours",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "潘美玲",
+    "teacher": "張藝曦",
     "time": "W78-HK120[LJ]"
   },
   "1131_310013": {
@@ -16900,7 +16912,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "440101",
-    "memo": "[English Medium Course] Class Venue: Academia Sinica, Nankang, Taipei. For the latest course info, please refer to the program website to check the online syllabus [https://idv.sinica.edu.tw/tigpbio/]. Non-BP students are advised to read the instructions carefully before course selection: [https://forms.gle/AriKT4cHyR6cjgbA9]. If you have any questions, please contact Program Assistant Ms. Lai (tigpbio@gate.sinica.edu.tw) .",
+    "memo": "[English Medium Course] Classroom: Room 308, Institute of Statistical Science, Academia Sinica\nClass Venue: Academia Sinica, Nankang, Taipei. For the latest course info, please refer to the program website to check the online syllabus [https://idv.sinica.edu.tw/tigpbio/]. Non-BP students are advised to read the instructions carefully before course selection: [https://forms.gle/AriKT4cHyR6cjgbA9]. If you have any questions, please contact Program Assistant Ms. Lai (tigpbio@gate.sinica.edu.tw) .",
     "name": "基礎分子生物學(一) Basic Molecular Biology(I)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -16912,7 +16924,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "440102",
-    "memo": "[English Medium Course] Class Venue: Academia Sinica, Nankang, Taipei. For the latest course info, please refer to the program website to check the online syllabus [https://idv.sinica.edu.tw/tigpbio/]. Non-BP students are advised to read the instructions carefully before course selection: [https://forms.gle/AriKT4cHyR6cjgbA9]. If you have any questions, please contact Program Assistant Ms. Lai (tigpbio@gate.sinica.edu.tw) .",
+    "memo": "[English Medium Course] Classroom: Room 308, Institute of Statistical Science, Academia Sinica\nClass Venue: Academia Sinica, Nankang, Taipei. For the latest course info, please refer to the program website to check the online syllabus [https://idv.sinica.edu.tw/tigpbio/]. Non-BP students are advised to read the instructions carefully before course selection: [https://forms.gle/AriKT4cHyR6cjgbA9]. If you have any questions, please contact Program Assistant Ms. Lai (tigpbio@gate.sinica.edu.tw) .",
     "name": "生物序列分析與高通量技術 Sequencing technology and high-throughput data analysis",
     "num_limit": "9999",
     "reg_num": "0",
@@ -16936,7 +16948,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "440104",
-    "memo": "[English Medium Course]\nTIGP Bioinformatics Program , Academia Sinica",
+    "memo": "[English Medium Course]\nOnline (Skype): https://join.skype.com/ycvKdxnlMeku\nTIGP Bioinformatics Program , Academia Sinica",
     "name": "專題演講 Student Presentation",
     "num_limit": "9999",
     "reg_num": "0",
@@ -16948,7 +16960,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "440105",
-    "memo": "[English Medium Course]\nTIGP Bioinformatics Program , Academia Sinica",
+    "memo": "[English Medium Course]\nClassroom: Auditorium, B1F, Institute of Statistical Science, Academia Sinica.\nTIGP Bioinformatics Program , Academia Sinica",
     "name": "博士班書報討論 Seminar",
     "num_limit": "9999",
     "reg_num": "0",
@@ -16960,7 +16972,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "440106",
-    "memo": "[English Medium Course] Class Venue: Academia Sinica, Nankang, Taipei. For the latest course info, please refer to the program website to check the online syllabus [https://idv.sinica.edu.tw/tigpbio/]. Non-BP students are advised to read the instructions carefully before course selection: [https://forms.gle/AriKT4cHyR6cjgbA9]. If you have any questions, please contact Program Assistant Ms. Lai (tigpbio@gate.sinica.edu.tw) .",
+    "memo": "[English Medium Course] Classroom: Room 308, Institute of Statistical Science, Academia Sinica\nClass Venue: Academia Sinica, Nankang, Taipei. For the latest course info, please refer to the program website to check the online syllabus [https://idv.sinica.edu.tw/tigpbio/]. Non-BP students are advised to read the instructions carefully before course selection: [https://forms.gle/AriKT4cHyR6cjgbA9]. If you have any questions, please contact Program Assistant Ms. Lai (tigpbio@gate.sinica.edu.tw) .",
     "name": "生物機器學習 Machine Learning in Computational Biology",
     "num_limit": "9999",
     "reg_num": "0",
@@ -16972,7 +16984,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "440107",
-    "memo": "[English Medium Course] Class Venue: Academia Sinica, Nankang, Taipei. For the latest course info, please refer to the program website to check the online syllabus [https://idv.sinica.edu.tw/tigpbio/]. Non-BP students are advised to read the instructions carefully before course selection: [https://forms.gle/AriKT4cHyR6cjgbA9]. If you have any questions, please contact Program Assistant Ms. Lai (tigpbio@gate.sinica.edu.tw) .",
+    "memo": "[English Medium Course] Classroom:Room 308, Institute of Statistical Science, Academia Sinica\nClass Venue: Academia Sinica, Nankang, Taipei. For the latest course info, please refer to the program website to check the online syllabus [https://idv.sinica.edu.tw/tigpbio/]. Non-BP students are advised to read the instructions carefully before course selection: [https://forms.gle/AriKT4cHyR6cjgbA9]. If you have any questions, please contact Program Assistant Ms. Lai (tigpbio@gate.sinica.edu.tw) .",
     "name": "程式語言 Programming(Python)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -17563,7 +17575,7 @@
     "memo": "限外文系[English Medium Course]，建議大二修習，其他年級依照自己需求彈性修課。",
     "name": "英國文學(一) English Literature (1)",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "胡心瑜",
     "time": "T567-F207[GF]"
   },
@@ -17575,7 +17587,7 @@
     "memo": "A組，限外文系",
     "name": "高級寫作(一) A組 Advanced Writing (1) A",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "李家沂",
     "time": "W234-F206[GF]"
   },
@@ -17587,7 +17599,7 @@
     "memo": "B組，限外文系",
     "name": "高級寫作(一) B組 Advanced Writing (1) B",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "劉辰生",
     "time": "W234-HC402[GF]"
   },
@@ -17599,7 +17611,7 @@
     "memo": "C組，限外文系",
     "name": "高級寫作(一) C組 Advanced Writing (1) C",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "周昭廷",
     "time": "W234-F207[GF]"
   },
@@ -17611,7 +17623,7 @@
     "memo": "A組，限外文系",
     "name": "高級翻譯 A組 Advanced Translation A",
     "num_limit": "27",
-    "reg_num": "0",
+    "reg_num": "24",
     "teacher": "陳韙寧",
     "time": "R34-HC401[GF]"
   },
@@ -17623,7 +17635,7 @@
     "memo": "B組，限外文系",
     "name": "高級翻譯 B組 Advanced Translation B",
     "num_limit": "27",
-    "reg_num": "0",
+    "reg_num": "23",
     "teacher": "吳煒聲",
     "time": "R34-HC402[GF]"
   },
@@ -17635,7 +17647,7 @@
     "memo": "[English Medium Course]",
     "name": "語音學/音韻學 Phonetics/Phonology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "盧郁安",
     "time": "R567-F210[GF]"
   },
@@ -17671,7 +17683,7 @@
     "memo": "[English Medium Course]，建議大三修習，其他年級依照自己需求彈性修課。",
     "name": "美國文學 American Literature",
     "num_limit": "25",
-    "reg_num": "0",
+    "reg_num": "45",
     "teacher": "包德樂",
     "time": "W234-HC401[GF]"
   },
@@ -17683,7 +17695,7 @@
     "memo": "[English Medium Course]",
     "name": "句法學/語意學 Syntax/Semantics",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "45",
     "teacher": "廖秀真",
     "time": "T234-F207[GF]"
   },
@@ -17791,7 +17803,7 @@
     "memo": "C組，限外文系[English Medium Course]",
     "name": "傳達技巧工作坊(三)：討論與辯論技巧C組 Communicative Skills Workshop (3): Discussion and Debate C",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "朱品璇",
     "time": "F34-"
   },
@@ -17827,7 +17839,7 @@
     "memo": "A組，限外文系[English Medium Course]",
     "name": "傳達技巧工作坊(三)：討論與辯論技巧A組 Communicative Skills Workshop (3): Discussion and Debate A",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "林建國",
     "time": "F34-HC402[GF]"
   },
@@ -17839,7 +17851,7 @@
     "memo": "B組，限外文系[English Medium Course]",
     "name": "傳達技巧工作坊(三)：討論與辯論技巧B組 Communicative Skills Workshop (3): Discussion and Debate B",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "包德樂",
     "time": "F34-HC401[GF]"
   },
@@ -18200,7 +18212,7 @@
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
     "reg_num": "0",
-    "teacher": "陳建安、陳柏宏",
+    "teacher": "林容瑋、陳柏宏",
     "time": "Rabcd-"
   },
   "1131_515023": {
@@ -18537,7 +18549,7 @@
     "num_limit": "40",
     "reg_num": "0",
     "teacher": "荊鳳德",
-    "time": "T8R56-ED201[GF]"
+    "time": "R567-"
   },
   "1131_515122": {
     "code": "EEEC20013",
@@ -18789,7 +18801,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "陳伯寧",
-    "time": "T5R34-ED201[GF]"
+    "time": "M34R4-EDB01[GF]"
   },
   "1131_515144": {
     "code": "EEEC20074",
@@ -18825,7 +18837,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "林聖迪",
-    "time": "T2R56-EDB27[GF]"
+    "time": "T8R34-ED116[GF]"
   },
   "1131_515147": {
     "code": "EEEC20082",
@@ -19076,8 +19088,8 @@
     "name": "通訊原理(一) Principle of Communication Engineering (I): Analog and Digital Systems",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "電機系",
-    "time": "T2R56-ED103[GF]"
+    "teacher": "吳卓諭",
+    "time": "T34R3-ED301[GF]"
   },
   "1131_515202": {
     "code": "EEDM20004",
@@ -19447,7 +19459,7 @@
     "memo": "由專題指導老師約定討論時間及地點",
     "name": "光電工程專題(一) Special Project of Photonics (I)",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "29",
     "teacher": "光電系",
     "time": ""
   },
@@ -19459,7 +19471,7 @@
     "memo": "1.本系跨域學程學生必修 2.由專題指導老師約定討論時間及地點",
     "name": "光電跨域專題 (一) X-Photonics Project (1)",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "光電系",
     "time": ""
   },
@@ -20056,7 +20068,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515623",
-    "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
+    "memo": "[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "資訊檢索與擷取 Generative Information Retrieval",
     "num_limit": "70",
     "reg_num": "0",
@@ -20085,7 +20097,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "鄭中緯",
-    "time": "T567-EE131[GF]"
+    "time": "T567-EE527[GF]"
   },
   "1131_516101": {
     "code": "ENME10005",
@@ -20169,7 +20181,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "蔡佳宏",
-    "time": "F234-EE131[GF]"
+    "time": "F234-EE527[GF]"
   },
   "1131_516108": {
     "code": "ENME10023",
@@ -21688,7 +21700,7 @@
     "credit": "4.00",
     "hours": "4.00",
     "id": "516802",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]\n跨域學程課程",
     "name": "有機化學(一) Organic Chemistry (Ｉ)",
     "num_limit": "60",
     "reg_num": "46",
@@ -21724,7 +21736,7 @@
     "credit": "4.00",
     "hours": "4.00",
     "id": "516805",
-    "memo": "",
+    "memo": "跨域學程課程",
     "name": "物理化學(一) Physical Chemistry(I)",
     "num_limit": "60",
     "reg_num": "46",
@@ -21748,7 +21760,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "516807",
-    "memo": "",
+    "memo": "跨域學程課程",
     "name": "無機化學(一) Inorganic Chemistry (1)",
     "num_limit": "60",
     "reg_num": "48",
@@ -21760,7 +21772,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "516808",
-    "memo": "",
+    "memo": "跨域學程課程",
     "name": "分析化學(二) Analytical Chemistry (2)",
     "num_limit": "60",
     "reg_num": "48",
@@ -21808,7 +21820,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "516812",
-    "memo": "",
+    "memo": "跨域學程課程",
     "name": "有機光譜分析 Spectroscopic Analysis of Organic Compounds",
     "num_limit": "50",
     "reg_num": "0",
@@ -21820,7 +21832,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "516813",
-    "memo": "限本系大三、大四同學。",
+    "memo": "限本系大三、大四同學。\n跨域學程課程",
     "name": "生物化學(一) Biochemistry (1)",
     "num_limit": "30",
     "reg_num": "0",
@@ -21832,7 +21844,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "516814",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]\n跨域學程課程",
     "name": "高分子化學 (一) Polymer Chemistry (I)",
     "num_limit": "40",
     "reg_num": "0",
@@ -23385,7 +23397,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "段正仁",
-    "time": "M678-HA216[GF]"
+    "time": "M567-HA216[GF]"
   },
   "1131_534010": {
     "code": "HSIE30066",
@@ -23397,7 +23409,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳聖昌",
-    "time": "F34-HA218[GF]"
+    "time": "T34-HA218[GF]"
   },
   "1131_534011": {
     "code": "HSIE30037",
@@ -23409,7 +23421,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "段正仁",
-    "time": "W56-HA218[GF]"
+    "time": "T56-HA216[GF]"
   },
   "1131_534012": {
     "code": "HSIE30007",
@@ -23505,7 +23517,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳聖昌",
-    "time": "T34-HA218[GF]"
+    "time": "F34-HA218[GF]"
   },
   "1131_534020": {
     "code": "HSIE30064",
@@ -24777,7 +24789,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "辛幸純、李俊穎、李奉書、李珮琪、徐伯年、張先惠、林薏蕙、孫建如、黃郁婷、潘世洵、許佳穎、陳昱翰、謝孟軒",
-    "time": ""
+    "time": "Wa-HC615[GF]"
   },
   "1131_534808": {
     "code": "HSIM30067",
@@ -24861,7 +24873,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "蘇晶晶",
-    "time": ""
+    "time": "Fa-HC604[GF]"
   },
   "1131_534815": {
     "code": "HSIM30077",
@@ -24885,7 +24897,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "李子聲",
-    "time": ""
+    "time": "Ra-HC512[GF]"
   },
   "1131_534817": {
     "code": "HSIM30074",
@@ -24897,7 +24909,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "羅芳偉",
-    "time": ""
+    "time": "Ma-HC512[GF]"
   },
   "1131_534818": {
     "code": "HSIM30050",
@@ -24909,7 +24921,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "曾毓忠",
-    "time": ""
+    "time": "Wa-HC512[GF]"
   },
   "1131_534819": {
     "code": "HSIM30080",
@@ -24921,7 +24933,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "曾毓忠",
-    "time": ""
+    "time": "Wb-HC512[GF]"
   },
   "1131_534820": {
     "code": "HSIM30049",
@@ -24933,7 +24945,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "董昭民",
-    "time": ""
+    "time": "Ta-HC512[GF]"
   },
   "1131_534821": {
     "code": "HSIM30051",
@@ -24945,7 +24957,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "董昭民",
-    "time": ""
+    "time": "Tb-HC512[GF]"
   },
   "1131_534822": {
     "code": "HSIM30079",
@@ -24957,7 +24969,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "董昭民",
-    "time": ""
+    "time": "Rb-HC512[GF]"
   },
   "1131_534823": {
     "code": "HSIM30079",
@@ -24969,7 +24981,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "羅芳偉",
-    "time": ""
+    "time": "Mb-HC512[GF]"
   },
   "1131_534824": {
     "code": "HSIM30054",
@@ -24981,7 +24993,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "辛幸純",
-    "time": ""
+    "time": "Ta-HC604[GF]"
   },
   "1131_534825": {
     "code": "HSIM30054",
@@ -24993,7 +25005,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "許佳穎",
-    "time": ""
+    "time": "Ta-HC605[GF]"
   },
   "1131_534826": {
     "code": "HSIM30054",
@@ -25005,7 +25017,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "孫建如",
-    "time": ""
+    "time": "Ma-HC605[GF]"
   },
   "1131_534827": {
     "code": "HSIM30055",
@@ -25017,7 +25029,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "李俊穎",
-    "time": ""
+    "time": "Ma-HC603[GF]"
   },
   "1131_534828": {
     "code": "HSIM30055",
@@ -25029,7 +25041,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "黃郁婷",
-    "time": ""
+    "time": "Ra-HC603[GF]"
   },
   "1131_534829": {
     "code": "HSIM30056",
@@ -25041,7 +25053,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "潘世洵",
-    "time": ""
+    "time": "Fa-HC603[GF]"
   },
   "1131_534830": {
     "code": "HSIM30057",
@@ -25053,7 +25065,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳昱翰",
-    "time": ""
+    "time": "Ma-HC615[GF]"
   },
   "1131_534831": {
     "code": "HSIM30057",
@@ -25065,7 +25077,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "謝孟軒",
-    "time": ""
+    "time": "Ma-HC616[GF]"
   },
   "1131_534832": {
     "code": "HSIM30058",
@@ -25077,7 +25089,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "徐伯年",
-    "time": ""
+    "time": "Ta-HC601[GF]"
   },
   "1131_534833": {
     "code": "HSIM30059",
@@ -25089,7 +25101,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林薏蕙",
-    "time": ""
+    "time": "Wa-HC605[GF]"
   },
   "1131_534834": {
     "code": "HSIM30060",
@@ -25101,7 +25113,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林慶俊",
-    "time": ""
+    "time": "Wa-HC616[GF]"
   },
   "1131_534835": {
     "code": "HSIM30061",
@@ -25113,7 +25125,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "李珮琪",
-    "time": ""
+    "time": "Ta-HC615[GF]"
   },
   "1131_534836": {
     "code": "HSIM30062",
@@ -25125,7 +25137,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "張先惠",
-    "time": ""
+    "time": "Ta-HC616[GF]"
   },
   "1131_535100": {
     "code": "EEEE30025",
@@ -25713,7 +25725,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳福川",
-    "time": "T8R56-EE105[GF]"
+    "time": "T567-EE105[GF]"
   },
   "1131_535307": {
     "code": "EECN30099",
@@ -27969,7 +27981,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "待聘",
-    "time": "M234-EB227[GF]"
+    "time": "M567-EB107[GF]"
   },
   "1131_536300": {
     "code": "ENMS30026",
@@ -28523,6 +28535,18 @@
     "teacher": "傅恆霖",
     "time": "W234-SA223[GF]"
   },
+  "1131_536703": {
+    "code": "SCMA30066",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "536703",
+    "memo": "[English Medium Course]",
+    "name": "離散數學專題 Topics in Discrete Maths.",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林武雄",
+    "time": "M56-SA213[GF]"
+  },
   "1131_536704": {
     "code": "SCMA30033",
     "credit": "3.00",
@@ -28768,7 +28792,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "536810",
-    "memo": "",
+    "memo": "跨域學程課程",
     "name": "固態化學 Solid State Chemistry",
     "num_limit": "9999",
     "reg_num": "0",
@@ -28780,7 +28804,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "536811",
-    "memo": "",
+    "memo": "跨域學程課程",
     "name": "生物技術特論 Molecular Biotechnology",
     "num_limit": "9999",
     "reg_num": "0",
@@ -30117,7 +30141,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "鍾惠民、梁婉麗",
-    "time": "M567-"
+    "time": "M567-M115[GF]"
   },
   "1131_537707": {
     "code": "MGIF30043",
@@ -30141,7 +30165,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "黃思皓",
-    "time": "Wabc-M101[GF]"
+    "time": "R89a-M101[GF]"
   },
   "1131_537709": {
     "code": "MGIF30013",
@@ -30165,7 +30189,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "鍾惠民、王燈山",
-    "time": "Rabc-"
+    "time": "Rabc-M116[GF]"
   },
   "1131_537711": {
     "code": "MGIF30033",
@@ -32108,7 +32132,7 @@
     "name": "新創事業與經營策略管理 New Venture and Operating Strategy Management",
     "num_limit": "16",
     "reg_num": "0",
-    "teacher": "陳宗岡、劉福運",
+    "teacher": "陳宗岡、郭國泰、劉福運",
     "time": "Mabc-M205[GF]"
   },
   "1131_557400": {
@@ -32668,12 +32692,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557917",
-    "memo": "[English Medium Course] 英文授課\n新竹、台北實體，網路同步班\n開放大三以上同學選修",
+    "memo": "新竹、台北實體，網路同步班\n開放大三以上同學選修",
     "name": "證據法 U.S. Evidence Law",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "金孟華、王緯華",
-    "time": "S678-MB1063[GF],S678-TA505[BM]"
+    "time": "U567-MB1063[GF],U567-TA505[BM]"
   },
   "1131_557918": {
     "code": "LWLW30086",
@@ -32944,7 +32968,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561009",
-    "memo": "「大數據分析入門與實務研討」不接受修過「機器學習」同學修讀。同學請自備筆，額滿不加簽。",
+    "memo": "「大數據分析入門與實務研討」不接受修過「機器學習」同學修讀。同學請自備筆電，額滿不加簽。",
     "name": "大數據分析入門與實務研討 Basic and Practice of Big Data Analytics",
     "num_limit": "30",
     "reg_num": "0",
@@ -32956,7 +32980,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561010",
-    "memo": "「大數據分析入門與實務研討」不接受修過「機器學習」同學修讀。",
+    "memo": "「大數據分析入門與實務研討」不接受修過「機器學習」同學修讀。額滿不加簽。",
     "name": "大數據分析入門與實務研討 Basic and Practice of Big Data Analytics",
     "num_limit": "0",
     "reg_num": "0",
@@ -33256,7 +33280,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561035",
-    "memo": "陽明校區同學以遠距視訊方式上課，初選第一階段開放50人給交大校區同學選課；初選第二階段開放50人給陽明校區同學選課。",
+    "memo": "陽明校區同學以遠距視訊方式上課，初選第一階段開放38人給交大校區同學選課；初選第二階段開放38人給陽明校區同學選課。",
     "name": "天文學概論 Introduction to Astronomy",
     "num_limit": "38",
     "reg_num": "0",
@@ -33330,7 +33354,7 @@
     "id": "561041",
     "memo": "「造型與繪圖」不接受已修過「幾何造形」的同學選讀。",
     "name": "造型與繪圖 Patterning and Drawing",
-    "num_limit": "31",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "陳明璋",
     "time": "F12-CS-PC2[GF]"
@@ -33741,7 +33765,7 @@
     "num_limit": "30",
     "reg_num": "0",
     "teacher": "許鶯珠",
-    "time": "R78-A204[GF]"
+    "time": "R78-A213[GF]"
   },
   "1131_561076": {
     "code": "GECG10050",

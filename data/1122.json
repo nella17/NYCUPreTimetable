@@ -5325,7 +5325,7 @@
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "周立偉、施怡芬、林珊如、蔣志豪、邵芙昕、陳俊年、黃安華、黃湘茹",
-    "time": ""
+    "time": "WyzRyz-"
   },
   "1122_112263": {
     "code": "BEPT10012",
@@ -5373,7 +5373,7 @@
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "周立偉、施怡芬、林珊如、蔣志豪、邵芙昕、陳俊年、黃安華、黃湘茹",
-    "time": ""
+    "time": "MyzTyz-"
   },
   "1122_112269": {
     "code": "BEPT00002",
@@ -12739,7 +12739,7 @@
     "memo": "",
     "name": "論文研究(博四) Research Review of Thesis DI",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "王錦鈿、牛道明、李光申、楊慕華、黃奇英、黃怡翔、黃柏勳、李美璇、陳世彬、楊智宇、陳斯婷、賴峻毅、謝世良、吳肇卿",
     "time": "U1-"
   },
@@ -12751,7 +12751,7 @@
     "memo": "",
     "name": "專題討論(博士班二) Seminar DII",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "臨醫所博、牛道明、王錦鈿、李光申、楊慕華、黃怡翔、李美璇、陳世彬、楊智宇、嵇達德、陳斯婷、賴峻毅、謝世良、吳肇卿",
     "time": "R78-"
   },
@@ -25891,7 +25891,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "364",
+    "reg_num": "363",
     "teacher": "資科工所",
     "time": ""
   },
@@ -26167,7 +26167,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "106",
+    "reg_num": "105",
     "teacher": "網工所",
     "time": ""
   },
@@ -26251,7 +26251,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "107",
+    "reg_num": "106",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -26395,7 +26395,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "資通安全",
     "time": ""
   },
@@ -37867,7 +37867,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "68",
+    "reg_num": "67",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },

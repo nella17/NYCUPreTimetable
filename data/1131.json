@@ -6775,7 +6775,7 @@
     "memo": "碩、博士班必選",
     "name": "衛生福利專題討論(A) Seminar on Health and Welfare Research (A)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "簡麗年",
     "time": "T56-YN613[YM]"
   },
@@ -6823,7 +6823,7 @@
     "memo": "碩、博士班必選",
     "name": "衛生福利專題討論(B) Seminar on Health and Welfare Research (B)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "林文旭、喬芷、藍凡耘",
     "time": "T56-YN611[YM]"
   },
@@ -8900,7 +8900,7 @@
     "name": "細胞色素P450藥物代謝特論 Special topics on cytochrome P450 in drug metabolism",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "翁芸芳、常敏之、蔡世峯、王鴻展、林益生",
+    "teacher": "翁芸芳、常敏之、蔡世峯、徐宗溢、王鴻展、林益生",
     "time": "F56-YK436[YM]"
   },
   "1131_132010": {
@@ -8960,7 +8960,7 @@
     "name": "專題討論 Seminar",
     "num_limit": "50",
     "reg_num": "11",
-    "teacher": "黃世宗、王孟廷、姜紹青、東雅惠、陳謄州、許銘能、周月卿、張豫立、陳寬軒、許家禎、周千瀅、王笙帆",
+    "teacher": "黃世宗、王孟廷、姜紹青、東雅惠、陳謄州、許銘能、周月卿、張豫立、陳寬軒、鄒嘉玲、許家禎、周千瀅、何沁沁、林于瑄、王笙帆",
     "time": "F34-YL402[YM]"
   },
   "1131_132015": {
@@ -8995,7 +8995,7 @@
     "memo": "甲組學生上課於守仁105教室，乙丙組同學請勿選擇[English Medium Course]",
     "name": "專題討論 Seminar",
     "num_limit": "254",
-    "reg_num": "6",
+    "reg_num": "7",
     "teacher": "林宥欣、林滿玉、胡德民、康照洲、陳日榮、陳惠亭、廖曉偉、蘇溶真",
     "time": "F34-YR105[YM]"
   },
@@ -13878,7 +13878,7 @@
     "id": "161018",
     "memo": "",
     "name": "科學與哲學跨領域研究：分子生物學的哲學 Multidisciplinary Research in Science and Philosophy: Philosophy of Molecular Biology",
-    "num_limit": "0",
+    "num_limit": "18",
     "reg_num": "0",
     "teacher": "蔡有光、鄭凱元",
     "time": "R12-YT304[YM]"
@@ -13902,7 +13902,7 @@
     "id": "161020",
     "memo": "[English Medium Course]全英語授課",
     "name": "女性的東亞史 Women in East Asia",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "嚴曉珮",
     "time": "R56-YT104[YM]"
@@ -13914,7 +13914,7 @@
     "id": "161021",
     "memo": "實地線上混合教學課程 (陽明校區：YX101；交大校區：線上，請向教師索取線上連結)",
     "name": "經濟學 Economics",
-    "num_limit": "0",
+    "num_limit": "18",
     "reg_num": "0",
     "teacher": "梁立霖",
     "time": "M56-YX201[YM]"
@@ -13926,7 +13926,7 @@
     "id": "161022",
     "memo": "",
     "name": "經濟學 Economics",
-    "num_limit": "0",
+    "num_limit": "18",
     "reg_num": "0",
     "teacher": "蒲正筠、周穎政",
     "time": "R34-YT104[YM]"
@@ -13938,7 +13938,7 @@
     "id": "161023",
     "memo": "",
     "name": "人腦心智運作與歷程 introduction to cognitive neuroscience and its methodology",
-    "num_limit": "0",
+    "num_limit": "18",
     "reg_num": "0",
     "teacher": "郭文瑞",
     "time": "T12-YL402[YM]"
@@ -13986,7 +13986,7 @@
     "id": "161027",
     "memo": "",
     "name": "安全衛生通識教育 General Knowledge of Safety Health",
-    "num_limit": "0",
+    "num_limit": "18",
     "reg_num": "0",
     "teacher": "張榮偉、吳威德",
     "time": "W78-YT304[YM]"
@@ -13998,7 +13998,7 @@
     "id": "161028",
     "memo": "大學部為選修通識課程請學生自行選課；碩、博士班修課意願，因修課人數有限，請填寫申請表: https://forms.gle/1wt6ZhH17Z5pWrT19 ，會由後端開課單位協助加選。\n\n本課程為跨校區課程: 陽明校區教學大樓305 教室、交大校區管理2館 1069教室；不開放加簽。",
     "name": "食品安全與生活 Food Safety and Life",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "陳美蓮、陳鋕雄、賈文宇",
     "time": "R34-MB1069[GF],R34-YT305[YM]"
@@ -14010,7 +14010,7 @@
     "id": "161029",
     "memo": "陽明校區實體授課",
     "name": "歷代文選 Readings of Selected Chinese Literature",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "賈元圓",
     "time": "M12-YT205[YM]"
@@ -14022,7 +14022,7 @@
     "id": "161030",
     "memo": "陽明校區實體授課",
     "name": "歷代文選 Readings of Selected Chinese Literature",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "賈元圓",
     "time": "M34-YT205[YM]"
@@ -14034,7 +14034,7 @@
     "id": "161031",
     "memo": "陽明校區實體授課；如需加簽者，務必出席第一堂課程說明",
     "name": "歷代詞曲選 Readings in Tz’u and Ch’u",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "楊芮芳",
     "time": "T12-YT303[YM]"
@@ -14046,7 +14046,7 @@
     "id": "161032",
     "memo": "陽明校區實體授課；如需加簽者，務必出席第一堂課程說明",
     "name": "電影與文學 Cinema and Literature",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "楊芮芳",
     "time": "T34-YT303[YM]"
@@ -14058,7 +14058,7 @@
     "id": "161033",
     "memo": "",
     "name": "世界文明興起與轉型 The Rise And Transformation of  World  Civilization",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "洪德先",
     "time": "T12-YX201[YM]"
@@ -14070,7 +14070,7 @@
     "id": "161034",
     "memo": "",
     "name": "公共政策 Public Policy",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "彭懷恩",
     "time": "F34-YT104[YM]"
@@ -14082,7 +14082,7 @@
     "id": "161035",
     "memo": "",
     "name": "政治學 Political Science",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "彭懷恩",
     "time": "F56-YT104[YM]"
@@ -14094,7 +14094,7 @@
     "id": "161036",
     "memo": "112-1學期採行線上教學，請向教師索取線上連結；不開放加簽",
     "name": "民法生活百科 Encyclopedia of the Civil Law",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "劉俊良",
     "time": "T34-"
@@ -14106,7 +14106,7 @@
     "id": "161037",
     "memo": "如需加簽者，務必出席第一堂課程說明",
     "name": "面對治不好的病—生命末期照顧的醫學 Palliative Medicine",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "賴允亮",
     "time": "R12-YT104[YM]"
@@ -14118,7 +14118,7 @@
     "id": "161038",
     "memo": "陽明校區實體授課；如需加簽者，務必出席第一堂課程說明",
     "name": "日常生活、科技與社會 Technology and Everyday Life",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "秦先玉",
     "time": "R12-YT205[YM]"
@@ -14130,7 +14130,7 @@
     "id": "161039",
     "memo": "視訊同步遠距課程，(陽明校區：YX201，交大校區：CS100)；如需加簽者，務必出席第一堂課程說明",
     "name": "翻轉管理學 A Critical Understanding of Management",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "徐詩偉",
     "time": "F34-A103[GF],F34-YX201[YM]"
@@ -14142,7 +14142,7 @@
     "id": "161040",
     "memo": "視訊同步遠距課程 (陽明校區：YT301；交大校區：CS100)；如需加簽者，務必出席第一堂課程說明",
     "name": "翻轉管理學 A Critical Understanding of Management",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "徐詩偉",
     "time": "F56-A103[GF],F56-YT301[YM]"
@@ -14154,7 +14154,7 @@
     "id": "161041",
     "memo": "",
     "name": "日治時期臺灣文學與時代進展 Literary Works under the Japanese Rule and the Developing of the Times",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "王敬翔",
     "time": "T12-YT305[YM]"
@@ -14166,7 +14166,7 @@
     "id": "161043",
     "memo": "",
     "name": "東南亞各國經濟、社會與文化 State Economics, Societies and Culture in Southeast Asia",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "林若雩",
     "time": "T12-YT206[YM]"
@@ -14178,7 +14178,7 @@
     "id": "161044",
     "memo": "",
     "name": "美國印太戰略與臺灣未來的角色 U.S. Indo-Pacific Strategy and Taiwan’s Future Role",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "林若雩",
     "time": "T34-YT206[YM]"
@@ -14190,7 +14190,7 @@
     "id": "161045",
     "memo": "視訊同步遠距課程 (陽明校區：YX201；交大校區：CS100)",
     "name": "臺灣政治概論 Introduction to Taiwan Politics",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "彭立忠",
     "time": "R12-A103[GF],R12-YX201[YM]"
@@ -14202,7 +14202,7 @@
     "id": "161046",
     "memo": "陽明校區實體授課",
     "name": "永續治理 Governance for Sustenbility",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "李河清",
     "time": "R78-YX201[YM]"
@@ -14226,7 +14226,7 @@
     "id": "161048",
     "memo": "",
     "name": "現代國際經濟議題 The Modern International Economic Topics",
-    "num_limit": "0",
+    "num_limit": "18",
     "reg_num": "0",
     "teacher": "曾憲政",
     "time": "M78-YT206[YM]"
@@ -14238,7 +14238,7 @@
     "id": "161049",
     "memo": "不開放加簽",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
-    "num_limit": "0",
+    "num_limit": "8",
     "reg_num": "0",
     "teacher": "洪紹洋",
     "time": "F34-YX202[YM]"
@@ -14250,7 +14250,7 @@
     "id": "161050",
     "memo": "",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
-    "num_limit": "0",
+    "num_limit": "8",
     "reg_num": "0",
     "teacher": "徐詩偉",
     "time": "F78-YX202[YM]"
@@ -14262,7 +14262,7 @@
     "id": "161051",
     "memo": "",
     "name": "比較東西方自然哲學與古醫學觀 Comparison of Eastern & Western Natural Philosophy and View of Ancient Medicine",
-    "num_limit": "0",
+    "num_limit": "25",
     "reg_num": "0",
     "teacher": "陳方佩、張清貿、楊仁鄰、吳大鵬",
     "time": "T34-YT202[YM]"
@@ -14274,7 +14274,7 @@
     "id": "161052",
     "memo": "如需加簽者，務必出席第一堂課程說明",
     "name": "生活中的行為科學 Behavior Science in Life",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "林文旭",
     "time": "R12-YT206[YM]"
@@ -14286,7 +14286,7 @@
     "id": "161053",
     "memo": "",
     "name": "時間概念跨領域導論 A Cross-Disciplinary Introduction to Ideas of Time",
-    "num_limit": "0",
+    "num_limit": "18",
     "reg_num": "0",
     "teacher": "勞維俊",
     "time": "R34-YT205[YM]"
@@ -14298,7 +14298,7 @@
     "id": "161054",
     "memo": "實地線上混合教學課程 (陽明校區：YT304；交大校區：線上，請向教師索取線上連結)",
     "name": "哲學概論 Introduction to Philosophy",
-    "num_limit": "0",
+    "num_limit": "18",
     "reg_num": "0",
     "teacher": "鄭凱元",
     "time": "R34-YT304[YM]"
@@ -14310,7 +14310,7 @@
     "id": "161055",
     "memo": "[English Medium Course] 實地線上混合教學課程 (陽明校區：YT205；交大校區：線上，請向教師索取線上連結)",
     "name": "人工智能倫理學 The Ethics of Artificial Intelligence",
-    "num_limit": "0",
+    "num_limit": "18",
     "reg_num": "0",
     "teacher": "艾力",
     "time": "R56-YT205[YM]"
@@ -14322,7 +14322,7 @@
     "id": "161056",
     "memo": "",
     "name": "認知與道德思考 Morality and Human Cognition",
-    "num_limit": "0",
+    "num_limit": "18",
     "reg_num": "0",
     "teacher": "張立鴻",
     "time": "R34-YX503[YM]"
@@ -14502,7 +14502,7 @@
     "id": "162012",
     "memo": "[English Medium Course][1] 第一、二階段初選限護理一、醫工一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
     "name": "英語口說訓練：演講與簡報 English Speaking practice: English Public Speaking and Presentation",
-    "num_limit": "35",
+    "num_limit": "18",
     "reg_num": "0",
     "teacher": "嚴偉哲",
     "time": "W12-YX201[YM]"
@@ -14610,7 +14610,7 @@
     "id": "162021",
     "memo": "[English Medium Course] \n1.醫學系大二英文課程，非通識(語言與溝通－英文)課程，全英語教學，初選第一、二階段限醫學系二年級選修，「英國浪漫詩歌賞析」、「科學英文」或「英語口說訓練:演講與簡報」三門課程擇一修讀，為維持教學品質，限制修課人數。2.大一選修過相同課程不得選修此課程。",
     "name": "科學英文 English for Science",
-    "num_limit": "18",
+    "num_limit": "35",
     "reg_num": "0",
     "teacher": "嚴偉哲",
     "time": "W56-YX501[YM]"
@@ -18273,7 +18273,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "陳柏宏",
-    "time": "T34R78-EDB26[GF]"
+    "time": "R78-ED219[GF],T34-EE209[GF]"
   },
   "1131_515028": {
     "code": "EEEC10039",
@@ -18656,7 +18656,7 @@
     "name": "機器人系統與應用設計實作 Design and Implementation of Robotic Systems and Applications",
     "num_limit": "20",
     "reg_num": "0",
-    "teacher": "宋開泰、王學誠、王識源",
+    "teacher": "宋開泰、王識源",
     "time": "F567-EE632[GF]"
   },
   "1131_515131": {
@@ -18776,8 +18776,8 @@
     "name": "超大型積體電路設計導論 Introduction to VLSI Design",
     "num_limit": "80",
     "reg_num": "0",
-    "teacher": "電機系",
-    "time": "F678-EDB26[GF]"
+    "teacher": "曾煜輝",
+    "time": "R567-EE105[GF]"
   },
   "1131_515142": {
     "code": "EEEC20071",
@@ -18798,7 +18798,7 @@
     "id": "515143",
     "memo": "",
     "name": "通訊原理(二) Principle of Communication Engineering (II): Spread Spectrum & Coding",
-    "num_limit": "60",
+    "num_limit": "70",
     "reg_num": "0",
     "teacher": "陳伯寧",
     "time": "M34R4-EDB01[GF]"
@@ -18981,7 +18981,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "黃瑞彬",
-    "time": "T7F34-ED201[GF]"
+    "time": "T7F34-ED303[GF]"
   },
   "1131_515159": {
     "code": "EEEC20101",
@@ -19053,7 +19053,7 @@
     "num_limit": "40",
     "reg_num": "0",
     "teacher": "電機系",
-    "time": "F234-ED303[GF]"
+    "time": "F234-ED201[GF]"
   },
   "1131_515166": {
     "code": "EEEC20007",
@@ -19065,7 +19065,7 @@
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "帥宏翰",
-    "time": "R567-EE632[GF]"
+    "time": "T34n-EE208[GF]"
   },
   "1131_515167": {
     "code": "EEEC20107",
@@ -19137,7 +19137,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "",
-    "time": "T34R5-EE102[GF]"
+    "time": "T34R5-"
   },
   "1131_515206": {
     "code": "EEDM20007",
@@ -19161,7 +19161,7 @@
     "num_limit": "65",
     "reg_num": "62",
     "teacher": "李義明",
-    "time": "M78R34-EE105[GF]"
+    "time": "M78R34-"
   },
   "1131_515208": {
     "code": "EEDM10003",
@@ -19171,7 +19171,7 @@
     "memo": "[English Medium Course]",
     "name": "電磁學(一) Electromagnetism Ⅰ",
     "num_limit": "65",
-    "reg_num": "62",
+    "reg_num": "68",
     "teacher": "許恒通",
     "time": "M56W4-EE105[GF]"
   },
@@ -19207,7 +19207,7 @@
     "memo": "",
     "name": "生物化學(二) Biochemistry  Ⅱ",
     "num_limit": "27",
-    "reg_num": "25",
+    "reg_num": "27",
     "teacher": "蘭宜錚",
     "time": "F56-EE548[GF]"
   },
@@ -19219,7 +19219,7 @@
     "memo": "",
     "name": "半導體元件物理 Semiconductor Device Physics",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "49",
     "teacher": "待聘",
     "time": "T2W34-EE207[GF]"
   },
@@ -19243,7 +19243,7 @@
     "memo": "",
     "name": "類比積體電路導論 Introduction to Analog Integrated Circuits",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "待聘",
     "time": "R678-EE102[GF]"
   },
@@ -19267,9 +19267,9 @@
     "memo": "",
     "name": "電路學 Circuit Theory",
     "num_limit": "50",
-    "reg_num": "38",
+    "reg_num": "48",
     "teacher": "曹逸凡",
-    "time": "T34W78-EE208[GF]"
+    "time": "T34W78-"
   },
   "1131_515218": {
     "code": "EEDM10017",
@@ -23236,7 +23236,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "530003",
-    "memo": "此課程僅供研究生選修，是否列入畢業學分依照各系所規定。",
+    "memo": "此課程僅供研究生選修，是否列入畢業學分依照各系所規定。(保留課程暫不開放選課)",
     "name": "研究生英文:研究論文寫作 Graduate English: Research Paper Writing",
     "num_limit": "20",
     "reg_num": "0",
@@ -25749,7 +25749,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "李慶鴻",
-    "time": "T234-EE209[GF]"
+    "time": "T234-EE112[GF]"
   },
   "1131_535309": {
     "code": "EECN30124",
@@ -26013,7 +26013,7 @@
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "伍紹勳",
-    "time": "T789-ED103[GF]"
+    "time": "T567-ED201[GF]"
   },
   "1131_535360": {
     "code": "EECM30063",
@@ -28101,7 +28101,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "林欣杰",
-    "time": "T3R23-EF207[GF]"
+    "time": "W234-EF207[GF]"
   },
   "1131_536310": {
     "code": "ENMS30062",
@@ -28125,7 +28125,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "林御專",
-    "time": "M56W5-EF205[GF]"
+    "time": "M56R2-EF207[GF]"
   },
   "1131_536312": {
     "code": "ENMS30007",
@@ -33496,7 +33496,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561053",
-    "memo": "本課程期望創造醫療與科技跨領域的對話，因此選課學生設定為：第一階段陽明校區至光復校區共學生35人、第二階段光復校區學生35人",
+    "memo": "1.本課程期望創造醫療與科技跨領域的對話，因此選課學生設定為光復校區學生以及陽明校區至光復校區的共學生。2.請「陽明校區至光復校區的共學生」至https://forms.gle/BnQZGbia2SNmj17A8登記選課意願。",
     "name": "科技與醫療的人文關懷 Humanism in Technology and Medical Cares",
     "num_limit": "26",
     "reg_num": "0",
@@ -34091,18 +34091,6 @@
     "teacher": "張月菁",
     "time": "R34-A217[GF]"
   },
-  "1131_562020": {
-    "code": "GELT00022",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "562020",
-    "memo": "",
-    "name": "學術英文閱讀與討論 Academic English Reading and Discussion",
-    "num_limit": "25",
-    "reg_num": "0",
-    "teacher": "張月菁",
-    "time": "F34-A217[GF]"
-  },
   "1131_562021": {
     "code": "GELT00023",
     "credit": "2.00",
@@ -34305,7 +34293,7 @@
     "num_limit": "20",
     "reg_num": "0",
     "teacher": "楊芳盈",
-    "time": "R56-A309[GF]"
+    "time": "T34-A504[GF]"
   },
   "1131_562038": {
     "code": "GELT20026",
@@ -35170,6 +35158,54 @@
     "reg_num": "0",
     "teacher": "張玉蕙",
     "time": "F12-A308[GF]"
+  },
+  "1131_562111": {
+    "code": "GELT00034",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "562111",
+    "memo": "",
+    "name": "泰文(一) Thai I",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "W34-A214[GF]"
+  },
+  "1131_562112": {
+    "code": "GELT00034",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "562112",
+    "memo": "",
+    "name": "泰文(一) Thai I",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "W56-A209[GF]"
+  },
+  "1131_562113": {
+    "code": "GELT00036",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "562113",
+    "memo": "",
+    "name": "越南文(一) Vietnamese I",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "F56-A214[GF]"
+  },
+  "1131_562114": {
+    "code": "GELT00036",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "562114",
+    "memo": "",
+    "name": "越南文(一) Vietnamese I",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "F78-A214[GF]"
   },
   "1131_563000": {
     "code": "GEPE00001",
@@ -38086,6 +38122,42 @@
     "reg_num": "0",
     "teacher": "陳文亮、黃兆祺、鄒協成、莊碧簪",
     "time": "R567-"
+  },
+  "1131_569000": {
+    "code": "GESP00001",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "569000",
+    "memo": "企業 ESG 創意構想實務研討部分預計 2 人一隊，可選修前自行組隊或課堂中再組隊均可。確認選修時請加入 https://www.facebook.com/groups/isp202409。第二週時若未進入社團，將由選課名單中移除，以便把名額讓給其他同學。",
+    "name": "永續概論與實務 Introduction to Sustainability and Practices",
+    "num_limit": "16",
+    "reg_num": "0",
+    "teacher": "高正忠",
+    "time": "T567-EV307[GF]"
+  },
+  "1131_569001": {
+    "code": "GESP00002",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "569001",
+    "memo": "",
+    "name": "永續趨勢入門 Introduction to Sustainable Trends",
+    "num_limit": "50",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "W34-A204[GF]"
+  },
+  "1131_569002": {
+    "code": "GESP00003",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "569002",
+    "memo": "[English Medium Course]\n開課教師：Bernard Amadei\n本課程為密集課程，為期約2個月。課程分實體授課及線上授課兩部分。\n實體授課（6–7週）：10月底至12月上旬；線上授課（1–2週）：12月上旬至12月中。",
+    "name": "工程與社會的系統方法 A Systems Approach to Engineering and Society",
+    "num_limit": "110",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "T78R56-HB110[GF]"
   },
   "1131_571001": {
     "code": "GESL00008",

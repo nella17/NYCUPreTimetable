@@ -1099,7 +1099,7 @@
     "memo": "醫師工程師組導師時間，上課地點視導師安排。",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "11",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "楊懷哲",
     "time": "W78-"
   },
@@ -1987,7 +1987,7 @@
     "memo": "實際導生課時間請依導師公告。",
     "name": "開發-人﹑生活﹑生命 Development-Human Being, Living, Life",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "蔡慈儀、陳俞琪、廖媛美、劉佩青",
     "time": "Wcd-YN418[YM]"
   },
@@ -1999,7 +1999,7 @@
     "memo": "",
     "name": "成人護理學Ⅰ Adult NursingⅠ",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "孫秀卿、陳俞琪、蔡仁貞、廖媛美、童恒新、胡慧蘭、黃淑鶴、楊曼華、侯宜菁、陳律言、廖淑櫻、童惠芳",
     "time": "M1234T1234W1234-"
   },
@@ -2035,7 +2035,7 @@
     "memo": "",
     "name": "成人護理學Ⅱ Adult NursingⅡ",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "胡慧蘭、孫秀卿、陳俞琪、廖媛美、黃淑鶴、楊曼華、侯宜菁、陳律言、廖淑櫻、童惠芳、徐月霜",
     "time": "M5678T5678W5678-YN416[YM]"
   },
@@ -2071,7 +2071,7 @@
     "memo": "",
     "name": "社區衛生護理學 Community Health Nursing",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "王子芳、黃子庭、簡莉盈、陳紀雯、周承珍、林承霈、張芬娥、周明慧",
     "time": "M12345678T12345678W12345678-YN301[YM]"
   },
@@ -2119,7 +2119,7 @@
     "memo": "",
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "李亭亭、童恒新、黃淑鶴、明金蓮、林淑娟",
     "time": "R78-YN418[YM]"
   },
@@ -2131,7 +2131,7 @@
     "memo": "台北榮總",
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "李亭亭、黃淑鶴、鍾若男、明金蓮、林淑娟、王卿凌、盧婉菁、游佩玲",
     "time": "S123456-"
   },
@@ -2143,7 +2143,7 @@
     "memo": "實際導生課時間請依導師公告。",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "黃淑鶴、楊秋月、侯宜菁、林承霈",
     "time": "Rcd-YN603[YM]"
   },
@@ -3607,7 +3607,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "45",
-    "reg_num": "38",
+    "reg_num": "76",
     "teacher": "黃崇舜、巫坤品、林明薇",
     "time": "Tcd-"
   },
@@ -3859,7 +3859,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "蔡美文、王子娟、林吟亮",
     "time": ""
   },
@@ -4579,7 +4579,7 @@
     "memo": "生科二、不分系二、生物科管學程合班上課\n外系修課需經授課教師同意",
     "name": "生物化學 Biochemistry",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "孫維欣、張欣暘、陳嘉霖",
     "time": "M34R34-YL402[YM]"
   },
@@ -4591,7 +4591,7 @@
     "memo": "生科二、不分系二合班上課",
     "name": "細胞生物學 Cell Biology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "俞震亞、蔡亭芬、林崇智、李曉暉",
     "time": "F34-YK101[YM]"
   },
@@ -4603,7 +4603,7 @@
     "memo": "生科二、不分系二合班上課",
     "name": "有機化學實驗 Laboratory in Organic Chemistry",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "林照雄、楊念中",
     "time": "T789-YED109[YM]"
   },
@@ -4879,7 +4879,7 @@
     "memo": "除「生物醫學資訊所」與「跨領域醫學博士學位學程」外，不開放外系、所選修",
     "name": "模擬系統與數據分析 Simulation Models and Data Analysis",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "巫坤品",
     "time": "R12-YL401[YM]"
   },
@@ -5203,7 +5203,7 @@
     "memo": "請依醫學系PBL課程上課，不開放外系選修。",
     "name": "病理學 Pathology",
     "num_limit": "195",
-    "reg_num": "133",
+    "reg_num": "174",
     "teacher": "李芬瑤、許志怡、葉奕成、郭盈汝、杭仁釩、梁文議、林士傑、張富邦、劉雯玲",
     "time": "T5678-YX406[YM]"
   },
@@ -5215,7 +5215,7 @@
     "memo": "請依醫學系PBL課程上課，不開放外系選修。",
     "name": "病理學實驗 Pathology Laboratory",
     "num_limit": "195",
-    "reg_num": "133",
+    "reg_num": "174",
     "teacher": "李芬瑤、劉雯玲",
     "time": "T5678-YX406[YM]"
   },
@@ -5226,8 +5226,8 @@
     "id": "113402",
     "memo": "優先醫技、醫放、物輔，次護理、藥學；需先修解剖學 ，生理學等相關科目。",
     "name": "病理學 Pathology",
-    "num_limit": "110",
-    "reg_num": "30",
+    "num_limit": "115",
+    "reg_num": "110",
     "teacher": "李芬瑤、許志怡、葉奕成、郭盈汝、王蕾琪、杭仁釩、梁文議、林士堯、楊靜芬、林士傑、陳妍英、張富邦",
     "time": "F56-YX216[YM]"
   },
@@ -5239,7 +5239,7 @@
     "memo": "優先護理、藥學，次醫技、醫放、物輔，需先修解剖學 ，生理學等相關科目。",
     "name": "應用病理學 Applied Pathology",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "54",
     "teacher": "李芬瑤、許志怡、葉奕成、郭盈汝、王蕾琪、杭仁釩、梁文議、林士堯、楊靜芬、林士傑、陳妍英、張富邦",
     "time": "T34-YX406[YM]"
   },
@@ -14092,7 +14092,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161036",
-    "memo": "112-1學期採行線上教學，請向教師索取線上連結；不開放加簽",
+    "memo": "113-1學期採行線上教學，請向教師索取線上連結；不開放加簽",
     "name": "民法生活百科 Encyclopedia of the Civil Law",
     "num_limit": "15",
     "reg_num": "0",
@@ -14214,7 +14214,7 @@
     "id": "161047",
     "memo": "",
     "name": "從臺海實例看國際關係 Taiwan’s International Relations and Historic Events",
-    "num_limit": "0",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "王惠民",
     "time": "W9a-A204[GF]"
@@ -15239,18 +15239,6 @@
     "teacher": "段馨君",
     "time": "T678-CS100[GF]"
   },
-  "1131_310021": {
-    "code": "HKHS20046",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "310021",
-    "memo": "",
-    "name": "社會領域教材教法 Teaching Methods and Materials in History and Social Studies",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "待聘",
-    "time": "M89-HK208[LJ]"
-  },
   "1131_310022": {
     "code": "HKHS20057",
     "credit": "3.00",
@@ -15834,7 +15822,7 @@
     "id": "410002",
     "memo": "",
     "name": "化學 Chemistry",
-    "num_limit": "9999",
+    "num_limit": "60",
     "reg_num": "0",
     "teacher": "李明家、尤禎祥",
     "time": "M789-SC109[GF]"
@@ -15846,7 +15834,7 @@
     "id": "410003",
     "memo": "[English Medium Course]",
     "name": "化學 Chemistry",
-    "num_limit": "9999",
+    "num_limit": "60",
     "reg_num": "0",
     "teacher": "林柏亨",
     "time": "M789-SC151[GF]"
@@ -21892,7 +21880,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517000",
-    "memo": "管院、雙主修、輔系、跨領域學程學生請於8月26日上網選課；非管院學生請於9月2日上網選課。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。",
+    "memo": "管院、雙主修、輔系所、跨領域學程學生請於8月26日上網選課；非管院學生請於9月2日上網選課。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。",
     "name": "經濟學(一) Economics (I)",
     "num_limit": "135",
     "reg_num": "0",
@@ -22303,7 +22291,7 @@
     "memo": "管科系大三必修。管科系優先；雙主修或輔系管科系、修習學分學程或跨域學程的同學均開放加簽。",
     "name": "組織行為 Organizational Behavior",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "55",
     "teacher": "李柏毅",
     "time": "M789-M301[GF]"
   },
@@ -22567,7 +22555,7 @@
     "memo": "管科系限必修本課程。學管院管理基礎課程；主開大二資財系；上限80人，資財系大二、管科系大二必修；管院學生優先選課；輔開管理學院、管科系、工管系、運管系；工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修。運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。非管院學生請於開學加退選階段上網選課。",
     "name": "財務管理 Financial Management",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "50",
     "teacher": "梁婉麗",
     "time": "T567-M205[GF]"
   },
@@ -22639,7 +22627,7 @@
     "memo": "管科系限必修本課程。管院管理基礎課程；主開大三資財系；上限80人，資財系大三、管科系大三必修；限大三以上同學選修。管院學生優先選課；輔開管理學院、管科系、運管系、工管系；工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修。運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。非管院學生請於開學加退選階段上網選課。",
     "name": "管理資訊系統 Management Information System",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "55",
     "teacher": "盧浩鈞",
     "time": "T234-M205[GF]"
   },
@@ -23505,7 +23493,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "周倩",
-    "time": "M9-HA216[GF]"
+    "time": "M9-HA220[GF]"
   },
   "1131_534019": {
     "code": "HSIE30075",
@@ -25583,18 +25571,6 @@
     "teacher": "簡鳳村",
     "time": "W56-ED201[GF],F7-ED301[GF]"
   },
-  "1131_535232": {
-    "code": "EEIE30088",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "535232",
-    "memo": "[English Medium Course]",
-    "name": "數據學習 Data Learning",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "馮智豪",
-    "time": ""
-  },
   "1131_535233": {
     "code": "EEIE30053",
     "credit": "3.00",
@@ -25677,7 +25653,7 @@
     "num_limit": "10",
     "reg_num": "0",
     "teacher": "黃育綸",
-    "time": "F34n-EE209[GF]"
+    "time": "F34n-A301[GF]"
   },
   "1131_535303": {
     "code": "EECN30072",
@@ -26191,7 +26167,7 @@
     "memo": "1.光電系碩、博必選 2.由指導教授約定討論時間及地點",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "101",
     "teacher": "光電系",
     "time": ""
   },
@@ -33477,7 +33453,7 @@
     "num_limit": "53",
     "reg_num": "0",
     "teacher": "程千芳",
-    "time": "R12-A204[GF]"
+    "time": "R56-A213[GF]"
   },
   "1131_561052": {
     "code": "GECG00054",
@@ -33501,7 +33477,7 @@
     "num_limit": "26",
     "reg_num": "0",
     "teacher": "黃育綸、陳俞琪、程千芳、林士平、林承霈、王美鴻",
-    "time": "R56-A401[GF]"
+    "time": "R12-A213[GF]"
   },
   "1131_561054": {
     "code": "GECG00035",
@@ -38949,7 +38925,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "待聘",
-    "time": "M12-HK105[LJ]"
+    "time": "M89-HA216[GF]"
   },
   "1131_638000": {
     "code": "PTCP30003",

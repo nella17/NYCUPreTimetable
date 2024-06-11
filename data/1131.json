@@ -967,7 +967,7 @@
     "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
     "name": "大體解剖學 Gross Anatomy",
     "num_limit": "9999",
-    "reg_num": "179",
+    "reg_num": "185",
     "teacher": "鄭瓊娟、傅毓秀、李光申、李學德、蔡佩君、郭曉縈、侯珮珊、周昆達、周伯鑫、吳宏達、陳威志、趙勻廷、吳飛逸",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
@@ -979,7 +979,7 @@
     "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
     "name": "大體解剖學實驗 Gross Anatomy Lab.",
     "num_limit": "9999",
-    "reg_num": "182",
+    "reg_num": "188",
     "teacher": "鄭瓊娟、傅毓秀、蔡佩君、郭曉縈、侯珮珊",
     "time": "T12345678W1234R12345678F1234-YEC109[YM]"
   },
@@ -991,7 +991,7 @@
     "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
     "name": "組織學 Histology",
     "num_limit": "9999",
-    "reg_num": "182",
+    "reg_num": "188",
     "teacher": "鄭瓊娟、葉添順、李學德、王先逸、郭曉縈、蔣偉程",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
@@ -1003,7 +1003,7 @@
     "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
     "name": "組織學實驗 Lab. in Histology",
     "num_limit": "9999",
-    "reg_num": "182",
+    "reg_num": "188",
     "teacher": "鄭瓊娟、葉添順、李學德、王先逸、郭曉縈、蔣偉程",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
@@ -1015,7 +1015,7 @@
     "memo": "限醫三, 請參照PBL整合課程行事曆",
     "name": "社區醫學 Community Medicine",
     "num_limit": "9999",
-    "reg_num": "182",
+    "reg_num": "188",
     "teacher": "陳育群、黃信彰、劉瑞瑤、黃駿豐、余儀呈、劉浩彥、廖廣榆、洪德仁、林明慧、張曉婷",
     "time": "W56-YT001[YM]"
   },
@@ -1027,7 +1027,7 @@
     "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
     "name": "胚胎學 Embryology",
     "num_limit": "9999",
-    "reg_num": "182",
+    "reg_num": "188",
     "teacher": "鄭瓊娟、李學德、王先逸",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
@@ -1320,15 +1320,15 @@
     "time": "F34-AB102[GF],F34-YK208[YM]"
   },
   "1131_111501": {
-    "code": "DEDE10030",
+    "code": "DEDE10079",
     "credit": "1.00",
     "hours": "1.00",
     "id": "111501",
     "memo": "",
-    "name": "牙醫生涯不是夢(三) The Pursuit of Fulfillment as a Dentist (3)",
+    "name": "導師時間(三) Class Meeting(III)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "陳瓊芬",
+    "teacher": "洪善鈴",
     "time": "W56-YD214[YM]"
   },
   "1131_111502": {
@@ -1368,15 +1368,15 @@
     "time": "W3-YD214[YM]"
   },
   "1131_111505": {
-    "code": "DEDE10030",
+    "code": "DEDE10079",
     "credit": "1.00",
     "hours": "1.00",
     "id": "111505",
     "memo": "",
-    "name": "牙醫生涯不是夢(三) The Pursuit of Fulfillment as a Dentist (3)",
+    "name": "導師時間(三) Class Meeting(III)",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "吳姿瑩",
+    "teacher": "林嘉澍",
     "time": "W56-YD214[YM]"
   },
   "1131_111506": {
@@ -1464,24 +1464,24 @@
     "time": "F56-YD105[YM]"
   },
   "1131_111513": {
-    "code": "DEDE10029",
+    "code": "DEDE10078",
     "credit": "1.00",
-    "hours": "2.00",
+    "hours": "1.00",
     "id": "111513",
     "memo": "",
-    "name": "牙醫生涯不是夢(一) The Pursuit of Fulfillment as a Dentist (1)",
+    "name": "導師時間(一) Class Meeting(I)",
     "num_limit": "10",
     "reg_num": "0",
     "teacher": "耿藝文",
     "time": "W34-YD105[YM]"
   },
   "1131_111514": {
-    "code": "DEDE10029",
+    "code": "DEDE10078",
     "credit": "1.00",
-    "hours": "2.00",
+    "hours": "1.00",
     "id": "111514",
     "memo": "",
-    "name": "牙醫生涯不是夢(一) The Pursuit of Fulfillment as a Dentist (1)",
+    "name": "導師時間(一) Class Meeting(I)",
     "num_limit": "10",
     "reg_num": "0",
     "teacher": "王鼎涵",
@@ -1656,12 +1656,12 @@
     "time": "R3-YD320[YM]"
   },
   "1131_111529": {
-    "code": "DEDE20032",
+    "code": "DEDE20060",
     "credit": "2.00",
-    "hours": "6.00",
+    "hours": "2.00",
     "id": "111529",
     "memo": "",
-    "name": "牙科臨床實習 Clerkship in Clinical Dentistry",
+    "name": "牙科技術觀摩 Clinical Skills Demonstration in Dentistry",
     "num_limit": "50",
     "reg_num": "40",
     "teacher": "賴玉玲、高壽延、李士元、張國威、陳恆理、楊政杰、涂曦丰、吳靜宜、耿藝文、張景智、羅文良、施文宇、洪凱風、楊淑芬、馮懷珍、董醒任、吳政憲、李亞芸、雷文天、于恩浩、陳大為、林怡君、董愛康、吳姿瑩、吳詩韻、何怡青、陳江雲、楊子彰、葉聖威、洪振元、吳和泰、陳瓊芬、陳軒弘、謝春怡、蔡佳倫、鄭冬慧",
@@ -1955,6 +1955,54 @@
     "teacher": "洪善鈴",
     "time": "Wbc-YD302[YM]"
   },
+  "1131_111554": {
+    "code": "DEDE10078",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "111554",
+    "memo": "",
+    "name": "導師時間(一) Class Meeting(I)",
+    "num_limit": "10",
+    "reg_num": "0",
+    "teacher": "林榮辰",
+    "time": "W34-YD105[YM]"
+  },
+  "1131_111555": {
+    "code": "DEDE10079",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "111555",
+    "memo": "",
+    "name": "導師時間(三) Class Meeting(III)",
+    "num_limit": "10",
+    "reg_num": "0",
+    "teacher": "黎萬君",
+    "time": "W56-YD214[YM]"
+  },
+  "1131_111556": {
+    "code": "DEDE10079",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "111556",
+    "memo": "",
+    "name": "導師時間(三) Class Meeting(III)",
+    "num_limit": "10",
+    "reg_num": "0",
+    "teacher": "張景智",
+    "time": "W56-YD214[YM]"
+  },
+  "1131_111557": {
+    "code": "DEDE10079",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "111557",
+    "memo": "",
+    "name": "導師時間(三) Class Meeting(III)",
+    "num_limit": "10",
+    "reg_num": "0",
+    "teacher": "牙醫系",
+    "time": "W56-YD214[YM]"
+  },
   "1131_111800": {
     "code": "NSDN20005",
     "credit": "2.00",
@@ -2011,7 +2059,7 @@
     "memo": "台北榮總、衛生福利部桃園醫院",
     "name": "成人護理學實習Ⅰ Adult Nursing PracticeⅠ",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "孫秀卿、黃淑鶴、楊曼華、陳律言、溫明寰、林曼玲、童惠芳、王佳雯、王佩琮、許志忠、呂翠萍、盧一瑩、塗勝翔、吳碧珠、林承萱、張嘉琪、郭憶文、許鈺絹、蘇惠文、楊翎玉",
     "time": "M12345678T12345678W12345678-"
   },
@@ -2047,7 +2095,7 @@
     "memo": "台北榮總",
     "name": "成人護理學實習Ⅱ Adult Nursing PracticeⅡ",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "孫秀卿、廖媛美、黃淑鶴、楊曼華、陳律言、張議文、廖淑櫻、李雅萍、溫明寰、林曼玲、童惠芳、王佳雯、連如玉、呂翠萍、盧一瑩、塗勝翔、吳碧珠、張嘉琪、郭憶文、許鈺絹、蘇惠文、楊翎玉",
     "time": "M12345678T12345678W12345678-"
   },
@@ -2083,7 +2131,7 @@
     "memo": "北投健康服務中心",
     "name": "社區衛生護理學實習 Community Health Nursing Practice",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "83",
     "teacher": "王子芳、周承珍、林承霈、林麗華、吳佳珊、謝玉如、周明慧、劉慧芬、唐鳳屏",
     "time": "M123456789T123456789W123456789-"
   },
@@ -2095,7 +2143,7 @@
     "memo": "",
     "name": "精神衛生護理學 Psychiatric Mental Health Nursing",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "楊秋月、許樹珍、張秀如",
     "time": "M12345678T12345678W5678-YN301[YM]"
   },
@@ -2107,7 +2155,7 @@
     "memo": "台北榮總、國軍北投醫院",
     "name": "精神衛生護理學實習 Psychiatric Mental Health Nursing Practice",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "楊秋月、張阿雪、鄭淑琴",
     "time": "M123456789T123456789W123456789-"
   },
@@ -4893,7 +4941,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳俊銘、俞震亞、陳紀如、李曉暉、可文亞、高正彥",
-    "time": "F56-"
+    "time": "F56-CS100[GF],F56-YT305[YM]"
   },
   "1131_112600": {
     "code": "XDIP10012",
@@ -5107,7 +5155,7 @@
     "memo": "限醫三牙二，請參照PBL整合課程行事曆",
     "name": "生理學 Physiology",
     "num_limit": "200",
-    "reg_num": "182",
+    "reg_num": "188",
     "teacher": "吳鈺琳、胡瑜峰、阮琪昌、李怡萱、林惠菁、黃自強、張原翊、簡千栩、吳莉玲、董萃英",
     "time": "M1234T1234W1234R1234F1234-YT001[YM]"
   },
@@ -5119,7 +5167,7 @@
     "memo": "限醫三牙二，請參照PBL整合課程行事曆",
     "name": "生理學實驗 Physiology Lab.",
     "num_limit": "200",
-    "reg_num": "182",
+    "reg_num": "188",
     "teacher": "吳鈺琳、阮琪昌、李怡萱、簡千栩",
     "time": "T5678R5678-YED214[YM]"
   },
@@ -5275,7 +5323,7 @@
     "memo": "公共衛生領域必修，限醫學系三年級(含)以上、藥學系四年級(含)以上",
     "name": "流行病學 Epidemiology",
     "num_limit": "180",
-    "reg_num": "174",
+    "reg_num": "180",
     "teacher": "莊宜芳、陳娟瑜、陳信任、潘文驥、劉家軒、林詠青",
     "time": "M56-YT001[YM]"
   },
@@ -5323,7 +5371,7 @@
     "memo": "公共衛生領域必修，限醫學系三年級(含)以上。",
     "name": "生物統計學 Biostatistics",
     "num_limit": "150",
-    "reg_num": "141",
+    "reg_num": "147",
     "teacher": "郭炤裕",
     "time": "F56-YT001[YM]"
   },
@@ -5500,7 +5548,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113809",
-    "memo": "",
+    "memo": "醫學人文與倫理領域-醫學人文類，限醫學系，為使課程品質提升，故修課人數有限。",
     "name": "醫療人類學的邀請 Invitation to Medical Anthropology",
     "num_limit": "20",
     "reg_num": "0",
@@ -7656,24 +7704,24 @@
     "time": "M78-"
   },
   "1131_131115": {
-    "code": "MDBS30051",
+    "code": "MDBS30060",
     "credit": "3.00",
     "hours": "3.00",
     "id": "131115",
     "memo": "",
-    "name": "整合性睡眠醫學 Integration of Sleep Medicine",
+    "name": "睡眠腦科學 Brain Science of  Sleep",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "楊靜修",
     "time": "W567-YL845[YM]"
   },
   "1131_131116": {
-    "code": "MDBS30052",
+    "code": "MDBS30059",
     "credit": "1.00",
     "hours": "1.00",
     "id": "131116",
     "memo": "隔週上課，每次上課2小時",
-    "name": "智慧醫療的開發與應用 Development and Application of Smart Health",
+    "name": "睡眠障礙檢測與治療(一) sleep disorder detection and treatment guidelines",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "楊靜修",
@@ -7768,7 +7816,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "131205",
-    "memo": "17:30 - 19:20 on Oct 30. 31 & Nov 1. 4. 5. 6 & 13:20 - 15:10 on Dec 11. 12 [English Medium Course]",
+    "memo": "17:30 - 19:20 on Oct 30. 31 & Nov 1. 4. 5. 6. 7. 8 [English Medium Course]",
     "name": "移工健康導論 Introduction of Migrant Health",
     "num_limit": "9999",
     "reg_num": "0",
@@ -7888,7 +7936,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "131215",
-    "memo": "[English Medium Course]",
+    "memo": "The course is at National Chengchi University [English Medium Course]",
     "name": "全球衛生治理 Global Health Governance",
     "num_limit": "9999",
     "reg_num": "0",
@@ -7916,7 +7964,7 @@
     "name": "環境衛生學 Environmental Health",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "張榮偉、陳美蓮、黃鈺芳、李旻軒",
+    "teacher": "張榮偉、陳美蓮、黃鈺芳、李旻軒、劉宗榮",
     "time": "R56-YS405[YM]"
   },
   "1131_131219": {
@@ -9668,7 +9716,7 @@
     "name": "多模態感測技術於高齡醫材開發應用 Aging-related development and application for medical devices with multimodal sensing technology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "賴穎暉",
+    "teacher": "賴穎暉、林峻立、劉承揚、劉大中",
     "time": "W234-YX502[YM]"
   },
   "1131_132314": {
@@ -15486,7 +15534,7 @@
     "id": "310119",
     "memo": "",
     "name": "傳播環境與問題分析 Communicative Ecology Analysis",
-    "num_limit": "55",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "戴瑜慧",
     "time": "T234-HK104[LJ]"
@@ -18067,7 +18115,7 @@
     "memo": "[English Medium Course]，2A",
     "name": "微分方程(英文班) Differential Equation",
     "num_limit": "55",
-    "reg_num": "255",
+    "reg_num": "29",
     "teacher": "戴立嘉",
     "time": "M34W2-EE105[GF]"
   },
@@ -18295,7 +18343,7 @@
     "memo": "[English Medium Course]，2A。此課程不得列入生醫所畢業學分。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
     "name": "電路學－(英文班) Circuit Theory ",
     "num_limit": "70",
-    "reg_num": "255",
+    "reg_num": "29",
     "teacher": "蔡德明",
     "time": "T34R78-EE623[GF]"
   },
@@ -18846,7 +18894,7 @@
     "id": "515146",
     "memo": "",
     "name": "量子力學導論 Introduction to Quantum Mechanics",
-    "num_limit": "50",
+    "num_limit": "80",
     "reg_num": "0",
     "teacher": "林聖迪",
     "time": "T8R34-ED116[GF]"
@@ -19056,12 +19104,12 @@
     "time": "F234-ED201[GF]"
   },
   "1131_515166": {
-    "code": "EEEC20007",
+    "code": "EEEC20115",
     "credit": "3.00",
     "hours": "3.00",
     "id": "515166",
     "memo": "",
-    "name": "人工智慧導論 Introduction to Artificial Intelligence (Robotics)",
+    "name": "人工智慧導論 Introduction to Artificial Intelligence",
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "帥宏翰",
@@ -19122,7 +19170,7 @@
     "id": "515206",
     "memo": "",
     "name": "學士專題研究(四) Special Project (b.s.)Ⅳ",
-    "num_limit": "9999",
+    "num_limit": "65",
     "reg_num": "0",
     "teacher": "",
     "time": ""
@@ -19134,7 +19182,7 @@
     "id": "515207",
     "memo": "",
     "name": "電子學(一) ElectronicsⅠ",
-    "num_limit": "65",
+    "num_limit": "63",
     "reg_num": "62",
     "teacher": "李義明",
     "time": "M78R34-ED201[GF]"
@@ -19183,7 +19231,7 @@
     "memo": "",
     "name": "半導體元件物理 Semiconductor Device Physics",
     "num_limit": "50",
-    "reg_num": "49",
+    "reg_num": "53",
     "teacher": "待聘",
     "time": "T2W34-EE207[GF]"
   },
@@ -19207,7 +19255,7 @@
     "memo": "",
     "name": "類比積體電路導論 Introduction to Analog Integrated Circuits",
     "num_limit": "50",
-    "reg_num": "20",
+    "reg_num": "22",
     "teacher": "待聘",
     "time": "R678-EE205[GF]"
   },
@@ -19218,7 +19266,7 @@
     "id": "515216",
     "memo": "",
     "name": "生涯規劃與導師時間 Career Planning and Mentor’s Hours",
-    "num_limit": "65",
+    "num_limit": "25",
     "reg_num": "0",
     "teacher": "梁美智",
     "time": "W78-EE548[GF]"
@@ -19231,7 +19279,7 @@
     "memo": "",
     "name": "電路學 Circuit Theory",
     "num_limit": "50",
-    "reg_num": "48",
+    "reg_num": "49",
     "teacher": "曹逸凡",
     "time": "T34W78-EE210[GF]"
   },
@@ -21139,7 +21187,7 @@
     "memo": "限大二以上選修，理學院科學學士學位學程學生優先。",
     "name": "基礎科學研究方法與實作(三) Introduction to Scientific Research and Implementation(III)",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "黃立心、陳智彥、薛名成",
     "time": "F789-SC106[GF]"
   },
@@ -25170,7 +25218,7 @@
     "id": "535101",
     "memo": "",
     "name": "機器學習無線通訊 Machine Learning for Wireless Communications",
-    "num_limit": "60",
+    "num_limit": "54",
     "reg_num": "0",
     "teacher": "王蒞君",
     "time": "Wabc-ED203[GF]"
@@ -25182,7 +25230,7 @@
     "id": "535102",
     "memo": "",
     "name": "穿戴式裝置系統晶片設計 Wearable device system on a chip (SOC) design",
-    "num_limit": "40",
+    "num_limit": "36",
     "reg_num": "0",
     "teacher": "黃聖傑",
     "time": "R34n-EE113[GF]"
@@ -25192,9 +25240,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535103",
-    "memo": "",
+    "memo": "選課名額採階段性開放，第一階段先開放20人，第三階段再增加20人。",
     "name": "可信任人工智慧 Trustworthy AI",
-    "num_limit": "40",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "游家牧",
     "time": "R567-ED117[GF]"
@@ -25206,7 +25254,7 @@
     "id": "535104",
     "memo": "授課老師：簡仁宗教授與聯發科資深處長梁伯嵩教授",
     "name": "大型語言模型 Large Language Models",
-    "num_limit": "70",
+    "num_limit": "63",
     "reg_num": "0",
     "teacher": "簡仁宗",
     "time": "F567-ED103[GF]"
@@ -26596,9 +26644,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535514",
-    "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；第一階段選課上限45人, 第三階段開放到60人；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
+    "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；資安學程必選修課程十選三；第一階段選課上限45人, 第三階段開放到60人；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "機器學習 Machine Learning ",
-    "num_limit": "60",
+    "num_limit": "45",
     "reg_num": "0",
     "teacher": "洪瑞鴻、邱維辰",
     "time": "R34-EC122[GF]"
@@ -26716,7 +26764,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535524",
-    "memo": "資訊學院優先(不開放在職專班網路選課)",
+    "memo": "此課程不開放網路選課，同學若要加簽此課程請於113/6/28(五)23:59以前填寫完成以下表單：https://forms.gle/msaHNETY2HYpYq1t6 。",
     "name": "網路安全實務與社會 Public Interest Cybersecurity Practices and Society",
     "num_limit": "40",
     "reg_num": "0",
@@ -27308,8 +27356,8 @@
     "name": "論文研討 Seminar",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳宗麟",
-    "time": "F67-EE206[GF]"
+    "teacher": "王才沛",
+    "time": "F56-EE206[GF]"
   },
   "1131_536070": {
     "code": "ENSS30006",
@@ -27406,6 +27454,18 @@
     "reg_num": "0",
     "teacher": "方怡欽",
     "time": "R34n-EE130[GF]"
+  },
+  "1131_536078": {
+    "code": "ENSS30019",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536078",
+    "memo": "上課教室：教師研究室",
+    "name": "學位論文研究 Thesis Research",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳慶耀",
+    "time": "Myz1-"
   },
   "1131_536100": {
     "code": "ENME30060",
@@ -30604,7 +30664,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "537912",
-    "memo": "新竹實體、網路同步班、網路非同步班\n開放通識，開放大三以上同學選修",
+    "memo": "*本課程將調整至週一上午10:10-12:00AM（尚需完成行政流程後系統才會異動，敬請留意）新竹實體、網路同步班、網路非同步班\n開放通識，開放大三以上同學選修",
     "name": "人工智慧與法律 Artificial Intelligence and Law",
     "num_limit": "45",
     "reg_num": "0",
@@ -33102,7 +33162,7 @@
     "id": "561018",
     "memo": "「ESG永續企業發展與管理」限大三以上同學修讀。",
     "name": "ESG永續企業發展與管理 ESG sustainable business",
-    "num_limit": "32",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "李榮貴",
     "time": "R34-A401[GF]"

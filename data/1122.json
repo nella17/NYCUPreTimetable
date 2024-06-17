@@ -3504,9 +3504,9 @@
     "time": "F234-"
   },
   "1122_111569": {
-    "code": "DEDE20058",
-    "credit": "2.00",
-    "hours": "6.00",
+    "code": "DEDE20061",
+    "credit": "3.00",
+    "hours": "3.00",
     "id": "111569",
     "memo": "台北榮總口腔醫學部",
     "name": "牙科技術觀摩 Clinical Skills Demonstration in Dentistry",
@@ -19735,7 +19735,7 @@
     "memo": "資工系學生優先選課；本課程實際內容為『程式能力鑑定』考試，及格條件為通過任一次考試，除考試後及另訂定的助教輔導時間外，本課程無實體教學。主開2年級",
     "name": "基礎程式設計 Basic Programming",
     "num_limit": "9999",
-    "reg_num": "284",
+    "reg_num": "288",
     "teacher": "吳凱強、洪瑞鴻、黃寗琪",
     "time": ""
   },

@@ -1748,7 +1748,7 @@
     "name": "牙醫學概論 Introduction of Dentistry",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "許明倫、季麟揚、林元敏、王鼎涵、林宥成、賴玉玲、劉正芬、陳彥廷、吳政憲、蘇明圳、吳姿瑩、張志麟、何怡青、黃建文、張采宇",
+    "teacher": "許明倫、季麟揚、林元敏、王鼎涵、林宥成、賴玉玲、劉正芬、陳彥廷、吳政憲、蘇明圳、吳姿瑩、張志麟、何怡青、黃建文、張采宇、陳鉉",
     "time": "R56-CS100[GF]"
   },
   "1131_111538": {
@@ -2409,7 +2409,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "廖曉偉",
-    "time": "SnUn-"
+    "time": "Sn-"
   },
   "1131_111916": {
     "code": "PSPM20037",
@@ -2421,7 +2421,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "姜紹青",
-    "time": "SnUn-"
+    "time": "Un-"
   },
   "1131_111917": {
     "code": "PSPM10055",
@@ -3873,7 +3873,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "宋文旭",
-    "time": "T78-YX216[YM]"
+    "time": "T78-AB102[GF],T78-YX216[YM]"
   },
   "1131_112247": {
     "code": "BEPT20079",
@@ -5286,7 +5286,7 @@
     "id": "113402",
     "memo": "優先醫技、醫放、物輔，次護理、藥學；需先修解剖學 ，生理學等相關科目。",
     "name": "病理學 Pathology",
-    "num_limit": "115",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "李芬瑤、許志怡、葉奕成、郭盈汝、王蕾琪、杭仁釩、梁文議、林士堯、楊靜芬、林士傑、陳妍英、張富邦",
     "time": "F56-YX216[YM]"
@@ -6944,7 +6944,7 @@
     "name": "環境衛生學 Environmental Health",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳美蓮",
+    "teacher": "陳美蓮、余國賓、紀凱獻、黃鈺芳、潘文驥、張榮偉、郭憲文、王正雄",
     "time": "T12-YS415[YM]"
   },
   "1131_130804": {
@@ -6968,7 +6968,7 @@
     "name": "職業衛生書報討論(一) Seminars in Occupational Hygiene(1)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳美蓮",
+    "teacher": "陳美蓮、紀凱獻、黃鈺芳、張榮偉",
     "time": "T56-YS405[YM]"
   },
   "1131_130807": {
@@ -6980,7 +6980,7 @@
     "name": "職業衛生書報討論(三) Seminars in Occupational Hygiene(3)",
     "num_limit": "37",
     "reg_num": "-999",
-    "teacher": "陳美蓮",
+    "teacher": "陳美蓮、紀凱獻、黃鈺芳、張榮偉",
     "time": "T56-YS405[YM]"
   },
   "1131_130808": {
@@ -6992,7 +6992,7 @@
     "name": "職業衛生學 Occupational Hygiene",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳美蓮、毛義方",
+    "teacher": "陳美蓮、黃鈺芳、毛義方",
     "time": "T78-YS105[YM]"
   },
   "1131_130809": {
@@ -7088,7 +7088,7 @@
     "name": "職業衛生書報討論(七) Seminars in Occupational Hygiene(7) ",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳美蓮",
+    "teacher": "陳美蓮、紀凱獻、黃鈺芳、張榮偉",
     "time": "T56-YS405[YM]"
   },
   "1131_130817": {
@@ -12236,7 +12236,7 @@
     "name": "職業衛生書報討論(五) Seminars in Occupational Hygiene(5)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳美蓮",
+    "teacher": "陳美蓮、紀凱獻、黃鈺芳、張榮偉",
     "time": "T56-YS405[YM]"
   },
   "1131_140604": {
@@ -12812,7 +12812,7 @@
     "name": "生醫影像暨放射科學總論 General Biomedical Imagingand Radiological Sciences",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "吳駿一、李易展、陳志成、楊逢羿、吳東信、許世明、吳杰、陳傳霖、盧家鋒、莊惠燕、詹明賢、高瑀絜、張御展",
+    "teacher": "吳駿一、李易展、陳志成、楊逢羿、吳東信、許世明、陳傳霖、盧家鋒、莊惠燕、詹明賢、高瑀絜、張御展",
     "time": "F12-YB101[YM]"
   },
   "1131_142001": {
@@ -13962,7 +13962,7 @@
     "id": "161023",
     "memo": "",
     "name": "人腦心智運作與歷程 introduction to cognitive neuroscience and its methodology",
-    "num_limit": "18",
+    "num_limit": "15",
     "reg_num": "-999",
     "teacher": "郭文瑞",
     "time": "T12-YL402[YM]"
@@ -13984,7 +13984,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161025",
-    "memo": "本課程由雷光夏老師主持授課（聘任中）。\n[1] 本課程不開放隨班附讀。\n[2] 本課程上課地點為臺北陽明校區「韓偉故居二樓」空間（位置：https://maps.app.goo.gl/JJirEUvNyRLUYJuX6）；首週上課時間為 09/05（四）14:00-16:00。\n[3] 本課程為全實體課程，請位在非開課校區之同學留意每週上課時間、地點與通勤所需時間（校內接駁車資訊：https://tinyurl.com/mwcn9f7t）。課程資源寶貴，修習本課程之同學須務必全程到課，表現與出席為重要指標，如需請假，請提供相關證明。\n[4] 本課程含校外教學與參訪，請同學們留意當周課程時間以預做自身時間規劃和調整。\n[5] 如需與教師聯繫，請洽課堂教學助理或博雅書苑課程承辦人范先生（Email: rxfan@nycu.edu.tw / 校內分機：65285）。",
+    "memo": "本課程由雷光夏老師主持授課。\n[1] 本課程不開放隨班附讀。\n[2] 本課程上課地點為臺北陽明校區「韓偉故居二樓」空間（位置：https://maps.app.goo.gl/JJirEUvNyRLUYJuX6）；首週上課時間為 09/05（四）14:00-16:00。\n[3] 本課程為全實體課程，請位在非開課校區之同學留意每週上課時間、地點與通勤所需時間（校內接駁車資訊：https://tinyurl.com/mwcn9f7t）。課程資源寶貴，修習本課程之同學須務必全程到課，表現與出席為重要指標，如需請假，請提供相關證明。\n[4] 本課程含校外教學與參訪，請同學們留意當周課程時間以預做自身時間規劃和調整。\n[5] 如需與教師聯繫，請洽課堂教學助理或博雅書苑課程承辦人范先生（Email: rxfan@nycu.edu.tw / 校內分機：65285）。",
     "name": "音樂、媒介與說故事 Music, Media and Storytelling",
     "num_limit": "8",
     "reg_num": "-999",
@@ -14022,7 +14022,7 @@
     "id": "161028",
     "memo": "本課程為大學部核心課程，請大學部學生自行選課。碩、博士班有意願參與修課同學，因修課人數有限，請填寫申請表: https://forms.gle/1wt6ZhH17Z5pWrT19 ，會由後端開課單位協助加選。 本課程為跨校區課程: 陽明校區教學大樓305 教室、交大校區管理2館 1069教室；課程不開放加簽。",
     "name": "食品安全與生活 Food Safety and Life",
-    "num_limit": "21",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "陳美蓮、陳鋕雄、賈文宇",
     "time": "R34-MB1069[GF],R34-YT305[YM]"
@@ -14236,7 +14236,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161047",
-    "memo": "",
+    "memo": "1.無開放遠距教學；2.實體課程教室為光復校區A204教室。",
     "name": "從臺海實例看國際關係 Taiwan’s International Relations and Historic Events",
     "num_limit": "15",
     "reg_num": "-999",
@@ -16110,7 +16110,7 @@
     "id": "410024",
     "memo": "",
     "name": "程式設計 Go Go Go Programming Go Go Go",
-    "num_limit": "10",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "羅惟正",
     "time": "T789-BI304[BA]"
@@ -18441,7 +18441,7 @@
     "num_limit": "75",
     "reg_num": "-999",
     "teacher": "黃育綸",
-    "time": "M56R2-"
+    "time": "M56T2-CS-PC4[GF]"
   },
   "1131_515111": {
     "code": "EEEC10012",
@@ -22794,7 +22794,7 @@
     "id": "517902",
     "memo": "開放通識，限大學部同學選修\n新竹實體，陽明網路同步班",
     "name": "民法總則 Civil Law: General Principles",
-    "num_limit": "50",
+    "num_limit": "80",
     "reg_num": "-999",
     "teacher": "陳在方",
     "time": "W567-A302[GF]"
@@ -25211,6 +25211,18 @@
     "teacher": "簡仁宗",
     "time": "F567-ED103[GF]"
   },
+  "1131_535105": {
+    "code": "EEEE30019",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "535105",
+    "memo": "",
+    "name": "積分三角訊號轉換器 Sigma-Delta-Modulator Data Converters",
+    "num_limit": "40",
+    "reg_num": "-999",
+    "teacher": "陳佳宏",
+    "time": "T789-EE208[GF]"
+  },
   "1131_535200": {
     "code": "EEIE30057",
     "credit": ".00",
@@ -25494,10 +25506,10 @@
     "id": "535223",
     "memo": "",
     "name": "數位通訊積體電路 Digital Communication Integrated Circuits",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "周世傑",
-    "time": "T34-ED102[GF],R2-ED202[GF]"
+    "time": "R2-ED202[GF],M56-EDB01[GF]"
   },
   "1131_535224": {
     "code": "EEIE30077",
@@ -37326,7 +37338,7 @@
     "id": "564010",
     "memo": "[English Medium Course]",
     "name": "微積分甲(一) Calculus A (I)",
-    "num_limit": "9999",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "千野由喜",
     "time": "T34F56-SC152[GF]"
@@ -37509,7 +37521,7 @@
     "num_limit": "85",
     "reg_num": "-999",
     "teacher": "科契諾",
-    "time": "M34R78-"
+    "time": "M34R78-AB102[GF]"
   },
   "1131_565003": {
     "code": "GEPS10001",
@@ -39054,7 +39066,7 @@
     "id": "638003",
     "memo": "光電學院碩士核心必選課程；上課地點: CM219、CM224、CM543 依分組教室進行，請勿重複選課。",
     "name": "光電實驗 Photonics Laboratory",
-    "num_limit": "48",
+    "num_limit": "24",
     "reg_num": "-999",
     "teacher": "尤信介、藍宇彬",
     "time": "M567-"

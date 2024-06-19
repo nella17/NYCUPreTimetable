@@ -2936,7 +2936,7 @@
     "name": "精彩人生 (上) How to make your life splendid",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黃尉倫、涂玉青、龔思豪",
+    "teacher": "黃尉倫、涂玉青、李博仁、林聖軒、郭俊宏、龔思豪、張佳智",
     "time": "R78-A203[GF]"
   },
   "1131_112026": {
@@ -2950,18 +2950,6 @@
     "reg_num": "-999",
     "teacher": "涂玉青、吳韋訥、孫光蕙、楊翠青、黃琤、呂世正、龔思豪、黃智生、黃尉倫、蘇美慈、洪小雅",
     "time": "F34-A203[GF]"
-  },
-  "1131_112027": {
-    "code": "BEBL10028",
-    "credit": "2.00",
-    "hours": "4.00",
-    "id": "112027",
-    "memo": "限醫技系學生選修，需正在修習或已修習過解剖學課程。",
-    "name": "解剖學實驗 Anatomy Lab.",
-    "num_limit": "30",
-    "reg_num": "-999",
-    "teacher": "王先逸、傅毓秀、葉添順、鄭瓊娟、李學德、蔡佩君、郭曉縈、侯珮珊、蔣偉程",
-    "time": "M89F12-YEC109[YM]"
   },
   "1131_112028": {
     "code": "BEBL10035",
@@ -10952,7 +10940,7 @@
     "name": "免疫學新知 (全英語) 113-1 Current topics in immunology (in English) 113-1",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "徐嘉琳",
+    "teacher": "徐嘉琳、葛一樊",
     "time": "T34-YC313[YM]"
   },
   "1131_132811": {
@@ -13962,7 +13950,7 @@
     "id": "161023",
     "memo": "",
     "name": "人腦心智運作與歷程 introduction to cognitive neuroscience and its methodology",
-    "num_limit": "15",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "郭文瑞",
     "time": "T12-YL402[YM]"
@@ -20802,7 +20790,7 @@
     "id": "516223",
     "memo": "AB班；第三小時為非同步授課。",
     "name": "工程經濟學 Engineering Economics",
-    "num_limit": "50",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "黃玉霖",
     "time": "F34-"
@@ -20912,7 +20900,7 @@
     "name": "材料科學與工程導論 (一) Introduction to Materials Science and Engineering (I)",
     "num_limit": "85",
     "reg_num": "-999",
-    "teacher": "材料系",
+    "teacher": "黃爾文",
     "time": "R2F34-EF104[GF]"
   },
   "1131_516301": {
@@ -21252,8 +21240,8 @@
     "time": "Wabcd-SC326[GF]"
   },
   "1131_516606": {
-    "code": "SCEP00007",
-    "credit": ".00",
+    "code": "SCEP10021",
+    "credit": "1.00",
     "hours": "2.00",
     "id": "516606",
     "memo": "",
@@ -24118,18 +24106,6 @@
     "reg_num": "-999",
     "teacher": "莊雅仲",
     "time": "R567-F212-3R[GF"
-  },
-  "1131_534504": {
-    "code": "HSIA30011",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "534504",
-    "memo": "[English Medium Course]",
-    "name": "資本主義的擴張與剝奪：邊陲地區依賴理論的批判性檢視 Capitalism's Expansion and Dispossession: A Critical Examination of Dependency Theory in Peripheral Regions",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "待聘",
-    "time": ""
   },
   "1131_534505": {
     "code": "HSSC30002",
@@ -30105,7 +30081,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "財金所",
-    "time": "M567-"
+    "time": "Sa-"
   },
   "1131_537702": {
     "code": "MGIF30069",
@@ -30424,7 +30400,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537814",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]科管跨域、VIP跨域大三以上，請寄信給老師辦理加選。",
     "name": "新興科技創新管理 Emerging Technology and Innovation Management",
     "num_limit": "35",
     "reg_num": "-999",
@@ -33510,7 +33486,7 @@
     "id": "561048",
     "memo": "限物治二、護理一、藥學一，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生(依初選第三階段時在籍學生帶入)，請勿隨意退課。物治、護理、藥學三系有重補修本課程需求學生，麻煩至https://forms.gle/iUJddkGakRrj2o1H9登記，行政人員將依表單資料在新生初選結束後帶入選課。",
     "name": "普通心理學 General Psychology",
-    "num_limit": "20",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "程千芳",
     "time": "T12-YX406[YM]"

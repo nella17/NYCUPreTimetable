@@ -207,15 +207,7 @@ $( document ).ready(async function() {
         $("#semesterDropdownMenu").append(`<a class="dropdown-item ${active}" id="semester-item-${S[0]}-${S[1]}" href="#" onclick="changeSemester('${S[0]}','${S[1]}')">${S[0]}-${S[1]}</a>`);
     });
     
-    jQuery.ajaxSetup({async:false});
-    $.get(`data/${Year}${Semester}.json`,function(data,status){
-        if(status != "success"){
-            alert("Couldn't get course data!!");
-        }
-        //console.log(data);
-        AllCourse = data;
-    });
-    jQuery.ajaxSetup({async:true});
+    AllCourse = await fetch(`data/${Year}${Semester}.json`).then(res => res.json());
     gentable();
     urlp = new URLSearchParams(window.location.search);
     load();
@@ -299,7 +291,7 @@ $( document ).ready(async function() {
     document.body.classList.remove('loading')
 });
 
-function changeSemester(year, sem){
+async function changeSemester(year, sem){
     check = false;
     SemesterList.forEach(function(S){if(S[0]==year && S[1]==sem)check=true;});
     if(!check){
@@ -310,15 +302,7 @@ function changeSemester(year, sem){
     save();
     Year = year;
     Semester = sem;
-    jQuery.ajaxSetup({async:false});
-    $.get(`data/${Year}${Semester}.json`,function(data,status){
-        if(status != "success"){
-            alert("Couldn't get course data!!");
-        }
-        //console.log(data);
-        AllCourse = data;
-    });
-    jQuery.ajaxSetup({async:true});
+    AllCourse = await fetch(`data/${Year}${Semester}.json`).then(res => res.json());
     gentable();
     load();
     showTable();

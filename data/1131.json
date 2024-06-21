@@ -2308,11 +2308,11 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "111907",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "調劑學實作 Dispensing Laboratory",
     "num_limit": "9999",
     "reg_num": "33",
-    "teacher": "姜紹青",
+    "teacher": "姜紹青、黃家俊",
     "time": "F34-YT203[YM]"
   },
   "1131_111908": {
@@ -2587,7 +2587,7 @@
     "memo": "此課程開設在113年度暑期課程，上課時間地點另行公告，請注意藥學系官網資訊更新。",
     "name": "現代本草學 Modern Herbology",
     "num_limit": "100",
-    "reg_num": "82",
+    "reg_num": "83",
     "teacher": "陳日榮、賴尚志",
     "time": "Sd-YR101[YM]"
   },
@@ -3079,7 +3079,7 @@
     "memo": "[English Medium Course]\n先修課程：普通物理學（一）（３學分）、微積分（６學分）\n（必修未達上述課程學分標準，無法修讀本門必修課）",
     "name": "工程力學 Engineering Mechanics",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "24",
     "teacher": "李泉",
     "time": "R234-YB101[YM]"
   },
@@ -4914,7 +4914,7 @@
     "id": "112531",
     "memo": "對象:大學部學生/不分年級",
     "name": "健康與疾病通論 General concepts of health and disease",
-    "num_limit": "9999",
+    "num_limit": "155",
     "reg_num": "155",
     "teacher": "陳俊銘、俞震亞、陳紀如、李曉暉、可文亞、高正彥",
     "time": "F56-CS100[GF],F56-YT305[YM]"
@@ -8444,7 +8444,7 @@
     "name": "長期照護學實習(一) Practice in Long-term Care (I)",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "楊曼華",
+    "teacher": "楊曼華、王子芳",
     "time": "W12345678-"
   },
   "1131_131710": {
@@ -8803,7 +8803,7 @@
     "memo": "初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
     "name": "生藥暨中藥藥物學(一) Pharmacognosy and Traditional Chinese Pharmacology (I)",
     "num_limit": "70",
-    "reg_num": "27",
+    "reg_num": "28",
     "teacher": "陳日榮、廖家慶、朱益成、林玉麒",
     "time": "M789-YK533[YM]"
   },
@@ -9619,7 +9619,7 @@
     "memo": "[English Medium Course]",
     "name": "量測及儀表 Measurements and Instrumentation",
     "num_limit": "35",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "羅俊民",
     "time": "R34n-YEA200[YM]"
   },
@@ -10606,6 +10606,30 @@
     "reg_num": "5",
     "teacher": "陳奕帆",
     "time": "F234-YL403[YM]"
+  },
+  "1131_132616": {
+    "code": "BEBP30003",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "132616",
+    "memo": "上課時間為113年7-8月。",
+    "name": "傅立葉光學 Fourier Optics",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "邱爾德",
+    "time": "W9ab-YK602-A1[Y"
+  },
+  "1131_132617": {
+    "code": "BEBP30050",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "132617",
+    "memo": "上課時間為113年7-8月。",
+    "name": "專案規劃與程式設計 Project planning and programming",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "郭文娟、陳奕帆",
+    "time": ""
   },
   "1131_132700": {
     "code": "LSNS30031",
@@ -11902,6 +11926,30 @@
     "reg_num": "22",
     "teacher": "連正章",
     "time": "W78-YK208[YM]"
+  },
+  "1131_133604": {
+    "code": "LSSL30015",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "133604",
+    "memo": "本課程於暑期週一至五2PM-5PM。",
+    "name": "中心體特論：生命發生與自我組成 Advanced Topics in the Centrosome: Self-Assembly and Biogenesis",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "王琬菁",
+    "time": ""
+  },
+  "1131_133605": {
+    "code": "LSSL30014",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "133605",
+    "memo": "",
+    "name": "真核基因轉錄 Eukaryotic Gene Transcription",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳威儀",
+    "time": ""
   },
   "1131_133800": {
     "code": "LSMO30009",
@@ -14000,7 +14048,7 @@
     "name": "安全衛生通識教育 General Knowledge of Safety Health",
     "num_limit": "18",
     "reg_num": "18",
-    "teacher": "張榮偉、吳威德",
+    "teacher": "張榮偉、黃鈺芳、吳威德",
     "time": "W78-YT304[YM]"
   },
   "1131_161028": {
@@ -15762,7 +15810,7 @@
     "id": "350003",
     "memo": "",
     "name": "客家、閱聽人與流行文化 Hakka, Audience and Popular Culture",
-    "num_limit": "9999",
+    "num_limit": "12",
     "reg_num": "12",
     "teacher": "張玉佩",
     "time": "S567-HK206[LJ]"
@@ -18547,7 +18595,7 @@
     "memo": "",
     "name": "訊號與系統 Signals and Systems",
     "num_limit": "50",
-    "reg_num": "61",
+    "reg_num": "63",
     "teacher": "陳永平",
     "time": "M2W34-EE209[GF]"
   },
@@ -18787,7 +18835,7 @@
     "memo": "",
     "name": "超大型積體電路設計導論 Introduction to VLSI Design",
     "num_limit": "80",
-    "reg_num": "83",
+    "reg_num": "84",
     "teacher": "曾煜輝",
     "time": "R567-EE105[GF]"
   },
@@ -21235,7 +21283,7 @@
     "memo": "電物系優先\n",
     "name": "電子實驗（一） Electronic Lab. (I)",
     "num_limit": "32",
-    "reg_num": "34",
+    "reg_num": "35",
     "teacher": "周武清",
     "time": "Wabcd-SC326[GF]"
   },
@@ -22087,7 +22135,7 @@
     "memo": "非管院學生請於8月26日上網加選。管院大學部共同必修課程；管院學生優先選課；上限20人，得請授課教師簽准後可放寬至25人；若有演習課安排於9a；管理基礎學分學程課程。英文授課。[English Medium Course]",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "20",
-    "reg_num": "20",
+    "reg_num": "21",
     "teacher": "水敬心",
     "time": "T234-A316[GF]"
   },
@@ -22975,7 +23023,7 @@
     "memo": "",
     "name": "規則的力量:規則如何構成世界? The Power of Rules: How Could Rules Make the World?",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "51",
     "teacher": "程源中",
     "time": "F34-"
   },
@@ -23287,7 +23335,7 @@
     "memo": "1. 本課程管理學院學生選修不得採計為核心(通識)學分。2. 遠距教學課程。",
     "name": "初等應用統計 Introduction to Applied Statistics",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "吳俊育",
     "time": "W12-HA219[GF]"
   },
@@ -23299,7 +23347,7 @@
     "memo": "",
     "name": "教育研究之科學科技與社會議題 STS in Educational Research",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "羅孟婷",
     "time": "W56-HA219[GF]"
   },
@@ -23311,7 +23359,7 @@
     "memo": "",
     "name": "教育研究法 Educational Research Methods",
     "num_limit": "35",
-    "reg_num": "4",
+    "reg_num": "3",
     "teacher": "陳鏗任",
     "time": "W34-HA219[GF]"
   },
@@ -23443,7 +23491,7 @@
     "memo": "",
     "name": "數位學習導論 Foundations of E-learning",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "周倩",
     "time": "T234-HA216[GF]"
   },
@@ -23528,7 +23576,7 @@
     "name": "數位學習教材研發與評鑑 The NYCU e-Learning Designers' Academy",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "陳鏗任、張瓊方",
+    "teacher": "陳鏗任",
     "time": "F567-HA216[GF]"
   },
   "1131_534100": {
@@ -26718,7 +26766,7 @@
     "id": "535525",
     "memo": "",
     "name": "RISC-V人工智慧運算架構與系統 (ㄧ) RISCV AI Computing Architecture and System I",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "21",
     "teacher": "林偉棻",
     "time": "M56-EC329[GF]"
@@ -26730,7 +26778,7 @@
     "id": "535526",
     "memo": "",
     "name": "RISC-V人工智慧運算架構與系統(二) RISCV AI Computing Architecture and System II",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "16",
     "teacher": "林偉棻、陳添福",
     "time": "M78-EC329[GF]"
@@ -26742,7 +26790,7 @@
     "id": "535527",
     "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；英文授課",
     "name": "互動設計與虛擬實境 Interaction design and virtual reality",
-    "num_limit": "9999",
+    "num_limit": "24",
     "reg_num": "18",
     "teacher": "詹力韋",
     "time": "T34-EC329[GF]"
@@ -30523,7 +30571,7 @@
     "memo": "非科法所學生限跨域學程同學選修，僅開放冤獄平反協會實習",
     "name": "法務法遵實習(一) Legal & Compliance Internship (Ⅰ)",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "6",
     "teacher": "林志潔、金孟華",
     "time": ""
   },
@@ -33138,8 +33186,8 @@
     "id": "561019",
     "memo": "限大三以上同學修讀，修課學生需攜帶筆電。",
     "name": "營運管理 Operations Management",
-    "num_limit": "66",
-    "reg_num": "71",
+    "num_limit": "67",
+    "reg_num": "72",
     "teacher": "李榮貴",
     "time": "R56-A202[GF]"
   },
@@ -38311,7 +38359,7 @@
     "memo": "",
     "name": "Go程式設計 Go Programming",
     "num_limit": "50",
-    "reg_num": "33",
+    "reg_num": "34",
     "teacher": "黃世昆",
     "time": "T567-CS-PC2[GF]"
   },

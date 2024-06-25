@@ -5539,7 +5539,7 @@
     "memo": "",
     "name": "中醫學史 History of Traditional Chinese Medicine",
     "num_limit": "30",
-    "reg_num": "2",
+    "reg_num": "0",
     "teacher": "陳方佩",
     "time": "F34-YK436[YM]"
   },
@@ -6583,7 +6583,7 @@
     "memo": "管理與政策必選修之一，非醫管所學生需取得授課老師同意。",
     "name": "Python機器學習在智慧醫療的應用 Python Machine Learning for Smart Healthcare",
     "num_limit": "35",
-    "reg_num": "18",
+    "reg_num": "19",
     "teacher": "陳翎",
     "time": "F78-YN511[YM]"
   },
@@ -6944,7 +6944,7 @@
     "name": "工業安全 Industrial Safety",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "毛義方、盧士一、蔡佩憲",
+    "teacher": "毛義方、盧士一",
     "time": "U34-YS105[YM]"
   },
   "1131_130806": {
@@ -7724,7 +7724,7 @@
     "name": "國際衛生專題討論(博) Doctoral Seminars on International Health",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "衛雅樂",
+    "teacher": "衛雅樂、黃心苑、黃嵩立、蒲正筠、梁立霖、陳信任、嵇達德、莊宜芳、劉家軒",
     "time": "M78-YS420[YM]"
   },
   "1131_131202": {
@@ -7748,7 +7748,7 @@
     "name": "國際衛生專題討論(碩) Master Seminars on International Health",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "衛雅樂、黃心苑、黃嵩立、蒲正筠、梁立霖、陳信任、嵇達德、莊宜芳",
+    "teacher": "衛雅樂、黃心苑、黃嵩立、蒲正筠、梁立霖、陳信任、嵇達德、莊宜芳、劉家軒",
     "time": "M78-YS420[YM]"
   },
   "1131_131204": {
@@ -8684,7 +8684,7 @@
     "name": "生物藥學通論 Fundamentals in Biopharmaceutical Sciences",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "張牧新、黃奇英、何國牟、劉峻宇、金翠庭、劉嘉仁、顏厥全、趙大中、劉耀中",
+    "teacher": "張牧新、黃奇英、何國牟、劉峻宇、金翠庭、劉嘉仁、張御展、顏厥全、趙大中、劉耀中",
     "time": "T34-YC101[YM]"
   },
   "1131_131905": {
@@ -8696,7 +8696,7 @@
     "name": "生物藥學通論 Fundamentals in Biopharmaceutical Sciences",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "張牧新、黃奇英、何國牟、劉峻宇、金翠庭、劉嘉仁、顏厥全、趙大中、劉耀中",
+    "teacher": "張牧新、黃奇英、何國牟、劉峻宇、金翠庭、劉嘉仁、張御展、顏厥全、趙大中、劉耀中",
     "time": "R34-YC101[YM]"
   },
   "1131_131906": {
@@ -18816,26 +18816,26 @@
     "time": "W34n-ED116[GF]"
   },
   "1131_515140": {
-    "code": "EEEC20063",
+    "code": "EEEC20116",
     "credit": "3.00",
-    "hours": "4.00",
+    "hours": "3.00",
     "id": "515140",
     "memo": "由於選課人數眾多，有意願加簽本課堂的學生請填寫以下說明表單:。 請注意：並非填寫表單完成即加簽成功，需經由統一抽籤才能加簽！請注意：並非填寫表單完成即加簽成功，需經由統一抽籤才能加簽！請注意：並非填寫表單完成即加簽成功，需經由統一抽籤才能加簽！",
     "name": "超大型積體電路設計導論 Introduction to VLSI Design",
     "num_limit": "90",
     "reg_num": "90",
     "teacher": "李鎮宜",
-    "time": "M789-ED220[GF]"
+    "time": "M789-ED116[GF]"
   },
   "1131_515141": {
-    "code": "EEEC20063",
+    "code": "EEEC20116",
     "credit": "3.00",
-    "hours": "4.00",
+    "hours": "3.00",
     "id": "515141",
     "memo": "",
     "name": "超大型積體電路設計導論 Introduction to VLSI Design",
     "num_limit": "80",
-    "reg_num": "84",
+    "reg_num": "85",
     "teacher": "曾煜輝",
     "time": "R567-EE105[GF]"
   },
@@ -25545,7 +25545,7 @@
     "num_limit": "150",
     "reg_num": "86",
     "teacher": "張添烜",
-    "time": "M789-ED116[GF]"
+    "time": "M789-ED220[GF]"
   },
   "1131_535225": {
     "code": "EEIE30069",
@@ -32888,7 +32888,7 @@
     "name": "高科技產業投資與創業分析 Investment and Venture Analysis of High Tech Industry",
     "num_limit": "9999",
     "reg_num": "48",
-    "teacher": "鍾惠民、蘇信寧、待聘、林鴻明、曾惠瑾、曾國棟",
+    "teacher": "鍾惠民、蘇信寧、林鴻明、曾惠瑾、曾國棟、王燈山",
     "time": "U234567-"
   },
   "1131_559004": {

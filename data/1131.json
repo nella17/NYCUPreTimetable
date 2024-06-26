@@ -852,9 +852,9 @@
     "time": "R1234-YT003[YM]"
   },
   "1131_110067": {
-    "code": "MDMD10019",
-    "credit": "1.00",
-    "hours": "1.00",
+    "code": "MDMD20353",
+    "credit": "2.00",
+    "hours": "2.00",
     "id": "110067",
     "memo": "請依醫學系課表上課",
     "name": "實證醫學臨床案例討論 Evidence-based Medicine: Case Discussion",
@@ -1280,7 +1280,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "133",
-    "teacher": "凌憬峰、林慶波、吳鈺琳、陳麗芬、鄭瓊娟、邱士華、張世霖、黃自強、張原翊、吳莉玲、張雲亭、陳明德、王維庭",
+    "teacher": "凌憬峰、鄭彥甫、林惠菁、丁乾坤、陳世彬、楊智傑、張婷婷、陳志強、張榮偉、高正彥、侯珮珊、賴峻毅、任一安",
     "time": "Ua-YT002[YM]"
   },
   "1131_110103": {
@@ -1304,8 +1304,20 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "188",
-    "teacher": "凌憬峰、鄭彥甫、林惠菁、丁乾坤、陳世彬、楊智傑、張婷婷、陳志強、張榮偉、高正彥、侯珮珊、賴峻毅、任一安",
+    "teacher": "凌憬峰、葉添順、紀凱獻、陳威儀、蒲正筠、黃宣穎、王琬菁、王先逸、廖皎君、簡千栩、陳瀅州、尹彙文、季康揚",
     "time": ""
+  },
+  "1131_110105": {
+    "code": "MDMD10035",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "110105",
+    "memo": "",
+    "name": "心靈成長(四) Spiritual Growth Ⅳ",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "醫學系",
+    "time": "F78-"
   },
   "1131_111500": {
     "code": "DEDE10024",
@@ -3895,7 +3907,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "55",
+    "reg_num": "53",
     "teacher": "施怡芬、陳振昇、羅鴻基",
     "time": ""
   },
@@ -4208,7 +4220,7 @@
     "name": "核醫暨斷層影像原理 Nuclear Medicine and Computed Tomography",
     "num_limit": "9999",
     "reg_num": "31",
-    "teacher": "陳志成、楊邦宏",
+    "teacher": "陳志成、楊邦宏、金仕淳",
     "time": "W78-YB102[YM]"
   },
   "1131_112320": {
@@ -8468,7 +8480,7 @@
     "name": "安寧緩和療護 Palliative care",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "吳孟嬪、林承霈、穆佩芬、黃勝堅、孫文榮、李俊秀",
+    "teacher": "吳孟嬪、林承霈、穆佩芬、孫文榮",
     "time": "F9a-YN416[YM]"
   },
   "1131_131712": {
@@ -8588,7 +8600,7 @@
     "name": "進階社區護理學實習(一) Advanced Community Nursing Practice (I)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "許樹珍、黃子庭、簡莉盈、周承珍、林承霈",
+    "teacher": "簡莉盈、黃子庭、許樹珍、周承珍、林承霈",
     "time": "W1234n5678-"
   },
   "1131_131806": {
@@ -8612,7 +8624,7 @@
     "name": "社區健康評估與計畫實習 Practice in Health Assessment and Planning in Community",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "許樹珍、黃子庭、簡莉盈、周承珍、林承霈",
+    "teacher": "簡莉盈、黃子庭、許樹珍、周承珍、林承霈",
     "time": "W1234n5678-"
   },
   "1131_131808": {
@@ -8696,7 +8708,7 @@
     "name": "生物藥學通論 Fundamentals in Biopharmaceutical Sciences",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "張牧新、黃奇英、何國牟、劉峻宇、金翠庭、劉嘉仁、張御展、顏厥全、趙大中、劉耀中",
+    "teacher": "張牧新、胡瑜峰、黃奇英、何國牟、劉峻宇、金翠庭、劉嘉仁、蘇溶真、張御展、賴峻毅、顏厥全、趙大中、劉耀中",
     "time": "R34-YC101[YM]"
   },
   "1131_131906": {
@@ -8732,7 +8744,7 @@
     "name": "藥物開發的新趨勢 New Trends in Drug Development",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "張牧新、胡瑜峰、何國牟、金翠庭、王笙帆",
+    "teacher": "張牧新、胡瑜峰、何國牟、金翠庭、賴峻毅、王笙帆、廖秀蓉、黎思源",
     "time": "Tyz-YC101[YM]"
   },
   "1131_131910": {
@@ -9812,7 +9824,7 @@
     "name": "研究方法學 Research Methodology",
     "num_limit": "40",
     "reg_num": "3",
-    "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、楊雅如、林明薇、周立偉、陳喬男、李雪楨、游忠煌、范佩貞、羅鴻基、黃崇舜、施惠婷",
+    "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、楊雅如、林明薇、周立偉、陳喬男、李雪楨、蔡美文、游忠煌、范佩貞、羅鴻基、黃崇舜、施惠婷",
     "time": "W234-YB102[YM]"
   },
   "1131_132402": {
@@ -12752,7 +12764,7 @@
     "name": "醫藥化學 Medicinal Chemistry",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "金翠庭",
+    "teacher": "金翠庭、林照雄、胡德民、蘇溶真、劉俊煌、蘇東平、翁芸芳、林蔚靖、林彥竹",
     "time": "T56-YC101[YM]"
   },
   "1131_141700": {
@@ -14904,12 +14916,12 @@
     "time": "Wabc-TA506[BM]"
   },
   "1131_230019": {
-    "code": "MGBM30075",
+    "code": "MGBM30086",
     "credit": "3.00",
     "hours": "3.00",
     "id": "230019",
     "memo": "",
-    "name": "ESG投資實務與應用 ESG investment practice and application",
+    "name": "ESG經營管理實務專題 ESG Business and Management Practical Topics",
     "num_limit": "9999",
     "reg_num": "29",
     "teacher": "胡均立、溫金豐、劉宗聖、陳睿緒",
@@ -17287,7 +17299,7 @@
     "memo": "",
     "name": "配樂製作（一） Scoring for Film and Multimedia I",
     "num_limit": "14",
-    "reg_num": "16",
+    "reg_num": "17",
     "teacher": "林明學",
     "time": "W9ab-AD027[GF]"
   },
@@ -18223,7 +18235,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周一晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "王夢偉",
     "time": "Mabcd-"
   },
@@ -18235,7 +18247,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，第三階段起開放所有學生加退選。\n以電機系大二學生優先、「2A班優先」、醫師工程師組。課程時間為周二晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "林容瑋、柯明道",
     "time": "Tabcd-"
   },
@@ -23219,18 +23231,6 @@
     "teacher": "趙天生",
     "time": "T234-SA312[GF]"
   },
-  "1131_520016": {
-    "code": "XDEP20007",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "520016",
-    "memo": "",
-    "name": "光電子學 Optoelectronics",
-    "num_limit": "60",
-    "reg_num": "6",
-    "teacher": "學士後電子與光子",
-    "time": ""
-  },
   "1131_520017": {
     "code": "XDEP20008",
     "credit": "3.00",
@@ -26240,7 +26240,7 @@
     "name": "專題演講 (碩一、博一) Colloquium",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "田仲豪",
+    "teacher": "陳俐吟",
     "time": "F56-"
   },
   "1131_535402": {
@@ -36535,7 +36535,7 @@
     "memo": "身心障礙或持有醫院證明不宜上一般體育課者，需向體育教育中心申請統一編入「適應體育」上課。\n上課地點在游泳館二樓健身房。",
     "name": "體育－適應體育 Adapted Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "詹益欣",
     "time": "Wz1-PE[GF]"
   },
@@ -38130,7 +38130,7 @@
     "id": "567000",
     "memo": "生物科技學系大一新生/本系生、中一中科學班、醫師工程師組優先，上限90人",
     "name": "普通生物學(一) General Biology(I)",
-    "num_limit": "30",
+    "num_limit": "90",
     "reg_num": "17",
     "teacher": "林勇欣、邱光裕、蘇昱誠",
     "time": "Wn56-SA320[GF]"
@@ -38142,7 +38142,7 @@
     "id": "567001",
     "memo": "[English Medium Course]英文授課 生物科技學系大一新生及轉學生優先選課，上限70人",
     "name": "普通生物學(一) General Biology(I)",
-    "num_limit": "30",
+    "num_limit": "70",
     "reg_num": "3",
     "teacher": "趙啟宏、鄒協成",
     "time": "Wn56-SC106[GF]"
@@ -38971,7 +38971,7 @@
     "memo": "",
     "name": "分科教材教法(數學領域/數學) Subject-related Teaching Materials & Methods(Mathematics)",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "梁志平",
     "time": "R34-HA217[GF]"
   },
@@ -39943,7 +39943,7 @@
     "memo": "資工組系統班+網攻班，上課地點：國防大學理工學院",
     "name": "導師輔導(3) Tutor Guidance(3)",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "張凱威",
     "time": "M12-"
   },
@@ -40363,7 +40363,7 @@
     "memo": "資工組，重補修隨班附讀，上課地點：國防大學理工學院，授課教師：XXX老師。",
     "name": "體育(3) Physical Education(3)",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "系統工程",
     "time": "T12-"
   },
@@ -41131,7 +41131,7 @@
     "memo": "資工組，上課地點：國防大學理工學院，授課教師：XXX老師",
     "name": "大陸問題研究 Studies on Mainland China",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "系統工程",
     "time": "T678-"
   },
@@ -41155,7 +41155,7 @@
     "memo": "資工組，上課地點：國防大學理工學院，授課教師：XXX老師",
     "name": "中華民國憲法與立國精神 Constitution and Founding spirit of the ROC",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "系統工程",
     "time": "W678-"
   },
@@ -41611,7 +41611,7 @@
     "memo": "資工組，上課地點：國防大學理工學院",
     "name": "服務學習 (2) Service Learning(2)",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "張凱威",
     "time": "M9-"
   },

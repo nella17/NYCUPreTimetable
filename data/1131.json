@@ -2179,7 +2179,7 @@
     "memo": "台北榮總",
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "254",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "李亭亭、黃淑鶴、鍾若男、明金蓮、林淑娟、王卿凌、盧婉菁、游佩玲",
     "time": "S123456-"
   },
@@ -2287,7 +2287,7 @@
     "memo": "",
     "name": "藥事行政法規 Pharmacy Administration and Pharmacy Law",
     "num_limit": "40",
-    "reg_num": "33",
+    "reg_num": "34",
     "teacher": "黃世宗、戴雪詠、陳映樺、蔡文瑛、張連成、陳文雯、林美智、林修德、江仟琦、洪肇宏",
     "time": "R34-YR105[YM]"
   },
@@ -2323,7 +2323,7 @@
     "memo": "[English Medium Course]",
     "name": "調劑學實作 Dispensing Laboratory",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "34",
     "teacher": "姜紹青、黃家俊",
     "time": "F34-YT203[YM]"
   },
@@ -2638,6 +2638,18 @@
     "reg_num": "0",
     "teacher": "胡德民",
     "time": "Md-"
+  },
+  "1131_111935": {
+    "code": "PSPM10059",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "111935",
+    "memo": "",
+    "name": "跨文化食藥保健 Healthy Life with Diet Supplements and Drugs",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "姜紹青、陳俞琪、林昭光、楊登傑",
+    "time": "W78-YL403[YM]"
   },
   "1131_112000": {
     "code": "BEBL20015",
@@ -3907,7 +3919,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "52",
+    "reg_num": "51",
     "teacher": "施怡芬、陳振昇、羅鴻基",
     "time": ""
   },
@@ -6791,18 +6803,6 @@
     "teacher": "喬芷、林文旭、李玉春",
     "time": "T34-YN118[YM]"
   },
-  "1131_130702": {
-    "code": "MDHW30007",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "130702",
-    "memo": "隔週上課",
-    "name": "公共政策 Public Policy Analysis and Synthesis",
-    "num_limit": "9999",
-    "reg_num": "4",
-    "teacher": "周月清、劉介修",
-    "time": "W789a-YN611[YM]"
-  },
   "1131_130703": {
     "code": "MDHW30044",
     "credit": "1.00",
@@ -6811,7 +6811,7 @@
     "memo": "碩、博士班必選",
     "name": "衛生福利專題討論(A) Seminar on Health and Welfare Research (A)",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "19",
     "teacher": "簡麗年",
     "time": "T56-YN613[YM]"
   },
@@ -6859,7 +6859,7 @@
     "memo": "碩、博士班必選",
     "name": "衛生福利專題討論(B) Seminar on Health and Welfare Research (B)",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "19",
     "teacher": "林文旭、喬芷、藍凡耘",
     "time": "T56-YN611[YM]"
   },
@@ -8900,7 +8900,7 @@
     "name": "高等藥物治療學 Advanced Pharmacotherapy",
     "num_limit": "40",
     "reg_num": "36",
-    "teacher": "周千瀅、楊振昌、張世霖、林邑璁、宋思賢、劉峻宇、張瑞文、姜紹青、賴峻毅、陳育民、蘇建維、曾令民、蘇東平、陳肇文、朱佩欣、王苾如、唐德成、高志平、王嚴鋒、許百豐、楊凱鈞、陳寬軒、陳香齡、李珮甄、宋俊松、蘇剛正、周建成、江東鴻、王浩元、蔣漢琳、何沁沁、林于瑄、童聖鈞、林家潔、余聲隆、陳柏瑋、翁如潔、吳建興、黃瑩瑀、盧志嘉、樊心蓉、林子超、王怡凱、許櫻寶、王笙帆、盧孟穗、張立人、陳俊豪、鄭乃銘、黃鈴茹、楊子涵、王明業、吳汶儒、許越涵、林韋綺、黃偉倫、黃逸修、馮嘉毅、曾偉誠",
+    "teacher": "周千瀅、楊振昌、張世霖、林邑璁、宋思賢、劉峻宇、張瑞文、姜紹青、賴峻毅、陳育民、蘇建維、曾令民、蘇東平、陳肇文、朱佩欣、王苾如、唐德成、高志平、王嚴鋒、許百豐、楊凱鈞、陳寬軒、陳香齡、李珮甄、宋俊松、蘇剛正、周建成、江東鴻、王浩元、蔣漢琳、許家禎、何沁沁、林于瑄、童聖鈞、林家潔、余聲隆、陳柏瑋、翁如潔、吳建興、黃瑩瑀、盧志嘉、樊心蓉、林子超、王怡凱、許櫻寶、王笙帆、盧孟穗、張立人、陳俊豪、鄭乃銘、黃鈴茹、楊子涵、王明業、吳汶儒、許越涵、林韋綺、黃偉倫、黃逸修、馮嘉毅、曾偉誠",
     "time": "M567-YL405[YM],W567-YR105[YM]"
   },
   "1131_132009": {
@@ -8971,7 +8971,7 @@
     "memo": "乙丙組學生於圖資405教室上課，甲組學生請勿選擇此堂[English Medium Course]",
     "name": "專題討論 Seminar",
     "num_limit": "50",
-    "reg_num": "11",
+    "reg_num": "10",
     "teacher": "黃世宗、王孟廷、姜紹青、東雅惠、陳謄州、許銘能、周月卿、張豫立、陳寬軒、鄒嘉玲、許家禎、周千瀅、何沁沁、林于瑄、王笙帆",
     "time": "F34-YL402[YM]"
   },
@@ -10211,18 +10211,6 @@
     "teacher": "盧家鋒",
     "time": "R78-YL401[YM],R78-YL403[YM]"
   },
-  "1131_132506": {
-    "code": "BEIR30006",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "132506",
-    "memo": null,
-    "name": "實驗腫瘤治療學 Experimental cancer therapy",
-    "num_limit": "9999",
-    "reg_num": "1",
-    "teacher": "藍耿立",
-    "time": "R12-YR104[YM]"
-  },
   "1131_132507": {
     "code": "BEIR30023",
     "credit": "2.00",
@@ -11428,7 +11416,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "133014",
-    "memo": "碩一rotation，112年7月暑假上課",
+    "memo": "碩一rotation，113年7月暑假上課",
     "name": "生命科學技術 Methods in Modern Biology",
     "num_limit": "9999",
     "reg_num": "4",
@@ -14503,7 +14491,7 @@
     "memo": "[1] 具德文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。",
     "name": "德文(二) German (II)",
     "num_limit": "18",
-    "reg_num": "13",
+    "reg_num": "14",
     "teacher": "唐岱霞",
     "time": "F78-YX503[YM]"
   },
@@ -17407,7 +17395,7 @@
     "memo": "",
     "name": "音樂科技導論 Introduction to Music Technology",
     "num_limit": "25",
-    "reg_num": "25",
+    "reg_num": "26",
     "teacher": "林明學",
     "time": "W34-HC103[GF]"
   },
@@ -19770,7 +19758,7 @@
     "id": "515518",
     "memo": "外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；網路與多媒體工程組的網路領域專業課程必修；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；本系生優先權順序：3&4年級，2年級，1年級",
     "name": "網路程式設計概論 Intro. to Network Programming",
-    "num_limit": "90",
+    "num_limit": "100",
     "reg_num": "90",
     "teacher": "嚴力行",
     "time": "M7R34-EC016[GF]"
@@ -19782,7 +19770,7 @@
     "id": "515519",
     "memo": "外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；網路與多媒體工程組的網路領域專業課程必修；主開3年級；本系生優先權順序：3&4年級，2年級，1年級",
     "name": "網路程式設計概論 Intro. to Network Programming",
-    "num_limit": "90",
+    "num_limit": "100",
     "reg_num": "90",
     "teacher": "袁賢銘",
     "time": "M7R34-EC015[GF]"
@@ -22207,7 +22195,7 @@
     "memo": "",
     "name": "企業實習 Internship",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "19",
     "teacher": "水敬心、陳彥佑",
     "time": ""
   },
@@ -31063,7 +31051,7 @@
     "memo": "生醫所主開(適用111學年前入學)",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "23",
     "teacher": "生醫工所",
     "time": ""
   },
@@ -31219,7 +31207,7 @@
     "memo": "資科工所、網資學程博士班 博士生資格考通過後必修",
     "name": "博士學位論文研究 Ph.D.Thesis Study",
     "num_limit": "110",
-    "reg_num": "44",
+    "reg_num": "43",
     "teacher": "資科工博",
     "time": ""
   },
@@ -33822,7 +33810,7 @@
     "id": "561074",
     "memo": "傳播與科技學系大學部學生應自行修習該系之相關媒體素養課程",
     "name": "傳播科技與媒體素養 Communication Technology and Media Literacy",
-    "num_limit": "38",
+    "num_limit": "30",
     "reg_num": "13",
     "teacher": "陳延昇、吳泰毅",
     "time": "T56-HB210[GF]"

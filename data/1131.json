@@ -2107,7 +2107,7 @@
     "memo": "實際導生課時間請依導師公告。",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "70",
+    "reg_num": "66",
     "teacher": "王子芳、陳紀雯、楊曼華",
     "time": "Rcd-YN416[YM]"
   },
@@ -2431,7 +2431,7 @@
     "memo": "暑期實習課程，須修畢7學分中藥相關課程學分數，且為大三(含)以上學生可選修。",
     "name": "中藥實習 Traditional Chinese Medicine Practice Experience",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "姜紹青",
     "time": "Un-"
   },
@@ -11888,7 +11888,7 @@
     "name": "分子細胞生物概論 Molecular Cell Biology",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "王琬菁、俞震亞、張佩靖、郭津岑、蔡金吾、黃介嶸、許翺麟、陳威儀、林崇智、金翠庭、李曉暉、林貝容、姜為中、藍昇輝、張崇德",
+    "teacher": "王琬菁、俞震亞、張佩靖、郭津岑、黃介嶸、許翺麟、陳威儀、金翠庭、李曉暉、張欣暘、林貝容、姜為中、藍昇輝、張崇德、袁維謙",
     "time": "F34-YC516[YM]"
   },
   "1131_133602": {
@@ -13663,7 +13663,7 @@
     "memo": "實際上課時間請參考學程公告，並請留意不能衝堂。",
     "name": "生技醫藥產業專題講座 Bio-Medical Industry Forum",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "21",
     "teacher": "蔡有光、連正章、江惠華、劉助、鍾惠民",
     "time": "S1U1-YR101[YM]"
   },
@@ -13675,7 +13675,7 @@
     "memo": "實際上課時間請參考學程公告，並請留意不能衝堂。",
     "name": "高階主管會計 Advanced management Accounting",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "23",
     "teacher": "陳宗岡",
     "time": "Un-YR101[YM]"
   },
@@ -13687,7 +13687,7 @@
     "memo": "",
     "name": "精準醫學高階管理 Innovation Management, strategy and technology in Precision Medicine ",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "黃奇英、李光申",
     "time": "U567-YR105[YM]"
   },
@@ -13699,7 +13699,7 @@
     "memo": "",
     "name": "創業創新管理 Entrepreneurial mindset and Innovation ",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "17",
     "teacher": "黃仕斌",
     "time": "S567-YR105[YM]"
   },
@@ -13940,7 +13940,7 @@
     "name": "看得到、找得到、用得到的長期照顧 Simple Way to Get the Service of Long Term Care",
     "num_limit": "20",
     "reg_num": "20",
-    "teacher": "楊曼華、黃淑鶴、高蕭國帆、林昱宏、楊舒琴、王菀宣、汪秋蓉、葉又菁、林俐岑、賴鼎璁、柯澐蓁、楊桂鳳、陳玫如",
+    "teacher": "楊曼華、黃淑鶴、高蕭國帆、林昱宏、黃美淑、楊舒琴、王菀宣、汪秋蓉、葉又菁、賴鼎璁、柯澐蓁、楊桂鳳、陳玫如",
     "time": "F56-YN418[YM]"
   },
   "1131_161020": {
@@ -17889,7 +17889,7 @@
     "num_limit": "9999",
     "reg_num": "41",
     "teacher": "劉辰生",
-    "time": "T567-HC404[GF]"
+    "time": "T567-F210[GF]"
   },
   "1131_514133": {
     "code": "HSFL20051",
@@ -18583,7 +18583,7 @@
     "memo": "",
     "name": "訊號與系統 Signals and Systems",
     "num_limit": "50",
-    "reg_num": "64",
+    "reg_num": "65",
     "teacher": "陳永平",
     "time": "M2W34-EE209[GF]"
   },
@@ -25639,7 +25639,7 @@
     "memo": "[English Medium Course](1)第一階段、第二階段、第三階段選課電子所、國半院、產創學院優先 (2)開學後加退選階段：開放外系及外校選課；開放填寫google加簽表單且依規定加簽。加簽方式會在第一堂課時說明並提供表單，欲加簽同學第一堂課請務必要來。",
     "name": "半導體元件可靠度及其失效物理 Reliability and Failure Physics of Semiconductor Devices",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "吳添立",
     "time": "M234-ED116[GF]"
   },
@@ -26443,7 +26443,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課;開放隨班附讀",
     "name": "作業系統 Operating System",
     "num_limit": "180",
-    "reg_num": "164",
+    "reg_num": "163",
     "teacher": "吳俊峯",
     "time": "M56-EDB27[GF]"
   },
@@ -26467,7 +26467,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "平行程式設計 Parallel Programming",
     "num_limit": "130",
-    "reg_num": "130",
+    "reg_num": "129",
     "teacher": "游逸平",
     "time": "R234-EDB27[GF]"
   },
@@ -30571,7 +30571,7 @@
     "memo": "非科法所學生限跨域學程同學選修，僅開放冤獄平反協會實習",
     "name": "法務法遵實習(二) Legal & Compliance Internship (Ⅱ)",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "林志潔、金孟華",
     "time": ""
   },
@@ -31845,7 +31845,7 @@
     "num_limit": "9999",
     "reg_num": "8",
     "teacher": "王維志",
-    "time": "Tabc-EB415[GF]"
+    "time": "S89a-EB415[GF]"
   },
   "1131_556202": {
     "code": "ENIM30015",
@@ -32815,7 +32815,7 @@
     "memo": "限交大校區EMBA及陽明校區生醫EMBA學生修課。",
     "name": "贏利模式研討 Business Model in Excellence",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "19",
     "teacher": "劉助、林春成、黃仕斌、陳宗岡、黃寬丞、鍾惠民、張家齊、戴天時、姚銘忠、林瑞嘉、陳來助",
     "time": "S234567-M-b10[GF]"
   },
@@ -33009,7 +33009,7 @@
     "num_limit": "45",
     "reg_num": "45",
     "teacher": "王冠生",
-    "time": "F56-A401[GF]"
+    "time": "F56-A213[GF]"
   },
   "1131_561008": {
     "code": "GECG00046",
@@ -33033,7 +33033,7 @@
     "num_limit": "30",
     "reg_num": "30",
     "teacher": "白姝玉",
-    "time": "W34-A401[GF]"
+    "time": "W34-A213[GF]"
   },
   "1131_561010": {
     "code": "GECG10013",
@@ -33141,7 +33141,7 @@
     "num_limit": "30",
     "reg_num": "32",
     "teacher": "李榮貴",
-    "time": "R34-A401[GF]"
+    "time": "R34-A213[GF]"
   },
   "1131_561019": {
     "code": "GECG10009",
@@ -33225,7 +33225,7 @@
     "num_limit": "30",
     "reg_num": "25",
     "teacher": "邱奕宏",
-    "time": "T34-A401[GF]"
+    "time": "T34-A213[GF]"
   },
   "1131_561026": {
     "code": "GECG00006",
@@ -33261,7 +33261,7 @@
     "num_limit": "30",
     "reg_num": "28",
     "teacher": "邱奕宏",
-    "time": "T56-A401[GF]"
+    "time": "T56-A213[GF]"
   },
   "1131_561029": {
     "code": "GECG00029",
@@ -33813,7 +33813,7 @@
     "num_limit": "30",
     "reg_num": "13",
     "teacher": "陳延昇、吳泰毅",
-    "time": "T56-HB210[GF]"
+    "time": "T56-HB326[GF]"
   },
   "1131_561075": {
     "code": "GECG10049",
@@ -33861,7 +33861,7 @@
     "num_limit": "30",
     "reg_num": "30",
     "teacher": "陳永平",
-    "time": "T78-A401[GF]"
+    "time": "T78-A213[GF]"
   },
   "1131_561501": {
     "code": "GEGE00010",
@@ -34233,7 +34233,7 @@
     "num_limit": "25",
     "reg_num": "0",
     "teacher": "吳舜華",
-    "time": "R56-A306[GF]"
+    "time": "R56-A209[GF]"
   },
   "1131_562028": {
     "code": "GELT00024",

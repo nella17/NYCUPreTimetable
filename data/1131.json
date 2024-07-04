@@ -1303,7 +1303,7 @@
     "memo": "限醫三",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "188",
+    "reg_num": "146",
     "teacher": "凌憬峰、葉添順、紀凱獻、陳威儀、蒲正筠、黃宣穎、王琬菁、王先逸、廖皎君、簡千栩、陳瀅州、尹彙文、季康揚",
     "time": ""
   },
@@ -2431,7 +2431,7 @@
     "memo": "暑期實習課程，須修畢7學分中藥相關課程學分數，且為大三(含)以上學生可選修。",
     "name": "中藥實習 Traditional Chinese Medicine Practice Experience",
     "num_limit": "9999",
-    "reg_num": "21",
+    "reg_num": "24",
     "teacher": "姜紹青",
     "time": "Un-"
   },
@@ -3919,7 +3919,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "46",
     "teacher": "施怡芬、陳振昇、羅鴻基",
     "time": ""
   },
@@ -5215,7 +5215,7 @@
     "memo": "",
     "name": "微生物及免疫學(含實驗) Microbiology ＆ Immunology(＆ Laboratory)",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "30",
     "teacher": "高正彥、徐嘉琳、蔡明翰",
     "time": "R5678-YB102[YM],R5678-YEC211[YM]"
   },
@@ -5288,7 +5288,7 @@
     "name": "病理學實驗 Pathology Laboratory",
     "num_limit": "195",
     "reg_num": "174",
-    "teacher": "李芬瑤、劉雯玲",
+    "teacher": "李芬瑤、杭仁釩、劉雯玲",
     "time": "T5678-YX406[YM]"
   },
   "1131_113402": {
@@ -9079,7 +9079,7 @@
     "memo": "此課程在113暑期開課，上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "醫藥研發之統計考量 Statistics for pharmaceutical development",
     "num_limit": "45",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "林滿玉",
     "time": ""
   },
@@ -9091,7 +9091,7 @@
     "memo": "此課程在113暑期開課，上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "再生醫療發展之法規與實務 Regulations and Practices in the Development of Regenerative Medicine",
     "num_limit": "45",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "林滿玉",
     "time": ""
   },
@@ -9103,7 +9103,7 @@
     "memo": "此課程在113暑期開課，上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "高齡整合照護與科技應用 Integrated Elderly Care and the Application of Technology",
     "num_limit": "45",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "黃世宗",
     "time": ""
   },
@@ -9115,7 +9115,7 @@
     "memo": "此課程在113暑期開課，上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "精準治療的模型引導藥物研發和計量藥學 Precision treatment models guide drug development and Pharmacometrics",
     "num_limit": "45",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "姜紹青",
     "time": ""
   },
@@ -9127,7 +9127,7 @@
     "memo": "1.此課程在113暑期開課，上課地點另行公布。\n2.具Python程式語言入門能力者為佳（或勇於嘗試者亦可），學員需自備筆電。\n3.建議一起選修【機器學習與深度學習於醫學影像之應用實作】，以達學習成效\n4.實體課程",
     "name": "機器學習與深度學習導論 Introduction to Machine Learning and Deep Learning",
     "num_limit": "45",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "陳麗芬",
     "time": ""
   },
@@ -9139,7 +9139,7 @@
     "memo": "1.此課程在113暑期開課，上課地點另行公布。\n2.選修者此課一定要同時選修【機器學習與深度學習導論】\n3.實體課程",
     "name": "機器學習與深度學習於醫學影像之應用實作 Practical Applications of Machine Learning and Deep Learning in Medical Imaging",
     "num_limit": "45",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "陳麗芬",
     "time": ""
   },
@@ -19699,7 +19699,7 @@
     "memo": "[English Medium Course]外系生請於開學上網加選；資訊共同；資訊工程組必修；網路與多媒體工程組必修；資工系與電資學士班學生優先選課；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "機率 Probability ",
     "num_limit": "110",
-    "reg_num": "100",
+    "reg_num": "99",
     "teacher": "謝秉均",
     "time": "W34F7-EC016[GF]"
   },
@@ -20056,12 +20056,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515620",
-    "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；學士班七大主題學程；本系生優先權順序：2年級，4年級，3年級，1年級",
+    "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；學士班七大主題學程；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "資料庫系統概論 Introduction to Database Systems  ",
     "num_limit": "130",
     "reg_num": "130",
     "teacher": "彭文志",
-    "time": "M7R34-ED117[GF]"
+    "time": "R34-ED117[GF]"
   },
   "1131_515621": {
     "code": "CSCS10008",
@@ -20527,7 +20527,7 @@
     "memo": "核心選修課程/  開3/4年級",
     "name": "電動機械 Electromechanical Device",
     "num_limit": "35",
-    "reg_num": "35",
+    "reg_num": "37",
     "teacher": "李安謙",
     "time": "Wabc-EE132[GF]"
   },
@@ -21343,7 +21343,7 @@
     "memo": "",
     "name": "實驗物理(一) Experimental Physics(I)",
     "num_limit": "32",
-    "reg_num": "34",
+    "reg_num": "35",
     "teacher": "許世英",
     "time": "F5678-SC358[GF]"
   },
@@ -22270,18 +22270,6 @@
     "reg_num": "50",
     "teacher": "王晉元",
     "time": "T567-A905[GF]"
-  },
-  "1131_517210": {
-    "code": "MGTM20004",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "517210",
-    "memo": "[English Medium Course]英文授課",
-    "name": "國際物流管理 Internation Logistics Management",
-    "num_limit": "35",
-    "reg_num": "25",
-    "teacher": "呂錦山",
-    "time": "R567-A904[GF]"
   },
   "1131_517211": {
     "code": "MGTM20013",
@@ -29651,18 +29639,6 @@
     "teacher": "黃家耀",
     "time": "T234-A904[GF]"
   },
-  "1131_537207": {
-    "code": "MGTM30057",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "537207",
-    "memo": "[English Medium Course]英文授課",
-    "name": "海運產業經營與管理 Shipping Operations and Management",
-    "num_limit": "9999",
-    "reg_num": "3",
-    "teacher": "呂錦山",
-    "time": "T567-A904[GF]"
-  },
   "1131_537208": {
     "code": "MGTM30033",
     "credit": "3.00",
@@ -30535,7 +30511,7 @@
     "memo": "非科法所學生限跨域學程同學選修，僅開放冤獄平反協會實習",
     "name": "法務法遵實習(一) Legal & Compliance Internship (Ⅰ)",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "5",
     "teacher": "林志潔、金孟華",
     "time": ""
   },
@@ -31051,7 +31027,7 @@
     "memo": "生醫所主開(適用111學年前入學)",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "生醫工所",
     "time": ""
   },

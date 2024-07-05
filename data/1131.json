@@ -2107,7 +2107,7 @@
     "memo": "實際導生課時間請依導師公告。",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "66",
+    "reg_num": "62",
     "teacher": "王子芳、陳紀雯、楊曼華",
     "time": "Rcd-YN416[YM]"
   },
@@ -10151,6 +10151,18 @@
     "teacher": "宋文旭",
     "time": "F56-YB624[YM]"
   },
+  "1131_132429": {
+    "code": "BEPT20087",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "132429",
+    "memo": "",
+    "name": "整合性臨床骨科 Integrated Course in Clinical Orthopedic",
+    "num_limit": "10",
+    "reg_num": "0",
+    "teacher": "施世亮、張彧銓",
+    "time": "T9a-YB530[YM]"
+  },
   "1131_132500": {
     "code": "BEIR30028",
     "credit": "2.00",
@@ -12679,7 +12691,7 @@
     "memo": "",
     "name": "臨床實證措施應用與評值 Clinical evidence-based intervention and ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "童恒新、胡慧蘭",
     "time": "F12345678-"
   },
@@ -13916,7 +13928,7 @@
     "name": "跨領域通識課：那些動物教我的事 Cross-Disciplinary GE Course： Things We Learned from Animals",
     "num_limit": "20",
     "reg_num": "20",
-    "teacher": "李怡萱、郭文瑞、俞震亞、鄭凱元、嚴如玉、曲在雯、廖文霖、尼大衛、魏雋展",
+    "teacher": "李怡萱、郭文瑞、俞震亞、鄭凱元、林士傑、嚴如玉、曲在雯、廖文霖、尼大衛、魏雋展",
     "time": "R78-CS100[GF],R78-YL402[YM]"
   },
   "1131_161018": {
@@ -19648,7 +19660,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515508",
-    "memo": "外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課；主開2年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；本系生優先權順序：2年級，4年級，3年級，1年級",
+    "memo": "外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課；主開2年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；本系生優先權順序：2年級，4年級，3年級，1年級。 「此課程第一週和第二週不上課，從第三週開始上課且上課到第十八週」",
     "name": "計算機網路概論 Intro. to Computer Networks",
     "num_limit": "80",
     "reg_num": "23",
@@ -25483,7 +25495,7 @@
     "memo": "",
     "name": "射頻積體電路 Radio-Frequency Integrated Circuits",
     "num_limit": "60",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "郭建男",
     "time": "F234-ED101[GF]"
   },
@@ -25507,7 +25519,7 @@
     "memo": "",
     "name": "深度學習 Deep Learning",
     "num_limit": "150",
-    "reg_num": "86",
+    "reg_num": "85",
     "teacher": "張添烜",
     "time": "M789-ED220[GF]"
   },
@@ -25699,7 +25711,7 @@
     "memo": "[English Medium Course]",
     "name": "數位訊號處理 Digital Signal Processing",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "林源倍",
     "time": "F234-EE102[GF]"
   },
@@ -25867,7 +25879,7 @@
     "memo": "授課老師：粘儆夫",
     "name": "電力電子 Power Electronics",
     "num_limit": "55",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "電控所",
     "time": "Tabc-EE105[GF]"
   },
@@ -26035,7 +26047,7 @@
     "memo": "[English Medium Course]、[智能所丙組核心]",
     "name": "無線通訊 Wireless Communications",
     "num_limit": "45",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "李明峻",
     "time": "R567-EDB07[GF]"
   },
@@ -26119,7 +26131,7 @@
     "memo": "[English Medium Course]、【AI學程專業選修】、[智能所甲組選修、丙組核心]",
     "name": "隨機過程 Stochastic Processes",
     "num_limit": "100",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "高榮鴻",
     "time": "M567-EDB26[GF]"
   },
@@ -26431,7 +26443,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課;開放隨班附讀",
     "name": "作業系統 Operating System",
     "num_limit": "180",
-    "reg_num": "163",
+    "reg_num": "162",
     "teacher": "吳俊峯",
     "time": "M56-EDB27[GF]"
   },
@@ -26575,7 +26587,7 @@
     "memo": "[English Medium Course]請依各所入學年度之修業要點選課；博士班資格考考核科目；資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "演算法 Algorithms",
     "num_limit": "157",
-    "reg_num": "111",
+    "reg_num": "110",
     "teacher": "荊宇泰",
     "time": "M789-EDB27[GF]"
   },
@@ -26599,7 +26611,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；資安學程必選修課程十選三；第一階段選課上限45人, 第三階段開放到60人；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "機器學習 Machine Learning ",
     "num_limit": "45",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "洪瑞鴻、邱維辰",
     "time": "R34-EC122[GF]"
   },
@@ -26947,7 +26959,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；數據科學與工程研究所二選一",
     "name": "資料探勘 Data Mining",
     "num_limit": "90",
-    "reg_num": "65",
+    "reg_num": "64",
     "teacher": "曾新穆",
     "time": "W34n-EC022[GF]"
   },
@@ -27163,7 +27175,7 @@
     "memo": "[English Medium Course]",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "9999",
-    "reg_num": "89",
+    "reg_num": "88",
     "teacher": "黃柏蒼",
     "time": "T567-AB103[GF]"
   },

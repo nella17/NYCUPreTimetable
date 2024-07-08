@@ -3847,7 +3847,7 @@
     "memo": "非物治系學生選修本課程，需先經授課老師同意",
     "name": "物理治療臨床實習(十) Physical Therapy Practicum (X)",
     "num_limit": "45",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "羅鴻基、周立偉、陳喬男",
     "time": "U5678-"
   },
@@ -8204,7 +8204,7 @@
     "name": "口腔醫學導論 Introduction of Oral Medical Science",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "張婷菡、黃何雄、吳靜宜、王鼎涵、吳政憲、李亞芸、張蓮鈺",
+    "teacher": "張婷菡、黃何雄、吳靜宜、王鼎涵、吳政憲、李亞芸、張蓮鈺、喻大有",
     "time": "T34-YD302[YM]"
   },
   "1131_131502": {
@@ -8578,18 +8578,6 @@
     "reg_num": "2",
     "teacher": "陳瑛瑛",
     "time": "T89-YN322[YM]"
-  },
-  "1131_131802": {
-    "code": "NSCH30055",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "131802",
-    "memo": "先修科目或先備能力：\n1.具勞工健康保護規則第七條附表六規定之52小時課程訓練合格的基礎。\n2.具勞工健康保護規則第七條第二項所定資格之勞工健康服務護理人員資格，且為現職從事勞工健康服務工作或具一年以上實際從事勞工健康服務經歷。",
-    "name": "職場健康政策規劃與管理實務 Occupational Health Policy Planning and Management Practice",
-    "num_limit": "9999",
-    "reg_num": "4",
-    "teacher": "藍凡耘、林承寬、莊雅婷、Justin Yang",
-    "time": "R34-YN603[YM]"
   },
   "1131_131805": {
     "code": "NSCH30038",
@@ -11900,7 +11888,7 @@
     "name": "分子細胞生物概論 Molecular Cell Biology",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "王琬菁、俞震亞、張佩靖、郭津岑、黃介嶸、許翺麟、陳威儀、金翠庭、李曉暉、張欣暘、林貝容、姜為中、藍昇輝、張崇德、袁維謙",
+    "teacher": "王琬菁、俞震亞、張佩靖、郭津岑、許翺麟、陳威儀、金翠庭、李曉暉、張欣暘、林貝容、姜為中、藍昇輝、張崇德、袁維謙",
     "time": "F34-YC516[YM]"
   },
   "1131_133602": {
@@ -11912,7 +11900,7 @@
     "name": "生醫科學實驗技術 Experimental techniques for biomedical science",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "郭津岑、陳威儀、徐嘉琳、葛一樊、金翠庭、王琬菁、廖韋晴、蔡明翰、張欣暘、姜為中、陳瀅州、張崇德",
+    "teacher": "郭津岑、陳威儀、徐嘉琳、葛一樊、金翠庭、王琬菁、廖韋晴、蔡明翰、張欣暘、姜為中、陳瀅州、張崇德、袁維謙",
     "time": "Wn56-YC516[YM]"
   },
   "1131_133603": {
@@ -13722,7 +13710,7 @@
     "id": "161000",
     "memo": "1.中央研究院人文講座課程，中央研究院中國文哲研究所周大興研究員主持授課。 \n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。",
     "name": "易經與玄學  I Ching and Xuan Xue",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "18",
     "teacher": "周大興",
     "time": "R56-"
@@ -13734,7 +13722,7 @@
     "id": "161001",
     "memo": "1.中央研究院人文講座課程，中央研究院臺灣史研究所鄭維中副研究員主持授課。 \n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。",
     "name": "島嶼歷史超展開：十七世紀東亞海域與臺灣 The Hidden Abilities unlocked: East Asian Seas and Taiwan in the Seventeenth Century",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "18",
     "teacher": "鄭維中",
     "time": "R78-"
@@ -13746,7 +13734,7 @@
     "id": "161002",
     "memo": "1.中央研究院人文講座課程，中央研究院法律學研究所蘇彥圖研究員主持授課。 \n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。",
     "name": "民主的制度工程 Designing Democracy",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "18",
     "teacher": "蘇彥圖",
     "time": "R78-"
@@ -13758,7 +13746,7 @@
     "id": "161003",
     "memo": "1.中央研究院人文講座課程，中央研究院中國文哲研究所李育霖研究員主持授課。 \n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。",
     "name": "數位、虛擬、感性 Digitality, Virtuality, Sensibility",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "18",
     "teacher": "李育霖",
     "time": "R56-"
@@ -13770,7 +13758,7 @@
     "id": "161004",
     "memo": "1.中央研究院人文講座課程，中央研究院政治學研究所吳文欽研究員主持授課。 \n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。",
     "name": "政經大小事：國家與經濟政策 Political Economy Issue: National Economic Policy",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "13",
     "teacher": "吳文欽",
     "time": "R78-"
@@ -13782,7 +13770,7 @@
     "id": "161005",
     "memo": "1.中央研究院人文講座課程，中央研究院歷史語言研究所李尚仁研究員主持授課。 \n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。",
     "name": "西方醫學史 History of Western Medicine",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "18",
     "teacher": "李尚仁",
     "time": "R56-"
@@ -13794,7 +13782,7 @@
     "id": "161006",
     "memo": "1.中央研究院民族學研究所劉紹華研究員主持授課。\n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。 \n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。",
     "name": "巨人的肩膀：人類學與道德世界：動物篇 The guidance of career planning by academic masters:Anthropology and the Moral World:Human-Animal Relationships",
-    "num_limit": "4",
+    "num_limit": "8",
     "reg_num": "4",
     "teacher": "劉紹華",
     "time": "R56-"
@@ -13806,7 +13794,7 @@
     "id": "161007",
     "memo": "1.中央研究院近代史研究所張哲嘉副研究員主持授課。\n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。 \n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。",
     "name": "巨人的肩膀：人類歷史中的預測 The guidance of career planning by academic masters：Forecast in Human History",
-    "num_limit": "4",
+    "num_limit": "8",
     "reg_num": "4",
     "teacher": "張哲嘉",
     "time": "R56-"
@@ -13818,7 +13806,7 @@
     "id": "161008",
     "memo": "1.中央研究院中國文哲研究所陳瑋芬研究員主持授課。\n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。 \n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。",
     "name": "巨人的肩膀：文明的光與影 The guidance of career planning by academic masters：The light and shadow of Civilization",
-    "num_limit": "4",
+    "num_limit": "8",
     "reg_num": "4",
     "teacher": "陳瑋芬",
     "time": "R56-"
@@ -13830,7 +13818,7 @@
     "id": "161009",
     "memo": "1.中央研究院民族學研究所余安邦副研究員主持授課。\n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。 \n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。",
     "name": "巨人的肩膀：存在心理學與電影 V The guidance of career planning by academic masters：Existential psychology and cinema V",
-    "num_limit": "4",
+    "num_limit": "8",
     "reg_num": "4",
     "teacher": "余安邦",
     "time": "R78-"
@@ -13842,7 +13830,7 @@
     "id": "161010",
     "memo": "1.中央研究院中國文哲研究所楊小濱研究員主持授課。\n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。 \n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。",
     "name": "巨人的肩膀：侯孝賢電影賞析 The guidance of career planning by academic masters：Appreciating and Analyzing Hou Hsiao-Hsien’s Films",
-    "num_limit": "4",
+    "num_limit": "8",
     "reg_num": "4",
     "teacher": "楊小濱",
     "time": "R78-"
@@ -13854,7 +13842,7 @@
     "id": "161011",
     "memo": "1.中央研究院經濟研究所黃登興研究員主持授課。\n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。 \n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。",
     "name": "巨人的肩膀：政經體制與經濟發展 The guidance of career planning by academic masters：Political and Economic system and Economic development",
-    "num_limit": "4",
+    "num_limit": "8",
     "reg_num": "4",
     "teacher": "黃登興",
     "time": "R78-"
@@ -13866,7 +13854,7 @@
     "id": "161012",
     "memo": "1.中央研究院社會學研究所蔡友月副研究員主持授課。\n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。 \n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。",
     "name": "巨人的肩膀：基因科技的倫理、法律與社會挑戰 Genetic Technology in Post-genomic era : Ethical, Legal and Social Implication Issues",
-    "num_limit": "4",
+    "num_limit": "8",
     "reg_num": "4",
     "teacher": "蔡友月",
     "time": "R78-"
@@ -13878,7 +13866,7 @@
     "id": "161013",
     "memo": "1.中央研究院經濟研究所張靜貞研究員主持授課。\n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。 \n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。",
     "name": "巨人的肩膀：農業與資源經濟 The guidance of career planning by academic masters：Agricultural and Resource Economics",
-    "num_limit": "4",
+    "num_limit": "8",
     "reg_num": "3",
     "teacher": "張靜貞",
     "time": "R56-"
@@ -13890,7 +13878,7 @@
     "id": "161014",
     "memo": "1.中央研究院歷史語言研究所王道還助研究員主持授課。\n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。 \n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。",
     "name": "巨人的肩膀：精讀《槍砲、病菌、與鋼鐵》 The guidance of career planning by academic masters：Critical Reading of Guns, Germs, and Steel",
-    "num_limit": "4",
+    "num_limit": "8",
     "reg_num": "4",
     "teacher": "王道還",
     "time": "R56-"
@@ -13902,7 +13890,7 @@
     "id": "161015",
     "memo": "1.中央研究院人文社會科學研究中心朱德蘭研究員主持授課。\n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。 \n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。",
     "name": "巨人的肩膀：閩南海洋貿易史 The guidance of career planning by academic masters：Min-nan Maritime Trade History",
-    "num_limit": "4",
+    "num_limit": "8",
     "reg_num": "4",
     "teacher": "朱德蘭",
     "time": "R56-"
@@ -13914,7 +13902,7 @@
     "id": "161016",
     "memo": "1.中央研究院歷史語言研究所李尚仁研究員主持授課。\n2.依中研院行事曆，113-1學期以2024/09/12為第一周開始上課，課程維持16+2週，採行線上教學至2025/01/09止。 \n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。",
     "name": "巨人的肩膀：醫藥產業的知識、經濟與政治 The guidance of career planning by academic masters：The Economics and Politics of Pharmaceutical Knowledge Production",
-    "num_limit": "4",
+    "num_limit": "8",
     "reg_num": "1",
     "teacher": "李尚仁",
     "time": "R78-"
@@ -13926,7 +13914,7 @@
     "id": "161017",
     "memo": "1.陽交大、政大、北藝大三校教務學術合作博雅教育課程。2.視訊同步遠距課程 (陽明校區：YL402；交大校區：CS100)",
     "name": "跨領域通識課：那些動物教我的事 Cross-Disciplinary GE Course： Things We Learned from Animals",
-    "num_limit": "20",
+    "num_limit": "40",
     "reg_num": "20",
     "teacher": "李怡萱、郭文瑞、俞震亞、鄭凱元、林士傑、嚴如玉、曲在雯、廖文霖、尼大衛、魏雋展",
     "time": "R78-CS100[GF],R78-YL402[YM]"
@@ -17287,7 +17275,7 @@
     "memo": "",
     "name": "配樂製作（一） Scoring for Film and Multimedia I",
     "num_limit": "14",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "林明學",
     "time": "W9ab-AD027[GF]"
   },
@@ -22315,7 +22303,7 @@
     "memo": "",
     "name": "畢業專題 Thesis",
     "num_limit": "9999",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "運管系",
     "time": ""
   },
@@ -30906,7 +30894,7 @@
     "id": "539102",
     "memo": "智能所乙組核心課程、[English Medium Course]英文授課",
     "name": "作業系統 Operating System",
-    "num_limit": "40",
+    "num_limit": "60",
     "reg_num": "38",
     "teacher": "陳碩漢",
     "time": "W678-ED201[GF]"
@@ -33548,7 +33536,7 @@
     "name": "科技與醫療的人文關懷 Humanism in Technology and Medical Cares",
     "num_limit": "26",
     "reg_num": "27",
-    "teacher": "黃育綸、陳俞琪、程千芳、林承霈、王美鴻",
+    "teacher": "黃育綸、陳俞琪、程千芳、林士平、林承霈、王美鴻",
     "time": "R12-A213[GF]"
   },
   "1131_561054": {
@@ -40924,7 +40912,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910106",
-    "memo": "資工組+機航組，上課地點：國防大學理工學院，授課教師：黃冠毓老師",
+    "memo": "資工組+機航組，上課地點：國防大學理工學院，授課教師：莊曜嘉老師",
     "name": "資訊科學概論 Introduction to Information Science ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40936,7 +40924,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910107",
-    "memo": "不分組A班，上課地點：國防大學理工學院，授課教師：黃冠毓老師",
+    "memo": "不分組A班，上課地點：國防大學理工學院，授課教師：莊曜嘉老師",
     "name": "資訊科學概論 Introduction to Information Science ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40960,7 +40948,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910109",
-    "memo": "不分組C班，上課地點：國防大學理工學院，授課教師：黃冠毓老師",
+    "memo": "不分組C班，上課地點：國防大學理工學院，授課教師：莊曜嘉老師",
     "name": "資訊科學概論 Introduction to Information Science ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -41584,7 +41572,7 @@
     "credit": "4.00",
     "hours": "4.00",
     "id": "910161",
-    "memo": "全組，重補修課程，上課地點：國防大學理工學院，授課教師：XXX老師",
+    "memo": "全組，重補修課程，上課地點：國防大學理工學院，授課教師：莊曜嘉老師",
     "name": "微積分(2) Calculus(2)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -44068,7 +44056,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910369",
-    "memo": "資工組，上課地點：國防大學理工學院",
+    "memo": "資工組，上課地點：國防大學理工學院，授課教師：黃冠毓老師",
     "name": "資料結構 Data Structure",
     "num_limit": "9999",
     "reg_num": "0",
@@ -44296,7 +44284,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910388",
-    "memo": "資工組，上課地點：國防大學理工學院，授課教師：陳芃棣老師",
+    "memo": "(預計停開)資工組，上課地點：國防大學理工學院，授課教師：陳芃棣老師",
     "name": "數位內容實務與安全 The Practice for Digital Content and Safety",
     "num_limit": "9999",
     "reg_num": "0",
@@ -44320,7 +44308,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910390",
-    "memo": "資工組，上課地點：國防大學理工學院",
+    "memo": "(預計停開)資工組，上課地點：國防大學理工學院",
     "name": "物聯網技術與應用 IoT Technology and Applications",
     "num_limit": "9999",
     "reg_num": "0",

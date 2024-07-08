@@ -2635,7 +2635,7 @@
     "memo": "時間及地點請依各組導師",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "135",
+    "reg_num": "136",
     "teacher": "凌憬峰、鄭彥甫、林惠菁、丁乾坤、陳世彬、楊智傑、張婷婷、陳志強、張榮偉、高正彥、侯珮珊、賴峻毅、任一安",
     "time": "S34-"
   },
@@ -6331,7 +6331,7 @@
     "memo": "大三導師時間，時間地點另行安排。",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "23",
     "teacher": "李曉暉、陳燕彰、可文亞、李敏嘉、袁維謙",
     "time": ""
   },
@@ -6343,7 +6343,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "陳俊銘、林照雄、鍾明怡、張欣暘",
     "time": ""
   },
@@ -11635,7 +11635,7 @@
     "memo": "[English Medium Course]跨校區選課。全英語授課課程。開放大學部學生修讀。授課方式：視訊同步遠距。陽明校區：圖資大樓824；交大校區：工五129遠距教室。開課老師每週會至不同校區實體上課，另一校區則視訊上課，詳情於E3公告。",
     "name": "決策與大腦 Decision making and the brain",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "吳仕煒",
     "time": "M56-EE129[GF],M56-YL824[YM]"
   },
@@ -11647,7 +11647,7 @@
     "memo": "[English Medium Course]全英語授課課程。開放大學部學生修讀。授課方式：視訊同步遠距。陽明校區：圖資大樓824；交大校區：工五129遠距教室。",
     "name": "功能性磁振造影分析 fMRI data analysis",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "吳仕煒",
     "time": "W34-CS100[GF],W34-YL824[YM]"
   },

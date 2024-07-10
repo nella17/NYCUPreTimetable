@@ -1072,7 +1072,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "110085",
-    "memo": "全年級皆可選修",
+    "memo": "開放大學部、碩博班選課",
     "name": "智慧醫療專題研究 Research Project for Smart Healthcare",
     "num_limit": "46",
     "reg_num": "0",
@@ -17349,7 +17349,7 @@
     "num_limit": "30",
     "reg_num": "19",
     "teacher": "蕭智尹",
-    "time": "T34-HC101[GF]"
+    "time": "T34-A205[GF]"
   },
   "1131_514021": {
     "code": "HSCH00005",
@@ -19483,7 +19483,7 @@
     "memo": "由專題指導老師約定討論時間及地點",
     "name": "光電工程專題(一) Special Project of Photonics (I)",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "29",
     "teacher": "光電系",
     "time": ""
   },
@@ -19495,7 +19495,7 @@
     "memo": "1.本系跨域學程學生必修 2.由專題指導老師約定討論時間及地點",
     "name": "光電跨域專題 (一) X-Photonics Project (1)",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "6",
     "teacher": "光電系",
     "time": ""
   },
@@ -19653,7 +19653,7 @@
     "num_limit": "80",
     "reg_num": "23",
     "teacher": "王協源",
-    "time": "T56-ED117[GF]"
+    "time": "T56-EDB27[GF]"
   },
   "1131_515509": {
     "code": "CSCS10016",
@@ -19917,7 +19917,7 @@
     "num_limit": "240",
     "reg_num": "184",
     "teacher": "張永儒",
-    "time": "M56-EC016[GF],M56-ED117[GF]"
+    "time": "M56-EEB24[GF]"
   },
   "1131_515609": {
     "code": "CSCS10019",
@@ -20394,7 +20394,7 @@
     "id": "516123",
     "memo": "核心選修課程/  開3/4年級。系統工程學生請以網路選課加退選處理表做紙本加簽。",
     "name": "能源科技 Energy Technology ",
-    "num_limit": "75",
+    "num_limit": "100",
     "reg_num": "75",
     "teacher": "陳慶耀",
     "time": "Rabc-EE106[GF]"
@@ -22735,7 +22735,7 @@
     "memo": "資財系必修；不開放網路選課。請依資財系專題程執行辦法規定修課。限資財系(含雙主修)學生選修。",
     "name": "資訊與財金專題(二) Projects in Information Management and Finance (II)",
     "num_limit": "0",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "資財系",
     "time": ""
   },
@@ -25303,7 +25303,7 @@
     "memo": "",
     "name": "半導體物理及元件(一) Semiconductor Physics and Devices (I)",
     "num_limit": "60",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "郭治群",
     "time": "W567-ED101[GF]"
   },
@@ -25471,7 +25471,7 @@
     "memo": "",
     "name": "積體電路之靜電防護設計特論 Special topic on ESD Protection Design in CMOS Ics",
     "num_limit": "120",
-    "reg_num": "95",
+    "reg_num": "94",
     "teacher": "柯明道",
     "time": "Rabc-ED220[GF]"
   },
@@ -25483,7 +25483,7 @@
     "memo": "",
     "name": "射頻積體電路 Radio-Frequency Integrated Circuits",
     "num_limit": "60",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "郭建男",
     "time": "F234-ED101[GF]"
   },
@@ -25495,7 +25495,7 @@
     "memo": "",
     "name": "數位通訊積體電路 Digital Communication Integrated Circuits",
     "num_limit": "40",
-    "reg_num": "84",
+    "reg_num": "83",
     "teacher": "周世傑",
     "time": "R2-ED202[GF],M56-EDB01[GF]"
   },
@@ -25519,7 +25519,7 @@
     "memo": "[English Medium Course]線上授課 Online Course",
     "name": "VLSI測試與可測試性設計 VLSI Testing and Design for Testability",
     "num_limit": "55",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "趙家佐",
     "time": "M234-EDB06[GF]"
   },
@@ -25591,7 +25591,7 @@
     "memo": "",
     "name": "醫學成像系統 Medical Imaging System",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "鄭耿璽",
     "time": "R567-ED116[GF]"
   },
@@ -25711,7 +25711,7 @@
     "memo": "[English Medium Course]",
     "name": "數位訊號處理 Digital Signal Processing",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "陳福川",
     "time": "T567-EE105[GF]"
   },
@@ -25867,7 +25867,7 @@
     "memo": "授課老師：粘儆夫",
     "name": "電力電子 Power Electronics",
     "num_limit": "55",
-    "reg_num": "21",
+    "reg_num": "20",
     "teacher": "電控所",
     "time": "Tabc-EE105[GF]"
   },
@@ -26095,7 +26095,7 @@
     "memo": "",
     "name": "鎖相迴路與頻率合成 Phase locked loop and Frequency Synthesizer",
     "num_limit": "45",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "高曜煌",
     "time": "M678-ED301[GF]"
   },
@@ -26589,7 +26589,7 @@
     "num_limit": "177",
     "reg_num": "113",
     "teacher": "陳志成",
-    "time": "W78-ED117[GF]"
+    "time": "W78-EDB27[GF]"
   },
   "1131_535514": {
     "code": "CSIC30062",
@@ -26728,7 +26728,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "535525",
-    "memo": "",
+    "memo": "訊學院優先(不開放在職專班網路選課)；[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously] 。",
     "name": "RISC-V人工智慧運算架構與系統 (ㄧ) RISCV AI Computing Architecture and System I",
     "num_limit": "30",
     "reg_num": "21",
@@ -26740,7 +26740,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "535526",
-    "memo": "",
+    "memo": "訊學院優先(不開放在職專班網路選課)；[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously] 。",
     "name": "RISC-V人工智慧運算架構與系統(二) RISCV AI Computing Architecture and System II",
     "num_limit": "30",
     "reg_num": "16",
@@ -28679,6 +28679,18 @@
     "teacher": "吳金典",
     "time": "W34R5-SA214[GF]"
   },
+  "1131_536714": {
+    "code": "SCMA30067",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536714",
+    "memo": "",
+    "name": "機器學習的數學基礎 Mathematical foundations of machine learning",
+    "num_limit": "25",
+    "reg_num": "0",
+    "teacher": "蘇承芳",
+    "time": "M8T34-SA211[GF]"
+  },
   "1131_536750": {
     "code": "SCMA30009",
     "credit": "3.00",
@@ -29135,18 +29147,6 @@
     "teacher": "張正宏",
     "time": "T34F4-SC157[GF]"
   },
-  "1131_536961": {
-    "code": "SCIP30058",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "536961",
-    "memo": "1. 英文授課 [English Medium Course] 2. 同意社會人士隨班附讀 [Allow for the public to audit the course]",
-    "name": "複雜系統專題 Topics in complex systems",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "張正宏",
-    "time": "F56-SC157[GF]"
-  },
   "1131_536962": {
     "code": "SCIP30035",
     "credit": "3.00",
@@ -29170,6 +29170,30 @@
     "reg_num": "9",
     "teacher": "傅嵐熙 Anthony Francis",
     "time": "Tn5W5-SC157[GF]"
+  },
+  "1131_536965": {
+    "code": "SCIP30062",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "536965",
+    "memo": "1. 英文授課 [English Medium Course] 2. 同意社會人士隨班附讀，上限5人 [Allow up to 5 seats for the public to audit the course]",
+    "name": "科學領域的職業 Careers in science",
+    "num_limit": "20",
+    "reg_num": "0",
+    "teacher": "傅嵐熙 Anthony Francis",
+    "time": "W6-SC157[GF]"
+  },
+  "1131_536966": {
+    "code": "SCIP30064",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "536966",
+    "memo": "1. 英文授課 [English Medium Course] 2. 同意社會人士隨班附讀，上限5人 [Allow up to 5 seats for the public to audit the course]",
+    "name": "格子規範理論簡介(二)：費米子 Introduction to Lattice Gauge Theory (II): Fermions",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "傅嵐熙 Anthony Francis",
+    "time": "T78-SC152[GF]"
   },
   "1131_537000": {
     "code": "MGMS30049",
@@ -42695,18 +42719,6 @@
     "teacher": "王哲釧",
     "time": "M349-"
   },
-  "1131_910256": {
-    "code": "SESE20030",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910256",
-    "memo": "化材組化學班+材料班，上課地點：國防大學理工學院",
-    "name": "材料光電磁性質 Optical, Electronic, and Magnetic Properties of Materials",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "楊朝堯",
-    "time": "T234-"
-  },
   "1131_910257": {
     "code": "SESE20290",
     "credit": "3.00",
@@ -42921,7 +42933,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "劉益銘",
-    "time": "T678-"
+    "time": "Wabc-"
   },
   "1131_910275": {
     "code": "SESE00085",
@@ -44265,7 +44277,7 @@
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "系統工程",
-    "time": "T234-"
+    "time": "T123-"
   },
   "1131_910387": {
     "code": "SESE00070",
@@ -44279,18 +44291,6 @@
     "teacher": "系統工程",
     "time": "Wabc-"
   },
-  "1131_910388": {
-    "code": "SESE20297",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910388",
-    "memo": "(預計停開)資工組，上課地點：國防大學理工學院，授課教師：陳芃棣老師",
-    "name": "數位內容實務與安全 The Practice for Digital Content and Safety",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "Mabc-"
-  },
   "1131_910389": {
     "code": "SESE20235",
     "credit": "3.00",
@@ -44302,18 +44302,6 @@
     "reg_num": "0",
     "teacher": "張凱威",
     "time": "M4W34-"
-  },
-  "1131_910390": {
-    "code": "SESE20274",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910390",
-    "memo": "(預計停開)資工組，上課地點：國防大學理工學院",
-    "name": "物聯網技術與應用 IoT Technology and Applications",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "劉芳萍",
-    "time": "W678-"
   },
   "1131_910391": {
     "code": "SESE20074",
@@ -44842,6 +44830,30 @@
     "reg_num": "0",
     "teacher": "系統工程",
     "time": "Wabc-"
+  },
+  "1131_910435": {
+    "code": "SESE20299",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "910435",
+    "memo": "上課地點：國防大學理工學院，授課老師：許曆山老師",
+    "name": "無人機地面支援系統 Ummannd aircraft ground systems",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "系統工程",
+    "time": "Tabc-"
+  },
+  "1131_910436": {
+    "code": "SESE00125",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "910436",
+    "memo": "上課地點：國防大學理工學院。",
+    "name": "陶瓷材料 Ceramic Materials",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "楊朝堯",
+    "time": ""
   },
   "1131_960000": {
     "code": "GEMT00003",

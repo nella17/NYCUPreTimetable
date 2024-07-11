@@ -1339,7 +1339,7 @@
     "memo": "",
     "name": "導師時間(三) Class Meeting(III)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "洪善鈴",
     "time": "W56-YD214[YM]"
   },
@@ -1387,7 +1387,7 @@
     "memo": "",
     "name": "導師時間(三) Class Meeting(III)",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "林嘉澍",
     "time": "W56-YD214[YM]"
   },
@@ -1951,7 +1951,7 @@
     "memo": "",
     "name": "導師時間(三) Class Meeting(III)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "黎萬君",
     "time": "W56-YD214[YM]"
   },
@@ -1963,7 +1963,7 @@
     "memo": "",
     "name": "導師時間(三) Class Meeting(III)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "張景智",
     "time": "W56-YD214[YM]"
   },
@@ -1975,7 +1975,7 @@
     "memo": "",
     "name": "導師時間(三) Class Meeting(III)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "牙醫系",
     "time": "W56-YD214[YM]"
   },
@@ -3619,7 +3619,7 @@
     "memo": "",
     "name": "物理治療行政管理學(模組) Physical Therapy Administration and Management",
     "num_limit": "45",
-    "reg_num": "39",
+    "reg_num": "40",
     "teacher": "李雪楨、王子娟、趙遠宏、鄭融、胡家誠、許寶文、陳淵琪、蘇信昌、巫俊杉、陳雅玲、林俊廷、宋宏謙、林訓正",
     "time": "W78-YB624[YM]"
   },
@@ -7963,7 +7963,7 @@
     "memo": "[English Medium Course]The course will be taught intensively for two weeks from July 1 - 14, 2024, and is limited to those who have registered in advance.\n本課程授課時間為2024年7月1-14日兩週密集課程，限有事先報名登記者選修。",
     "name": "台灣傳統中醫及公共衛生實務 Introduction of Traditional Chinese Medicine and Public Health System in Taiwan",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "14",
     "teacher": "彭溫雅、簡莉盈、陳方佩、莊宜芳、藍凡耘、邱淑媞",
     "time": "Uy-YS405[YM]"
   },
@@ -17265,7 +17265,7 @@
     "num_limit": "15",
     "reg_num": "8",
     "teacher": "何品達",
-    "time": "F567-HC101[GF]"
+    "time": "F567-HB326[GF]"
   },
   "1131_514014": {
     "code": "HSCH20006",
@@ -17275,7 +17275,7 @@
     "memo": "",
     "name": "配樂製作（一） Scoring for Film and Multimedia I",
     "num_limit": "14",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "林明學",
     "time": "W9ab-AD027[GF]"
   },
@@ -19617,7 +19617,7 @@
     "num_limit": "105",
     "reg_num": "0",
     "teacher": "易志偉",
-    "time": "W34-ED117[GF]"
+    "time": "W34-AB101[GF]"
   },
   "1131_515506": {
     "code": "CSCS10009",
@@ -25231,7 +25231,7 @@
     "memo": "",
     "name": "電子專題研討(系統組) Seminar on Electronics-Circuits and Systems",
     "num_limit": "170",
-    "reg_num": "64",
+    "reg_num": "63",
     "teacher": "溫    岸",
     "time": "T56-ED220[GF]"
   },
@@ -25555,7 +25555,7 @@
     "memo": "",
     "name": "影像處理 Image Processing",
     "num_limit": "9999",
-    "reg_num": "83",
+    "reg_num": "82",
     "teacher": "王聖智",
     "time": "M56-ED201[GF],R7-ED301[GF]"
   },
@@ -25579,7 +25579,7 @@
     "memo": "",
     "name": "隨機過程 Stochastic Processes",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "簡鳳村",
     "time": "W234-ED301[GF]"
   },
@@ -26071,7 +26071,7 @@
     "memo": "[智能所丙組選修]、「資安學程必選修課程」",
     "name": "量子訊息與計算 Quantum Information and Computation",
     "num_limit": "45",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "賴青沂",
     "time": "T234-EDB07[GF]"
   },
@@ -26611,7 +26611,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "機器學習晶片架構設計 Accelerator Architectures for Machine Learning ",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "葉宗泰",
     "time": "R34-ED102[GF]"
   },
@@ -26829,7 +26829,7 @@
     "num_limit": "88",
     "reg_num": "75",
     "teacher": "李奇育",
-    "time": "T34-ED117[GF]"
+    "time": "T34-EDB27[GF]"
   },
   "1131_535606": {
     "code": "CSIC30127",
@@ -40411,7 +40411,7 @@
     "memo": "電機組，重補修隨班附讀，上課地點：國防大學理工學院，授課教師：XXX老師",
     "name": "體育(7) Physical Education(7)",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "系統工程",
     "time": "W12-"
   },

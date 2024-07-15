@@ -2107,7 +2107,7 @@
     "memo": "實際導生課時間請依導師公告。",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "62",
+    "reg_num": "61",
     "teacher": "王子芳、陳紀雯、楊曼華",
     "time": "Rcd-YN416[YM]"
   },
@@ -33858,7 +33858,7 @@
     "id": "561500",
     "memo": "",
     "name": "機器人與人工智慧系統探索 Exploring Robotic and Artificial Intelligent Systems",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "30",
     "teacher": "陳永平",
     "time": "T78-A213[GF]"
@@ -33870,7 +33870,7 @@
     "id": "561501",
     "memo": "不提供加簽。純線上同步遠距課程，請向教師索取線上連結。",
     "name": "新竹六燃地方學：大學社會責任與在地實踐 Localogy of the Sixth Fuel Factory: University Social Responsibility ＆ Local Praxis",
-    "num_limit": "70",
+    "num_limit": "80",
     "reg_num": "70",
     "teacher": "賴雯淑",
     "time": "Wbc-"
@@ -33882,7 +33882,7 @@
     "id": "561502",
     "memo": "不提供加簽",
     "name": "心理學在現代生活中的應用 Psychology applied to modern life",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "30",
     "teacher": "楊大和",
     "time": "T56-A202[GF]"
@@ -33894,7 +33894,7 @@
     "id": "561503",
     "memo": "MOOCs，不接受傳科系學生修讀，課程原則上不接受加簽，請隨時留意網路選課系統有無人退選。",
     "name": "故事創作與影像敘事 Storytelling and Narrative",
-    "num_limit": "40",
+    "num_limit": "50",
     "reg_num": "40",
     "teacher": "張宏宇",
     "time": "Tab-ED116[GF]"
@@ -33906,7 +33906,7 @@
     "id": "561504",
     "memo": "",
     "name": "交通安全與生命教育 Traffic Safety and Life Education",
-    "num_limit": "50",
+    "num_limit": "60",
     "reg_num": "50",
     "teacher": "吳宗修",
     "time": "T89-A901[GF]"

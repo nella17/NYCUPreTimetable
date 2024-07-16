@@ -2107,7 +2107,7 @@
     "memo": "實際導生課時間請依導師公告。",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "61",
+    "reg_num": "60",
     "teacher": "王子芳、陳紀雯、楊曼華",
     "time": "Rcd-YN416[YM]"
   },
@@ -2599,7 +2599,7 @@
     "memo": "此課程開設在113年度暑期課程，上課時間地點另行公告，請注意藥學系官網資訊更新。",
     "name": "現代本草學 Modern Herbology",
     "num_limit": "100",
-    "reg_num": "83",
+    "reg_num": "82",
     "teacher": "陳日榮、賴尚志",
     "time": "Sd-YR101[YM]"
   },
@@ -3919,7 +3919,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "施怡芬、陳振昇、羅鴻基",
     "time": ""
   },
@@ -8553,7 +8553,7 @@
     "num_limit": "9999",
     "reg_num": "4",
     "teacher": "黃久美",
-    "time": "M789a-YN419[YM]"
+    "time": "M789a-YN603[YM]"
   },
   "1131_131800": {
     "code": "NSCH30018",
@@ -22291,7 +22291,7 @@
     "memo": "",
     "name": "畢業專題 Thesis",
     "num_limit": "9999",
-    "reg_num": "53",
+    "reg_num": "52",
     "teacher": "運管系",
     "time": ""
   },
@@ -23815,7 +23815,7 @@
     "memo": "限傳播所，需經授課教師同意方得選修",
     "name": "整合行銷傳播專題 Seminar in Integrated Marketing Communication",
     "num_limit": "6",
-    "reg_num": "3",
+    "reg_num": "7",
     "teacher": "陳延昇",
     "time": "Rabc-HB109[GF]"
   },
@@ -25747,7 +25747,7 @@
     "memo": "",
     "name": "模糊系統 Fuzzy Systems",
     "num_limit": "150",
-    "reg_num": "44",
+    "reg_num": "46",
     "teacher": "林昇甫",
     "time": "R234-EE118[GF]"
   },
@@ -37831,7 +37831,7 @@
     "memo": "土木B",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "余彥廷",
     "time": "F234-SA015[GF]"
   },

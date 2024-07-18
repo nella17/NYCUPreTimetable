@@ -2253,7 +2253,7 @@
     "num_limit": "9999",
     "reg_num": "6",
     "teacher": "胡慧蘭",
-    "time": "S234n-"
+    "time": "S234n-YL401[YM]"
   },
   "1131_111901": {
     "code": "PSPM10054",
@@ -12067,7 +12067,7 @@
     "memo": "限臨醫所博士班；全英語授課課程；可視訊上課。專題討論（博士班一）與專題討論（博士班二）每學期限選其中一門課，不得同時修讀。[English Medium Course]",
     "name": "專題討論(博士班二) Seminar DII",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "王錦鈿、鄭彥甫、李光申、楊慕華、黃怡翔、李美璇、陳世彬、楊智宇、嵇達德、陳斯婷、賴峻毅、林進清、羅秀容、梁毓津、吳肇卿",
     "time": "R78-YL405[YM]"
   },
@@ -19651,7 +19651,7 @@
     "memo": "[English Medium Course]外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "演算法概論 Introduction to Algorithms",
     "num_limit": "70",
-    "reg_num": "70",
+    "reg_num": "69",
     "teacher": "高孟駿",
     "time": "T34R7-EC022[GF]"
   },
@@ -19711,7 +19711,7 @@
     "memo": "[English Medium Course]外系生請於開學上網加選；資訊共同；資訊工程組必修；網路與多媒體工程組必修；資工系與電資學士班學生優先選課；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "機率 Probability ",
     "num_limit": "110",
-    "reg_num": "99",
+    "reg_num": "98",
     "teacher": "謝秉均",
     "time": "W34F7-EC016[GF]"
   },
@@ -19963,7 +19963,7 @@
     "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；主開1年級；本系生優先權順序：1年級，4年級，3年級，2年級",
     "name": "競技程式設計(二) Competitive Programming (II)",
     "num_limit": "65",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "謝旻錚",
     "time": "Fabc-EC115[GF]"
   },
@@ -22315,7 +22315,7 @@
     "memo": "",
     "name": "畢業專題 Thesis",
     "num_limit": "9999",
-    "reg_num": "52",
+    "reg_num": "50",
     "teacher": "運管系",
     "time": ""
   },
@@ -25483,7 +25483,7 @@
     "memo": "",
     "name": "積體電路之靜電防護設計特論 Special topic on ESD Protection Design in CMOS Ics",
     "num_limit": "120",
-    "reg_num": "94",
+    "reg_num": "93",
     "teacher": "柯明道",
     "time": "Rabc-ED220[GF]"
   },
@@ -25507,7 +25507,7 @@
     "memo": "",
     "name": "數位通訊積體電路 Digital Communication Integrated Circuits",
     "num_limit": "40",
-    "reg_num": "83",
+    "reg_num": "82",
     "teacher": "周世傑",
     "time": "R2-ED202[GF],M56-EDB01[GF]"
   },
@@ -25531,7 +25531,7 @@
     "memo": "[English Medium Course]線上授課 Online Course",
     "name": "VLSI測試與可測試性設計 VLSI Testing and Design for Testability",
     "num_limit": "55",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "趙家佐",
     "time": "M234-EDB06[GF]"
   },
@@ -25543,7 +25543,7 @@
     "memo": "",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "100",
-    "reg_num": "53",
+    "reg_num": "52",
     "teacher": "吳易忠",
     "time": "F56-EC022[GF],W78-ED219[GF]"
   },
@@ -25627,7 +25627,7 @@
     "memo": "",
     "name": "實體設計自動化 Physical Design Automation",
     "num_limit": "9999",
-    "reg_num": "96",
+    "reg_num": "95",
     "teacher": "陳宏明",
     "time": "F234-ED116[GF]"
   },
@@ -25723,7 +25723,7 @@
     "memo": "[English Medium Course]",
     "name": "數位訊號處理 Digital Signal Processing",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "陳福川",
     "time": "T567-EE105[GF]"
   },
@@ -25771,7 +25771,7 @@
     "memo": "",
     "name": "模糊系統 Fuzzy Systems",
     "num_limit": "150",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "林昇甫",
     "time": "R234-EE118[GF]"
   },
@@ -25879,7 +25879,7 @@
     "memo": "授課老師：粘儆夫",
     "name": "電力電子 Power Electronics",
     "num_limit": "55",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "電控所",
     "time": "Tabc-EE105[GF]"
   },
@@ -25975,7 +25975,7 @@
     "memo": "",
     "name": "手機行動通訊系統   Moblie Phone Communication System",
     "num_limit": "50",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "陳富強",
     "time": "Rn56-EDB26[GF]"
   },
@@ -26107,7 +26107,7 @@
     "memo": "",
     "name": "鎖相迴路與頻率合成 Phase locked loop and Frequency Synthesizer",
     "num_limit": "45",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "高曜煌",
     "time": "M678-ED301[GF]"
   },
@@ -27844,7 +27844,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "536210",
-    "memo": "",
+    "memo": "土木系所主開",
     "name": "高科技廠房設施設計 High-tech Facility Design",
     "num_limit": "9999",
     "reg_num": "5",
@@ -38996,7 +38996,7 @@
     "name": "分科教材教法(社會領域) Teaching Methods and Materials in History and Social Studies",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "待聘",
+    "teacher": "蔡相廷",
     "time": "M89-HA216[GF]"
   },
   "1131_599018": {

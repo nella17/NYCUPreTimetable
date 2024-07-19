@@ -13663,7 +13663,7 @@
     "memo": "開放隨班附讀，臨護所、在職專班、社區所合班上課。",
     "name": "實證與研究 Evidence-Based and Research",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "穆佩芬、陳俞琪、童恒新、黃淑鶴、徐德福、鄒樂起",
     "time": "F56-YN416[YM]"
   },
@@ -13962,7 +13962,7 @@
     "id": "161019",
     "memo": "限未修過「長期照顧現況綜論」、「看得到、找得到、用得到」課程同學選修。本課程僅能在通識領域課程與護理學系選修學分中擇一計算。",
     "name": "看得到、找得到、用得到的長期照顧 Simple Way to Get the Service of Long Term Care",
-    "num_limit": "20",
+    "num_limit": "40",
     "reg_num": "20",
     "teacher": "楊曼華、黃淑鶴、高蕭國帆、林昱宏、黃美淑、楊舒琴、王菀宣、汪秋蓉、葉又菁、賴鼎璁、柯澐蓁、楊桂鳳、陳玫如",
     "time": "F56-YN418[YM]"
@@ -15931,7 +15931,7 @@
     "memo": "",
     "name": "生物化學（一） Biochemistry (I)",
     "num_limit": "40",
-    "reg_num": "34",
+    "reg_num": "35",
     "teacher": "蕭育源、高智飛",
     "time": "F234-BI303[BA]"
   },
@@ -15943,7 +15943,7 @@
     "memo": "[English Medium Course]",
     "name": "生物化學（一） Biochemistry (I)",
     "num_limit": "30",
-    "reg_num": "4",
+    "reg_num": "3",
     "teacher": "蘭宜錚",
     "time": "M8F34-BI311[BA]"
   },
@@ -30705,7 +30705,7 @@
     "num_limit": "9999",
     "reg_num": "14",
     "teacher": "陳在方",
-    "time": "M234-"
+    "time": "M34n-EE129[GF]"
   },
   "1131_537918": {
     "code": "LWLW30035",
@@ -44842,18 +44842,6 @@
     "reg_num": "0",
     "teacher": "系統工程",
     "time": "Wabc-"
-  },
-  "1131_910435": {
-    "code": "SESE20299",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910435",
-    "memo": "上課地點：國防大學理工學院，授課老師：許曆山老師",
-    "name": "無人機地面支援系統 Ummannd aircraft ground systems",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "Tabc-"
   },
   "1131_910436": {
     "code": "SESE00125",

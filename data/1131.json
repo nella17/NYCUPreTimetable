@@ -2119,7 +2119,7 @@
     "memo": "實際導生課時間請依導師公告。",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "59",
+    "reg_num": "56",
     "teacher": "王子芳、陳紀雯、楊曼華",
     "time": "Rcd-YN416[YM]"
   },
@@ -5468,7 +5468,7 @@
     "name": "醫療與社會人文 Medical Humanity and Social Science",
     "num_limit": "146",
     "reg_num": "140",
-    "teacher": "周穎政、郭文華、黃嵩立、喬芷、梁立霖、林文旭、藍凡耘、任一安、楊南屏、王宗曦、顏永豐、李雅玲、蔡淑鈴、葉采衢、簡詩穎、陳秀丹",
+    "teacher": "周穎政、郭文華、黃嵩立、喬芷、梁立霖、林文旭、藍凡耘、任一安、楊南屏、顏永豐、王宗曦、李雅玲、蔡淑鈴、葉采衢、簡詩穎、陳秀丹",
     "time": "T12W56-"
   },
   "1131_113802": {
@@ -5552,7 +5552,7 @@
     "name": "醫學人文的實踐 The Practice of Medical Humanities",
     "num_limit": "0",
     "reg_num": "14",
-    "teacher": "楊秀儀、凌憬峰、盧鴻毅、鄭健禹、葉圜叡、蔡紫君",
+    "teacher": "楊秀儀、凌憬峰、盧鴻毅、葉圜叡、鄭健禹、蔡紫君",
     "time": "Ucd-"
   },
   "1131_113809": {
@@ -5647,7 +5647,7 @@
     "memo": "",
     "name": "生理學實驗教學實習 Teaching Practice on Physiological Lab.",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "18",
     "teacher": "林惠菁、阮琪昌、李怡萱、簡千栩",
     "time": "MnTnWnRn-YED214[YM]"
   },
@@ -5683,7 +5683,7 @@
     "memo": "",
     "name": "生理學專題討論B Seminar B",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "7",
     "teacher": "黃娟娟、林惠菁、張原翊",
     "time": "M34-YR105[YM]"
   },
@@ -11455,7 +11455,7 @@
     "memo": "碩一rotation，113年7月暑假上課",
     "name": "生命科學技術 Methods in Modern Biology",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "陳儀聰、林照雄、羅清維、林崇智、李曉暉、可文亞、張欣暘、陳嘉霖、李敏嘉、陳瀅州、藍昇輝、袁維謙",
     "time": "S34-YK101[YM]"
   },
@@ -11467,7 +11467,7 @@
     "memo": "review進度報告，碩一下開始必選",
     "name": "論文研究進度報告(碩) Progress report",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "10",
     "teacher": "陳俊銘、林照雄、許世宜、蔡亭芬、羅清維、俞震亞、孫維欣、林崇智、陳燕彰、鍾明怡、李曉暉、可文亞、張欣暘、陳嘉霖、陳虹如、李敏嘉、陳瀅州、陳儀聰、藍昇輝、袁維謙",
     "time": "U34-"
   },
@@ -32073,7 +32073,7 @@
     "num_limit": "9999",
     "reg_num": "9",
     "teacher": "黃立心",
-    "time": "Tabc-SC106[GF]"
+    "time": "Mabc-SC106[GF]"
   },
   "1131_557000": {
     "code": "MGCM30001",

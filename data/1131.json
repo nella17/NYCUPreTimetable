@@ -9800,7 +9800,7 @@
     "name": "醫工創新與臨床實踐 Biomedical Engineering Innovation and Clinical Practice",
     "num_limit": "12",
     "reg_num": "0",
-    "teacher": "劉澤英",
+    "teacher": "劉澤英、吳博貴、陳敏弘、郭義松、梁晃千、張智銘",
     "time": "F89a-YEA301[YM]"
   },
   "1131_132325": {
@@ -13126,18 +13126,6 @@
     "reg_num": "0",
     "teacher": "郭紘志",
     "time": "T56-"
-  },
-  "1131_143100": {
-    "code": "LSBI30004",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "143100",
-    "memo": "本課程僅限本學程在職生組修課。",
-    "name": "生物醫學暨生技產業講座 Special Lectures on Biomedicine and Biotechnology Industry",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "蔡有光",
-    "time": "Un-"
   },
   "1131_143101": {
     "code": "LSBI30009",
@@ -20034,7 +20022,7 @@
     "id": "515617",
     "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；主開3年級；本系生優先權順序：3年級，4年級，2年級，1年級",
     "name": "多媒體資訊系統概論 Introduction to Multimedia Information System",
-    "num_limit": "80",
+    "num_limit": "100",
     "reg_num": "79",
     "teacher": "蕭旭峰",
     "time": "T2F56-EC114[GF]"
@@ -34795,7 +34783,7 @@
     "memo": "",
     "name": "日文(二) Japanese(II)",
     "num_limit": "45",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "賴郁芳",
     "time": "F56-A215[GF]"
   },

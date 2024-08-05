@@ -15056,7 +15056,7 @@
     "name": "人類學 Anthropology",
     "num_limit": "75",
     "reg_num": "11",
-    "teacher": "羅烈師",
+    "teacher": "吳映青",
     "time": "R234-HKB09[LJ]"
   },
   "1131_310001": {
@@ -35324,7 +35324,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "余秀菁",
     "time": "F78-PE[GF]"
   },
   "1131_563001": {
@@ -35360,7 +35360,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "余秀菁",
     "time": "M34-PE[GF]"
   },
   "1131_563004": {
@@ -35372,7 +35372,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "張振興",
+    "teacher": "何胤樓",
     "time": "M34-PE[GF]"
   },
   "1131_563005": {
@@ -35396,7 +35396,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "何胤樓",
     "time": "W12-PE[GF]"
   },
   "1131_563007": {
@@ -35420,7 +35420,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "余秀菁",
     "time": "W12-PE[GF]"
   },
   "1131_563009": {
@@ -35480,7 +35480,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "余秀菁",
     "time": "M12-PE[GF]"
   },
   "1131_563014": {
@@ -35516,7 +35516,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳玫伶",
+    "teacher": "詹富鈞",
     "time": "F78-PE[GF]"
   },
   "1131_563017": {
@@ -35528,7 +35528,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "何胤樓",
     "time": "R12-PE[GF]"
   },
   "1131_563018": {
@@ -35540,7 +35540,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "何胤樓",
     "time": "M12-PE[GF]"
   },
   "1131_563019": {
@@ -35564,7 +35564,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "詹富鈞",
     "time": "M56-PE[GF]"
   },
   "1131_563021": {
@@ -35636,7 +35636,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "余秀菁",
     "time": "W34-PE[GF]"
   },
   "1131_563027": {
@@ -35648,7 +35648,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "何胤樓",
     "time": "W34-PE[GF]"
   },
   "1131_563028": {
@@ -35660,7 +35660,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "何胤樓",
     "time": "R34-PE[GF]"
   },
   "1131_563029": {
@@ -35672,7 +35672,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳玫伶",
+    "teacher": "詹富鈞",
     "time": "F56-PE[GF]"
   },
   "1131_563030": {
@@ -35720,7 +35720,7 @@
     "name": "足球 Soccer",
     "num_limit": "40",
     "reg_num": "18",
-    "teacher": "體育室C",
+    "teacher": "余秀菁",
     "time": "T78-PE[GF]"
   },
   "1131_563034": {
@@ -35852,7 +35852,7 @@
     "name": "足球 Soccer",
     "num_limit": "40",
     "reg_num": "8",
-    "teacher": "體育室C",
+    "teacher": "余秀菁",
     "time": "T56-PE[GF]"
   },
   "1131_563045": {
@@ -36584,7 +36584,7 @@
     "name": "體育－足球校隊(男) Soccer team(Male)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "余秀菁",
     "time": ""
   },
   "1131_563106": {
@@ -36692,7 +36692,7 @@
     "name": "體育－排球校隊(女) Volleyball team(Female)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "李建毅",
+    "teacher": "何胤樓",
     "time": ""
   },
   "1131_563115": {
@@ -37232,7 +37232,7 @@
     "name": "排球 Volleyball",
     "num_limit": "30",
     "reg_num": "21",
-    "teacher": "陳玫伶",
+    "teacher": "何胤樓",
     "time": "M78-PhE[YM]"
   },
   "1131_563162": {
@@ -37244,7 +37244,7 @@
     "name": "排球 Volleyball",
     "num_limit": "30",
     "reg_num": "30",
-    "teacher": "留鼎淙",
+    "teacher": "何胤樓",
     "time": "R78-PhE[YM]"
   },
   "1131_564000": {

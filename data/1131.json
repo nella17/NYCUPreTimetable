@@ -4,7 +4,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "030001",
-    "memo": "",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》",
     "name": "代數與算術 Algebra and Arithmetic",
     "num_limit": "9999",
     "reg_num": "1",
@@ -16,7 +16,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "030002",
-    "memo": "",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》",
     "name": "代數幾何一 Algebraic Geometry I",
     "num_limit": "9999",
     "reg_num": "0",
@@ -28,7 +28,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "030003",
-    "memo": "",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》",
     "name": "微分幾何一 Differential Geometry I",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40,12 +40,48 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "030004",
-    "memo": "",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》",
     "name": "天體力學導論 Introduction to Celestial Mechanics",
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "陳國璋",
     "time": "T578-"
+  },
+  "1131_030005": {
+    "code": "IADI00312",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030005",
+    "memo": "中央大學文學二館437，請參考下方連結檔案P5-P13，https://pdc.adm.ncu.edu.tw/Course/other/CCOP_1.pdf，建立中央的NetID(臨時學號)及個人基本資料。",
+    "name": "亞際文化研究導論 Introduction to Inter Asia Cultural Studies",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林建廷",
+    "time": "R567-"
+  },
+  "1131_030006": {
+    "code": "IADI00313",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030006",
+    "memo": "中央大學文學二館206，請參考下方連結檔案P5-P13，https://pdc.adm.ncu.edu.tw/Course/other/CCOP_1.pdf，建立中央的NetID(臨時學號)及個人基本資料。",
+    "name": "當代美學理論 Contemporary Aesthetics and Art Theory",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "王聖閎",
+    "time": "M567-"
+  },
+  "1131_030007": {
+    "code": "IADI00314",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030007",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，清大F34n 人社A309",
+    "name": "台灣電影專題：影響與比較研究 Taiwan Cinema: Influence and Comparison",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "謝世宗",
+    "time": "F34n-"
   },
   "1131_110000": {
     "code": "MDMD10032",
@@ -6656,7 +6692,7 @@
     "name": "中藥概論 Introduction to Chinese Materia Medica",
     "num_limit": "70",
     "reg_num": "11",
-    "teacher": "陳日榮、盧美光、翁芸芳、蔡忠志、廖家慶、鄭銘仁",
+    "teacher": "陳日榮、翁芸芳、蔡忠志、廖家慶、鄭銘仁",
     "time": "T34-YK533[YM]"
   },
   "1131_130601": {
@@ -7544,7 +7580,7 @@
     "name": "專題討論(碩) Seminar",
     "num_limit": "9999",
     "reg_num": "17",
-    "teacher": "蔡欣融、鄭彥甫、郭博昭、陳麗芬、楊定一、楊靜修、王署君、蔡金吾、陳世彬、楊智傑、鄭菡若、侯珮珊、李怡慧、劉祐岑",
+    "teacher": "蔡欣融、鄭彥甫、郭博昭、陳麗芬、楊定一、楊靜修、王署君、蔡金吾、陳世彬、鄭菡若、侯珮珊、李怡慧、劉祐岑",
     "time": "T56-YL402[YM]"
   },
   "1131_131104": {
@@ -8528,7 +8564,7 @@
     "name": "開發智慧照護新藍海 Exploring a new blue ocean through the development of smart care",
     "num_limit": "9999",
     "reg_num": "20",
-    "teacher": "楊曼華、孫秀卿、陳俞琪、孫家偉、李博仁、陳榮治",
+    "teacher": "楊曼華、孫秀卿、陳俞琪、孫家偉、李博仁、陳榮治、石紀",
     "time": "T9ab-YN419[YM]"
   },
   "1131_131715": {
@@ -9079,7 +9115,7 @@
     "memo": "此課程在113暑期開課，上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "醫藥研發之統計考量 Statistics for pharmaceutical development",
     "num_limit": "45",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "林滿玉",
     "time": ""
   },
@@ -9367,7 +9403,7 @@
     "memo": "",
     "name": "生技醫學講座 Biotechnology and Biomedical Seminar",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "22",
     "teacher": "蘇美慈、黃智生",
     "time": "Tn-YB100[YM]"
   },
@@ -9379,7 +9415,7 @@
     "memo": "[English Medium Course]",
     "name": "高等醫學生物技術學 Advanced Medical Biotechnology",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "24",
     "teacher": "黃智生、吳韋訥、孫光蕙、楊翠青、張懿欣、涂玉青、黃琤、呂世正、龔思豪、黃尉倫、蘇美慈、洪小雅",
     "time": "W23F56-YB100[YM]"
   },
@@ -11769,7 +11805,7 @@
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "陳怡如、季麟揚、吳肖琪、李淑貞、李雪楨、許銘能、林麗嬋、林金立、侯勝宗、李玉春、孫文榮、高蕭國帆、蔡宜蓉、郭育誠、周志展、何佳珍",
-    "time": "R34-YN109[YM]"
+    "time": "T34-YN109[YM]"
   },
   "1131_133502": {
     "code": "XDLC30020",
@@ -11852,7 +11888,7 @@
     "name": "老年生理變化與照護議題 Physiological Changes and Care Issues in the Elderly",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "陳喬男、楊曼華、林承霈",
+    "teacher": "陳喬男、楊曼華、廖咨詠、林承霈",
     "time": "R56-YN109[YM]"
   },
   "1131_133510": {
@@ -13532,7 +13568,7 @@
     "name": "進階病理生理學案例討論 Advanced Pathophysiology case  discussion",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "劉佩青、童恒新、胡慧蘭、李懿宬、簡千栩、楊世偉",
+    "teacher": "劉佩青、童恒新、胡慧蘭、李懿宬、簡千栩、楊世偉、丁碩彥、徐清樺、陳盈如",
     "time": "F9abc-YN319[YM]"
   },
   "1131_150201": {
@@ -13556,7 +13592,7 @@
     "name": "進階病理生理學 Advanced Pathophysiology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "劉佩青、童恒新、胡慧蘭、高正彥、徐清樺、唐鳳屏、陳盈如",
+    "teacher": "劉佩青、童恒新、胡慧蘭、李懿宬、高正彥、楊世偉、石光中、沈政男、徐清樺、唐鳳屏、陳盈如",
     "time": "F5678-YN322[YM]"
   },
   "1131_150203": {
@@ -13952,7 +13988,7 @@
     "name": "看得到、找得到、用得到的長期照顧 Simple Way to Get the Service of Long Term Care",
     "num_limit": "40",
     "reg_num": "20",
-    "teacher": "楊曼華、黃淑鶴、高蕭國帆、林昱宏、黃美淑、楊舒琴、王菀宣、汪秋蓉、葉又菁、賴鼎璁、柯澐蓁、楊桂鳳、陳玫如",
+    "teacher": "楊曼華、黃淑鶴、廖咨詠、賴鼎璁、高蕭國帆、林昱宏、黃美淑、楊舒琴、王菀宣、汪秋蓉、葉又菁、柯澐蓁、楊桂鳳、陳玫如",
     "time": "F56-YN418[YM]"
   },
   "1131_161020": {
@@ -15152,7 +15188,7 @@
     "name": "論文專題與畢業製作(二) Graduation Project (II)",
     "num_limit": "9999",
     "reg_num": "38",
-    "teacher": "羅烈師、盧正恒",
+    "teacher": "羅烈師、連瑞枝、莊雅仲、簡美玲、黃紹恆、潘美玲、張藝曦、林秀幸、劉大和、許維德、朱華瑄、盧正恒、柯朝欽",
     "time": ""
   },
   "1131_310009": {
@@ -16195,7 +16231,7 @@
     "memo": "",
     "name": "專題演講A-生科組 Departmental Seminar A-",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "楊進木、林奇宏",
     "time": "T56-"
   },
@@ -16423,7 +16459,7 @@
     "memo": "[English Medium Course]",
     "name": "論文研究 Thesis",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "趙瑞益、莊碧簪、趙啟宏",
     "time": ""
   },
@@ -16927,7 +16963,7 @@
     "memo": "[English Medium Course]",
     "name": "博士班書報討論（A） Special Topics Seminar A(PhD)",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "3",
     "teacher": "吳東昆",
     "time": "T7-BI308[BA]"
   },
@@ -18715,7 +18751,7 @@
     "memo": "限電機系",
     "name": "演算法導論 Introduction to Algorithms",
     "num_limit": "100",
-    "reg_num": "100",
+    "reg_num": "99",
     "teacher": "黃俊達",
     "time": "T34n-ED116[GF]"
   },
@@ -18811,7 +18847,7 @@
     "memo": "由於選課人數眾多，有意願加簽本課堂的學生請填寫以下說明表單:。 請注意：並非填寫表單完成即加簽成功，需經由統一抽籤才能加簽！請注意：並非填寫表單完成即加簽成功，需經由統一抽籤才能加簽！請注意：並非填寫表單完成即加簽成功，需經由統一抽籤才能加簽！",
     "name": "超大型積體電路設計導論 Introduction to VLSI Design",
     "num_limit": "90",
-    "reg_num": "90",
+    "reg_num": "89",
     "teacher": "李鎮宜",
     "time": "M789-ED116[GF]"
   },
@@ -18931,7 +18967,7 @@
     "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於9月11日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機工程專題 (一) Special Project on Electrical Engineering (I)",
     "num_limit": "9999",
-    "reg_num": "185",
+    "reg_num": "184",
     "teacher": "電機系",
     "time": ""
   },
@@ -19003,7 +19039,7 @@
     "memo": "上課教室：M34-EDB27；F2-計中PC3/PC4",
     "name": "電腦網路導論 Introduction to Computer Networks ",
     "num_limit": "110",
-    "reg_num": "67",
+    "reg_num": "66",
     "teacher": "林亭佑",
     "time": "F2-CS-PC3[GF],F2-CS-PC4[GF],M34-EDB27[GF]"
   },
@@ -20625,7 +20661,7 @@
     "num_limit": "55",
     "reg_num": "0",
     "teacher": "王彥博",
-    "time": "T2R34-EB118[GF]"
+    "time": "T2R56-EB118[GF]"
   },
   "1131_516206": {
     "code": "ENCV10012",
@@ -20637,7 +20673,7 @@
     "num_limit": "55",
     "reg_num": "0",
     "teacher": "林其穎",
-    "time": "M56-EB115[GF]"
+    "time": "R56-EB107[GF]"
   },
   "1131_516207": {
     "code": "ENCV10005",
@@ -21716,8 +21752,8 @@
     "name": "數學寫作 mathematical writing",
     "num_limit": "9999",
     "reg_num": "10",
-    "teacher": "黃信元",
-    "time": "R34-SA311[GF]"
+    "teacher": "王賜聖",
+    "time": "T56-SA311[GF]"
   },
   "1131_516800": {
     "code": "SCAC00005",
@@ -25183,7 +25219,7 @@
     "memo": "",
     "name": "穿戴式裝置系統晶片設計 Wearable device system on a chip (SOC) design",
     "num_limit": "36",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "黃聖傑",
     "time": "R34n-EE113[GF]"
   },
@@ -25408,12 +25444,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535215",
-    "memo": "上課教室：ED515",
+    "memo": "",
     "name": "光電子學 Optical Electronics",
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "林國瑞",
-    "time": "R234-"
+    "time": "R34-ED103[GF],M7-ED203[GF]"
   },
   "1131_535216": {
     "code": "EEIE30002",
@@ -25435,7 +25471,7 @@
     "memo": "",
     "name": "半導體實驗 Semiconductor Laboratory",
     "num_limit": "30",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "連德軒",
     "time": "W56abc-ED116[GF]"
   },
@@ -25615,7 +25651,7 @@
     "memo": "",
     "name": "CMOS 元件, 可靠度, 及應用之特論 Specail Topics of CMOS Devices, Reliability, and Applications",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "陳一浸",
     "time": "F567-ED201[GF]"
   },
@@ -26323,7 +26359,7 @@
     "memo": "",
     "name": "半導體元件及物理 Semiconductor Devices & Physics",
     "num_limit": "70",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "冉曉雯",
     "time": "F234-CY203[GF]"
   },
@@ -27860,7 +27896,7 @@
     "name": "高科技廠房設施設計 High-tech Facility Design",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "待聘",
+    "teacher": "童國倫",
     "time": "Tabc-EB117[GF]"
   },
   "1131_536212": {
@@ -28028,7 +28064,7 @@
     "name": "工程計畫評估 Engineering Project Evaluation",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "待聘",
+    "teacher": "沈勁利",
     "time": "M567-EB107[GF]"
   },
   "1131_536300": {
@@ -28544,7 +28580,7 @@
     "name": "實變函數論（一） Real Analysis (I)",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "待聘",
+    "teacher": "方向",
     "time": "W2R34-SA215[GF]"
   },
   "1131_536701": {
@@ -28713,7 +28749,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "賴明治",
-    "time": "F234-SA211[GF]"
+    "time": "F345-SA307[GF]"
   },
   "1131_536750": {
     "code": "SCMA30009",
@@ -29230,18 +29266,6 @@
     "reg_num": "4",
     "teacher": "姜齊",
     "time": "M123-M301[GF]"
-  },
-  "1131_537001": {
-    "code": "MGMS30028",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "537001",
-    "memo": "英語授課。開放大三大四同學選修。[English Medium Course]",
-    "name": "國際企業管理 International Business Management",
-    "num_limit": "40",
-    "reg_num": "40",
-    "teacher": "郭國泰",
-    "time": "M567-M105[GF]"
   },
   "1131_537002": {
     "code": "MGMS30071",
@@ -37340,7 +37364,7 @@
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "方向",
     "time": "T34F56-SC110[GF]"
   },
   "1131_564008": {
@@ -37448,7 +37472,7 @@
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "黃柏鈞",
     "time": "M78R34-SC152[GF]"
   },
   "1131_564017": {
@@ -37460,7 +37484,7 @@
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "呂楊凱",
     "time": "M78R34-SC110[GF]"
   },
   "1131_564018": {
@@ -37472,7 +37496,7 @@
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "蘇承芳",
+    "teacher": "王賜聖",
     "time": "M78R34-SC204[GF]"
   },
   "1131_564019": {
@@ -37508,7 +37532,7 @@
     "name": "微積分乙(一) Calculus B (I)",
     "num_limit": "65",
     "reg_num": "11",
-    "teacher": "待聘",
+    "teacher": "呂楊凱",
     "time": "T34F56-SC109[GF]"
   },
   "1131_564022": {
@@ -38371,7 +38395,7 @@
     "memo": "",
     "name": "Go程式設計 Go Programming",
     "num_limit": "50",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "黃世昆",
     "time": "T567-CS-PC2[GF]"
   },
@@ -39856,7 +39880,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910012",
-    "memo": "不分組C班，上課地點：國防大學理工學院",
+    "memo": "停開",
     "name": "導師輔導(1) Tutor Guidance(1) ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -39952,7 +39976,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910020",
-    "memo": "機航組航空班，上課地點：國防大學理工學院，授課教師：方友霖老師",
+    "memo": "機航組(學號雙號)，上課地點：國防大學理工學院，授課教師：劉瑋倫老師",
     "name": "導師輔導(3) Tutor Guidance(3)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -39964,7 +39988,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910021",
-    "memo": "機航組機械班，上課地點：國防大學理工學院，授課教師：方友霖老師",
+    "memo": "機航組(學號單號)，上課地點：國防大學理工學院，授課教師：方友霖老師",
     "name": "導師輔導(3) Tutor Guidance(3)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40768,7 +40792,7 @@
     "credit": "4.00",
     "hours": "4.00",
     "id": "910088",
-    "memo": "資工組+機航組，上課地點：國防大學理工學院",
+    "memo": "資工組，上課地點：國防大學理工學院",
     "name": "微積分(1) Calculus (1) ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40804,7 +40828,7 @@
     "credit": "4.00",
     "hours": "4.00",
     "id": "910091",
-    "memo": "不分組C班，上課地點：國防大學理工學院",
+    "memo": "機航組，上課地點：國防大學理工學院",
     "name": "微積分(1) Calculus (1) ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40840,7 +40864,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910094",
-    "memo": "資工組+機航組，上課地點：國防大學理工學院",
+    "memo": "資工組，上課地點：國防大學理工學院",
     "name": "普通物理(1) General Physics (1) ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40876,7 +40900,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910097",
-    "memo": "不分組C班，上課地點在國防理工，授課教師：XXX老師",
+    "memo": "機航組，上課地點在國防理工",
     "name": "普通物理(1) General Physics (1) ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40900,7 +40924,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910099",
-    "memo": "化材組+動力組，上課地點：國防大學理工學院，授課教師：俞勝為老師",
+    "memo": "化材組+動力組，上課地點：國防大學理工學院",
     "name": "普通化學 General Chemistry ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40912,7 +40936,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910100",
-    "memo": "資工組+機航組，上課地點：國防大學理工學院",
+    "memo": "資工組，上課地點：國防大學理工學院",
     "name": "普通化學 General Chemistry ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40948,7 +40972,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910103",
-    "memo": "不分組C班，上課地點：國防大學理工學院",
+    "memo": "機航組，上課地點：國防大學理工學院",
     "name": "普通化學 General Chemistry ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40984,7 +41008,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910106",
-    "memo": "資工組，上課地點：國防大學理工學院，授課教師：莊曜嘉老師",
+    "memo": "資工組，上課地點：國防大學理工學院，授課教師：莊曜嘉、黃冠毓老師",
     "name": "資訊科學概論 Introduction to Information Science ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -40996,7 +41020,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910107",
-    "memo": "不分組A班，上課地點：國防大學理工學院，授課教師：莊曜嘉老師",
+    "memo": "不分組A班，上課地點：國防大學理工學院，授課教師：莊曜嘉、黃冠毓老師",
     "name": "資訊科學概論 Introduction to Information Science ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -41020,7 +41044,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910109",
-    "memo": "機航組，上課地點：國防大學理工學院，授課教師：莊曜嘉老師",
+    "memo": "機航組，上課地點：國防大學理工學院，授課教師：莊曜嘉、黃冠毓老師",
     "name": "資訊科學概論 Introduction to Information Science ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -41056,7 +41080,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910112",
-    "memo": "資工組+機航組，上課地點：國防大學理工學院",
+    "memo": "資工組，上課地點：國防大學理工學院",
     "name": "普通物理實驗 (1) General Physics Lab.(1) ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -41080,7 +41104,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910114",
-    "memo": "不分組A班，上課地點：國防大學理工學院，授課教師：劉瑋倫老師",
+    "memo": "不分組B班，上課地點：國防大學理工學院，授課教師：劉瑋倫老師",
     "name": "普通物理實驗 (1) General Physics Lab.(1) ",
     "num_limit": "9999",
     "reg_num": "0",
@@ -41356,7 +41380,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910137",
-    "memo": "全組，第一班，上課地點：國防大學理工學院",
+    "memo": "全組，第2班，上課地點：國防大學理工學院",
     "name": "工程倫理 Ethics in Engineering",
     "num_limit": "9999",
     "reg_num": "0",
@@ -41368,7 +41392,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910138",
-    "memo": "全組，第二班，上課地點：國防大學理工學院",
+    "memo": "全組，第3班，上課地點：國防大學理工學院",
     "name": "工程倫理 Ethics in Engineering",
     "num_limit": "9999",
     "reg_num": "0",
@@ -41620,7 +41644,7 @@
     "credit": ".00",
     "hours": "1.00",
     "id": "910159",
-    "memo": "機航組，上課地點：國防大學理工學院，授課教師：方友霖老師",
+    "memo": "機航組航空班+機械班，上課地點：國防大學理工學院，授課教師：劉瑋倫、方友霖老師",
     "name": "服務學習 (2) Service Learning(2)",
     "num_limit": "9999",
     "reg_num": "31",
@@ -41644,7 +41668,7 @@
     "credit": "4.00",
     "hours": "4.00",
     "id": "910161",
-    "memo": "全組，重補修課程，上課地點：國防大學理工學院，授課教師：莊曜嘉老師",
+    "memo": "全組，重補修課程，上課地點：國防大學理工學院，授課教師：莊曜嘉、楊婷婷老師",
     "name": "微積分(2) Calculus(2)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -41848,7 +41872,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910178",
-    "memo": "全組，上課地點：國防大學理工學院，授課教師：鄧宜男老師",
+    "memo": "停開",
     "name": "性別教育 Gender Education",
     "num_limit": "9999",
     "reg_num": "0",
@@ -41872,7 +41896,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910180",
-    "memo": "上課地點：國防大學理工學院，授課教師：XXX老師",
+    "memo": "停開",
     "name": "美國研究 American Studies",
     "num_limit": "9999",
     "reg_num": "0",
@@ -41884,7 +41908,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910181",
-    "memo": "上課地點：國防大學理工學院，授課教師：XXX老師",
+    "memo": "停開",
     "name": "軍事教育與生涯發展 Military Education and Career Counseling",
     "num_limit": "9999",
     "reg_num": "0",
@@ -41980,7 +42004,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910189",
-    "memo": "上課地點：國防大學理工學院，授課教師：XXX老師",
+    "memo": "停開",
     "name": "國際關係 International Relations",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42112,7 +42136,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910200",
-    "memo": "上課地點：國防大學理工學院，授課教師：XXX老師。",
+    "memo": "停開",
     "name": "歷史與領導 History and Leadership",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42292,7 +42316,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910215",
-    "memo": "電機組電機班，重補修隨班附讀，上課地點：國防大學理工學院",
+    "memo": "電機組電機班，含重補修隨班附讀，上課地點：國防大學理工學院",
     "name": "線性代數 Linear Algebra",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42388,7 +42412,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910223",
-    "memo": "電機組，上課地點：國防大學理工學院",
+    "memo": "電機組電子班，上課地點：國防大學理工學院",
     "name": "數位訊號處理 Digital Signal Processing",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42400,7 +42424,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910224",
-    "memo": "電機組，上課地點：國防大學理工學院",
+    "memo": "電機組電子班，上課地點：國防大學理工學院",
     "name": "通訊系統 Communication Systems",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42460,7 +42484,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910229",
-    "memo": "電機組，上課地點：國防大學理工學院，授課教師：李華錦老師",
+    "memo": "停開",
     "name": "行動通訊概論 Fundamentals of Mobile Communications",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42808,7 +42832,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910260",
-    "memo": "化材組化學班+材料班，上課地點：國防大學理工學院，授課教師：鄭安佑老師",
+    "memo": "化材組化學班，上課地點：國防大學理工學院，授課教師：鄭安佑老師",
     "name": "單元操作與輸送現象(2) Unit Operation & Transport Phenomena(2)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -44116,7 +44140,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910369",
-    "memo": "資工組系統班，上課地點：國防大學理工學院，授課教師：黃冠毓老師",
+    "memo": "資工組，上課地點：國防大學理工學院，授課教師：黃冠毓老師",
     "name": "資料結構 Data Structure",
     "num_limit": "9999",
     "reg_num": "0",
@@ -44548,7 +44572,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "910407",
-    "memo": "機航組第1班，上課地點：國防大學理工學院，授課教師：黃國鑫老師",
+    "memo": "機航組航空班，上課地點：國防大學理工學院，授課教師：黃國鑫老師",
     "name": "工廠實習(2) Workshop Practice(2)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -44560,7 +44584,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "910408",
-    "memo": "機航組第2班，上課地點：國防大學理工學院，授課教師：蔡林昌老師",
+    "memo": "機航組機械班，上課地點：國防大學理工學院，授課教師：黃國鑫老師",
     "name": "工廠實習(2) Workshop Practice(2)",
     "num_limit": "9999",
     "reg_num": "0",

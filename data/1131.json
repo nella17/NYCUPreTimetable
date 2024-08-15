@@ -824,7 +824,7 @@
     "name": "急診醫學(一) Emergency Medicine(1)",
     "num_limit": "9999",
     "reg_num": "146",
-    "teacher": "侯重光、李怡姿、楊振昌、黃獻皞、王鑑瀛、邱柏齊、顏鴻章、李昱聲、徐德福、陳燕嘉、范渚鑫、葉長青、劉鎮旗、陳春廷、陳正翰、吳哲侃、陳盈如、陳俊仁、廖婉如、李毅信、張家瑜、張家銘、鍾孟軒、林佩瑩、王則堯、林進偉、廖柏翔、康芳瑜",
+    "teacher": "侯重光、李怡姿、楊振昌、黃獻皞、王鑑瀛、邱柏齊、顏鴻章、李昱聲、徐德福、陳燕嘉、范渚鑫、葉長青、劉鎮旗、陳春廷、陳正翰、陳盈如、陳俊仁、廖婉如、李毅信、張家瑜、張家銘、鍾孟軒、林佩瑩、王則堯、林進偉、廖柏翔、孟煜翔、康芳瑜",
     "time": "T1234-YT003[YM]"
   },
   "1131_110062": {
@@ -836,7 +836,7 @@
     "name": "急診醫學(二) Emergency Medicine(2)",
     "num_limit": "9999",
     "reg_num": "72",
-    "teacher": "侯重光、黃金洲、黃獻皞、徐德福、宋俊松、陳燕嘉、范渚鑫、陳正翰、楊惠文、程雅琳、李毅信、張家瑜、張家銘、曾嘉瑩、林純如、葉穎澤、劉秀薇",
+    "teacher": "侯重光、黃金洲、黃獻皞、徐德福、宋俊松、陳燕嘉、范渚鑫、陳春廷、謝明順、陳正翰、楊惠文、程雅琳、李毅信、張家瑜、張家銘、曾嘉瑩、林純如、徐月霜、葉穎澤、林佩瑩、劉秀薇",
     "time": "W1234-YT003[YM]"
   },
   "1131_110063": {
@@ -848,7 +848,7 @@
     "name": "急診醫學(二) Emergency Medicine(2)",
     "num_limit": "9999",
     "reg_num": "76",
-    "teacher": "侯重光、黃金洲、黃獻皞、徐德福、范渚鑫、陳春廷、謝明順、陳正翰、巫春蓮、楊惠文、李毅信、張家瑜、張家銘、林純如、曾院美、張靜怡、林進偉、呂政憲",
+    "teacher": "侯重光、黃金洲、黃獻皞、徐德福、范渚鑫、陳春廷、謝明順、陳正翰、巫春蓮、楊惠文、李毅信、張家瑜、張家銘、曾嘉瑩、林純如、徐月霜、曾院美、張靜怡、林進偉、孟煜翔、呂政憲",
     "time": "F1234-YT003[YM]"
   },
   "1131_110064": {
@@ -884,7 +884,7 @@
     "name": "職前臨床技能訓練 Clinical Skill Training",
     "num_limit": "9999",
     "reg_num": "146",
-    "teacher": "黃怡翔、楊令瑀、梁仁峯、江東鴻、賴建志、周睿信、關艾琛、陳素真、楊雀戀、陳三奇、陳孟清、陳佩瑩、古玉貞、程子珩、廖文香、廖儀依、陳宥任、吳政億、陳範宇、王則堯、陳美珠、林易鈴、余欣儒、朱婉瑄、洪佩慈、江長和、阮怡菱",
+    "teacher": "黃怡翔、楊令瑀、梁仁峯、江東鴻、賴建志、周睿信、關艾琛、陳素真、楊雀戀、陳三奇、陳孟清、陳佩瑩、古玉貞、程子珩、廖文香、廖儀依、陳宥任、吳政億、陳範宇、王則堯、陳美珠、林易鈴、余欣儒、洪佩慈、江長和、阮怡菱",
     "time": "R1234-YT003[YM]"
   },
   "1131_110067": {
@@ -1004,7 +1004,7 @@
     "name": "大體解剖學 Gross Anatomy",
     "num_limit": "9999",
     "reg_num": "186",
-    "teacher": "鄭瓊娟、傅毓秀、李光申、李學德、蔡佩君、郭曉縈、侯珮珊、周昆達、周伯鑫、吳宏達、陳威志、趙勻廷、吳飛逸",
+    "teacher": "鄭瓊娟、傅毓秀、李光申、李學德、蔡佩君、郭曉縈、侯珮珊、周昆達、吳宏達、陳威志",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
   "1131_110077": {
@@ -2179,7 +2179,7 @@
     "memo": "實際導生課時間請依導師公告。",
     "name": "導師時間 Class Meeting",
     "num_limit": "254",
-    "reg_num": "52",
+    "reg_num": "51",
     "teacher": "王子芳、陳紀雯、楊曼華",
     "time": "Rcd-YN416[YM]"
   },
@@ -3406,6 +3406,18 @@
     "reg_num": "11",
     "teacher": "謝章興",
     "time": "M567-YEA301[YM]"
+  },
+  "1131_112123": {
+    "code": "BEBE20062",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "112123",
+    "memo": "",
+    "name": "生醫材料導論 Introduction of biomaterials in Medicine",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "許如秀",
+    "time": "T567-YEA200[YM]"
   },
   "1131_112200": {
     "code": "BEPT10026",
@@ -5348,7 +5360,7 @@
     "name": "病理學 Pathology",
     "num_limit": "195",
     "reg_num": "174",
-    "teacher": "李芬瑤、杭仁釩、許志怡、葉奕成、郭盈汝、梁文議、林士傑、張富邦、劉雯玲",
+    "teacher": "杭仁釩、李芬瑤、許志怡、葉奕成、郭盈汝、梁文議、林士傑、張富邦、劉雯玲",
     "time": "T5678-YX406[YM]"
   },
   "1131_113401": {
@@ -5360,7 +5372,7 @@
     "name": "病理學實驗 Pathology Laboratory",
     "num_limit": "195",
     "reg_num": "174",
-    "teacher": "李芬瑤、杭仁釩、劉雯玲",
+    "teacher": "杭仁釩、李芬瑤、劉雯玲",
     "time": "T5678-YX406[YM]"
   },
   "1131_113402": {
@@ -5372,7 +5384,7 @@
     "name": "病理學 Pathology",
     "num_limit": "120",
     "reg_num": "115",
-    "teacher": "李芬瑤、杭仁釩、許志怡、葉奕成、郭盈汝、王蕾琪、梁文議、林士堯、楊靜芬、林士傑、陳妍英、張富邦",
+    "teacher": "杭仁釩、李芬瑤、許志怡、葉奕成、郭盈汝、王蕾琪、梁文議、林士堯、楊靜芬、林士傑、陳妍英、張富邦",
     "time": "F56-YX216[YM]"
   },
   "1131_113403": {
@@ -5384,7 +5396,7 @@
     "name": "應用病理學 Applied Pathology",
     "num_limit": "75",
     "reg_num": "57",
-    "teacher": "李芬瑤、杭仁釩、許志怡、葉奕成、郭盈汝、王蕾琪、梁文議、林士堯、楊靜芬、林士傑、陳妍英、張富邦",
+    "teacher": "杭仁釩、李芬瑤、許志怡、葉奕成、郭盈汝、王蕾琪、梁文議、林士堯、楊靜芬、林士傑、陳妍英、張富邦",
     "time": "T34-YX406[YM]"
   },
   "1131_113500": {
@@ -5851,7 +5863,7 @@
     "memo": "限醫學系B組選修；須先找好專題研究指導老師後，再加選本堂課。",
     "name": "醫師科學家碩士專題研究 (三) Physician Scientist Research in Master Program (3)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "兵岳忻",
     "time": "Sa-"
   },
@@ -8276,7 +8288,7 @@
     "name": "生物醫學研究 Biomedical Research",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黎萬君、林姝君、洪善鈴、黃何雄、林元敏、鄭雲謙、洪凱風、王鼎涵、林怡彣、陳亭妏、林榮辰、陳翾、張婷菡、劉宗榮、李德章、夏堪臺、林立涵、周忠憲",
+    "teacher": "黎萬君、林姝君、洪善鈴、黃何雄、林元敏、鄭雲謙、洪凱風、王鼎涵、林怡彣、陳亭妏、林榮辰、陳翾、張婷菡、劉宗榮、李德章、林立涵、周忠憲",
     "time": "R34-YD302[YM]"
   },
   "1131_131503": {
@@ -8312,7 +8324,7 @@
     "name": "高等生物技術導論 Advanced Biological Techniques",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "洪善鈴、羅正汎、張國威、黃何雄、黎萬君、陳恆理、林怡彣、林榮辰、夏堪臺、曾才郁",
+    "teacher": "洪善鈴、羅正汎、張國威、黃何雄、黎萬君、林怡彣、林榮辰、曾才郁",
     "time": "R12-YD302[YM]"
   },
   "1131_131506": {
@@ -8372,7 +8384,7 @@
     "name": "高等牙醫材料工程學 Advanced Dentist Materials Engineering",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "林元敏、李士元、黃何雄、林榮辰",
+    "teacher": "林元敏、李士元、黃何雄、林榮辰、陳翾",
     "time": "R34-YD415[YM]"
   },
   "1131_131601": {
@@ -8408,7 +8420,7 @@
     "name": "組織工程與材料科學技術導論 Introduction to Tissue Engineering and Materials Science and Technology",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "林元敏、林榮辰",
+    "teacher": "林元敏、林榮辰、陳翾",
     "time": "M34-YD209[YM]"
   },
   "1131_131604": {
@@ -8420,7 +8432,7 @@
     "name": "組織工程與材料科學儀器設備導論 Introduction to Tissue Engineering and Materials Science Instrumentation",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "林元敏、林榮辰",
+    "teacher": "林元敏、林榮辰、陳翾",
     "time": "M9a-YD415[YM]"
   },
   "1131_131605": {
@@ -8948,7 +8960,7 @@
     "name": "新藥發展與臨床試驗 Drug Development and Clinical trials",
     "num_limit": "35",
     "reg_num": "36",
-    "teacher": "林滿玉、林明薇、楊志新、高純琇、郭英調、林首愈、丁漢平、黃鈺媖、陳偉武、陳奕傑、章學元、葉瑋炘",
+    "teacher": "林滿玉、林明薇、楊志新、高純琇、郭英調、林首愈、丁漢平、黃鈺媖、陳偉武、葉瑋炘",
     "time": "T78-YK533[YM]"
   },
   "1131_132007": {
@@ -9368,7 +9380,7 @@
     "name": "專題討論 Seminar",
     "num_limit": "48",
     "reg_num": "9",
-    "teacher": "康照洲、林照雄、楊振昌、蔡東湖、陳美蓮、林滿玉、林逸芬、范玫芳、黃雪莉、楊登傑、林奇宏、倪貴榮、黃鈺芳、林宜平、王湘翠、魏國晋、林怡君、廖伯霖、蔡文城、林嬪嬪、劉宗榮、何其儻、鄭幼文、潘志寬、梁恭豪、劉文勝、王夢蓮、鄒瀚興、賴盈宏、許銘能、劉君豪",
+    "teacher": "康照洲、林照雄、楊振昌、蔡東湖、陳美蓮、林滿玉、林逸芬、范玫芳、黃雪莉、楊登傑、林奇宏、倪貴榮、黃鈺芳、王湘翠、魏國晋、林怡君、廖伯霖、蔡文城、林嬪嬪、劉宗榮、何其儻、鄭幼文、潘志寬、梁恭豪、劉文勝、王夢蓮、鄒瀚興、賴盈宏、許銘能、劉君豪",
     "time": "F56-YN118[YM]"
   },
   "1131_132112": {
@@ -9860,7 +9872,7 @@
     "name": "醫工創新與臨床實踐 Biomedical Engineering Innovation and Clinical Practice",
     "num_limit": "12",
     "reg_num": "0",
-    "teacher": "劉澤英、吳博貴、陳敏弘、郭義松、梁晃千、廖建忠、張智銘",
+    "teacher": "劉澤英、吳博貴、陳敏弘、郭義松、梁晃千、廖建忠、陳維聆、賴彥君、林恆甫、張智銘",
     "time": "F89a-YEA301[YM]"
   },
   "1131_132325": {
@@ -10696,7 +10708,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "132616",
-    "memo": "上課時間為113年7-8月。",
+    "memo": "",
     "name": "傅立葉光學 Fourier Optics",
     "num_limit": "9999",
     "reg_num": "0",
@@ -11229,7 +11241,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "鄭子豪、陳美瑜、廖韋晴、胡春美",
-    "time": "F78-YC516[YM]"
+    "time": "F78-YC501[YM]"
   },
   "1131_132910": {
     "code": "LSBM30020",
@@ -11864,7 +11876,7 @@
     "name": "運動處方與體適能 Exercise Prescription and Physical Fitness",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "陳俊忠、陳立洋",
+    "teacher": "陳俊忠",
     "time": "W56-YN109[YM]"
   },
   "1131_133507": {
@@ -13712,7 +13724,7 @@
     "name": "進階家庭專科護理I Advanced Family Nurse Practitioner I",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "童恒新、楊秋月、胡慧蘭、劉佩青、詹明珊",
+    "teacher": "童恒新、楊秋月、胡慧蘭、劉佩青",
     "time": "F234-YN322[YM]"
   },
   "1131_150300": {
@@ -14478,7 +14490,7 @@
     "id": "162000",
     "memo": "〔1〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽語文學習與寫作中心承辦人（分機ext.65351／Email: ylai6818@nycu.edu.tw）辦理。",
     "name": "韓語和韓國文化(一) Korean Language and culture (I)",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "18",
     "teacher": "沈明珠",
     "time": "T56-YX201[YM]"
@@ -14490,7 +14502,7 @@
     "id": "162001",
     "memo": "〔1〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽語文學習與寫作中心承辦人（分機ext.65351／Email: ylai6818@nycu.edu.tw）辦理。",
     "name": "韓語和韓國文化(一) Korean Language and culture (I)",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "18",
     "teacher": "沈明珠",
     "time": "T78-YX201[YM]"
@@ -14502,7 +14514,7 @@
     "id": "162002",
     "memo": "〔1〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽語文學習與寫作中心承辦人（分機ext.65351／Email: ylai6818@nycu.edu.tw）辦理。",
     "name": "日文(一) Japanese(I)",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "18",
     "teacher": "周雅玲",
     "time": "M34-YX201[YM]"
@@ -14514,7 +14526,7 @@
     "id": "162003",
     "memo": "[1] 具日文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。",
     "name": "日文(三) Japanese(III)",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "8",
     "teacher": "周雅玲",
     "time": "M12-YX201[YM]"
@@ -14526,7 +14538,7 @@
     "id": "162004",
     "memo": "〔1〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽語言學習與寫作中心承辦人（分機ext.65351／Email: ylai6818@nycu.edu.tw）辦理。〔2〕已選課但於開學後第一、二週無故未到者，系統將逕行退選。〔3〕視當學期課程進度之需要，本課程將可能彈性進行至第17、18周。",
     "name": "法文(一) French(I)",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "13",
     "teacher": "張玉蕙",
     "time": "M56-YX202[YM]"
@@ -14538,7 +14550,7 @@
     "id": "162005",
     "memo": "〔1〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽語言學習與寫作中心承辦人（分機ext.65351／Email: ylai6818@nycu.edu.tw）辦理。〔2〕已選課但於開學後第一、二週無故未到者，系統將逕行退選。〔3〕視當學期課程進度之需要，本課程將可能彈性進行至第17、18周。",
     "name": "法文(一) French(I)",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "2",
     "teacher": "張玉蕙",
     "time": "M78-YX202[YM]"
@@ -14562,7 +14574,7 @@
     "id": "162007",
     "memo": "[1] 具德文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。",
     "name": "德文(二) German (II)",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "15",
     "teacher": "唐岱霞",
     "time": "F78-YX503[YM]"
@@ -14574,7 +14586,7 @@
     "id": "162008",
     "memo": "[1] 具德文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。",
     "name": "德文(三) German (III)",
-    "num_limit": "18",
+    "num_limit": "36",
     "reg_num": "8",
     "teacher": "唐岱霞",
     "time": "F56-YX503[YM]"
@@ -14624,7 +14636,7 @@
     "name": "英語口說訓練：演講與簡報 English Speaking practice: English Public Speaking and Presentation",
     "num_limit": "18",
     "reg_num": "0",
-    "teacher": "嚴偉哲",
+    "teacher": "湯宜臻",
     "time": "W12-YX201[YM]"
   },
   "1131_162013": {
@@ -14708,7 +14720,7 @@
     "name": "英語口說訓練：演講與簡報 English Speaking practice: English Public Speaking and Presentation",
     "num_limit": "35",
     "reg_num": "8",
-    "teacher": "嚴偉哲",
+    "teacher": "李思葭",
     "time": "T78-YX503[YM]"
   },
   "1131_162020": {
@@ -14720,7 +14732,7 @@
     "name": "英語口說訓練：演講與簡報 English Speaking practice: English Public Speaking and Presentation",
     "num_limit": "35",
     "reg_num": "35",
-    "teacher": "邱剛彥",
+    "teacher": "湯宜臻",
     "time": "W56-YX503[YM]"
   },
   "1131_162021": {
@@ -23191,7 +23203,7 @@
     "memo": "",
     "name": "半導體物理與元件 Semiconductor Physics and Device",
     "num_limit": "60",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "簡昭欣",
     "time": "R234-SC109[GF]"
   },
@@ -23203,7 +23215,7 @@
     "memo": "",
     "name": "近代物理 Modern physics",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "陳永富",
     "time": "F234-SC151[GF]"
   },
@@ -23215,7 +23227,7 @@
     "memo": "",
     "name": "電磁學 Electromagnetics",
     "num_limit": "60",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "陳衛國",
     "time": "M567-SC162[GF]"
   },
@@ -23227,7 +23239,7 @@
     "memo": "",
     "name": "光學實驗 Optics Lab.",
     "num_limit": "60",
-    "reg_num": "59",
+    "reg_num": "58",
     "teacher": "蘇冠暐",
     "time": "Wabc-SC109[GF]"
   },
@@ -23239,7 +23251,7 @@
     "memo": "",
     "name": "專題討論 Seminar",
     "num_limit": "60",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "余彥廷",
     "time": "Tn-SA312[GF]"
   },
@@ -23251,7 +23263,7 @@
     "memo": "",
     "name": "半導體製程 Semiconductor Processing",
     "num_limit": "60",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "趙天生",
     "time": "T234-SA312[GF]"
   },
@@ -23263,7 +23275,7 @@
     "memo": "",
     "name": "巨量資料導論 Introduction to big data analysis",
     "num_limit": "60",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "林志偉",
     "time": "F678-SC160[GF]"
   },
@@ -23275,7 +23287,7 @@
     "memo": "",
     "name": "資料分析與機器學習 Data analysis and machine learning",
     "num_limit": "60",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "杜岳錡",
     "time": "W567-SC162[GF]"
   },
@@ -26263,7 +26275,7 @@
     "memo": "1.光電系碩、博必選 2.由指導教授約定討論時間及地點",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "205",
+    "reg_num": "204",
     "teacher": "光電系",
     "time": ""
   },
@@ -26311,7 +26323,7 @@
     "memo": "1.光電系碩士班必修 2.光電系碩博士班優先選課3.碩一生統一由本系分發上課班級",
     "name": "光電子學 Optoelectronics",
     "num_limit": "60",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "李柏璁、陳俐吟",
     "time": "W567-CY201[GF]"
   },
@@ -30688,7 +30700,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "537912",
-    "memo": "*本課程將調整至週一上午10:10-12:00AM（尚需完成行政流程後系統才會異動，敬請留意）新竹實體、網路同步班、網路非同步班\n開放通識，開放大三以上同學選修",
+    "memo": "開放通識，開放大三以上同學選修",
     "name": "人工智慧與法律 Artificial Intelligence and Law",
     "num_limit": "45",
     "reg_num": "45",
@@ -35552,7 +35564,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "體育室C",
+    "teacher": "張振興",
     "time": "M78-PE[GF]"
   },
   "1131_563016": {
@@ -39836,7 +39848,7 @@
     "name": "導師輔導(1) Tutor Guidance(1) ",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "蔡營寬",
+    "teacher": "蔡明達",
     "time": "M12-"
   },
   "1131_910007": {
@@ -39848,7 +39860,7 @@
     "name": "導師輔導(1) Tutor Guidance(1) ",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
+    "teacher": "葉昭南",
     "time": "M12-"
   },
   "1131_910008": {
@@ -39991,7 +40003,7 @@
     "memo": "資工組系統班+網攻班，上課地點：國防大學理工學院",
     "name": "導師輔導(3) Tutor Guidance(3)",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "張凱威",
     "time": "M12-"
   },
@@ -40064,7 +40076,7 @@
     "name": "導師輔導(5) Tutor Guidance(5) ",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "系統工程",
+    "teacher": "林盈志",
     "time": "M12-"
   },
   "1131_910026": {
@@ -40411,7 +40423,7 @@
     "memo": "資工組，重補修隨班附讀，上課地點：國防大學理工學院，授課教師：XXX老師。",
     "name": "體育(3) Physical Education(3)",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "系統工程",
     "time": "T12-"
   },
@@ -41179,7 +41191,7 @@
     "memo": "資工組，上課地點：國防大學理工學院，授課教師：劉瀚嶸老師",
     "name": "大陸問題研究 Studies on Mainland China",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "系統工程",
     "time": "T678-"
   },
@@ -41203,7 +41215,7 @@
     "memo": "資工組，上課地點：國防大學理工學院，授課教師：劉嘉霖老師",
     "name": "中華民國憲法與立國精神 Constitution and Founding spirit of the ROC",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "系統工程",
     "time": "W678-"
   },
@@ -41648,7 +41660,7 @@
     "name": "服務學習 (2) Service Learning(2)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
+    "teacher": "林盈志",
     "time": "W8-"
   },
   "1131_910158": {
@@ -41659,7 +41671,7 @@
     "memo": "資工組，上課地點：國防大學理工學院",
     "name": "服務學習 (2) Service Learning(2)",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "張凱威",
     "time": "M9-"
   },
@@ -43724,7 +43736,7 @@
     "name": "船體計算與製圖 Hull Form Calculation and Drawing",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
+    "teacher": "劉宗龍",
     "time": "W678-"
   },
   "1131_910333": {
@@ -44012,7 +44024,7 @@
     "name": "兵器工程專題實作(3) Weapon System Engineering Project(3)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
+    "teacher": "林盈志",
     "time": "M678-"
   },
   "1131_910357": {
@@ -44036,7 +44048,7 @@
     "name": "車輛設計製造專題實作(1) Simple Vehicle Design and Manufacture Project(I)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
+    "teacher": "宋易哲",
     "time": "M678-"
   },
   "1131_910359": {
@@ -44048,7 +44060,7 @@
     "name": "車輛設計製造專題實作(3) Simple Vehicle Design and  Manufacture Project(3)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "宋易哲",
+    "teacher": "黃寶錩",
     "time": "M678-"
   },
   "1131_910360": {
@@ -44072,7 +44084,7 @@
     "name": "特殊船舶設計專題實作(1) Special Ship Design Project(I)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "劉宗龍",
+    "teacher": "陳冠宇",
     "time": "M678-"
   },
   "1131_910362": {
@@ -44084,7 +44096,7 @@
     "name": "特殊船舶設計專題實作(3) Special Ship Design  Project(3)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "林俊成",
+    "teacher": "劉宗龍",
     "time": "M678-"
   },
   "1131_910363": {
@@ -44108,8 +44120,8 @@
     "name": "材料力學 Mechanics of Materials",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "Tabc-"
+    "teacher": "陳冠宇",
+    "time": "Wabc-"
   },
   "1131_910365": {
     "code": "SESE10042",
@@ -44120,7 +44132,7 @@
     "name": "應用力學－靜力學 Engineering Mechanics - Statics",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
+    "teacher": "林盈志",
     "time": "Wabc-"
   },
   "1131_910366": {

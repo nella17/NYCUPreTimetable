@@ -18474,7 +18474,7 @@
     "id": "515102",
     "memo": "以電機系大一新生優先。電機系學生為優先，請其他系所學生於開學後再開放加選。",
     "name": "邏輯設計 Logic Design",
-    "num_limit": "75",
+    "num_limit": "70",
     "reg_num": "0",
     "teacher": "蔡宗亨",
     "time": "T34F5-EE220[GF]"
@@ -18486,7 +18486,7 @@
     "id": "515104",
     "memo": "以電機系大一新生優先。電機系學生為優先，請其他系所學生於開學後再開放加選。",
     "name": "邏輯設計 Logic Design",
-    "num_limit": "75",
+    "num_limit": "70",
     "reg_num": "0",
     "teacher": "董蘭榮",
     "time": "T34F5-EE105[GF]"
@@ -18498,7 +18498,7 @@
     "id": "515105",
     "memo": "以電機系大一新生優先。電機系學生為優先，請其他系所學生於開學後再開放加選。",
     "name": "邏輯設計 Logic Design",
-    "num_limit": "75",
+    "num_limit": "70",
     "reg_num": "0",
     "teacher": "林顯易",
     "time": "T34F5-EE207[GF]"
@@ -18510,7 +18510,7 @@
     "id": "515106",
     "memo": "以電機系大一新生優先。電機系學生為優先，請其他系所學生於開學後再開放加選。",
     "name": "邏輯設計 Logic Design",
-    "num_limit": "75",
+    "num_limit": "70",
     "reg_num": "0",
     "teacher": "周世傑",
     "time": "T34F5-ED220[GF]"
@@ -18522,7 +18522,7 @@
     "id": "515107",
     "memo": "[English Medium Course]以電機系大一新生優先。電機甲組、醫師工程師組。\n電機系學生為優先，請其他系所學生於開學後再開放加選。",
     "name": "邏輯設計【英文班】 Logic Design",
-    "num_limit": "100",
+    "num_limit": "70",
     "reg_num": "0",
     "teacher": "賴伯承",
     "time": "T34F5-ED219[GF]"
@@ -22507,7 +22507,7 @@
     "memo": "一年級必選",
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "67",
     "teacher": "工管系",
     "time": "W78-MB520[GF]"
   },
@@ -22519,7 +22519,7 @@
     "memo": "另1小時以非同步上課方式授課",
     "name": "工業工程與管理概論 Introduction to Industrial Engineering and Management",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "78",
     "teacher": "張永佳",
     "time": "R67-MB520[GF]"
   },
@@ -29959,7 +29959,7 @@
     "memo": "碩一、碩二、博一、博二合班上課",
     "name": "論文研討(上) Seminar(I)",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "68",
     "teacher": "林春成、董弘平",
     "time": "M56-MB520[GF]"
   },

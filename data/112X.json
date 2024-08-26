@@ -31,7 +31,7 @@
     "memo": "中原大學黃文宗",
     "name": "設計行不行 Fundamental Design",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "",
     "time": ""
   },
@@ -43,7 +43,7 @@
     "memo": "中原大學曾陽晴",
     "name": "楚漢相爭之職場競爭力 The Social Competitiveness Of Career",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "",
     "time": ""
   },
@@ -55,7 +55,7 @@
     "memo": "高雄醫學大學吳相儀",
     "name": "幸福入門－正向心理學 Introduction to well being-positive psychology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "",
     "time": ""
   },
@@ -103,7 +103,7 @@
     "memo": "國立中正大學謝國欣",
     "name": "國際人權法律與實務 International Human Rights Law and Practice",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "2",
     "teacher": "",
     "time": ""
   },
@@ -115,7 +115,7 @@
     "memo": "國立成功大學賴俊雄",
     "name": "批判思考：當代文學理論 Critical Thinking: Contemporary Literary and Cultural Theory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "5",
     "teacher": "",
     "time": ""
   },
@@ -127,7 +127,7 @@
     "memo": "國立宜蘭大學陳復",
     "name": "從古典看人生 Reflect Life from Classical Books",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "2",
     "teacher": "",
     "time": ""
   },
@@ -151,7 +151,7 @@
     "memo": "國立東華大學張烜瀚",
     "name": "初級程式設計R語言 Fundamental Computer Programming R Language",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "",
     "time": ""
   },
@@ -163,7 +163,7 @@
     "memo": "國立東華大學王昱心",
     "name": "原住民族神話與當代藝術 Indigenous Mythos & Contemporary Art",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "",
     "time": ""
   },
@@ -175,7 +175,7 @@
     "memo": "國立政治大學蔡炎龍",
     "name": "成為Python數據分析達人的第一堂課 First Steps to Become a Data Analyst with Python",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "3",
     "teacher": "",
     "time": ""
   },
@@ -187,7 +187,7 @@
     "memo": "陳鏗任",
     "name": "學會學：學習之道 Learning How to Learn",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "2",
     "teacher": "",
     "time": ""
   },
@@ -199,7 +199,7 @@
     "memo": "國立雲林科技大學胡詠翔、俞慧芸",
     "name": "大數據的設計思考 Jump start your first big data project with Tableau",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "",
     "time": ""
   },
@@ -223,7 +223,7 @@
     "memo": "慈濟大學林惠茹",
     "name": "藥物濫用與檢驗概論 Modern Conan - Overview of Drug Misuse and Inspection",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "2",
     "teacher": "",
     "time": ""
   },
@@ -235,7 +235,7 @@
     "memo": "慈濟大學林惠茹",
     "name": "食品安全與檢驗概論 Modern Conan- Overview of food safety and inspection",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "",
     "time": ""
   },
@@ -247,7 +247,7 @@
     "memo": "慈濟大學羅廷瑛",
     "name": "現代家庭發展階段與特色 Family development stages and characteristics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "3",
     "teacher": "",
     "time": ""
   },
@@ -872,7 +872,7 @@
     "name": "行銷策略與管理 Marketing Strategies and Management",
     "num_limit": "9999",
     "reg_num": "68",
-    "teacher": "張家齊、祝鳳岡",
+    "teacher": "張家齊",
     "time": "U23456789-M-b10[GF]"
   },
   "112X_559002": {

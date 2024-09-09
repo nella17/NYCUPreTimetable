@@ -7833,7 +7833,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "郭博昭",
-    "time": "F1-YL845[YM]"
+    "time": "F1-YL745[YM]"
   },
   "1131_131118": {
     "code": "MDBS30058",
@@ -14370,7 +14370,7 @@
     "id": "161045",
     "memo": "視訊同步遠距課程 (陽明校區：YX201；交大校區：CS100)",
     "name": "臺灣政治概論 Introduction to Taiwan Politics",
-    "num_limit": "35",
+    "num_limit": "36",
     "reg_num": "-999",
     "teacher": "彭立忠",
     "time": "R12-A103[GF],R12-YX201[YM]"
@@ -22626,7 +22626,7 @@
     "id": "517408",
     "memo": "",
     "name": "設施規劃 Facility Planning",
-    "num_limit": "9999",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "陳文智",
     "time": "R567-MB506[GF]"
@@ -30933,7 +30933,7 @@
     "num_limit": "72",
     "reg_num": "-999",
     "teacher": "李耀仁",
-    "time": "R567-A212[GF]"
+    "time": "R567-A215[GF]"
   },
   "1131_539001": {
     "code": "IIPS30019",
@@ -30969,7 +30969,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李耀仁",
-    "time": "R8-A212[GF]"
+    "time": "R8-A215[GF]"
   },
   "1131_539004": {
     "code": "IIPS30020",

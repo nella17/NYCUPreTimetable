@@ -920,7 +920,7 @@
     "name": "醫務領導和管理 Healthcare Leadership and Management",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "鄧宗業、黃心苑、周穎政、陳翎、楊南屏、唐高駿、洪芳明、尹彙文、陳韵宜",
+    "teacher": "鄧宗業、黃心苑、周穎政、陳翎、洪芳明、尹彙文、陳韵宜",
     "time": "T78-YT003[YM]"
   },
   "1131_110070": {
@@ -3644,7 +3644,7 @@
     "name": "兒童發展評估學 Child Development Assessment",
     "num_limit": "45",
     "reg_num": "-999",
-    "teacher": "羅鴻基、莊頌音、巫俊杉、李哲緯、葉如晴、黃湘茹、劉妍羚",
+    "teacher": "羅鴻基、巫俊杉、李哲緯、葉如晴、莊頌音、黃湘茹、劉妍羚",
     "time": "T34-YB602[YM]"
   },
   "1131_112218": {
@@ -5528,7 +5528,7 @@
     "name": "外科學概論 Introduction to Surgery",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "張世慶、彭成康、陳柏霖、方文良、蔡昕霖、王天祥、石育仲、石柏威、陳瑞裕、陳沂名",
+    "teacher": "張世慶、陳柏霖、方文良、蔡昕霖、林之勛、王天祥、石育仲、石柏威、陳瑞裕、陳沂名",
     "time": "M12345678T34W123478R1234F12345678-YT002[YM]"
   },
   "1131_113701": {
@@ -5672,7 +5672,7 @@
     "name": "中醫學史 History of Traditional Chinese Medicine",
     "num_limit": "30",
     "reg_num": "-999",
-    "teacher": "陳方佩、郭文華、黃怡超、林昭庚、雷祥麟、蔡忠志、陳柏勳",
+    "teacher": "陳方佩、郭文華、黃怡超、林昭庚、雷祥麟、許昇峰、蔡忠志、陳柏勳",
     "time": "F34-YK436[YM]"
   },
   "1131_113901": {
@@ -5684,7 +5684,7 @@
     "name": "中醫學導論 Introduction to Traditional Chinese Medicine",
     "num_limit": "167",
     "reg_num": "-999",
-    "teacher": "許中華、黃怡超、陳方佩、林東毅、龔彥穎、張清貿、劉佳祐、徐蔚泓、彭溫雅、黃奎祐、邱榮鵬",
+    "teacher": "許中華、黃怡超、陳方佩、林東毅、龔彥穎、張清貿、劉佳祐、徐蔚泓、彭溫雅、黃奎祐、邱榮鵬、鄭婷宜",
     "time": "M78-YK208[YM]"
   },
   "1131_113902": {
@@ -6308,7 +6308,7 @@
     "name": "流行病學方法 Epidemiologic Methods",
     "num_limit": "65",
     "reg_num": "-999",
-    "teacher": "莊宜芳、陳信任",
+    "teacher": "莊宜芳、陳娟瑜、陳信任",
     "time": "R789-YT305[YM]"
   },
   "1131_130214": {
@@ -8001,7 +8001,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "范佩貞",
-    "time": "R78-YS415[YM]"
+    "time": "M9a-YS415[YM]"
   },
   "1131_131212": {
     "code": "MDIH30001",
@@ -9104,7 +9104,7 @@
     "name": "臨床藥學專科實習(二) Clinical Pharmacy Practice (Ⅱ)",
     "num_limit": "30",
     "reg_num": "-999",
-    "teacher": "周千瀅、黃金洲、陳涵栩、蔡佩君、王復德、彭殿王、陳明晃、王培寧、周月卿、王鑑瀛、陳明德、陳寬軒、周中偉、趙大中、宋俊松、關尚勇、江東鴻、吳承學、周睿信、鄒嘉玲、黃偉銘、許家禎、王怡凱、王笙帆、陳倩、黃鈴茹",
+    "teacher": "周千瀅、楊振昌、蔡佩君、彭殿王、王培寧、周月卿、王嚴鋒、王鑑瀛、張豫立、陳明德、陳寬軒、尹彙文、顏秀如、江東鴻、吳承學、劉耀中、陳正彥、鄒嘉玲、許家禎、何沁沁、林于瑄、王怡凱、王笙帆、陳一瑋、陳倩、黃鈴茹、雷浩然、鍾孟軒、陳伯亮、張時杰",
     "time": "MnTnWnRnFn-"
   },
   "1131_132014": {
@@ -9158,7 +9158,7 @@
   "1131_132019": {
     "code": "PSPM30063",
     "credit": "1.00",
-    "hours": "18.00",
+    "hours": "1.00",
     "id": "132019",
     "memo": "1.非同步預錄課程上傳至E3系統(收播時間:9/10-10/17暫定) \n2.此課程將納入教育部「精準健康產業跨領域人才培育計畫」精準醫學領域推動中心學校計畫，亦將規劃錄製線上課程，作為此中心及相關夥伴學校之培訓課程，提供陽明交大在學學生選修 。\n3.實際上課時數以影片內容為主",
     "name": "精準醫療與健康大數據 Precision Medicine and Big Data in Health Care",
@@ -9230,7 +9230,7 @@
   "1131_132025": {
     "code": "PSPM30069",
     "credit": "1.00",
-    "hours": "18.00",
+    "hours": "1.00",
     "id": "132025",
     "memo": "此課程在113暑期開課，上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "高齡整合照護與科技應用 Integrated Elderly Care and the Application of Technology",
@@ -9880,7 +9880,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "132319",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "超音波影像與生醫應用 Ultrasound Image and Biomedical Application",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -11685,7 +11685,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "何彥如",
-    "time": "T789-YX206[YM]"
+    "time": "T789-YX211[YM]"
   },
   "1131_133103": {
     "code": "SHPH30038",
@@ -11709,7 +11709,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "游尚愷、鄭凱元",
-    "time": "R6-YX206[YM]"
+    "time": "R6-YX321[YM]"
   },
   "1131_133106": {
     "code": "SHPH30041",
@@ -11720,7 +11720,7 @@
     "name": "意識研究(一) Consciousness Studies I",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "嚴如玉、艾力、何彥如、林映彤、游尚愷、杜培基、洪裕宏",
+    "teacher": "嚴如玉、艾力、林映彤、游尚愷、杜培基、洪裕宏",
     "time": "F34-YX321[YM]"
   },
   "1131_133107": {
@@ -14070,7 +14070,7 @@
     "id": "161018",
     "memo": "",
     "name": "科學與哲學跨領域研究：分子生物學的哲學 Multidisciplinary Research in Science and Philosophy: Philosophy of Molecular Biology",
-    "num_limit": "0",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "蔡有光、鄭凱元",
     "time": "R12-YT304[YM]"
@@ -14274,7 +14274,7 @@
     "id": "161035",
     "memo": "",
     "name": "政治學 Political Science",
-    "num_limit": "35",
+    "num_limit": "39",
     "reg_num": "-999",
     "teacher": "彭懷恩",
     "time": "F56-YT104[YM]"
@@ -14298,7 +14298,7 @@
     "id": "161037",
     "memo": "開學後人工加簽，開放5位「第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」務必出席第一堂課程說明",
     "name": "面對治不好的病—生命末期照顧的醫學 Palliative Medicine",
-    "num_limit": "39",
+    "num_limit": "38",
     "reg_num": "-999",
     "teacher": "賴允亮",
     "time": "R12-YT104[YM]"
@@ -14404,9 +14404,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161047",
-    "memo": "1.無開放遠距教學；2.實體課程教室為光復校區A204教室。",
+    "memo": "1.無開放遠距教學；2.實體課程教室為光復校區A103教室。",
     "name": "從臺海實例看國際關係 Taiwan’s International Relations and Historic Events",
-    "num_limit": "98",
+    "num_limit": "102",
     "reg_num": "-999",
     "teacher": "王惠民",
     "time": "W9a-A103[GF]"
@@ -14418,7 +14418,7 @@
     "id": "161048",
     "memo": "有加簽意願同學，9月9日(一)當周務必上課，授課教師將在課堂上登記課程加選名單，以不逾教室座位數為限(63名)。",
     "name": "現代國際經濟議題 The Modern International Economic Topics",
-    "num_limit": "0",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "曾憲政",
     "time": "M78-YT206[YM]"
@@ -14490,7 +14490,7 @@
     "id": "161054",
     "memo": "實地線上混合教學課程 (陽明校區：YT304；交大校區：線上，請向教師索取線上連結)",
     "name": "哲學概論 Introduction to Philosophy",
-    "num_limit": "0",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "鄭凱元",
     "time": "R34-YT304[YM]"
@@ -14514,7 +14514,7 @@
     "id": "161056",
     "memo": "",
     "name": "認知與道德思考 Morality and Human Cognition",
-    "num_limit": "35",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "張立鴻",
     "time": "R34-YX503[YM]"
@@ -14646,7 +14646,7 @@
     "id": "162007",
     "memo": "[1] 具德文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。",
     "name": "德文(二) German (II)",
-    "num_limit": "35",
+    "num_limit": "36",
     "reg_num": "-999",
     "teacher": "唐岱霞",
     "time": "F78-YX503[YM]"
@@ -14658,7 +14658,7 @@
     "id": "162008",
     "memo": "[1] 具德文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。",
     "name": "德文(三) German (III)",
-    "num_limit": "35",
+    "num_limit": "36",
     "reg_num": "-999",
     "teacher": "唐岱霞",
     "time": "F56-YX503[YM]"
@@ -15441,7 +15441,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "張藝曦",
-    "time": "T567-HK119[LJ]"
+    "time": "T567-HK105[LJ]"
   },
   "1131_310023": {
     "code": "HKHS20019",
@@ -15776,7 +15776,7 @@
     "name": "族群與文化專題研討 Seminar on Ethnicity and Culture",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "簡美玲、柯朝欽",
+    "teacher": "羅烈師、柯朝欽",
     "time": "W56-HK207[LJ]"
   },
   "1131_330008": {
@@ -18705,7 +18705,7 @@
     "num_limit": "50",
     "reg_num": "-999",
     "teacher": "王蒞君",
-    "time": "T567R2-ED301[GF]"
+    "time": "T567-ED116[GF],R2-ED219[GF]"
   },
   "1131_515120": {
     "code": "EEEC10016",
@@ -21093,7 +21093,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "朱英豪",
-    "time": "R2F34-EF201[GF]"
+    "time": "R2F34-EF205[GF]"
   },
   "1131_516302": {
     "code": "ENMS10017",
@@ -21129,7 +21129,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "王誠佑",
-    "time": "R2F34-EF205[GF]"
+    "time": "R2F34-EF201[GF]"
   },
   "1131_516305": {
     "code": "ENMS10025",
@@ -23340,8 +23340,8 @@
     "time": "T234-SA312[GF]"
   },
   "1131_520017": {
-    "code": "XDEP20008",
-    "credit": "3.00",
+    "code": "XDEP20012",
+    "credit": "2.00",
     "hours": "3.00",
     "id": "520017",
     "memo": "",
@@ -24033,7 +24033,7 @@
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "李建佑",
-    "time": "T567-HA302[GF]"
+    "time": "T567-HA314[GF]"
   },
   "1131_534403": {
     "code": "HSAA30068",
@@ -24174,7 +24174,7 @@
     "id": "534414",
     "memo": "上課地點在工程三館EC028；應藝所優先",
     "name": "XR 輔助產品設計 Product Design with XR Assistance",
-    "num_limit": "10",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "李建佑、郭明浩",
     "time": "W678-"
@@ -24908,7 +24908,7 @@
     "name": "室內樂 Chamber Music",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "辛幸純、李俊穎、李奉書、李珮琪、徐伯年、張先惠、林薏蕙、孫建如、黃郁婷、潘世洵、許佳穎、陳昱翰、謝孟軒",
+    "teacher": "辛幸純、李俊穎、李奉書、林慶俊、李珮琪、林薏蕙、孫建如、黃郁婷、潘世洵、許佳穎、陳昱翰、謝孟軒",
     "time": "F1-HC615[GF]"
   },
   "1131_534808": {
@@ -25341,7 +25341,7 @@
     "num_limit": "120",
     "reg_num": "-999",
     "teacher": "陳冠能、林國瑞",
-    "time": "T56-ED116[GF]"
+    "time": "T56-EDB26[GF]"
   },
   "1131_535201": {
     "code": "EEIE30058",
@@ -25617,7 +25617,7 @@
     "num_limit": "40",
     "reg_num": "-999",
     "teacher": "周世傑",
-    "time": "R2-ED202[GF],M56-EDB01[GF]"
+    "time": "M56-ED101[GF],R2-ED202[GF]"
   },
   "1131_535224": {
     "code": "EEIE30077",
@@ -25818,7 +25818,7 @@
     "id": "535305",
     "memo": "[English Medium Course]",
     "name": "數位訊號處理 Digital Signal Processing",
-    "num_limit": "60",
+    "num_limit": "90",
     "reg_num": "-999",
     "teacher": "林源倍",
     "time": "F234-EE102[GF]"
@@ -28485,7 +28485,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "吳佳真",
-    "time": "W234-EV307[GF]"
+    "time": "W234-EV402[GF]"
   },
   "1131_536500": {
     "code": "SCCS30001",
@@ -30057,7 +30057,7 @@
     "num_limit": "30",
     "reg_num": "-999",
     "teacher": "賴學儀",
-    "time": "W567-MB405[GF]"
+    "time": "W567-MB414[GF]"
   },
   "1131_537408": {
     "code": "MGEM30022",
@@ -33474,7 +33474,7 @@
     "id": "561035",
     "memo": "陽明校區同學以遠距視訊方式上課，初選第一階段（6/11-6/14）開放38人給交大校區同學選課；初選第二階段（6/17-6/21）開放38人給陽明校區同學選課。初選第三階段與開學後加退選期間，選課系統僅供新竹校區同學選課，陽明校區（遠距上課）想選修的同學，請在網址 https://reurl.cc/oRnEGD 登記，老師會在每週四選課系統作業結束後請通識中心助理幫忙處理選課。選課總人數上限，新竹校區與陽明校區各50，總計100。",
     "name": "天文學概論 Introduction to Astronomy",
-    "num_limit": "100",
+    "num_limit": "101",
     "reg_num": "-999",
     "teacher": "高文芳",
     "time": "F56-SC162[GF]"

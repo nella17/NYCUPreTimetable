@@ -1736,7 +1736,7 @@
     "name": "牙周病學 Periodontology",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "賴玉玲、董醒任、陳彥廷、陳恆理、林怡君、黃惠華、陳軒弘、張馨尹",
+    "teacher": "林怡君、賴玉玲、董醒任、陳彥廷、陳恆理、黃惠華、陳軒弘、張馨尹",
     "time": "R3-YD320[YM]"
   },
   "1131_111529": {
@@ -2144,7 +2144,7 @@
     "name": "成人護理學Ⅰ Adult NursingⅠ",
     "num_limit": "254",
     "reg_num": "-999",
-    "teacher": "孫秀卿、陳俞琪、廖媛美、童恒新、胡慧蘭、黃淑鶴、楊曼華、侯宜菁、陳律言、廖淑櫻、童惠芳",
+    "teacher": "孫秀卿、陳俞琪、邱愛富、廖媛美、童恒新、胡慧蘭、黃淑鶴、楊曼華、侯宜菁、陳律言、廖咨詠、廖淑櫻、童惠芳",
     "time": "M1234T1234W1234-"
   },
   "1131_111804": {
@@ -2168,7 +2168,7 @@
     "name": "成人護理學Ⅱ Adult NursingⅡ",
     "num_limit": "254",
     "reg_num": "-999",
-    "teacher": "胡慧蘭、孫秀卿、陳俞琪、廖媛美、黃淑鶴、楊曼華、侯宜菁、陳律言、廖淑櫻、童惠芳、徐月霜",
+    "teacher": "胡慧蘭、孫秀卿、陳俞琪、廖媛美、黃淑鶴、楊曼華、侯宜菁、陳律言、廖咨詠、廖淑櫻、童惠芳、徐月霜",
     "time": "M5678T5678W5678-YN416[YM]"
   },
   "1131_111807": {
@@ -6368,7 +6368,7 @@
     "name": "公共衛生概論 Introduction to Public Health ",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林逸芬、林明薇、黃嵩立、周穎政、楊秀儀、陳娟瑜、郭炤裕、蒲正筠、陳瓊梅、梁立霖、黃宣穎、雷文玫、陳信任、莊宜芳、劉家軒、林雅萍、張鴻仁",
+    "teacher": "林逸芬、林明薇、黃嵩立、周穎政、楊秀儀、陳娟瑜、郭炤裕、蒲正筠、陳瓊梅、梁立霖、黃宣穎、雷文玫、陳信任、莊宜芳、劉家軒、林雅萍、張鴻仁、梁賡義",
     "time": "Tn-YS221[YM]"
   },
   "1131_130219": {
@@ -9500,7 +9500,7 @@
     "name": "生技醫學講座 Biotechnology and Biomedical Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "蘇美慈、吳俊穎、黃智生、蘇佳沂、林怡杏、張新侯、劉振凰、張鈞豪",
+    "teacher": "蘇美慈、吳俊穎、黃智生、蘇佳沂、林怡杏、張新侯、劉振凰、張鈞豪、張耀文",
     "time": "Tn-YB100[YM]"
   },
   "1131_132201": {
@@ -14070,7 +14070,7 @@
     "id": "161018",
     "memo": "",
     "name": "科學與哲學跨領域研究：分子生物學的哲學 Multidisciplinary Research in Science and Philosophy: Philosophy of Molecular Biology",
-    "num_limit": "40",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "蔡有光、鄭凱元",
     "time": "R12-YT304[YM]"
@@ -14106,7 +14106,7 @@
     "id": "161021",
     "memo": "陽明校區實體上課，不開放遠距上課",
     "name": "經濟學 Economics",
-    "num_limit": "0",
+    "num_limit": "45",
     "reg_num": "-999",
     "teacher": "梁立霖",
     "time": "M56-YX201[YM]"
@@ -14193,7 +14193,7 @@
     "num_limit": "80",
     "reg_num": "-999",
     "teacher": "陳美蓮、陳鋕雄、賈文宇",
-    "time": "R34-MB1069[GF],R34-YT305[YM]"
+    "time": "R34-A302[GF],R34-YT305[YM]"
   },
   "1131_161029": {
     "code": "GECE00130",
@@ -14394,7 +14394,7 @@
     "id": "161046",
     "memo": "陽明校區實體授課",
     "name": "永續治理 Governance for Sustenbility",
-    "num_limit": "35",
+    "num_limit": "37",
     "reg_num": "-999",
     "teacher": "李河清",
     "time": "R78-YX201[YM]"
@@ -14418,7 +14418,7 @@
     "id": "161048",
     "memo": "有加簽意願同學，9月9日(一)當周務必上課，授課教師將在課堂上登記課程加選名單，以不逾教室座位數為限(63名)。",
     "name": "現代國際經濟議題 The Modern International Economic Topics",
-    "num_limit": "40",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "曾憲政",
     "time": "M78-YT206[YM]"
@@ -14526,7 +14526,7 @@
     "id": "161057",
     "memo": "課程達修課人數上限，不開放加簽",
     "name": "生命現象探討 Frontiers in Life Sciences",
-    "num_limit": "35",
+    "num_limit": "36",
     "reg_num": "-999",
     "teacher": "張南驥",
     "time": "W9a-YX201[YM]"
@@ -18993,7 +18993,7 @@
     "num_limit": "150",
     "reg_num": "-999",
     "teacher": "林亭佑",
-    "time": "R34n-CS-PC4[GF]"
+    "time": "R34n-CS-PC2[GF],R34n-CS-PC4[GF],R34n-ED713[GF]"
   },
   "1131_515145": {
     "code": "EEEC20077",
@@ -21588,12 +21588,12 @@
     "time": ""
   },
   "1131_516620": {
-    "code": "SCEP20007",
+    "code": "SCEP20033",
     "credit": "3.00",
     "hours": "3.00",
     "id": "516620",
     "memo": "",
-    "name": "奈米科學導論 Introduction to Nano Science",
+    "name": "奈米科技與應用 Nano Technology and Applications",
     "num_limit": "75",
     "reg_num": "-999",
     "teacher": "陳智彥",
@@ -22924,12 +22924,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517900",
-    "memo": "[English Medium Course]\n本課程2小時以實體方式上課，另外1小時(第3節)以非同步上課方式",
+    "memo": "[English Medium Course]\n本課程2小時以實體方式上課，另外1小時(第3節)以非同步上課方式。自9/11起教室換到綜合一館A302",
     "name": "美國法導論  Introduction to U.S. Law",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "施明遠",
-    "time": "W56-MB1069[GF]"
+    "time": "W56-A302[GF]"
   },
   "1131_517901": {
     "code": "LWLW00002",
@@ -23309,7 +23309,7 @@
     "hours": "3.00",
     "id": "520013",
     "memo": "",
-    "name": "光學實驗 Optics Lab.",
+    "name": "光子學實驗 Photonics Lab.",
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "蘇冠暐",
@@ -23340,8 +23340,8 @@
     "time": "T234-SA312[GF]"
   },
   "1131_520017": {
-    "code": "XDEP20012",
-    "credit": "2.00",
+    "code": "XDEP20008",
+    "credit": "3.00",
     "hours": "3.00",
     "id": "520017",
     "memo": "",
@@ -23853,7 +23853,7 @@
     "num_limit": "30",
     "reg_num": "-999",
     "teacher": "陳延昇",
-    "time": "M567-HB204[GF]"
+    "time": "M567-HB216[GF]"
   },
   "1131_534301": {
     "code": "HSCS30013",
@@ -23865,7 +23865,7 @@
     "num_limit": "10",
     "reg_num": "-999",
     "teacher": "羅仕宇、吳泰毅",
-    "time": "M678-HB216[GF]"
+    "time": "M678-HB109[GF]"
   },
   "1131_534302": {
     "code": "HSCS30005",
@@ -23889,7 +23889,7 @@
     "num_limit": "30",
     "reg_num": "-999",
     "teacher": "李峻德",
-    "time": "T678-HB204[GF]"
+    "time": "T567-HB216[GF]"
   },
   "1131_534304": {
     "code": "HSCS30030",
@@ -23913,7 +23913,7 @@
     "num_limit": "10",
     "reg_num": "-999",
     "teacher": "李秀珠",
-    "time": "Wabc-HB216[GF]"
+    "time": "T34n-HB109[GF]"
   },
   "1131_534306": {
     "code": "HSCS30037",
@@ -27090,7 +27090,7 @@
     "id": "535701",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；數據科學與工程研究所二選一",
     "name": "資料探勘 Data Mining",
-    "num_limit": "90",
+    "num_limit": "100",
     "reg_num": "-999",
     "teacher": "曾新穆",
     "time": "W34n-EC022[GF]"
@@ -30021,7 +30021,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "巫佳煌",
-    "time": "T567-MB418[GF]"
+    "time": "T567-MB405[GF]"
   },
   "1131_537405": {
     "code": "MGEM30053",
@@ -30897,7 +30897,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "賴英照",
-    "time": "R567-TB305[BM]"
+    "time": "R678-TB305[BM]"
   },
   "1131_537923": {
     "code": "LWLW30277",
@@ -32397,7 +32397,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "賴學儀",
-    "time": "Tabc-MB405[GF]"
+    "time": "Tabc-MB414[GF]"
   },
   "1131_557600": {
     "code": "MGIM30022",
@@ -33474,7 +33474,7 @@
     "id": "561035",
     "memo": "陽明校區同學以遠距視訊方式上課，初選第一階段（6/11-6/14）開放38人給交大校區同學選課；初選第二階段（6/17-6/21）開放38人給陽明校區同學選課。初選第三階段與開學後加退選期間，選課系統僅供新竹校區同學選課，陽明校區（遠距上課）想選修的同學，請在網址 https://reurl.cc/oRnEGD 登記，老師會在每週四選課系統作業結束後請通識中心助理幫忙處理選課。選課總人數上限，新竹校區與陽明校區各50，總計100。",
     "name": "天文學概論 Introduction to Astronomy",
-    "num_limit": "101",
+    "num_limit": "102",
     "reg_num": "-999",
     "teacher": "高文芳",
     "time": "F56-SC162[GF]"
@@ -38361,7 +38361,7 @@
     "num_limit": "45",
     "reg_num": "-999",
     "teacher": "曲在雯、高智飛",
-    "time": "W234-SC105[GF]"
+    "time": "W234-SC151[GF]"
   },
   "1131_567007": {
     "code": "GEBT00003",
@@ -39964,7 +39964,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910010",
-    "memo": "不分組A班，上課地點：國防大學理工學院，授課教師包含：電機組談光雄老師",
+    "memo": "不分組A班，上課地點：國防大學理工學院，授課教師包含：電機組談光雄、動力組葉昭南老師",
     "name": "導師輔導(1) Tutor Guidance(1) ",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -39976,7 +39976,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910011",
-    "memo": "不分組B班，上課地點：國防大學理工學院",
+    "memo": "不分組B班，上課地點：國防大學理工學院，授課教師包含：電機組談光雄、動力組葉昭南老師",
     "name": "導師輔導(1) Tutor Guidance(1) ",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -40360,7 +40360,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910044",
-    "memo": "電機組+環資組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：葉美玲、林煜棠老師",
+    "memo": "電機組+環資組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：葉美玲(環資)、林煜棠(電機)老師",
     "name": "體育(1) Physical Education(1)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -40372,7 +40372,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910045",
-    "memo": "化材組+動力組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：林煜棠、呂昌憲老師",
+    "memo": "化材組+動力組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：林煜棠(化材)、呂昌憲(動力)老師",
     "name": "體育(1) Physical Education(1)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -40384,7 +40384,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910046",
-    "memo": "資工組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：那維老師",
+    "memo": "資工組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：那維、呂昌憲老師",
     "name": "體育(1) Physical Education(1)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -40396,7 +40396,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910047",
-    "memo": "不分組A班，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：劉鎮倫老師",
+    "memo": "不分組A班，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：呂昌憲、劉鎮倫老師",
     "name": "體育(1) Physical Education(1)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -40420,7 +40420,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910049",
-    "memo": "機航組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：呂昌憲老師",
+    "memo": "機航組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：劉翼諄老師",
     "name": "體育(1) Physical Education(1)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -40696,7 +40696,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910072",
-    "memo": "停開(重補修課程，上課地點：國防大學理工學院，授課教師：XXX老師)",
+    "memo": "停開",
     "name": "體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -40996,7 +40996,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910097",
-    "memo": "機航組，上課地點在國防理工，授課教師：羅本(吉吉)老師",
+    "memo": "機航組，上課地點在國防理工",
     "name": "普通物理(1) General Physics (1) ",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -41512,7 +41512,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910140",
-    "memo": "停開(全組，第5班，上課地點：國防大學理工學院，授課教師：XXX老師)",
+    "memo": "停開",
     "name": "工程倫理 Ethics in Engineering",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -41608,7 +41608,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910153",
-    "memo": "停開(全組，重補修隨班附讀，上課地點：國防大學理工學院，授課教師：XXX老師)",
+    "memo": "停開",
     "name": "中級英文(2) Intermediate English (2)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -41692,7 +41692,7 @@
     "credit": "4.00",
     "hours": "4.00",
     "id": "910160",
-    "memo": "停開(電機組，重補修課程，上課地點：國防大學理工學院，授課教師：XXX老師)",
+    "memo": "停開",
     "name": "微積分(2) Calculus(2)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -41728,7 +41728,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910163",
-    "memo": "停開(重補修班，上課地點：國防大學理工學院)",
+    "memo": "停開",
     "name": "普通物理(2) General Physics(2)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -41752,7 +41752,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910165",
-    "memo": "停開(全組，重補修班，上課地點：國防大學理工學院，授課教師：XXX老師)",
+    "memo": "停開",
     "name": "英文(2) English(2)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -41848,7 +41848,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910174",
-    "memo": "全組，上課地點：國防大學理工學院，授課教師：游雪琴老師",
+    "memo": "停開",
     "name": "法文(一)   French(1)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -41860,7 +41860,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910175",
-    "memo": "全組，上課地點：國防大學理工學院，授課教師：游雪琴老師",
+    "memo": "停開",
     "name": "法文(一)   French(1)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42028,7 +42028,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910194",
-    "memo": "停開(全組，上課地點：國防大學理工學院，授課教師：XXX老師)",
+    "memo": "停開",
     "name": "運動科學概論 Introduction to Kinematics",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42112,7 +42112,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910203",
-    "memo": "停開(全組，上課地點：國防大學理工學院，授課教師：XXX老師)",
+    "memo": "停開",
     "name": "體適能與健康 Fitness and Health",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42388,7 +42388,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910226",
-    "memo": "電機組，上課地點：國防大學理工學院",
+    "memo": "停開",
     "name": "近代光電工程 Introduction to Modern Optoelectronic Engineering ",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -43108,7 +43108,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910292",
-    "memo": "環資組空間班，上課地點：國防大學理工學院，授課教師：李宜珊老師",
+    "memo": "環資組空間班，上課地點：國防大學理工學院",
     "name": "大地測量學實習 Geodesy Practice",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -43660,7 +43660,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910343",
-    "memo": "動力組車輛班，上課地點：國防大學理工學院",
+    "memo": "停開",
     "name": "軍用車輛材料 Materials of Military Vehicles",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -44068,7 +44068,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910379",
-    "memo": "資工組，上課地點：國防大學理工學院",
+    "memo": "停開",
     "name": "軟體安全 Software Security",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -44116,7 +44116,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910383",
-    "memo": "資工組，上課地點：國防大學理工學院",
+    "memo": "停開",
     "name": "影像處理 Digital Image Processing",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -44128,7 +44128,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910385",
-    "memo": "資工組，上課地點：國防大學理工學院",
+    "memo": "停開",
     "name": "C4ISR 系統概論 Introduction to C4ISR System",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -44152,7 +44152,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910387",
-    "memo": "資工組，上課地點：國防大學理工學院，授課教師：陳佑全老師",
+    "memo": "停開",
     "name": "網頁安全與滲透測試 Web Security and Penetration test",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -44164,7 +44164,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910389",
-    "memo": "資工組，上課地點：國防大學理工學院",
+    "memo": "停開",
     "name": "網路通訊協定模擬與設計 Network Communication Protocols, Simulation, and Design ",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -44680,7 +44680,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910437",
-    "memo": "全組，上課地點：國防大學理工學院，授課教師：蔡志勇老師",
+    "memo": "停開",
     "name": "日文(二) japanese(2)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -44752,7 +44752,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910443",
-    "memo": "動力組，上課地點：國防大學理工學院",
+    "memo": "動力組，重補修課程，上課地點：國防大學理工學院",
     "name": "系統工程概論 An Introduction to Systems Engineering",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -44824,7 +44824,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910449",
-    "memo": "重補修，上課地點：國防大學理工學院，授課教師：黃冠毓老師",
+    "memo": "全組，重補修課程，上課地點：國防大學理工學院，授課教師：黃冠毓老師",
     "name": "線性代數 Linear Algebra",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -44836,7 +44836,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910450",
-    "memo": "",
+    "memo": "環資組，上課地點：國防大學理工學院",
     "name": "環境資訊及工程整合專題實作(3) Special Topics in Integration of Environmental Information and Engineering(3)",
     "num_limit": "9999",
     "reg_num": "-999",

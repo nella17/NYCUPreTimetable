@@ -835,7 +835,7 @@
     "memo": "請依醫學系課表上課",
     "name": "實證醫學臨床案例討論 Evidence-based Medicine: Case Discussion",
     "num_limit": "30",
-    "reg_num": "11",
+    "reg_num": "12",
     "teacher": "鄭浩民、梁仁峯、徐德福、鄒樂起、陳威志、關艾琛、曹彥博、林進偉、沈曉津",
     "time": "R9a-"
   },
@@ -26179,7 +26179,7 @@
     "memo": "資安所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "資安所",
     "time": ""
   },

@@ -263,6 +263,18 @@
     "teacher": "",
     "time": ""
   },
+  "112X_040005": {
+    "code": "IAFA00754",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "040005",
+    "memo": "",
+    "name": "動物基因工程 Animal Genetic Engineering",
+    "num_limit": "9999",
+    "reg_num": "1",
+    "teacher": "",
+    "time": ""
+  },
   "112X_250100": {
     "code": "MGBM30042",
     "credit": "3.00",

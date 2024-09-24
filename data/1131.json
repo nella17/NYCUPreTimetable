@@ -3715,7 +3715,7 @@
     "memo": "非物治系學生選修本課程，需先經授課老師同意",
     "name": "脊椎矯正學(一) Spinal Manipulation (I)",
     "num_limit": "45",
-    "reg_num": "19",
+    "reg_num": "17",
     "teacher": "朱俊榮",
     "time": "U1234-YB602[YM]"
   },
@@ -6991,7 +6991,7 @@
     "memo": "[English Medium Course]",
     "name": "人因工程 Human Factors",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "余國賓、李旻軒",
     "time": "F56-YS105[YM]"
   },
@@ -7088,7 +7088,7 @@
     "name": "外科重症醫學 Surgical Treatment in Critical Illness",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "許瀚水、陳理維、陽光耀、林邑璁、許喬博、蔡昕霖、陳明德、王天祥",
+    "teacher": "許瀚水、陳理維、陽光耀、林邑璁、許喬博、蔡昕霖、陳明德、林之勛",
     "time": "R3-YN118[YM]"
   },
   "1131_130904": {
@@ -7375,7 +7375,7 @@
     "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
     "name": "實驗神經概論 Introduction to Experimental Neuroscience",
     "num_limit": "9999",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "蔡金吾、楊定一、楊靜修、鄭菡若、洪成志",
     "time": "T3-YL839[YM]"
   },
@@ -7387,7 +7387,7 @@
     "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
     "name": "神經資訊造影概論 Introduction to Neuroinformatics",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "陳麗芬",
     "time": "T2-YL839[YM]"
   },
@@ -7423,7 +7423,7 @@
     "memo": "必選",
     "name": "腦科學實習 Experimental Brain Science ",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "鄭菡若、鄭彥甫、陳麗芬、楊定一、楊靜修、盧俊良、王署君、蔡金吾、林嘉澍、陳世彬、楊智傑、柯立偉、侯珮珊、李怡慧、蘇東平、尼大衛",
     "time": "Un-YL845[YM]"
   },
@@ -7483,7 +7483,7 @@
     "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
     "name": "臨床腦疾病概論 Clinical Introduction to Brain Disease",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "李怡慧、盧俊良、陳世彬、楊智傑、吳昭慶、廖翊筑、李正達、王嚴鋒、劉祐岑",
     "time": "T4-YL839[YM]"
   },
@@ -10315,7 +10315,7 @@
     "memo": "如有外籍生選修則英語授課。Teach in English and Chinese[English Medium Course]",
     "name": "光學細胞顯微科技 Optical Microscopy for Living Cells",
     "num_limit": "70",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "李超煌",
     "time": "F567-YK533[YM]"
   },
@@ -10372,7 +10372,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "132615",
-    "memo": "[English Medium Course]",
+    "memo": "",
     "name": "生醫感測與微奈米操控科技 Biosensing and micro-/nanomanipulation technology",
     "num_limit": "30",
     "reg_num": "8",
@@ -12236,7 +12236,7 @@
     "name": "照護實務之管理與領導 Leadership and Organization Management",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "童恒新、葉士青、李亭亭、侯宜菁、王桂芸",
+    "teacher": "童恒新、陳怡如、劉影梅、李亭亭、侯宜菁、王桂芸、鍾若男、林麗華",
     "time": "F5678-YN419[YM]"
   },
   "1131_141501": {
@@ -12655,7 +12655,7 @@
     "memo": "1.全程英文授課，限本學程二年級學生修讀。\n2.上課地點：中研院跨領域大樓B100會議室。[English Medium Course]",
     "name": "進階神經科學專題討論 Advance in Neuroscience",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "郭紘志",
     "time": "T56-"
   },
@@ -22464,12 +22464,12 @@
     "time": "Wabc-SC109[GF]"
   },
   "1131_520014": {
-    "code": "XDEP20005",
+    "code": "XDEP20013",
     "credit": "1.00",
     "hours": "1.00",
     "id": "520014",
     "memo": "",
-    "name": "專題討論 Seminar",
+    "name": "專題討論(一) Seminar(I)",
     "num_limit": "200",
     "reg_num": "108",
     "teacher": "待聘",
@@ -25015,7 +25015,7 @@
     "memo": "【AI學程專業選修】",
     "name": "自主駕駛車技術 Self-Driving Cars",
     "num_limit": "50",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "王傑智",
     "time": "R34n-EE635[GF]"
   },
@@ -25627,7 +25627,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "458",
+    "reg_num": "456",
     "teacher": "資科工所",
     "time": ""
   },
@@ -36367,7 +36367,7 @@
     "memo": "(大班授課)",
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "135",
-    "reg_num": "132",
+    "reg_num": "131",
     "teacher": "王夏聲",
     "time": "M78R34-SA321[GF]"
   },

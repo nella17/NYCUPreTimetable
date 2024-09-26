@@ -896,7 +896,7 @@
     "name": "大體解剖學 Gross Anatomy",
     "num_limit": "9999",
     "reg_num": "186",
-    "teacher": "鄭瓊娟、傅毓秀、李光申、李學德、蔡佩君、郭曉縈、侯珮珊、周昆達、吳宏達、陳威志",
+    "teacher": "鄭瓊娟、傅毓秀、李學德、蔡佩君、郭曉縈、侯珮珊、周昆達、吳宏達、陳威志、熊偉",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
   "1131_110077": {
@@ -3296,7 +3296,7 @@
     "name": "物理治療導論 Introduction to Physical Therapy",
     "num_limit": "45",
     "reg_num": "49",
-    "teacher": "陳喬男、王子娟、王瑞瑤、楊雅如、李淑貞、李雪楨、羅鴻基、林吟亮、黃崇舜",
+    "teacher": "陳喬男、王子娟、王瑞瑤、楊雅如、李淑貞、李雪楨、蔡美文、羅鴻基、林吟亮、黃崇舜",
     "time": "T3-YB601[YM]"
   },
   "1131_112201": {
@@ -3620,7 +3620,7 @@
     "name": "臨床醫學(二) Clinical Medicine (II)",
     "num_limit": "45",
     "reg_num": "38",
-    "teacher": "陳柏霖、丁乾坤、蔡昕霖、杜宗熹、黃奕燊、吳思賢、秦郁晴、蔡亞倫、鄭厚軒、邱允寧、陳冠林、陳右儒",
+    "teacher": "陳柏霖、丁乾坤、蔡昕霖、杜宗熹、黃奕燊、吳思賢、吳飛逸、秦郁晴、蔡亞倫、鄭厚軒、邱允寧、陳冠林、陳右儒、吳東琰、余秉軒、黃建勝",
     "time": "M56-YB624[YM]"
   },
   "1131_112228": {
@@ -3704,7 +3704,7 @@
     "name": "骨科醫學概論 Introduction to Orthopedics",
     "num_limit": "45",
     "reg_num": "37",
-    "teacher": "蘇宇平、吳博貴、馬筱笠、蔣恩榮、周伯鑫、黃意超、王建順、姚又誠、奉季光、許逵翔、王柏涵、林育寬、江昭慶、陳正豐",
+    "teacher": "蘇宇平、吳博貴、馬筱笠、蔣恩榮、周伯鑫、黃意超、王建順、陳昆暉、姚又誠、鄭銘輝、奉季光、林峻正、許逵翔、王柏涵、林育寬、江昭慶、陳正豐",
     "time": "T1-YB603[YM]"
   },
   "1131_112235": {
@@ -14167,7 +14167,7 @@
     "memo": "[English Medium Course]1.醫學系大二英文課程，非通識(語言與溝通－英文)課程，全英語教學，初選第一、二階段限醫學系二年級選修，「英國浪漫詩歌賞析」、「科學英文」或「英語口說訓練:演講與簡報」三門課程擇一修讀，為維持教學品質，限制修課人數。 2.大一選修過相同課程不得選修此課程。",
     "name": "英語口說訓練：演講與簡報 English Speaking practice: English Public Speaking and Presentation",
     "num_limit": "35",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "湯宜臻",
     "time": "W56-YX503[YM]"
   },
@@ -24799,7 +24799,7 @@
     "memo": "9月6日（五）第一次上課教室在EDB27",
     "name": "實體設計自動化 Physical Design Automation",
     "num_limit": "120",
-    "reg_num": "145",
+    "reg_num": "143",
     "teacher": "陳宏明",
     "time": "F234-ED116[GF]"
   },
@@ -25627,7 +25627,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "455",
+    "reg_num": "453",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25963,7 +25963,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "128",
+    "reg_num": "127",
     "teacher": "網工所",
     "time": ""
   },
@@ -28507,7 +28507,7 @@
     "memo": "限管科系選修。",
     "name": "R語言與商業應用 R Programming Language and Business Applications",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "林佩欣",
     "time": "M4n-M301[GF]"
   },
@@ -29708,7 +29708,7 @@
     "name": "人工智慧與法律 Artificial Intelligence and Law",
     "num_limit": "45",
     "reg_num": "44",
-    "teacher": "陳鋕雄、施明遠、李界昇",
+    "teacher": "陳鋕雄、施明遠、李界昇、孫介然",
     "time": "M34-MB405[GF]"
   },
   "1131_537913": {
@@ -29756,7 +29756,7 @@
     "name": "民事訴訟法(一) Civil Procedure (I)",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "陳在方",
+    "teacher": "陳在方、孫介然",
     "time": "M34n-EE129[GF]"
   },
   "1131_537918": {
@@ -31556,7 +31556,7 @@
     "name": "民事訴訟法(一) Civil Procedure (I)",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "陳在方",
+    "teacher": "陳在方、孫介然",
     "time": "Myz-"
   },
   "1131_557902": {
@@ -31688,7 +31688,7 @@
     "name": "網路國際法 Cyber Activities and International Law",
     "num_limit": "9999",
     "reg_num": "23",
-    "teacher": "陳在方、蔡志宏、徐揮彥",
+    "teacher": "陳在方、孫介然、蔡志宏、徐揮彥",
     "time": "Fab-MB1063[GF]"
   },
   "1131_557913": {

@@ -5480,7 +5480,7 @@
     "name": "中醫學導論 Introduction to Traditional Chinese Medicine",
     "num_limit": "167",
     "reg_num": "29",
-    "teacher": "許中華、黃怡超、陳方佩、林東毅、龔彥穎、張清貿、劉佳祐、徐蔚泓、彭溫雅、黃奎祐、邱榮鵬、鄭婷宜",
+    "teacher": "許中華、黃怡超、陳方佩、林東毅、龔彥穎、張清貿、劉佳祐、徐蔚泓、彭溫雅、黃奎祐、邱榮鵬",
     "time": "M78-YK208[YM]"
   },
   "1131_113902": {
@@ -25627,7 +25627,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "449",
+    "reg_num": "447",
     "teacher": "資科工所",
     "time": ""
   },

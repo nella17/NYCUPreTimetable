@@ -4903,7 +4903,7 @@
     "memo": "牙醫一,  藥學合班上課",
     "name": "化學原理 General Chemistry",
     "num_limit": "9999",
-    "reg_num": "64",
+    "reg_num": "63",
     "teacher": "黃介嶸、姜為中、許邦弘",
     "time": "F56-A302[GF],F56-YX406[YM]"
   },
@@ -11768,7 +11768,7 @@
     "name": "專題討論(博士班二) Seminar DII",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "陳世彬、鄭彥甫、牛道明、王錦鈿、李光申、楊慕華、黃怡翔、楊盈盈、黃柏勳、李美璇、楊智宇、嵇達德、陳斯婷、賴峻毅、吳成文、蘇建維、林進清、羅秀容、魏耀揮、陳宜民、梁毓津、吳肇卿",
+    "teacher": "陳世彬、鄭彥甫、牛道明、王錦鈿、李光申、楊慕華、黃怡翔、楊盈盈、黃柏勳、李美璇、楊智宇、嵇達德、陳斯婷、賴峻毅、吳成文、蘇建維、林進清、羅秀容、魏耀揮、陳宜民、陳建良、梁毓津、吳肇卿",
     "time": "R78-YL405[YM]"
   },
   "1131_140301": {
@@ -25627,7 +25627,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "447",
+    "reg_num": "446",
     "teacher": "資科工所",
     "time": ""
   },
@@ -26155,7 +26155,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "135",
+    "reg_num": "134",
     "teacher": "數據所",
     "time": ""
   },
@@ -26191,7 +26191,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -29741,7 +29741,7 @@
     "hours": "3.00",
     "id": "537915",
     "memo": "限科法所及科法博班同學選修",
-    "name": "科技法律服務學習 Learning & Serviece in Technology Law",
+    "name": "科技法律服務學習 Learning & Service in Technology Law",
     "num_limit": "9999",
     "reg_num": "63",
     "teacher": "科法所",
@@ -31987,7 +31987,7 @@
     "memo": "",
     "name": "文學經典：詩經 Chinese Literature-Shin Ching",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "王月秀",
     "time": "M12-A202[GF]"
   },
@@ -34651,7 +34651,7 @@
     "memo": "",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "江竹偉",
     "time": "M56-PE[GF]"
   },

@@ -2132,7 +2132,7 @@
     "name": "社區衛生護理學實習 Community Health Nursing Practice",
     "num_limit": "254",
     "reg_num": "40",
-    "teacher": "王子芳、周承珍、廖咨詠、林承霈、林麗華、吳佳珊、謝玉如、周明慧、劉慧芬、唐鳳屏",
+    "teacher": "王子芳、周承珍、廖咨詠、林承霈、張丞淯、林麗華、吳佳珊、謝玉如、周明慧、劉慧芬、唐鳳屏",
     "time": "M123456789T123456789W123456789-"
   },
   "1131_111811": {
@@ -24487,7 +24487,7 @@
     "memo": "",
     "name": "半導體物理及元件(一) Semiconductor Physics and Devices (I)",
     "num_limit": "70",
-    "reg_num": "68",
+    "reg_num": "67",
     "teacher": "郭治群",
     "time": "W567-ED101[GF]"
   },
@@ -25627,7 +25627,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "446",
+    "reg_num": "445",
     "teacher": "資科工所",
     "time": ""
   },
@@ -26059,7 +26059,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "139",
+    "reg_num": "138",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -29911,7 +29911,7 @@
     "memo": "[English Medium Course]前瞻所甲組專業核心課程\n此課程和「半導體元件物理與奈米電晶體」屬同類型課程,擇一認列為專業核心課程。",
     "name": "半導體物理及元件 Semiconductor Physics and Devices",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "梁耕僑",
     "time": "M567-A305[GF]"
   },

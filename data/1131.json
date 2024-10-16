@@ -632,7 +632,7 @@
     "name": "醫師科學家專題研究(一) Physician-Scientist Program-Research 1",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "兵岳忻、邱士華、蔡金吾、陳世彬、陳斯婷、高正彥、蘇佳沂",
+    "teacher": "兵岳忻、邱士華、蔡金吾、陳世彬、陳斯婷、高正彥、蘇佳沂、楊懷壹",
     "time": "Sa-"
   },
   "1131_110051": {
@@ -25963,7 +25963,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "126",
+    "reg_num": "125",
     "teacher": "網工所",
     "time": ""
   },
@@ -40450,18 +40450,6 @@
     "reg_num": "6",
     "teacher": "系統工程",
     "time": "T678-"
-  },
-  "1131_910166": {
-    "code": "SESE00118",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910166",
-    "memo": "全組，上課地點：國防大學理工學院，授課教師：張明(女郎)老師",
-    "name": "中國兵書選讀 Chinese Military Literature",
-    "num_limit": "9999",
-    "reg_num": "1",
-    "teacher": "系統工程",
-    "time": "R12-"
   },
   "1131_910167": {
     "code": "SESE00118",

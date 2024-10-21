@@ -8612,7 +8612,7 @@
     "name": "生藥暨中藥藥物學(一) Pharmacognosy and Traditional Chinese Pharmacology (I)",
     "num_limit": "70",
     "reg_num": "32",
-    "teacher": "陳日榮、廖家慶、朱益成、林玉麒",
+    "teacher": "陳日榮、廖家慶、朱益成",
     "time": "M789-YK533[YM]"
   },
   "1131_132001": {
@@ -11480,7 +11480,7 @@
     "name": "進階長期照顧管理實務實習 Advanced Long-Term Care Management Practicum",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "陳怡如、李雪楨、范佩貞、李玉春、吳肖琪",
+    "teacher": "陳怡如、范佩貞、李玉春、吳肖琪",
     "time": "U1234-YN109[YM]"
   },
   "1131_133503": {
@@ -11552,7 +11552,7 @@
     "name": "長照復能與專業服務 Reablement and Professional services of Long-term care",
     "num_limit": "9999",
     "reg_num": "10",
-    "teacher": "李雪楨、羅鴻基、李玉春、陳家慶、張自強、袁瑋、蔡法慈、許銘能、李維倫、余虹、鄧菁菁、蔡語涵、黃晴雯、張語珊",
+    "teacher": "李雪楨、羅鴻基、李玉春、張自強、袁瑋、蔡法慈、許銘能、余虹、鄧菁菁、蔡語涵、黃晴雯",
     "time": "R34-YN613[YM]"
   },
   "1131_133511": {
@@ -25627,7 +25627,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "444",
+    "reg_num": "443",
     "teacher": "資科工所",
     "time": ""
   },
@@ -30451,7 +30451,7 @@
     "memo": "台北校區開課，新竹校區視訊上課(A806)[English Medium Course]",
     "name": "運輸與物流研究專題 Research Seminar",
     "num_limit": "9999",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "運管系",
     "time": "F78-TB429[BM]"
   },

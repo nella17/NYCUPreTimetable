@@ -6995,18 +6995,6 @@
     "teacher": "余國賓、李旻軒",
     "time": "F56-YS105[YM]"
   },
-  "1131_130820": {
-    "code": "MDEO30010",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "130820",
-    "memo": "",
-    "name": "新興環境流行病學專題討論(一) Seminar for Emerging Topics in Environmental Epidemiology(1)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "潘文驥",
-    "time": "W4n-YS415[YM]"
-  },
   "1131_130821": {
     "code": "MDEO30017",
     "credit": "2.00",
@@ -26059,7 +26047,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "138",
+    "reg_num": "137",
     "teacher": "多媒體所",
     "time": ""
   },

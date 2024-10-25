@@ -7184,7 +7184,7 @@
     "name": "生物醫學資訊學新知（一） Advances in Biomedical Informatics I",
     "num_limit": "9999",
     "reg_num": "32",
-    "teacher": "吳俊穎",
+    "teacher": "吳俊穎、邱弘毅、李友專、徐建業、梁恭豪",
     "time": "Rn5-YL402[YM]"
   },
   "1131_131006": {
@@ -10159,7 +10159,7 @@
     "memo": "生醫影像學程[English Medium Course]",
     "name": "神經生理與神經影像 Neurophysiology and Neuroimage",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "11",
     "teacher": "高瑀絜",
     "time": "W78-YB458[YM]"
   },
@@ -22460,7 +22460,7 @@
     "name": "專題討論(一) Seminar(I)",
     "num_limit": "200",
     "reg_num": "108",
-    "teacher": "待聘",
+    "teacher": "學士後電子與光子",
     "time": "Tn-SA321[GF]"
   },
   "1131_520015": {
@@ -25615,7 +25615,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "442",
+    "reg_num": "440",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25951,7 +25951,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "125",
+    "reg_num": "124",
     "teacher": "網工所",
     "time": ""
   },

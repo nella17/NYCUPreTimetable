@@ -632,7 +632,7 @@
     "name": "醫師科學家專題研究(一) Physician-Scientist Program-Research 1",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "兵岳忻、邱士華、蔡金吾、陳世彬、陳斯婷、高正彥、蘇佳沂、楊懷壹",
+    "teacher": "兵岳忻、邱士華、蔡金吾、陳世彬、楊智宇、陳斯婷、高正彥、蘇佳沂、楊懷壹",
     "time": "Sa-"
   },
   "1131_110051": {
@@ -14239,7 +14239,7 @@
     "memo": "[English Medium Course]",
     "name": "研究方法 Research Methods",
     "num_limit": "9999",
-    "reg_num": "54",
+    "reg_num": "53",
     "teacher": "林介鵬",
     "time": "T234-TB307[BM]"
   },
@@ -25615,7 +25615,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "440",
+    "reg_num": "439",
     "teacher": "資科工所",
     "time": ""
   },
@@ -26047,7 +26047,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "137",
+    "reg_num": "136",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -27389,7 +27389,7 @@
     "hours": "3.00",
     "id": "536457",
     "memo": "[English Medium Course]環工所學生優先",
-    "name": "空氣污染控制 Thoery and Practice of Air Pollution Control",
+    "name": "空氣污染控制 Theory and Practice of Air Pollution Control",
     "num_limit": "20",
     "reg_num": "18",
     "teacher": "林亮毅",

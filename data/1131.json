@@ -6420,9 +6420,9 @@
     "time": "W56-YN514[YM]"
   },
   "1131_130502": {
-    "code": "MDHH30086",
+    "code": "MDHH30107",
     "credit": "2.00",
-    "hours": "1.00",
+    "hours": "2.00",
     "id": "130502",
     "memo": "碩二必修。",
     "name": "醫務管理實習 Internship in Hospital Management",
@@ -13184,7 +13184,7 @@
     "name": "精準醫學高階管理 Innovation Management, strategy and technology in Precision Medicine ",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "黃奇英、李光申",
+    "teacher": "黃奇英",
     "time": "U8-YR105[YM]"
   },
   "1131_150303": {
@@ -18043,7 +18043,7 @@
     "memo": "實驗課教室工程五館EE224",
     "name": "智慧機器人實驗 Intelligent Robotics Laboratory",
     "num_limit": "26",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "宋開泰",
     "time": "W234-"
   },
@@ -19999,7 +19999,7 @@
     "memo": "AB班",
     "name": "材料力學 Mechanics of Materials",
     "num_limit": "50",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "蔡營寬",
     "time": "T56R2-EB115[GF]"
   },
@@ -24679,7 +24679,7 @@
     "memo": "",
     "name": "深度學習 Deep Learning",
     "num_limit": "160",
-    "reg_num": "123",
+    "reg_num": "122",
     "teacher": "張添烜",
     "time": "M789-ED220[GF]"
   },
@@ -25615,7 +25615,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "438",
+    "reg_num": "437",
     "teacher": "資科工所",
     "time": ""
   },
@@ -27451,7 +27451,7 @@
     "memo": "",
     "name": "半導體物理及元件（一） Semiconductor Physics and Devices (I)",
     "num_limit": "190",
-    "reg_num": "213",
+    "reg_num": "212",
     "teacher": "趙天生",
     "time": "W789-SC001[GF]"
   },
@@ -29311,7 +29311,7 @@
     "memo": "財務類課程；限財務金融碩博專班學生選修。",
     "name": "企業合併與收購 Mergers and Acquisitions",
     "num_limit": "60",
-    "reg_num": "52",
+    "reg_num": "51",
     "teacher": "葉銀華",
     "time": "Mabc-M-b09[GF]"
   },
@@ -30115,7 +30115,7 @@
     "memo": "生醫所主開(適用111學年前入學)",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "生醫工所",
     "time": ""
   },
@@ -30511,7 +30511,7 @@
     "memo": "光電組；限陽明交大在職專班學生選修",
     "name": "光電元件與系統導論 Introduce to Photonic Device and Photonic System",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "鄒志偉",
     "time": "Wabc-EO103[GF]"
   },
@@ -30535,7 +30535,7 @@
     "memo": "電控組；限陽明交大在職專班學生選修",
     "name": "類比積體電路 Analog Integrated Circuits",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "46",
     "teacher": "陳科宏",
     "time": "Tabc-EE102[GF]"
   },
@@ -30559,7 +30559,7 @@
     "memo": "電信組；限陽明交大在職專班學生選修",
     "name": "AI無線通訊系統實驗 AI Lab for Wireless Communication",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "伍紹勳、黃昱智、方凱田",
     "time": "Wabc-ED713[GF]"
   },
@@ -30619,7 +30619,7 @@
     "memo": "學期3次課程，上課日暫訂為12/21(六)，詳細上課時間請留意專班網頁公告；限電資專班學生選修",
     "name": "專題研討 Seminars",
     "num_limit": "9999",
-    "reg_num": "151",
+    "reg_num": "150",
     "teacher": "李義明",
     "time": "S234567-ED219[GF]"
   },
@@ -30631,7 +30631,7 @@
     "memo": "限本專班95級(含)以後同學選修；已有指導教授者才可選修，若尚未繳交過指導教授協議書，最遲開學兩週後交至專班辦公室。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "122",
+    "reg_num": "121",
     "teacher": "電資專班",
     "time": ""
   },
@@ -30679,7 +30679,7 @@
     "memo": "限本專班同學選修；已有指導教授者才可選修，若尚未繳交過指導教授協議書，最遲開學後兩週內交至專班辦公室。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "23",
     "teacher": "國防資安專班",
     "time": ""
   },
@@ -30727,7 +30727,7 @@
     "memo": "",
     "name": "空氣污染 Air Pollution",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "蔡春進",
     "time": "Tabc-EV307[GF]"
   },

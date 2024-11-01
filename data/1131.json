@@ -19363,7 +19363,7 @@
     "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；學士班七大主題學程；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "資料庫系統概論 Introduction to Database Systems  ",
     "num_limit": "130",
-    "reg_num": "141",
+    "reg_num": "140",
     "teacher": "彭文志",
     "time": "M78-EC122[GF]"
   },
@@ -25687,7 +25687,7 @@
     "memo": "原課名「逼近演算法」；新舊課程僅能採計1門為畢業學分，不能重覆採計。[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course],開放隨班附讀；資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "近似演算法 Introduction to Approximation Algorithms",
     "num_limit": "70",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "高孟駿",
     "time": "F56-EC016[GF]"
   },
@@ -25855,7 +25855,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；請依各所入學年度之修業要點選課；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；優先順序為:A.研究生--1.資科工:碩+博, 2.碩班:網工,多工,數科工 B.如還有名額, 待開學後再給大學部書面加簽。此課程僅開一學期。",
     "name": "計算機架構 Computer Architecture",
     "num_limit": "90",
-    "reg_num": "76",
+    "reg_num": "75",
     "teacher": "張庭榕",
     "time": "T56-EC015[GF]"
   },
@@ -25963,7 +25963,7 @@
     "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課",
     "name": "排隊理論 Queuing Theory",
     "num_limit": "50",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "樓洋",
     "time": "T34-ED302[GF]"
   },
@@ -26071,7 +26071,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；原課名「數位電視廣播與串流」僅能採計一門",
     "name": "視訊串流與追蹤 Video streaming and tracking",
     "num_limit": "80",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "蔡文錦",
     "time": "M56R2-EC022[GF]"
   },

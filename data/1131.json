@@ -8648,7 +8648,7 @@
     "name": "工業藥學 Industrial Pharmacy",
     "num_limit": "35",
     "reg_num": "35",
-    "teacher": "廖曉偉、章修績、吳兆升、徐維君、鄒玫君、郝為華、黃婉卿、陶育村",
+    "teacher": "廖曉偉、章修績、高于涵、吳兆升、徐維君、鄒玫君、郝為華、黃婉卿、陶育村",
     "time": "R34-YK533[YM]"
   },
   "1131_132005": {
@@ -25951,7 +25951,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "124",
+    "reg_num": "123",
     "teacher": "網工所",
     "time": ""
   },

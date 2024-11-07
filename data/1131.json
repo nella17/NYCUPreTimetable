@@ -2808,9 +2808,9 @@
     "time": "M234-YB101[YM]"
   },
   "1131_112017": {
-    "code": "BEBL10038",
+    "code": "BEBL10054",
     "credit": ".00",
-    "hours": ".00",
+    "hours": "2.00",
     "id": "112017",
     "memo": "",
     "name": "大三導師時間 Class Meeting",
@@ -2844,9 +2844,9 @@
     "time": "T56-YB101[YM]"
   },
   "1131_112020": {
-    "code": "BEBL10039",
+    "code": "BEBL10055",
     "credit": ".00",
-    "hours": ".00",
+    "hours": "2.00",
     "id": "112020",
     "memo": "",
     "name": "大四導師時間 Class Meeting",
@@ -7628,7 +7628,7 @@
     "name": "移工健康導論 Introduction of Migrant Health",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "林承寬",
+    "teacher": "林承寬、藍凡耘",
     "time": "Ud-YS405[YM]"
   },
   "1131_131206": {
@@ -9464,7 +9464,7 @@
     "name": "臨床工程實務 Workshop in Clinical Engineering",
     "num_limit": "9999",
     "reg_num": "40",
-    "teacher": "駱俊良、林重榮、蔣恩榮、張誌剛、林伯剛、李思慧、郭昭宏、郭泠、鄭銘輝、劉馨惠、鄭瑞駿、蔡依霖、鄭淑娟、曾致學、黃逸修、吳思賢",
+    "teacher": "駱俊良、林重榮、蔣恩榮、張誌剛、林伯剛、李思慧、郭昭宏、郭泠、鄭銘輝、劉馨惠、凌濼傑、鄭瑞駿、蔡依霖、鄭淑娟、曾致學、黃逸修、吳思賢",
     "time": "T567-YT304[YM]"
   },
   "1131_132316": {
@@ -26047,7 +26047,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "136",
+    "reg_num": "135",
     "teacher": "多媒體所",
     "time": ""
   },

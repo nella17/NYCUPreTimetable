@@ -24547,7 +24547,7 @@
     "memo": "",
     "name": "積體電路技術(一) Integrated Circuit Technology (I)",
     "num_limit": "100",
-    "reg_num": "110",
+    "reg_num": "109",
     "teacher": "李佩雯",
     "time": "T2-ED116[GF],R56-ED220[GF]"
   },
@@ -25951,7 +25951,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "123",
+    "reg_num": "122",
     "teacher": "網工所",
     "time": ""
   },
@@ -38023,7 +38023,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },

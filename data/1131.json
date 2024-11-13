@@ -5900,7 +5900,7 @@
     "name": "職涯引水人 Career pilot",
     "num_limit": "20",
     "reg_num": "15",
-    "teacher": "嚴錦城",
+    "teacher": "嚴錦城、章瑋清、張世龍、王克勤、余桂廷、宋俊賢、吳育仲、呂喬心、黃鵬晏",
     "time": "F78-YR104[YM]"
   },
   "1131_130119": {
@@ -15307,7 +15307,7 @@
     "memo": "",
     "name": "文學影視劇場 Literature, Film, TV Drama, Theater",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "段馨君",
     "time": "Fabc-HK206[LJ]"
   },
@@ -25951,7 +25951,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "122",
+    "reg_num": "119",
     "teacher": "網工所",
     "time": ""
   },

@@ -7376,7 +7376,7 @@
     "name": "神經資訊造影概論 Introduction to Neuroinformatics",
     "num_limit": "9999",
     "reg_num": "31",
-    "teacher": "陳麗芬",
+    "teacher": "陳麗芬、林嘉澍",
     "time": "T2-YL839[YM]"
   },
   "1131_131103": {
@@ -8792,7 +8792,7 @@
     "name": "藥物流行病學 Pharmacoepidemiology",
     "num_limit": "40",
     "reg_num": "18",
-    "teacher": "東雅惠、王孟廷、許家禎、周千瀅、黃彥銘、張釗銘、黃莉茵、黃薇伊、謝斯婷",
+    "teacher": "東雅惠、王孟廷、許家禎、周千瀅、黃彥銘、張釗銘、黃莉茵、黃薇伊、謝斯婷、簡伶蓁",
     "time": "T56-YL405[YM]"
   },
   "1131_132018": {
@@ -11949,7 +11949,7 @@
     "num_limit": "9999",
     "reg_num": "17",
     "teacher": "盧美光、洪裕強、傅淑玲、黃怡超、蔡東湖、陳方佩、許中華、藍耿立、林東毅、龔彥穎、張清貿、簡采汝、彭溫雅、林舜穀、謝伯駿",
-    "time": "R34n-YK208[YM]"
+    "time": "R34n-YR101[YM]"
   },
   "1131_140502": {
     "code": "MDHW30023",
@@ -25615,7 +25615,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "431",
+    "reg_num": "430",
     "teacher": "資科工所",
     "time": ""
   },
@@ -26047,7 +26047,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "135",
+    "reg_num": "134",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -26167,7 +26167,7 @@
     "memo": "資安所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "44",
+    "reg_num": "43",
     "teacher": "資安所",
     "time": ""
   },

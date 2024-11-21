@@ -2216,7 +2216,7 @@
     "name": "外科基本手術技術、器械介紹及微創手術演進 Surgical Techniques, Instrument Introduction and Evolution of Minimally Invasive Surgery",
     "num_limit": "25",
     "reg_num": "30",
-    "teacher": "張世慶、藍苑慈、戴宏達、石育仲、陳正彥、吳祚光、陳世欽、黃聖捷、蘇府蔚、林瑞萍、陳斐文、許皓雯、黃國宏",
+    "teacher": "張世慶、藍苑慈、戴宏達、石育仲、陳正彥、吳祚光、陳世欽、黃聖捷、蘇府蔚、林瑞萍、陳斐文、許皓雯、黃國宏、黃竣暘",
     "time": "F56-YS420[YM]"
   },
   "1131_111819": {
@@ -5900,7 +5900,7 @@
     "name": "職涯引水人 Career pilot",
     "num_limit": "20",
     "reg_num": "15",
-    "teacher": "嚴錦城、章瑋清、張世龍、王克勤、余桂廷、宋俊賢、吳育仲、呂喬心、黃鵬晏",
+    "teacher": "嚴錦城、章瑋清、張世龍、王克勤、余桂廷、宋俊賢、吳育仲、呂喬心、黃鵬晏、謝惠如",
     "time": "F78-YR104[YM]"
   },
   "1131_130119": {
@@ -7532,7 +7532,7 @@
     "name": "睡眠障礙檢測與治療(一) sleep disorder detection and treatment guidelines",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "楊靜修",
+    "teacher": "楊靜修、林永煬",
     "time": "M56-YL845[YM]"
   },
   "1131_131117": {
@@ -38023,7 +38023,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },

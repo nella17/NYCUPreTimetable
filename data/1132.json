@@ -1,4 +1,52 @@
 {
+  "1132_030001": {
+    "code": "IADI00174",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030001",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，綜三118，MATH504200",
+    "name": "泛函分析導論 Introduction to Functional Analysis",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "黃皓瑋",
+    "time": "W56R5-"
+  },
+  "1132_030002": {
+    "code": "IADI00318",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030002",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，綜三631，MATH567000",
+    "name": "代數幾何二 Algebraic Geometry II",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "卓士堯",
+    "time": "T34n-"
+  },
+  "1132_030003": {
+    "code": "IADI00319",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030003",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，綜三205，MATH667000",
+    "name": "幾何偏微分方程導論 Partial Differential Equations on Manifolds",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "宋瓊珠",
+    "time": "M34F34-"
+  },
+  "1132_030004": {
+    "code": "IADI00320",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030004",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，綜三631，MATH559000",
+    "name": "同調代數 Homological Algebra",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "廖軒毅",
+    "time": "R567-"
+  },
   "1132_110000": {
     "code": "MDMD10034",
     "credit": "1.00",
@@ -2539,7 +2587,7 @@
     "memo": "醫師工程師組導師時間，上課地點視導師安排。",
     "name": "心靈成長(二) Spiritual Growth Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "紀乃方",
     "time": "W78-"
   },
@@ -2551,7 +2599,7 @@
     "memo": "醫師工程師組導師時間，上課地點視導師安排。",
     "name": "心靈成長(四) Spiritual Growth Ⅳ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "楊懷哲",
     "time": "Ryz-"
   },
@@ -2563,7 +2611,7 @@
     "memo": "限醫學系醫師工程師組、電機系丙組學生選修。",
     "name": "醫師工程師專題研究 Physician Engineer Program Research",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "楊智傑、陳麗芬、柯立偉、廖育德、陳冠宇、黃俊龍、陸曉峰、江柏翰",
     "time": "U1-"
   },
@@ -3669,7 +3717,7 @@
     "num_limit": "30",
     "reg_num": "0",
     "teacher": "胡德民、葉立明",
-    "time": "W34-SC109[GF]"
+    "time": "W34-SC110[GF]"
   },
   "1132_111901": {
     "code": "PSPM10019",
@@ -4364,7 +4412,7 @@
     "name": "材料力學 Mechanics of Materials",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "林峻立",
+    "teacher": "醫工系",
     "time": "W567-YT304[YM]"
   },
   "1132_112113": {
@@ -6787,7 +6835,7 @@
     "memo": "請依醫學系課表上課。本課程為應考公共衛生師指定修習科目。",
     "name": "臨床倫理 Clinical Ethics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "145",
     "teacher": "黃志賢、楊令瑀、楊秀儀、楊智傑、林雅萍",
     "time": "S1234-"
   },
@@ -12561,7 +12609,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "鄭凱元",
-    "time": "R9ab-YX321[YM]"
+    "time": "R678-YX321[YM]"
   },
   "1132_133104": {
     "code": "HSPH30004",
@@ -14555,12 +14603,84 @@
     "teacher": "葉嘉華",
     "time": "W56-A204[GF]"
   },
+  "1132_161001": {
+    "code": "GECE00055",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161001",
+    "memo": "1.中央研究院人文講座課程，近代史研究所張哲嘉副研究員主持授課。2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。",
+    "name": "東洋醫學史 History of the Oriental Medical Tradition",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "張哲嘉",
+    "time": "R56-"
+  },
+  "1132_161002": {
+    "code": "GECE00409",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161002",
+    "memo": "1.中央研究院人文講座課程，人文社會科學研究中心廖培珊研究員主持授課。2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。",
+    "name": "社會科學研究方法：概論與應用 Introduction to Social Science Research Methods",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "廖培珊",
+    "time": "R56-"
+  },
+  "1132_161003": {
+    "code": "GECE00411",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161003",
+    "memo": "1.中央研究院人文講座課程，中國文哲研究所林維杰研究員主持授課。2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。",
+    "name": "語言與生活 Language and Life",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "林維杰",
+    "time": "R56-"
+  },
+  "1132_161004": {
+    "code": "GECE00410",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161004",
+    "memo": "1.中央研究院人文講座課程，近代史研究所賴毓芝副研究員主持授課。2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。",
+    "name": "「看」的視覺與物質文化史：一個全球史的角度 The Visual and Material Culture History of “looking”: A Global History Perspective",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "賴毓芝",
+    "time": "R78-"
+  },
+  "1132_161005": {
+    "code": "GECE00413",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161005",
+    "memo": "1.中央研究院人文講座課程，臺灣史研究所林玉茹研究員主持授課。2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。",
+    "name": "臺灣海洋文化的建構 The Construction of Maritime Culture in Taiwan",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "林玉茹",
+    "time": "R78-"
+  },
+  "1132_161006": {
+    "code": "GECE00412",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161006",
+    "memo": "1.中央研究院人文講座課程，社會學研究所謝斐宇副研究員主持授課。2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。",
+    "name": "臺灣當代社會經濟議題 The Social and Economy Issues in Contemporary Taiwan",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "謝斐宇",
+    "time": "R78-"
+  },
   "1132_161007": {
     "code": "GECE00334",
     "credit": "1.00",
     "hours": "1.00",
     "id": "161007",
-    "memo": "",
+    "memo": "1.中央研究院民族學研究所劉紹華研究員主持授課。 2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。 3.隔週上課，每次上課兩小時。 4.課程不開放加簽。",
     "name": "巨人的肩膀：人類學與道德世界 The guidance of career planning by academic masters：Anthropology and the Moral World",
     "num_limit": "0",
     "reg_num": "0",
@@ -14572,11 +14692,23 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161008",
-    "memo": "",
+    "memo": "1.中央研究院中國文哲研究所陳瑋芬研究員主持授課。 2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。 3.隔週上課，每次上課兩小時。 4.課程不開放加簽。",
     "name": "巨人的肩膀：文明的光與影 The guidance of career planning by academic masters：The light and shadow of Civilization",
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "陳瑋芬",
+    "time": "R56-"
+  },
+  "1132_161009": {
+    "code": "GECE00414",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "161009",
+    "memo": "1.中央研究院歷史語言研究所陳熙遠研究員主持授課。 2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。 3.隔週上課，每次上課兩小時。 4.課程不開放加簽。",
+    "name": "巨人的肩膀：日常與節慶的文化史 The guidance of career planning by academic masters:  The Cultural History of Daily  Life and Festivals",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "陳熙遠",
     "time": "R56-"
   },
   "1132_161010": {
@@ -14584,7 +14716,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161010",
-    "memo": "",
+    "memo": "1.中央研究院經濟研究所張靜貞研究員主持授課。 2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。 3.隔週上課，每次上課兩小時。 4.課程不開放加簽。",
     "name": "巨人的肩膀：農業與資源經濟 The guidance of career planning by academic masters：Agricultural and Resource Economics",
     "num_limit": "0",
     "reg_num": "0",
@@ -14596,23 +14728,71 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161011",
-    "memo": "",
+    "memo": "1.中央研究院歷史語言研究所王道還助研究員主持授課。 2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。 3.隔週上課，每次上課兩小時，第一次上課必須出席不得缺席。 4.課程不開放加簽。",
     "name": "巨人的肩膀：精讀《槍砲、病菌、與鋼鐵》 The guidance of career planning by academic masters：Critical Reading of Guns, Germs, and Steel",
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "王道還",
     "time": "R56-"
   },
+  "1132_161012": {
+    "code": "GECE00416",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "161012",
+    "memo": "1.中央研究院法律學研究所王鵬翔研究員主持授課。 2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。 3.隔週上課，每次上課兩小時。 4.課程不開放加簽。",
+    "name": "巨人的肩膀：法律是什麼?法律哲學導論 The guidance of career planning by academic masters: What is Law? Introduction to Philosophy of law",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "王鵬翔",
+    "time": "R56-"
+  },
+  "1132_161013": {
+    "code": "GECE00415",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "161013",
+    "memo": "1.中央研究院社會學研究所蔡友月副研究員主持授課。 2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。 3.隔週上課，每次上課兩小時。 4.課程不開放加簽。",
+    "name": "巨人的肩膀：疫情、後疫情與全球風險 The guidance of career planning by academic masters: Epidemic, post-epidemic and global risks",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "蔡友月",
+    "time": "R78-"
+  },
+  "1132_161014": {
+    "code": "GECE00417",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "161014",
+    "memo": "1.中央研究院近代史研究所張哲嘉副研究員主持授課。 2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。 3.隔週上課，每次上課兩小時。 4.課程不開放加簽。",
+    "name": "巨人的肩膀：中國的傳統技術：《天工開物》的世界 The guidance of career planning by academic masters: The traditional Chinese technology: The world of Tiangong kaiwu",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "張哲嘉",
+    "time": "R78-"
+  },
   "1132_161015": {
     "code": "GECE00335",
     "credit": "1.00",
     "hours": "1.00",
     "id": "161015",
-    "memo": "",
+    "memo": "1.中央研究院中國文哲研究所楊小濱研究員主持授課。 2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。 3.隔週上課，每次上課兩小時。 4.課程不開放加簽。",
     "name": "巨人的肩膀：中國當代電影賞析 The guidance of career planning by academic masters：Appreciating and Analyzing Contemporary Chinese Films",
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "楊小濱",
+    "time": "R78-"
+  },
+  "1132_161016": {
+    "code": "GECE00418",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "161016",
+    "memo": "1.中央研究院民族學研究所余安邦副研究員主持授課。 2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。 3.隔週上課，每次上課兩小時。 4.課程不開放加簽。",
+    "name": "巨人的肩膀：存在心理學與電影 The guidance of career planning by academic masters: Existential psychology and cinema",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "余安邦",
     "time": "R78-"
   },
   "1132_161017": {
@@ -14620,7 +14800,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161017",
-    "memo": "",
+    "memo": "1.中央研究院歷史語言研究所李尚仁研究員主持授課。 2.依中研院行事曆，113-2學期以2025/02/20為第一周開始上課，課程維持16+2週，採行線上教學至2025/06/19止。 3.隔週上課，每次上課兩小時。 4.課程不開放加簽。",
     "name": "巨人的肩膀：科學、製藥工業與現代醫學:以學名藥的歷史為例 The guidance of career planning by academic masters：Science, Pharmaceutical Industry and Modern Medicine: The Case",
     "num_limit": "0",
     "reg_num": "0",
@@ -14650,6 +14830,18 @@
     "reg_num": "0",
     "teacher": "嚴偉哲",
     "time": "T12-YT104[YM]"
+  },
+  "1132_161020": {
+    "code": "GECE00419",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161020",
+    "memo": "[English Medium Course]",
+    "name": "流行文化中的社會和語言議題 Social and Linguistic Topics in Popular Culture",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "何彥如",
+    "time": "T56-YX201[YM]"
   },
   "1132_161021": {
     "code": "GECE00420",
@@ -14782,6 +14974,18 @@
     "reg_num": "0",
     "teacher": "蒲正筠、周穎政",
     "time": "R34-YT104[YM]"
+  },
+  "1132_161032": {
+    "code": "GECE00421",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161032",
+    "memo": "",
+    "name": "跨文化敏感度及溝通 Intercultural sensitivity and communication",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "許樹珍、林昭光、張天泰",
+    "time": ""
   },
   "1132_161033": {
     "code": "GECE00398",
@@ -15046,6 +15250,18 @@
     "reg_num": "0",
     "teacher": "博雅書苑Y",
     "time": "M78-YT206[YM]"
+  },
+  "1132_161056": {
+    "code": "GECE00361",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161056",
+    "memo": "",
+    "name": "課．城市：走進唭哩岸 From Campus to City  : Walk Into Qilian",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "張立鴻、邱剛彥",
+    "time": "R5678-YX202[YM]"
   },
   "1132_162000": {
     "code": "GELW00006",
@@ -16374,7 +16590,7 @@
     "id": "350003",
     "memo": "",
     "name": "學術寫作 Academic Writing and Presentation",
-    "num_limit": "9999",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "連瑞枝",
     "time": "Wabc-HK207[LJ]"
@@ -16398,7 +16614,7 @@
     "id": "350005",
     "memo": "限112學年度以前入學學生選課",
     "name": "論文研究2 Thesis Writing2",
-    "num_limit": "9999",
+    "num_limit": "14",
     "reg_num": "0",
     "teacher": "客家專班",
     "time": ""
@@ -19977,7 +20193,7 @@
     "num_limit": "20",
     "reg_num": "0",
     "teacher": "許根玉",
-    "time": "T234-EO105[GF]"
+    "time": "M234-EO105[GF]"
   },
   "1132_515415": {
     "code": "EEDP00002",
@@ -19989,7 +20205,7 @@
     "num_limit": "20",
     "reg_num": "0",
     "teacher": "謝美莉",
-    "time": "M234-EO105[GF]"
+    "time": "T234-EO105[GF]"
   },
   "1132_515416": {
     "code": "EEDP20008",
@@ -20011,7 +20227,7 @@
     "memo": "由專題指導老師約定討論時間及地點",
     "name": "光電工程專題(二) Special Project of Photonics (II)",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "30",
     "teacher": "光電系",
     "time": ""
   },
@@ -24045,7 +24261,7 @@
     "num_limit": "15",
     "reg_num": "0",
     "teacher": "林淑敏",
-    "time": "W567-HC301[GF]"
+    "time": "W234-HC301[GF]"
   },
   "1132_534202": {
     "code": "HSTE30041",
@@ -24129,7 +24345,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "吳泰毅",
-    "time": "R234-F204[GF]"
+    "time": "R678-F204[GF]"
   },
   "1132_534306": {
     "code": "HSCS30034",
@@ -24153,7 +24369,7 @@
     "num_limit": "30",
     "reg_num": "0",
     "teacher": "吳泰毅",
-    "time": "F234-HB204[GF]"
+    "time": "R234-HB204[GF]"
   },
   "1132_534400": {
     "code": "HSAA30049",
@@ -26596,7 +26812,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535501",
-    "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)。1.博士班資格考考核科目。2.AI學程專業必修。",
+    "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)。1.博士班資格考考核科目。2.AI學程專業必修。3.前瞻所113學年入學乙組專業核心課程。",
     "name": "人工智慧 Artificial Intelligence",
     "num_limit": "60",
     "reg_num": "0",
@@ -26620,7 +26836,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535503",
-    "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)。1.博士班資格考考核科目。2.資安所必選修課程。3.AI碩士學程為必修。",
+    "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)。1.博士班資格考考核科目。2.資安所必選修課程。3.AI碩士學程為必修。4.前瞻所113學年入學乙組專業核心課程。",
     "name": "機器學習 Machine Learning ",
     "num_limit": "60",
     "reg_num": "0",
@@ -26668,7 +26884,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535507",
-    "memo": "資訊學院優先(不開放在職專班網路選課)。1.深度學習與深度學習實驗兩門課需同時選修才能採計學分。採用選修深度學習課程後自動加選深度學習實驗課程，不得有異議。2.與「深度學習與實務」為新舊課程僅能採計一門為畢業學分，不能重覆採計。3.博士班資格考考核科目(選修「深度學習」課程後自動加選「深度學習實驗」課程，兩門課皆須完成。)。4.同學若要加簽此課程請在 2/22 (四) 23:55 前填寫以下表單，https://forms.gle/6hpYwtap5TMP7sAQ8 並在 2/23(五) 12:00前將紙本加簽單交至 交大工程三館621 (EC621)",
+    "memo": "資訊學院優先(不開放在職專班網路選課)。1.深度學習與深度學習實驗兩門課需同時選修才能採計學分。採用選修深度學習課程後自動加選深度學習實驗課程，不得有異議。2.與「深度學習與實務」為新舊課程僅能採計一門為畢業學分，不能重覆採計。3.博士班資格考考核科目(選修「深度學習」課程後自動加選「深度學習實驗」課程，兩門課皆須完成。)。4.同學若要加簽此課程請在 2/22 (四) 23:55 前填寫以下表單，https://forms.gle/6hpYwtap5TMP7sAQ8 並在 2/23(五) 12:00前將紙本加簽單交至 交大工程三館621 (EC621)。5.前瞻所113學年入學乙組專業核心課程。",
     "name": "深度學習 Deep Learning",
     "num_limit": "75",
     "reg_num": "0",
@@ -26680,7 +26896,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535508",
-    "memo": "資資訊學院優先(不開放在職專班網路選課)。1.深度學習與深度學習實驗兩門課需同時選修才能採計學分。採用選修深度學習課程後自動加選深度學習實驗課程，不得有異議。2.與「深度學習與實務」為新舊課程僅能採計一門為畢業學分，不能重覆採計。3.博士班資格考考核科目(選修「深度學習」課程後自動加選「深度學習實驗」課程，兩門課皆須完成。)。",
+    "memo": "資資訊學院優先(不開放在職專班網路選課)。1.深度學習與深度學習實驗兩門課需同時選修才能採計學分。採用選修深度學習課程後自動加選深度學習實驗課程，不得有異議。2.與「深度學習與實務」為新舊課程僅能採計一門為畢業學分，不能重覆採計。3.博士班資格考考核科目(選修「深度學習」課程後自動加選「深度學習實驗」課程，兩門課皆須完成。)。4.前瞻所113學年入學乙組專業核心課程。",
     "name": "深度學習實驗 Deep Learning Labs",
     "num_limit": "0",
     "reg_num": "0",
@@ -26692,7 +26908,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535509",
-    "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)。1.請依各所入學年度之修業要點選課。2.博士班資格考考核科目。",
+    "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)。1.請依各所入學年度之修業要點選課。2.博士班資格考考核科目。3.前瞻所113學年入學乙組專業核心課程。",
     "name": "演算法 Algorithms",
     "num_limit": "140",
     "reg_num": "0",
@@ -27376,7 +27592,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535909",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]選課優先順序，第一階段：國際半導體產業學院、第二階段：前瞻半導體研究所、第三階段：開放其他系所。",
     "name": "More Than Moore 元件 More Than Moore Devices",
     "num_limit": "50",
     "reg_num": "0",
@@ -33234,10 +33450,10 @@
     "id": "561036",
     "memo": "",
     "name": "發展心理學 Development Psychology",
-    "num_limit": "50",
+    "num_limit": "40",
     "reg_num": "0",
     "teacher": "梁瓊惠",
-    "time": "Mn56-A103[GF]"
+    "time": "M567-A103[GF]"
   },
   "1132_561037": {
     "code": "GECG00054",
@@ -33525,7 +33741,7 @@
     "num_limit": "25",
     "reg_num": "0",
     "teacher": "賈文宇",
-    "time": "F56-YT203[YM]"
+    "time": "R56-YT203[YM]"
   },
   "1132_561061": {
     "code": "GECG00048",
@@ -33682,6 +33898,30 @@
     "reg_num": "0",
     "teacher": "楊谷洋",
     "time": ""
+  },
+  "1132_561504": {
+    "code": "GEGE00019",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "561504",
+    "memo": "本課程為非同步線上教學課程，課程營運以網路授課為主。教學團隊將於課程開始前於 e3平台上進行課程影音上傳、測驗與討論區設定等課程建置。課程開始後，修課學生需在e3上完成教學活動。",
+    "name": "性與醫學 Sex and Medicine",
+    "num_limit": "50",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "Tab-"
+  },
+  "1132_561505": {
+    "code": "GEGE00020",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "561505",
+    "memo": "本課程為非同步線上教學課程，課程營運以網路授課為主。教學團隊將於課程開始前於 e3平台上進行課程影音上傳、測驗與討論區設定等課程建置。課程開始後，修課學生需在e3上完成教學活動。",
+    "name": "解鎖大腦，腦力全開 Boost your brain: Unlocking the Secrets of memory, intelligence and beyond",
+    "num_limit": "50",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "Wab-"
   },
   "1132_562000": {
     "code": "GELT00020",
@@ -37032,12 +37272,12 @@
     "time": "F78-PhE[YM]"
   },
   "1132_564000": {
-    "code": "GECS10001",
+    "code": "GECS10002",
     "credit": "4.00",
     "hours": "4.00",
     "id": "564000",
     "memo": "(大班授課)",
-    "name": "微積分甲(一) Calculus A (I)",
+    "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "120",
     "reg_num": "0",
     "teacher": "王夏聲",
@@ -37888,7 +38128,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "569000",
-    "memo": "限大三、大四。\n擋修「ESG永續企業發展與管理」。",
+    "memo": "限大三、大四。\n不接受修讀過「ESG永續企業發展與管理」同學修讀。",
     "name": "永續企業-ESG實踐 Sustainable Business- ESG Hands-On",
     "num_limit": "32",
     "reg_num": "0",
@@ -37900,7 +38140,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "569001",
-    "memo": "限大三、大四。\n擋修「營運管理」。",
+    "memo": "限大三、大四。\n不接受修讀過「營運管理」同學修讀。",
     "name": "永續企業-建立卓越的營運管理系統 Sustainable Business- Building Excellent Operations Management System",
     "num_limit": "72",
     "reg_num": "0",
@@ -37912,7 +38152,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "569002",
-    "memo": "限大二以上。\n保留 10 名給擬選修「淨零排放微學程」同學。請洽分機 52576 曹小姐（綜合一館 614 室）加簽。",
+    "memo": "限大二以上。\n保留 10 名給擬選修「淨零排放微學程」同學。請洽分機 52576 （綜合一館 614 室）加簽。",
     "name": "淨零碳規劃管理與碳盤查程序 Net Zero Management and Greenhouse Gas Inventory Process",
     "num_limit": "30",
     "reg_num": "0",
@@ -37924,7 +38164,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "569003",
-    "memo": "擋修「永續趨勢入門」。",
+    "memo": "不接受修讀過「永續趨勢入門」同學修讀。",
     "name": "永續趨勢實務 Practice of Sustainability Trends",
     "num_limit": "50",
     "reg_num": "0",
@@ -37936,7 +38176,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "569005",
-    "memo": "限大二以上。\n確認選修時請加入 https://www.facebook.com/groups/cep202502 課程臉書社團。\n保留 6 名給擬選修「淨零排放微學程」同學。請洽分機 52576 曹小姐（綜合一館 614 室）加簽。",
+    "memo": "限大二以上。\n確認選修時請加入 https://www.facebook.com/groups/cep202502 課程臉書社團。\n保留 6 名給擬選修「淨零排放微學程」同學。請洽分機 52576 （綜合一館 614 室）加簽。",
     "name": "循環經濟與實務 Circular Economy and Practices",
     "num_limit": "16",
     "reg_num": "0",
@@ -37954,30 +38194,6 @@
     "reg_num": "0",
     "teacher": "陳永平",
     "time": "T78-A213[GF]"
-  },
-  "1132_569007": {
-    "code": "GESP00011",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "569007",
-    "memo": "上課地點：綜合一館633室",
-    "name": "夢境解析 Dream Analysis",
-    "num_limit": "18",
-    "reg_num": "0",
-    "teacher": "待聘",
-    "time": "T34-"
-  },
-  "1132_569008": {
-    "code": "GESP00012",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "569008",
-    "memo": "",
-    "name": "多元心理學觀點看人生 Life Through Diverse Psychological Perspectives",
-    "num_limit": "30",
-    "reg_num": "0",
-    "teacher": "待聘",
-    "time": "R34-A215[GF]"
   },
   "1132_569009": {
     "code": "GESP00013",

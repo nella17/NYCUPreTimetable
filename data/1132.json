@@ -55,7 +55,7 @@
     "memo": "導師時間\n實際上課地點依導師說明為主",
     "name": "心靈成長(二) Spiritual Growth Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "梁立霖",
     "time": "W34-YT202[YM]"
   },
@@ -67,7 +67,7 @@
     "memo": "導師時間\n實際上課地點依導師說明為主",
     "name": "心靈成長(二) Spiritual Growth Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "王維庭",
     "time": "W34-YT202[YM]"
   },
@@ -79,7 +79,7 @@
     "memo": "導師時間\n實際上課地點依導師說明為主",
     "name": "心靈成長(二) Spiritual Growth Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "陳明德",
     "time": "W34-YT202[YM]"
   },
@@ -91,7 +91,7 @@
     "memo": "導師時間\n實際上課地點依導師說明為主",
     "name": "心靈成長(二) Spiritual Growth Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "吳莉玲",
     "time": "W34-YT202[YM]"
   },
@@ -103,7 +103,7 @@
     "memo": "導師時間\n實際上課地點依導師說明為主",
     "name": "心靈成長(二) Spiritual Growth Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "陳威志",
     "time": "W34-YT206[YM]"
   },
@@ -115,7 +115,7 @@
     "memo": "導師時間\n實際上課地點依導師說明為主",
     "name": "心靈成長(二) Spiritual Growth Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "宋思賢",
     "time": "W34-YT206[YM]"
   },
@@ -127,7 +127,7 @@
     "memo": "導師時間\n實際上課地點依導師說明為主",
     "name": "心靈成長(二) Spiritual Growth Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "黃文彬",
     "time": "W34-YT206[YM]"
   },
@@ -139,7 +139,7 @@
     "memo": "導師時間\n實際上課地點依導師說明為主",
     "name": "心靈成長(二) Spiritual Growth Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "林祐霆",
     "time": "W34-YT206[YM]"
   },
@@ -151,7 +151,7 @@
     "memo": "導師時間\n實際上課地點依導師說明為主",
     "name": "心靈成長(二) Spiritual Growth Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "黃金洲",
     "time": "W34-YT206[YM]"
   },
@@ -163,7 +163,7 @@
     "memo": "導師時間\n實際上課地點依導師說明為主",
     "name": "心靈成長(二) Spiritual Growth Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "梁仁峯",
     "time": "W34-YT206[YM]"
   },
@@ -3463,7 +3463,7 @@
     "memo": "牙醫一、物治一、藥學一、生物科技管理學程合班",
     "name": "普通生物學(下) General Biology II",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "24",
     "teacher": "羅清維、俞震亞、黃雪莉、陳燕彰、可文亞、吳如蕙",
     "time": "F34-AB102[GF],F34-YK208[YM]"
   },
@@ -3715,7 +3715,7 @@
     "memo": "此課程在交大校區授課，初選限藥學系加選。",
     "name": "微積分(二) Calculus Ⅱ",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "24",
     "teacher": "胡德民、葉立明",
     "time": "W34-SC110[GF]"
   },
@@ -3727,7 +3727,7 @@
     "memo": "此課程在交大校區授課，初選限藥學系加選。",
     "name": "普通物理學 General Physics",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "24",
     "teacher": "張正宏",
     "time": "T234-SC157[GF]"
   },
@@ -3739,7 +3739,7 @@
     "memo": "導師時間",
     "name": "藥你更棒(二) Pursuing your preeminence in pharmacy land (II)",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "王仲益",
     "time": "W56-EB107[GF]"
   },
@@ -3763,7 +3763,7 @@
     "memo": "導師時間",
     "name": "藥你更棒(二) Pursuing your preeminence in pharmacy land (II)",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "李宗恩",
     "time": "W56-EB107[GF]"
   },
@@ -3847,7 +3847,7 @@
     "memo": "藥學系大學部二年級實驗課程，上課日期另行公布",
     "name": "生藥暨中藥藥物學實驗(二) Pharmacognosy and Traditional Chinese Pharmacology Laboratory (II)",
     "num_limit": "40",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "陳日榮",
     "time": "T5678-YED309[YM]"
   },
@@ -3859,7 +3859,7 @@
     "memo": "藥學系大學部二年級實驗課程，上課日期另行公布",
     "name": "藥劑學實驗(一) Pharmaceutics Laboratory (I)",
     "num_limit": "40",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "胡德民",
     "time": "T5678-YED309[YM]"
   },
@@ -3871,7 +3871,7 @@
     "memo": "導師課程",
     "name": "藥你更棒(四) Pursuing your preeminence in pharmacy land (IV)",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "陳謄州",
     "time": "W34-YR101[YM]"
   },
@@ -3883,7 +3883,7 @@
     "memo": "導師課程",
     "name": "藥你更棒(四) Pursuing your preeminence in pharmacy land (IV)",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "蘇佳沂",
     "time": "W34-YR101[YM]"
   },
@@ -3895,7 +3895,7 @@
     "memo": "藥學系大學部三年級實驗課程",
     "name": "藥物化學實驗(二) Medicinal Chemistry Laboratory (II)",
     "num_limit": "40",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "蘇溶真",
     "time": "R5678-YED309[YM]"
   },
@@ -3907,7 +3907,7 @@
     "memo": "藥學系大學部三年級實驗課程，上課日期將於課程大綱公告",
     "name": "藥物分析實驗 Pharmaceutical Analysis Lab.",
     "num_limit": "40",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "廖曉偉、林宥欣",
     "time": "T5678-YED309[YM]"
   },
@@ -3919,7 +3919,7 @@
     "memo": "藥學系大三導師時間",
     "name": "導師時間 Class Meeting",
     "num_limit": "40",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "林宥欣、蘇溶真",
     "time": "Fbc-"
   },
@@ -3931,7 +3931,7 @@
     "memo": "初選限藥學系學生加選,若教室仍有空間容納,於加退選期間再開放外系加選。",
     "name": "有機化學(二) Organic Chemistry(II)",
     "num_limit": "45",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "蘇溶真、陳傳霖、陳惠亭",
     "time": "F12-YR105[YM]"
   },
@@ -3967,7 +3967,7 @@
     "memo": "導師課程",
     "name": "藥你更棒(四) Pursuing your preeminence in pharmacy land (IV)",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "陳奕帆",
     "time": "W34-YR101[YM]"
   },
@@ -3979,7 +3979,7 @@
     "memo": "初選限藥學系碩學生加選，若教室仍有空間容納,於加退選期間再開放外系加選。",
     "name": "流行病學 Epidemiology",
     "num_limit": "45",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "黃世宗、陳謄州",
     "time": "W12-YR105[YM]"
   },
@@ -5419,7 +5419,7 @@
     "memo": "[English Medium Course]",
     "name": "分子基因學概論 Introduction of Molecular Genes",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "33",
     "teacher": "李易展、莊惠燕、張御展、陳瀅州",
     "time": "M78-YT103[YM]"
   },
@@ -5431,7 +5431,7 @@
     "memo": "為維持教學品質，限制修課人數",
     "name": "微積分(二) Calculus II",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "33",
     "teacher": "張力友",
     "time": "R56-YT104[YM]"
   },
@@ -5443,7 +5443,7 @@
     "memo": "醫放一、物治一合班。",
     "name": "有機化學 Organic Chemistry",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "33",
     "teacher": "陳傳霖",
     "time": "M34-YB100[YM]"
   },
@@ -5455,7 +5455,7 @@
     "memo": "導師時間",
     "name": "知性與感性時間(二)-基礎服務學習 Time for Instruction and Inspiration (2) -Basic service learning",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "盧家鋒",
     "time": "W34-YT303[YM]"
   },
@@ -5467,7 +5467,7 @@
     "memo": "導師時間",
     "name": "知性與感性時間(二)-基礎服務學習 Time for Instruction and Inspiration (2) -Basic service learning",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "陳志成",
     "time": "W34-YT303[YM]"
   },
@@ -5479,7 +5479,7 @@
     "memo": "導師時間",
     "name": "知性與感性時間(二)-基礎服務學習 Time for Instruction and Inspiration (2) -Basic service learning",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "張御展",
     "time": "W34-YT303[YM]"
   },
@@ -5491,7 +5491,7 @@
     "memo": "",
     "name": "放射化學 Radiochemistry",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "吳駿一、陳傳霖、王信二",
     "time": "R78-YT104[YM]"
   },
@@ -5503,7 +5503,7 @@
     "memo": "[English Medium Course]",
     "name": "放射化學實驗 Radiochemistry Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "吳駿一、王信二",
     "time": "M234-YB458[YM]"
   },
@@ -5515,7 +5515,7 @@
     "memo": "",
     "name": "放射生物學 Radiation Biology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "李易展、莊惠燕、張御展、黃正仲",
     "time": "M56-YT206[YM]"
   },
@@ -5527,7 +5527,7 @@
     "memo": "",
     "name": "放射物理學(二) Radiation Physics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "吳東信",
     "time": "T34-YB102[YM]"
   },
@@ -5539,7 +5539,7 @@
     "memo": "",
     "name": "放射物理學實驗(二)(A) Radiation Physics Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "吳杰",
     "time": "M78-YB118[YM],F2-YT205[YM]"
   },
@@ -5575,7 +5575,7 @@
     "memo": "導師時間",
     "name": "生活在陽明(二) Life in National Yang-Ming University (2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "高瑀絜",
     "time": "W34-YT204[YM]"
   },
@@ -5587,7 +5587,7 @@
     "memo": "導師時間",
     "name": "生活在陽明(二) Life in National Yang-Ming University (2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "吳杰",
     "time": "W34-YT204[YM]"
   },
@@ -5599,7 +5599,7 @@
     "memo": "導師時間",
     "name": "生活在陽明(二) Life in National Yang-Ming University (2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "莊惠燕",
     "time": "W34-YT204[YM]"
   },
@@ -5611,7 +5611,7 @@
     "memo": "",
     "name": "放射治療物理暨技術學 Radiation Therapy Physics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "許世明、蕭安成、田蕙茹、戴宏旗",
     "time": "M234-YT205[YM]"
   },
@@ -5623,7 +5623,7 @@
     "memo": "1-9週上課",
     "name": "放射治療儀器學 Clinical Radiation Therapy Technology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "陳一瑋、劉裕明、陳瑞嬪、周琳珊、鄧茹瀕、李家誠",
     "time": "F56-YB100[YM]"
   },
@@ -5635,7 +5635,7 @@
     "memo": "",
     "name": "放射診斷技術學 (二) Clinical Radiodiagnostic Technology (2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "許世明、林重榮、陳富都、陳潤秋、吳道正、沈書慧、黃桂蓮、夏迹影、張建法、楊承閎、陳木熊、黃姍姒",
     "time": "T12-YB458[YM]"
   },
@@ -5647,7 +5647,7 @@
     "memo": "",
     "name": "放射診斷學 Radiodiagnosis",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "邱宏仁、吳銘庭、凌憬峰、林重榮、賴炳宏、沈書慧、黃振義、邱乃祈、柳建安、吳慶蘭、黃宣恩、林德銘、劉顯慈",
     "time": "M56-YT204[YM]"
   },
@@ -5659,7 +5659,7 @@
     "memo": "前9週上課",
     "name": "保健物理學 Health Physics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "許世明",
     "time": "F78-YB102[YM]"
   },
@@ -5671,7 +5671,7 @@
     "memo": "10-18週上課",
     "name": "核子醫學儀器學 Nuclear Medicine Instrumentation",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "陳志成、楊邦宏、張嘉容、陳至豪",
     "time": "W56-YT205[YM]"
   },
@@ -5683,7 +5683,7 @@
     "memo": "",
     "name": "核醫技術學 Clinical Nuclear Medicine Technology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "楊邦宏、劉仁賢、張文議",
     "time": "R56-YT303[YM]"
   },
@@ -5695,7 +5695,7 @@
     "memo": "",
     "name": "放射診斷技術學實驗(二)  Clinical Radiodiagnostic Technology Lab. (2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "許世明、楊邦宏、黃桂蓮、夏迹影、陳孟琪、張建法、張美彥、陳木熊、施智翔",
     "time": "T5678-YB101[YM]"
   },
@@ -5707,7 +5707,7 @@
     "memo": "",
     "name": "醫學倫理 Hospital Management",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "吳文沛、陳潤秋、侯貴圓",
     "time": "T34-YB458[YM]"
   },
@@ -5719,7 +5719,7 @@
     "memo": "",
     "name": "專題研究(二) Independent Study II",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "李易展",
     "time": "W9a-"
   },
@@ -5731,7 +5731,7 @@
     "memo": "",
     "name": "輻射防護 Radiation Protection",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "吳杰",
     "time": "F34-YT103[YM]"
   },
@@ -5743,7 +5743,7 @@
     "memo": "[English Medium Course]",
     "name": "醫用磁振學 Magnetic Resonance in Medicine",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "盧家鋒",
     "time": "M78-YB458[YM]"
   },
@@ -5755,7 +5755,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "詹明賢、吳東信、陳傳霖",
     "time": "Sc-"
   },
@@ -5767,7 +5767,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "放射治療技術學實習 Radiation Therapy Technology Practice",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "詹明賢、劉晉昇、劉彥德、劉春蘭、劉建助",
     "time": "S67-"
   },
@@ -5779,7 +5779,7 @@
     "memo": "",
     "name": "放射科學與技術特論 Special Topics on Radiologic Technology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "吳駿一、李易展、陳瀅州",
     "time": "W34-YB458[YM],W34-YL401[YM]"
   },
@@ -5815,7 +5815,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "核醫藥物暨放射性同位素治療實習 Radiopharmaceuticals & Radioisotope Therapy Practice",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "詹明賢、王昱豐、張智勇、許敦韋、陳怡潔、陳橙葦",
     "time": "S5-"
   },
@@ -5827,7 +5827,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "模具製作暨模擬攝影實習 Mold Room Technique & Simulation Practice",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "詹明賢、郭萬祐、劉義華、楊國卿、曾鈴惠、黃子婕、黃姍姒",
     "time": "U2-"
   },
@@ -5839,7 +5839,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "醫學物理學實習(治療計劃) Medical Physics Practice(Therapy Planning)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "詹明賢、蕭安成、李秀文、李家誠、卓原仲、徐佩瑜",
     "time": "U1-"
   },
@@ -5851,7 +5851,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "醫學物理學實習(劑量學) Medical Physics Practice(Dosimetry)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "詹明賢、季匡華、林志銘、吳瓊芳",
     "time": "S8-"
   },
@@ -5863,7 +5863,7 @@
     "memo": "",
     "name": "胸腔呼吸學實習 Practice of Chest Medicine",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "林志銘",
     "time": "U5-"
   },
@@ -5875,7 +5875,7 @@
     "memo": "",
     "name": "骨質密度測定及紅外線掃瞄實習 Bone Density Measurement and Infra-red Thermography Practice",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "詹明賢、陳富都、范源洪、劉致康、陳木熊、楊舜仲",
     "time": "U3-"
   },
@@ -5887,7 +5887,7 @@
     "memo": "",
     "name": "專題研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "許世明",
     "time": "F9a-YB458[YM]"
   },
@@ -5899,7 +5899,7 @@
     "memo": "",
     "name": "醫學物理學實習(輻射安全) Medical Physics Practice(Radiation Safety)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "詹明賢、黃正仲、陸思慧、劉雪君",
     "time": "U4-"
   },
@@ -5911,7 +5911,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "李易展、吳駿一、陳瀅州",
     "time": "Sc-"
   },
@@ -5923,7 +5923,7 @@
     "memo": "[English Medium Course]放一、技一合班",
     "name": "普通物理學 General Physics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "33",
     "teacher": "高瑀絜、郭文娟、邱爾德",
     "time": "W567-YT202[YM]"
   },
@@ -5935,7 +5935,7 @@
     "memo": "",
     "name": "普通物理學實驗 General Physics Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "33",
     "teacher": "高瑀絜、黃何雄、郭文娟、陳星宇",
     "time": "F567-YE003[YM]"
   },
@@ -5947,7 +5947,7 @@
     "memo": "[English Medium Course]",
     "name": "生物化學概論 Introduction to Biochemistry",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "李易展、莊惠燕、張御展",
     "time": "T56-YB458[YM]"
   },
@@ -6225,7 +6225,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "李敏嘉、袁維謙",
-    "time": "R34-YK436[YM],F56-YK533[YM]"
+    "time": "R34-YK436[YM],R34-YK533[YM]"
   },
   "1132_112514": {
     "code": "LSLS20048",
@@ -6391,7 +6391,7 @@
     "memo": "醫學1A, 藥學2, 中醫1",
     "name": "有機化學實驗 Organic Chemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "蔡有光、王毓瑄、姜為中、徐子涵",
     "time": "F5678-YED309[YM]"
   },
@@ -6415,7 +6415,7 @@
     "memo": "不開放校際選修及隨班附讀。",
     "name": "生理學 Physiology",
     "num_limit": "158",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "阮琪昌、陳政育、吳鈺琳、黃娟娟、李怡萱、林惠菁、張原翊、簡千栩、吳莉玲、唐德成",
     "time": "W12R34-YX406[YM]"
   },
@@ -6487,7 +6487,7 @@
     "memo": "週二5678節上課，上課日期請參照藥理學整合授課進度表。",
     "name": "藥理學實驗(二) Pharmacology Lab. (Ⅱ)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "嚴錦城",
     "time": "T9abc-YED214[YM]"
   },
@@ -6499,7 +6499,7 @@
     "memo": "上課日期請參照授課進度表",
     "name": "分子生物學 Molecular Biology",
     "num_limit": "45",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "李新城、王湘翠、兵岳忻",
     "time": "F34-YL403[YM]"
   },
@@ -7267,7 +7267,7 @@
     "memo": "與護二合班上課",
     "name": "藥理學 Pharmacology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "張婷婷、黃金洲、李新城、霍德義、王湘翠、張世霖、黃自強、兵岳忻、嚴錦城、洪舜郁、沈郁強、張豫立、王笙帆、周士傑、葉翰宜、蔣智宏",
     "time": "W56R5678-YX406[YM]"
   },
@@ -7291,7 +7291,7 @@
     "memo": "週四5678節上課，請參照課表說明，與護理系合班上課，可用英語授課",
     "name": "藥理學實驗 Pharmacology Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "張婷婷",
     "time": "R9abc-YED214[YM]"
   },
@@ -8624,7 +8624,7 @@
     "name": "半導體職業衛生 Occupational Safety and Health of Semiconductor Industry",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "李旻軒",
+    "teacher": "潘文驥",
     "time": "R34-YS107[YM]"
   },
   "1132_130812": {
@@ -8709,7 +8709,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "潘文驥",
-    "time": "M567-"
+    "time": "M567-YT302[YM]"
   },
   "1132_130819": {
     "code": "MDEO30073",
@@ -9752,7 +9752,7 @@
     "name": "口腔腫瘤分子特論 Topics in Oral Molecular Oncology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "林姝君、黎萬君、涂曦丰、林宥成、洪佩詩",
+    "teacher": "林姝君、黎萬君、涂曦丰、洪凱風、林宥成、洪佩詩、周忠憲",
     "time": "F56-YD302[YM]"
   },
   "1132_131503": {
@@ -10291,7 +10291,7 @@
     "memo": "初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
     "name": "生藥暨中藥藥物學(二) Pharmacognosy and Traditional Chinese Pharmacology (II)",
     "num_limit": "40",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "陳日榮、廖家慶、朱益成",
     "time": "W78-YR101[YM]"
   },
@@ -10303,7 +10303,7 @@
     "memo": "初選限藥學系碩學生加選,若教室仍有空間容納,於加退選期間再開放外系加選。",
     "name": "藥劑學(一) Pharmaceutics (I)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "胡德民、駱雨利",
     "time": "M78-YK533[YM]"
   },
@@ -10315,7 +10315,7 @@
     "memo": "大學部三年級為必修課；\n碩士班研究生需完成必選修四選一，以完成畢業學分門檻，可選擇之課程為下列四堂:  藥理學(二)、細胞生物學、轉譯生物藥學的實際應用、生物藥學特論",
     "name": "藥理學(二) Pharmacology (2)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "林滿玉、李新城、王湘翠、駱雨利、黃自強、嚴錦城、黃世宗、楊志新、沈郁強、李沛璋",
     "time": "M56W56-YK533[YM]"
   },
@@ -10327,7 +10327,7 @@
     "memo": "初選限藥學系碩學生加選,若教室仍有空間容納,於加退選期間再開放外系加選。",
     "name": "藥物化學(二) Medicinal Chemistry (II)",
     "num_limit": "40",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "陳惠亭、陳傳霖、蘇溶真",
     "time": "F567-YR101[YM]"
   },
@@ -10339,7 +10339,7 @@
     "memo": "",
     "name": "藥物分析 Pharmaceutical Analysis",
     "num_limit": "45",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "廖曉偉、陳日榮、林宥欣、楊登傑、魏國晋",
     "time": "W78-YK533[YM],T34-YL403[YM]"
   },
@@ -10351,7 +10351,7 @@
     "memo": "初選限藥學系碩學生加選,若教室仍有空間容納,於加退選期間再開放外系加選。",
     "name": "生物藥劑學 Biopharmaceutics",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "胡德民、徐立峰",
     "time": "M234-YK533[YM]"
   },
@@ -10459,7 +10459,7 @@
     "memo": "初選限藥學系、碩學生加選，若教室仍有空間容納,於加退選期間再開放外系加選。",
     "name": "生物製劑與再生醫療 Biological and Regenerative Medicine",
     "num_limit": "45",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "林滿玉、黃雪莉、胡德民、呂春敏、姜紹青、江季霖、陶秘華、顏厥全、陳惠芳、蒲若芳、張連成、李佳欣",
     "time": "R34-YR105[YM]"
   },
@@ -14836,7 +14836,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161020",
-    "memo": "[English Medium Course]",
+    "memo": "1.[English Medium Course]\n2.本課程限大學部選修。",
     "name": "流行文化中的社會和語言議題 Social and Linguistic Topics in Popular Culture",
     "num_limit": "0",
     "reg_num": "0",
@@ -14935,7 +14935,7 @@
     "memo": "限醫學系，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生，請勿隨意退課。",
     "name": "普通心理學 General Psychology",
     "num_limit": "0",
-    "reg_num": "0",
+    "reg_num": "60",
     "teacher": "張立鴻",
     "time": "T34-YX216[YM]"
   },
@@ -16699,7 +16699,7 @@
     "memo": "",
     "name": "分析化學 Analytical Chemistry",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "24",
     "teacher": "張晉源、李明家、王雲銘",
     "time": "M567-BI310[BA]"
   },
@@ -19156,7 +19156,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515110",
-    "memo": "Mn56-ED201，Mabc實驗課教室為計中PC3",
+    "memo": "電機系優先。Mn56-ED201，Mabc實驗課教室為計中PC3。",
     "name": "物件導向程式設計 Object-Oriented Programming",
     "num_limit": "50",
     "reg_num": "0",
@@ -21621,7 +21621,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "鍾采甫",
-    "time": "M56W4-EF205[GF]"
+    "time": "W234-EF201[GF]"
   },
   "1132_516305": {
     "code": "ENMS10024",
@@ -22713,7 +22713,7 @@
     "num_limit": "70",
     "reg_num": "0",
     "teacher": "巫佳煌",
-    "time": "M234-AB101[GF]"
+    "time": "M234-A316[GF]"
   },
   "1132_517012": {
     "code": "MGCM10012",
@@ -37579,7 +37579,7 @@
     "memo": "含近代物理[English Medium Course]",
     "name": "物理(二)榮譽班 Physics(II)",
     "num_limit": "85",
-    "reg_num": "98",
+    "reg_num": "89",
     "teacher": "郭昌洋",
     "time": "M34R78-SA320[GF]"
   },
@@ -37639,7 +37639,7 @@
     "memo": "含近代物理[English Medium Course]",
     "name": "物理(二)榮譽班 Physics(II)",
     "num_limit": "85",
-    "reg_num": "81",
+    "reg_num": "61",
     "teacher": "林俊良",
     "time": "T78F34-SA320[GF]"
   },
@@ -38071,7 +38071,7 @@
     "memo": "生物科技學系大一、醫學系醫師工程師組",
     "name": "普通生物學實驗 General Biology Lab.",
     "num_limit": "47",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "陳文亮、黃兆祺、鄒協成、莊碧簪",
     "time": "R567-SC210[GF]"
   },
@@ -42304,7 +42304,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910226",
-    "memo": "電機組電子班，此課程由余俊宏老師授課X週，地點於光復校區，其餘16-X週由理工學院聶若鹽老師授課，上課地點於國防大學理工學院",
+    "memo": "電機組電子班，此課程由余俊宏老師授課2週，地點於光復校區，其餘14(~16)週由聶若鹽老師授課，上課地點於國防大學理工學院",
     "name": "通訊系統實驗 Communication system experiment",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42688,7 +42688,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910258",
-    "memo": "化材組，此課程由黃爾文老師授課X週，地點於光復校區，其餘16-X週由國防理工學院王哲釧老師授課，上課地點於國防大學理工學院",
+    "memo": "化材組，此課程由黃爾文老師授課X週，地點於光復校區，其餘16-X週由王哲釧老師授課，上課地點於國防大學理工學院",
     "name": "材料實驗 Experiments on Materials",
     "num_limit": "9999",
     "reg_num": "0",

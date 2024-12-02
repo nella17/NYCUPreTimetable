@@ -175,7 +175,7 @@
     "memo": "導師時間",
     "name": "心靈成長(四) Spiritual Growth Ⅳ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "劉文勝",
     "time": "W34-YX501[YM]"
   },
@@ -187,7 +187,7 @@
     "memo": "導師時間\n實際上課地點依導師說明為主",
     "name": "心靈成長(四) Spiritual Growth Ⅳ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "楊令瑀",
     "time": "W34-YX501[YM]"
   },
@@ -3751,7 +3751,7 @@
     "memo": "",
     "name": "社區藥局實習 Community Pharmacy Practice Experience",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "許銘能",
     "time": "M1234n5678T1234n5678W1234n5678R1234n5678F1234n5678-"
   },
@@ -3775,7 +3775,7 @@
     "memo": "",
     "name": "醫院藥學實習 Hospital Pharmacy Practice Experience ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "東雅惠、周月卿、張豫立、陳寬軒、李珮甄、鄒嘉玲、許家禎、周千瀅、陳慶鴻、林家潔、黃瑩瑀、盧志嘉、王怡凱、王笙帆、朱裕文、姚彥宏、常宏傳、陳美鈴、呂友敏、林毓雯、郭健文、郭雅惠、陳美瑜、紀兆寧、胡藜方、趙凡琇、廖怡茹、劉兆鴻、張時杰",
     "time": "M1234n5678T1234n5678W1234n5678R1234n5678F1234n5678-"
   },
@@ -3787,7 +3787,7 @@
     "memo": "",
     "name": "醫院臨床實習 Clinical Pharmacy Practice Experience",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "姜紹青、黃金洲、楊振昌、張瑞文、林邑璁、蔡佩君、陳育民、彭殿王、蘇建維、陳明翰、陳明晃、唐高駿、周月卿、王鑑瀛、張豫立、陳寬軒、賴昭誠、李珮甄、洪君儀、周中偉、趙大中、顏秀如、江東鴻、吳承學、陳亮宇、陳正彥、周睿信、鄒嘉玲、黃偉銘、許家禎、周千瀅、陳慶鴻、林家潔、黃瑩瑀、盧志嘉、王怡凱、王笙帆、朱裕文、黃鈴茹、李致穎、鍾孟軒、陳美瑜、胡藜方、趙凡琇、廖怡茹、劉兆鴻、馮嘉毅",
     "time": "M1234n5678T1234n5678W1234n5678R1234n5678F1234n5678-"
   },
@@ -3799,7 +3799,7 @@
     "memo": "藥學系大四導師時間",
     "name": "導師時間 Class Meeting",
     "num_limit": "40",
-    "reg_num": "0",
+    "reg_num": "33",
     "teacher": "姜紹青、王孟廷",
     "time": "Fbc-"
   },
@@ -3811,7 +3811,7 @@
     "memo": "六下選課。",
     "name": "進階藥學研究(六) Advanced Pharmacy Practice Research (VI) (Pharmacy Research, Clinical Pharmacy, Regulatory Affairs, Industrial Pharmacy, International Pharmacy)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "陳惠亭、王孟廷、林滿玉、胡德民、陳日榮、林宥欣、姜紹青、東雅惠、蘇溶真、廖曉偉、陳謄州、許銘能",
     "time": "Fb-"
   },
@@ -3823,7 +3823,7 @@
     "memo": "六下選課。",
     "name": "進階藥學研究(七) Advanced Pharmacy Practice Research (VII) (Pharmacy Research, Clinical Pharmacy, Regulatory Affairs, Industrial Pharmacy, International Pharmacy)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "陳惠亭、王孟廷、林滿玉、胡德民、陳日榮、林宥欣、姜紹青、東雅惠、蘇溶真、廖曉偉、陳謄州、許銘能",
     "time": "Fc-"
   },
@@ -3835,7 +3835,7 @@
     "memo": "六下選課。",
     "name": "進階藥學專題(二) Seminar(II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "陳惠亭、王孟廷、林滿玉、胡德民、陳日榮、林宥欣、姜紹青、東雅惠、蘇溶真、廖曉偉、陳謄州、許銘能",
     "time": "Rc-"
   },
@@ -4003,9 +4003,21 @@
     "memo": "",
     "name": "有機化學(一) Organic Chemistry (Ⅰ)",
     "num_limit": "9999",
+    "reg_num": "24",
+    "teacher": "陳傳霖、陳惠亭",
+    "time": "T5678-"
+  },
+  "1132_111925": {
+    "code": "PSPM20021",
+    "credit": "5.00",
+    "hours": "5.00",
+    "id": "111925",
+    "memo": "僅供四下未進行實習同學選課。",
+    "name": "進階藥學研究(一) Advanced Pharmacy Practice Research (I) (Pharmacy Research, Clinical Pharmacy, Regulatory Affairs, Industrial Pharmacy, International Pharmacy)",
+    "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "藥學系",
-    "time": "T56R34-"
+    "teacher": "陳惠亭、王孟廷、林滿玉、胡德民、陳日榮、林宥欣、姜紹青、東雅惠、蘇溶真、廖曉偉、許銘能",
+    "time": "Fb-"
   },
   "1132_112000": {
     "code": "BEBL20025",
@@ -6331,7 +6343,7 @@
     "memo": "必修: (限)醫學系二年級A、B 必修\n選修: 中醫系一年級、牙醫系一年級",
     "name": "基礎人體結構學 Fundamental Human Anatomical Structure",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "120",
     "teacher": "傅毓秀、李學德、蔡佩君、郭曉縈、侯珮珊、蔣偉程",
     "time": "T9-"
   },
@@ -10907,18 +10919,6 @@
     "teacher": "趙遠宏",
     "time": "F234-YEA200[YM]"
   },
-  "1132_132302": {
-    "code": "BEBE30008",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "132302",
-    "memo": "[English Medium Course]\n上課地點：陽明校區；全程視訊",
-    "name": "工程統計 Engineering Statistics",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "李泉",
-    "time": "T234-YT301[YM]"
-  },
   "1132_132303": {
     "code": "BEBE20059",
     "credit": "3.00",
@@ -11481,7 +11481,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳傳霖",
-    "time": "T56-YT301[YM]"
+    "time": "R56-YB458[YM]"
   },
   "1132_132511": {
     "code": "BEIR30013",
@@ -12078,7 +12078,7 @@
     "id": "132809",
     "memo": "[English Medium Course]",
     "name": "應用微生物學：探索益生菌和噬菌體 (全英語) Applied microbiology：exploring probiotics and bacteriophages (in Enghlish)",
-    "num_limit": "0",
+    "num_limit": "8",
     "reg_num": "0",
     "teacher": "高正彥",
     "time": "R5678Uy-YC313[YM]"
@@ -16773,7 +16773,7 @@
     "num_limit": "30",
     "reg_num": "0",
     "teacher": "陸志豪",
-    "time": "M789-SC160[GF]"
+    "time": "M789-SC151[GF]"
   },
   "1132_410011": {
     "code": "BTBT10035",
@@ -18561,7 +18561,7 @@
     "num_limit": "20",
     "reg_num": "0",
     "teacher": "楊欣芳",
-    "time": "F78-"
+    "time": "M89-HC101[GF]"
   },
   "1132_514130": {
     "code": "HSFL20059",
@@ -23603,18 +23603,6 @@
     "teacher": "陳衛國",
     "time": "T567-SC204[GF]"
   },
-  "1132_520008": {
-    "code": "XDEP20004",
-    "credit": "2.00",
-    "hours": "3.00",
-    "id": "520008",
-    "memo": "",
-    "name": "光子學實驗 Photonics Lab.",
-    "num_limit": "60",
-    "reg_num": "0",
-    "teacher": "蘇冠暐",
-    "time": "Wabc-SC110[GF]"
-  },
   "1132_520009": {
     "code": "XDEP20006",
     "credit": "3.00",
@@ -23806,6 +23794,18 @@
     "reg_num": "0",
     "teacher": "待聘",
     "time": "Fabc-SC158[GF]"
+  },
+  "1132_520025": {
+    "code": "XDEP20001",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "520025",
+    "memo": "",
+    "name": "半導體物理與元件 Semiconductor Physics and Device",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳永富",
+    "time": "F234-SC152[GF]"
   },
   "1132_530000": {
     "code": "GELT30003",
@@ -24201,7 +24201,7 @@
     "num_limit": "15",
     "reg_num": "0",
     "teacher": "待聘",
-    "time": "W234-"
+    "time": "W234-HC102[GF]"
   },
   "1132_534108": {
     "code": "HSGF30045",
@@ -26176,7 +26176,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535309",
-    "memo": "上課時間：週一78節-工程五館EE623， Lab時段：週一晚上abc-工程五館EE634。",
+    "memo": "上課時間：週三78節-工程五館EE623， Lab時段：週三晚上abc-工程五館EE634。",
     "name": "進階可程式邏輯系統設計與應用 Advanced Programmable Logic System Design and Application",
     "num_limit": "60",
     "reg_num": "0",
@@ -27622,18 +27622,6 @@
     "reg_num": "0",
     "teacher": "吉里斯",
     "time": "F567-EE117[GF]"
-  },
-  "1132_535912": {
-    "code": "STST30045",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "535912",
-    "memo": "[English Medium Course]",
-    "name": "超快光學與製程應用 Ultrafast optics and applications in fabrication",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "王培勳",
-    "time": "T567-A306[GF]"
   },
   "1132_535913": {
     "code": "STST30046",
@@ -30525,7 +30513,7 @@
     "num_limit": "40",
     "reg_num": "0",
     "teacher": "陳詩欣、陳永平",
-    "time": "M567-A701[GF]"
+    "time": "M789-A701[GF]"
   },
   "1132_537810": {
     "code": "MGMT30100",
@@ -30537,7 +30525,7 @@
     "num_limit": "12",
     "reg_num": "0",
     "teacher": "陳詩欣",
-    "time": "M34n-A722[GF]"
+    "time": "T34n-A722[GF]"
   },
   "1132_537811": {
     "code": "MGMT30090",
@@ -31498,18 +31486,6 @@
     "reg_num": "0",
     "teacher": "Academia Sinica",
     "time": "M234-"
-  },
-  "1132_546865": {
-    "code": "SCSC30026",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "546865",
-    "memo": "[English Medium Course]台大綜R604, R604,Zonghe Lecture Building,NTU",
-    "name": "高等物化特論 Advanced Topics in Physi-cal Chemistry",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "Academia Sinica",
-    "time": "W678-"
   },
   "1132_547000": {
     "code": "MGMS30087",
@@ -37567,7 +37543,7 @@
     "memo": "含近代物理",
     "name": "物理(二)榮譽班 Physics(II)",
     "num_limit": "85",
-    "reg_num": "108",
+    "reg_num": "107",
     "teacher": "簡紋濱",
     "time": "M34R78-SA321[GF]"
   },
@@ -38071,7 +38047,7 @@
     "memo": "生物科技學系大一、醫學系醫師工程師組",
     "name": "普通生物學實驗 General Biology Lab.",
     "num_limit": "47",
-    "reg_num": "9",
+    "reg_num": "10",
     "teacher": "陳文亮、黃兆祺、鄒協成、莊碧簪",
     "time": "R567-SC210[GF]"
   },
@@ -39238,18 +39214,6 @@
     "reg_num": "0",
     "teacher": "林伯是",
     "time": "Tabc-CM214[GR]"
-  },
-  "1132_638601": {
-    "code": "PTIB30013",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "638601",
-    "memo": "",
-    "name": "智慧光電影像處理 Intelligent Photonic Image Processing",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "陳顯禎",
-    "time": "F234-CM216[GR]"
   },
   "1132_638602": {
     "code": "PTIB30003",

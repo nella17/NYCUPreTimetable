@@ -7161,7 +7161,7 @@
     "num_limit": "10",
     "reg_num": "0",
     "teacher": "簡千栩",
-    "time": "F78-YL402[YM]"
+    "time": "F78-YR105[YM]"
   },
   "1132_130010": {
     "code": "MDPY30029",
@@ -7533,7 +7533,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "黃嵩立",
-    "time": "F56-YS103[YM]"
+    "time": "R34-YS103[YM]"
   },
   "1132_130203": {
     "code": "MDPH30087",
@@ -7856,7 +7856,7 @@
     "name": "疾病的分子與病理機轉 Molecular and Pathological Mechanisms of Diseases",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "吳肇卿、牛道明、王錦鈿、楊慕華、洪榮志、陳世彬、楊智宇、陳斯婷、詹宇鈞、李建賢、林幸榮、周德盈、洪成志",
+    "teacher": "陳世彬、牛道明、王錦鈿、楊慕華、洪榮志、楊智宇、陳斯婷、詹宇鈞、李建賢、林幸榮、周德盈、洪成志",
     "time": "R12-YL405[YM]"
   },
   "1132_130301": {
@@ -8887,7 +8887,7 @@
     "memo": "不分系二、生科系二、醫學系B組二、藥學二、物治二合班上課，開放全校選修。",
     "name": "量化數據分析 Quantitative data analysis",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "陳卓逸",
     "time": "M34-YL401[YM]"
   },
@@ -8995,7 +8995,7 @@
     "memo": "除生醫資訊所、跨領域醫學學程、不分系、醫學系外，不開放外系、所選修，生醫資訊所、不分一、醫一B合班上課。",
     "name": "抽象思考與演算法 Abstraction and Algorithms",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "巫坤品",
     "time": "W78-YL401[YM]"
   },
@@ -9033,7 +9033,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "蘇家玉",
-    "time": "T34-YR101[YM]"
+    "time": "F34-YR319[YM]"
   },
   "1132_131100": {
     "code": "MDBI30017",
@@ -11123,18 +11123,6 @@
     "teacher": "陳啟昌",
     "time": "S89a-YB602[YM]"
   },
-  "1132_132405": {
-    "code": "BEPT30035",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "132405",
-    "memo": "",
-    "name": "神經科疾病診斷與治療 Diagnosis and Treatment of Common Neurologic Disorders",
-    "num_limit": "20",
-    "reg_num": "0",
-    "teacher": "鄭世榮",
-    "time": "F12-YB419[YM]"
-  },
   "1132_132406": {
     "code": "BEPT30092",
     "credit": "2.00",
@@ -11613,7 +11601,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "蘇佳沂",
-    "time": ""
+    "time": "R234-"
   },
   "1132_132602": {
     "code": "BEBP30025",
@@ -11686,18 +11674,6 @@
     "reg_num": "0",
     "teacher": "賈世璿、郭文娟、詹明哲",
     "time": "F567-YK602-A1[Y"
-  },
-  "1132_132609": {
-    "code": "BEBN20028",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "132609",
-    "memo": "[English Medium Course]",
-    "name": "生醫感測與微奈米操控科技 Biosensing and micro-/nanomanipulation technology",
-    "num_limit": "30",
-    "reg_num": "0",
-    "teacher": "陳奕帆",
-    "time": "F567-YK436[YM]"
   },
   "1132_132610": {
     "code": "BEBP30037",
@@ -11806,6 +11782,18 @@
     "reg_num": "0",
     "teacher": "楊德明",
     "time": "W56-YL403[YM]"
+  },
+  "1132_132619": {
+    "code": "BEBP30001",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "132619",
+    "memo": "",
+    "name": "LabVIEW程式設計與應用 LabVIEW Programming and Applications",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
   },
   "1132_132700": {
     "code": "LSNS30028",
@@ -12405,7 +12393,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "李曉暉、俞震亞、林崇智、陳嘉霖、陳虹如、李敏嘉",
-    "time": "R234-YK101[YM]"
+    "time": "R234-YK533[YM]"
   },
   "1132_133011": {
     "code": "LSGS30030",
@@ -13052,7 +13040,7 @@
     "name": "臨床試驗與轉譯醫學概論 Basics of Clinical Trial and Translational Medicine",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "李光申、黃怡翔、吳俊穎、李美璇、陳世彬、雷文玫、賴峻毅、林進清、何慧君、郭英調、劉致顯",
+    "teacher": "賴峻毅、黃怡翔、吳俊穎、李美璇、陳世彬、雷文玫、林進清、何慧君、郭英調、劉致顯",
     "time": "W34-YL405[YM]"
   },
   "1132_140303": {
@@ -13076,7 +13064,7 @@
     "name": "再生生物醫學特論 Advanced Regenerative Biology and Medicine",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "李光申、楊慕華、黃柏勳、楊智宇、陳志強、賴峻毅、李怡慧、何慧君、翁仕明、鄭明德、郭紘志、周秀慧",
+    "teacher": "楊智宇、楊慕華、黃柏勳、陳志強、賴峻毅、李怡慧、何慧君、翁仕明、鄭明德、郭紘志、周秀慧",
     "time": "R34-YL405[YM]"
   },
   "1132_140305": {
@@ -13139,18 +13127,6 @@
     "teacher": "黃柏勳、林明薇、吳俊穎、蘇建維、楊永正",
     "time": "S1234n56789abcd-YR103[YM]"
   },
-  "1132_140310": {
-    "code": "MDCM30065",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "140310",
-    "memo": "",
-    "name": "智慧醫療與人工智慧 Smart healthcare and Artificial intelligence",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "李光申、鄭彥甫、胡瑜峰、楊智傑、周承復、曹昱、梁文議、朱原嘉",
-    "time": "F78-YR105[YM]"
-  },
   "1132_140311": {
     "code": "MDCM30048",
     "credit": "2.00",
@@ -13210,6 +13186,30 @@
     "reg_num": "0",
     "teacher": "許志成",
     "time": "T78-YR102[YM]"
+  },
+  "1132_140318": {
+    "code": "MDCM30008",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "140318",
+    "memo": "",
+    "name": "基因體醫學 Advanced Genomic Medicine",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "楊慕華、陳斯婷",
+    "time": "R56-YL405[YM]"
+  },
+  "1132_140319": {
+    "code": "MDCM30080",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "140319",
+    "memo": "",
+    "name": "人工智慧於醫學研究之應用 Artificial intelligence in medical research",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "楊智傑",
+    "time": "F78-YL402[YM]"
   },
   "1132_140400": {
     "code": "MDTM30017",
@@ -19880,7 +19880,7 @@
     "name": "機率與統計 Probability and Statistics",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "半導體系",
     "time": ""
   },
   "1132_515212": {
@@ -19904,7 +19904,7 @@
     "name": "超大型積體電路設計導論 Introduction to VLSI Design",
     "num_limit": "65",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "半導體系",
     "time": "W789-ED301[GF]"
   },
   "1132_515214": {
@@ -19952,7 +19952,7 @@
     "name": "半導體製程技術 Semiconductor Processing Technology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "半導體系",
     "time": "T789-ED301[GF]"
   },
   "1132_515218": {
@@ -20553,7 +20553,7 @@
     "num_limit": "80",
     "reg_num": "0",
     "teacher": "高孟駿",
-    "time": "Mab-EC114[GF]"
+    "time": "Mabc-EC114[GF]"
   },
   "1132_515608": {
     "code": "CSCS20015",
@@ -26836,12 +26836,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535509",
-    "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)。1.請依各所入學年度之修業要點選課。2.博士班資格考考核科目。3.前瞻所113學年入學乙組專業核心課程。",
+    "memo": "資訊學院優先(不開放在職專班網路選課)。1.請依各所入學年度之修業要點選課。2.博士班資格考考核科目。3.前瞻所113學年入學乙組專業核心課程。",
     "name": "演算法 Algorithms",
     "num_limit": "140",
     "reg_num": "0",
     "teacher": "荊宇泰",
-    "time": "M34F2-ED117[GF]"
+    "time": "M34n-ED117[GF]"
   },
   "1132_535510": {
     "code": "CSIC30087",
@@ -27093,7 +27093,7 @@
     "num_limit": "145",
     "reg_num": "0",
     "teacher": "謝致仁",
-    "time": "Rabc-ED117[GF]"
+    "time": "F34n-ED117[GF]"
   },
   "1132_535650": {
     "code": "CSIC30019",
@@ -27404,7 +27404,7 @@
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
     "reg_num": "57",
-    "teacher": "",
+    "teacher": "電資碩士學程",
     "time": ""
   },
   "1132_535802": {
@@ -34487,18 +34487,6 @@
     "teacher": "林麗美",
     "time": "R78-A504[GF]"
   },
-  "1132_562057": {
-    "code": "GELT00012",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "562057",
-    "memo": "",
-    "name": "多文體英文寫作 Multigenre English Writing",
-    "num_limit": "20",
-    "reg_num": "0",
-    "teacher": "張靜芬",
-    "time": "T56-A506[GF]"
-  },
   "1132_562058": {
     "code": "GELT00013",
     "credit": "2.00",
@@ -37783,7 +37771,7 @@
     "memo": "",
     "name": "化學(二) Chemistry (II)",
     "num_limit": "60",
-    "reg_num": "55",
+    "reg_num": "46",
     "teacher": "李積琛",
     "time": "T56F2-SC105[GF]"
   },
@@ -37807,7 +37795,7 @@
     "memo": "",
     "name": "化學(二) Chemistry (II)",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "刁維光",
     "time": "F2-SB203[GF],T56-SB211[GF]"
   },
@@ -37819,7 +37807,7 @@
     "memo": "",
     "name": "化學(二) Chemistry (II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "平松弘嗣",
     "time": "T56F2-SC109[GF]"
   },
@@ -37831,7 +37819,7 @@
     "memo": "",
     "name": "化學(二) Chemistry (II)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "63",
     "teacher": "李大偉",
     "time": "T56F2-SC106[GF]"
   },
@@ -37855,7 +37843,7 @@
     "memo": "",
     "name": "化學(二) Chemistry (II)",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "51",
     "teacher": "黃立心",
     "time": "T56F2-SC110[GF]"
   },
@@ -37867,7 +37855,7 @@
     "memo": "",
     "name": "化學實驗(二)  Chemistry Labs. (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "55",
     "teacher": "李積琛",
     "time": "M567-SB119[GF]"
   },
@@ -37891,7 +37879,7 @@
     "memo": "",
     "name": "化學實驗(二)  Chemistry Labs. (II)",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "51",
     "teacher": "刁維光",
     "time": "R234-SB119[GF]"
   },
@@ -37903,7 +37891,7 @@
     "memo": "",
     "name": "化學實驗(二)  Chemistry Labs. (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "51",
     "teacher": "黃立心",
     "time": "W234-SB119[GF]"
   },

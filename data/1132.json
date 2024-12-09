@@ -1172,7 +1172,7 @@
     "name": "大體解剖學實驗 Gross Anatomy Lab.",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "鄭瓊娟、傅毓秀、李學德、蔡佩君、郭曉縈",
+    "teacher": "鄭瓊娟、傅毓秀、李學德、蔡佩君、蔣偉程",
     "time": "M1234T12345678W12R12345678F1234-YEC109[YM]"
   },
   "1132_110094": {
@@ -6931,7 +6931,7 @@
     "memo": "[English Medium Course]",
     "name": "生命科學概論(二) Introduction to Life Sciences (II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "盧美光",
     "time": "T12-YK533[YM]"
   },
@@ -6955,7 +6955,7 @@
     "memo": "[English Medium Course]",
     "name": "中醫英文 Chinese Medicine in English",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "黃怡超、洪裕強",
     "time": "W34-YK436[YM]"
   },
@@ -6967,7 +6967,7 @@
     "memo": "本課程實際授課時間為單數週週四7.8節，另有雙數週課程「醫療服務的故事」可供修習。",
     "name": "醫學生涯 Medical career",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "許中華",
     "time": "R7-YK533[YM]"
   },
@@ -7015,7 +7015,7 @@
     "memo": "",
     "name": "中醫生理學 Chinese Medicine Physiology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "張清貿、洪裕強",
     "time": "F789-YK533[YM]"
   },
@@ -7027,7 +7027,7 @@
     "memo": "",
     "name": "心靈成長 Spiritual growth (mentor time)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "林東毅、黃怡超、張清貿",
     "time": "Tn-YK533[YM]"
   },
@@ -7039,7 +7039,7 @@
     "memo": "",
     "name": "心靈成長 Spiritual growth (mentor time)",
     "num_limit": "9",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "林東毅、洪裕強、盧美光、龔彥穎",
     "time": "Tn-YK533[YM]"
   },
@@ -7051,7 +7051,7 @@
     "memo": "",
     "name": "心靈成長 Spiritual growth (mentor time)",
     "num_limit": "9",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "林東毅、傅淑玲、許中華",
     "time": "Tn-YK436[YM]"
   },
@@ -7111,7 +7111,7 @@
     "memo": "",
     "name": "生理醫學研究概論 Research Principle in Physiology & Medicine",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "阮琪昌",
     "time": "R34-YR103[YM]"
   },
@@ -25520,7 +25520,7 @@
     "name": "資料轉換積體電路 Data Converter Integrated Circuits",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "蔡宗亨",
+    "teacher": "蔡宗亨、洪浩喬",
     "time": "M567-ED303[GF]"
   },
   "1132_535105": {

@@ -2240,7 +2240,7 @@
     "name": "急重症影像醫學 Emergency Radiology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "吳銘庭",
+    "teacher": "吳銘庭、王俊傑、王威登、蔡孟原、江佳陵、許碩修",
     "time": ""
   },
   "1132_110183": {
@@ -3511,7 +3511,7 @@
     "memo": "大一下導師時間，光復校區導師時間：週三7-8。",
     "name": "省思-人﹑生活﹑生命 Reflection-Human Being, Living, Life",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "33",
     "teacher": "胡慧蘭、周承珍、陳律言、廖咨詠",
     "time": "W78-EE112[GF]"
   },
@@ -3523,7 +3523,7 @@
     "memo": "前12週密集上課(護理414室)，13-16週榮總實習",
     "name": "健康評估與護理措施實習 Health Assessment and Nursing Practice Lab",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "陳律言、陳俞琪、廖媛美、胡慧蘭、黃淑鶴、楊曼華、侯宜菁、廖咨詠、林承霈、賴鼎璁、李雅萍、林承萱、徐裳訢、周珊如、蘇惠文、楊翎玉、李雅雯",
     "time": "M1234n5678T1234n5678-YN414[YM]"
   },
@@ -3535,7 +3535,7 @@
     "memo": "大二下導師時間",
     "name": "創造-人﹑生活﹑生命 Creation-Human Being, Living, Life",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "廖媛美、陳俞琪、蔡慈儀、劉佩青",
     "time": "W34-YN416[YM]"
   },
@@ -3547,7 +3547,7 @@
     "memo": "前4週密集上課",
     "name": "兒童護理學 Pediatric Nursing",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "劉佩青、王子芳、陳紀雯、張瑞文、楊翠芬、曾偉杰、沈青青、賴鼎璁",
     "time": "M12345678T12345678-YN418[YM]"
   },
@@ -3571,7 +3571,7 @@
     "memo": "後14週密集實習，分二梯次\n上課教室同「兒童護理學」。",
     "name": "兒童護理學實習 Pediatric Nursing Practice",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "劉佩青、賴品欣、楊馥菱、黃祖涵、簡莉文、林秀蘭、吳采蓉",
     "time": ""
   },
@@ -3583,7 +3583,7 @@
     "memo": "前4週密集上課",
     "name": "婦嬰護理學 Maternity Nursing",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "黃久美、蔡慈儀、黃淑鶴、賴鼎璁、張秀能、陳淑芬、柯惠娟",
     "time": "W12345678-YN418[YM]"
   },
@@ -3619,7 +3619,7 @@
     "memo": "上課地點：實習醫院",
     "name": "綜合臨床護理學實習(二) Comprehensive Nursing Practice(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "李亭亭、黃淑鶴、鍾若男、明金蓮、林淑娟、盧婉菁、游佩玲、鄭菁慧",
     "time": "M12345678T12345678W12345678-"
   },
@@ -3631,7 +3631,7 @@
     "memo": "",
     "name": "護理專業問題研討 Seminar in Professional Issues",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "童恒新、胡慧蘭、周承珍、林麗華",
     "time": "F234-EE129[GF],F234-YN418[YM]"
   },
@@ -3691,7 +3691,7 @@
     "memo": "",
     "name": "人類發展學(含實習) Human Development",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "33",
     "teacher": "黃久美、王子芳、陳俞琪、陳紀雯、黃淑鶴、劉佩青",
     "time": "F5678-CS100[GF],F5678-YL404[YM]"
   },
@@ -3703,7 +3703,7 @@
     "memo": "",
     "name": "護理倫理概論 Introduction to Nursing Ethics",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "廖咨詠、王子芳、賴鼎璁",
     "time": "F56-YN418[YM]"
   },
@@ -3847,7 +3847,7 @@
     "memo": "藥學系大學部二年級實驗課程，上課日期另行公布",
     "name": "生藥暨中藥藥物學實驗(二) Pharmacognosy and Traditional Chinese Pharmacology Laboratory (II)",
     "num_limit": "40",
-    "reg_num": "28",
+    "reg_num": "30",
     "teacher": "陳日榮",
     "time": "T5678-YED309[YM]"
   },
@@ -4015,7 +4015,7 @@
     "memo": "僅供四下未進行實習同學選課。",
     "name": "進階藥學研究(一) Advanced Pharmacy Practice Research (I) (Pharmacy Research, Clinical Pharmacy, Regulatory Affairs, Industrial Pharmacy, International Pharmacy)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "2",
     "teacher": "陳惠亭、王孟廷、林滿玉、胡德民、陳日榮、林宥欣、姜紹青、東雅惠、蘇溶真、廖曉偉、陳謄州、黃世宗",
     "time": "Fb-"
   },
@@ -4761,7 +4761,7 @@
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "林吟亮、王子娟、施怡芬、李雪楨、黃崇舜、張正琪、朱俊榮、陳子敬、董阜玲、張世昌、黃心怡、林郁珊、徐瑞隆、陳元劭、蔡蕙羽、朱琬婷、葉姵君、邵芙昕、呂怡慧、蕭茗榕、喻大忠、蔡明倫、黃建儒、李怡安、宋敦仁、黃琬葶、高宜暄、莊雅雯、周玟玲、許書旋、黃亭瑜、陳恩賜、厲真、魏士傑、杜俊宏、張娟青、吳汶儒、林松佑、曾俊智、李建志、盧小惠、許穎昌、張志謙、李名哲、陳俊年、羅士倫、巫俊杉、王禎、王祚萱、顏如欣、彭思瑋、潘宜文、林慧芬、陳詠馨、張立萱、陳琬婷、楊政浩、吳率璠、程冠傑、賴亮穎、林筱真、騰婷、陳孟謙、林倩如、龍柏蔓、游佩芯、羅唯熏、王元慶、鄭安軒、張睿宸、吳佳恩、蕭琬蓁、陳立唯、張修寧、洪素鶯、陳祐榕、陳慧玲",
-    "time": "T12-YB624[YM]"
+    "time": "W34-YB624[YM]"
   },
   "1132_112209": {
     "code": "BEPT20040",
@@ -6355,7 +6355,7 @@
     "memo": "醫學1A、醫學1B、中醫學1",
     "name": "有機化學 Organic Chemistry",
     "num_limit": "9999",
-    "reg_num": "131",
+    "reg_num": "130",
     "teacher": "蔡有光、林照雄、廖韋晴",
     "time": "T7R34-YX216[YM]"
   },
@@ -6406,6 +6406,18 @@
     "reg_num": "26",
     "teacher": "蔡有光、王毓瑄、姜為中、徐子涵",
     "time": "F5678-YED309[YM]"
+  },
+  "1132_112905": {
+    "code": "MDDC10013",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "112905",
+    "memo": "護理1,物治2, 醫工2, 醫工所",
+    "name": "生物化學概論 Introduction to Biochemistry",
+    "num_limit": "9999",
+    "reg_num": "33",
+    "teacher": "陳威儀、郭津岑、張崇德",
+    "time": "T56-CS100[GF],T56-YT305[YM]"
   },
   "1132_113000": {
     "code": "MDPY30042",
@@ -6811,7 +6823,7 @@
     "memo": "限醫學系二年級",
     "name": "醫學人文的實踐 The Practice of Medical Humanities",
     "num_limit": "9999",
-    "reg_num": "129",
+    "reg_num": "125",
     "teacher": "楊智傑、黃嵩立、周穎政、楊秀儀、陳亮恭、吳貞宜、黃宣穎、李威儒、陳映燁、盧鴻毅、林頂、蔡景耀、葉圜叡、鄭健禹、曾裕娟、蔡紫君",
     "time": "T5678-YX406[YM]"
   },
@@ -9584,7 +9596,7 @@
     "name": "高等口腔病理學(含臨床病理討論) Advanced Oral Pathology (Include C.P.C.)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "張國威、楊政杰、涂曦丰、吳靜宜、洪凱風、張婷菡、劉崇基、羅文良、劉宗榮、洪佩詩",
+    "teacher": "張國威、楊政杰、涂曦丰、吳靜宜、洪凱風、張婷菡、劉崇基、羅文良、劉宗榮、洪佩詩、周忠憲",
     "time": "T78-YD207[YM]"
   },
   "1132_131408": {
@@ -9956,7 +9968,7 @@
     "name": "進階婦兒科護理學實習(二) Practice in Advanced Maternity and Pediatric Nursing (II)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃久美、蔡慈儀、陳紀雯、劉佩青",
+    "teacher": "黃久美",
     "time": "W12345678R1234-"
   },
   "1132_131708": {
@@ -10291,7 +10303,7 @@
     "memo": "初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
     "name": "生藥暨中藥藥物學(二) Pharmacognosy and Traditional Chinese Pharmacology (II)",
     "num_limit": "40",
-    "reg_num": "26",
+    "reg_num": "28",
     "teacher": "陳日榮、廖家慶、朱益成",
     "time": "W78-YR101[YM]"
   },
@@ -11373,7 +11385,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "吳駿一、王信二、張志賢",
-    "time": "T9a-YB101[YM]"
+    "time": "M9a-YB101[YM]"
   },
   "1132_132503": {
     "code": "BEIR30008",
@@ -11937,7 +11949,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林慶波、周坤賢",
-    "time": "M234F34-YL839[YM]"
+    "time": "M234-YL839[YM]"
   },
   "1132_132800": {
     "code": "LSMI30047",
@@ -14541,7 +14553,7 @@
     "num_limit": "9999",
     "reg_num": "22",
     "teacher": "蔡有光",
-    "time": "U8-YR105[YM]"
+    "time": "S8-YR105[YM]"
   },
   "1132_150301": {
     "code": "LSMB30012",
@@ -14553,7 +14565,7 @@
     "num_limit": "9999",
     "reg_num": "20",
     "teacher": "江惠華",
-    "time": "S8-YR105[YM]"
+    "time": "S7U7-YR105[YM]"
   },
   "1132_150302": {
     "code": "LSMB30017",
@@ -18546,7 +18558,7 @@
     "id": "514130",
     "memo": "",
     "name": "劇場設計與技術(二) Theater Design and Technique (2)",
-    "num_limit": "20",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "徐仲驊",
     "time": "M34-F203[GF]"
@@ -18654,7 +18666,7 @@
     "id": "515005",
     "memo": "",
     "name": "機率 Probability",
-    "num_limit": "9999",
+    "num_limit": "55",
     "reg_num": "0",
     "teacher": "陸曉峰",
     "time": "T56F2-ED303[GF]"
@@ -18717,7 +18729,7 @@
     "num_limit": "35",
     "reg_num": "0",
     "teacher": "馮智豪",
-    "time": "T34R7-ED101[GF]"
+    "time": "T34R8-ED101[GF]"
   },
   "1132_515012": {
     "code": "EEEC10011",
@@ -19245,7 +19257,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "游家牧",
-    "time": "R567-EE208[GF]"
+    "time": "R567-ED103[GF]"
   },
   "1132_515120": {
     "code": "EEEC20021",
@@ -19365,7 +19377,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "李佳翰",
-    "time": "T7R56-ED203[GF]"
+    "time": "T567-EDB07[GF]"
   },
   "1132_515130": {
     "code": "EEEC20041",
@@ -19396,12 +19408,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515132",
-    "memo": "T34-EE623, F2-Labs PC4 & PC2",
+    "memo": "M34-EDB26, R1-PC2& PC4",
     "name": "無線網路導論 Introduction to Wireless Networks ",
     "num_limit": "90",
     "reg_num": "0",
     "teacher": "林亭佑",
-    "time": "F2-,T34-EE623[GF]"
+    "time": "R1-CS-PC2[GF],R1-CS-PC4[GF],M34-EDB26[GF]"
   },
   "1132_515133": {
     "code": "EEEC20055",
@@ -19449,7 +19461,7 @@
     "num_limit": "100",
     "reg_num": "0",
     "teacher": "陳柏志",
-    "time": "M34W2-EDB26[GF]"
+    "time": "W234-EDB26[GF]"
   },
   "1132_515137": {
     "code": "EEEC20072",
@@ -25444,12 +25456,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535000",
-    "memo": "[English Medium Course]M567-ED108",
+    "memo": "[English Medium Course]",
     "name": "創業實作 Practice in Entrepreneurship",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "黃經堯",
-    "time": "M567-"
+    "time": "F567-ED202[GF]"
   },
   "1132_535100": {
     "code": "EEEE30001",
@@ -25725,7 +25737,7 @@
     "num_limit": "120",
     "reg_num": "0",
     "teacher": "陳冠能",
-    "time": "W34n-ED220[GF]"
+    "time": "F34n-ED116[GF]"
   },
   "1132_535215": {
     "code": "EEIE30013",
@@ -25972,7 +25984,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535235",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course] Class time：Thursday 9:30-12:30",
     "name": "最佳化理論與應用 Optimization Theory and Applications",
     "num_limit": "9999",
     "reg_num": "0",
@@ -33700,7 +33712,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561067",
-    "memo": "",
+    "memo": "授課老師：林校群老師(生醫電子轉譯研究中心)",
     "name": "生活中的腦科學 Brain Science in Daily Life",
     "num_limit": "50",
     "reg_num": "0",
@@ -37147,7 +37159,7 @@
     "memo": "(大班授課)",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "120",
-    "reg_num": "0",
+    "reg_num": "117",
     "teacher": "王夏聲",
     "time": "T34F56-SA321[GF]"
   },
@@ -37159,7 +37171,7 @@
     "memo": "[English Medium Course]",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "74",
     "teacher": "阮志豪",
     "time": "T34F56-SC106[GF]"
   },
@@ -37171,7 +37183,7 @@
     "memo": "(限應數系學生)",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "52",
     "teacher": "王國仲",
     "time": "T34F56-SC105[GF]"
   },
@@ -37183,7 +37195,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "54",
     "teacher": "張書銘",
     "time": "T34F56-SC201[GF]"
   },
@@ -37195,7 +37207,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "余啟哲",
     "time": "T34F56-SA320[GF]"
   },
@@ -37207,7 +37219,7 @@
     "memo": "(半導體系)",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "48",
     "teacher": "石至文",
     "time": "T34F56-SA311[GF]"
   },
@@ -37219,7 +37231,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "55",
     "teacher": "陳冠宇",
     "time": "T34F56-SC204[GF]"
   },
@@ -37231,7 +37243,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "59",
     "teacher": "方向",
     "time": "T34F56-SC110[GF]"
   },
@@ -37243,7 +37255,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "21",
     "teacher": "林武雄",
     "time": "T34F56-SC206[GF]"
   },
@@ -37255,7 +37267,7 @@
     "memo": "全網路課程，但面授與考試需到教室",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "55",
     "teacher": "莊重",
     "time": "T34F56-SC151[GF]"
   },
@@ -37267,7 +37279,7 @@
     "memo": "[English Medium Course]",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "57",
     "teacher": "千野由喜",
     "time": "T34F56-SC152[GF]"
   },
@@ -37279,7 +37291,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "71",
-    "reg_num": "0",
+    "reg_num": "61",
     "teacher": "楊春美",
     "time": "F56-EE102[GF],T34-EE105[GF]"
   },
@@ -37291,7 +37303,7 @@
     "memo": "(大班授課)",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "120",
-    "reg_num": "0",
+    "reg_num": "130",
     "teacher": "王夏聲",
     "time": "M78R34-SA321[GF]"
   },
@@ -37303,7 +37315,7 @@
     "memo": "[English Medium Course]",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "79",
     "teacher": "科特林",
     "time": "M78R34-SC106[GF]"
   },
@@ -37315,7 +37327,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "66",
     "teacher": "張書銘",
     "time": "M78R34-SC201[GF]"
   },
@@ -37327,7 +37339,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "54",
     "teacher": "余啟哲",
     "time": "M78R34-SC206[GF]"
   },
@@ -37339,7 +37351,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "63",
     "teacher": "黃柏鈞",
     "time": "M78R34-SC152[GF]"
   },
@@ -37351,7 +37363,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "呂楊凱",
     "time": "M78R34-SC110[GF]"
   },
@@ -37363,7 +37375,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "55",
     "teacher": "王賜聖",
     "time": "M78R34-SC204[GF]"
   },
@@ -37375,7 +37387,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "81",
-    "reg_num": "0",
+    "reg_num": "79",
     "teacher": "楊春美",
     "time": "M78R34-EE105[GF]"
   },
@@ -37399,7 +37411,7 @@
     "memo": "限管科系學生",
     "name": "微積分乙(二) Calculus B (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "呂楊凱",
     "time": "T34F56-SC109[GF]"
   },
@@ -37411,7 +37423,7 @@
     "memo": "",
     "name": "微積分學而班理論組(二) Honor Calculus Problem Solving Session (II)",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "54",
     "teacher": "王國仲",
     "time": "Fn-SA213[GF],Fn-SA214[GF],Fn-SA215[GF]"
   },

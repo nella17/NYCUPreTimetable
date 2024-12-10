@@ -2407,7 +2407,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "骨骼關節學 Orthopedics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "135",
     "teacher": "吳博貴、李光申、馬筱笠、王世典、張維寧、蔣恩榮、王榮磻、周伯鑫、陳昭銘、黃意超、王致又、蔡尚聞、姚又誠、奉季光、林育寬、張文杰、江昭慶、陳正豐、蘇宇平",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
@@ -2419,7 +2419,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "免疫病學 Clinical Immunology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "陳明翰、龔彥穎、蔡長祐、張德明、陳怡行、廖顯宗、謝祖怡、陳瑋昇、陳信華、賴建志、曹彥博、孫易暄、蔡弘正",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
@@ -2431,7 +2431,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "傳染病學 Infectious Disease",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "林邑璁、李欣蓉、詹宇鈞、黃祥芬、陳昕白、吳冠陞、陳夙容、巫炳峰、王建淳、阮志翰、莊茜、許仁毓、徐靖浩",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
@@ -2443,7 +2443,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "腎臟學 Nephrology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "林志慶、楊智宇、唐德成、林堯彬、劉宏祥、李國華、程子珩、陳範宇、黎思源、曾偉誠、蔡明村",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
@@ -2455,7 +2455,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "泌尿學 Urology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "林子平、黃志賢、林登龍、陳光國、張心湜、邱文祥、吳東霖、劉裕明、林志杰、范玉華、黃奕燊、魏子鈞、許自翔、黃子豪、黃逸修、鍾孝仁",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
@@ -2467,7 +2467,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "血液學 Hematology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "蕭樑材、劉嘉仁、高志平、劉耀中、簡聖軒、王浩元、柯博伸、林庭安、陳玟均、蔡淳光、許德麟",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
@@ -2479,7 +2479,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "醫學腫瘤學 Medical Oncology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "楊慕華、劉峻宇、陳博明、顏厥全、鄧豪偉、陳明晃、趙大中、洪逸平、姜乃榕、陳三奇、陳天華、高昀婕",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
@@ -2491,7 +2491,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "影像診斷學 Diagnostic Radiology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "凌憬峰、沈書慧、邱宏仁、吳宏達、吳慶蘭",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
@@ -2503,7 +2503,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "放射治療學 Radiation Therapy",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "劉裕明、黃品逸、陳一瑋、賴姿妤",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
@@ -2515,7 +2515,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "核子醫學 Nuclear Medicine",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "彭南靖、黃文盛、王昱豐、胡蓮欣、李哲皓",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
@@ -2527,7 +2527,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "復健醫學 Physical Medicine & Rehabilitation",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "高崇蘭、蔡泊意、孫淑芬、程遠揚、王建智、劉鼎浩",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
@@ -2551,7 +2551,7 @@
     "memo": "",
     "name": "基礎臨床技能訓練課程(二) Basic clinical skills (BCS) training(II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "楊盈盈、李懿宬、黃孝先、尤香玉、黃祥芬、邱逸淳、梁仁峯、劉祐岑、陳昭銘、陳坤波、徐迺維、黃加璋、黃文彬、袁維新、周建成、林宜璇、林志遠、賴至柔、陳偉華、陳明正、黃偉杰、莊美幸、李秋陽、姚又誠、許立翰、盧雅雯、賴昱維、曾麒龍、徐維良、施彥丞、鄧欣一、蕭丞皓、張皓智、吳政億、莊梓昱、楊惠馨、馬聖翔、林煥湫、馮嘉毅、蘇宇平、黃竣暘、羅永鴻、曾偉誠",
     "time": "R5678-YX216[YM]"
   },
@@ -2563,7 +2563,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "楊智傑、鄭彥甫、林惠菁、丁乾坤、陳世彬、張婷婷、陳志強、張榮偉、高正彥、侯珮珊、賴峻毅、任一安",
     "time": "Sc-YT205[YM]"
   },
@@ -3670,18 +3670,6 @@
     "reg_num": "0",
     "teacher": "雷燕萍",
     "time": "F34-YN416[YM]"
-  },
-  "1132_111815": {
-    "code": "NSDN20015",
-    "credit": "2.00",
-    "hours": "8.50",
-    "id": "111815",
-    "memo": "",
-    "name": "手術全期護理學實習 Perioperative Nursing Practicum",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "黃淑鶴、吳慧雯",
-    "time": "MabWab-YN416[YM]"
   },
   "1132_111816": {
     "code": "NSDN10001",
@@ -6487,7 +6475,7 @@
     "memo": "請參照PBL整合課程行事曆【合班：醫四A、醫四B、醫四A(B組)】",
     "name": "藥理學 Pharmacology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "嚴錦城、李新城、王湘翠、黃自強、兵岳忻、陳斯婷、張豫立、陳聿歆",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
@@ -6595,7 +6583,7 @@
     "memo": "",
     "name": "病理學 Pathology",
     "num_limit": "145",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "杭仁釩、李芬瑤、許志怡、王蕾琪、林士堯、楊靜芬、張富邦、劉雯玲",
     "time": "T5678-YT002[YM]"
   },
@@ -6619,7 +6607,7 @@
     "memo": "",
     "name": "病理學實驗 Pathology Laboratory",
     "num_limit": "145",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "杭仁釩、李芬瑤、劉雯玲",
     "time": "T5678-YT002[YM]"
   },
@@ -6715,7 +6703,7 @@
     "memo": "限醫學系四年級, 請參照PBL整合課程行事曆",
     "name": "外科學概論 Basic Surgery",
     "num_limit": "149",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "張世慶、蔡宜芳、王心儀、藍苑慈、王鑑瀛、陳正彥、林釀呈、林宏鑫、陳世欽、黃國宏",
     "time": "M12345678T34W1234R1234F12345678-YT002[YM]"
   },
@@ -9072,13 +9060,13 @@
     "time": "R567-YL845[YM]"
   },
   "1132_131102": {
-    "code": "MDBS30053",
-    "credit": "2.00",
-    "hours": "2.00",
+    "code": "MDBS30033",
+    "credit": "3.00",
+    "hours": "3.00",
     "id": "131102",
     "memo": "碩、博士班均可，開放隨班附讀",
-    "name": "睡眠生理訊號判讀 Qualitative and Quantitative Methods for Sleep Scoring",
-    "num_limit": "10",
+    "name": "腦科學概論 Brain Science",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "鄭菡若、陳麗芬、楊定一、楊靜修、盧俊良、蔡金吾、楊智傑、李怡慧、洪成志",
     "time": "T234-YL402[YM]"
@@ -9118,18 +9106,6 @@
     "reg_num": "0",
     "teacher": "蔡金吾",
     "time": "R34-YL837[YM]"
-  },
-  "1132_131106": {
-    "code": "MDBS30053",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "131106",
-    "memo": "",
-    "name": "睡眠生理訊號判讀 Qualitative and Quantitative Methods for Sleep Scoring",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "蔡欣融、蔡世仁",
-    "time": "M78-YL845[YM]"
   },
   "1132_131107": {
     "code": "MDBS30007",
@@ -10060,7 +10036,7 @@
     "credit": "3.00",
     "hours": "8.00",
     "id": "131801",
-    "memo": "",
+    "memo": "先修課程為社區健康評估與計畫實習。",
     "name": "社區健康創新實踐與評值實習 Practice in Community Innovative Health and Evaluation",
     "num_limit": "9999",
     "reg_num": "0",
@@ -10072,7 +10048,7 @@
     "credit": "3.00",
     "hours": "8.00",
     "id": "131802",
-    "memo": "",
+    "memo": "先修課程為進階社區護理學實習(一)。",
     "name": "進階社區護理學實習(二) Advanced Community Nursing Practice (II)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -10156,7 +10132,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "131809",
-    "memo": "",
+    "memo": "先修課程為進階社區護理學(一)。",
     "name": "進階社區護理學(二) Practice of Advanced Nursing  in Community",
     "num_limit": "9999",
     "reg_num": "0",
@@ -10168,7 +10144,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "131810",
-    "memo": "",
+    "memo": "先修課程為社區健康評估與計畫。",
     "name": "社區健康創新實踐與評值 Community Innovative Health and Evaluation",
     "num_limit": "9999",
     "reg_num": "0",
@@ -16122,7 +16098,7 @@
     "id": "310101",
     "memo": "",
     "name": "文化行動與傳播 Cultural Activism",
-    "num_limit": "35",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "戴瑜慧",
     "time": "R567-HK104[LJ]"
@@ -21763,7 +21739,7 @@
     "memo": "限大一選修，理學院科學學士學位學程學生優先。",
     "name": "基礎科學研究方法與實作(二) Introduction to Scientific Research and Implementation(II)",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "黃立心、陳智彥、薛名成",
     "time": "F789-SC106[GF]"
   },
@@ -21775,7 +21751,7 @@
     "memo": "限大二以上選修，理學院科學學士學位學程學生優先。",
     "name": "基礎科學研究方法與實作(四) Introduction to Scientific Research and Implementation(IV)",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "薛名成、陳智彥、黃立心",
     "time": "F789-SC106[GF]"
   },
@@ -25734,7 +25710,7 @@
     "id": "535214",
     "memo": "",
     "name": "三維積體電路 3D Integrated Circuits",
-    "num_limit": "120",
+    "num_limit": "100",
     "reg_num": "0",
     "teacher": "陳冠能",
     "time": "F34n-ED116[GF]"
@@ -33352,7 +33328,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561037",
-    "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設核心社會,欲採計核心自然請至通識中心書面申請。[English Medium Course]",
+    "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制通識)核心社會,欲採計核心自然請至通識中心書面申請。[English Medium Course]",
     "name": "普通心理學 General Psychology",
     "num_limit": "60",
     "reg_num": "0",
@@ -33364,7 +33340,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561038",
-    "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設核心社會,欲採計核心自然請至通識中心書面申請。",
+    "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制通識)核心社會,欲採計核心自然請至通識中心書面申請。",
     "name": "普通心理學 General Psychology",
     "num_limit": "60",
     "reg_num": "0",
@@ -33376,7 +33352,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561039",
-    "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設核心社會,欲採計核心自然請至通識中心書面申請。",
+    "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制通識)核心社會,欲採計核心自然請至通識中心書面申請。",
     "name": "普通心理學 General Psychology",
     "num_limit": "50",
     "reg_num": "0",
@@ -33664,7 +33640,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561063",
-    "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀2.選課系統預設(舊制)核心社會,欲採計核心自然請至通識中心書面申請。",
+    "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀2.選課系統預設(舊制通識)核心社會,欲採計核心自然請至通識中心書面申請。",
     "name": "普通心理學 General Psychology",
     "num_limit": "60",
     "reg_num": "0",
@@ -37711,7 +37687,7 @@
     "memo": "半導體系(固態組)",
     "name": "物理實驗(二) Physics Lab. (II)",
     "num_limit": "56",
-    "reg_num": "40",
+    "reg_num": "44",
     "teacher": "杜建明、謝東儒",
     "time": "W234-SA014[GF]"
   },
@@ -37795,7 +37771,7 @@
     "memo": "",
     "name": "化學(二) Chemistry (II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "23",
     "teacher": "黃立心",
     "time": "M56W9-SC109[GF]"
   },
@@ -37843,7 +37819,7 @@
     "memo": "",
     "name": "化學(二) Chemistry (II)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "李大偉",
     "time": "M12-SC151[GF]"
   },
@@ -37879,7 +37855,7 @@
     "memo": "",
     "name": "化學實驗(二)  Chemistry Labs. (II)",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "黃立心",
     "time": "T234-SB119[GF]"
   },
@@ -38932,7 +38908,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "638401",
-    "memo": "[English Medium Course]",
+    "memo": "",
     "name": "傅氏光學 Fourier Optics",
     "num_limit": "9999",
     "reg_num": "0",
@@ -44478,7 +44454,7 @@
     "id": "960003",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－國際情勢 All-out Defense Education Military Training-International Situations",
-    "num_limit": "36",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "張郁青",
     "time": "W34-A104[GF]"
@@ -44490,7 +44466,7 @@
     "id": "960004",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－國際情勢 All-out Defense Education Military Training-International Situations",
-    "num_limit": "36",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "張郁青",
     "time": "W56-A104[GF]"

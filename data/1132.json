@@ -6570,7 +6570,7 @@
     "id": "113301",
     "memo": "",
     "name": "寄生蟲學實驗 Parasitology Lab.",
-    "num_limit": "200",
+    "num_limit": "150",
     "reg_num": "130",
     "teacher": "嵇達德、廖皎君",
     "time": "M78-YEC211[YM]"
@@ -6608,7 +6608,7 @@
     "name": "細胞診斷學 Diagnostic Cytology",
     "num_limit": "45",
     "reg_num": "42",
-    "teacher": "杭仁釩、郭盈汝、林士傑",
+    "teacher": "杭仁釩、郭盈汝、林士傑、林宇勛",
     "time": "R5-YT305[YM]"
   },
   "1132_113402": {
@@ -7700,7 +7700,7 @@
     "name": "生物統計與資料科學實證討論(碩) Seminars in Biostatistics and Data Science (Master)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "郭炤裕、林明薇、林逸芬、陳瓊梅、黃秀萱",
+    "teacher": "郭炤裕、林明薇、林逸芬、陳瓊梅",
     "time": "R56-YN511[YM]"
   },
   "1132_130216": {
@@ -9908,7 +9908,7 @@
     "name": "進階婦兒科護理學(二) Advanced Maternity and Pediatric Nursing (II)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃久美、蔡慈儀、陳紀雯、劉佩青、穆佩芬、馮容莊",
+    "teacher": "黃久美、蔡慈儀、陳紀雯、劉佩青、穆佩芬",
     "time": "T567-YN319[YM]"
   },
   "1132_131703": {
@@ -10856,7 +10856,7 @@
     "name": "生技醫學講座(二) Biotechnology and Biomedical Seminar (II)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃琤、涂玉青",
+    "teacher": "黃琤、涂玉青、王漢津、趙巧瑄",
     "time": "Tn-YB100[YM]"
   },
   "1132_132215": {
@@ -12980,7 +12980,7 @@
     "name": "生物統計與資料科學實證討論(博) Seminars in Biostatistics and Data Science (PhD)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "郭炤裕、林明薇、林逸芬、陳瓊梅、黃秀萱",
+    "teacher": "郭炤裕、林明薇、林逸芬、陳瓊梅",
     "time": "R56-YN511[YM]"
   },
   "1132_140203": {
@@ -19771,7 +19771,7 @@
     "memo": "[奈米科學組]",
     "name": "生涯規劃與導師時間 Career Planning and Mentor’s Hours",
     "num_limit": "25",
-    "reg_num": "0",
+    "reg_num": "22",
     "teacher": "梁美智",
     "time": "W78-EE132[GF]"
   },
@@ -19782,8 +19782,8 @@
     "id": "515203",
     "memo": "[固態電子組]",
     "name": "生涯規劃與導師時間 Career Planning and Mentor’s Hours",
-    "num_limit": "40",
-    "reg_num": "0",
+    "num_limit": "45",
+    "reg_num": "41",
     "teacher": "柯明道",
     "time": "W78-EE132[GF]"
   },
@@ -19795,7 +19795,7 @@
     "memo": "[固態組奈米組合班]",
     "name": "半導體科技-基礎服務學習 Semiconductor Technology-Foundational Service Learning",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "62",
     "teacher": "梁美智",
     "time": "Fab-"
   },
@@ -19807,7 +19807,7 @@
     "memo": "1年級。 [固態組奈米組合班]",
     "name": "線性代數 Linear Algebra",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "63",
     "teacher": "梁耕僑",
     "time": "M567-A302[GF]"
   },
@@ -19831,7 +19831,7 @@
     "memo": "2年級。[固態組奈米組合班]",
     "name": "電子學(二) ElectronicsⅡ",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "62",
     "teacher": "李義明",
     "time": "M78R34-EE132[GF]"
   },
@@ -19842,8 +19842,8 @@
     "id": "515208",
     "memo": "2年級。[固態組奈米組合班]",
     "name": "電磁學(二) Electromagnetism Ⅱ",
-    "num_limit": "70",
-    "reg_num": "0",
+    "num_limit": "65",
+    "reg_num": "62",
     "teacher": "許恒通",
     "time": "M56W34-EE209[GF]"
   },
@@ -19855,7 +19855,7 @@
     "memo": "2年級。上課地點為ED320。[固態電子組必修]",
     "name": "電子實驗(二) Electronics Lab.Ⅱ",
     "num_limit": "45",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "林容瑋、陳柏宏",
     "time": "Rabcd-"
   },
@@ -19867,7 +19867,7 @@
     "memo": "2年級。[固態組奈米組合班]",
     "name": "近代物理 Modern Physics",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "60",
     "teacher": "簡昭欣",
     "time": "T34W2-A302[GF]"
   },
@@ -19879,7 +19879,7 @@
     "memo": "2年級。[固態電子組必修]",
     "name": "機率與統計 Probability and Statistics",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "半導體系",
     "time": ""
   },
@@ -19891,7 +19891,7 @@
     "memo": "2年級。[奈米科學組必修]",
     "name": "生物化學(二) Biochemistry  Ⅱ",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "23",
     "teacher": "蘭宜錚",
     "time": "F34-EE548[GF]"
   },
@@ -19914,8 +19914,8 @@
     "id": "515214",
     "memo": "1.開3年級 [固態電子組必修] 。2.外系學生請紙本加簽，且需繳交材料費6000元。",
     "name": "半導體實驗 Semiconductor Lab.",
-    "num_limit": "35",
-    "reg_num": "0",
+    "num_limit": "45",
+    "reg_num": "40",
     "teacher": "李宗恩",
     "time": "M5678-EE210[GF]"
   },
@@ -19927,7 +19927,7 @@
     "memo": "3年級。[固態電子組必修]",
     "name": "固態物理(一) Solid State Physics I",
     "num_limit": "45",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "李宗恩",
     "time": "T34R4-EE210[GF]"
   },
@@ -19939,7 +19939,7 @@
     "memo": "3年級。[奈米科學組必修]",
     "name": "奈米科學與工程實驗 Nano science and engineering Lab.",
     "num_limit": "40",
-    "reg_num": "0",
+    "reg_num": "24",
     "teacher": "柯富祥、徐雍鎣、蘇冠暐、李孟學",
     "time": "M9ab-EEB42[GF]"
   },
@@ -23964,12 +23964,12 @@
     "time": "W34-HA217[GF]"
   },
   "1132_534012": {
-    "code": "HSIE30054",
+    "code": "HSIE30074",
     "credit": "2.00",
     "hours": "2.00",
     "id": "534012",
     "memo": "",
-    "name": "機器學習在教育上的應用 Machine Learning in Education",
+    "name": "進階神經影像資料分析 Advanced Neuroimaging Data Analysis",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "段正仁",
@@ -25007,6 +25007,18 @@
     "teacher": "待聘",
     "time": "T34n-HA105[GF]"
   },
+  "1132_534725": {
+    "code": "HSAR30077",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "534725",
+    "memo": "",
+    "name": "移地建築旅學 Oriented Architectural Travel",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "凌天",
+    "time": "W12-HA105[GF]"
+  },
   "1132_534800": {
     "code": "HSIM30003",
     "credit": "2.00",
@@ -25438,6 +25450,18 @@
     "reg_num": "0",
     "teacher": "李俊穎、辛幸純、李奉書、林慶俊、李珮琪、徐伯年、張先惠、林薏蕙、孫建如、黃郁婷、潘世洵、許佳穎、陳昱翰、謝孟軒",
     "time": "F1-HC605[GF]"
+  },
+  "1132_534836": {
+    "code": "HSIM30084",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "534836",
+    "memo": "",
+    "name": "竹韻音樂會實務二 Concert of IMU “Tunes of Bamboo”Ⅱ",
+    "num_limit": "14",
+    "reg_num": "0",
+    "teacher": "董昭民、曾毓忠、羅芳偉",
+    "time": "W9-HC501[GF]"
   },
   "1132_535000": {
     "code": "EEAC30001",
@@ -33839,18 +33863,6 @@
     "teacher": "郭詩芝",
     "time": "W12-A504[GF]"
   },
-  "1132_562003": {
-    "code": "GELT00020",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "562003",
-    "memo": "[English Medium Course]",
-    "name": "學術英文聽力與討論 Academic English Listening and Discussion",
-    "num_limit": "25",
-    "reg_num": "0",
-    "teacher": "鄭維容",
-    "time": "R12-A505[GF]"
-  },
   "1132_562004": {
     "code": "GELT00020",
     "credit": "2.00",
@@ -37903,7 +37915,7 @@
     "memo": "生物科技學系大一新生/本系生、中一中科學班、醫師工程師組優先，上限90人 通識校基本 通識跨院",
     "name": "普通生物學(二) General Biology (II)",
     "num_limit": "90",
-    "reg_num": "16",
+    "reg_num": "38",
     "teacher": "廖光文、曲在雯、何奕儒",
     "time": "Wn56-SA320[GF]"
   },
@@ -37915,7 +37927,7 @@
     "memo": "[English Medium Course]英文授課 生物科技學系大一新生及轉學生優先選課，上限70人 通識校基本 通識跨院",
     "name": "普通生物學(二) General Biology (II)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "31",
     "teacher": "趙啟宏",
     "time": "Wn56-SC106[GF]"
   },
@@ -37939,7 +37951,7 @@
     "memo": "生物科技學系大一、醫學系醫師工程師組",
     "name": "普通生物學實驗 General Biology Lab.",
     "num_limit": "47",
-    "reg_num": "10",
+    "reg_num": "44",
     "teacher": "陳文亮、黃兆祺、鄒協成、莊碧簪",
     "time": "R567-SC210[GF]"
   },
@@ -37951,7 +37963,7 @@
     "memo": "生物科技學系大一、醫學系醫師工程師組",
     "name": "普通生物學實驗 General Biology Lab.",
     "num_limit": "47",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "鄒協成、陳文亮、黃兆祺、莊碧簪",
     "time": "R567-SC212[GF]"
   },
@@ -38074,6 +38086,30 @@
     "reg_num": "0",
     "teacher": "余德彰",
     "time": "T5678-EA101[GF]"
+  },
+  "1132_571000": {
+    "code": "GESL00008",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "571000",
+    "memo": "上課教室於【光復】活動中心四樓會議室",
+    "name": "校務活動培訓與實作-基礎服務學習 The Practice training of Campus Activities - Foundational Service Learning",
+    "num_limit": "50",
+    "reg_num": "0",
+    "teacher": "游鳳芸",
+    "time": "W9-"
+  },
+  "1132_571001": {
+    "code": "GESL00012",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "571001",
+    "memo": "",
+    "name": "烘焙甜點與責任消費─服務學習二 Baking Practice and Responsible Consumption -Basic Service Learning",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "蕭智尹",
+    "time": "MnTn-"
   },
   "1132_574000": {
     "code": "GEIT10007",
@@ -39119,6 +39155,18 @@
     "teacher": "鄭協昌",
     "time": "R678-CM212[GR]"
   },
+  "1132_638603": {
+    "code": "PTIB30006",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "638603",
+    "memo": "",
+    "name": "生醫光電學 Biophotonics",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳怡君",
+    "time": "T234-CM215[GR]"
+  },
   "1132_639000": {
     "code": "AICA30005",
     "credit": "3.00",
@@ -39405,7 +39453,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "楊斯博、蘇海清",
-    "time": "T234-CM217[GR]"
+    "time": "Tabc-CM217[GR]"
   },
   "1132_650003": {
     "code": "PTDP30004",

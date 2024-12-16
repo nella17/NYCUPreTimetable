@@ -4015,7 +4015,7 @@
     "memo": "僅供四下未進行實習同學選課。",
     "name": "進階藥學研究(一) Advanced Pharmacy Practice Research (I) (Pharmacy Research, Clinical Pharmacy, Regulatory Affairs, Industrial Pharmacy, International Pharmacy)",
     "num_limit": "9999",
-    "reg_num": "3",
+    "reg_num": "4",
     "teacher": "陳惠亭、王孟廷、林滿玉、胡德民、陳日榮、林宥欣、姜紹青、東雅惠、蘇溶真、廖曉偉、陳謄州、黃世宗",
     "time": ""
   },
@@ -6428,7 +6428,7 @@
     "name": "離子通道分子物理學 Molecular Biophysics of Ion Channels",
     "num_limit": "15",
     "reg_num": "0",
-    "teacher": "陳政育",
+    "teacher": "陳政育、黃自強、葉翰宜、季康揚",
     "time": "TabRab-"
   },
   "1132_113001": {
@@ -6691,7 +6691,7 @@
     "memo": "公共衛生領域必修，限醫學系二年級(含)以上。醫學系醫師工程師組請至書田館106室上課。",
     "name": "生物統計學 Biostatistics",
     "num_limit": "150",
-    "reg_num": "141",
+    "reg_num": "140",
     "teacher": "郭炤裕",
     "time": "T34-YT003[YM]"
   },
@@ -7072,7 +7072,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "114001",
-    "memo": "",
+    "memo": "1.上課時間：16:00-18:00\n2.本課程採遠距授課。\n3.線上連結：https://meet.google.com/mft-gknd-fgc",
     "name": "高齡科技應用 Integrated Elderly Care and the Application of Technology",
     "num_limit": "30",
     "reg_num": "0",
@@ -7088,7 +7088,7 @@
     "name": "生理學專題討論A Seminar A",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "李怡萱",
+    "teacher": "李怡萱、陳政育、簡千栩、吳莉玲",
     "time": "M12-YR105[YM]"
   },
   "1132_130003": {
@@ -7124,7 +7124,7 @@
     "name": "生理學專題討論B Seminar B",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "林惠菁",
+    "teacher": "張原翊、陳政育、阮琪昌、林惠菁",
     "time": "M34-YR105[YM]"
   },
   "1132_130006": {
@@ -12861,7 +12861,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "范佩貞",
-    "time": "Mbc-YR102[YM]"
+    "time": "T56-YR102[YM]"
   },
   "1132_133507": {
     "code": "XDLC30039",
@@ -12872,7 +12872,7 @@
     "name": "認知功能障礙實證照護與應用 Evidence-Based Care and Application on Cognitive Impairment",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃子庭、孫秀卿、周承珍、林柳吟、鄭又升",
+    "teacher": "黃子庭、孫秀卿、莊宜芳、周承珍、黃秀梨、林柳吟、鄭又升",
     "time": "R34-YN109[YM]"
   },
   "1132_133508": {
@@ -12885,7 +12885,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳俊忠",
-    "time": "T34-YN109[YM]"
+    "time": "W56-YN109[YM]"
   },
   "1132_133600": {
     "code": "LSSL30008",
@@ -16591,7 +16591,7 @@
     "memo": "限112學年度以前入學學生選課",
     "name": "論文研究2 Thesis Writing2",
     "num_limit": "14",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "客家專班",
     "time": ""
   },
@@ -19884,14 +19884,14 @@
     "time": ""
   },
   "1132_515212": {
-    "code": "EEDM10009",
+    "code": "EEDM10008",
     "credit": "2.00",
     "hours": "2.00",
     "id": "515212",
     "memo": "2年級。[奈米科學組必修]",
-    "name": "生物化學(二) Biochemistry  Ⅱ",
+    "name": "生物化學(一) Biochemistry Ⅰ",
     "num_limit": "30",
-    "reg_num": "23",
+    "reg_num": "0",
     "teacher": "蘭宜錚",
     "time": "F34-EE548[GF]"
   },
@@ -20251,7 +20251,7 @@
     "memo": "主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1. 本系生優先權順序：1年級，4年級，3年級，2年級。2. 電子，應數系及管理學院不同意所屬學生採計通識學分。",
     "name": "離散數學 Discrete Mathematics",
     "num_limit": "85",
-    "reg_num": "0",
+    "reg_num": "67",
     "teacher": "楊武",
     "time": "M34R7-EC016[GF]"
   },
@@ -20263,7 +20263,7 @@
     "memo": "[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：1年級，4年級，3年級，2年級。2.電子，應數系及管理學院不同意所屬學生採計通識學分。",
     "name": "離散數學 Discrete Mathematics",
     "num_limit": "85",
-    "reg_num": "0",
+    "reg_num": "72",
     "teacher": "樓洋",
     "time": "M34R7-EC122[GF]"
   },
@@ -20275,7 +20275,7 @@
     "memo": "[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：1年級，4年級，3年級，2年級 。2.電子，應數系及管理學院不同意所屬學生採計通識學分。",
     "name": "離散數學 Discrete Mathematics",
     "num_limit": "85",
-    "reg_num": "0",
+    "reg_num": "58",
     "teacher": "嚴力行",
     "time": "M34R7-EC015[GF]"
   },
@@ -20287,7 +20287,7 @@
     "memo": "[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課 。1.本系生優先權順序：1年級，4年級，3年級，2年級。",
     "name": "數位電路設計 Digital Circuit Design",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "67",
     "teacher": "蔡淳仁",
     "time": "W34F7-EC016[GF]"
   },
@@ -20299,7 +20299,7 @@
     "memo": "主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課 。1.本系生優先權順序：1年級，4年級，3年級，2年級",
     "name": "數位電路設計 Digital Circuit Design",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "70",
     "teacher": "張明峰",
     "time": "W34F7-EC022[GF]"
   },
@@ -20311,7 +20311,7 @@
     "memo": "[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課 。1.本系生優先權順序：1年級，4年級，3年級，2年級。",
     "name": "數位電路設計 Digital Circuit Design",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "64",
     "teacher": "范倫達",
     "time": "W34F7-ED117[GF]"
   },
@@ -20323,7 +20323,7 @@
     "memo": "主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：1年級，4年級，3年級，2年級 。2.課程時段Rabc 上課教室：EC315、EC316、EC324。3.含線上同步課程(僅供陽明校區學生。詳細課程資訊請查看課程大綱)。",
     "name": "資料結構與物件導向程式設計 Data Structures and Object-oriented Programming",
     "num_limit": "90",
-    "reg_num": "0",
+    "reg_num": "68",
     "teacher": "黃春融",
     "time": "M56R2-EC122[GF],Rabc-EC315[GF],Rabc-EC316[GF],Rabc-EC324[GF]"
   },
@@ -20335,7 +20335,7 @@
     "memo": "[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：1年級，4年級，3年級，2年級 。2.課程時段Fabc 上課教室:EC315、EC316、EC324",
     "name": "資料結構與物件導向程式設計 Data Structures and Object-oriented Programming",
     "num_limit": "90",
-    "reg_num": "0",
+    "reg_num": "71",
     "teacher": "黃世強",
     "time": "M56R2-EC114[GF],Fabc-EC315[GF],Fabc-EC316[GF],Fabc-EC324[GF]"
   },
@@ -20347,7 +20347,7 @@
     "memo": "[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：1年級，4年級，3年級，2年級 。2.課程時段Tabc 上課教室：EC315、EC316、EC324。",
     "name": "資料結構與物件導向程式設計 Data Structures and Object-oriented Programming",
     "num_limit": "90",
-    "reg_num": "0",
+    "reg_num": "62",
     "teacher": "荊宇泰",
     "time": "Tabc-EC315[GF],Tabc-EC316[GF],Tabc-EC324[GF],M56R2-EDB27[GF]"
   },
@@ -20359,7 +20359,7 @@
     "memo": "[English Medium Course]主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "計算機組織 Computer Organization",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "54",
     "teacher": "張庭榕",
     "time": "T2R56-EC022[GF]"
   },
@@ -20371,7 +20371,7 @@
     "memo": "主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "計算機組織 Computer Organization",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "57",
     "teacher": "蔡文錦",
     "time": "T2R56-EC122[GF]"
   },
@@ -20383,7 +20383,7 @@
     "memo": "[English Medium Course]主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "計算機組織 Computer Organization",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "56",
     "teacher": "葉宗泰",
     "time": "T2R56-EC115[GF]"
   },
@@ -20575,7 +20575,7 @@
     "memo": "主開：2年級，資工系學生優先選課。本課程實際內容為『程式能力鑑定』考試，及格條件為通過任一次考試，除考試後及另訂定的助教輔導時間外，本課程無實體教學。",
     "name": "基礎程式設計 Basic Programming",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "197",
     "teacher": "吳凱強、洪瑞鴻、黃寗琪",
     "time": ""
   },
@@ -20623,7 +20623,7 @@
     "memo": "主開：一年級，其他年級請於第二階段選課初選。1.自101學年度起入學者，學士班一年級學生每學期必修『導師時間』（0學分），需通過2學期始得畢業。",
     "name": "生涯規劃及導師時間 Career Planning and Mentor of Hours",
     "num_limit": "218",
-    "reg_num": "0",
+    "reg_num": "201",
     "teacher": "張永儒",
     "time": "W78-EC114[GF],W78-EC122[GF]"
   },
@@ -20839,7 +20839,7 @@
     "memo": "一AB先預選。導師時間、性平課程",
     "name": "快樂機械人(二) Happy Mechanical Engineers (II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "97",
     "teacher": "黃正昇",
     "time": "W78-EE106[GF]"
   },
@@ -20851,7 +20851,7 @@
     "memo": "一AB先預選",
     "name": "服務學習(二) Service Learning II",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "97",
     "teacher": "黃正昇",
     "time": "T1-EE105[GF]"
   },
@@ -21466,18 +21466,6 @@
     "reg_num": "0",
     "teacher": "高明秀",
     "time": "Rn56-EB415[GF]"
-  },
-  "1132_516228": {
-    "code": "ENCV20002",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "516228",
-    "memo": "",
-    "name": "全球定位系統概論 Global Positioning System",
-    "num_limit": "100",
-    "reg_num": "0",
-    "teacher": "王成機",
-    "time": "F567-EB117[GF]"
   },
   "1132_516229": {
     "code": "ENCV20009",
@@ -22411,7 +22399,7 @@
     "memo": "",
     "name": "無機化學(二) Inorganic Chemistry (2)",
     "num_limit": "60",
-    "reg_num": "48",
+    "reg_num": "49",
     "teacher": "劉學儒",
     "time": "T34R2-SB211[GF]"
   },
@@ -22555,7 +22543,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限135人，得請授課教師簽准後可放寬至140人；管理基礎學分學程課程。",
     "name": "經濟學(二) Economics (II)",
     "num_limit": "135",
-    "reg_num": "0",
+    "reg_num": "128",
     "teacher": "郭家豪",
     "time": "W234-M101[GF]"
   },
@@ -22567,7 +22555,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限135人，得請授課教師簽准後可放寬至140人；管理基礎學分學程課程。",
     "name": "經濟學(二) Economics (II)",
     "num_limit": "135",
-    "reg_num": "0",
+    "reg_num": "134",
     "teacher": "黃星華",
     "time": "W234-M-b10[GF]"
   },
@@ -22579,7 +22567,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限125人，得請授課教師簽准後可放寬至130人；管理基礎學分學程課程。",
     "name": "會計學(二) Accounting (II)",
     "num_limit": "125",
-    "reg_num": "0",
+    "reg_num": "91",
     "teacher": "陳宗岡",
     "time": "M567-M-b10[GF]"
   },
@@ -22591,7 +22579,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限135人，得請授課教師簽准後可放寬至140人；管理基礎學分學程課程。授課方式：實地線上混合",
     "name": "會計學(二) Accounting (II)",
     "num_limit": "135",
-    "reg_num": "0",
+    "reg_num": "126",
     "teacher": "蔡璧徽",
     "time": "M567-M101[GF]"
   },
@@ -22603,7 +22591,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程。",
     "name": "會計學(二) Accounting (II)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "68",
     "teacher": "林瑞嘉",
     "time": "M567-M205[GF]"
   },
@@ -22615,7 +22603,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(2/10提供)，登記時間至開學上課第一週週三(2/19)下午四點截止，於當週四分發，逾時不候，因電腦教室座位數上限，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。",
     "name": "程式設計 Programming",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "48",
     "teacher": "吳浩庠",
     "time": "T567-M-b01[GF]"
   },
@@ -22627,7 +22615,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(2/10提供)，登記時間至開學上課第一週週三(2/19)下午四點截止，於當週四分發，逾時不候，因電腦教室座位數上限，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。",
     "name": "程式設計 Programming",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "59",
     "teacher": "莊詠婷",
     "time": "T567-MB415[GF]"
   },
@@ -22639,7 +22627,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(2/10提供)，登記時間至開學上課第一週週三(2/19)下午四點截止，於當週四分發，逾時不候，因電腦教室座位數上限，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。",
     "name": "程式設計 Programming",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "57",
     "teacher": "蔡詩妤",
     "time": "T567-MB210[GF]"
   },
@@ -22651,7 +22639,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限115人，得請授課教師簽准後可放寬至120人。",
     "name": "線性代數 Linear Algebra",
     "num_limit": "115",
-    "reg_num": "0",
+    "reg_num": "67",
     "teacher": "閻姿慧",
     "time": "R567-AB103[GF]"
   },
@@ -22663,7 +22651,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人。",
     "name": "線性代數 Linear Algebra",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "67",
     "teacher": "陳彥佑",
     "time": "R567-A316[GF]"
   },
@@ -22675,7 +22663,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限93人，得請授課教師簽准後可放寬至98人。",
     "name": "線性代數 Linear Algebra",
     "num_limit": "93",
-    "reg_num": "0",
+    "reg_num": "66",
     "teacher": "賴學儀",
     "time": "R567-MB520[GF]"
   },
@@ -22687,7 +22675,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限70人，得請授課教師簽准後可放寬至75人；管理基礎學分學程課程。",
     "name": "統計學(二) Statistics (II)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "61",
     "teacher": "巫佳煌",
     "time": "M234-A316[GF]"
   },
@@ -22699,7 +22687,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限70人，得請授課教師簽准後可放寬至75人；管理基礎學分學程課程。",
     "name": "統計學(二) Statistics (II)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "69",
     "teacher": "謝國文",
     "time": "M234-M101[GF]"
   },
@@ -22711,7 +22699,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限70人，得請授課教師簽准後可放寬至75人；管理基礎學分學程課程。",
     "name": "統計學(二) Statistics (II)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "71",
     "teacher": "董弘平",
     "time": "M234-MB520[GF]"
   },
@@ -22723,7 +22711,7 @@
     "memo": "[English Medium Course] 非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限70人，得請授課教師簽准後可放寬至75人；管理基礎學分學程課程；英文授課。",
     "name": "統計學(二) Statistics (II)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "75",
     "teacher": "鄧惠文",
     "time": "M234-M205[GF]"
   },
@@ -22735,7 +22723,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限88人，得請授課教師簽准後可放寬至93人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(2/10提供)；管理基礎學分學程課程。",
     "name": "作業研究(二) Operations Research (II)",
     "num_limit": "88",
-    "reg_num": "0",
+    "reg_num": "87",
     "teacher": "洪暉智",
     "time": "T234-MB520[GF]"
   },
@@ -22747,7 +22735,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限88人，得請授課教師簽准後可放寬至93人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(2/10提供)；管理基礎學分學程課程。",
     "name": "作業研究(二) Operations Research (II)",
     "num_limit": "88",
-    "reg_num": "0",
+    "reg_num": "76",
     "teacher": "王晉元",
     "time": "T234-AB101[GF]"
   },
@@ -22759,7 +22747,7 @@
     "memo": "[English Medium Course] 非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限20人，得請授課教師簽准後可放寬至25人；管理基礎學分學程課程；英文授課。",
     "name": "作業研究(二) Operations Research (II)",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "水敬心",
     "time": "T234-A316[GF]"
   },
@@ -22771,7 +22759,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程。",
     "name": "管理學 Management",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "65",
     "teacher": "黃瓊誼",
     "time": "T567-M-b10[GF]"
   },
@@ -22783,7 +22771,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程。",
     "name": "管理學 Management",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "64",
     "teacher": "蕭嬋",
     "time": "T567-F110[GF]"
   },
@@ -22795,7 +22783,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程。",
     "name": "管理學 Management",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "67",
     "teacher": "李昕潔",
     "time": "T567-AB101[GF]"
   },
@@ -22914,7 +22902,7 @@
     "id": "517208",
     "memo": "",
     "name": "運輸網路概論 Introductory Transportation Network",
-    "num_limit": "9999",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "盧宗成",
     "time": "R567-A905[GF]"
@@ -25041,7 +25029,7 @@
     "num_limit": "15",
     "reg_num": "0",
     "teacher": "羅芳偉",
-    "time": "M56-HC514[GF]"
+    "time": "W78-HC514[GF]"
   },
   "1132_534802": {
     "code": "HSIM30081",
@@ -25053,7 +25041,7 @@
     "num_limit": "15",
     "reg_num": "0",
     "teacher": "羅芳偉",
-    "time": "M78-HC514[GF]"
+    "time": "M56-HC514[GF]"
   },
   "1132_534803": {
     "code": "HSIM30016",
@@ -25101,7 +25089,7 @@
     "num_limit": "15",
     "reg_num": "0",
     "teacher": "董昭民",
-    "time": "W78-AD027[GF]"
+    "time": "T34-AD027[GF]"
   },
   "1132_534807": {
     "code": "HSIM30034",
@@ -26433,7 +26421,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "洪崇智",
-    "time": "T34R6-ED303[GF]"
+    "time": "T34R5-ED303[GF]"
   },
   "1132_535400": {
     "code": "EEEO30129",
@@ -29910,7 +29898,7 @@
     "id": "537301",
     "memo": "新竹校區開課",
     "name": "海空運與複合運輸最佳化 Maritime, Air and Intermodal Transportation",
-    "num_limit": "20",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "張宗勝",
     "time": "W234-A904[GF]"
@@ -35803,7 +35791,7 @@
     "memo": "1.綜合球館2樓\n2.第一階段開放選課系級：\n百川3\n機械3\n土木3\n資工 3\n電物3\n應數3\n外文3\n生科3\n奈米3",
     "name": "體育－網球甲 Tennis",
     "num_limit": "32",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "詹益欣",
     "time": "T56-PE[GF]"
   },
@@ -36091,7 +36079,7 @@
     "memo": "體育館B1體適能教室",
     "name": "體育－有氧舞蹈甲 Aerobic dance",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "巫慧萍",
     "time": "T78-PE[GF]"
   },
@@ -39288,13 +39276,13 @@
     "time": "F567-CM218[GR]"
   },
   "1132_639008": {
-    "code": "AICA30036",
+    "code": "AICA30037",
     "credit": "3.00",
     "hours": "3.00",
     "id": "639008",
     "memo": "[English Medium Course]",
-    "name": "概率與可信任機器學習 Probabilistic and Trustable Machine Learning",
-    "num_limit": "40",
+    "name": "可信任與節能機器學習 Trustworthy and Green Machine Learning",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "馬清文",
     "time": "T567-CM215[GR]"

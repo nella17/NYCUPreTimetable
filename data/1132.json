@@ -4471,7 +4471,7 @@
     "memo": "",
     "name": "專題研究(一) Independent Study I",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "0",
     "teacher": "醫工系、朱唯勤、駱俊良、李泉、蕭慶華、張智銘、李卓穎",
     "time": "Tn-YEA200[YM]"
   },
@@ -4614,7 +4614,7 @@
     "id": "112129",
     "memo": "為維持教學品質，限制修課人數",
     "name": "訊號與系統 Signals and Systems",
-    "num_limit": "23",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "朱唯勤",
     "time": "W567-YEA300[YM]"

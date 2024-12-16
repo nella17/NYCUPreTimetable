@@ -25615,7 +25615,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "423",
+    "reg_num": "418",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25951,7 +25951,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "118",
+    "reg_num": "117",
     "teacher": "網工所",
     "time": ""
   },
@@ -26143,7 +26143,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "131",
+    "reg_num": "129",
     "teacher": "數據所",
     "time": ""
   },

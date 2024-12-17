@@ -2264,8 +2264,8 @@
     "name": "實證醫學文獻評讀解析 Evidence-based medicine critical appraisal Skills",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "吳輔榮",
-    "time": ""
+    "teacher": "吳輔榮、朱哲生、許智揚、梁君安、陳俊宇、簡茹君",
+    "time": "T9-"
   },
   "1132_110184": {
     "code": "MDMD20234",
@@ -2289,7 +2289,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "吳輔榮",
-    "time": ""
+    "time": "W9a-"
   },
   "1132_110186": {
     "code": "MDMD20356",
@@ -3931,7 +3931,7 @@
     "memo": "初選限藥學系學生加選,若教室仍有空間容納,於加退選期間再開放外系加選。",
     "name": "有機化學(二) Organic Chemistry(II)",
     "num_limit": "45",
-    "reg_num": "26",
+    "reg_num": "27",
     "teacher": "蘇溶真、陳傳霖、陳惠亭",
     "time": "F12-YR105[YM]"
   },
@@ -5962,18 +5962,6 @@
     "reg_num": "40",
     "teacher": "李易展、莊惠燕、張御展",
     "time": "T56-YB458[YM]"
-  },
-  "1132_112345": {
-    "code": "BEIR30071",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "112345",
-    "memo": "",
-    "name": "超音波治療原理與應用 The Principle and Application of Therapeutic Ultrasound",
-    "num_limit": "50",
-    "reg_num": "0",
-    "teacher": "楊逢羿",
-    "time": ""
   },
   "1132_112346": {
     "code": "BEIR30005",
@@ -8420,7 +8408,7 @@
     "name": "公共衛生學 Introduction to Public Health",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "簡麗年、許銘能",
+    "teacher": "簡麗年、喬芷、蔡憶文、林文旭、藍凡耘、李玉春、吳肖琪、吳全峰、許銘能",
     "time": "R56-YN611[YM]"
   },
   "1132_130704": {
@@ -9450,7 +9438,7 @@
     "id": "131219",
     "memo": "[English Medium Course]",
     "name": "衛生研究的質性方法 Qualitative Methods for Health Research",
-    "num_limit": "9999",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "李韶芬",
     "time": "F56-YS405[YM]"
@@ -10291,7 +10279,7 @@
     "memo": "初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
     "name": "生藥暨中藥藥物學(二) Pharmacognosy and Traditional Chinese Pharmacology (II)",
     "num_limit": "40",
-    "reg_num": "28",
+    "reg_num": "29",
     "teacher": "陳日榮、廖家慶、朱益成",
     "time": "W78-YR101[YM]"
   },
@@ -10315,7 +10303,7 @@
     "memo": "大學部三年級為必修課；\n碩士班研究生需完成必選修四選一，以完成畢業學分門檻，可選擇之課程為下列四堂:  藥理學(二)、細胞生物學、轉譯生物藥學的實際應用、生物藥學特論",
     "name": "藥理學(二) Pharmacology (2)",
     "num_limit": "70",
-    "reg_num": "26",
+    "reg_num": "27",
     "teacher": "林滿玉、李新城、王湘翠、駱雨利、黃自強、張牧新、嚴錦城、黃世宗、楊志新、藍耿欣、沈郁強、李沛璋",
     "time": "M56W56-YK533[YM]"
   },
@@ -10327,7 +10315,7 @@
     "memo": "初選限藥學系碩學生加選,若教室仍有空間容納,於加退選期間再開放外系加選。",
     "name": "藥物化學(二) Medicinal Chemistry (II)",
     "num_limit": "40",
-    "reg_num": "26",
+    "reg_num": "27",
     "teacher": "陳惠亭、陳傳霖、蘇溶真",
     "time": "F567-YR101[YM]"
   },
@@ -10351,7 +10339,7 @@
     "memo": "初選限藥學系碩學生加選,若教室仍有空間容納,於加退選期間再開放外系加選。",
     "name": "生物藥劑學 Biopharmaceutics",
     "num_limit": "70",
-    "reg_num": "26",
+    "reg_num": "27",
     "teacher": "胡德民、徐立峰",
     "time": "M234-YK533[YM]"
   },
@@ -13580,7 +13568,7 @@
     "name": "實證應用與轉譯 evidence application and translation",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳俞琪、孫秀卿、簡莉盈、童恒新、黃淑鶴、陳律言、張黎露、徐德福、林麗華",
+    "teacher": "陳俞琪、孫秀卿、簡莉盈、童恒新、黃淑鶴、陳律言、張黎露、徐德福、林麗華、楊淑華",
     "time": "F5678-YN419[YM]"
   },
   "1132_141502": {
@@ -13628,7 +13616,7 @@
     "name": "特定領域護理實習 Professional field nursing practice",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "孫秀卿",
+    "teacher": "孫秀卿、陳俞琪",
     "time": "W12345678-"
   },
   "1132_141601": {
@@ -14934,7 +14922,7 @@
     "id": "161029",
     "memo": "",
     "name": "人腦心智運作與歷程 introduction to cognitive neuroscience and its methodology",
-    "num_limit": "0",
+    "num_limit": "200",
     "reg_num": "0",
     "teacher": "郭文瑞",
     "time": "T12-YL403[YM]"
@@ -14982,7 +14970,7 @@
     "id": "161035",
     "memo": "",
     "name": "中國歷代戲曲選讀 Selections of Dramas in Verse",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "賈元圓",
     "time": "M12-YT103[YM]"
@@ -14994,7 +14982,7 @@
     "id": "161036",
     "memo": "",
     "name": "中國歷代戲曲選讀 Selections of Dramas in Verse",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "賈元圓",
     "time": "M34-YT103[YM]"
@@ -15006,7 +14994,7 @@
     "id": "161037",
     "memo": "",
     "name": "現代散文選讀 Selected Readings of Modern Chinese Prose",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "楊芮芳",
     "time": "T12-YT204[YM]"
@@ -15018,7 +15006,7 @@
     "id": "161038",
     "memo": "",
     "name": "當代歌曲與人生 Contemporary Songs and Life",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "楊芮芳",
     "time": "T34-YT204[YM]"
@@ -15030,7 +15018,7 @@
     "id": "161039",
     "memo": "",
     "name": "中國文明的興起與轉型 The Rise and Transformation  of Chinese Civilization",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "洪德先",
     "time": "T12-YX503[YM]"
@@ -15042,7 +15030,7 @@
     "id": "161040",
     "memo": "",
     "name": "人際關係與溝通 Interpersonal Relations and Communication",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "彭懷恩",
     "time": "F34-YT204[YM]"
@@ -15054,7 +15042,7 @@
     "id": "161041",
     "memo": "",
     "name": "國際關係 International Relations",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "彭懷恩",
     "time": "F56-YT204[YM]"
@@ -15066,7 +15054,7 @@
     "id": "161042",
     "memo": "",
     "name": "日常生活、科技與社會 Technology and Everyday Life",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "秦先玉",
     "time": "R12-YT204[YM]"
@@ -15078,7 +15066,7 @@
     "id": "161043",
     "memo": "",
     "name": "日治時期臺灣文學與性別問題 Japanese Occupation of Taiwan Literature and Gender Issues",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "王敬翔",
     "time": "T12-YT305[YM]"
@@ -15090,7 +15078,7 @@
     "id": "161044",
     "memo": "[English Medium Course]",
     "name": "翻轉管理學 A Critical Understanding of Management",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "徐詩偉",
     "time": "F34-YT301[YM]"
@@ -15102,7 +15090,7 @@
     "id": "161045",
     "memo": "[English Medium Course]",
     "name": "翻轉管理學 A Critical Understanding of Management",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "徐詩偉",
     "time": "F56-YT301[YM]"
@@ -15114,7 +15102,7 @@
     "id": "161046",
     "memo": "",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "洪紹洋",
     "time": "F34-YX202[YM]"
@@ -15126,7 +15114,7 @@
     "id": "161047",
     "memo": "",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "徐詩偉",
     "time": "F78-YX202[YM]"
@@ -15138,7 +15126,7 @@
     "id": "161048",
     "memo": "",
     "name": "東南亞各國經濟、社會與文化 State Economics, Societies and Culture in Southeast Asia",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "林若雩",
     "time": "T12-YX501[YM]"
@@ -15150,7 +15138,7 @@
     "id": "161049",
     "memo": "",
     "name": "美國印太戰略與臺灣未來的角色 U.S. Indo-Pacific Strategy and Taiwan’s Future Role",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "林若雩",
     "time": "T34-YX501[YM]"
@@ -15162,7 +15150,7 @@
     "id": "161050",
     "memo": "",
     "name": "臺灣政治概論 Introduction to Taiwan Politics",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "彭立忠",
     "time": "R12-YX201[YM]"
@@ -15174,7 +15162,7 @@
     "id": "161051",
     "memo": "",
     "name": "法官說法-大學生必備的法學常識 What Every College Student Has to Know: Legal Common Knowledge-The Judges&#039; Version",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "張瑜鳳",
     "time": "T34-YT104[YM]"
@@ -15198,7 +15186,7 @@
     "id": "161053",
     "memo": "",
     "name": "永續治理 Governance for Sustenbility",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "李河清",
     "time": "R78-YX201[YM]"
@@ -15210,7 +15198,7 @@
     "id": "161054",
     "memo": "",
     "name": "智慧財產權導論 Introduction to intellectual property right",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "王世仁",
     "time": "T12-YX201[YM]"
@@ -15222,7 +15210,7 @@
     "id": "161055",
     "memo": "",
     "name": "社會發展的經濟分析 An Economic Analysis of Social Development",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "曾憲政",
     "time": "M78-YT206[YM]"
@@ -15234,7 +15222,7 @@
     "id": "161056",
     "memo": "",
     "name": "課．城市：走進唭哩岸 From Campus to City  : Walk Into Qilian",
-    "num_limit": "0",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "張立鴻、邱剛彥",
     "time": "R5678-YX202[YM]"
@@ -15501,7 +15489,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林介鵬、溫金豐、陳燕諭",
-    "time": "T234-TB305[BM]"
+    "time": "T234-TA506[BM]"
   },
   "1132_230003": {
     "code": "MGBM30078",
@@ -16486,6 +16474,18 @@
     "reg_num": "0",
     "teacher": "人社系",
     "time": ""
+  },
+  "1132_330009": {
+    "code": "HKEC20004",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "330009",
+    "memo": "",
+    "name": "近代東亞社集、群體與地域文化 Societies, Communities, and Regional Cultures in Early Modern East Asia",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "張藝曦",
+    "time": "W234-HK119[LJ]"
   },
   "1132_330100": {
     "code": "HKCT30013",
@@ -18729,7 +18729,7 @@
     "num_limit": "35",
     "reg_num": "0",
     "teacher": "林源倍",
-    "time": "F234-EE208[GF]"
+    "time": "F234-EE118[GF]"
   },
   "1132_515013": {
     "code": "EEEC10016",
@@ -19879,7 +19879,7 @@
     "memo": "2年級。[固態電子組必修]",
     "name": "機率與統計 Probability and Statistics",
     "num_limit": "60",
-    "reg_num": "38",
+    "reg_num": "0",
     "teacher": "半導體系",
     "time": ""
   },
@@ -19891,7 +19891,7 @@
     "memo": "2年級。[奈米科學組必修]",
     "name": "生物化學(一) Biochemistry Ⅰ",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "23",
     "teacher": "蘭宜錚",
     "time": "F34-EE548[GF]"
   },
@@ -21681,7 +21681,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "林御專",
-    "time": "T56-EF205[GF],R5-EF207[GF]"
+    "time": "M567-EF205[GF]"
   },
   "1132_516313": {
     "code": "ENMS20013",
@@ -22771,7 +22771,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程。",
     "name": "管理學 Management",
     "num_limit": "75",
-    "reg_num": "64",
+    "reg_num": "65",
     "teacher": "蕭嬋",
     "time": "T567-F110[GF]"
   },
@@ -22864,7 +22864,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517205",
-    "memo": "[English Medium Course]",
+    "memo": "",
     "name": "國際物流管理 Internation Logistics Management",
     "num_limit": "50",
     "reg_num": "0",
@@ -23128,10 +23128,10 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "517500",
-    "memo": "大一必修；限資財系學生學號尾數0,2,4,6,8修課(學號尾數1,3,5,7,9上學期修課)。本課程不開放同學自行選課，資財系大二以上同學若有修課需求，請洽資財系辦公室。",
+    "memo": "大一必修；限資財系學生學號尾數0,2,4,6,8修課(學號尾數1,3,5,7,9上學期修課)。不開放網路選課，資財系大二以上同學若有修課需求，請洽資財系辦公室。",
     "name": "高齡財務規劃與風險 Elderly Financial Planning and Risk",
     "num_limit": "0",
-    "reg_num": "0",
+    "reg_num": "20",
     "teacher": "黃星華",
     "time": "W56-M-b09[GF]"
   },
@@ -23143,7 +23143,7 @@
     "memo": "大一必修；限資財系學生選修。",
     "name": "生涯規劃與導師時間(二) Career Planning and Mentor's Hours (II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "郭家豪",
     "time": "W78-M-b09[GF]"
   },
@@ -23155,7 +23155,7 @@
     "memo": "大一必修；資財系優先選課；外系學生請於開學加退選階段上網選課。",
     "name": "資料結構 Data Structures",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "徐熊健",
     "time": "M9ab-M101[GF]"
   },
@@ -23167,7 +23167,7 @@
     "memo": "管院管理基礎課程；主開大二資財系，輔開管理學院、運管系、工管系。資財系大二、工管系大三必修。資財系限必修本課程。運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。管院學生優先選課。外院同學請於開學加退選階段上網選課。限大二以上學生修課。",
     "name": "資料庫管理 Database Management",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "林志偉",
     "time": "W234-MB312[GF]"
   },
@@ -23203,7 +23203,7 @@
     "memo": "大二必修；資財系優先選課。外系同學請於開學加退選階段上網選課。限大二以上學生修課。",
     "name": "投資學 Investments",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "51",
     "teacher": "李漢星",
     "time": "R234-M101[GF]"
   },
@@ -23215,7 +23215,7 @@
     "memo": "大二財金組必修；資財系優先選課。外系同學請於開學加退選階段上網選課。限大二以上學生修課。",
     "name": "總體經濟學 Macroeconomics",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "52",
     "teacher": "黃宜侯",
     "time": "T234-M-b09[GF]"
   },
@@ -23227,7 +23227,7 @@
     "memo": "大三財金組必修；資財系優先選課。外系同學請於開學加退選階段上網選課。限大三以上學生修課。應屆畢業生或重修生方能修習外系(校)課程抵免或免修本課程；本學期如欲修習外系(校)課程抵免或免修本課程，請於本學期加退選截止日前經由任課教師審核後，並送至資財系辦公室，逾期不受理。",
     "name": "財務報表分析 Financial Statement Analysis",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "葉銀華",
     "time": "M567-M-b09[GF]"
   },
@@ -23239,7 +23239,7 @@
     "memo": "資訊類課程；資財系優先選課。外系同學請於開學加退選階段上網選課。限大三以上學生修課。",
     "name": "系統分析與設計 System Analysis and Design",
     "num_limit": "35",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "陳耀宗",
     "time": "R234-M102[GF]"
   },
@@ -23251,7 +23251,7 @@
     "memo": "財金類課程；資財系優先選課。外系同學請於開學加退選階段上網選課。限大三以上學生修課。",
     "name": "財務工程導論 Introduction in Financial Engineering",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "戴天時",
     "time": "W234-M-b09[GF]"
   },
@@ -23263,7 +23263,7 @@
     "memo": "資財系必修；不開放網路選課。請依資財系專題程執行辦法規定修課。限資財系(含雙主修)學生選修。",
     "name": "資訊與財金專題(一) Projects in Information Management and Finance (I)",
     "num_limit": "0",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "資財系",
     "time": ""
   },
@@ -23275,7 +23275,7 @@
     "memo": "資財系必修；不開放網路選課。請依資財系專題程執行辦法規定修課。限資財系(含雙主修)學生選修。",
     "name": "資訊與財金專題(二) Projects in Information Management and Finance (II)",
     "num_limit": "0",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "資財系",
     "time": ""
   },
@@ -23284,7 +23284,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "517513",
-    "memo": "",
+    "memo": "金融科技跨域學程必修；不開放網路選課。限金融科技跨域學生選修。",
     "name": "金融科技跨領域專題(一) FinTech Cross-disciplinary Projects (I)",
     "num_limit": "0",
     "reg_num": "0",
@@ -24659,18 +24659,6 @@
     "teacher": "邱德亮",
     "time": "F567-F106A[GF]"
   },
-  "1132_534517": {
-    "code": "HSSC30037",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "534517",
-    "memo": "[English Medium Course]",
-    "name": "戰爭與媒介：歷史、技 術、文化 War and Media: History, Technique, Culture",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "楊子樵",
-    "time": "T567-HC101[GF]"
-  },
   "1132_534600": {
     "code": "HSIA30007",
     "credit": "3.00",
@@ -25101,7 +25089,7 @@
     "num_limit": "10",
     "reg_num": "0",
     "teacher": "曾毓忠",
-    "time": "W34-AD027[GF]"
+    "time": "R78-AD027[GF]"
   },
   "1132_534808": {
     "code": "HSIM30023",
@@ -26828,7 +26816,7 @@
     "name": "深度學習 Deep Learning",
     "num_limit": "75",
     "reg_num": "0",
-    "teacher": "彭文孝、陳永昇",
+    "teacher": "彭文孝、陳永昇、謝秉均",
     "time": "Rn56-EC114[GF]"
   },
   "1132_535508": {
@@ -26840,7 +26828,7 @@
     "name": "深度學習實驗 Deep Learning Labs",
     "num_limit": "0",
     "reg_num": "0",
-    "teacher": "彭文孝、陳永昇",
+    "teacher": "彭文孝、陳永昇、謝秉均",
     "time": "Tabc-EC114[GF]"
   },
   "1132_535509": {
@@ -26949,7 +26937,7 @@
     "num_limit": "25",
     "reg_num": "0",
     "teacher": "張明峰",
-    "time": "T34n-ED305[GF]"
+    "time": "T34n-EC114[GF]"
   },
   "1132_535518": {
     "code": "CSIC30018",
@@ -27534,7 +27522,7 @@
     "id": "535907",
     "memo": "[English Medium Course]限研究所學生選修",
     "name": "數位信號處理超大型積體電路 VLSI Digital Signal Processing",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "0",
     "teacher": "管延城",
     "time": "W34n-ED203[GF]"
@@ -28247,6 +28235,18 @@
     "teacher": "待聘",
     "time": "T56-EB117[GF]"
   },
+  "1132_536223": {
+    "code": "ENCV30059",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536223",
+    "memo": "",
+    "name": "訊號處理與頻譜分析 Signal Process and Spectral Analysis",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林子剛",
+    "time": "T234-EB415[GF]"
+  },
   "1132_536300": {
     "code": "ENMS30026",
     "credit": ".00",
@@ -28426,18 +28426,6 @@
     "reg_num": "0",
     "teacher": "張翼",
     "time": "M67R8-EF207[GF]"
-  },
-  "1132_536315": {
-    "code": "ENMS30068",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "536315",
-    "memo": "第一至第三階段限材料系、奈米所加選，開學後加退選開放外系或外校加選",
-    "name": "散射原理與應用於材料特性分析 The Principle of Scattering and Application in Materials",
-    "num_limit": "60",
-    "reg_num": "0",
-    "teacher": "鍾采甫",
-    "time": "R789-EF205[GF]"
   },
   "1132_536316": {
     "code": "ENMS30005",
@@ -43888,7 +43876,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910364",
-    "memo": "資工組，此課程由曾建超老師授課X週，上課地點：本校光復校區。其餘(16-X)週由張凱威老師授課，上課地點：國防大學理工學院。",
+    "memo": "資工組，此課程由曾建超老師授課3週，上課地點：本校光復校區。其餘(13~15)週由張凱威老師授課，上課地點：國防大學理工學院。",
     "name": "網路技術與實務(2) Network Technology and Practice(2)",
     "num_limit": "9999",
     "reg_num": "0",

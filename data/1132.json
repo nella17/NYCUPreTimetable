@@ -2672,7 +2672,7 @@
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "洪善鈴",
+    "teacher": "耿藝文",
     "time": "W34-YD214[YM]"
   },
   "1132_111503": {
@@ -2684,7 +2684,7 @@
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "林嘉澍",
+    "teacher": "張國威",
     "time": "W34-YD214[YM]"
   },
   "1132_111504": {
@@ -2708,7 +2708,7 @@
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "黎萬君",
+    "teacher": "王鼎涵",
     "time": "W34-YD214[YM]"
   },
   "1132_111506": {
@@ -2720,7 +2720,7 @@
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "陳恆理",
+    "teacher": "林怡君",
     "time": "W34-YD214[YM]"
   },
   "1132_111507": {
@@ -2732,7 +2732,7 @@
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "張景智",
+    "teacher": "林榮辰",
     "time": "W34-YD214[YM]"
   },
   "1132_111508": {
@@ -2756,7 +2756,7 @@
     "name": "導師時間(四) Class Meeting(IV)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "吳靜宜",
+    "teacher": "洪善鈴",
     "time": "W34-YD210[YM]"
   },
   "1132_111510": {
@@ -2768,7 +2768,7 @@
     "name": "導師時間(四) Class Meeting(IV)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "林元敏",
+    "teacher": "林嘉澍",
     "time": "W34-YD210[YM]"
   },
   "1132_111511": {
@@ -2780,7 +2780,7 @@
     "name": "導師時間(四) Class Meeting(IV)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "王敏靜",
+    "teacher": "黎萬君",
     "time": "W34-YD210[YM]"
   },
   "1132_111512": {
@@ -2792,7 +2792,7 @@
     "name": "導師時間(四) Class Meeting(IV)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "陳瓊芬",
+    "teacher": "張景智",
     "time": "W34-YD210[YM]"
   },
   "1132_111513": {
@@ -2804,7 +2804,7 @@
     "name": "導師時間(四) Class Meeting(IV)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "吳姿瑩",
+    "teacher": "陳翾",
     "time": "W34-YD210[YM]"
   },
   "1132_111514": {
@@ -2948,55 +2948,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "林姝君",
-    "time": "F9a-YD320[YM]"
-  },
-  "1132_111526": {
-    "code": "DEDE10020",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "111526",
-    "memo": "",
-    "name": "導師時間 Class Meeting",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "洪凱風",
-    "time": "F9a-YD320[YM]"
-  },
-  "1132_111527": {
-    "code": "DEDE10020",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "111527",
-    "memo": "",
-    "name": "導師時間 Class Meeting",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "羅正汎",
-    "time": "F9a-YD320[YM]"
-  },
-  "1132_111528": {
-    "code": "DEDE10020",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "111528",
-    "memo": "",
-    "name": "導師時間 Class Meeting",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "張婷菡",
-    "time": "F9a-YD320[YM]"
-  },
-  "1132_111529": {
-    "code": "DEDE10020",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "111529",
-    "memo": "",
-    "name": "導師時間 Class Meeting",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "林宥成",
+    "teacher": "吳靜宜、林元敏、吳姿瑩、王敏靜、陳瓊芬",
     "time": "F9a-YD320[YM]"
   },
   "1132_111530": {
@@ -3092,7 +3044,7 @@
     "name": "固定贋復學實驗 Fixed Prosthodontics Lab.",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "李士元、林元敏、王君伃、陳信宏、劉妍君",
+    "teacher": "李士元、陳翾、王君伃、陳信宏、劉妍君",
     "time": "W345678-YD202[YM]"
   },
   "1132_111538": {
@@ -3104,55 +3056,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "林怡彣",
-    "time": "W9a-YD105[YM]"
-  },
-  "1132_111539": {
-    "code": "DEDE10020",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "111539",
-    "memo": "",
-    "name": "導師時間 Class Meeting",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "張志麟",
-    "time": "W9a-YD105[YM]"
-  },
-  "1132_111540": {
-    "code": "DEDE10020",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "111540",
-    "memo": "",
-    "name": "導師時間 Class Meeting",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "季麟揚",
-    "time": "W9a-YD105[YM]"
-  },
-  "1132_111541": {
-    "code": "DEDE10020",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "111541",
-    "memo": "",
-    "name": "導師時間 Class Meeting",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "黃何雄",
-    "time": "W9a-YD105[YM]"
-  },
-  "1132_111542": {
-    "code": "DEDE10020",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "111542",
-    "memo": "",
-    "name": "導師時間 Class Meeting",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "涂曦丰",
+    "teacher": "林姝君、羅正汎、洪凱風、林宥成、張婷菡",
     "time": "W9a-YD105[YM]"
   },
   "1132_111543": {
@@ -3248,43 +3152,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "耿藝文",
-    "time": "T9a-YD105[YM]"
-  },
-  "1132_111551": {
-    "code": "DEDE10020",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "111551",
-    "memo": "",
-    "name": "導師時間 Class Meeting",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "李士元",
-    "time": "T9a-YD105[YM]"
-  },
-  "1132_111552": {
-    "code": "DEDE10020",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "111552",
-    "memo": "",
-    "name": "導師時間 Class Meeting",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "夏堪臺",
-    "time": "T9a-YD105[YM]"
-  },
-  "1132_111553": {
-    "code": "DEDE10020",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "111553",
-    "memo": "",
-    "name": "導師時間 Class Meeting",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "王鼎涵",
+    "teacher": "林怡彣、李士元、季麟揚、黃何雄、涂曦丰、張志麟",
     "time": "T9a-YD105[YM]"
   },
   "1132_111554": {
@@ -8409,7 +8277,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "簡麗年、喬芷、蔡憶文、林文旭、藍凡耘、李玉春、吳肖琪、吳全峰、許銘能",
-    "time": "R56-YN611[YM]"
+    "time": "R56-YN613[YM]"
   },
   "1132_130704": {
     "code": "MDHW30003",
@@ -10820,7 +10688,7 @@
     "name": "精準醫學導論 Introduction to Precision Medicine",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃智生",
+    "teacher": "黃智生、牛道明、蘇美慈、洪小雅、梁恭豪、何祥齡",
     "time": "T78-YT206[YM]"
   },
   "1132_132213": {
@@ -10860,15 +10728,15 @@
     "time": "M34-YT203[YM]"
   },
   "1132_132216": {
-    "code": "BEBL30023",
-    "credit": "2.00",
-    "hours": "2.00",
+    "code": "BEBL30036",
+    "credit": "1.00",
+    "hours": "1.00",
     "id": "132216",
     "memo": "上課週數9-16週",
     "name": "進階分子生物學 Advanced Molecular Biology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "蘇美慈、洪小雅",
+    "teacher": "蘇美慈、龔思豪、黃尉倫、洪小雅",
     "time": "R56-YB101[YM]"
   },
   "1132_132300": {
@@ -11888,7 +11756,7 @@
     "name": "神經生理學 Neurophysiology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "連正章、林士傑、鄭菡若",
+    "teacher": "連正章、鄭菡若",
     "time": "T56-YL839[YM]"
   },
   "1132_132709": {
@@ -14372,7 +14240,7 @@
     "name": "生醫創新與轉譯 Biomedical Innovation and Translation",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "鄧宗業",
+    "teacher": "鄧宗業、李佩淵",
     "time": "Fab-YN511[YM]"
   },
   "1132_150200": {
@@ -14959,7 +14827,7 @@
     "memo": "",
     "name": "國文 Literature of Chinese",
     "num_limit": "0",
-    "reg_num": "43",
+    "reg_num": "28",
     "teacher": "游均晶",
     "time": "R56-YK916[YM]"
   },
@@ -18211,7 +18079,7 @@
     "memo": "限外文系，計中電腦教室4",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "51",
     "teacher": "馬宏諭",
     "time": "F34-CS-PC4[GF]"
   },
@@ -18223,7 +18091,7 @@
     "memo": "A組,限外文系",
     "name": "實用翻譯A組 Practical Translation A",
     "num_limit": "27",
-    "reg_num": "0",
+    "reg_num": "26",
     "teacher": "吳煒聲",
     "time": "R56-HC402[GF]"
   },
@@ -18235,7 +18103,7 @@
     "memo": "B組,限外文系",
     "name": "實用翻譯B組 Practical Translation B",
     "num_limit": "27",
-    "reg_num": "0",
+    "reg_num": "25",
     "teacher": "陳韙寧",
     "time": "R56-F207[GF]"
   },
@@ -18247,7 +18115,7 @@
     "memo": "建議大一修習，其他年級依照自己需求彈性修課，共掛核心課程。",
     "name": "西洋文學概論(二) Introduction to Western Literature (2)",
     "num_limit": "65",
-    "reg_num": "0",
+    "reg_num": "51",
     "teacher": "李家沂",
     "time": "T234-F210[GF]"
   },
@@ -18259,7 +18127,7 @@
     "memo": "限外文系、語言學與人工智能學分學程",
     "name": "大一英文(二)  Freshman English (2)",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "51",
     "teacher": "周昭廷",
     "time": "W234-F210[GF]"
   },
@@ -18271,7 +18139,7 @@
     "memo": "A組,限外文系",
     "name": "英文作文(二) A組 English Composition (2) A",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "潘荷仙",
     "time": "M34-F322[GF]"
   },
@@ -18283,7 +18151,7 @@
     "memo": "B組,限外文系",
     "name": "英文作文(二) B組 English Composition (2) B",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "胡心瑜",
     "time": "M34-HC402[GF]"
   },
@@ -18295,7 +18163,7 @@
     "memo": "C組,限外文系",
     "name": "英文作文(二) C組 English Composition (2) C",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "18",
     "teacher": "楊雅筑",
     "time": "M34-HC401[GF]"
   },
@@ -18307,7 +18175,7 @@
     "memo": "[English Medium Course]華語教學學程、語言學與人工智能學分學程",
     "name": "語言學概論(二) Introduction to Linguistics (2)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "51",
     "teacher": "劉辰生",
     "time": "R34-F210[GF]"
   },
@@ -18319,7 +18187,7 @@
     "memo": "限外文系",
     "name": "服務學習(二) Service Learning (II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "51",
     "teacher": "盧郁安、楊雅筑、劉啟明",
     "time": ""
   },
@@ -18331,7 +18199,7 @@
     "memo": "限外文系",
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "51",
     "teacher": "楊雅筑",
     "time": "W78-"
   },
@@ -18343,7 +18211,7 @@
     "memo": "[English Medium Course],限外文系,建議大二修習，其他年級依照自己需求彈性修課。",
     "name": "英國文學(二) English Literature (2)",
     "num_limit": "65",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "辜崇豪",
     "time": "T567-F207[GF]"
   },
@@ -18355,7 +18223,7 @@
     "memo": "A組,限外文系",
     "name": "高級寫作(二) A組 Advanced Writing (2) A",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "15",
     "teacher": "劉啟明",
     "time": "W234-HB206[GF]"
   },
@@ -18367,7 +18235,7 @@
     "memo": "B組,限外文系",
     "name": "高級寫作(二) B組 Advanced Writing (2) B",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "15",
     "teacher": "吳哲硯",
     "time": "R234-HB203[GF]"
   },
@@ -18379,7 +18247,7 @@
     "memo": "C組,限外文系",
     "name": "高級寫作(二) C組 Advanced Writing (2) C",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "15",
     "teacher": "林建國",
     "time": "W234-HC402[GF]"
   },
@@ -18499,7 +18367,7 @@
     "memo": "[English Medium Course]A組,限外文系",
     "name": "傳達技巧工作坊(二) ：演說技巧A組 Communicative Skills Workshop(2): Public Speaking and Presentation Skills A",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "葛家榮",
     "time": "T567-HB206[GF]"
   },
@@ -18511,7 +18379,7 @@
     "memo": "B組,限外文系",
     "name": "傳達技巧工作坊(二) ：演說技巧B組 Communicative Skills Workshop(2): Public Speaking and Presentation Skills B",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "劉啟明",
     "time": "T567-HC401[GF]"
   },
@@ -18523,7 +18391,7 @@
     "memo": "C組,限外文系",
     "name": "傳達技巧工作坊(二) ：演說技巧C組 Communicative Skills Workshop(2): Public Speaking and Presentation Skills C",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "18",
     "teacher": "朱品璇",
     "time": "T567-HB203[GF]"
   },
@@ -19879,7 +19747,7 @@
     "memo": "2年級。上課地點為ED320。[固態電子組必修]",
     "name": "電子實驗(二) Electronics Lab.Ⅱ",
     "num_limit": "45",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "林容瑋、陳柏宏",
     "time": "Rabcd-"
   },
@@ -22963,7 +22831,7 @@
     "memo": "管院管理基礎課程；主開大三管科系，輔開管理學院、工管系、運管系、資財系；管科系大三必修。\n工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修；運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。管院學生優先選課。上限55人。限大三、大四學生修習。大三管科系雙主修、管科系輔系及大四生優先。",
     "name": "人力資源管理 Human Resource Management",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "50",
     "teacher": "高國揚",
     "time": "T567-M205[GF]"
   },
@@ -22975,7 +22843,7 @@
     "memo": "管院管理基礎課程；主開大二管科系，輔開管理學院、工管系、運管系、資財系。大二管科系必修。工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修；運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。限管院大二及大四學生選課。上限80人。",
     "name": "行銷學 Principles of Marketing",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "43",
     "teacher": "欒紀成",
     "time": "W234-M205[GF]"
   },
@@ -22987,7 +22855,7 @@
     "memo": "管科系大一必修課程。開學第一次上課時間為Wa。",
     "name": "服務學習(一) Service Learning I",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "吳浩庠",
     "time": ""
   },
@@ -22999,7 +22867,7 @@
     "memo": "管科系大一必修課程。",
     "name": "導師時間與生涯規劃 Mentor's Hours and Career Planning",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "管科系",
     "time": "W78-M301[GF]"
   },
@@ -28264,7 +28132,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "536223",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "訊號處理與頻譜分析 Signal Process and Spectral Analysis",
     "num_limit": "9999",
     "reg_num": "0",
@@ -29662,6 +29530,18 @@
     "reg_num": "0",
     "teacher": "陳宗岡",
     "time": "R9ab-"
+  },
+  "1132_537022": {
+    "code": "MGMS30140",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "537022",
+    "memo": "",
+    "name": "智慧審計新時代-數位浪潮、永續趨勢與AI的大數據應用 The New Age of Intelligent Audit- Digital Wave, Sustainable Trends and Big Data Application of AI",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "T34n-M301[GF]"
   },
   "1132_537150": {
     "code": "MGBA30016",
@@ -32937,7 +32817,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "黃仕斌、鍾惠民、張家齊、蔡有光、劉興成",
-    "time": ""
+    "time": "Sabc-"
   },
   "1132_559005": {
     "code": "MGME30011",
@@ -32949,7 +32829,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "EMBA",
-    "time": ""
+    "time": "Uabc-"
   },
   "1132_559006": {
     "code": "MGME30036",
@@ -37939,7 +37819,7 @@
     "memo": "生物科技學系大一新生/本系生、中一中科學班、醫師工程師組優先，上限90人 通識校基本 通識跨院",
     "name": "普通生物學(二) General Biology (II)",
     "num_limit": "90",
-    "reg_num": "42",
+    "reg_num": "43",
     "teacher": "廖光文、曲在雯、何奕儒",
     "time": "Wn56-SA320[GF]"
   },
@@ -38865,7 +38745,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "待聘",
-    "time": "M89-HA216[GF]"
+    "time": "F34-A303[GF]"
   },
   "1132_638001": {
     "code": "PTCP30004",

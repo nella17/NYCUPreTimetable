@@ -59,6 +59,42 @@
     "teacher": "黃禮珊",
     "time": "M4W34-"
   },
+  "1132_030006": {
+    "code": "IADI00322",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030006",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，清大人社B302A，11320CL570900",
+    "name": "性／別與殖民現代性 Gender/sexuality and colonial Modernities",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "劉人鵬",
+    "time": "W234-"
+  },
+  "1132_030007": {
+    "code": "IADI00073",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030007",
+    "memo": "中央大學文學二館C2-102，請參考下方連結檔案P5-P13，https://pdc.adm.ncu.edu.tw/Course/other/CCOP_1.pdf，建立中央的NetID(臨時學號)及個人基本資料。EL5000",
+    "name": "論文寫作與研究方法 Thesis Writing and Methodology",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "吳慧娟",
+    "time": "Rn567-"
+  },
+  "1132_030008": {
+    "code": "IADI00323",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030008",
+    "memo": "中央大學文學二館C2-206，請參考下方連結檔案P5-P13，https://pdc.adm.ncu.edu.tw/Course/other/CCOP_1.pdf，建立中央的NetID(臨時學號)及個人基本資料。AR6063",
+    "name": "台灣當代藝術專題 Seminar：Contemporary Art in Taiwan",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "王聖閎",
+    "time": "R5678-"
+  },
   "1132_110000": {
     "code": "MDMD10034",
     "credit": "1.00",
@@ -2216,8 +2252,8 @@
     "name": "國家考試複習課程 Medical writing exam review course",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳彥如",
-    "time": ""
+    "teacher": "陳彥如、周佳滿、林明志、黃勝揚、程遠揚、周建志、陳逸群、張瑞君、阮昭奎、黃永杰、林玟君、李柏昕、林宇力、黃儀倢、胡如娟、廖年晨",
+    "time": "W9a-"
   },
   "1132_110180": {
     "code": "MDMD20248",
@@ -2228,8 +2264,8 @@
     "name": "進階臨床核心課程(二) Advanced Clinical Skills(II)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "賴慧卿",
-    "time": ""
+    "teacher": "賴慧卿、劉時安、梁凱莉、王俊興、林嘉彥、徐佳鈿、林明志、沈靜慧、沈宜靜、譚國棟、閻忠揚、黃彥翔、王勁傑、許斯淵、傅家保、阮昭奎、林玟君、吳尚儒、林俊呈、廖年晨",
+    "time": "R9a-"
   },
   "1132_110181": {
     "code": "MDMD20002",
@@ -3332,7 +3368,7 @@
     "name": "牙科生物醫學基礎 Introduction to Research Methods in Oral Medicine",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "林嘉澍、吳靜宜、王鼎涵、林宥成、張婷菡",
+    "teacher": "林嘉澍、吳靜宜、王鼎涵、林宥成、陳翾、張婷菡",
     "time": "M2-YD320[YM]"
   },
   "1132_111569": {
@@ -6080,7 +6116,7 @@
     "name": "科學文獻研讀與分析(下) Scientific literature reading and analysis II",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "俞震亞、陳虹如",
+    "teacher": "俞震亞、陳嘉霖、陳虹如、翁雨蕙",
     "time": "W34-YK533[YM]"
   },
   "1132_112512": {
@@ -6092,7 +6128,7 @@
     "name": "科學文獻研讀與分析(下) Scientific literature reading and analysis II",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "翁雨蕙、陳嘉霖",
+    "teacher": "翁雨蕙、俞震亞、陳嘉霖、陳虹如",
     "time": "F56-YK101[YM]"
   },
   "1132_112513": {
@@ -6760,7 +6796,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113815",
-    "memo": "醫學系與智慧健康照護跨域學程可認列醫學人文與倫理領域-醫學人文類，但僅能在醫學人文與倫理領域與通識領域課程學分中擇一計算，若欲計算通識學分，請至領域課程中選修本課。",
+    "memo": "本課程上課地點為陽明校區，開放陽明校區大學部學生選課，並認列為領域課程(通識)。醫學系與智慧健康照護跨域學程可認列為\"醫學人文與倫理領域-醫學人文類\"，但僅能在\"醫學人文與倫理領域\"與\"通識領域\"學分中擇一計算，若欲計算通識學分，請至領域課程中選修本課。",
     "name": "如果心理健康是重要的 Mental Health Matters",
     "num_limit": "25",
     "reg_num": "-999",
@@ -7136,7 +7172,7 @@
     "name": "細胞生物學 Cell Biology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李新城、游麗如、傅淑玲、葉添順、李怡萱、林惠菁、王湘翠、林東毅、兵岳忻",
+    "teacher": "李新城、游麗如、傅淑玲、葉添順、王湘翠、林東毅、兵岳忻、陳斯婷",
     "time": "R78-YR101[YM]"
   },
   "1132_130105": {
@@ -9066,10 +9102,22 @@
     "id": "131115",
     "memo": "一次上課3小時,隔週上課,課程上滿18小時即結束",
     "name": "前庭系統的生理與評估 Physiology and Assessment of Vestibular System",
-    "num_limit": "9999",
+    "num_limit": "8",
     "reg_num": "-999",
     "teacher": "李國熙",
     "time": "R567-YL824[YM]"
+  },
+  "1132_131116": {
+    "code": "MDBS30038",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "131116",
+    "memo": "",
+    "name": "論文寫作與實務 Academic Writing and Presentation",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "蔡金吾",
+    "time": "W1-YL839[YM]"
   },
   "1132_131200": {
     "code": "MDIH30065",
@@ -10712,7 +10760,7 @@
     "name": "生技醫學講座(二) Biotechnology and Biomedical Seminar (II)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黃琤、涂玉青、林崇智、王皓青、王漢津、趙巧瑄",
+    "teacher": "黃琤、涂玉青、林崇智、王皓青、劉慧康、王漢津、趙巧瑄",
     "time": "Tn-YB100[YM]"
   },
   "1132_132215": {
@@ -11204,7 +11252,7 @@
     "name": "程式設計 Programming Design",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳博因、游忠煌",
+    "teacher": "陳博因、游忠煌、鄭穎淳、陳宏儒",
     "time": "W234-YB424[YM]"
   },
   "1132_132501": {
@@ -11805,7 +11853,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "郭文瑞、尼大衛",
-    "time": "M567-YL823[YM]"
+    "time": "M234-YL823[YM]"
   },
   "1132_132800": {
     "code": "LSMI30047",
@@ -12460,7 +12508,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "133104",
-    "memo": "[English Medium Course]",
+    "memo": "1. [English Medium Course]\n2. 本課程僅實體上課(陽明校區)",
     "name": "意識研究(二) Consciousness Studies II",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -13496,7 +13544,7 @@
     "name": "進階護理照護實習 Advanced Practicum in Nursing",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "孫秀卿、陳俞琪",
+    "teacher": "孫秀卿",
     "time": "W12345678-"
   },
   "1132_141505": {
@@ -14433,7 +14481,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "江惠華",
-    "time": "S7U7-YR105[YM]"
+    "time": "S9-YR105[YM]"
   },
   "1132_150302": {
     "code": "LSMB30017",
@@ -16126,18 +16174,6 @@
     "reg_num": "-999",
     "teacher": "俞蘋",
     "time": "R567-HKB08[LJ]"
-  },
-  "1132_310112": {
-    "code": "HKCT10025",
-    "credit": "2.00",
-    "hours": "1.00",
-    "id": "310112",
-    "memo": "",
-    "name": "媒體實習（上） Media Internship (I)",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "魏玓",
-    "time": "R8-HKB08[LJ]"
   },
   "1132_310113": {
     "code": "HKCT10013",
@@ -23154,7 +23190,7 @@
     "id": "517506",
     "memo": "大二必修；資財系優先選課。外系同學請於開學加退選階段上網選課。限大二以上學生修課。",
     "name": "投資學 Investments",
-    "num_limit": "80",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "李漢星",
     "time": "R234-M101[GF]"
@@ -23240,7 +23276,7 @@
     "name": "金融科技跨領域專題(一) FinTech Cross-disciplinary Projects (I)",
     "num_limit": "0",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "資財系",
     "time": ""
   },
   "1132_519500": {
@@ -23505,7 +23541,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "陳永富",
-    "time": "M9F23-SC152[GF]"
+    "time": "M9F34-SC152[GF]"
   },
   "1132_520007": {
     "code": "XDEP20003",
@@ -23550,7 +23586,7 @@
     "id": "520011",
     "memo": "",
     "name": "專題討論 Seminar",
-    "num_limit": "60",
+    "num_limit": "100",
     "reg_num": "-999",
     "teacher": "待聘",
     "time": "Tn-SA321[GF]"
@@ -24080,7 +24116,7 @@
     "name": "語言學與人工智能：基礎概念與實作 Linguistics and Artificial Intelligence: Basic Concepts and Implementation",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "王文傑",
     "time": "W234-HC102[GF]"
   },
   "1132_534108": {
@@ -25470,7 +25506,7 @@
     "id": "535106",
     "memo": "",
     "name": "生成式人工智慧 Generative Artificial Intelligence",
-    "num_limit": "80",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "帥宏翰",
     "time": "T567-EE105[GF]"
@@ -28294,18 +28330,6 @@
     "reg_num": "-999",
     "teacher": "羅友杰",
     "time": "T678-EF207[GF]"
-  },
-  "1132_536308": {
-    "code": "ENMS30021",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "536308",
-    "memo": "第一至第三階段限材料系、奈米所、前瞻半導體研究所加選，開學後加退選期間開放外系或外校加選",
-    "name": "微電子積體電路製程 VLSI Manufacture Technology",
-    "num_limit": "60",
-    "reg_num": "-999",
-    "teacher": "吳耀銓",
-    "time": "R67-EF207[GF]"
   },
   "1132_536309": {
     "code": "ENMS30040",
@@ -32276,8 +32300,8 @@
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
-    "time": ""
+    "teacher": "資管所",
+    "time": "U56-"
   },
   "1132_557601": {
     "code": "MGIM30037",
@@ -32288,7 +32312,7 @@
     "name": "資訊管理專題 Special Topics on Information Management",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "資管所",
     "time": "S34-MB312[GF]"
   },
   "1132_557602": {
@@ -33234,7 +33258,7 @@
     "id": "561027",
     "memo": "",
     "name": "愛情的法律學分 Love, Sex and Law",
-    "num_limit": "65",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "金孟華、林志潔",
     "time": "W34-A203[GF]"
@@ -33606,7 +33630,7 @@
     "id": "561060",
     "memo": "",
     "name": "生醫法導論 Introduction to Biomedical Law",
-    "num_limit": "25",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "賈文宇",
     "time": "R56-YT203[YM]"
@@ -37122,7 +37146,7 @@
     "id": "564000",
     "memo": "(大班授課)",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "120",
+    "num_limit": "125",
     "reg_num": "-999",
     "teacher": "王夏聲",
     "time": "T34F56-SA321[GF]"
@@ -37266,7 +37290,7 @@
     "id": "564012",
     "memo": "(大班授課)",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "120",
+    "num_limit": "130",
     "reg_num": "-999",
     "teacher": "王夏聲",
     "time": "M78R34-SA321[GF]"
@@ -37278,7 +37302,7 @@
     "id": "564013",
     "memo": "[English Medium Course]",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "70",
+    "num_limit": "75",
     "reg_num": "-999",
     "teacher": "科特林",
     "time": "M78R34-SC106[GF]"
@@ -37290,7 +37314,7 @@
     "id": "564014",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "張書銘",
     "time": "M78R34-SC201[GF]"
@@ -37302,7 +37326,7 @@
     "id": "564015",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "余啟哲",
     "time": "M78R34-SC206[GF]"
@@ -37314,7 +37338,7 @@
     "id": "564016",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "黃柏鈞",
     "time": "M78R34-SC152[GF]"
@@ -37326,7 +37350,7 @@
     "id": "564017",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "呂楊凱",
     "time": "M78R34-SC110[GF]"
@@ -37338,7 +37362,7 @@
     "id": "564018",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "王賜聖",
     "time": "M78R34-SC204[GF]"
@@ -38104,12 +38128,24 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "571003",
-    "memo": "",
+    "memo": "【1】限國際志工選修：本課程為本校國際志工團所選修之培訓課程，需經書審、面試通過錄取後方得修習。【2】上課地點：印度團主要於光復校區資訊館3樓319會議室（陽明校區同學輔以線上同步）、東南亞團暫以線上方式進行，如有變更會另行通知。",
     "name": "永續發展與設計實踐-服務學習(二) Sustainable Development and Design Practice-Service Learning II",
     "num_limit": "30",
     "reg_num": "-999",
     "teacher": "潘美玲、嵇達德",
     "time": "Wabc-"
+  },
+  "1132_571004": {
+    "code": "GESL10001",
+    "credit": "2.00",
+    "hours": "4.00",
+    "id": "571004",
+    "memo": "",
+    "name": "跟AI做朋友—基礎服務學習 Making Friends with AI-Cornerstone Service-Learning",
+    "num_limit": "30",
+    "reg_num": "-999",
+    "teacher": "陳鏗任",
+    "time": "Fab-"
   },
   "1132_574000": {
     "code": "GEIT10007",

@@ -2264,7 +2264,7 @@
     "name": "進階臨床核心課程(二) Advanced Clinical Skills(II)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "賴慧卿、劉時安、梁凱莉、王俊興、林嘉彥、徐佳鈿、林明志、沈靜慧、沈宜靜、譚國棟、閻忠揚、黃彥翔、王勁傑、許斯淵、傅家保、阮昭奎、林玟君、吳尚儒、林俊呈、廖年晨",
+    "teacher": "賴慧卿、劉時安、梁凱莉、王俊興、林嘉彥、徐佳鈿、林明志、沈靜慧、沈宜靜、譚國棟、閻忠揚、黃彥翔、王勁傑、許斯淵、傅家保、阮昭奎、林玟君、吳尚儒、林俊呈、廖年晨、歐偉凡",
     "time": "R9a-"
   },
   "1132_110181": {
@@ -2674,6 +2674,30 @@
     "reg_num": "-999",
     "teacher": "陳麗芬、曾意儒、嚴錦城",
     "time": "M78-ED301[GF],M78-YL404[YM]"
+  },
+  "1132_110215": {
+    "code": "MDMD10035",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "110215",
+    "memo": "",
+    "name": "心靈成長(四) Spiritual Growth Ⅳ",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "紀凱獻",
+    "time": "W34-YX501[YM]"
+  },
+  "1132_110216": {
+    "code": "MDMD10034",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "110216",
+    "memo": "",
+    "name": "心靈成長(二) Spiritual Growth Ⅱ",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "丁乾坤",
+    "time": "W34-YT202[YM]"
   },
   "1132_111500": {
     "code": "DEDE10026",
@@ -3536,7 +3560,7 @@
     "name": "綜合臨床護理學實習(二) Comprehensive Nursing Practice(2)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李亭亭、黃淑鶴、賴鼎璁、鍾若男、明金蓮、林淑娟、陳美君、施玉珊、游佩玲、鄭菁慧",
+    "teacher": "李亭亭、黃淑鶴、賴鼎璁、鍾若男、明金蓮、林淑娟、王卿凌、陳美君、施玉珊、游佩玲、鄭菁慧",
     "time": "M12345678T12345678W12345678-"
   },
   "1132_111811": {
@@ -3560,7 +3584,7 @@
     "name": "護理管理與行政概論實習 Introduction to Nursing Management and Administration Practice",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李亭亭、賴鼎璁、鍾若男、明金蓮、林淑娟、王卿凌、陳美君、施玉珊、游佩玲、鄭菁慧",
+    "teacher": "李亭亭、黃淑鶴、賴鼎璁、鍾若男、明金蓮、林淑娟、王卿凌、陳美君、施玉珊、游佩玲、鄭菁慧",
     "time": "M12345678T12345678W12345678-"
   },
   "1132_111813": {
@@ -6860,7 +6884,7 @@
     "name": "醫學生涯 Medical career",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "許中華",
+    "teacher": "許中華、徐蔚泓、鄭婷宜、張揚楷、虞凱強、魏任宣、戴毓萱",
     "time": "R7-YK533[YM]"
   },
   "1132_113905": {
@@ -7508,7 +7532,7 @@
     "name": "傳染病流行病學  Epidemiology of Infectious Diseases",
     "num_limit": "20",
     "reg_num": "-999",
-    "teacher": "詹宇鈞、李美璇、陽光耀、王復德、詹大千、潘聖衛、陳昕白、黃頌恩、巫炳峰、馮嘉毅",
+    "teacher": "詹宇鈞、李美璇、王復德、詹大千、潘聖衛、陳昕白、黃頌恩、巫炳峰、馮嘉毅",
     "time": "T56-YS107[YM]"
   },
   "1132_130209": {
@@ -8516,7 +8540,7 @@
     "name": "職場健康管理 Occupational Health Management",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "王怡人",
+    "teacher": "王怡人、楊冠洋",
     "time": "R78-YS105[YM]"
   },
   "1132_130810": {
@@ -9020,7 +9044,7 @@
     "name": "專題討論(碩) Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "楊智傑、鄭彥甫、陳麗芬、楊定一、楊靜修、盧俊良、王署君、蔡金吾、林嘉澍、鄭菡若、侯珮珊、蔡世仁、李怡慧、洪成志、劉祐岑、尼大衛、蔡欣融",
+    "teacher": "蔡欣融、鄭彥甫、陳麗芬、楊定一、楊靜修、盧俊良、王署君、蔡金吾、林嘉澍、楊智傑、鄭菡若、侯珮珊、蔡世仁、李怡慧、洪成志、劉祐岑、尼大衛",
     "time": "T56-YL402[YM]"
   },
   "1132_131108": {
@@ -9764,7 +9788,7 @@
     "name": "口腔組織工程與生技材料專題討論 Oral Tissue Engineering and Biotechnology Materials Panel Discussion",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林元敏、李士元、季麟揚、張國威、黃何雄",
+    "teacher": "林元敏、李士元、季麟揚、張國威、黃何雄、林榮辰",
     "time": "W9a-YD207[YM]"
   },
   "1132_131601": {
@@ -10415,18 +10439,6 @@
     "teacher": "林怡君",
     "time": "F34-YN205[YM]"
   },
-  "1132_132104": {
-    "code": "PSFS30038",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "132104",
-    "memo": "",
-    "name": "食品安全管理與稽查實務 The Practice of Food Safety Management and Inspection",
-    "num_limit": "10",
-    "reg_num": "-999",
-    "teacher": "楊登傑、廖伯霖、劉君豪",
-    "time": "U89a-"
-  },
   "1132_132105": {
     "code": "PSFS30028",
     "credit": ".00",
@@ -10544,7 +10556,7 @@
     "name": "食品安全法規及管理科學 Food safety Regulation and Management Science",
     "num_limit": "24",
     "reg_num": "-999",
-    "teacher": "康照洲、倪貴榮、黃耀文、鄭幼文、潘志寬、林勤富、李青澔",
+    "teacher": "康照洲、楊登傑、倪貴榮、廖伯霖、黃耀文、鄭幼文、潘志寬、林勤富、李青澔",
     "time": "W56-YN205[YM]"
   },
   "1132_132115": {
@@ -10580,7 +10592,7 @@
     "name": "食品安全管理與稽查實務 The Practice of Food Safety Management and Inspection",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "康照洲、劉君豪",
+    "teacher": "康照洲、楊登傑、廖伯霖、劉君豪",
     "time": "U89a-"
   },
   "1132_132200": {
@@ -11540,7 +11552,7 @@
     "name": "專題討論 Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "郭文娟、吳育德、高甫仁、薛特、陳浩夫、陳奕帆、賈世璿、蘇佳沂、邱爾德、饒啟文",
+    "teacher": "饒啟文、吳育德、高甫仁、薛特、郭文娟、陳浩夫、陳奕帆、賈世璿、蘇佳沂",
     "time": "M56-YK208[YM]"
   },
   "1132_132606": {
@@ -11696,8 +11708,8 @@
     "name": "LabVIEW程式設計與應用 LabVIEW Programming and Applications",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
-    "time": ""
+    "teacher": "陳奕帆",
+    "time": "F567-YL403[YM]"
   },
   "1132_132700": {
     "code": "LSNS30028",
@@ -11985,7 +11997,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "黃雪莉",
-    "time": ""
+    "time": "U1-YC313[YM]"
   },
   "1132_132811": {
     "code": "LSMI30046",
@@ -14458,6 +14470,18 @@
     "reg_num": "-999",
     "teacher": "童恒新、賴鼎璁",
     "time": "R12345678-"
+  },
+  "1132_150215": {
+    "code": "NSDN30078",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "150215",
+    "memo": "單數週上課",
+    "name": "進階家庭專科護理II Advanced Family Nurse Practitioner II",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "胡慧蘭、楊令瑀、楊秋月、童恒新、涂曦丰、劉佩青、蕭慶華、沈淑芬、徐清樺、唐鳳屏、陳盈如",
+    "time": "F234-YN322[YM]"
   },
   "1132_150300": {
     "code": "LSMB30013",
@@ -18544,7 +18568,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "514132",
-    "memo": "專選，華語教學學程，開放三四年級選修",
+    "memo": "專選，華語教學學程，開放二三四年級選修",
     "name": "社會語言學導論 Introduction to Sociolinguistics",
     "num_limit": "24",
     "reg_num": "-999",
@@ -19689,7 +19713,7 @@
     "num_limit": "110",
     "reg_num": "-999",
     "teacher": "高竹嵐",
-    "time": "M56R2-"
+    "time": "M56R2-AB102[GF]"
   },
   "1132_515163": {
     "code": "EEEC00013",
@@ -22830,7 +22854,7 @@
     "id": "517203",
     "memo": "管院管理基礎課程；主開大二運管系，輔開管理學院、工管系、資財系。大二運管系必修。工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修。管院學生優先選課。",
     "name": "物流運籌管理 Logistics Management",
-    "num_limit": "70",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "黃寬丞",
     "time": "W234-A901[GF]"
@@ -22866,7 +22890,7 @@
     "id": "517206",
     "memo": "",
     "name": "交通控制 Traffic Control",
-    "num_limit": "9999",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "陳彥佑",
     "time": "M567-A905[GF]"
@@ -23480,8 +23504,8 @@
     "name": "應用數學(二) Applied Mathematics (2)",
     "num_limit": "100",
     "reg_num": "-999",
-    "teacher": "梁興弛",
-    "time": "R34n-EE106[GF]"
+    "teacher": "待聘",
+    "time": "R234-EE106[GF]"
   },
   "1132_520001": {
     "code": "XDEP10007",
@@ -23720,7 +23744,7 @@
     "name": "應用數學(一) Applied Mathematics (1)",
     "num_limit": "70",
     "reg_num": "-999",
-    "teacher": "梁興弛",
+    "teacher": "待聘",
     "time": "Rabc-SC162[GF]"
   },
   "1132_530000": {
@@ -23793,7 +23817,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "吳思葦",
-    "time": "W56-A504[GF]"
+    "time": "W56-A505[GF]"
   },
   "1132_534000": {
     "code": "HSIE30009",
@@ -26788,7 +26812,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535507",
-    "memo": "資訊學院優先(不開放在職專班網路選課)。1.深度學習與深度學習實驗兩門課需同時選修才能採計學分。採用選修深度學習課程後自動加選深度學習實驗課程，不得有異議。2.與「深度學習與實務」為新舊課程僅能採計一門為畢業學分，不能重覆採計。3.博士班資格考考核科目(選修「深度學習」課程後自動加選「深度學習實驗」課程，兩門課皆須完成。)。4.同學若要加簽此課程請在 2/22 (四) 23:55 前填寫以下表單，https://forms.gle/6hpYwtap5TMP7sAQ8 並在 2/23(五) 12:00前將紙本加簽單交至 交大工程三館621 (EC621)。5.前瞻所113學年入學乙組專業核心課程。",
+    "memo": "資訊學院優先(不開放在職專班網路選課)。1.深度學習與深度學習實驗兩門課需同時選修才能採計學分。採用選修深度學習課程後自動加選深度學習實驗課程，不得有異議。2.與「深度學習與實務」為新舊課程僅能採計一門為畢業學分，不能重覆採計。3.博士班資格考考核科目(選修「深度學習」課程後自動加選「深度學習實驗」課程，兩門課皆須完成。)。4.前瞻所113學年入學乙組專業核心課程。",
     "name": "深度學習 Deep Learning",
     "num_limit": "75",
     "reg_num": "-999",
@@ -30426,7 +30450,7 @@
     "id": "537809",
     "memo": "科管跨域；VIP；共掛核心課程；遠距網路課程",
     "name": "智慧財產權管理實務 Intellectual Property Management and The Practice",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "陳詩欣、陳永平",
     "time": "M789-A701[GF]"
@@ -30474,7 +30498,7 @@
     "id": "537813",
     "memo": "",
     "name": "創新與網路創業 Innovation and Internet Entrepreneurship",
-    "num_limit": "40",
+    "num_limit": "35",
     "reg_num": "-999",
     "teacher": "黃仕斌",
     "time": "T567-A722[GF]"
@@ -30920,7 +30944,7 @@
     "name": "前瞻CMOS製程整合工程 Advanced CMOS Process Integration Engineering",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "林群雄",
+    "teacher": "林群雄、陳建宏、陳俊光、林義雄",
     "time": "F567-A305[GF]"
   },
   "1132_539004": {
@@ -32135,18 +32159,6 @@
     "teacher": "蕭嬋",
     "time": "Mabc-M301[GF]"
   },
-  "1132_557101": {
-    "code": "MGMS30005",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "557101",
-    "memo": "限專班選修。",
-    "name": "人力資源管理 Human Resource Management",
-    "num_limit": "18",
-    "reg_num": "-999",
-    "teacher": "高國揚",
-    "time": "Tabc-M205[GF]"
-  },
   "1132_557102": {
     "code": "MGMS30107",
     "credit": "3.00",
@@ -32358,7 +32370,7 @@
     "id": "557605",
     "memo": "",
     "name": "科學的歷程 The History of Science",
-    "num_limit": "20",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "羅濟群",
     "time": "Tabc-MB304[GF]"
@@ -32562,7 +32574,7 @@
     "id": "557807",
     "memo": "大學生限大三以上具跨域身份學生開學後寄信給老師人工加選。[混合遠距課程]",
     "name": "設計思考與商業模式創新 Design Thinking and Business Model Innovation",
-    "num_limit": "35",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "陳詩欣",
     "time": "U678-A701[GF]"
@@ -35025,7 +35037,7 @@
     "num_limit": "45",
     "reg_num": "-999",
     "teacher": "周玉蕙",
-    "time": "W56-A505[GF]"
+    "time": "W56-A302[GF]"
   },
   "1132_562103": {
     "code": "GELT20011",
@@ -37182,7 +37194,7 @@
     "id": "564003",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "張書銘",
     "time": "T34F56-SC201[GF]"
@@ -37194,7 +37206,7 @@
     "id": "564004",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "余啟哲",
     "time": "T34F56-SA320[GF]"
@@ -37206,7 +37218,7 @@
     "id": "564005",
     "memo": "(半導體系)",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "石至文",
     "time": "T34F56-SA311[GF]"
@@ -37218,7 +37230,7 @@
     "id": "564006",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "陳冠宇",
     "time": "T34F56-SC204[GF]"
@@ -37230,7 +37242,7 @@
     "id": "564007",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "方向",
     "time": "T34F56-SC110[GF]"
@@ -37242,7 +37254,7 @@
     "id": "564008",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "林武雄",
     "time": "T34F56-SC206[GF]"
@@ -37254,7 +37266,7 @@
     "id": "564009",
     "memo": "全網路課程，但面授與考試需到教室",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "莊重",
     "time": "T34F56-SC151[GF]"
@@ -37266,7 +37278,7 @@
     "id": "564010",
     "memo": "[English Medium Course]",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "62",
     "reg_num": "-999",
     "teacher": "千野由喜",
     "time": "T34F56-SC152[GF]"
@@ -37314,7 +37326,7 @@
     "id": "564014",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "62",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "張書銘",
     "time": "M78R34-SC201[GF]"
@@ -37326,7 +37338,7 @@
     "id": "564015",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "62",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "余啟哲",
     "time": "M78R34-SC206[GF]"
@@ -37338,7 +37350,7 @@
     "id": "564016",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "62",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "黃柏鈞",
     "time": "M78R34-SC152[GF]"
@@ -37350,7 +37362,7 @@
     "id": "564017",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "62",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "呂楊凱",
     "time": "M78R34-SC110[GF]"
@@ -37362,7 +37374,7 @@
     "id": "564018",
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "62",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "王賜聖",
     "time": "M78R34-SC204[GF]"
@@ -38080,7 +38092,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "569010",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course] 授課教師：Bernard Amadei",
     "name": "工程與社會的系統方法 A Systems Approach to Engineering and Society",
     "num_limit": "50",
     "reg_num": "-999",
@@ -38284,7 +38296,7 @@
     "credit": ".00",
     "hours": "1.00",
     "id": "575000",
-    "memo": "",
+    "memo": "因課務系統限制，本課程不開放線上選課。請適用109學年度（含以前）必修科目表的選課同學於開學加退選期間以紙本加簽單至浩然圖書館B1藝文空間服務台進行加簽。",
     "name": "藝文賞析教育 Arts Appreciation Education",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -38296,7 +38308,7 @@
     "credit": ".00",
     "hours": "1.00",
     "id": "575001",
-    "memo": "",
+    "memo": "因課務系統限制，本課程不開放線上選課。請適用109學年度（含以前）必修科目表的選課同學於開學加退選期間以紙本加簽單至浩然圖書館B1藝文空間服務台進行加簽。",
     "name": "藝文賞析教育 Arts Appreciation Education",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -38637,7 +38649,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳鏗任",
-    "time": "F56-HA108[GF]"
+    "time": "F56-HA315[GF]"
   },
   "1132_599001": {
     "code": "GETE10020",
@@ -39280,7 +39292,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "639006",
-    "memo": "碩士班選修，該課程碩士班修讀完一學期方得選修。",
+    "memo": "[English Medium Course]碩士班選修，該課程碩士班修讀完一學期方得選修。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -39340,7 +39352,7 @@
     "credit": "3.00",
     "hours": "5.00",
     "id": "639100",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "深度學習研究模組 Deep Learning Modules ",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -39352,7 +39364,7 @@
     "credit": "3.00",
     "hours": "5.00",
     "id": "639200",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "智慧系統研究模組 Intelligent System Modules",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -39364,7 +39376,7 @@
     "credit": "3.00",
     "hours": "5.00",
     "id": "639300",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "綠能研究模組 Green Energy Modules",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -39460,7 +39472,7 @@
     "credit": ".00",
     "hours": "1.00",
     "id": "648300",
-    "memo": "博二以上在學期間各學期之必選課程。",
+    "memo": "[English Medium Course]博二以上在學期間各學期之必選課程。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -41428,7 +41440,7 @@
     "credit": ".00",
     "hours": "1.00",
     "id": "910157",
-    "memo": "化材組A班，上課地點：國防大學理工學院，授課教師：XXX老師",
+    "memo": "調整上課時間為R1。化材組A班，上課地點：國防大學理工學院",
     "name": "服務學習 (1) Service Learning (I)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42616,7 +42628,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910256",
-    "memo": "化材組，上課地點：國防大學理工學院",
+    "memo": "(預計停開)化材組，上課地點：國防大學理工學院",
     "name": "有機化學實驗(2) Organic Chemistry Lab.(2)",
     "num_limit": "9999",
     "reg_num": "-999",

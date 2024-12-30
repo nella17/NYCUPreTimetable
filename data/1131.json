@@ -38027,18 +38027,6 @@
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },
-  "1131_638006": {
-    "code": "PTCP30007",
-    "credit": "1.00",
-    "hours": "3.00",
-    "id": "638006",
-    "memo": "光電學院110學年度(含)以前入學學生碩一必選2學期課程",
-    "name": "書報討論 Seminar ",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "光電學院",
-    "time": "WzRzFz-"
-  },
   "1131_638007": {
     "code": "PTCP30010",
     "credit": ".00",
@@ -38050,18 +38038,6 @@
     "reg_num": "220",
     "teacher": "光電學院",
     "time": ""
-  },
-  "1131_638008": {
-    "code": "PTCP30008",
-    "credit": "1.00",
-    "hours": "3.00",
-    "id": "638008",
-    "memo": "[English Medium Course]光電學院110學年度入學學生博一必選課程",
-    "name": "書報討論-博士班 Seminar-Ph.D. ",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "光電學院",
-    "time": "WzRzFz-"
   },
   "1131_638009": {
     "code": "PTCP30005",

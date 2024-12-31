@@ -3164,7 +3164,7 @@
     "name": "牙醫倫理學 Dental Ethics",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "許明倫、高壽延、季麟揚、賴玉玲、羅文良、楊淑芬、陳亮如、吳姿瑩、何怡青、鄧政雄、張采宇、何家銘",
+    "teacher": "許明倫、高壽延、季麟揚、羅文良、楊淑芬、陳亮如、林怡君、吳姿瑩、何怡青、鄧政雄、張采宇、何家銘",
     "time": "R56-YD105[YM]"
   },
   "1132_111547": {
@@ -3200,7 +3200,7 @@
     "name": "數位牙醫學 Digital Dentistry",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "林元敏、游依璇、曾知雋",
+    "teacher": "林元敏、楊智傑、吳姿瑩、朱原嘉、孫英洲、游依璇、曾知雋、莊凱翔",
     "time": "M34-YD105[YM]"
   },
   "1132_111550": {
@@ -5948,7 +5948,7 @@
     "name": "粒子放射治療學概論 Introduction of particulate therapy",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李易展、吳東信、藍耿立、莊惠燕、陳芳馨",
+    "teacher": "李易展、藍耿立、莊惠燕、吳駿一、陳芳馨",
     "time": "R78-YB458[YM]"
   },
   "1132_112351": {
@@ -8192,7 +8192,7 @@
     "name": "抗癌天然物作用機轉 Molecular Mechanisms of Anti-cancer Natural Products",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "傅淑玲、黃奇英、林東毅、謝忱希",
+    "teacher": "傅淑玲、黃奇英、林東毅、盧重光、謝忱希",
     "time": "M78-YR104[YM]"
   },
   "1132_130605": {
@@ -8517,7 +8517,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "張榮偉、黃鈺芳、郭憲文",
-    "time": "R12-YS105[YM]"
+    "time": "W23-YS105[YM]"
   },
   "1132_130808": {
     "code": "MDEO30061",
@@ -11472,12 +11472,12 @@
     "time": "T56-"
   },
   "1132_132522": {
-    "code": "BEIR30070",
+    "code": "BEIR30075",
     "credit": "2.00",
     "hours": "2.00",
     "id": "132522",
     "memo": "",
-    "name": "創新創意與創業實務導論 Introduction to Innovation, Creativity and Entrepreneurship Practice",
+    "name": "創新產業品牌行銷策略與實務導論 Introduction to Innovative Industry Branding, Marketing Strategies, and Practices",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "曹英傑",
@@ -15340,7 +15340,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162007",
-    "memo": "[English Medium Course][1] 第一階段初選限物治一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course][1] 第一~三階段初選限物治一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
     "name": "進階英語聽講練習 Advanced English Listening and Speaking",
     "num_limit": "35",
     "reg_num": "-999",
@@ -15352,7 +15352,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162008",
-    "memo": "[English Medium Course][1]第一階段初選限醫放一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course][1]第一~三階段初選限醫放一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
     "name": "英語口說訓練：演講與簡報 English Speaking practice: English Public Speaking and Presentation",
     "num_limit": "25",
     "reg_num": "-999",
@@ -15364,7 +15364,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162009",
-    "memo": "[English Medium Course][1]第一階段初選限醫放一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course][1]第一~三階段初選限醫放一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
     "name": "英文寫作 Essay Writing",
     "num_limit": "25",
     "reg_num": "-999",
@@ -15376,7 +15376,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162010",
-    "memo": "[English Medium Course][1]第一階段初選限醫技一、醫工一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course][1]第一~三階段初選限醫技一、醫工一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
     "name": "英語口說訓練：演講與簡報 English Speaking practice: English Public Speaking and Presentation",
     "num_limit": "25",
     "reg_num": "-999",
@@ -15388,7 +15388,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162011",
-    "memo": "[English Medium Course][1] 第一階段初選限醫技一、醫工一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course][1] 第一~三階段初選限醫技一、醫工一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
     "name": "英文跨文化溝通 Cross-Cultural Communication in English",
     "num_limit": "25",
     "reg_num": "-999",
@@ -15400,7 +15400,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162012",
-    "memo": "[English Medium Course][1] 第一階段初選限醫技一、醫工一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course][1] 第一~三階段初選限醫技一、醫工一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
     "name": "英文寫作 Essay Writing",
     "num_limit": "25",
     "reg_num": "-999",
@@ -15412,7 +15412,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162013",
-    "memo": "[English Medium Course][1]第一階段初選限醫學一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course][1]第一~三階段初選限醫學一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
     "name": "英語口說訓練：演講與簡報 English Speaking practice: English Public Speaking and Presentation",
     "num_limit": "25",
     "reg_num": "-999",
@@ -15424,7 +15424,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162014",
-    "memo": "[English Medium Course][1] 第一階段初選限醫學一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course][1] 第一~三階段初選限醫學一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
     "name": "英文寫作 Essay Writing",
     "num_limit": "25",
     "reg_num": "-999",
@@ -15436,7 +15436,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162016",
-    "memo": "[English Medium Course][1]第一階段初選限牙醫一、中醫一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course][1]第一~三階段初選限牙醫一、中醫一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
     "name": "英語口說訓練：演講與簡報 English Speaking practice: English Public Speaking and Presentation",
     "num_limit": "25",
     "reg_num": "-999",
@@ -15472,7 +15472,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162020",
-    "memo": "[English Medium Course][1]第一階段初選限生科一、不分系一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
+    "memo": "[English Medium Course][1]第一~三階段初選限生科一、不分系一。 [2] 全英語授課，為維持教學品質，限制修課人數。",
     "name": "英語口說訓練：演講與簡報 English Speaking practice: English Public Speaking and Presentation",
     "num_limit": "35",
     "reg_num": "-999",
@@ -19552,7 +19552,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "515140",
-    "memo": "1. 限申請電機工程學系「跨域學程」修課，同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於2月29日(四)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1. 限申請電機工程學系「跨域學程」修課，同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "跨領域專題(一) Crossdisciplinary Projects (I) ",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19564,7 +19564,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "515141",
-    "memo": "1. 限申請電機工程學系「跨域學程」修課，同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於2月29日(四)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1. 限申請電機工程學系「跨域學程」修課，同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "跨領域專題(二) Crossdisciplinary Projects (II) ",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19576,7 +19576,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "515142",
-    "memo": "1.限電機工程學系且申請電機工程學系「資訊工程跨域學程」同學修課；資訊工程學系且申請資訊工程學系「電機工程跨域學程」同學修課。同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於9月11日(三)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1.限電機工程學系且申請電機工程學系「資訊工程跨域學程」同學修課；資訊工程學系且申請資訊工程學系「電機工程跨域學程」同學修課。同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機資訊跨領域專題(一) Electrical and Computer Engineering-Computer Science Cross disciplinary Projects (I)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19588,7 +19588,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "515143",
-    "memo": "1.限電機工程學系且申請電機工程學系「資訊工程跨域學程」同學修課；資訊工程學系且申請資訊工程學系「電機工程跨域學程」同學修課。同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;amp;locale=tw)。2. 同意書請指導老師簽名後，於2月29日(四)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1.限電機工程學系且申請電機工程學系「資訊工程跨域學程」同學修課；資訊工程學系且申請資訊工程學系「電機工程跨域學程」同學修課。同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機資訊跨領域專題(二) Electrical and Computer Engineering-Computer Science Cross disciplinary Projects (I)(II)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19600,7 +19600,7 @@
     "credit": "2.00",
     "hours": "3.00",
     "id": "515144",
-    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於2月29日(四)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機工程專題 (一) Special Project on Electrical Engineering (I)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19612,7 +19612,7 @@
     "credit": "2.00",
     "hours": "3.00",
     "id": "515145",
-    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於2月29日(四)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機工程專題(二) Special Project on Electrical Engineering (II)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19624,7 +19624,7 @@
     "credit": "2.00",
     "hours": "3.00",
     "id": "515146",
-    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於2月29日(四)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機工程專題(三) Special Project on Electrical Engineering (III)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19636,7 +19636,7 @@
     "credit": "2.00",
     "hours": "3.00",
     "id": "515147",
-    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於2月29日(四)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機工程專題 (四) Special Project on Electrical Engineering (IV)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19808,7 +19808,7 @@
     "name": "量子元件技術與計算 Technology and Computing of Quantum Devices",
     "num_limit": "70",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "電機系",
     "time": "R567-ED101[GF]"
   },
   "1132_515166": {
@@ -19820,7 +19820,7 @@
     "name": "機器學習導論 Introduction to Machine Learning",
     "num_limit": "70",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "電機系",
     "time": "R234-ED303[GF]"
   },
   "1132_515200": {
@@ -20370,7 +20370,7 @@
     "id": "515503",
     "memo": "[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課 。1.本系生優先權順序：1年級，4年級，3年級，2年級。",
     "name": "數位電路設計 Digital Circuit Design",
-    "num_limit": "73",
+    "num_limit": "77",
     "reg_num": "-999",
     "teacher": "蔡淳仁",
     "time": "W34F7-EC016[GF]"
@@ -20382,7 +20382,7 @@
     "id": "515504",
     "memo": "主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課 。1.本系生優先權順序：1年級，4年級，3年級，2年級",
     "name": "數位電路設計 Digital Circuit Design",
-    "num_limit": "73",
+    "num_limit": "77",
     "reg_num": "-999",
     "teacher": "張明峰",
     "time": "W34F7-EC022[GF]"
@@ -20394,7 +20394,7 @@
     "id": "515505",
     "memo": "[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課 。1.本系生優先權順序：1年級，4年級，3年級，2年級。",
     "name": "數位電路設計 Digital Circuit Design",
-    "num_limit": "73",
+    "num_limit": "77",
     "reg_num": "-999",
     "teacher": "范倫達",
     "time": "W34F7-ED117[GF]"
@@ -20442,7 +20442,7 @@
     "id": "515509",
     "memo": "[English Medium Course]主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "計算機組織 Computer Organization",
-    "num_limit": "70",
+    "num_limit": "74",
     "reg_num": "-999",
     "teacher": "張庭榕",
     "time": "T2R56-EC022[GF]"
@@ -20454,7 +20454,7 @@
     "id": "515510",
     "memo": "主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "計算機組織 Computer Organization",
-    "num_limit": "70",
+    "num_limit": "74",
     "reg_num": "-999",
     "teacher": "蔡文錦",
     "time": "T2R56-EC122[GF]"
@@ -20466,7 +20466,7 @@
     "id": "515511",
     "memo": "[English Medium Course]主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "計算機組織 Computer Organization",
-    "num_limit": "70",
+    "num_limit": "74",
     "reg_num": "-999",
     "teacher": "葉宗泰",
     "time": "T2R56-EC115[GF]"
@@ -20502,7 +20502,7 @@
     "id": "515514",
     "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously] 主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課。1.學士班七大主題學程。2.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "人工智慧概論 Intro. to Artificial Intelligence",
-    "num_limit": "90",
+    "num_limit": "100",
     "reg_num": "-999",
     "teacher": "顏羽君",
     "time": "T56-EC016[GF]"
@@ -20514,7 +20514,7 @@
     "id": "515515",
     "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously] 主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課。1.學士班七大主題學程。2. 本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "人工智慧概論 Intro. to Artificial Intelligence",
-    "num_limit": "90",
+    "num_limit": "100",
     "reg_num": "-999",
     "teacher": "陳奕廷",
     "time": "T56-EC122[GF]"
@@ -24753,7 +24753,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳奕麟",
-    "time": "F234-F212[GF]"
+    "time": "F34n-F212[GF]"
   },
   "1132_534700": {
     "code": "HSAR30022",
@@ -27054,10 +27054,10 @@
     "id": "535520",
     "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]資訊學院優先(不開放在職專班網路選課)。",
     "name": "記憶體與儲存系統 Memory and Storage Systems",
-    "num_limit": "100",
+    "num_limit": "160",
     "reg_num": "-999",
     "teacher": "吳俊峯",
-    "time": "M56-EC115[GF]"
+    "time": "M56-EC016[GF]"
   },
   "1132_535521": {
     "code": "CSIC30035",
@@ -28146,7 +28146,7 @@
     "id": "536205",
     "memo": "[English Medium Course]",
     "name": "有限元素法 Finite Element Methods",
-    "num_limit": "9999",
+    "num_limit": "28",
     "reg_num": "-999",
     "teacher": "楊子儀",
     "time": "R234-EB403[GF]"
@@ -28158,7 +28158,7 @@
     "id": "536206",
     "memo": "[English Medium Course]",
     "name": "結構動力學 Structural Dynamics",
-    "num_limit": "9999",
+    "num_limit": "28",
     "reg_num": "-999",
     "teacher": "蔡營寬",
     "time": "T567-EB403[GF]"
@@ -28218,7 +28218,7 @@
     "id": "536212",
     "memo": "",
     "name": "環境水文地質學 Environmental Hydrogeology",
-    "num_limit": "9999",
+    "num_limit": "28",
     "reg_num": "-999",
     "teacher": "單信瑜",
     "time": "M234-EB404[GF]"
@@ -28230,7 +28230,7 @@
     "id": "536213",
     "memo": "[English Medium Course]大三、大四、研究所合開。",
     "name": "地物探測與資料分析 Geophysical Exploration and Data Analysis",
-    "num_limit": "9999",
+    "num_limit": "28",
     "reg_num": "-999",
     "teacher": "林志平",
     "time": "T234-EB404[GF]"
@@ -28254,7 +28254,7 @@
     "id": "536216",
     "memo": "大四、研究所合開。",
     "name": "地質災害多元監測法 Multi-Sensor Monitoring of Geological Hazards",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "洪偉嘉",
     "time": "R234-EB402[GF]"
@@ -28266,7 +28266,7 @@
     "id": "536217",
     "memo": "大三、大四、研究所合開。",
     "name": "房屋結構設計 Design of Building Structures",
-    "num_limit": "9999",
+    "num_limit": "48",
     "reg_num": "-999",
     "teacher": "劉俊秀",
     "time": "M567-EB107[GF]"
@@ -28290,7 +28290,7 @@
     "id": "536219",
     "memo": "大四、研究所合開。",
     "name": "工程碳足跡與零碳建築設計 Construction Carbon Footprint & Zero Carbon Building Design",
-    "num_limit": "9999",
+    "num_limit": "35",
     "reg_num": "-999",
     "teacher": "張又升",
     "time": "R567-EB404[GF]"
@@ -28314,7 +28314,7 @@
     "id": "536221",
     "memo": "大三、大四、研究所合開。",
     "name": "BIM專案管理與實務應用 BIM Project Management with Practical Applications",
-    "num_limit": "9999",
+    "num_limit": "55",
     "reg_num": "-999",
     "teacher": "翁紹偉",
     "time": "M567-EB415[GF]"
@@ -29730,7 +29730,7 @@
     "id": "537022",
     "memo": "限管科所、管科系大二至大四學生選修。",
     "name": "智慧審計新時代-數位浪潮、永續趨勢與AI的大數據應用 The New Age of Intelligent Audit- Digital Wave, Sustainable Trends and Big Data Application of AI",
-    "num_limit": "30",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "待聘",
     "time": "T34n-M301[GF]"
@@ -29958,7 +29958,7 @@
     "id": "537213",
     "memo": "[English Medium Course]新竹校區開課",
     "name": "電腦演算法在運輸之應用 The Application of Computer Algorithms in Transportation",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "顏子皓",
     "time": "R567-A904[GF]"
@@ -30549,7 +30549,7 @@
     "num_limit": "12",
     "reg_num": "-999",
     "teacher": "陳詩欣",
-    "time": "T34n-A722[GF]"
+    "time": "F234-A722[GF]"
   },
   "1132_537811": {
     "code": "MGMT30090",
@@ -32346,7 +32346,7 @@
     "id": "557108",
     "memo": "限專班選修。",
     "name": "企業經營與成本策略管理 Corporate Business and Cost Strategy Management",
-    "num_limit": "18",
+    "num_limit": "25",
     "reg_num": "-999",
     "teacher": "陳宗岡、郭國泰、劉福運",
     "time": "Mabc-M205[GF]"
@@ -32682,7 +32682,7 @@
     "id": "557807",
     "memo": "大學生限大三以上具跨域身份學生開學後寄信給老師人工加選。[混合遠距課程]",
     "name": "設計思考與商業模式創新 Design Thinking and Business Model Innovation",
-    "num_limit": "30",
+    "num_limit": "35",
     "reg_num": "-999",
     "teacher": "陳詩欣",
     "time": "U678-A701[GF]"
@@ -33630,7 +33630,7 @@
     "id": "561050",
     "memo": "1.本課程期望創造醫療與科技跨領域的對話，選課學生設定為光復校區學生以及陽明校區至光復校區的共學生，各25人。2.「光復校區學生」以網路選課為主，「陽明校區至光復校區的共學生」至https://forms.gle/BnQZGbia2SNmj17A8登記選課意願。",
     "name": "科技與醫療的人文關懷 Humanism in Technology and Medical Cares",
-    "num_limit": "40",
+    "num_limit": "35",
     "reg_num": "-999",
     "teacher": "黃育綸、陳俞琪、程千芳、林士平、林承霈、王美鴻",
     "time": "R56-A202[GF]"

@@ -2624,7 +2624,7 @@
     "name": "整合醫學暨中醫學現代進展 Recent Advances in Integrative Medicine and Chinese Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "龔彥穎、郭文華、張清貿、楊仁鄰、鄭惇方、張凱惟、吳大鵬、張家國、陳昭憲",
+    "teacher": "龔彥穎、郭文華、張清貿、楊仁鄰、鄭惇方、張凱惟、曾元卜、吳大鵬、陳昭憲",
     "time": "W78-YT303[YM]"
   },
   "1132_110211": {
@@ -3200,7 +3200,7 @@
     "name": "數位牙醫學 Digital Dentistry",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "林元敏、楊智傑、吳姿瑩、朱原嘉、孫英洲、游依璇、曾知雋、莊凱翔",
+    "teacher": "林元敏、吳政憲、楊智傑、吳姿瑩、朱原嘉、孫英洲、游依璇、曾知雋、莊凱翔",
     "time": "M34-YD105[YM]"
   },
   "1132_111550": {
@@ -6392,7 +6392,7 @@
     "name": "生理學 Physiology",
     "num_limit": "180",
     "reg_num": "-999",
-    "teacher": "吳鈺琳、黃娟娟、阮琪昌、李怡萱、林惠菁、張原翊、洪成志、楊凱鈞、董萃英、舒宜芳、程子珩、何揚、曾偉誠、蔡明村",
+    "teacher": "林惠菁、吳鈺琳、黃娟娟、阮琪昌、李怡萱、張原翊、洪成志、楊凱鈞、董萃英、舒宜芳、程子珩、何揚、曾偉誠、蔡明村",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
   "1132_113004": {
@@ -6404,7 +6404,7 @@
     "name": "生理學實驗 Physiology Laboratory",
     "num_limit": "126",
     "reg_num": "-999",
-    "teacher": "吳鈺琳、林惠菁",
+    "teacher": "林惠菁",
     "time": "T5678R5678-YED214[YM]"
   },
   "1132_113100": {
@@ -6932,7 +6932,7 @@
     "name": "中醫生理學 Chinese Medicine Physiology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "張清貿、洪裕強",
+    "teacher": "張清貿、洪裕強、謝伯駿、黃伯瑜",
     "time": "F789-YK533[YM]"
   },
   "1132_113909": {
@@ -10604,7 +10604,7 @@
     "name": "生技醫藥產業 Biotechnology in Biomedical Industry",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黃琤、洪小雅、王世仁、高純琇、紀威光、莊士賢、李應宣、賴瓊雅、陳菀芬、蔡佳哲、柯景懷、蔡士昌、吳舜祺、楊哲權、朱博謙、張書銘、俞宛妮、蔡屹喬、郭恆妙、陳廷碩",
+    "teacher": "黃琤、洪小雅、王世仁、高純琇、紀威光、莊士賢、李應宣、賴瓊雅、陳菀芬、蔡佳哲、柯景懷、蔡士昌、吳舜祺、楊哲權、朱博謙、張書銘、俞宛妮、蔡屹喬、郭恆妙、彭梓涵、陳廷碩",
     "time": "T34-YB101[YM]"
   },
   "1132_132201": {
@@ -11409,7 +11409,7 @@
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "莊惠燕",
-    "time": "T56-YB100[YM]"
+    "time": "T56-YT301[YM]"
   },
   "1132_132516": {
     "code": "BEIR30067",
@@ -13852,11 +13852,11 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "142802",
-    "memo": "[English Medium Course]全英語授課課程，與TIGP-MMP國際研究生學生共同上課。本學期上課地點在中央研究院生物醫學科學研究所。",
+    "memo": "[English Medium Course]全英語授課課程，與TIGP-MMP國際研究生學生共同上課。授課教師：鄭揚、陳英翰，本學期上課地點在中央研究院生物醫學科學研究所8樓TIGP教室。",
     "name": "分子醫學專題討論 Seminar on Molecular Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "分子醫學學程",
     "time": "F56-"
   },
   "1132_142803": {
@@ -13864,11 +13864,11 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "142803",
-    "memo": "[English Medium Course]全英語授課課程，與TIGP-MMP國際研究生學生共同上課。本學期上課地點在中央研究院生物醫學科學研究所。",
+    "memo": "[English Medium Course]全英語授課課程，與TIGP-MMP國際研究生學生共同上課。授課教師：胡春美、李彥莉，本學期上課地點在中央研究院生物醫學科學研究所1F N236教室。",
     "name": "分子醫學專題討論 Seminar on Molecular Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "分子醫學學程",
     "time": "F56-"
   },
   "1132_142804": {
@@ -13876,11 +13876,11 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "142804",
-    "memo": "[English Medium Course]全英語授課課程，與TIGP國際研究生學生共同上課。本學期上課地點在中央研究院生物醫學科學研究所。",
+    "memo": "[English Medium Course]全英語授課課程，與TIGP國際研究生學生共同上課。授課教師：陳弘昕、李國昇。本學期上課地點在中央研究院生物醫學科學研究所1F N335室。",
     "name": "分子醫學專題討論 Seminar on Molecular Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "分子醫學學程",
     "time": "F56-"
   },
   "1132_142805": {
@@ -15310,6 +15310,18 @@
     "reg_num": "-999",
     "teacher": "張玉蕙",
     "time": "M78-YX202[YM]"
+  },
+  "1132_162004": {
+    "code": "GELW00023",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "162004",
+    "memo": "〔1〕需具德文基礎，為維持教學品質，限制修課人數。〔2〕北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽語文學習與寫作中心承辦人（分機ext.65351／Email: ylai6818@nycu.edu.tw）辦理。",
+    "name": "醫護德文 Medical German",
+    "num_limit": "36",
+    "reg_num": "-999",
+    "teacher": "周玉蕙",
+    "time": "T56-YT103[YM]"
   },
   "1132_162005": {
     "code": "GELW00003",
@@ -17466,7 +17478,7 @@
     "id": "430032",
     "memo": "",
     "name": "微生物生理及遺傳學 Microbial Physiology and Genetics",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "曾慶平",
     "time": "R34-BI302[BA]"
@@ -17680,7 +17692,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "430204",
-    "memo": "",
+    "memo": "113-2因課程安排考量開設於T234時段，未來將安排在M567",
     "name": "組織學 Histology",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -38020,7 +38032,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "567000",
-    "memo": "生物科技學系大一新生/本系生、中一中科學班、醫師工程師組優先，上限90人 通識校基本 通識跨院",
+    "memo": "生物科技學系大一新生/本系生、中一中科學班、醫師工程師組、電機系丙組優先，上限90人",
     "name": "普通生物學(二) General Biology (II)",
     "num_limit": "90",
     "reg_num": "-999",
@@ -38056,7 +38068,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "567003",
-    "memo": "生物科技學系大一、醫學系醫師工程師組",
+    "memo": "生物科技學系大一、醫學系醫師工程師組、電機系丙組",
     "name": "普通生物學實驗 General Biology Lab.",
     "num_limit": "47",
     "reg_num": "-999",
@@ -38068,7 +38080,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "567004",
-    "memo": "生物科技學系大一、醫學系醫師工程師組",
+    "memo": "生物科技學系大一、醫學系醫師工程師組、電機系丙組",
     "name": "普通生物學實驗 General Biology Lab.",
     "num_limit": "47",
     "reg_num": "-999",

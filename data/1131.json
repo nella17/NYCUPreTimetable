@@ -3308,7 +3308,7 @@
     "name": "輔助科技導論 Introduction to Assistive Technology ",
     "num_limit": "50",
     "reg_num": "50",
-    "teacher": "李淑貞、蘇信昌、陳英聰",
+    "teacher": "李淑貞、徐麒晏、余虹、蘇信昌、陳英聰",
     "time": "T4-YB601[YM]"
   },
   "1131_112202": {
@@ -3956,7 +3956,7 @@
     "name": "物理治療臨床實習(六) Physical Therapy Practicum (VI)",
     "num_limit": "9999",
     "reg_num": "11",
-    "teacher": "羅鴻基、王子娟",
+    "teacher": "羅鴻基、王子娟、李君碩、莊頌音",
     "time": ""
   },
   "1131_112259": {
@@ -3994,6 +3994,18 @@
     "reg_num": "44",
     "teacher": "張力友",
     "time": "R56-YT206[YM]"
+  },
+  "1131_112302": {
+    "code": "BEIR20018",
+    "credit": "2.00",
+    "hours": "6.00",
+    "id": "112302",
+    "memo": "",
+    "name": "放射治療技術學實習 Radiation Therapy Technology Practice",
+    "num_limit": "0",
+    "reg_num": "1",
+    "teacher": "許世明",
+    "time": ""
   },
   "1131_112303": {
     "code": "BEIR10027",
@@ -4114,6 +4126,30 @@
     "reg_num": "41",
     "teacher": "羅清維、陳俊銘、俞震亞、林崇智、陳嘉霖、李敏嘉、姜為中、袁維謙",
     "time": "M5678-YED109[YM]"
+  },
+  "1131_112313": {
+    "code": "BEIR20026",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "112313",
+    "memo": "",
+    "name": "核醫藥物暨放射性同位素治療實習 Radiopharmaceuticals & Radioisotope Therapy Practice",
+    "num_limit": "0",
+    "reg_num": "1",
+    "teacher": "許世明",
+    "time": ""
+  },
+  "1131_112314": {
+    "code": "BEIR20028",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "112314",
+    "memo": "",
+    "name": "模具製作暨模擬攝影實習 Mold Room Technique & Simulation Practice",
+    "num_limit": "0",
+    "reg_num": "1",
+    "teacher": "許世明",
+    "time": ""
   },
   "1131_112315": {
     "code": "BEIR10030",
@@ -4438,6 +4474,54 @@
     "reg_num": "13",
     "teacher": "莊惠燕",
     "time": "W34-YT303[YM]"
+  },
+  "1131_112342": {
+    "code": "BEIR20050",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "112342",
+    "memo": "",
+    "name": "醫學物理學實習(治療計劃) Medical Physics Practice(Therapy Planning)",
+    "num_limit": "0",
+    "reg_num": "1",
+    "teacher": "許世明",
+    "time": ""
+  },
+  "1131_112343": {
+    "code": "BEIR20049",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "112343",
+    "memo": "",
+    "name": "醫學物理學實習(劑量學) Medical Physics Practice(Dosimetry)",
+    "num_limit": "0",
+    "reg_num": "1",
+    "teacher": "許世明",
+    "time": ""
+  },
+  "1131_112344": {
+    "code": "BEIR20051",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "112344",
+    "memo": "",
+    "name": "骨質密度測定及紅外線掃瞄實習 Bone Density Measurement and Infra-red Thermography Practice",
+    "num_limit": "9999",
+    "reg_num": "1",
+    "teacher": "許世明",
+    "time": ""
+  },
+  "1131_112345": {
+    "code": "BEIR20048",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "112345",
+    "memo": "",
+    "name": "醫學物理學實習(輻射安全) Medical Physics Practice(Radiation Safety)",
+    "num_limit": "9999",
+    "reg_num": "1",
+    "teacher": "許世明",
+    "time": ""
   },
   "1131_112401": {
     "code": "BEBN00002",
@@ -5732,7 +5816,7 @@
     "name": "藥理學專題討論(二) Seminar in Pharmacology (Ⅱ)",
     "num_limit": "9999",
     "reg_num": "17",
-    "teacher": "嚴錦城、李新城、邱士華、王湘翠、駱雨利、黃自強、張婷婷、兵岳忻、陳介甫、周士傑",
+    "teacher": "嚴錦城、李新城、王湘翠、駱雨利、黃自強、張婷婷、兵岳忻、陳介甫、周士傑",
     "time": "T1234-YR101[YM]"
   },
   "1131_130103": {
@@ -5756,7 +5840,7 @@
     "name": "藥理學專題討論(一) Seminar in Pharmacology (Ⅰ)",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "嚴錦城、李新城、霍德義、邱士華、王湘翠、駱雨利、陳世彬、黃自強、張婷婷、兵岳忻、陳介甫、洪舜郁、藍耿欣、張豫立、鄒嘉玲、周士傑",
+    "teacher": "嚴錦城、李新城、霍德義、王湘翠、駱雨利、陳世彬、黃自強、張婷婷、兵岳忻、陳介甫、洪舜郁、藍耿欣、張豫立、鄒嘉玲、周士傑",
     "time": "M1234-YR103[YM]"
   },
   "1131_130105": {
@@ -5780,7 +5864,7 @@
     "name": "藥理學 Pharmacology",
     "num_limit": "9999",
     "reg_num": "51",
-    "teacher": "王湘翠、黃金洲、林滿玉、李新城、霍德義、駱雨利、張世霖、胡德民、黃自強、張婷婷、兵岳忻、吳昭慶、洪舜郁、沈郁強、張豫立、王笙帆、周士傑、葉翰宜、蘇倖慧",
+    "teacher": "王湘翠、黃金洲、林滿玉、李新城、霍德義、駱雨利、張世霖、胡德民、黃自強、張婷婷、兵岳忻、嚴錦城、吳昭慶、洪舜郁、沈郁強、張豫立、王笙帆、周士傑、葉翰宜、蘇倖慧",
     "time": "R3456-YD105[YM],W56-YT202[YM]"
   },
   "1131_130107": {
@@ -8684,7 +8768,7 @@
     "name": "衛生行政與健康保險 Health Policy and Health Insurance",
     "num_limit": "35",
     "reg_num": "39",
-    "teacher": "黃世宗、李佳琪、李玉春、楊靖慧、廖薰香、蔡淑鈴、祝健芳、劉玉菁、諶立中、許銘能、李佩芸",
+    "teacher": "黃世宗、李佳琪、李玉春、楊靖慧、廖薰香、蔡淑鈴、祝健芳、劉玉菁、諶立中、許銘能、白姍綺、李佩芸",
     "time": "R56-YK533[YM]"
   },
   "1131_132008": {
@@ -11492,7 +11576,7 @@
     "name": "長照給付支付照管及個管 Long-Term Care Benefits/Payment  Design, Care And Case Management",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "李玉春、李淑貞、林麗嬋、吳肖琪、張淑卿、鄧菁菁",
+    "teacher": "李玉春、李淑貞、林麗嬋、吳肖琪、張淑卿、陳玉澤、鄧菁菁",
     "time": "T78-YN118[YM]"
   },
   "1131_133505": {
@@ -11840,7 +11924,7 @@
     "name": "腫瘤轉移的分子機制 Molecular Mechanisms of Tumor Metastasis",
     "num_limit": "9999",
     "reg_num": "28",
-    "teacher": "楊慕華、陳志丞、黃奇英、陳嘉霖、顏厥全、謝世良、黃雯華、葉奕成、林峻宇",
+    "teacher": "楊慕華、陳志丞、黃奇英、林峻宇、陳嘉霖、顏厥全、謝世良、黃雯華、葉奕成",
     "time": "F12-YL405[YM]"
   },
   "1131_140308": {
@@ -16699,7 +16783,7 @@
     "memo": "",
     "name": "創意機器人 Creative Robotics",
     "num_limit": "10",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "王識源",
     "time": "M678-HA101[GF]"
   },
@@ -19219,7 +19303,7 @@
     "memo": "資工系與電資學士班學生優先選課；本課程實際內容為『程式能力鑑定』考試，及格條件為通過任一次考試，除考試後及另訂定的助教輔導時間外，本課程無實體教學。主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "基礎程式設計 Basic Programming",
     "num_limit": "9999",
-    "reg_num": "167",
+    "reg_num": "173",
     "teacher": "吳凱強、洪瑞鴻、黃寗琪",
     "time": ""
   },
@@ -22460,7 +22544,7 @@
     "name": "專題討論(一) Seminar(I)",
     "num_limit": "200",
     "reg_num": "108",
-    "teacher": "學士後電子與光子",
+    "teacher": "張財銘",
     "time": "Tn-SA321[GF]"
   },
   "1131_520015": {

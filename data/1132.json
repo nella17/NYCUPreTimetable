@@ -6524,7 +6524,7 @@
     "name": "病理學 Pathology",
     "num_limit": "145",
     "reg_num": "134",
-    "teacher": "杭仁釩、李芬瑤、許志怡、王蕾琪、林士堯、楊靜芬、張富邦、劉雯玲",
+    "teacher": "杭仁釩、李芬瑤、許志怡、王蕾琪、林士堯、楊靜芬、張富邦、林宇勛、劉雯玲",
     "time": "T5678-YT002[YM]"
   },
   "1132_113401": {
@@ -6548,7 +6548,7 @@
     "name": "病理學實驗 Pathology Laboratory",
     "num_limit": "145",
     "reg_num": "135",
-    "teacher": "杭仁釩、李芬瑤、劉雯玲",
+    "teacher": "杭仁釩、李芬瑤、林宇勛、劉雯玲",
     "time": "T5678-YT002[YM]"
   },
   "1132_113500": {
@@ -9560,7 +9560,7 @@
     "name": "高等牙周病學-基本牙周治療篇 Advanced Periodontology - Basic Periodontal Therapy",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "賴玉玲、陳恆理、董醒任、陳彥廷、林怡君、陳軒弘",
+    "teacher": "林怡君、陳恆理、賴玉玲、董醒任、陳彥廷、陳軒弘",
     "time": "M5678T1234W1234R5678F5678-"
   },
   "1132_131412": {
@@ -9572,7 +9572,7 @@
     "name": "高等牙髓病學-顯微技術篇 Advanced Endodontics - Microscopic Technique",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "楊淑芬、黃妙玨、陳誼安、李亞芸、白勝方、徐永儀、何怡青、郭恬君、林漢星、闕玲惠、陳益貞、林慧青、黃裕文、錢正原、蔡佳倫、王友志",
+    "teacher": "何怡青、楊淑芬、黃妙玨、陳誼安、李亞芸、白勝方、徐永儀、郭恬君、林漢星、闕玲惠、陳益貞、林慧青、黃裕文、錢正原、蔡佳倫、王友志",
     "time": "M5678T1234W5678R1234F5678-"
   },
   "1132_131413": {
@@ -9584,7 +9584,7 @@
     "name": "高等牙髓病學(六) Advanced Endodontics (Ⅵ)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "楊淑芬、吳靜宜、陳誼安、李亞芸、白勝方、何怡青、郭恬君、林郁恆、陳正毅、陳益貞、蔡佳倫",
+    "teacher": "何怡青、吳靜宜、楊淑芬、陳誼安、李亞芸、白勝方、郭恬君、林郁恆、陳正毅、陳益貞、蔡佳倫",
     "time": "W9a-"
   },
   "1132_131414": {
@@ -11111,18 +11111,6 @@
     "teacher": "陳喬男、王鐘賢",
     "time": "F56-YB424[YM]"
   },
-  "1132_132415": {
-    "code": "BEPT30061",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "132415",
-    "memo": "",
-    "name": "預防醫學與運動科學(二) Preventive Medicine and Exercise Science (II)",
-    "num_limit": "20",
-    "reg_num": "0",
-    "teacher": "蔡美文、王鐘賢",
-    "time": "F56-YB429[YM]"
-  },
   "1132_132416": {
     "code": "BEPT30027",
     "credit": "3.00",
@@ -12046,6 +12034,18 @@
     "reg_num": "1",
     "teacher": "高正彥、張佩靖",
     "time": "M34-YC401[YM]"
+  },
+  "1132_132815": {
+    "code": "LSMI30056",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "132815",
+    "memo": "",
+    "name": "微生物及免疫學實驗教學(二) Microbiology and Immunology Laboratory Teaching Training (2)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳念榮",
+    "time": "S12-"
   },
   "1132_132900": {
     "code": "LSBM30019",
@@ -14026,6 +14026,18 @@
     "reg_num": "0",
     "teacher": "跨域神經科學國際學程",
     "time": "M56-"
+  },
+  "1132_142906": {
+    "code": "LSNS30080",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "142906",
+    "memo": "上課教室：中研院TIGP-INS，不開放系統加選。",
+    "name": "神經生物學特論 Special Topics in Neurobiology",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "跨域神經科學國際學程",
+    "time": "S12-"
   },
   "1132_143100": {
     "code": "LSBI30010",
@@ -17471,18 +17483,6 @@
     "teacher": "廖光文、鄒協成",
     "time": "F567-BI310[BA]"
   },
-  "1132_430032": {
-    "code": "BTBT30044",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "430032",
-    "memo": "",
-    "name": "微生物生理及遺傳學 Microbial Physiology and Genetics",
-    "num_limit": "0",
-    "reg_num": "9",
-    "teacher": "曾慶平",
-    "time": "R34-BI302[BA]"
-  },
   "1132_430034": {
     "code": "BTBT30197",
     "credit": "1.00",
@@ -19507,7 +19507,7 @@
     "memo": "",
     "name": "複變函數 Complex Variables",
     "num_limit": "50",
-    "reg_num": "61",
+    "reg_num": "62",
     "teacher": "陳永平",
     "time": "M2W34-EE207[GF]"
   },
@@ -22423,7 +22423,7 @@
     "memo": "",
     "name": "分析化學(一) Analytical Chemtistry (1)",
     "num_limit": "60",
-    "reg_num": "51",
+    "reg_num": "48",
     "teacher": "詹揚翔",
     "time": "T34F2-SC159[GF]"
   },
@@ -29491,7 +29491,7 @@
     "memo": "開放大三大四選修。",
     "name": "知識經濟時代的策略思維 Strategic Thinking in the Era of Knowledge Economy",
     "num_limit": "40",
-    "reg_num": "42",
+    "reg_num": "43",
     "teacher": "郭國泰、朱博湧",
     "time": "M567-M301[GF]"
   },
@@ -30655,7 +30655,7 @@
     "memo": "[English Medium Course]",
     "name": "科技管理之永續發展與社會責任 Sustainability Development and Social Responsibility in Technology Management",
     "num_limit": "10",
-    "reg_num": "12",
+    "reg_num": "13",
     "teacher": "林士平",
     "time": "F789-A722[GF]"
   },
@@ -31675,7 +31675,7 @@
     "memo": "",
     "name": "法學研究方法專題 Special Topics on Legal Research Methodology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "施明遠",
     "time": ""
   },
@@ -33883,7 +33883,7 @@
     "memo": "",
     "name": "科技與博雅之反思 Reflections on S＆T and Liberal Arts",
     "num_limit": "70",
-    "reg_num": "53",
+    "reg_num": "54",
     "teacher": "胡慧蘭、陳智、林文旭、林炯源、戴立嘉、劉佩青、陳翎、水敬心、程海東",
     "time": "M56-A204[GF]"
   },
@@ -33942,8 +33942,8 @@
     "id": "561505",
     "memo": "本課程為非同步線上教學課程，課程營運以網路授課為主。教學團隊將於課程開始前於 e3平台上進行課程影音上傳、測驗與討論區設定等課程建置。課程開始後，修課學生需在e3上完成教學活動。",
     "name": "解鎖大腦，腦力全開 Boost your brain: Unlocking the Secrets of memory, intelligence and beyond",
-    "num_limit": "50",
-    "reg_num": "50",
+    "num_limit": "55",
+    "reg_num": "56",
     "teacher": "王培寧",
     "time": "Wab-ED101[GF]"
   },
@@ -38142,8 +38142,8 @@
     "id": "569001",
     "memo": "限大三、大四。\n不接受修讀過「營運管理」同學修讀。",
     "name": "永續企業-建立卓越的營運管理系統 Sustainable Business- Building Excellent Operations Management System",
-    "num_limit": "72",
-    "reg_num": "83",
+    "num_limit": "79",
+    "reg_num": "84",
     "teacher": "李榮貴",
     "time": "W56-A202[GF]"
   },
@@ -38178,7 +38178,7 @@
     "id": "569005",
     "memo": "限大二以上。\n確認選修時請加入 https://www.facebook.com/groups/cep202502 課程臉書社團。",
     "name": "循環經濟與實務 Circular Economy and Practices",
-    "num_limit": "16",
+    "num_limit": "18",
     "reg_num": "15",
     "teacher": "高正忠",
     "time": "R34-EV407[GF]"
@@ -39524,7 +39524,7 @@
     "name": "協作工業機器人手臂 Collaborative Industrial Robotic Arms Course",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "待聘",
+    "teacher": "林煌鈞",
     "time": "M567-CM215[GR]"
   },
   "1132_639402": {
@@ -39560,7 +39560,7 @@
     "name": "智慧生產 Intelligent Manufacturing",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "待聘",
+    "teacher": "潘俊傑",
     "time": "R567-CM215[GR]"
   },
   "1132_639405": {
@@ -43552,7 +43552,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910323",
-    "memo": "動力組造船班，上課地點：國防大學理工學院",
+    "memo": "調整上課時間為R234。動力組造船班，上課地點：國防大學理工學院",
     "name": "造船原理(1) Principles of Naval Architecture (1)",
     "num_limit": "9999",
     "reg_num": "4",
@@ -43696,7 +43696,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910335",
-    "memo": "動力組造船班，上課地點：國防大學理工學院，授課教師：劉思遠老師",
+    "memo": "調整上課時間為F346。動力組造船班，上課地點：國防大學理工學院，授課教師：劉思遠老師",
     "name": "輪機工程(1) Marine Engineering (1)",
     "num_limit": "9999",
     "reg_num": "5",
@@ -43780,7 +43780,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910342",
-    "memo": "動力組兵器班，上課地點：國防大學理工學院",
+    "memo": "調整上課時間為Tabc。動力組兵器班，上課地點：國防大學理工學院",
     "name": "彈道學及實驗(2) Ballistics and Experiments(2)",
     "num_limit": "9999",
     "reg_num": "0",

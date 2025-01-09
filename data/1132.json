@@ -4628,7 +4628,7 @@
     "name": "肌動學 Kinesiology",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "施怡芬、周立偉、李淑貞、林吟亮、黃崇舜",
+    "teacher": "施怡芬、周立偉、李淑貞、林吟亮、黃崇舜、劉育銓",
     "time": "M567-YB602[YM]"
   },
   "1132_112204": {
@@ -7240,7 +7240,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "130108",
-    "memo": "[English Medium Course]The first course will be hold on 15:30-17:20, 26 Feb at 402R, Library & Information and Research Building (圖資402室).\n※ For student not enroll in Yang-Ming campus, please join the class on google",
+    "memo": "[English Medium Course]The first course will be hold on 15:30-17:20, 26 Feb at 402R, Library Information and Research Building (圖資402室).\n※ For student not enroll in Yang-Ming campus, please join the class on google",
     "name": "藥理學概論 Introduction of Pharmacology",
     "num_limit": "9999",
     "reg_num": "13",
@@ -12345,7 +12345,7 @@
     "num_limit": "9999",
     "reg_num": "48",
     "teacher": "李曉暉、陳胤全、楊慕華、郭津岑、蔡金吾、羅俊民",
-    "time": "R78-YR104[YM]"
+    "time": "R78-YK101[YM]"
   },
   "1132_133013": {
     "code": "LSGS30024",
@@ -13432,7 +13432,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "141006",
-    "memo": "[English Medium Course]上課時間：10:00-12:00，上課地點：中研究生醫所8樓TIGP教室，授課教師：張雅貞研究員，限轉譯醫學博士學位學程學生修讀。",
+    "memo": "[English Medium Course]上課時間：10:00-12:00，上課地點：中研究生醫所8樓TIGP教室，授課教師：張雅貞研究員，限轉譯醫學博士學位學程及分子醫學博士學位學程學生修讀。",
     "name": "免疫學 Immunology",
     "num_limit": "9999",
     "reg_num": "0",
@@ -15232,7 +15232,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161054",
-    "memo": "",
+    "memo": "跨校區教學且兩校區均有教室；陽明校區:YX201；光復校區: A103",
     "name": "智慧財產權導論 Introduction to intellectual property right",
     "num_limit": "30",
     "reg_num": "14",
@@ -16844,7 +16844,7 @@
     "name": "生物化學（二） Biochemistry (II)",
     "num_limit": "50",
     "reg_num": "50",
-    "teacher": "蕭育源、高智飛",
+    "teacher": "蕭育源、高智飛、張晉源",
     "time": "W234-BI309[BA]"
   },
   "1132_410013": {
@@ -19687,7 +19687,7 @@
     "memo": "1、限大三、大四選修，電機學院學生優先。2、需修習過電路學、電子學、以及「類比積體電路導論」課程且及格者。",
     "name": "類比積體電路實驗 Analog Integrated Circuits LAB",
     "num_limit": "60",
-    "reg_num": "62",
+    "reg_num": "71",
     "teacher": "柯明道",
     "time": "Rabc-ED220[GF]"
   },
@@ -20670,7 +20670,7 @@
     "id": "515608",
     "memo": "[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously] 主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課。1.學士班七大主題學程。2.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "密碼學概論 Introduction to Cryptography",
-    "num_limit": "150",
+    "num_limit": "180",
     "reg_num": "150",
     "teacher": "易志偉",
     "time": "F56-ED117[GF]"
@@ -22639,7 +22639,7 @@
     "memo": "如欲選修本課程，請至應化系辦公室索取專題指導教授同意書，於系辦規定之時程內，完成簽署且將專題指導教授同意書繳回系辦，俾利選課。",
     "name": "專題研究(三) Research(3)",
     "num_limit": "0",
-    "reg_num": "1",
+    "reg_num": "2",
     "teacher": "鄭彥如",
     "time": "S234-"
   },
@@ -25807,7 +25807,7 @@
     "memo": "電子所優先",
     "name": "元件電路計測實驗 Device and Circuit Characterization Laboratory",
     "num_limit": "40",
-    "reg_num": "28",
+    "reg_num": "29",
     "teacher": "簡昭欣",
     "time": "R567-ED201[GF]"
   },
@@ -25939,7 +25939,7 @@
     "memo": "[English Medium Course](1)上課時間W56–ED415, Wcd–LAB(2)第二、第三階段選課：開放選課且電子所、電機系、產創學院優先；不開放填寫google加簽表單(3)開學後加退選階段：開放選課；開放填寫google加簽表單且依規定加簽。加簽方式會在第一堂課時說明並提供表單，欲加簽同學第一堂課請務必要來。 (4)未加選到同學依照學系、年級等進行篩選後網路加簽(詳細順位排序方式於第一堂課公布)，加簽總人數會經老師評估後決定。如為外系所、外校欲進行加選，除填表單外，亦須提供曾修習兩門或兩門以上相關課程之修課成績單。若外系所、外校無提供成績單，即便選課系統選上，亦會被手動退選。相關課程：1.邏輯設計 2.數位電路與系統3.超大型積體電路設計導論(VLSI)4.數位積體電路(DIC)",
     "name": "積體電路設計實驗 Integrated Circuit Design Laboratory",
     "num_limit": "60",
-    "reg_num": "72",
+    "reg_num": "77",
     "teacher": "李鎮宜",
     "time": "W56cd-"
   },
@@ -26191,7 +26191,7 @@
     "memo": "上課地點：工五館國際會議廳",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "84",
+    "reg_num": "83",
     "teacher": "李慶鴻",
     "time": "W56-EEB24[GF]"
   },
@@ -26920,7 +26920,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535508",
-    "memo": "資資訊學院優先(不開放在職專班網路選課)。1.深度學習與深度學習實驗兩門課需同時選修才能採計學分。採用選修深度學習課程後自動加選深度學習實驗課程，不得有異議。2.與「深度學習與實務」為新舊課程僅能採計一門為畢業學分，不能重覆採計。3.博士班資格考考核科目(選修「深度學習」課程後自動加選「深度學習實驗」課程，兩門課皆須完成。)。4.前瞻所113學年入學乙組專業核心課程。",
+    "memo": "資資訊學院優先(不開放在職專班網路選課)。1.深度學習與深度學習實驗兩門課需同時選修才能採計學分。採用選修深度學習課程後自動加選深度學習實驗課程，不得有異議。2.與「深度學習與實務」為新舊課程僅能採計一門為畢業學分，不能重覆採計。3.博士班資格考考核科目(選修「深度學習」課程後自動加選「深度學習實驗」課程，兩門課皆須完成。)。",
     "name": "深度學習實驗 Deep Learning Labs",
     "num_limit": "0",
     "reg_num": "0",
@@ -28699,7 +28699,7 @@
     "memo": "",
     "name": "半導體物理及元件（二） Semiconductor Physics and Devices (II)",
     "num_limit": "120",
-    "reg_num": "120",
+    "reg_num": "121",
     "teacher": "蘇俊榮",
     "time": "T789-SC160[GF]"
   },
@@ -29764,7 +29764,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537151",
-    "memo": "英文授課、非IMBA課程、限GMBA學生，學分班與GMBA碩班合開[English Medium Course]",
+    "memo": "英文授課、非IMBA課程、限GMBA學生，學分班與GMBA碩班合開[English Medium Course]\nNon GMBAer (Exchange students ONLY) please fill out the application form (https://forms.gle/gFKhLGEnPjFiHGM48) for professors&#039; approval.",
     "name": "營運與供應鏈管理 Operations and Supply Chain Management",
     "num_limit": "9999",
     "reg_num": "21",
@@ -29800,7 +29800,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537154",
-    "memo": "英文授課、非IMBA課程、限GMBA學生[English Medium Course]",
+    "memo": "英文授課、非IMBA課程、限GMBA學生[English Medium Course]\nNon GMBAer (Exchange students ONLY) please fill out the application form (https://forms.gle/gGv5Kn1wnEbNDU6W6) for professors&#039; approval.",
     "name": "企業啟動之策略發展與管理 Business Launchpad: Planning and Managing Strategies",
     "num_limit": "9999",
     "reg_num": "23",
@@ -32773,8 +32773,8 @@
   },
   "1132_557906": {
     "code": "LWLW30088",
-    "credit": "2.00",
-    "hours": "2.00",
+    "credit": "3.00",
+    "hours": "3.00",
     "id": "557906",
     "memo": "",
     "name": "專利法專題研究 Seminar on Patent Law",
@@ -33199,7 +33199,7 @@
     "memo": "「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制)核心社會,欲採計核心自然請至通識中心書面申請。3.線上選課不開放加簽",
     "name": "普通心理學 General Psychology",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "51",
     "teacher": "林米庭",
     "time": "W34-A204[GF]"
   },
@@ -33223,7 +33223,7 @@
     "memo": "「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制)核心社會,欲採計核心自然請至通識中心書面申請。3.線上選課不開放加簽",
     "name": "普通心理學 General Psychology",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "53",
     "teacher": "林米庭",
     "time": "F34-A204[GF]"
   },
@@ -38935,7 +38935,7 @@
     "memo": "1.本課程為103-107學年度進入教育學程學生必選課程，可採計為教育議題專題(教育時事議題)。2.就108學年度(含)以後進入教育學程學生而言，本門課屬選修課程。3.非師資生修讀本課程，需至課務組下載並填寫網路選課加退選處理表，經任課老師同意送師培中心辦理加簽。4.屬 【教育與心理大數據微學程】、【適性與補救教學微學程】 課程。",
     "name": "教育時事議題 Current Issues of Eduaction",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "7",
     "teacher": "林米庭",
     "time": "R78-HA217[GF]"
   },

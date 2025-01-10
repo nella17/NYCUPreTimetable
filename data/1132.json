@@ -5479,7 +5479,7 @@
     "memo": "",
     "name": "放射物理學實驗(二)(A) Radiation Physics Lab.",
     "num_limit": "9999",
-    "reg_num": "19",
+    "reg_num": "20",
     "teacher": "吳杰",
     "time": "M78-YB118[YM]"
   },
@@ -5491,7 +5491,7 @@
     "memo": "",
     "name": "放射物理學實驗(二)(B) Radiation Physics Lab.",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "20",
     "teacher": "吳杰",
     "time": "T78-YB118[YM]"
   },
@@ -17946,7 +17946,7 @@
     "id": "514006",
     "memo": "",
     "name": "建築概論 Introduction to Architecture",
-    "num_limit": "60",
+    "num_limit": "100",
     "reg_num": "60",
     "teacher": "凌天",
     "time": "F34-"
@@ -19687,7 +19687,7 @@
     "memo": "1、限大三、大四選修，電機學院學生優先。2、需修習過電路學、電子學、以及「類比積體電路導論」課程且及格者。",
     "name": "類比積體電路實驗 Analog Integrated Circuits LAB",
     "num_limit": "60",
-    "reg_num": "71",
+    "reg_num": "72",
     "teacher": "柯明道",
     "time": "Rabc-ED220[GF]"
   },
@@ -21127,7 +21127,7 @@
     "memo": "2A [English Medium Course]",
     "name": "工程數學（二） Engineering Mathematics (II)",
     "num_limit": "65",
-    "reg_num": "69",
+    "reg_num": "70",
     "teacher": "張瑞永",
     "time": "M78W3-EE106[GF]"
   },
@@ -22639,7 +22639,7 @@
     "memo": "如欲選修本課程，請至應化系辦公室索取專題指導教授同意書，於系辦規定之時程內，完成簽署且將專題指導教授同意書繳回系辦，俾利選課。",
     "name": "專題研究(三) Research(3)",
     "num_limit": "0",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "鄭彥如",
     "time": "S234-"
   },
@@ -22711,7 +22711,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(2/10提供)，登記時間至開學上課第一週週三(2/19)下午四點截止，於當週四分發，逾時不候，因電腦教室座位數上限，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。",
     "name": "程式設計 Programming",
     "num_limit": "55",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "吳浩庠",
     "time": "T567-M-b01[GF]"
   },
@@ -22771,7 +22771,7 @@
     "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限93人，得請授課教師簽准後可放寬至98人。",
     "name": "線性代數 Linear Algebra",
     "num_limit": "93",
-    "reg_num": "76",
+    "reg_num": "77",
     "teacher": "賴學儀",
     "time": "R567-MB520[GF]"
   },
@@ -26935,7 +26935,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)。1.請依各所入學年度之修業要點選課。2.博士班資格考考核科目。3.前瞻所113學年入學乙組專業核心課程。",
     "name": "演算法 Algorithms",
     "num_limit": "140",
-    "reg_num": "140",
+    "reg_num": "139",
     "teacher": "荊宇泰",
     "time": "M34n-ED117[GF]"
   },
@@ -27031,7 +27031,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)。",
     "name": "交通資料分析 Traffic data analysis",
     "num_limit": "25",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "張明峰",
     "time": "T34n-EC114[GF]"
   },
@@ -27824,7 +27824,7 @@
     "name": "人因工程 Human Factors Engineering",
     "num_limit": "50",
     "reg_num": "14",
-    "teacher": "待聘",
+    "teacher": "林伯鴻",
     "time": "R234-EE205[GF]"
   },
   "1132_536075": {
@@ -27896,7 +27896,7 @@
     "name": "黏性流體力學 Viscous Fluid Dynamics",
     "num_limit": "40",
     "reg_num": "33",
-    "teacher": "機械系",
+    "teacher": "胡相宸",
     "time": "F567-EE206[GF]"
   },
   "1132_536104": {
@@ -30899,6 +30899,18 @@
     "teacher": "施明遠",
     "time": ""
   },
+  "1132_537921": {
+    "code": "LWLW30163",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "537921",
+    "memo": "限科法所碩士班報專討同學選修(不開放選課,由所辦加選)",
+    "name": "碩士論文研究 Thesis of Master Degree",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "科法所",
+    "time": ""
+  },
   "1132_537922": {
     "code": "LWLW30259",
     "credit": ".00",
@@ -33211,7 +33223,7 @@
     "memo": "「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制)核心社會,欲採計核心自然請至通識中心書面申請。3.線上選課不開放加簽",
     "name": "普通心理學 General Psychology",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "53",
     "teacher": "林米庭",
     "time": "F12-A204[GF]"
   },
@@ -33223,7 +33235,7 @@
     "memo": "「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制)核心社會,欲採計核心自然請至通識中心書面申請。3.線上選課不開放加簽",
     "name": "普通心理學 General Psychology",
     "num_limit": "50",
-    "reg_num": "53",
+    "reg_num": "54",
     "teacher": "林米庭",
     "time": "F34-A204[GF]"
   },
@@ -33943,7 +33955,7 @@
     "memo": "本課程為非同步線上教學課程，課程營運以網路授課為主。教學團隊將於課程開始前於 e3平台上進行課程影音上傳、測驗與討論區設定等課程建置。課程開始後，修課學生需在e3上完成教學活動。",
     "name": "解鎖大腦，腦力全開 Boost your brain: Unlocking the Secrets of memory, intelligence and beyond",
     "num_limit": "55",
-    "reg_num": "56",
+    "reg_num": "58",
     "teacher": "王培寧",
     "time": "Wab-ED101[GF]"
   },
@@ -38434,18 +38446,6 @@
     "reg_num": "0",
     "teacher": "藝文中心",
     "time": ""
-  },
-  "1132_576000": {
-    "code": "AATL10011",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "576000",
-    "memo": "",
-    "name": "英國文化史 Perspectives in British History and Culture",
-    "num_limit": "30",
-    "reg_num": "30",
-    "teacher": "蕭智尹",
-    "time": "W34n-"
   },
   "1132_576001": {
     "code": "AATL20008",

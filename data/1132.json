@@ -10843,7 +10843,7 @@
     "memo": "學碩合開",
     "name": "數值分析 Numerical Method",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "鄔蜀威",
     "time": "W234-YEA200[YM]"
   },
@@ -26659,7 +26659,7 @@
     "memo": "光復校區上課地點為交映樓一樓國際會議廳(101),陽明校區上課地點為教學大樓綜3教室(YT003)[跨教室遠距課程]",
     "name": "智慧醫電概論 Introduction to Intelligent Bioelectronics",
     "num_limit": "100",
-    "reg_num": "100",
+    "reg_num": "99",
     "teacher": "孫家偉、林慶波、吳育德、林峻立、賴穎暉、李博仁、陳冠宇、陳俐吟、田仲豪、張立鴻、陳榮治、江柏翰、唐高駿、李正匡",
     "time": "F234-YT003[YM]"
   },
@@ -32575,7 +32575,7 @@
     "memo": "1.與學分班合開 2.限本校在職專班學生選修 3.依資財系網站 https://imf.nycu.edu.tw/ 公告之課程時間表上課。",
     "name": "財務報表分析 Financial Statement Analysis ",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "林瑞嘉",
     "time": "S567-M101[GF]"
   },
@@ -32587,7 +32587,7 @@
     "memo": "1.與學分班合開 2.限本校在職專班學生選修 3.依資財系網站 https://imf.nycu.edu.tw/ 公告之課程時間表上課。",
     "name": "國際財務管理 Multinational Financial Management",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "梁婉麗",
     "time": "U234-M101[GF]"
   },

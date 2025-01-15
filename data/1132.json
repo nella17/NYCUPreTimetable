@@ -3044,7 +3044,7 @@
     "name": "牙周病學 Periodontology",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "林怡君、洪善鈴、陳恆理、賴玉玲、董醒任、陳彥廷、黃惠華、陳軒弘、陳雅琪",
+    "teacher": "林怡君、洪善鈴、陳恆理、賴玉玲、董醒任、陳彥廷、黃惠華、陳軒弘、陳雅琪、賴宗筳",
     "time": "R34-YD105[YM]"
   },
   "1132_111533": {
@@ -3056,7 +3056,7 @@
     "name": "牙周病學實驗 Periodontology Lab.",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "林怡君、陳恆理、賴玉玲、董醒任、陳彥廷、黃惠華、陳軒弘",
+    "teacher": "林怡君、陳恆理、賴玉玲、董醒任、陳彥廷、黃惠華、陳軒弘、賴宗筳",
     "time": "R567-YD214[YM]"
   },
   "1132_111534": {
@@ -3164,7 +3164,7 @@
     "name": "牙醫倫理學 Dental Ethics",
     "num_limit": "50",
     "reg_num": "40",
-    "teacher": "許明倫、高壽延、季麟揚、羅文良、楊淑芬、陳亮如、林怡君、吳姿瑩、何怡青、鄧政雄、張采宇、何家銘",
+    "teacher": "許明倫、高壽延、季麟揚、楊政杰、羅文良、楊淑芬、陳亮如、林怡君、吳姿瑩、何怡青、鄧政雄、張采宇、何家銘",
     "time": "R56-YD105[YM]"
   },
   "1132_111547": {
@@ -5350,6 +5350,18 @@
     "reg_num": "20",
     "teacher": "王子娟、陳子敬",
     "time": "Wyz-"
+  },
+  "1132_112264": {
+    "code": "BEPT20092",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "112264",
+    "memo": "",
+    "name": "女性健康物理治療 Women Health in Physical Therapy",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "王子娟、陳怡同、謝妮芸",
+    "time": "Uyz-YB601[YM]"
   },
   "1132_112300": {
     "code": "BEIR10002",
@@ -18200,8 +18212,8 @@
     "name": "生命故事探索 Explore Your Stories of Inner Life",
     "num_limit": "20",
     "reg_num": "19",
-    "teacher": "蕭智尹",
-    "time": "T34-"
+    "teacher": "曾聖凱",
+    "time": "T34-HA109[GF]"
   },
   "1132_514027": {
     "code": "HSCH20018",
@@ -21139,7 +21151,7 @@
     "memo": "2A [English Medium Course]",
     "name": "工程數學（二） Engineering Mathematics (II)",
     "num_limit": "65",
-    "reg_num": "72",
+    "reg_num": "73",
     "teacher": "張瑞永",
     "time": "M78W3-EE106[GF]"
   },
@@ -26011,7 +26023,7 @@
     "memo": "[English Medium Course]",
     "name": "機器學習智能晶片設計 Machine Learning Intelligent Chip Design",
     "num_limit": "130",
-    "reg_num": "73",
+    "reg_num": "74",
     "teacher": "陳坤志",
     "time": "W234-ED219[GF]"
   },
@@ -26023,7 +26035,7 @@
     "memo": "",
     "name": "類比積體電路 Analog Integrated Circuits",
     "num_limit": "120",
-    "reg_num": "86",
+    "reg_num": "87",
     "teacher": "陳巍仁",
     "time": "R2-EC015[GF],M34-ED219[GF]"
   },
@@ -26683,7 +26695,7 @@
     "memo": "光復校區上課地點為交映樓一樓國際會議廳(101),陽明校區上課地點為教學大樓綜3教室(YT003)[跨教室遠距課程]",
     "name": "智慧醫電概論 Introduction to Intelligent Bioelectronics",
     "num_limit": "100",
-    "reg_num": "99",
+    "reg_num": "98",
     "teacher": "孫家偉、林慶波、吳育德、林峻立、賴穎暉、李博仁、陳冠宇、陳俐吟、田仲豪、張立鴻、陳榮治、江柏翰、唐高駿、李正匡",
     "time": "F234-YT003[YM]"
   },
@@ -31267,7 +31279,7 @@
     "memo": "",
     "name": "書報討論D Special Topic Seminar D",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "陳冠宇",
     "time": "Mz1-EE118[GF]"
   },
@@ -31303,7 +31315,7 @@
     "memo": "生醫所主開",
     "name": "生醫統計學 Biomedical Statistics",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "陳稷康",
     "time": "R234-EDB01[GF]"
   },
@@ -31315,7 +31327,7 @@
     "memo": "生醫所主開",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "孫家偉",
     "time": "W56-EE105[GF]"
   },
@@ -31327,7 +31339,7 @@
     "memo": "[English Medium Course]研,大四",
     "name": "神經彌補裝置 Neural Prostheses",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "蔡德明",
     "time": "R567-EE113[GF]"
   },
@@ -35599,7 +35611,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "53",
+    "reg_num": "54",
     "teacher": "何胤樓",
     "time": "M12-PE[GF]"
   },
@@ -35767,7 +35779,7 @@
     "memo": "第一階段開放選課系級：\n百川2\n奈米2\n機械2\n土木2\n資工2\n電物2\n應數2\n外文2\n生科2\n醫學系(醫師工程師組)2",
     "name": "體育－排球甲 Volleyball",
     "num_limit": "40",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "張振興",
     "time": "T78-PE[GF]"
   },

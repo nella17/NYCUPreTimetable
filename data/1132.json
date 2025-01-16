@@ -6628,7 +6628,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113507",
-    "memo": "公共衛生領域必修，限醫學系二年級(含)以上。醫學系醫師工程師組請至書田館106室上課。",
+    "memo": "限醫學系二年級(含)以上。醫學系醫師工程師組請至書田館106室上課。本課程為應考公共衛生師指定修習科目。",
     "name": "生物統計學 Biostatistics",
     "num_limit": "150",
     "reg_num": "135",
@@ -6640,7 +6640,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113508",
-    "memo": "公共衛生領域必修，限醫學系二年級(含)以上。醫學系醫師工程師組請至資訊館CS100教室上課。",
+    "memo": "限醫學系二年級(含)以上。醫學系醫師工程師組請至資訊館CS100教室上課。本課程為應考公共衛生師指定修習科目。",
     "name": "流行病學 Epidemiology",
     "num_limit": "150",
     "reg_num": "138",
@@ -8756,7 +8756,7 @@
     "name": "生物醫學資訊學基礎(二) Foundations for Biomedical Informatics II",
     "num_limit": "9999",
     "reg_num": "31",
-    "teacher": "黃宣誠、巫坤品、鍾翊方、張博論、吳俊穎、王禹超、林振慶、洪哲倫",
+    "teacher": "黃宣誠、蘇家玉、巫坤品、鍾翊方、張博論、吳俊穎、王禹超、林振慶、洪哲倫",
     "time": "M78-YR101[YM]"
   },
   "1132_131003": {
@@ -11937,7 +11937,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "呂春敏、陳紀如、顧正崙",
-    "time": "R34-YC401[YM]"
+    "time": "R34-YC302[YM]"
   },
   "1132_132807": {
     "code": "LSMI30012",
@@ -12502,18 +12502,6 @@
     "reg_num": "8",
     "teacher": "游尚愷",
     "time": "T567-YX211[YM]"
-  },
-  "1132_133101": {
-    "code": "HSPH30002",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "133101",
-    "memo": "[English Medium Course]",
-    "name": "AI、自我與主體性 Agency, self, and AI",
-    "num_limit": "9999",
-    "reg_num": "2",
-    "teacher": "林映彤、艾力",
-    "time": "W567-YX321[YM]"
   },
   "1132_133102": {
     "code": "HSPH30005",
@@ -13255,7 +13243,7 @@
     "memo": "博一必修，上課時間為每週四1600-1750。",
     "name": "博士論文研究初報 Research Review of Thesis - PhD Program",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "鄭玫枝、陳理維、許瀚水、丁乾坤、林邑璁、宋思賢、劉嘉仁",
     "time": "R78-YN118[YM]"
   },
@@ -13809,7 +13797,7 @@
     "num_limit": "9999",
     "reg_num": "4",
     "teacher": "葛一樊",
-    "time": "R34-YC302[YM]"
+    "time": "R34-YC401[YM]"
   },
   "1132_142504": {
     "code": "LSMI30053",
@@ -21067,7 +21055,7 @@
     "memo": "2B [English Medium Course]",
     "name": "應用力學（二） Applied Mechanics (II)",
     "num_limit": "60",
-    "reg_num": "61",
+    "reg_num": "63",
     "teacher": "劉義強",
     "time": "T2R56-EE106[GF]"
   },
@@ -21151,7 +21139,7 @@
     "memo": "2A [English Medium Course]",
     "name": "工程數學（二） Engineering Mathematics (II)",
     "num_limit": "65",
-    "reg_num": "73",
+    "reg_num": "74",
     "teacher": "張瑞永",
     "time": "M78W3-EE106[GF]"
   },
@@ -27187,7 +27175,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課);本課程全由台積電業師授課。",
     "name": "雲原生軟體開發與最佳實踐 Cloud Native Development: towards Best Practice",
     "num_limit": "100",
-    "reg_num": "100",
+    "reg_num": "104",
     "teacher": "曾建超、黃俊龍",
     "time": "Wabc-ED117[GF]"
   },
@@ -28883,6 +28871,18 @@
     "teacher": "仲崇厚",
     "time": "W8-SC160[GF],T34-SC259[GF]"
   },
+  "1132_536615": {
+    "code": "SCEP30063",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536615",
+    "memo": "[English Medium Course]",
+    "name": "量子計算與量子複雜度導論 Introduction to Quantum Computation and Quantum Information",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "T56W9-SC151[GF]"
+  },
   "1132_536700": {
     "code": "SCMA30046",
     "credit": "3.00",
@@ -29506,6 +29506,18 @@
     "reg_num": "9",
     "teacher": "譚雪瑩",
     "time": "W89F5-SC157[GF]"
+  },
+  "1132_536963": {
+    "code": "SCIP20003",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536963",
+    "memo": "[English Medium Course]本課程為大學部課程。",
+    "name": "進階實驗(二) Advanced Lab (II)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林貴林",
+    "time": ""
   },
   "1132_537000": {
     "code": "MGMS30004",
@@ -33271,7 +33283,7 @@
     "memo": "「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制)核心社會,欲採計核心自然請至通識中心書面申請。3.線上選課不開放加簽",
     "name": "普通心理學 General Psychology",
     "num_limit": "50",
-    "reg_num": "54",
+    "reg_num": "55",
     "teacher": "林米庭",
     "time": "F34-A204[GF]"
   },
@@ -42808,7 +42820,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910258",
-    "memo": "化材組，此課程由黃爾文老師授課X週，地點於光復校區，其餘16-X週由王哲釧老師授課，上課地點於國防大學理工學院",
+    "memo": "化材組，此課程由黃爾文老師授課4週，地點於光復校區，其餘12-14週由王哲釧老師授課，上課地點於國防大學理工學院",
     "name": "材料實驗 Experiments on Materials",
     "num_limit": "9999",
     "reg_num": "21",

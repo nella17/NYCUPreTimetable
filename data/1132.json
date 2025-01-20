@@ -12548,7 +12548,7 @@
     "name": "哲學專題討論(二) Seminar in Philosophy II",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "嚴如玉",
+    "teacher": "嚴如玉、艾力、杜培基、洪裕宏",
     "time": "F78-YX321[YM]"
   },
   "1132_133200": {
@@ -13964,7 +13964,7 @@
     "name": "跨領域神經科學講座 Interdisciplinary Neuroscience lecture",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "郭紘志",
+    "teacher": "周坤賢",
     "time": ""
   },
   "1132_142901": {
@@ -21259,7 +21259,7 @@
     "memo": "上課時間：2/19(三) 10:00~20:00, 2/20(四) 11:00~20:00, 2/21(五) 13:30~15:30。上課教室：EE324。",
     "name": "空中軟機器人實作 Practice of Soft Aerial Robotics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "20",
     "teacher": "劉義強",
     "time": ""
   },

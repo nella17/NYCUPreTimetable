@@ -3092,7 +3092,7 @@
     "name": "固定贋復學 Fixed Prosthodontics",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "李士元、陳恆理、葉聖威、董愛康、王君伃、洪振元、謝昀伶、陳信宏",
+    "teacher": "李士元、葉聖威、陳恒理、董愛康、王君伃、洪振元、謝昀伶、陳信宏",
     "time": "W12-YD210[YM]"
   },
   "1132_111537": {
@@ -3140,7 +3140,7 @@
     "name": "口腔植體學 Clinical Dental Implantology",
     "num_limit": "50",
     "reg_num": "40",
-    "teacher": "許明倫、陳恆理、羅文良、楊淑芬、張志麟、陳正毅、謝昀伶、許綺真、陳青青、楊書維、張毓靜、何家銘",
+    "teacher": "許明倫、羅文良、楊淑芬、陳恒理、張志麟、陳正毅、謝昀伶、許綺真、陳青青、楊書維、張毓靜、何家銘",
     "time": "R12-YD214[YM]"
   },
   "1132_111545": {
@@ -3380,7 +3380,7 @@
     "name": "牙科技術觀摩 Clinical Skills Demonstration in Dentistry",
     "num_limit": "50",
     "reg_num": "40",
-    "teacher": "施文宇、高壽延、李士元、張國威、陳恆理、楊政杰、洪凱風、耿藝文、張景智、賴玉玲、吳政憲、羅文良、楊淑芬、何怡青、林怡君、董愛康、吳姿瑩、吳詩韻、陳軒弘、陳江雲、成函潔、謝春怡、蔡佳倫、鄭冬慧、陳大中、何翊芸、陳雅琪、李思瑾、莊凱翔、李睿仁、劉妍君",
+    "teacher": "施文宇、高壽延、李士元、張國威、楊政杰、洪凱風、耿藝文、張景智、賴玉玲、吳政憲、羅文良、楊淑芬、何怡青、陳恒理、林怡君、董愛康、吳姿瑩、吳詩韻、陳軒弘、陳江雲、成函潔、謝春怡、蔡佳倫、鄭冬慧、陳大中、何翊芸、陳雅琪、李思瑾、莊凱翔、李睿仁、劉妍君",
     "time": "F56789a-"
   },
   "1132_111568": {
@@ -3488,7 +3488,7 @@
     "name": "兒童護理學 Pediatric Nursing",
     "num_limit": "9999",
     "reg_num": "42",
-    "teacher": "劉佩青、王子芳、陳紀雯、張瑞文、楊翠芬、曾偉杰、沈青青、賴鼎璁",
+    "teacher": "劉佩青、王子芳、陳紀雯、張瑞文、賴鼎璁、楊翠芬、曾偉杰、沈青青",
     "time": "M12345678T12345678-YN418[YM]"
   },
   "1132_111805": {
@@ -9572,7 +9572,7 @@
     "name": "高等牙周病學-基本牙周治療篇 Advanced Periodontology - Basic Periodontal Therapy",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "林怡君、陳恆理、賴玉玲、董醒任、陳彥廷、陳軒弘、賴宗筳",
+    "teacher": "林怡君、賴玉玲、董醒任、陳彥廷、陳恒理、陳軒弘、賴宗筳",
     "time": "M5678T1234W1234R5678F5678-"
   },
   "1132_131412": {
@@ -9680,7 +9680,7 @@
     "name": "口腔生物學專題討論(碩) Seminars in Oral Biology (Master)",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "林怡彣、林姝君、洪善鈴、羅正汎、黃何雄、黎萬君、涂曦丰、吳靜宜、王鼎涵、林宥成、張婷菡、林榮辰、洪佩詩、林立涵、周忠憲",
+    "teacher": "林怡彣、林姝君、洪善鈴、羅正汎、黃何雄、黎萬君、涂曦丰、吳靜宜、王鼎涵、林宥成、林榮辰、張婷菡、洪佩詩、林立涵、周忠憲",
     "time": "M78-YD320[YM]"
   },
   "1132_131502": {
@@ -9716,7 +9716,7 @@
     "name": "腫瘤生物學 Tumor Biology",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "黎萬君、林東毅、涂曦丰、洪凱風、莊惠燕、張婷菡、謝宗明、林榮辰、陳信銘、洪佩詩、林立涵、周忠憲、張瀞文",
+    "teacher": "黎萬君、林東毅、涂曦丰、洪凱風、莊惠燕、林榮辰、張婷菡、謝宗明、陳信銘、洪佩詩、林立涵、周忠憲、張瀞文",
     "time": "F12-YD302[YM]"
   },
   "1132_131505": {
@@ -10388,7 +10388,7 @@
     "name": "專題討論 Seminar",
     "num_limit": "50",
     "reg_num": "19",
-    "teacher": "陳謄州、王孟廷、姜紹青、東雅惠、許銘能、黃世宗、周月卿、張豫立、陳寬軒、鄒嘉玲、許家禎、周千瀅、何沁沁、林于瑄、王笙帆",
+    "teacher": "陳謄州、王孟廷、姜紹青、東雅惠、黃世宗、周月卿、張豫立、陳寬軒、鄒嘉玲、許家禎、周千瀅、何沁沁、林于瑄、王笙帆、許銘能",
     "time": "F34-YL402[YM]"
   },
   "1132_132017": {
@@ -10592,7 +10592,7 @@
     "name": "專題討論 Seminar",
     "num_limit": "50",
     "reg_num": "19",
-    "teacher": "廖伯霖、林照雄、楊振昌、蔡東湖、陳美蓮、林滿玉、林逸芬、范玫芳、王湘翠、黃雪莉、康照洲、楊登傑、林奇宏、倪貴榮、黃鈺芳、林宜平、魏國晋、林怡君、許銘能、蔡文城、林嬪嬪、劉宗榮、何其儻、鄭幼文、梁恭豪、鄒瀚興、賴盈宏",
+    "teacher": "廖伯霖、林照雄、楊振昌、蔡東湖、陳美蓮、林滿玉、林逸芬、范玫芳、王湘翠、黃雪莉、康照洲、楊登傑、林奇宏、倪貴榮、黃鈺芳、魏國晋、林怡君、蔡文城、林嬪嬪、劉宗榮、何其儻、鄭幼文、梁恭豪、鄒瀚興、賴盈宏",
     "time": "F56-YN118[YM]"
   },
   "1132_132117": {
@@ -12499,7 +12499,7 @@
     "memo": "[English Medium Course]",
     "name": "專題討論(碩) Seminar",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "9",
     "teacher": "陳俊銘",
     "time": "W56-YL735[YM]"
   },
@@ -12764,7 +12764,7 @@
     "name": "長照跨專業實務討論與分析(I) Seminar on transdisciplinary  long-term care practice",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "楊雅如、王瑞瑤、吳肖琪、陳怡如、陳喬男、李淑貞、李雪楨、楊曼華、姜紹青、李韶芬、林麗嬋、李玉春",
+    "teacher": "楊雅如、王瑞瑤、陳怡如、陳喬男、李淑貞、李雪楨、楊曼華、姜紹青、李韶芬、林麗嬋、李玉春、吳肖琪",
     "time": "R78-YN613[YM]"
   },
   "1132_133503": {
@@ -13340,7 +13340,7 @@
     "name": "專題討論(博) Seminar",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "楊靜修、鄭彥甫、陳麗芬、楊定一、盧俊良、李國熙、王署君、蔡金吾、林嘉澍、楊智傑、黃植懋、鄭菡若、侯珮珊、蔡世仁、李怡慧、李正達、林永煬、洪成志、劉祐岑、尼大衛、蔡欣融",
+    "teacher": "楊靜修、鄭彥甫、陳麗芬、楊定一、盧俊良、李國熙、王署君、蔡金吾、林嘉澍、楊智傑、黃植懋、鄭菡若、侯珮珊、蔡欣融、蔡世仁、李怡慧、李正達、林永煬、洪成志、劉祐岑、尼大衛",
     "time": "T78-YL402[YM]"
   },
   "1132_140901": {
@@ -13484,7 +13484,7 @@
     "name": "口腔生物學專題討論(博) Seminars in Oral Biology (PhD)",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "黎萬君、林姝君、洪善鈴、羅正汎、黃何雄、林怡彣、涂曦丰、吳靜宜、王鼎涵、林宥成、張婷菡、林榮辰、洪佩詩、林立涵、周忠憲",
+    "teacher": "黎萬君、林姝君、洪善鈴、羅正汎、黃何雄、林怡彣、涂曦丰、吳靜宜、王鼎涵、林宥成、林榮辰、張婷菡、洪佩詩、林立涵、周忠憲",
     "time": "M56-YD302[YM]"
   },
   "1132_141400": {
@@ -13496,7 +13496,7 @@
     "name": "質性研究方法論 Qualitative Methodology",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "張秀如、許樹珍、廖咨詠、林承霈、穆佩芬、蕭妃秀、李美銀",
+    "teacher": "張秀如、許樹珍、廖咨詠、林承霈、蕭妃秀、穆佩芬、李美銀",
     "time": "F56-YN301[YM]"
   },
   "1132_141401": {
@@ -15189,19 +15189,7 @@
     "num_limit": "30",
     "reg_num": "12",
     "teacher": "彭立忠",
-    "time": "R12-YX201[YM]"
-  },
-  "1132_161051": {
-    "code": "GECE00321",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "161051",
-    "memo": "",
-    "name": "法官說法-大學生必備的法學常識 What Every College Student Has to Know: Legal Common Knowledge-The Judges&#039; Version",
-    "num_limit": "0",
-    "reg_num": "30",
-    "teacher": "張瑜鳳",
-    "time": "T34-YT104[YM]"
+    "time": "R12-A103[GF],R12-YX201[YM]"
   },
   "1132_161052": {
     "code": "GECE00190",
@@ -15214,18 +15202,6 @@
     "reg_num": "50",
     "teacher": "王惠民",
     "time": "W9a-A103[GF]"
-  },
-  "1132_161053": {
-    "code": "GECE00185",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "161053",
-    "memo": "",
-    "name": "永續治理 Governance for Sustenbility",
-    "num_limit": "0",
-    "reg_num": "31",
-    "teacher": "李河清",
-    "time": "R78-YX201[YM]"
   },
   "1132_161054": {
     "code": "GECE00126",
@@ -15274,6 +15250,18 @@
     "reg_num": "12",
     "teacher": "雷光夏",
     "time": "R5678-HH201[YM]"
+  },
+  "1132_161058": {
+    "code": "GECE00329",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161058",
+    "memo": "",
+    "name": "環境外交 Environmental Diplomacy",
+    "num_limit": "35",
+    "reg_num": "0",
+    "teacher": "李河清",
+    "time": "T78-YX201[YM]"
   },
   "1132_162000": {
     "code": "GELW00006",
@@ -15571,7 +15559,7 @@
     "memo": "",
     "name": "論文研討(博士班) Seminar on Business and Management(PhD)",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "林介鵬、溫金豐、胡均立、劉志諒、陳燕諭、高瑞麟、王勝斌",
     "time": "T56-TB307[BM]"
   },
@@ -15607,7 +15595,7 @@
     "memo": "[English Medium Course]",
     "name": "生產與作業管理 Production and Operations Management ",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "胡均立",
     "time": "T234-TB307[BM]"
   },
@@ -15643,7 +15631,7 @@
     "memo": "限一般碩士生修課",
     "name": "經營講座 Lectures on Business Practices",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "周勝武",
     "time": "Mabc-TB307[BM]"
   },
@@ -15655,7 +15643,7 @@
     "memo": "[English Medium Course]",
     "name": "科技與創新管理 Technology and Innovation Management",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "林介鵬",
     "time": "R234-TB307[BM]"
   },
@@ -15703,7 +15691,7 @@
     "memo": "[English Medium Course]",
     "name": "策略管理 Strategic Management",
     "num_limit": "9999",
-    "reg_num": "42",
+    "reg_num": "41",
     "teacher": "王勝斌",
     "time": "T789-TB307[BM]"
   },
@@ -16459,7 +16447,7 @@
     "memo": "",
     "name": "社會學理論 Sociological Theories",
     "num_limit": "40",
-    "reg_num": "1",
+    "reg_num": "2",
     "teacher": "柯朝欽",
     "time": "R234-HK207[LJ]"
   },
@@ -18800,7 +18788,7 @@
     "name": "線性代數 Linear Algebra",
     "num_limit": "72",
     "reg_num": "72",
-    "teacher": "電機系",
+    "teacher": "洪境晨",
     "time": "T34R7-EE207[GF]"
   },
   "1132_515011": {
@@ -19711,7 +19699,7 @@
     "memo": "",
     "name": "電子設計自動化演算法與實作 Electronic Design Automation Algorithms and Implementation",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "61",
     "teacher": "劉建男、趙家佐",
     "time": "M8R56-ED116[GF]"
   },
@@ -22207,7 +22195,7 @@
     "memo": "",
     "name": "預研專題(二) Pregraduate Studies (II)",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "鄭舜仁",
     "time": ""
   },
@@ -22245,7 +22233,7 @@
     "num_limit": "70",
     "reg_num": "70",
     "teacher": "鄭舜仁",
-    "time": "R34-SC151[GF]"
+    "time": "R34-SC162[GF]"
   },
   "1132_516700": {
     "code": "SCMA10020",
@@ -25699,7 +25687,7 @@
     "memo": "",
     "name": "電子專題研討(系統組) Seminar on Electronics-Circuits and Systems",
     "num_limit": "120",
-    "reg_num": "103",
+    "reg_num": "102",
     "teacher": "溫    岸",
     "time": "T56-ED116[GF]"
   },
@@ -25999,7 +25987,7 @@
     "memo": "",
     "name": "計算機結構 Computer Architecture",
     "num_limit": "100",
-    "reg_num": "100",
+    "reg_num": "99",
     "teacher": "劉志尉",
     "time": "F234-ED219[GF]"
   },
@@ -26059,7 +26047,7 @@
     "memo": "",
     "name": "機器學習 Machine Learning",
     "num_limit": "120",
-    "reg_num": "59",
+    "reg_num": "58",
     "teacher": "王聖智",
     "time": "W56F2-ED116[GF]"
   },
@@ -26431,7 +26419,7 @@
     "memo": "",
     "name": "無線通訊信號處理 Wireless Communication Signal Processing",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "61",
     "teacher": "李大嵩",
     "time": "F567-ED220[GF]"
   },
@@ -28785,7 +28773,7 @@
     "num_limit": "9999",
     "reg_num": "15",
     "teacher": "科契諾",
-    "time": "R234-SC162[GF]"
+    "time": "R234-SC151[GF]"
   },
   "1132_536607": {
     "code": "SCEP30040",
@@ -31267,7 +31255,7 @@
     "memo": "",
     "name": "書報討論A Special Topic Seminar A",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "18",
     "teacher": "陳榮治",
     "time": "Mz1-EE112[GF]"
   },
@@ -31351,7 +31339,7 @@
     "memo": "生醫所主開",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "37",
     "teacher": "孫家偉",
     "time": "W56-EE105[GF]"
   },
@@ -33403,7 +33391,7 @@
     "memo": "",
     "name": "領導與統御 Leadership",
     "num_limit": "55",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "林紹胤",
     "time": "R789-A102[GF],R789-YT301[YM]"
   },
@@ -33847,7 +33835,7 @@
     "memo": "",
     "name": "霸權興衰史：從十五世紀至當代 The Rise and Fall of the Great Powers",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "劉河北",
     "time": "R56-A203[GF]"
   },
@@ -36619,7 +36607,7 @@
     "memo": "體育館B1韻律教室",
     "name": "體育－國術乙 Chinese Martial Arts",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "徐采彤",
     "time": "F78-PE[GF]"
   },

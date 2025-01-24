@@ -11719,7 +11719,7 @@
     "memo": "開放大學部學生修讀。",
     "name": "神經科學專題討論(碩) Seminar",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "林貝容、連正章、蔡惠珍、林士傑、何淑君、陳摘文",
     "time": "R56-YL839[YM]"
   },
@@ -27559,7 +27559,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -32422,6 +32422,30 @@
     "reg_num": "25",
     "teacher": "陳宗岡、郭國泰、劉福運",
     "time": "Mabc-M205[GF]"
+  },
+  "1132_557109": {
+    "code": "MGMS30072",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "557109",
+    "memo": "限專班選修。",
+    "name": "統計學 Statistics",
+    "num_limit": "20",
+    "reg_num": "0",
+    "teacher": "謝國文",
+    "time": "Wabc-M205[GF]"
+  },
+  "1132_557110": {
+    "code": "MGMS30053",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "557110",
+    "memo": "限專班選修。",
+    "name": "研究方法 Research Methods",
+    "num_limit": "15",
+    "reg_num": "0",
+    "teacher": "高國揚",
+    "time": "Tabc-M205[GF]"
   },
   "1132_557400": {
     "code": "MGEM30075",
@@ -39919,7 +39943,7 @@
     "memo": "機航組A班，上課地點：國防大學理工學院",
     "name": "導師輔導(2)  Tutor Guidance(2) ",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "21",
     "teacher": "李彥宏",
     "time": "M12-"
   },
@@ -40339,7 +40363,7 @@
     "memo": "機航組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：林煜棠、劉翼諄老師",
     "name": "體育(2) Physical Education(2)",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "21",
     "teacher": "系統工程",
     "time": "W67-"
   },
@@ -40639,7 +40663,7 @@
     "memo": "機航組，上課地點：國防大學理工學院，授課教師：林宏安老師",
     "name": "國文(2) Chinese(2)",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "21",
     "teacher": "系統工程",
     "time": "F234-"
   },
@@ -40711,7 +40735,7 @@
     "memo": "機航組，上課地點：國防大學理工學院，授課教師：黃靜珊老師",
     "name": "英文(2) English(2)",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "21",
     "teacher": "系統工程",
     "time": "W12F6-"
   },
@@ -40807,7 +40831,7 @@
     "memo": "調整上課時間為M67W34。機航組，上課地點：國防大學理工學院",
     "name": "微積分(2) Calculus(2)",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "21",
     "teacher": "張枝成",
     "time": "M67T89-"
   },
@@ -40903,7 +40927,7 @@
     "memo": "機航組，上課地點：國防大學理工學院",
     "name": "普通物理(2) General Physics(2)",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "21",
     "teacher": "羅本喆",
     "time": "R34F1-"
   },
@@ -40999,7 +41023,7 @@
     "memo": "機航組，上課地點：國防大學理工學院，授課教師：黃冠毓老師",
     "name": "程式語言概論 Int. to Programming Languages",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "21",
     "teacher": "系統工程",
     "time": "F7-"
   },
@@ -41071,7 +41095,7 @@
     "memo": "機航組，上課地點：國防大學理工學院",
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "21",
     "teacher": "劉瑋倫",
     "time": "T34-"
   },
@@ -41143,7 +41167,7 @@
     "memo": "機航組，上課地點：國防大學理工學院",
     "name": "普通化學實驗 General Chemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "21",
     "teacher": "黃文鍵",
     "time": "T67-"
   },
@@ -41215,7 +41239,7 @@
     "memo": "機航組，上課地點：國防大學理工學院，授課教師：周崇發老師",
     "name": "法學概論  Introduction to Law",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "21",
     "teacher": "系統工程",
     "time": "T12-"
   },
@@ -44299,7 +44323,7 @@
     "memo": "機航組，上課地點：國防大學理工學院",
     "name": "航太工程概論 Introduction to Aerospace Engineering",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "21",
     "teacher": "夏筱明",
     "time": "M34-"
   },
@@ -44335,7 +44359,7 @@
     "memo": "機航組，上課地點：國防大學理工學院",
     "name": "能源概論 Introduction to Energy",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "21",
     "teacher": "方友霖",
     "time": "R12-"
   },

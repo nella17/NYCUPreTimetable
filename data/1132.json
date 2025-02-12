@@ -1544,7 +1544,7 @@
     "name": "醫師科學家研究概論(下) Physician-Scientist Program-Career Planning (2)",
     "num_limit": "40",
     "reg_num": "-999",
-    "teacher": "兵岳忻、鄭彥甫、張佩靖、郭文娟、蔡金吾、林士傑、陳摘文、侯珮珊、姜為中、林錦洲、陳德禮、王廷瑋",
+    "teacher": "兵岳忻、鄭彥甫、張佩靖、郭文娟、蔡金吾、林士傑、林雅萍、陳摘文、侯珮珊、姜為中、林錦洲、陳德禮、王廷瑋",
     "time": "T8-YM225[YM]"
   },
   "1132_110121": {
@@ -2600,7 +2600,7 @@
     "name": "基礎臨床技能訓練課程(二) Basic clinical skills (BCS) training(II)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "楊盈盈、李怡姿、李懿宬、梁仁峯、黃孝先、胡永信、黃祥芬、邱逸淳、陳坤波、徐迺維、黃加璋、黃文彬、袁維新、賴至柔、陳昆暉、陳偉華、陳明正、王維庭、莊美幸、許立翰、盧雅雯、吳嘉紘、賴昱維、曾麒龍、葉奕廷、徐維良、蕭丞皓、吳政億、沈曉津、林煥湫、孫傳硯、游金輝、張乃文、劉佳、馮嘉毅、黃竣暘、羅永鴻、陳威志、曾偉誠、葉建甫",
+    "teacher": "楊盈盈、李怡姿、李懿宬、梁仁峯、黃奕燊、黃孝先、胡永信、黃祥芬、邱逸淳、陳坤波、徐迺維、黃加璋、黃文彬、袁維新、賴至柔、陳昆暉、陳偉華、陳明正、王維庭、莊美幸、許立翰、盧雅雯、吳嘉紘、李才宇、賴昱維、曾麒龍、葉奕廷、徐維良、蕭丞皓、吳政億、沈曉津、林煥湫、孫傳硯、游金輝、張乃文、劉佳、馮嘉毅、黃竣暘、羅永鴻、陳威志、曾偉誠、葉建甫",
     "time": "R5678-YX216[YM]"
   },
   "1132_110209": {
@@ -2756,7 +2756,7 @@
     "name": "生物化學 Biochemistry",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "黎萬君、林姝君、洪善鈴、羅正汎、林怡彣、涂曦丰、林榮辰、丁冠中",
+    "teacher": "黎萬君、林姝君、洪善鈴、羅正汎、林怡彣、涂曦丰、林榮辰",
     "time": "T34W12-YD105[YM]"
   },
   "1132_111505": {
@@ -3032,7 +3032,7 @@
     "name": "耳鼻喉科學 Otolaryngology",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "戴世光、鄭彥甫、藍敏瑛、廖文輝、王懋哲、李宗倫、許彥彬、張嘉帆、趙勻廷、楊宗翰、黃毓雯、洪莉婷、簡珮如、薛健佑、劉璟璇、葉建甫",
+    "teacher": "戴世光、鄭彥甫、藍敏瑛、廖文輝、王懋哲、李宗倫、許彥彬、張嘉帆、趙勻廷、楊宗翰、黃毓雯、洪莉婷、簡珮如、薛健佑、丁冠中、劉璟璇、葉建甫",
     "time": "T34-YD214[YM]"
   },
   "1132_111532": {
@@ -3512,8 +3512,8 @@
     "name": "兒童護理學實習 Pediatric Nursing Practice",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "劉佩青、賴品欣、林秀蘭、黃祖涵、簡莉文、楊馥菱、吳采蓉",
-    "time": ""
+    "teacher": "劉佩青、陳紀雯、陳彥如、賴品欣、林秀蘭、楊馥菱、黃祖涵、黃晨艷、吳采蓉、林姵蓉",
+    "time": "M12345678T12345678W12345678-"
   },
   "1132_111807": {
     "code": "NSDN20009",
@@ -7040,7 +7040,7 @@
     "name": "生理醫學研究概論 Research Principle in Physiology & Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "阮琪昌",
+    "teacher": "阮琪昌、陳文亮、黃尉倫、江季霖、余佳慧、郭余民、莊詠鈞、孫俊仁、張猷忠、林雅婷、侯欣翰",
     "time": "R34-YR103[YM]"
   },
   "1132_130005": {
@@ -9081,7 +9081,7 @@
     "num_limit": "10",
     "reg_num": "-999",
     "teacher": "蔡欣融",
-    "time": ""
+    "time": "M78-YL845[YM]"
   },
   "1132_131110": {
     "code": "MDBS30063",
@@ -9596,7 +9596,7 @@
     "name": "高等牙髓病學(六) Advanced Endodontics (Ⅵ)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "何怡青、吳靜宜、楊淑芬、陳誼安、李亞芸、白勝方、郭恬君、林郁恆、陳正毅、陳益貞、蔡佳倫",
+    "teacher": "何怡青、吳靜宜、楊淑芬、黃妙玨、陳誼安、李亞芸、白勝方、林怡君、郭恬君、林郁恆、賴博堂、陳正毅、陳益貞、蔡佳倫",
     "time": "W9a-"
   },
   "1132_131414": {
@@ -15380,7 +15380,7 @@
     "name": "英文寫作 Essay Writing",
     "num_limit": "25",
     "reg_num": "-999",
-    "teacher": "程曉杰",
+    "teacher": "鄭以旋",
     "time": "T34-YX201[YM]"
   },
   "1132_162010": {
@@ -15440,7 +15440,7 @@
     "name": "英文寫作 Essay Writing",
     "num_limit": "25",
     "reg_num": "-999",
-    "teacher": "嚴偉哲",
+    "teacher": "鄭以旋",
     "time": "R12-YT203[YM]"
   },
   "1132_162016": {
@@ -15476,7 +15476,7 @@
     "name": "應用英文 Advancing English",
     "num_limit": "35",
     "reg_num": "-999",
-    "teacher": "程曉杰",
+    "teacher": "鄭以旋",
     "time": "T12-YT202[YM]"
   },
   "1132_162019": {
@@ -15488,7 +15488,7 @@
     "name": "應用英文 Advancing English",
     "num_limit": "35",
     "reg_num": "-999",
-    "teacher": "嚴偉哲",
+    "teacher": "鄭以旋",
     "time": "R34-YX501[YM]"
   },
   "1132_162020": {
@@ -20000,7 +20000,7 @@
     "name": "超大型積體電路設計導論 Introduction to VLSI Design",
     "num_limit": "70",
     "reg_num": "-999",
-    "teacher": "半導體系",
+    "teacher": "林嘉興",
     "time": "W789-ED301[GF]"
   },
   "1132_515214": {
@@ -20048,7 +20048,7 @@
     "name": "半導體製程技術 Semiconductor Processing Technology",
     "num_limit": "70",
     "reg_num": "-999",
-    "teacher": "半導體系",
+    "teacher": "張國明",
     "time": "T789-ED301[GF]"
   },
   "1132_515218": {
@@ -23421,7 +23421,7 @@
     "num_limit": "30",
     "reg_num": "-999",
     "teacher": "安勤之",
-    "time": "W56-"
+    "time": "W56-A212[GF]"
   },
   "1132_519501": {
     "code": "XDAP20002",
@@ -23433,7 +23433,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "程源中",
-    "time": "F56-"
+    "time": "F56-A217[GF]"
   },
   "1132_519502": {
     "code": "XDAP10003",
@@ -24897,7 +24897,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "何震寰、吳秉俍",
-    "time": "M34-HA105[GF]"
+    "time": "W678-HA105[GF]"
   },
   "1132_534711": {
     "code": "HSAR30058",
@@ -24921,7 +24921,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "龔書章",
-    "time": "R34n-HA105[GF]"
+    "time": "T234-HA108[GF]"
   },
   "1132_534714": {
     "code": "HSAR30033",
@@ -25088,7 +25088,7 @@
     "name": "音樂研究導論 (B組) Introduction to Music Research (B)",
     "num_limit": "12",
     "reg_num": "-999",
-    "teacher": "李奉書",
+    "teacher": "李昆穎",
     "time": "F678-HC501[GF]"
   },
   "1132_534804": {
@@ -25100,8 +25100,8 @@
     "name": "音樂論壇 Music Colloquium",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "董昭民、辛幸純、李俊穎、曾毓忠、李奉書、羅芳偉",
-    "time": "T56-AD027[GF]"
+    "teacher": "董昭民、辛幸純、曾毓忠、李奉書、羅芳偉",
+    "time": "T56-HC105[GF]"
   },
   "1132_534805": {
     "code": "HSIM30032",
@@ -25125,7 +25125,7 @@
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "董昭民",
-    "time": "T34-AD027[GF]"
+    "time": "T34-HC501[GF]"
   },
   "1132_534807": {
     "code": "HSIM30034",
@@ -25160,7 +25160,7 @@
     "name": "音樂、科技與社會:1877年以來 Music, Technology, and Society since 1877",
     "num_limit": "12",
     "reg_num": "-999",
-    "teacher": "羅芳偉",
+    "teacher": "李昆穎",
     "time": "F9ab-HC501[GF]"
   },
   "1132_534810": {
@@ -25196,8 +25196,8 @@
     "name": "基礎器樂錄音與後製實務 Basic Recording and Post Production for Musical  Instruments",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "何品達",
-    "time": "F56-AD027[GF]"
+    "teacher": "待聘",
+    "time": "F56-HC514[GF]"
   },
   "1132_534813": {
     "code": "HSIM30053",
@@ -25209,7 +25209,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蘇晶晶",
-    "time": "F1-HC604[GF]"
+    "time": "F2-HC604[GF]"
   },
   "1132_534814": {
     "code": "HSIM30047",
@@ -25352,8 +25352,8 @@
     "name": "演奏主修：小提琴 Advanced Instruction in Violin",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李俊穎",
-    "time": "M1-HC603[GF]"
+    "teacher": "莊秉育、蔡承翰",
+    "time": "M1-HC606[GF]"
   },
   "1132_534826": {
     "code": "HSIM30055",
@@ -26072,7 +26072,7 @@
     "name": "記憶體積體電路 Memory Circuit Design",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "電子所",
     "time": "M567-ED101[GF]"
   },
   "1132_535238": {
@@ -26080,7 +26080,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535238",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]遠距授課",
     "name": "生醫感測器概論 Introduction to Biomedical Sensors",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -27788,7 +27788,7 @@
     "name": "複雜系統專案管理 Complex Systems Project Management",
     "num_limit": "40",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "杲中興",
     "time": "M678-EE230[GF]"
   },
   "1132_536072": {
@@ -28354,6 +28354,18 @@
     "reg_num": "-999",
     "teacher": "林子剛",
     "time": "T234-EB415[GF]"
+  },
+  "1132_536224": {
+    "code": "ENCV30004",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "536224",
+    "memo": "[English Medium Course]限土木系研究所外籍生選修 (This course is only available to foreign graduate students in the Department of Civil Engineering.)",
+    "name": "個別研究 Independent Study",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "土木系",
+    "time": ""
   },
   "1132_536300": {
     "code": "ENMS30026",
@@ -30455,6 +30467,18 @@
     "teacher": "鍾惠民、待聘、王燈山、陳建榮",
     "time": "Rabc-M115[GF]"
   },
+  "1132_537714": {
+    "code": "MGIF30047",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "537714",
+    "memo": "",
+    "name": "碩士論文研究 Thesis",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "財金所",
+    "time": "Sa-"
+  },
   "1132_537800": {
     "code": "MGMT30014",
     "credit": "3.00",
@@ -31019,18 +31043,6 @@
     "teacher": "李界昇",
     "time": "F567-MB405[GF]"
   },
-  "1132_537930": {
-    "code": "LWLW30319",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "537930",
-    "memo": "[English Medium Course]請注意，為了配合外籍教師來台灣的日期，本課程實際上課時間是集中在六月（週一、週三、週五晚上18:30-21:30)，而非系統上標示的週日",
-    "name": "國際人工智慧治理 International AI Governance",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "待聘",
-    "time": "U34-MB1069[GF]"
-  },
   "1132_537931": {
     "code": "LWLW30320",
     "credit": "2.00",
@@ -31268,7 +31280,7 @@
     "name": "書報討論A Special Topic Seminar A",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳榮治",
+    "teacher": "李佳燕",
     "time": "Mz1-EE112[GF]"
   },
   "1132_545452": {
@@ -31360,12 +31372,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "545459",
-    "memo": "[English Medium Course]研,大四",
+    "memo": "[English Medium Course]研,大四，上課教室：EE222A",
     "name": "神經彌補裝置 Neural Prostheses",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蔡德明",
-    "time": "R567-EE113[GF]"
+    "time": "R567-"
   },
   "1132_545460": {
     "code": "EEBM30034",
@@ -31376,8 +31388,20 @@
     "name": "生醫感測與高齡醫學特論 Advanced of Biomedical Sensing and Old-age-medical",
     "num_limit": "8",
     "reg_num": "-999",
-    "teacher": "陳榮治",
+    "teacher": "李佳燕",
     "time": "W234-EE112[GF]"
+  },
+  "1132_545461": {
+    "code": "EEBM30035",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "545461",
+    "memo": "",
+    "name": "醫學影像處理 Medical image processing",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "李佳燕",
+    "time": "F234-EE117[GF]"
   },
   "1132_545500": {
     "code": "CSIC30028",
@@ -32903,18 +32927,6 @@
     "teacher": "林欣吾",
     "time": "Fab-A302[GF]"
   },
-  "1132_557909": {
-    "code": "LWLW30188",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "557909",
-    "memo": "大學部須先修過智財課程(須審核);學分班學員需修過專利課程或專業人員",
-    "name": "美國智慧財產權案例研析 Case Analysis of U.S. Intellectual Property Litigation",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "劉尚志、陳在方、陳豐奇、蔡志宏、黃崧洺",
-    "time": "Fabc-MB1069[GF]"
-  },
   "1132_557910": {
     "code": "LWLW30025",
     "credit": "2.00",
@@ -34026,7 +34038,7 @@
     "id": "561505",
     "memo": "本課程為非同步線上教學課程，課程營運以網路授課為主。教學團隊將於課程開始前於 e3平台上進行課程影音上傳、測驗與討論區設定等課程建置。課程開始後，修課學生需在e3上完成教學活動。",
     "name": "解鎖大腦，腦力全開 Boost your brain: Unlocking the Secrets of memory, intelligence and beyond",
-    "num_limit": "55",
+    "num_limit": "56",
     "reg_num": "-999",
     "teacher": "王培寧",
     "time": "Wab-ED101[GF]"
@@ -42340,7 +42352,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910215",
-    "memo": "調整上課時間為F234。電機組A+B班，上課地點：國防大學理工學院",
+    "memo": "調整上課教師為周裕達老師。電機組A+B班，上課地點：國防大學理工學院，授課教師：周裕達老師",
     "name": "電磁學 Electromagnetics",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42376,7 +42388,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910218",
-    "memo": "調整上課時間為T678。電機組A+B班，上課地點：國防大學理工學院",
+    "memo": "電機組A+B班，上課地點：國防大學理工學院",
     "name": "電子實驗(2) Experiments of Electrical Engineering(2)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42412,7 +42424,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910221",
-    "memo": "調整上課時間為Mabc。電機組，上課地點：國防大學理工學院",
+    "memo": "調整上課時間為M349。電機組，上課地點：國防大學理工學院",
     "name": "資料結構 Data Structure",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42556,7 +42568,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910233",
-    "memo": "電機組電機班，上課地點：國防大學理工學院，授課教師：周裕達老師",
+    "memo": "(預計停開)電機組電機班，上課地點：國防大學理工學院，授課教師：周裕達老師",
     "name": "演算法 Introduction to Algorithms",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42568,7 +42580,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910234",
-    "memo": "調整上課時間為W678。電機組電機班，上課地點：國防大學理工學院，授課教師：劉貞灝老師",
+    "memo": "(預計停開)調整上課時間為W678。電機組電機班，上課地點：國防大學理工學院，授課教師：劉貞灝老師",
     "name": "工業電子 Industrial electronics",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42592,7 +42604,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910236",
-    "memo": "電機組電子班，上課地點：國防大學理工學院，授課教師：黃炳森老師",
+    "memo": "(預計停開)電機組電子班，上課地點：國防大學理工學院，授課教師：黃炳森老師",
     "name": "數位影像處理 Digital Image Processing",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42604,7 +42616,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910237",
-    "memo": "電機組電子班，上課地點：國防大學理工學院",
+    "memo": "(預計停開)電機組電子班，上課地點：國防大學理工學院",
     "name": "數位通訊 Digital Communication",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42616,7 +42628,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910238",
-    "memo": "電機組，上課地點：國防大學理工學院",
+    "memo": "(預計停開)電機組，上課地點：國防大學理工學院",
     "name": "光電子學 Optoelectronics",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42628,7 +42640,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910239",
-    "memo": "調整上課時間W34R1。電機組，上課地點：國防大學理工學院",
+    "memo": "(預計停開)調整上課時間W34R1。電機組，上課地點：國防大學理工學院",
     "name": "電力電子學 Power Electronics",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42640,7 +42652,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910240",
-    "memo": "電機組，上課地點：國防大學理工學院",
+    "memo": "(預計停開)電機組，上課地點：國防大學理工學院",
     "name": "數位訊號處理程式設計 DSP Programming",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42652,7 +42664,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910241",
-    "memo": "電機組，上課地點：國防大學理工學院，授課教師：陳俊豪老師",
+    "memo": "(預計停開)電機組，上課地點：國防大學理工學院，授課教師：陳俊豪老師",
     "name": "電力電子電路設計與應用 Design and Application of Power Electronic Circuit",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42664,7 +42676,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910242",
-    "memo": "電機組，上課地點：國防大學理工學院，授課教師：劉浩(水郡)老師",
+    "memo": "調整上課時間為Mabc。電機組，上課地點：國防大學理工學院，授課教師：劉浩(水郡)老師",
     "name": "數位控制實驗 Digital Control System Lab",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -42676,7 +42688,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910243",
-    "memo": "電機組，上課地點：國防大學理工學院，授課教師：林進順老師",
+    "memo": "調整上課時間為Wabc。電機組，上課地點：國防大學理工學院，授課教師：林進順老師",
     "name": "衛星通訊概論 Fundamental of Satellite Communications",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -44668,7 +44680,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910409",
-    "memo": "資工組，上課地點：國防大學理工學院，授課教師：賴志榮老師",
+    "memo": "調整上課時間為Tabc。資工組，上課地點：國防大學理工學院，授課教師：賴志榮老師",
     "name": "無線通訊與網路 Wireless Communication and Network",
     "num_limit": "9999",
     "reg_num": "-999",

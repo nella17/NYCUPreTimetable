@@ -7228,7 +7228,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "130108",
-    "memo": "[English Medium Course]The first course will be hold on 15:30-17:20, 26 Feb at 402R, Library Information and Research Building (圖資402室).\n※ For student not enroll in Yang-Ming campus, please join the class on google",
+    "memo": "[English Medium Course]The first course will be hold on 15:30-17:20, 24 Feb at 402R, Library Information and Research Building (圖資402室).\n※ For student not enroll in Yang-Ming campus, please join the class on google",
     "name": "藥理學概論 Introduction of Pharmacology",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -10748,7 +10748,7 @@
     "name": "生技醫學講座(二) Biotechnology and Biomedical Seminar (II)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黃琤、涂玉青、林崇智、詹明賢、王皓青、劉慧康、凌嘉鴻、羅月霞、王漢津、趙巧瑄",
+    "teacher": "黃琤、涂玉青、林崇智、詹明賢、王皓青、劉慧康、凌嘉鴻、羅月霞、王愈善、王漢津、趙巧瑄",
     "time": "Tn-YB100[YM]"
   },
   "1132_132215": {
@@ -22780,7 +22780,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517015",
-    "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限88人，得請授課教師簽准後可放寬至93人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/fStr3mxBDvy2vpMfA)；管理基礎學分學程課程。",
+    "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限88人，得請授課教師簽准後可放寬至93人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/R22L1Z3TLdEHogPk6)；管理基礎學分學程課程。",
     "name": "作業研究(二) Operations Research (II)",
     "num_limit": "88",
     "reg_num": "-999",
@@ -22792,7 +22792,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517016",
-    "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限88人，得請授課教師簽准後可放寬至93人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/fStr3mxBDvy2vpMfA)；管理基礎學分學程課程。",
+    "memo": "非管院同學請於2月10日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限88人，得請授課教師簽准後可放寬至93人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/R22L1Z3TLdEHogPk6)；管理基礎學分學程課程。",
     "name": "作業研究(二) Operations Research (II)",
     "num_limit": "88",
     "reg_num": "-999",
@@ -24366,7 +24366,7 @@
     "id": "534401",
     "memo": "不開放書面加簽(校際選修除外)",
     "name": "虛幻實境設計 Virtual and Immersive Scenery Design",
-    "num_limit": "12",
+    "num_limit": "16",
     "reg_num": "-999",
     "teacher": "謝啟民",
     "time": "T234-HA315[GF]"
@@ -24982,6 +24982,18 @@
     "reg_num": "-999",
     "teacher": "凌天",
     "time": "W12-HA105[GF]"
+  },
+  "1132_534726": {
+    "code": "HSAR30047",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "534726",
+    "memo": "",
+    "name": "獨立研究 Independent Study",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "曾令理",
+    "time": ""
   },
   "1132_534800": {
     "code": "HSIM30003",
@@ -33654,7 +33666,7 @@
     "id": "561050",
     "memo": "1.本課程期望創造醫療與科技跨領域的對話，選課學生設定為光復校區學生以及陽明校區至光復校區的共學生，各25人。2.第1至第3初選階段，「光復校區學生」以網路選課為主，「陽明校區至光復校區的共學生」至https://forms.gle/BnQZGbia2SNmj17A8登記選課意願。3. 開學加退選階段，為達到修課學生的平衡，請新竹校區的同學於選課系統選課，陽明校區的同學則請直接聯絡老師（mhwang@nycu.edu.tw)。",
     "name": "科技與醫療的人文關懷 Humanism in Technology and Medical Cares",
-    "num_limit": "40",
+    "num_limit": "44",
     "reg_num": "-999",
     "teacher": "黃育綸、陳俞琪、程千芳、林士平、林承霈、王美鴻",
     "time": "R56-A202[GF]"
@@ -44886,7 +44898,7 @@
     "id": "960009",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－防衛動員 All-out Defense Education Military Training-Defense Mobilization",
-    "num_limit": "69",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "王先正",
     "time": "F34-A104[GF]"

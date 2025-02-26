@@ -3068,7 +3068,7 @@
     "name": "全口贋復學 Complete Denture Prosthodontics",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "許明倫、張志麟、姚光大、謝旻杰",
+    "teacher": "張志麟、姚光大、謝旻杰、許明倫",
     "time": "M12-YD105[YM]"
   },
   "1132_111535": {
@@ -3080,7 +3080,7 @@
     "name": "全口贋復學實驗 Complete Denture Prosthodontics Lab",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "許明倫、耿藝文、張景智、張志麟、謝旻杰、林慧觀、楊博雅、許文瑛、黃籌永、吳曉霖",
+    "teacher": "許明倫、耿藝文、張景智、謝旻杰、林慧觀、楊博雅、許文瑛、黃籌永、吳曉霖",
     "time": "M345678-YD210[YM]"
   },
   "1132_111536": {
@@ -3140,7 +3140,7 @@
     "name": "口腔植體學 Clinical Dental Implantology",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "許明倫、羅文良、楊淑芬、陳恒理、張志麟、陳正毅、謝昀伶、許綺真、陳青青、楊書維、張毓靜、何家銘",
+    "teacher": "羅文良、楊淑芬、陳恒理、張志麟、陳正毅、謝昀伶、許綺真、陳青青、楊書維、張毓靜、何家銘、許明倫",
     "time": "R12-YD214[YM]"
   },
   "1132_111545": {
@@ -3164,7 +3164,7 @@
     "name": "牙醫倫理學 Dental Ethics",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "許明倫、高壽延、季麟揚、楊政杰、羅文良、楊淑芬、何怡青、陳亮如、林怡君、吳姿瑩、鄧政雄、張采宇、何家銘",
+    "teacher": "楊政杰、高壽延、季麟揚、羅文良、楊淑芬、何怡青、陳亮如、林怡君、吳姿瑩、鄧政雄、張采宇、何家銘、許明倫",
     "time": "R56-YD105[YM]"
   },
   "1132_111547": {
@@ -3896,7 +3896,7 @@
     "name": "流行病學 Epidemiology",
     "num_limit": "45",
     "reg_num": "-999",
-    "teacher": "黃世宗、王孟廷、東雅惠、陳謄州",
+    "teacher": "黃世宗、王孟廷、東雅惠、陳謄州、翁紹恩",
     "time": "W12-YR105[YM]"
   },
   "1132_111923": {
@@ -4652,7 +4652,7 @@
     "name": "皮拉提斯復健(一) Pilates Rehabilitation (I)",
     "num_limit": "30",
     "reg_num": "-999",
-    "teacher": "張德裕",
+    "teacher": "張德裕、周彥君",
     "time": "T34-YB601[YM]"
   },
   "1132_112207": {
@@ -6404,7 +6404,7 @@
     "name": "藥理學 Pharmacology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "嚴錦城、李新城、王湘翠、黃自強、兵岳忻、陳斯婷、張豫立、陳聿歆",
+    "teacher": "嚴錦城、李新城、王湘翠、黃自強、兵岳忻、陳斯婷、廖皎君、張豫立、陳聿歆",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
   "1132_113101": {
@@ -7160,7 +7160,7 @@
     "name": "高等藥理學 Advanced Pharmacology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "嚴錦城、阮琪昌、楊慕華、黃奇英、張佩靖、王湘翠、駱雨利、林宥欣、何國牟、黃自強、張婷婷、兵岳忻、陳炯東、楊文欽、王笙帆、周士傑、葉翰宜",
+    "teacher": "嚴錦城、吳昭慶、阮琪昌、李新城、楊慕華、黃奇英、張佩靖、林宥欣、何國牟、黃自強、張婷婷、鄧豪偉、陳炯東、楊文欽、周士傑、葉翰宜",
     "time": "T567-YR103[YM]"
   },
   "1132_130103": {
@@ -7172,7 +7172,7 @@
     "name": "實驗藥理學 Experimental Pharmacology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "嚴錦城、吳昭慶、李新城、霍德義、林惠菁、駱雨利、張婷婷、兵岳忻、陳建鋒、沈郁強、葉翰宜、吳孟修",
+    "teacher": "嚴錦城、吳昭慶、霍德義、林惠菁、駱雨利、張婷婷、陳建鋒、沈郁強、花嘉玲、葉翰宜、吳孟修",
     "time": "Mn56-YL404[YM]"
   },
   "1132_130104": {
@@ -9909,7 +9909,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "黃久美",
-    "time": "W789a-YN419[YM]"
+    "time": "W789a-YN603[YM]"
   },
   "1132_131712": {
     "code": "NSCN30087",
@@ -10220,7 +10220,7 @@
     "name": "藥理學(二) Pharmacology (2)",
     "num_limit": "70",
     "reg_num": "-999",
-    "teacher": "林滿玉、李新城、王湘翠、駱雨利、黃自強、張牧新、嚴錦城、黃世宗、藍耿欣、楊志新、沈郁強、李沛璋",
+    "teacher": "林滿玉、李新城、王湘翠、駱雨利、黃自強、張牧新、嚴錦城、黃世宗、沈郁強、張耀文",
     "time": "M56W56-YK533[YM]"
   },
   "1132_132004": {
@@ -10869,7 +10869,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "劉澤英",
-    "time": "M89a-YEA205[YM]"
+    "time": "M789-YEA301[YM]"
   },
   "1132_132310": {
     "code": "BEBE30036",
@@ -12765,7 +12765,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "范佩貞",
-    "time": "T78-YR101[YM]"
+    "time": "W9a-YR101[YM]"
   },
   "1132_133506": {
     "code": "XDLC30042",
@@ -12777,7 +12777,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "范佩貞",
-    "time": "T56-YR102[YM]"
+    "time": "T9a-YR102[YM]"
   },
   "1132_133507": {
     "code": "XDLC30039",
@@ -12968,7 +12968,7 @@
     "name": "臨床試驗與轉譯醫學概論 Basics of Clinical Trial and Translational Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "賴峻毅、吳俊穎、李美璇、陳世彬、雷文玫、林進清、何慧君、郭英調、劉致顯",
+    "teacher": "賴峻毅、吳俊穎、李美璇、陳世彬、雷文玫、林進清、何慧君、郭英調、劉致顯、黃鈺婷",
     "time": "W34-YL405[YM]"
   },
   "1132_140303": {
@@ -14168,7 +14168,7 @@
     "name": "醫療器材管理法規與實務 Medical Devices Regulation and Practice",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "杜培文、王淑慧、彭秀慧、邱筱盈",
+    "teacher": "杜培文、劉守宣、王淑慧、彭秀慧、邱筱盈",
     "time": "W67-YN208[YM]"
   },
   "1132_143500": {
@@ -15112,9 +15112,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161047",
-    "memo": "",
+    "memo": "教室異動: YT302",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
-    "num_limit": "20",
+    "num_limit": "25",
     "reg_num": "-999",
     "teacher": "徐詩偉",
     "time": "F78-YX202[YM]"
@@ -15162,7 +15162,7 @@
     "id": "161052",
     "memo": "",
     "name": "從臺海實例看國際關係 Taiwan’s International Relations and Historic Events",
-    "num_limit": "60",
+    "num_limit": "88",
     "reg_num": "-999",
     "teacher": "王惠民",
     "time": "W9a-A103[GF]"
@@ -18681,7 +18681,7 @@
     "num_limit": "55",
     "reg_num": "-999",
     "teacher": "柯立偉",
-    "time": "T56F2-EE207[GF]"
+    "time": "F2-EE220[GF],T56-EE623[GF]"
   },
   "1132_515005": {
     "code": "EEEC10006",
@@ -27114,7 +27114,7 @@
     "id": "535527",
     "memo": "資訊學院優先(不開放在職專班網路選課);本課程全由台積電業師授課。",
     "name": "雲原生軟體開發與最佳實踐 Cloud Native Development: towards Best Practice",
-    "num_limit": "119",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "曾建超、黃俊龍",
     "time": "Wabc-ED117[GF]"
@@ -28134,7 +28134,7 @@
     "id": "536206",
     "memo": "[English Medium Course]",
     "name": "結構動力學 Structural Dynamics",
-    "num_limit": "28",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "蔡營寬",
     "time": "T567-EB403[GF]"
@@ -32956,7 +32956,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "557919",
-    "memo": "開放台聯大大三以上同學選修",
+    "memo": "開放台聯大同學選修",
     "name": "數位經濟與反托拉斯法 Digital Economy and Antitrust Law",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -33774,7 +33774,7 @@
     "id": "561059",
     "memo": "本課程不開放加簽，採網路選課。",
     "name": "生死學 Study of Life-and-Death",
-    "num_limit": "65",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "楊敏昇",
     "time": "Rab-A205[GF]"
@@ -33942,7 +33942,7 @@
     "id": "561504",
     "memo": "本課程為非同步線上教學課程，課程營運以網路授課為主。教學團隊將於課程開始前於 e3平台上進行課程影音上傳、測驗與討論區設定等課程建置。課程開始後，修課學生需在e3上完成教學活動。",
     "name": "性與醫學 Sex and Medicine",
-    "num_limit": "87",
+    "num_limit": "90",
     "reg_num": "-999",
     "teacher": "黃志賢",
     "time": "Tab-ED101[GF]"
@@ -39832,7 +39832,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910015",
-    "memo": "資工組B班，上課地點：國防大學理工學院，授課教師：莊曜嘉老師",
+    "memo": "(預計停開)資工組B班，上課地點：國防大學理工學院，授課教師：莊曜嘉老師",
     "name": "導師輔導(2)  Tutor Guidance(2) ",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -40972,11 +40972,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910110",
-    "memo": "*調整授課教師為鄭紹宏老師。動力組，上課地點：國防大學理工學院",
+    "memo": "動力組，上課地點：國防大學理工學院",
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "系統工程",
+    "teacher": "鄭紹宏",
     "time": "F67-"
   },
   "1132_910111": {
@@ -40984,11 +40984,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910111",
-    "memo": "*調整授課教師為宋易哲老師。資工組，上課地點：國防大學理工學院",
+    "memo": "資工組，上課地點：國防大學理工學院",
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "系統工程",
+    "teacher": "宋易哲",
     "time": "W34-"
   },
   "1132_910112": {
@@ -42988,11 +42988,11 @@
     "credit": "3.00",
     "hours": "4.00",
     "id": "910278",
-    "memo": "*調整授課教師為吳憲(王民)老師。環資組，上課地點：國防大學理工學院，授課教師：吳憲(王民)老師",
+    "memo": "環資組，上課地點：國防大學理工學院，授課教師：吳憲(王民)老師",
     "name": "測量學及實習 Surveying and Practice",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "吳憲珉、系統工程",
+    "teacher": "吳憲珉",
     "time": "W6789-"
   },
   "1132_910279": {
@@ -43276,7 +43276,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910302",
-    "memo": "環資組大氣班，上課地點：國防大學理工學院",
+    "memo": "(預計停開)環資組大氣班，上課地點：國防大學理工學院",
     "name": "環境資訊及工程整合專題實作(2) Special Topics in Ntegration of Environmental Information (2)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -43300,11 +43300,11 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910304",
-    "memo": "*調整授課教師為系統工程。環資組空間班，上課地點：國防大學理工學院，授課教師：王明志老師",
+    "memo": "環資組空間班，上課地點：國防大學理工學院，授課教師：王明志老師",
     "name": "地理資訊系統概論 Introduction to GIS",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "蔡明達、系統工程",
+    "teacher": "系統工程",
     "time": "W2F67-"
   },
   "1132_910305": {
@@ -43564,7 +43564,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910326",
-    "memo": "動力組，上課地點：國防大學理工學院",
+    "memo": "(預計停開)動力組，上課地點：國防大學理工學院",
     "name": "機率與統計 Probability and Statistics",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -43744,7 +43744,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910341",
-    "memo": "動力組兵器班，上課地點：國防大學理工學院，授課教師：孫懷谷老師",
+    "memo": "(預計停開)動力組兵器班，上課地點：國防大學理工學院，授課教師：孫懷谷老師",
     "name": "兵器工程及實習(2) Ordnance  Engineering and Workshop (2)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -43792,7 +43792,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910345",
-    "memo": "動力組造船班，上課地點：國防大學理工學院",
+    "memo": "(預計停開)動力組造船班，上課地點：國防大學理工學院",
     "name": "船用電學 Basic Electronics for Marine Engineering",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -43804,7 +43804,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910346",
-    "memo": "動力組造船班，上課地點：國防大學理工學院",
+    "memo": "(預計停開)動力組造船班，上課地點：國防大學理工學院",
     "name": "銲接學概論 Introduction of Welding Technology",
     "num_limit": "9999",
     "reg_num": "-999",

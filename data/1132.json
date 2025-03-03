@@ -79,7 +79,7 @@
     "memo": "中央大學文學二館C2-102，請參考下方連結檔案P5-P13，https://pdc.adm.ncu.edu.tw/Course/other/CCOP_1.pdf，建立中央的NetID(臨時學號)及個人基本資料。EL5000",
     "name": "論文寫作與研究方法 Thesis Writing and Methodology",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "吳慧娟",
     "time": "Rn567-"
   },
@@ -13496,7 +13496,7 @@
     "name": "護病關係 Nurse-Patient Relationship",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "張秀如、許樹珍、彭松嶽、邱羽凡、林承霈、周月清、黃宇銳",
+    "teacher": "張秀如、許樹珍、彭松嶽、邱羽凡、林承霈、周月清、吳沅鎂、黃宇銳",
     "time": "F234-YN603[YM]"
   },
   "1132_141500": {
@@ -15499,7 +15499,7 @@
     "memo": "",
     "name": "AI實務 Foundations of AI: From Basics to Practice",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "蔡祈岩",
     "time": "Rabc-TB307[BM]"
   },
@@ -16951,7 +16951,7 @@
     "memo": "",
     "name": "專題研究(三) Research(III)",
     "num_limit": "9999",
-    "reg_num": "42",
+    "reg_num": "43",
     "teacher": "生科系",
     "time": ""
   },
@@ -17035,7 +17035,7 @@
     "memo": "",
     "name": "專題研究(一) Research(I)",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "30",
     "teacher": "生科系",
     "time": ""
   },
@@ -17359,7 +17359,7 @@
     "memo": "",
     "name": "結構生物學 Structural Biology",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "蕭育源",
     "time": "R234-BI301[BA]"
   },
@@ -17539,7 +17539,7 @@
     "memo": "[English Medium Course]",
     "name": "網路生物學實作及應用 Implementation and Application of Network Biology",
     "num_limit": "18",
-    "reg_num": "18",
+    "reg_num": "19",
     "teacher": "林峻宇",
     "time": "R234-BI305[BA]"
   },
@@ -20887,7 +20887,7 @@
     "memo": "一AB先預選。導師時間、性平課程",
     "name": "快樂機械人(二) Happy Mechanical Engineers (II)",
     "num_limit": "9999",
-    "reg_num": "105",
+    "reg_num": "104",
     "teacher": "黃正昇",
     "time": "W78-EE106[GF]"
   },
@@ -20899,7 +20899,7 @@
     "memo": "一AB先預選",
     "name": "服務學習(二) Service Learning II",
     "num_limit": "9999",
-    "reg_num": "102",
+    "reg_num": "101",
     "teacher": "黃正昇",
     "time": "T1-EE105[GF]"
   },
@@ -26215,7 +26215,7 @@
     "memo": "[English Medium Course]電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程)",
     "name": "生醫工程 Biomedical Engineering",
     "num_limit": "72",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "戴立嘉",
     "time": "M234-EE220[GF]"
   },
@@ -26419,7 +26419,7 @@
     "memo": "限電信所交換生",
     "name": "電信專題研究 Graduate Research",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "電信所",
     "time": ""
   },
@@ -26887,7 +26887,7 @@
     "memo": "資資訊學院優先(不開放在職專班網路選課)。1.深度學習與深度學習實驗兩門課需同時選修才能採計學分。採用選修深度學習課程後自動加選深度學習實驗課程，不得有異議。2.與「深度學習與實務」為新舊課程僅能採計一門為畢業學分，不能重覆採計。3.博士班資格考考核科目(選修「深度學習」課程後自動加選「深度學習實驗」課程，兩門課皆須完成。)。4.本校資訊學院外，擬修本門課程作為教育部AI聯盟學分學程之主導課程者，開學第一週於課堂紙本加簽。5.同學若要加簽此課程請在 2/20 (四) 23:55 前填寫以下表單：https://forms.gle/dUYTUqiwBu1QfnmA9，並在 2/21(五) 12:00前將紙本加簽單交至 交大工程三館621 (EC621)。",
     "name": "深度學習實驗 Deep Learning Labs",
     "num_limit": "0",
-    "reg_num": "88",
+    "reg_num": "87",
     "teacher": "彭文孝、陳永昇、謝秉均",
     "time": "Tabc-EC114[GF]"
   },
@@ -26899,7 +26899,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)。1.請依各所入學年度之修業要點選課。2.博士班資格考考核科目。3.前瞻所113學年入學乙組專業核心課程。",
     "name": "演算法 Algorithms",
     "num_limit": "162",
-    "reg_num": "131",
+    "reg_num": "130",
     "teacher": "荊宇泰",
     "time": "M34n-EDB27[GF]"
   },
@@ -27091,7 +27091,7 @@
     "memo": "[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]資訊學院優先(不開放在職專班網路選課)。",
     "name": "邊緣人工智慧 Edge AI",
     "num_limit": "90",
-    "reg_num": "140",
+    "reg_num": "146",
     "teacher": "吳凱強",
     "time": "R89-ED117[GF]"
   },
@@ -27343,7 +27343,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)。",
     "name": "數值軟體開發 Numerical Software Development ",
     "num_limit": "25",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "陳永昱",
     "time": "Mz12-EC114[GF]"
   },
@@ -30081,7 +30081,7 @@
     "num_limit": "40",
     "reg_num": "30",
     "teacher": "張永佳",
-    "time": "R234-MB405[GF]"
+    "time": "R234-MB414[GF]"
   },
   "1132_537409": {
     "code": "MGEM30023",
@@ -37831,7 +37831,7 @@
     "memo": "半導體系(固態組)",
     "name": "物理實驗(二) Physics Lab. (II)",
     "num_limit": "56",
-    "reg_num": "44",
+    "reg_num": "42",
     "teacher": "杜建明、謝東儒",
     "time": "W234-SA014[GF]"
   },
@@ -37843,7 +37843,7 @@
     "memo": "半導體系(奈米組)",
     "name": "物理實驗(二) Physics Lab. (II)",
     "num_limit": "56",
-    "reg_num": "30",
+    "reg_num": "32",
     "teacher": "杜建明、謝東儒",
     "time": "W234-SA015[GF]"
   },
@@ -37999,7 +37999,7 @@
     "memo": "",
     "name": "化學實驗(二)  Chemistry Labs. (II)",
     "num_limit": "20",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "黃立心",
     "time": "T234-SB119[GF]"
   },

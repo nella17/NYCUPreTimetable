@@ -1279,7 +1279,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "醫學遺傳學 Medical Genetics",
     "num_limit": "9999",
-    "reg_num": "185",
+    "reg_num": "186",
     "teacher": "陳燕彰、楊智宇、鍾明怡",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
@@ -6379,7 +6379,7 @@
     "memo": "請參照PBL整合課程行事曆",
     "name": "生理學 Physiology",
     "num_limit": "180",
-    "reg_num": "185",
+    "reg_num": "186",
     "teacher": "林惠菁、吳鈺琳、阮琪昌、李怡萱、張原翊、洪成志、楊凱鈞、董萃英、舒宜芳、程子珩、何揚、曾偉誠、蔡明村",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
@@ -14827,7 +14827,7 @@
     "memo": "[English Medium Course]",
     "name": "古希臘哲學概論 A Survey of Classical Greek Philosophy",
     "num_limit": "25",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "程曉杰",
     "time": "W34n-YX201[YM]"
   },
@@ -14899,7 +14899,7 @@
     "memo": "",
     "name": "神經科學之光：從諾貝爾獎探索腦與心智 Exploring mind, brain and neuroscience through Nobel prize laureates",
     "num_limit": "100",
-    "reg_num": "103",
+    "reg_num": "102",
     "teacher": "林士傑、林慶波、連正章、鄭雅薇、吳仕煒、何淑君、張立鴻、陳摘文、林貝容",
     "time": "R34-A302[GF],R34-YL839[YM]"
   },
@@ -14935,7 +14935,7 @@
     "memo": "",
     "name": "比較東西方自然哲學與古醫學觀 Comparison of Eastern & Western Natural Philosophy and View of Ancient Medicine",
     "num_limit": "50",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "陳方佩、張清貿、張晋賢、楊仁鄰、吳大鵬",
     "time": "T34-YT202[YM]"
   },
@@ -19351,7 +19351,7 @@
     "memo": "",
     "name": "數位訊號處理導論 Introduction to Digital Signal Processing",
     "num_limit": "100",
-    "reg_num": "92",
+    "reg_num": "91",
     "teacher": "劉志尉",
     "time": "M56R2-ED116[GF]"
   },
@@ -20611,7 +20611,7 @@
     "memo": "[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously] 主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課。1.學士班七大主題學程。2.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "密碼學概論 Introduction to Cryptography",
     "num_limit": "230",
-    "reg_num": "230",
+    "reg_num": "229",
     "teacher": "易志偉",
     "time": "F56-ED117[GF]"
   },
@@ -20647,7 +20647,7 @@
     "memo": "主開：四年級，外系生請於開學後選課階段網路選課，資工系學生優先選課。",
     "name": "計算機網路管理 Computer Network Administration",
     "num_limit": "70",
-    "reg_num": "67",
+    "reg_num": "66",
     "teacher": "蔡孟勳",
     "time": "Rabc-EC115[GF]"
   },
@@ -23551,7 +23551,7 @@
     "memo": "",
     "name": "應用數學(二) Applied Mathematics (2)",
     "num_limit": "100",
-    "reg_num": "83",
+    "reg_num": "82",
     "teacher": "梁興弛",
     "time": "R234-EE106[GF]"
   },
@@ -23563,7 +23563,7 @@
     "memo": "",
     "name": "應用物理(二) Applied Physics (2)",
     "num_limit": "100",
-    "reg_num": "84",
+    "reg_num": "83",
     "teacher": "待聘",
     "time": "M234-SA311[GF]"
   },
@@ -23575,7 +23575,7 @@
     "memo": "",
     "name": "應用電子學(二) Applied Electronics (2)",
     "num_limit": "100",
-    "reg_num": "84",
+    "reg_num": "83",
     "teacher": "陳振芳",
     "time": "W234-SC106[GF]"
   },
@@ -23587,7 +23587,7 @@
     "memo": "",
     "name": "電腦程式與計算分析(二) Computer Programming and Computational Analysis (2)",
     "num_limit": "100",
-    "reg_num": "85",
+    "reg_num": "84",
     "teacher": "杜岳錡",
     "time": "F12n-SA321[GF]"
   },
@@ -26263,7 +26263,7 @@
     "memo": "",
     "name": "學位論文研究 Academic Dissertation Research ",
     "num_limit": "9999",
-    "reg_num": "260",
+    "reg_num": "263",
     "teacher": "電信所",
     "time": ""
   },
@@ -26419,7 +26419,7 @@
     "memo": "限電信所交換生",
     "name": "電信專題研究 Graduate Research",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "電信所",
     "time": ""
   },
@@ -26923,7 +26923,7 @@
     "memo": "資科工所必修。1.每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "400",
+    "reg_num": "399",
     "teacher": "資科工所",
     "time": ""
   },
@@ -27139,7 +27139,7 @@
     "memo": "網工所必修，每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "107",
+    "reg_num": "106",
     "teacher": "網工所",
     "time": ""
   },
@@ -27199,7 +27199,7 @@
     "memo": "多工所必修，每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "121",
+    "reg_num": "120",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -29551,7 +29551,7 @@
     "memo": "研究所課程。開放全校大三大四學生在開學加退選階段於網路選課。",
     "name": "消費者行為 Consumer Behavior",
     "num_limit": "60",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "張家齊",
     "time": "W678-M115[GF]"
   },
@@ -30247,7 +30247,7 @@
     "memo": "財務類課程；財策組、財工組必修；財務金融碩博士班學生優先。非本課程輔開系所之外系所學生請於開學後再上網加選課程。無法於線上加選者請紙本加簽。",
     "name": "投資學 Investment",
     "num_limit": "110",
-    "reg_num": "43",
+    "reg_num": "44",
     "teacher": "李漢星",
     "time": "R567-M101[GF]"
   },
@@ -36247,7 +36247,7 @@
     "memo": "",
     "name": "體育－籃球甲 Basketball",
     "num_limit": "40",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "鄭智仁",
     "time": "R56-PE[GF]"
   },
@@ -37579,7 +37579,7 @@
     "memo": "含近代物理",
     "name": "物理(二)榮譽班 Physics(II)",
     "num_limit": "115",
-    "reg_num": "116",
+    "reg_num": "117",
     "teacher": "簡紋濱",
     "time": "M34R78-SA321[GF]"
   },

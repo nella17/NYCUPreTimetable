@@ -31867,7 +31867,7 @@
     "memo": "",
     "name": "財務策略與管理 Financial Strategies and Management",
     "num_limit": "9999",
-    "reg_num": "60",
+    "reg_num": "61",
     "teacher": "鍾惠民、黃宜侯、王國強",
     "time": "S234567-M116[GF]"
   },
@@ -31879,7 +31879,7 @@
     "memo": "上課地點為：台北北門校區四樓B401-1",
     "name": "組織與人力資源管理 Organization and Human Resource Management",
     "num_limit": "9999",
-    "reg_num": "65",
+    "reg_num": "66",
     "teacher": "溫金豐、楊千、毛治國",
     "time": "U234567-"
   },
@@ -31891,7 +31891,7 @@
     "memo": "",
     "name": "資訊與管理專題 Seminar on Information and Management",
     "num_limit": "9999",
-    "reg_num": "53",
+    "reg_num": "54",
     "teacher": "李永銘、林春成、張家齊、林孟洲、楊千",
     "time": "U234567-M115[GF]"
   },
@@ -31903,7 +31903,7 @@
     "memo": "上課地點為：台北北門校區四樓B401-1",
     "name": "公司治理與永續發展 Corporate governance and sustainable development",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "26",
     "teacher": "葉銀華、黃宜侯、丁克華",
     "time": "S234567-"
   },
@@ -31915,7 +31915,7 @@
     "memo": "上課地點為：台北北門校區四樓B401-1",
     "name": "台日企業專題研討 Taiwan Japan Management seminar",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "61",
     "teacher": "黃仕斌、林春成、鍾惠民、張家齊、蔡有光、劉興成",
     "time": "Sabc-"
   },
@@ -31927,7 +31927,7 @@
     "memo": "",
     "name": "碩士論文研究 Thesis",
     "num_limit": "9999",
-    "reg_num": "53",
+    "reg_num": "54",
     "teacher": "EMBA",
     "time": "Uabc-"
   },

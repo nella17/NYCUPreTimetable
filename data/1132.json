@@ -6008,7 +6008,7 @@
     "name": "論文閱讀與分析方法(下) Paper Reading and Analysis I, 2nd Semester",
     "num_limit": "9999",
     "reg_num": "26",
-    "teacher": "李敏嘉、蔡亭芬、李曉暉、袁維謙",
+    "teacher": "李敏嘉、蔡亭芬、鍾明怡、李曉暉、袁維謙",
     "time": "M56-YK436[YM],M56-YL405[YM]"
   },
   "1132_112514": {
@@ -7756,7 +7756,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "130413",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "綜合發育神經學 Comprehensive Developmental Neuroscience",
     "num_limit": "9999",
     "reg_num": "7",
@@ -11068,7 +11068,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "132616",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "電漿子學與生醫感測 Plasmonics for biosensors",
     "num_limit": "9999",
     "reg_num": "7",
@@ -15456,12 +15456,12 @@
     "time": "R234-HK206[LJ]"
   },
   "1132_310109": {
-    "code": "HKCT20038",
-    "credit": "3.00",
+    "code": "HKCT20021",
+    "credit": "2.00",
     "hours": "2.00",
     "id": "310109",
     "memo": "",
-    "name": "畢業專題（上） Final Year Projet (I)",
+    "name": "畢業專題(上) Final Year Projet(I)",
     "num_limit": "9999",
     "reg_num": "38",
     "teacher": "魏玓、賴至慧、李美華、戴瑜慧、陳維平、黃淑鈴、游婉雲",
@@ -24676,12 +24676,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535208",
-    "memo": "上課時間及教室：W34–田家炳103室,M2–EDB26",
+    "memo": "上課時間及教室：W34–ED103,M2–EDB26",
     "name": "積體電路技術(二) Integrated Circuit Technology (II)",
     "num_limit": "9999",
     "reg_num": "69",
     "teacher": "崔秉鉞",
-    "time": "W34-,M2-EDB26[GF]"
+    "time": "M2-ED101[GF],W34-ED103[GF]"
   },
   "1132_535209": {
     "code": "EEIE30011",

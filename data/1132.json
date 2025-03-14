@@ -679,7 +679,7 @@
     "memo": "",
     "name": "精神科臨床實習(一) Clerkship in Psychiatry(1)",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "23",
     "teacher": "精神學科",
     "time": ""
   },
@@ -4604,7 +4604,7 @@
     "name": "皮膚物理治療學 Integumentary Physical Therapy",
     "num_limit": "45",
     "reg_num": "37",
-    "teacher": "周立偉、彭成康、林之勛、王天祥、陳梅君、翁立窈、宋有礪、陳偉修、莊惇雅、涂育嫺",
+    "teacher": "周立偉、彭成康、林之勛、王天祥、陳梅君、翁立窈、宋有礪、陳偉修、莊惇雅、林家穗、涂育嫺",
     "time": "M5-YB624[YM]"
   },
   "1132_112210": {
@@ -8108,7 +8108,7 @@
     "name": "閱讀、研究與寫作 How to write a research proposal and journal",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "周月清",
+    "teacher": "周月清、李韶芬",
     "time": "W89-YN611[YM]"
   },
   "1132_130800": {
@@ -9116,7 +9116,7 @@
     "name": "高等口腔病理學(含臨床病理討論) Advanced Oral Pathology (Include C.P.C.)",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "張國威、楊政杰、涂曦丰、吳靜宜、洪凱風、張婷菡、劉崇基、羅文良、劉宗榮、洪佩詩、周忠憲",
+    "teacher": "張國威、楊政杰、涂曦丰、洪凱風、張婷菡、劉崇基、羅文良、劉宗榮、洪佩詩、周忠憲",
     "time": "T78-YD207[YM]"
   },
   "1132_131408": {
@@ -9176,7 +9176,7 @@
     "name": "高等牙髓病學(六) Advanced Endodontics (Ⅵ)",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "何怡青、吳靜宜、楊淑芬、黃妙玨、陳誼安、李亞芸、白勝方、林怡君、郭恬君、林郁恆、賴博堂、陳正毅、陳益貞、蔡佳倫",
+    "teacher": "何怡青、楊淑芬、黃妙玨、陳誼安、李亞芸、白勝方、林怡君、郭恬君、林郁恆、賴博堂、陳正毅、陳益貞、蔡佳倫",
     "time": "W9a-"
   },
   "1132_131414": {
@@ -12788,7 +12788,7 @@
     "name": "臨床牙醫學專題討論(二)(博士班) Seminar of Advanced Clinical Dentistry ( II )",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "楊政杰、高壽延、李士元、季麟揚、黃何雄、林元敏、林嘉澍、涂曦丰、吳靜宜、洪凱風、王鼎涵、林宥成、陳翾、許明倫",
+    "teacher": "楊政杰、高壽延、李士元、季麟揚、黃何雄、林元敏、林嘉澍、涂曦丰、洪凱風、王鼎涵、林宥成、陳翾、許明倫",
     "time": "M9a-YD302[YM]"
   },
   "1132_141300": {
@@ -14359,7 +14359,7 @@
     "memo": "1.陽明校區教室：YT301；光復校區教室：EE129  2.開學後人工加簽，開放5位「優先開放第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」",
     "name": "翻轉管理學 A Critical Understanding of Management",
     "num_limit": "46",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "徐詩偉",
     "time": "F56-EE129[GF],F56-YT301[YM]"
   },
@@ -23868,9 +23868,9 @@
     "time": "W678-HA105[GF]"
   },
   "1132_534711": {
-    "code": "HSAR30058",
-    "credit": "2.00",
-    "hours": "2.00",
+    "code": "HSAR30059",
+    "credit": "3.00",
+    "hours": "3.00",
     "id": "534711",
     "memo": "",
     "name": "電腦輔助建築設計 Fundamentals of CAD",
@@ -29440,7 +29440,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537812",
-    "memo": "開大四選修(不開放網路選課)，擬修課同學需寫信給授課教師取得同意。",
+    "memo": "[English Medium Course]開大四選修(不開放網路選課)，擬修課同學需寫信給授課教師取得同意。",
     "name": "人類與人工智能互動 Human-AI Interaction",
     "num_limit": "16",
     "reg_num": "8",
@@ -35647,7 +35647,7 @@
     "memo": "第一週上課集合地點為活動中心綜合球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "34",
     "teacher": "黃中興",
     "time": "T78-PhE[YM]"
   },

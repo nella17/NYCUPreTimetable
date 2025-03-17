@@ -10064,7 +10064,7 @@
     "name": "食品安全法規及管理科學 Food safety Regulation and Management Science",
     "num_limit": "24",
     "reg_num": "9",
-    "teacher": "康照洲、楊登傑、倪貴榮、廖伯霖、黃耀文、鄭幼文、潘志寬、林勤富、李青澔",
+    "teacher": "康照洲、楊登傑、廖伯霖、黃耀文、鄭幼文、潘志寬、林勤富、李青澔",
     "time": "W56-YN205[YM]"
   },
   "1132_132115": {
@@ -10476,9 +10476,9 @@
     "time": "T234-YB603[YM]"
   },
   "1132_132402": {
-    "code": "BEPT10064",
+    "code": "BEPT10065",
     "credit": "2.00",
-    "hours": "32.00",
+    "hours": "2.00",
     "id": "132402",
     "memo": "",
     "name": "行動裝置程式設計 Mobile Device Programming",
@@ -24676,7 +24676,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535208",
-    "memo": "上課時間及教室：W34–ED103,M2–EDB26",
+    "memo": "",
     "name": "積體電路技術(二) Integrated Circuit Technology (II)",
     "num_limit": "9999",
     "reg_num": "69",
@@ -24907,7 +24907,7 @@
     "memo": "[English Medium Course]",
     "name": "計算機結構 Computer Architecture",
     "num_limit": "160",
-    "reg_num": "112",
+    "reg_num": "111",
     "teacher": "賴伯承",
     "time": "R34n-EDB27[GF]"
   },
@@ -25231,7 +25231,7 @@
     "memo": "[English Medium Course]",
     "name": "數位訊號處理 Digital Signal Processing",
     "num_limit": "120",
-    "reg_num": "71",
+    "reg_num": "70",
     "teacher": "陳福川",
     "time": "R567-EE105[GF]"
   },
@@ -27211,7 +27211,7 @@
     "memo": "[English Medium Course]限土木系研究所外籍生選修 (This course is only available to foreign graduate students in the Department of Civil Engineering.)",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "土木系",
     "time": ""
   },
@@ -27619,7 +27619,7 @@
     "memo": "[English Medium Course]",
     "name": "Labview程式設計(一) Labview Programming(I)",
     "num_limit": "70",
-    "reg_num": "45",
+    "reg_num": "46",
     "teacher": "籔下篤史",
     "time": "T234-SC162[GF]"
   },
@@ -27667,7 +27667,7 @@
     "memo": "[English Medium Course]",
     "name": "量子資訊簡介 Introduction of Quantum information",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "籔下篤史",
     "time": "F234-SC151[GF]"
   },
@@ -32431,7 +32431,7 @@
     "memo": "[English Medium Course]",
     "name": "哲學概論 Introduction to Philosophy",
     "num_limit": "32",
-    "reg_num": "31",
+    "reg_num": "32",
     "teacher": "博佳佳",
     "time": "R34-A202[GF]"
   },
@@ -33439,7 +33439,7 @@
     "memo": "[English Medium Course]",
     "name": "社交英文：人際與商務溝通 Networking in English: Social and Business Interactions",
     "num_limit": "25",
-    "reg_num": "23",
+    "reg_num": "24",
     "teacher": "李麥德",
     "time": "R12-A209[GF]"
   },
@@ -35371,7 +35371,7 @@
     "memo": "交大校區",
     "name": "體育－排球校隊(男) Volleyball team(Male)",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "張振興",
     "time": ""
   },
@@ -35719,7 +35719,7 @@
     "memo": "第一週上課集合地點為山頂運動場。\n第一階段開放選課系級：醫二A、不分系二。\n第二階段後開放選修。",
     "name": "飛盤 Frisbee",
     "num_limit": "40",
-    "reg_num": "14",
+    "reg_num": "22",
     "teacher": "林昭光",
     "time": "M12-PhE[YM]"
   },
@@ -35743,7 +35743,7 @@
     "memo": "第一週上課集合地點為活動中心重量訓練室。\n第一階段開放選課系級：醫技二、醫工三。\n第二階段後開放選修。",
     "name": "體適能 Fitness",
     "num_limit": "30",
-    "reg_num": "19",
+    "reg_num": "21",
     "teacher": "徐煒杰",
     "time": "M34-PhE[YM]"
   },
@@ -35779,7 +35779,7 @@
     "memo": "第一週上課集合地點為山頂運動場。\n第一階段開放選課系級：醫學三。\n第二階段後開放選修。",
     "name": "足球 Soccer",
     "num_limit": "40",
-    "reg_num": "28",
+    "reg_num": "30",
     "teacher": "徐煒杰",
     "time": "M78-PhE[YM]"
   },
@@ -35863,7 +35863,7 @@
     "memo": "第一週上課集合地點為活動中心綜合球場。\n第一階段開放選課系級：物輔二。\n第二階段後開放選修。",
     "name": "五人制足球 Futsal",
     "num_limit": "30",
-    "reg_num": "17",
+    "reg_num": "18",
     "teacher": "徐煒杰",
     "time": "T34-PhE[YM]"
   },
@@ -35875,7 +35875,7 @@
     "memo": "第一週上課集合地點為活動中心綜合球場。\n第一階段開放選課系級：牙醫三。\n第二階段後開放選修。",
     "name": "匹克球 Pickleball",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "32",
     "teacher": "黃中興",
     "time": "T56-PhE[YM]"
   },
@@ -35887,7 +35887,7 @@
     "memo": "第一週上課集合地點為活動中心韻律教室。\n第一階段開放選課系級：生科二、生科三。\n第二階段後開放選修。",
     "name": "動力伸展與紓壓 Power Extension and Relax",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "藍于青",
     "time": "W12-PhE[YM]"
   },
@@ -35911,7 +35911,7 @@
     "memo": "第一週上課集合地點為活動中心桌球室。\n第一階段開放選課系級：藥學二、醫放三。\n第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "黃中興",
     "time": "R12-PhE[YM]"
   },
@@ -35935,7 +35935,7 @@
     "memo": "限三年級以上選修。\n第一週上課集合地點為活動中心綜合球場。\n第一階段開放選課系級：醫放三。\n第二階段後開放選修。",
     "name": "排球 Volleyball",
     "num_limit": "30",
-    "reg_num": "27",
+    "reg_num": "28",
     "teacher": "留鼎淙",
     "time": "R78-PhE[YM]"
   },
@@ -35947,7 +35947,7 @@
     "memo": "第一週上課集合地點為活動中心綜合球場。\n第一階段開放選課系級：藥學三。\n第二階段後開放選修。",
     "name": "匹克球 Pickleball",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "藍于青",
     "time": "F12-PhE[YM]"
   },
@@ -35959,7 +35959,7 @@
     "memo": "第一週上課集合地點為活動中心韻律教室。\n第一階段開放選課系級：醫二B、醫工二。\n第二階段後開放選修。",
     "name": "動力伸展與紓壓 Power Extension and Relax",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "藍于青",
     "time": "F34-PhE[YM]"
   },
@@ -35971,7 +35971,7 @@
     "memo": "第一週上課集合地點為活動中心綜合球場。\n第一階段開放選課系級：醫二B、醫工二。\n第二階段後開放選修。",
     "name": "籃球 Basketball",
     "num_limit": "30",
-    "reg_num": "23",
+    "reg_num": "28",
     "teacher": "陳厚諭",
     "time": "F34-PhE[YM]"
   },
@@ -35983,7 +35983,7 @@
     "memo": "第一週上課集合地點為山下網球場。\n第一階段開放選課系級：護理二、醫放二。\n第二階段後開放選修。",
     "name": "網球 Tennis",
     "num_limit": "30",
-    "reg_num": "29",
+    "reg_num": "30",
     "teacher": "魏豐閔",
     "time": "F56-PhE[YM]"
   },
@@ -35995,7 +35995,7 @@
     "memo": "第一週上課集合地點為活動中心綜合球場。\n第一階段開放選課系級：護理二、醫放二。\n第二階段後開放選修。",
     "name": "羽球 Badminton",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "黃志成",
     "time": "F56-PhE[YM]"
   },
@@ -36007,7 +36007,7 @@
     "memo": "第一週上課集合地點為活動中心韻律教室。\n第一階段開放選課系級：護理二、醫放二。\n第二階段後開放選修。",
     "name": "太極拳 Tai Chi",
     "num_limit": "30",
-    "reg_num": "29",
+    "reg_num": "30",
     "teacher": "張耀庭",
     "time": "F56-PhE[YM]"
   },
@@ -36043,7 +36043,7 @@
     "memo": "第一週上課集合地點為活動中心韻律教室。\n第一階段開放選課系級：物輔三、醫技三。\n第二階段後開放選修。",
     "name": "太極拳 Tai Chi",
     "num_limit": "30",
-    "reg_num": "24",
+    "reg_num": "31",
     "teacher": "張耀庭",
     "time": "F78-PhE[YM]"
   },
@@ -36968,7 +36968,7 @@
     "name": "設計思考導引方法與AI協作實驗課 Practice of Design Thinking Facilitating Methods and AI Co-Creation",
     "num_limit": "20",
     "reg_num": "16",
-    "teacher": "余德彰",
+    "teacher": "社永中心",
     "time": "T5678-EA101[GF]"
   },
   "1132_571000": {

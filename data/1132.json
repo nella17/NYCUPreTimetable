@@ -5228,7 +5228,7 @@
     "name": "女性健康物理治療 Women Health in Physical Therapy",
     "num_limit": "15",
     "reg_num": "18",
-    "teacher": "王子娟、謝妮芸、陳怡同",
+    "teacher": "王子娟、余堅忍、謝妮芸、陳怡同、閻永珍",
     "time": "Sbc-YB601[YM]"
   },
   "1132_112300": {
@@ -5456,7 +5456,7 @@
     "name": "放射診斷技術學 (二) Clinical Radiodiagnostic Technology (2)",
     "num_limit": "9999",
     "reg_num": "29",
-    "teacher": "許世明、林重榮、陳富都、陳潤秋、吳道正、沈書慧、黃桂蓮、夏迹影、張建法、楊承閎、陳木熊、黃姍姒",
+    "teacher": "許世明、林重榮、陳富都、陳潤秋、吳道正、沈書慧、張軒侃、黃桂蓮、夏迹影、張建法、楊承閎、陳木熊、黃姍姒",
     "time": "T12-YB458[YM]"
   },
   "1132_112319": {
@@ -8072,7 +8072,7 @@
     "name": "社會流行病學 Social Epidemiology",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "喬芷、林文旭",
+    "teacher": "喬芷、林文旭、王敏靜",
     "time": "W34-YN613[YM]"
   },
   "1132_130707": {
@@ -9537,7 +9537,7 @@
     "num_limit": "9999",
     "reg_num": "42",
     "teacher": "劉介宇",
-    "time": "F78-YN416[YM]"
+    "time": "F78-YN418[YM]"
   },
   "1132_131806": {
     "code": "NSCH30060",
@@ -26347,7 +26347,7 @@
     "memo": "[English Medium Course]",
     "name": "專題研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "黃昱智",
     "time": ""
   },
@@ -26359,7 +26359,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "65",
+    "reg_num": "64",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -31807,7 +31807,7 @@
     "memo": "上課地點為：台北北門校區四樓B401-1",
     "name": "組織與人力資源管理 Organization and Human Resource Management",
     "num_limit": "9999",
-    "reg_num": "66",
+    "reg_num": "64",
     "teacher": "溫金豐、楊千、毛治國",
     "time": "U234567-"
   },
@@ -31831,7 +31831,7 @@
     "memo": "上課地點為：台北北門校區四樓B401-1",
     "name": "公司治理與永續發展 Corporate governance and sustainable development",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "27",
     "teacher": "葉銀華、黃宜侯、丁克華",
     "time": "S234567-"
   },
@@ -35323,7 +35323,7 @@
     "memo": "身心障礙或持有醫院證明不宜上一般體育課者，需向體育教育中心申請統一編入「適應體育」上課。\n上課地點在游泳館二樓健身房。",
     "name": "體育－適應體育 Adapted Physical Education",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "16",
     "teacher": "詹益欣",
     "time": "Wz1-PE[GF]"
   },

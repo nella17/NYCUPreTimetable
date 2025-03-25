@@ -4219,7 +4219,7 @@
     "memo": "",
     "name": "電路學 Electric Circuits",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "25",
     "teacher": "陳右穎",
     "time": "M567-YT303[YM]"
   },
@@ -7592,7 +7592,7 @@
     "name": "專題討論(碩士班中文) Seminar MI",
     "num_limit": "9999",
     "reg_num": "10",
-    "teacher": "陳世彬、楊慕華、楊盈盈、楊智宇、陳斯婷、賴峻毅、蘇建維、魏耀揮、梁毓津、吳肇卿",
+    "teacher": "陳世彬、楊慕華、楊盈盈、黃柏勳、楊智宇、陳斯婷、賴峻毅、蘇建維、魏耀揮、梁毓津、吳肇卿",
     "time": "R34-YL404[YM]"
   },
   "1132_130303": {
@@ -8277,7 +8277,7 @@
     "num_limit": "9999",
     "reg_num": "11",
     "teacher": "王正雄",
-    "time": "R78-,R78-YS415[YM]"
+    "time": "R78-YT303[YM]"
   },
   "1132_130817": {
     "code": "MDEO30005",
@@ -12404,7 +12404,7 @@
     "name": "專題討論(博士班一) Seminar DI",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "陳世彬、黃奇英、楊盈盈、楊智宇、賴峻毅、吳成文、林錫勳、魏耀揮、陳宜民、王鵬惠、陳建良、吳肇卿",
+    "teacher": "陳世彬、黃奇英、楊盈盈、黃柏勳、楊智宇、賴峻毅、吳成文、林錫勳、魏耀揮、陳宜民、王鵬惠、陳建良、吳肇卿",
     "time": "R78-YL405[YM]"
   },
   "1132_140307": {
@@ -13665,7 +13665,7 @@
     "num_limit": "9999",
     "reg_num": "15",
     "teacher": "黃淑鶴、王子芳、陳怡如、李亭亭",
-    "time": "F56-YN416[YM]"
+    "time": "F56-YN418[YM]"
   },
   "1132_150209": {
     "code": "NSDN30079",
@@ -17216,7 +17216,7 @@
     "name": "器樂進階演奏（二） Advanced Instrumental Performance II",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "辛幸純、李俊穎、許佳穎",
+    "teacher": "辛幸純",
     "time": ""
   },
   "1132_514023": {
@@ -30931,7 +30931,7 @@
     "memo": "",
     "name": "半導體製造技術導論 Introduction to Semiconductor Manufacturing Technology  ",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "林御專",
     "time": "Wabc-EF207[GF]"
   },
@@ -31015,7 +31015,7 @@
     "memo": "一二年級",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "陳永富",
     "time": "Rab-SC106[GF]"
   },
@@ -31027,7 +31027,7 @@
     "memo": "一二年級",
     "name": "碩士論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "應科專班",
     "time": ""
   },
@@ -31051,7 +31051,7 @@
     "memo": "限在職專班學生選修",
     "name": "前瞻科技 – 應用統計 Frontier Science and Technology – Applied Statistics",
     "num_limit": "9999",
-    "reg_num": "58",
+    "reg_num": "57",
     "teacher": "林聖軒",
     "time": "S234-SC106[GF]"
   },

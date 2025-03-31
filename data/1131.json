@@ -41724,12 +41724,12 @@
     "time": "M34F2-"
   },
   "1131_910289": {
-    "code": "SESE20021",
-    "credit": "1.00",
+    "code": "SESE10262",
+    "credit": "2.00",
     "hours": "2.00",
     "id": "910289",
     "memo": "環資組大氣班，上課地點：國防大學理工學院",
-    "name": "天氣學實習(1) Synoptic Meteorology Laboratory(I)",
+    "name": "天氣學實習(1) Synoptic Meteorology Laboratory(1)",
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "林永慶",

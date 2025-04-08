@@ -5791,7 +5791,7 @@
     "memo": "",
     "name": "超音波治療原理與應用 The Principle and Application of Ultrasound Therapy",
     "num_limit": "20",
-    "reg_num": "4",
+    "reg_num": "5",
     "teacher": "楊逢羿",
     "time": "W234-YB134[YM]"
   },
@@ -10711,7 +10711,7 @@
     "memo": "[English Medium Course]",
     "name": "生醫影像原理與應用 Principles of Biomedical Imaging",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "13",
     "teacher": "盧家鋒、吳駿一、詹明賢、高瑀絜",
     "time": "F789-YB101[YM]"
   },
@@ -10759,7 +10759,7 @@
     "memo": "[English Medium Course]",
     "name": "專題討論(甲組) Seminar",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "24",
     "teacher": "吳東信、林慶波、陳志成、楊逢羿、許世明、吳杰、盧家鋒、高瑀絜",
     "time": "F56-YT206[YM]"
   },
@@ -22856,7 +22856,7 @@
     "name": "應用數學(一) Applied Mathematics (1)",
     "num_limit": "70",
     "reg_num": "10",
-    "teacher": "待聘",
+    "teacher": "學士後電子與光子",
     "time": "Rabc-SC162[GF]"
   },
   "1132_530000": {
@@ -26493,7 +26493,7 @@
     "num_limit": "50",
     "reg_num": "58",
     "teacher": "林群雄",
-    "time": "R567-EE206[GF]"
+    "time": "R567-EE102[GF]"
   },
   "1132_535910": {
     "code": "STST30020",
@@ -30379,7 +30379,7 @@
     "memo": "管科博必修。擇定指導教授後每學年須選修一次。",
     "name": "個別研究 (博) Individual study",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "管科系",
     "time": ""
   },
@@ -31027,7 +31027,7 @@
     "memo": "一二年級",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "50",
     "teacher": "陳永富",
     "time": "Rab-SC106[GF]"
   },
@@ -31039,7 +31039,7 @@
     "memo": "一二年級",
     "name": "碩士論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "50",
     "teacher": "應科專班",
     "time": ""
   },
@@ -31233,7 +31233,7 @@
     "num_limit": "9999",
     "reg_num": "16",
     "teacher": "巫佳煌",
-    "time": "Tabc-MB405[GF]"
+    "time": "Tabc-MB110[GF]"
   },
   "1132_557403": {
     "code": "MGEM30009",
@@ -35623,7 +35623,7 @@
     "memo": "第一週上課集合地點為桌球室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "38",
     "teacher": "藍于青",
     "time": "M56-PhE[YM]"
   },

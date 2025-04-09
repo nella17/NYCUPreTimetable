@@ -3523,7 +3523,7 @@
     "memo": "上課地點：實習醫院",
     "name": "護理管理與行政概論實習 Introduction to Nursing Management and Administration Practice",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "李亭亭、黃淑鶴、賴鼎璁、明金蓮、林淑娟、李雅萍、王卿凌、陳美君、施玉珊、游佩玲、鄭菁慧",
     "time": "M12345678T12345678W12345678-"
   },
@@ -13783,7 +13783,7 @@
     "memo": "",
     "name": "生醫科技現況與趨勢 Innovations in biomedical industry",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "蔡有光",
     "time": "S8-YR105[YM]"
   },
@@ -13795,7 +13795,7 @@
     "memo": "",
     "name": "生醫科技創新創業計畫 Biotech Medical Innovation and Entrepreneurship Development Plan",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "江惠華",
     "time": "S9-YR105[YM]"
   },
@@ -13807,7 +13807,7 @@
     "memo": "",
     "name": "金融投資專題 Special topics on finance and investment",
     "num_limit": "9999",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "劉助",
     "time": "S1U1-YR101[YM]"
   },
@@ -18943,7 +18943,7 @@
     "memo": "[固態電子組]",
     "name": "生涯規劃與導師時間 Career Planning and Mentor’s Hours",
     "num_limit": "45",
-    "reg_num": "41",
+    "reg_num": "42",
     "teacher": "柯明道、王仲益、李宗恩",
     "time": "W78-EE132[GF]"
   },
@@ -31843,7 +31843,7 @@
     "memo": "上課地點為：台北北門校區四樓B401-1",
     "name": "公司治理與永續發展 Corporate governance and sustainable development",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "葉銀華、黃宜侯、丁克華",
     "time": "S234567-"
   },
@@ -31855,7 +31855,7 @@
     "memo": "上課地點為：台北北門校區四樓B401-1",
     "name": "台日企業專題研討 Taiwan Japan Management seminar",
     "num_limit": "60",
-    "reg_num": "61",
+    "reg_num": "60",
     "teacher": "黃仕斌、林春成、鍾惠民、張家齊、邱裕鈞、蔡有光、劉興成",
     "time": "Sabc-"
   },
@@ -37461,7 +37461,7 @@
     "num_limit": "15",
     "reg_num": "13",
     "teacher": "林佳慧",
-    "time": "T34-A210[GF]"
+    "time": "T34-A205[GF]"
   },
   "1132_579023": {
     "code": "GECL00025",

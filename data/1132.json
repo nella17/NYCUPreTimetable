@@ -9728,7 +9728,7 @@
     "name": "生藥暨中藥藥物學(二) Pharmacognosy and Traditional Chinese Pharmacology (II)",
     "num_limit": "40",
     "reg_num": "34",
-    "teacher": "陳日榮、廖家慶、朱益成",
+    "teacher": "陳日榮、廖家慶",
     "time": "W78-YR101[YM]"
   },
   "1132_132002": {
@@ -25903,7 +25903,7 @@
     "memo": "資科工所必修。1.每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "391",
+    "reg_num": "390",
     "teacher": "資科工所",
     "time": ""
   },
@@ -27401,7 +27401,7 @@
     "hours": "3.00",
     "id": "536451",
     "memo": "[English Medium Course]環工所學生優先。",
-    "name": " 工業催化 Fundamental and Applications of Industrial Catalysis",
+    "name": "工業催化 Fundamental and Applications of Industrial Catalysis",
     "num_limit": "20",
     "reg_num": "12",
     "teacher": "林亮毅",
@@ -35659,7 +35659,7 @@
     "memo": "第一週上課集合地點為活動中心綜合球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "33",
     "teacher": "黃中興",
     "time": "W78-PhE[YM]"
   },

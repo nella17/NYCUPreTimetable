@@ -7196,7 +7196,7 @@
     "name": "科學寫作與學術生涯 Science, Writing, and academic career",
     "num_limit": "15",
     "reg_num": "5",
-    "teacher": "黃自強、葉翰宜",
+    "teacher": "黃自強",
     "time": "Rab-YR101[YM]"
   },
   "1132_130119": {
@@ -11444,7 +11444,7 @@
     "name": "微生物及免疫學實驗教學(二) Microbiology and Immunology Laboratory Teaching Training (2)",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "陳念榮",
+    "teacher": "微免所碩",
     "time": "S12-"
   },
   "1132_132900": {
@@ -16783,7 +16783,7 @@
     "memo": "",
     "name": "Go人工智慧大數據平行運算 Artificial intelligent big data parallel computation by Go",
     "num_limit": "15",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "羅惟正",
     "time": "W5689-BI304[BA]"
   },
@@ -24693,7 +24693,7 @@
     "num_limit": "9999",
     "reg_num": "12",
     "teacher": "林聖迪、林國瑞",
-    "time": "T7F34-ED202[GF]"
+    "time": "F34-ED101[GF],T7-ED202[GF]"
   },
   "1132_535211": {
     "code": "EEIE30016",

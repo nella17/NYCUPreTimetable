@@ -15007,7 +15007,7 @@
     "memo": "限本專班生二年級(含)以上修課；上課地點：台北北門校區",
     "name": "論文研討二 Seminar II",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "物流專班",
     "time": "Rabc-TB429[BM]"
   },
@@ -29743,7 +29743,7 @@
     "memo": "[English Medium Course] 限科法博、科法碩及科法專班同學選修\n網路非同步上課",
     "name": "國際商業交易法 International Business Transactions",
     "num_limit": "9999",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "施明遠",
     "time": ""
   },
@@ -30583,7 +30583,7 @@
     "memo": "每學期3次課程，上課日暫訂為5/XX(六)，詳細上課時間請留意專班網頁公告；限電資專班學生選修",
     "name": "專題研討 Seminars",
     "num_limit": "9999",
-    "reg_num": "141",
+    "reg_num": "140",
     "teacher": "李義明",
     "time": "S234567-ED219[GF]"
   },
@@ -30595,7 +30595,7 @@
     "memo": "限本專班95級(含)以後同學選修；已有指導教授者才可選修，若尚未繳交過指導教授協議書，最遲開學兩週後交至專班辦公室。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "113",
+    "reg_num": "112",
     "teacher": "電資專班",
     "time": ""
   },
@@ -30607,7 +30607,7 @@
     "memo": "電控組：限陽明交大在職專班學生選修",
     "name": "前瞻類比積體電路設計 Advance Analog Integrated Circuit",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "洪浩喬",
     "time": "Rabc-EE207[GF]"
   },
@@ -30655,7 +30655,7 @@
     "memo": "限本專班同學選修；已有指導教授者才可選修，若尚未繳交過指導教授協議書，最遲開學後兩週內交至專班辦公室。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "國防資安專班",
     "time": ""
   },
@@ -31699,7 +31699,7 @@
     "memo": "限科法專班、科法博班同學選修",
     "name": "民法物權 Civil Law: Property",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "孫介然",
     "time": "Wy-"
   },
@@ -31735,7 +31735,7 @@
     "memo": "校級遠距課程、網路非同步班\n限科法專班、科法博班同學選修",
     "name": "民法債編各論 Civil Law: Particular Kinds of Obligations",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "10",
     "teacher": "王漢威、邱羽凡",
     "time": "Fyz1-"
   },
@@ -36259,7 +36259,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "65",
-    "reg_num": "64",
+    "reg_num": "63",
     "teacher": "王賜聖",
     "time": "M78R34-SC204[GF]"
   },

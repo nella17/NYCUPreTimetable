@@ -18151,7 +18151,7 @@
     "memo": "R1為助教時間",
     "name": "電磁學 Electromagnetics",
     "num_limit": "100",
-    "reg_num": "99",
+    "reg_num": "98",
     "teacher": "鄭裕庭、陳富強",
     "time": "M56R12-EE102[GF]"
   },
@@ -18799,7 +18799,7 @@
     "memo": "",
     "name": "超大型積體電路設計導論 Introduction to VLSI Design",
     "num_limit": "72",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "黃聖傑",
     "time": "T56R8-EE208[GF]"
   },
@@ -19723,7 +19723,7 @@
     "memo": "主開：2年級，資工系學生優先選課。本課程實際內容為『程式能力鑑定』考試，及格條件為通過任一次考試，除考試後及另訂定的助教輔導時間外，本課程無實體教學。",
     "name": "基礎程式設計 Basic Programming",
     "num_limit": "9999",
-    "reg_num": "277",
+    "reg_num": "276",
     "teacher": "吳凱強、洪瑞鴻、黃寗琪",
     "time": ""
   },
@@ -19855,7 +19855,7 @@
     "memo": "[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]主開三年級，外系生請於開學後選課階段網路選課；資工系學生優先選課(不開放在職專班網路選課)。",
     "name": "軟體工程概論 Introduction to Software Engineering",
     "num_limit": "40",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "王豐堅",
     "time": "T56-ED302[GF]"
   },
@@ -25903,7 +25903,7 @@
     "memo": "資科工所必修。1.每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "389",
+    "reg_num": "388",
     "teacher": "資科工所",
     "time": ""
   },
@@ -33907,7 +33907,7 @@
     "memo": "",
     "name": "德文(一) German (I)",
     "num_limit": "45",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "周玉蕙",
     "time": "W34-A214[GF]"
   },
@@ -36199,7 +36199,7 @@
     "memo": "[English Medium Course]",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "80",
-    "reg_num": "83",
+    "reg_num": "82",
     "teacher": "科特林",
     "time": "M78R34-SC106[GF]"
   },

@@ -2888,7 +2888,7 @@
     "name": "牙科麻醉學 Dental Anesthesiology",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "雷文天、張哲壽、吳政憲、羅文良、鄒樂起、蕭應良、袁懷璧、張文貴",
+    "teacher": "雷文天、丁乾坤、張哲壽、吳政憲、羅文良、鄒樂起、蕭應良、袁懷璧、張文貴",
     "time": "W1-YD320[YM]"
   },
   "1132_111520": {
@@ -6692,7 +6692,7 @@
     "name": "中醫台語 Chinese Medicine in Taiwanese",
     "num_limit": "9999",
     "reg_num": "30",
-    "teacher": "謝伯駿",
+    "teacher": "謝伯駿、許昇峰",
     "time": "Rn-YK533[YM],Rn-YK912[YM]"
   },
   "1132_113903": {
@@ -18453,7 +18453,7 @@
     "num_limit": "80",
     "reg_num": "6",
     "teacher": "黃瑞彬",
-    "time": "T7R34-EDB06[GF]"
+    "time": "R34-ED302[GF],T7-EDB01[GF]"
   },
   "1132_515124": {
     "code": "EEEC20027",
@@ -19723,7 +19723,7 @@
     "memo": "主開：2年級，資工系學生優先選課。本課程實際內容為『程式能力鑑定』考試，及格條件為通過任一次考試，除考試後及另訂定的助教輔導時間外，本課程無實體教學。",
     "name": "基礎程式設計 Basic Programming",
     "num_limit": "9999",
-    "reg_num": "276",
+    "reg_num": "277",
     "teacher": "吳凱強、洪瑞鴻、黃寗琪",
     "time": ""
   },
@@ -19855,7 +19855,7 @@
     "memo": "[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]主開三年級，外系生請於開學後選課階段網路選課；資工系學生優先選課(不開放在職專班網路選課)。",
     "name": "軟體工程概論 Introduction to Software Engineering",
     "num_limit": "40",
-    "reg_num": "24",
+    "reg_num": "25",
     "teacher": "王豐堅",
     "time": "T56-ED302[GF]"
   },
@@ -26179,7 +26179,7 @@
     "memo": "多工所必修，每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "120",
+    "reg_num": "119",
     "teacher": "多媒體所",
     "time": ""
   },

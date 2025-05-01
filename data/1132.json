@@ -11936,7 +11936,7 @@
     "name": "科技與社會專題討論(二) Seminar on Science, Technology and Society II",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "彭松嶽、郭文華、王文基、范玫芳、林昭光、陳嘉新、洪紹洋、顧彩璇、嚴曉珮",
+    "teacher": "彭松嶽、郭文華、王文基、范玫芳、陳嘉新、洪紹洋、顧彩璇、嚴曉珮",
     "time": "F78-YX201[YM]"
   },
   "1132_133201": {
@@ -11948,7 +11948,7 @@
     "name": "科技與社會實作方法 Methodology and Practice of Science, Technology and Society",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "王文基、郭文華、范玫芳、林昭光、陳嘉新、洪紹洋、彭松嶽、顧彩璇、嚴曉珮",
+    "teacher": "王文基、范玫芳、陳嘉新、洪紹洋、彭松嶽、顧彩璇、嚴曉珮",
     "time": "F234-YX211[YM]"
   },
   "1132_133202": {
@@ -25903,7 +25903,7 @@
     "memo": "資科工所必修。1.每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "388",
+    "reg_num": "387",
     "teacher": "資科工所",
     "time": ""
   },

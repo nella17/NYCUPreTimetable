@@ -12,7 +12,7 @@ on:
       argv:
         description: 'argv'
   schedule:
-    - cron: '11 3 * * 1-5'
+    - cron: '11 3 * * *'
 
 concurrency:
   group: '${{ github.workflow }} ${{ github.event.inputs.argv }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}'

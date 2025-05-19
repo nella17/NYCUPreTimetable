@@ -22871,6 +22871,30 @@
     "teacher": "馮品佳",
     "time": "W234-F322[GF]"
   },
+  "1141_534103": {
+    "code": "HSGF30003",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "534103",
+    "memo": "",
+    "name": "專業演講與學術會議 Academic Enhancement",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "楊雅筑",
+    "time": "T8-"
+  },
+  "1141_534104": {
+    "code": "HSGF30026",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "534104",
+    "memo": "",
+    "name": "句法學專題 Syntax seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "劉啟明",
+    "time": "R234-F203[GF]"
+  },
   "1141_534105": {
     "code": "HSGF30012",
     "credit": "3.00",
@@ -30971,6 +30995,78 @@
     "teacher": "待聘",
     "time": "Rabc-"
   },
+  "1141_556000": {
+    "code": "ENSR30015",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "556000",
+    "memo": "",
+    "name": "碩士論文研究   Thesis Research",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "產安專班",
+    "time": ""
+  },
+  "1141_556001": {
+    "code": "ENSR30004",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "556001",
+    "memo": "",
+    "name": "固體廢棄物處理 Solid Waste Treatment  ",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蔡振球",
+    "time": "Tabc-EE324[GF]"
+  },
+  "1141_556002": {
+    "code": "ENSR30006",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "556002",
+    "memo": "",
+    "name": "機率、統計與可靠度 Probability Statistics and Reliability",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳俊勳、金大仁",
+    "time": "Wabc-EE324[GF]"
+  },
+  "1141_556003": {
+    "code": "ENSR30013",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "556003",
+    "memo": "",
+    "name": "產業製程安全學  Industrial Process Safety Design",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林正鄰",
+    "time": "Rabc-EE324[GF]"
+  },
+  "1141_556004": {
+    "code": "ENSR30008",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "556004",
+    "memo": "",
+    "name": "火災力學導論 Introduction to Fire Dynamics",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "邱晨瑋、雷明遠",
+    "time": "S234-EE324[GF]"
+  },
+  "1141_556005": {
+    "code": "ENSR30010",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "556005",
+    "memo": "",
+    "name": "產業衛生特論 Special Issues on Occupational Health",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "汪禧年、游逸駿、陳志勇",
+    "time": "S567-EE324[GF]"
+  },
   "1141_556100": {
     "code": "ENAP30021",
     "credit": "3.00",
@@ -37762,6 +37858,18 @@
     "reg_num": "0",
     "teacher": "謝旻錚",
     "time": "R567-CS-PC4[GF]"
+  },
+  "1141_574006": {
+    "code": "GEIT10008",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "574006",
+    "memo": "",
+    "name": "前端網頁系統開發概論 Introduction to Frontend Web Development",
+    "num_limit": "40",
+    "reg_num": "0",
+    "teacher": "陳昌盛",
+    "time": "R567-CS105[GF]"
   },
   "1141_574007": {
     "code": "GEIT00009",

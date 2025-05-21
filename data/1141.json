@@ -200,7 +200,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "楊智傑",
+    "teacher": "楊智傑、陳政育、楊令瑀、葉添順、紀凱獻、張佩靖、楊懷哲、范佩貞、曾炳輝、嵇達德、蔡明翰、黃志賢、吳芬芬、劉文勝、黃駿豐、林秉熙、陳信彰、熊偉、鄭涵方、張鴻猷",
     "time": ""
   },
   "1141_110017": {
@@ -631,7 +631,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "梁立霖",
     "time": "W34-YT204[YM]"
   },
@@ -643,7 +643,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "王維庭",
     "time": "W34-YT204[YM]"
   },
@@ -655,7 +655,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "陳明德",
     "time": "W34-YT204[YM]"
   },
@@ -667,7 +667,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "吳莉玲",
     "time": "W34-YX501[YM]"
   },
@@ -679,7 +679,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "陳威志",
     "time": "W34-YT204[YM]"
   },
@@ -691,7 +691,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "宋思賢",
     "time": "W34-YX501[YM]"
   },
@@ -703,7 +703,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "黃文彬",
     "time": "W34-YX501[YM]"
   },
@@ -715,7 +715,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "林祐霆",
     "time": "W34-YX501[YM]"
   },
@@ -727,7 +727,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "黃金洲",
     "time": "W34-YX501[YM]"
   },
@@ -739,7 +739,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "梁仁峯",
     "time": "W34-YX501[YM]"
   },
@@ -798,7 +798,7 @@
     "id": "110066",
     "memo": "授課方式：\n混成遠距課程 (光復校區實體授課、陽明校區學生線上同步授課)\n修課建議: 具備基本物理學及微積分能力，無須成績證明",
     "name": "CMOS積體電路導論 Introduction to CMOS integrated circuits",
-    "num_limit": "9999",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "待聘",
     "time": "TnWab-ED101[GF]"
@@ -1124,7 +1124,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "楊智傑、鄭彥甫、林惠菁、丁乾坤、陳世彬、張婷婷、陳志強、張榮偉、高正彥、侯珮珊、賴峻毅、任一安",
+    "teacher": "楊智傑、葉添順、紀凱獻、陳威儀、王琬菁、蒲正筠、黃宣穎、王先逸、廖皎君、簡千栩、陳瀅州、尹彙文、季康揚",
     "time": "Ua-YT002[YM]"
   },
   "1141_110094": {
@@ -1820,7 +1820,7 @@
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "李亭亭、童恒新、黃淑鶴、林淑娟、沈青青",
+    "teacher": "李亭亭、童恒新、黃淑鶴、施玉珊",
     "time": "R78-YN418[YM]"
   },
   "1141_111813": {
@@ -1832,7 +1832,7 @@
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "李亭亭、黃淑鶴、賴鼎璁、鍾若男、林淑娟、沈青青、王卿凌、陳美君、游佩玲",
+    "teacher": "李亭亭、黃淑鶴、賴鼎璁、王卿凌、陳美君、游佩玲",
     "time": "S123456-"
   },
   "1141_111814": {
@@ -9572,7 +9572,7 @@
     "name": "專題討論(乙組) Seminar",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "李易展、莊惠燕",
+    "teacher": "李易展、莊惠燕、何奕儒、蘇佳沂",
     "time": "F56-YT206[YM]"
   },
   "1141_132502": {
@@ -13064,7 +13064,7 @@
     "name": "護理資訊實習 Practicum in Nursing Informatics",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "李亭亭、侯宜菁",
+    "teacher": "李亭亭",
     "time": "W12345678-"
   },
   "1141_150208": {
@@ -13076,7 +13076,7 @@
     "name": "健康資訊科技與管理 Health Informatics and Management",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "李亭亭、侯宜菁、周幸生",
+    "teacher": "李亭亭、侯宜菁",
     "time": "T567-YN318[YM]"
   },
   "1141_150209": {
@@ -13114,6 +13114,66 @@
     "reg_num": "0",
     "teacher": "陳盈如、賴鼎璁、楊淑華",
     "time": "R12345678-"
+  },
+  "1141_150300": {
+    "code": "LSMB30010",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "150300",
+    "memo": "實際上課時間請參考學程公告，並請留意不能衝堂。",
+    "name": "生技醫藥產業專題講座 Bio-Medical Industry Forum",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蔡有光、連正章、江惠華、鍾惠民、劉助",
+    "time": "S1U1-YR101[YM]"
+  },
+  "1141_150301": {
+    "code": "LSMB30019",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "150301",
+    "memo": "實際上課時間請參考學程公告，並請留意不能衝堂。",
+    "name": "高階主管會計 Advanced management Accounting",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳宗岡",
+    "time": "Un-YR101[YM]"
+  },
+  "1141_150302": {
+    "code": "LSMB30014",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "150302",
+    "memo": "實際上課時間請參考學程公告，並請留意不能衝堂。",
+    "name": "精準醫學高階管理 Innovation Management, strategy and technology in Precision Medicine ",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "黃奇英",
+    "time": "Sz-YR105[YM]"
+  },
+  "1141_150303": {
+    "code": "LSMB30005",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "150303",
+    "memo": "實際上課時間請參考學程公告，並請留意不能衝堂。",
+    "name": "創業創新管理 Entrepreneurial mindset and Innovation ",
+    "num_limit": "9999",
+    "reg_num": "18",
+    "teacher": "黃仕斌、劉福運",
+    "time": "Sy-YR105[YM]"
+  },
+  "1141_150304": {
+    "code": "LSMB30023",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "150304",
+    "memo": "實際上課時間請參考學程公告，並請留意不能衝堂。",
+    "name": "生醫產業研發趨勢 New Developments in Biotech Industry",
+    "num_limit": "9999",
+    "reg_num": "18",
+    "teacher": "生醫管理學位學程",
+    "time": "Uy-YR101[YM]"
   },
   "1141_161000": {
     "code": "GECE00125",
@@ -22146,8 +22206,8 @@
     "id": "520000",
     "memo": "",
     "name": "專題討論 Seminar",
-    "num_limit": "9999",
-    "reg_num": "0",
+    "num_limit": "148",
+    "reg_num": "119",
     "teacher": "張財銘",
     "time": "Tn-SA321[GF]"
   },
@@ -22159,7 +22219,7 @@
     "memo": "",
     "name": "光學 Optics",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "梁興弛",
     "time": "R234-SC151[GF]"
   },
@@ -22171,7 +22231,7 @@
     "memo": "",
     "name": "光電子學 Optoelectronics",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "翁俊仁",
     "time": "W234-SC109[GF]"
   },
@@ -22183,7 +22243,7 @@
     "memo": "",
     "name": "半導體物理與元件 Semiconductor Physics and Device",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "杜岳錡",
     "time": "M567-SC162[GF]"
   },
@@ -22195,7 +22255,7 @@
     "memo": "",
     "name": "近代物理 Modern physics",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "82",
     "teacher": "陳永富",
     "time": "M9F34-SC110[GF]"
   },
@@ -22207,7 +22267,7 @@
     "memo": "",
     "name": "半導體製程 Semiconductor Processing",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "趙天生",
     "time": "M234-SC110[GF]"
   },
@@ -22219,7 +22279,7 @@
     "memo": "",
     "name": "資料分析與機器學習 Data analysis and machine learning",
     "num_limit": "100",
-    "reg_num": "0",
+    "reg_num": "82",
     "teacher": "杜岳錡",
     "time": "W234-AB102[GF]"
   },
@@ -22231,7 +22291,7 @@
     "memo": "",
     "name": "電磁學 Electromagnetics",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "43",
     "teacher": "陳衛國",
     "time": "T567-SC204[GF]"
   },
@@ -22243,7 +22303,7 @@
     "memo": "",
     "name": "光子學實驗 Photonics Lab.",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "43",
     "teacher": "蘇冠暐",
     "time": "Wabc-SC109[GF]"
   },
@@ -25036,7 +25096,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535302",
-    "memo": "Lab:EE616 *電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程) 【AI學程專業選修】\n【智能所甲組、丙組選修】",
+    "memo": "Lab:EE616 *電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程) 【AI學程專業選修】",
     "name": "嵌入式作業系統 Embedded Operating Systems ",
     "num_limit": "10",
     "reg_num": "0",
@@ -25048,7 +25108,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535303",
-    "memo": "【AI學程專業選修】、[智能所甲、乙、丙組選修]",
+    "memo": "【AI學程專業選修】",
     "name": "影像處理 Image Processing",
     "num_limit": "80",
     "reg_num": "0",
@@ -25072,7 +25132,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535305",
-    "memo": "[English Medium Course]【AI學程專業選修】、[智能所甲組選修]",
+    "memo": "[English Medium Course]【AI學程專業選修】",
     "name": "自走式機器人   Mobile Robots",
     "num_limit": "25",
     "reg_num": "0",
@@ -25132,7 +25192,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535311",
-    "memo": "【AI學程專業選修】、[智能所甲組選修]",
+    "memo": "【AI學程專業選修】",
     "name": "機器人學 Robotics",
     "num_limit": "90",
     "reg_num": "0",
@@ -25312,7 +25372,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535356",
-    "memo": "[智能所丙組選修]",
+    "memo": "",
     "name": "射頻積體電路設計 Radio Frequency Integrated Circuits",
     "num_limit": "30",
     "reg_num": "0",
@@ -25336,7 +25396,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535358",
-    "memo": "[智能所丙組核心]",
+    "memo": "",
     "name": "數位通訊 Digital Communications",
     "num_limit": "60",
     "reg_num": "0",
@@ -25348,7 +25408,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535359",
-    "memo": "【AI學程專業選修】、[智能所甲組選修、丙組核心]",
+    "memo": "【AI學程專業選修】",
     "name": "檢測與估計理論 Detection and Estimation Theory",
     "num_limit": "45",
     "reg_num": "0",
@@ -25360,7 +25420,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535360",
-    "memo": "【AI學程專業選修】、[智能所甲、丙組選修]、「資安學程必選修課程」",
+    "memo": "【AI學程專業選修】、「資安學程必選修課程」",
     "name": "消息理論 Information Theory",
     "num_limit": "60",
     "reg_num": "0",
@@ -25372,7 +25432,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535361",
-    "memo": "[English Medium Course]【AI學程專業必修】、[智能所甲丙組核心]",
+    "memo": "[English Medium Course]【AI學程專業必修】",
     "name": "深度學習 Deep Learning",
     "num_limit": "177",
     "reg_num": "0",
@@ -25384,7 +25444,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535362",
-    "memo": "[English Medium Course]、[智能所丙組核心]",
+    "memo": "[English Medium Course]",
     "name": "無線通訊 Wireless Communications",
     "num_limit": "45",
     "reg_num": "0",
@@ -25420,7 +25480,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535365",
-    "memo": "[智能所丙組選修]",
+    "memo": "",
     "name": "編碼理論 Coding Theory",
     "num_limit": "50",
     "reg_num": "0",
@@ -25444,7 +25504,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535367",
-    "memo": "[English Medium Course]、[智能所丙組選修]",
+    "memo": "[English Medium Course]",
     "name": "適應性訊號處理 Adaptive Signal Processing",
     "num_limit": "50",
     "reg_num": "0",
@@ -25456,7 +25516,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535368",
-    "memo": "[智能所丙組選修]、「資安學程必選修課程」",
+    "memo": "「資安學程必選修課程」",
     "name": "量子訊息與計算 Quantum Information and Computation",
     "num_limit": "45",
     "reg_num": "0",
@@ -25468,7 +25528,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535369",
-    "memo": "[English Medium Course]、[智能所丙組核心]",
+    "memo": "[English Medium Course]",
     "name": "量子力學 Quantum Mechanics",
     "num_limit": "80",
     "reg_num": "0",
@@ -25480,7 +25540,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535370",
-    "memo": "[English Medium Course]、【AI學程專業選修】、[智能所甲組選修、丙組核心]",
+    "memo": "[English Medium Course]、【AI學程專業選修】",
     "name": "隨機過程 Stochastic Processes",
     "num_limit": "100",
     "reg_num": "0",
@@ -25516,7 +25576,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535373",
-    "memo": "[智能所丙組核心]",
+    "memo": "",
     "name": "高等電磁學(一) Advanced Electromagnetics(I)",
     "num_limit": "80",
     "reg_num": "0",
@@ -27849,7 +27909,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳冠宇",
-    "time": "W5F34-SA213[GF]"
+    "time": "W34-SA211[GF],F3-SA213[GF]"
   },
   "1141_536714": {
     "code": "SCMA30076",
@@ -30112,7 +30172,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539100",
-    "memo": "114學年度甲組核心、乙丙組專業選修；其他則依入學年度修課規定辦理",
+    "memo": "",
     "name": "自然語言處理 Natural Language Processing",
     "num_limit": "60",
     "reg_num": "0",
@@ -30124,7 +30184,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539101",
-    "memo": "114學年度甲乙丙組核心,其餘依入學年度修課規定辦理",
+    "memo": "",
     "name": "人工智慧 Artificial Intelligence",
     "num_limit": "60",
     "reg_num": "0",
@@ -30136,7 +30196,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539102",
-    "memo": "114學年度甲乙丙組專業選修,業師課程；其他則依入學年度修課規定辦理。",
+    "memo": "",
     "name": "生成式影像合成 Generative AI for Image Synthesis",
     "num_limit": "60",
     "reg_num": "0",
@@ -30148,7 +30208,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539103",
-    "memo": "114學年度甲乙丙組核心；業師課程；其他則依照入學年度的修課規定辦理",
+    "memo": "",
     "name": "機器學習 Machine Learning",
     "num_limit": "60",
     "reg_num": "0",
@@ -30160,7 +30220,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539104",
-    "memo": "114學年度乙組核心，甲丙組專業選修；其他則依照入學年度的修課規定辦理",
+    "memo": "",
     "name": "資安實務與規範 Information Security Practice and Regulation",
     "num_limit": "60",
     "reg_num": "0",
@@ -30172,7 +30232,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539105",
-    "memo": "[English Medium Course]114學年度乙組核心、甲丙組專業選修；其他則依照入學年度的修課規定辦理\n〔英文授課〕",
+    "memo": "[English Medium Course]",
     "name": "網路安全 Network Security",
     "num_limit": "60",
     "reg_num": "0",
@@ -30184,7 +30244,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539106",
-    "memo": "[English Medium Course]114學年度甲乙丙組專業選修；其他則依照入學年度的修課規定辦理〔英文授課〕",
+    "memo": "[English Medium Course]",
     "name": "區塊鏈與智慧合約 Blockchain and Smart Contract",
     "num_limit": "60",
     "reg_num": "0",
@@ -30477,7 +30537,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "Academia Sinica",
-    "time": "W67-"
+    "time": "W56-"
   },
   "1141_546852": {
     "code": "SCSC30003",
@@ -31542,7 +31602,7 @@
     "id": "557404",
     "memo": "本專班課程不准本系及他系一般生選修, 不可旁聽。",
     "name": "模擬學與應用 Simulation Modeling and Application",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "陳勝一",
     "time": "Fabc-MB415[GF]"
@@ -31793,7 +31853,7 @@
     "hours": "3.00",
     "id": "557805",
     "memo": "",
-    "name": " 創意思考與問題解決  Creativity Thinking and Problem Solving",
+    "name": " 創意思考與問題解決 Creative Thinking and Problem Solving",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林士平",
@@ -37869,7 +37929,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "鄭昌杰",
-    "time": "W567-CS-PC3[GF]"
+    "time": "M567-CS-PC3[GF]"
   },
   "1141_574005": {
     "code": "GEIT00002",

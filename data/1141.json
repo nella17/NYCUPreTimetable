@@ -751,7 +751,7 @@
     "memo": "限醫學系學生修課",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "150",
-    "reg_num": "0",
+    "reg_num": "124",
     "teacher": "潘美連",
     "time": "M34-YK208[YM]"
   },
@@ -763,7 +763,7 @@
     "memo": "大堂課與小組討論交替，小組課上課地點:醫學館",
     "name": "科學發表與思維 Scientific Presentation and Thinking",
     "num_limit": "144",
-    "reg_num": "0",
+    "reg_num": "124",
     "teacher": "霍德義、黃金洲、陳志彥、林志慶、林邑璁、陳世彬、鄭浩民、紀乃方、劉峻宇、賴峻毅、詹宇鈞、蘇建維、林堯彬、陳明德、許劭榮",
     "time": "W78-YX216[YM]"
   },
@@ -1820,7 +1820,7 @@
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "李亭亭、童恒新、黃淑鶴、施玉珊",
+    "teacher": "李亭亭、童恒新、黃淑鶴、賴鼎璁、施玉珊",
     "time": "R78-YN418[YM]"
   },
   "1141_111813": {
@@ -1912,11 +1912,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "111820",
-    "memo": "",
+    "memo": "限護理系大三、大四學生選課，不開放外系學生修習。",
     "name": "到院前救護暨急重症護理 Pre-Hospital Emergency and Critical Care Nursing",
     "num_limit": "20",
     "reg_num": "0",
-    "teacher": "賴鼎璁",
+    "teacher": "賴鼎璁、莊瑞玲、施玉珊",
     "time": "F34-YN414[YM]"
   },
   "1141_111900": {
@@ -4207,7 +4207,7 @@
     "memo": "醫二A,   醫二B,  醫二C, 醫技二, 藥學二, 中醫二合班上課",
     "name": "生物化學 Biochemistry",
     "num_limit": "9999",
-    "reg_num": "21",
+    "reg_num": "145",
     "teacher": "黃介嶸、陳美瑜、鄭子豪、許翺麟、王琬菁、姜為中",
     "time": "R56F34-YX216[YM]"
   },
@@ -4219,7 +4219,7 @@
     "memo": "醫二A",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "66",
     "teacher": "游麗如、陳美瑜、鄭子豪、郭津岑、許翺麟",
     "time": "M5678-YEC309[YM]"
   },
@@ -4255,7 +4255,7 @@
     "memo": "醫學二A",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "56",
     "teacher": "游麗如、陳美瑜、鄭子豪、郭津岑、許翺麟",
     "time": "F5678-YEC309[YM]"
   },
@@ -5095,7 +5095,7 @@
     "memo": "",
     "name": "普通物理學 General Physics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "124",
     "teacher": "羅俊民",
     "time": "T34-YX216[YM]"
   },
@@ -13187,6 +13187,78 @@
     "teacher": "張立鴻",
     "time": "T34-YT305[YM]"
   },
+  "1141_161001": {
+    "code": "GECE00424",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161001",
+    "memo": "1.中央研究院人文講座課程，中央研究院李豐楙院士主持授課。2.本課程在中央研究院南港院區實體授課，博雅書苑將提供接駁車分自北投陽明、新竹光復兩校區往返。3.依中研院行事曆，114-1學期(秋季班)以2026/09/11為第一周開始上課，課程維持16+2週，至2026/01/08止。",
+    "name": "道教文學 Taoist Literature",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "李豐楙",
+    "time": "R78-"
+  },
+  "1141_161002": {
+    "code": "GECE00428",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161002",
+    "memo": "1.中央研究院人文講座課程，中央研究院民族學研究所劉紹華研究員主持授課。2.本課程在中央研究院南港院區實體授課，博雅書苑將提供接駁車分自北投陽明、新竹光復兩校區往返。3.依中研院行事曆，114-1學期(秋季班)以2026/09/11為第一周開始上課，課程維持16+2週，至2026/01/08止。4.限未修過「疾病、醫療與文化(永久課號：B0661)」同學選修。",
+    "name": "疾病、醫療與文化 Illness, Medicine and Culture",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "劉紹華",
+    "time": "R78-"
+  },
+  "1141_161003": {
+    "code": "GECE00427",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161003",
+    "memo": "1.中央研究院人文講座課程，中央研究院社會學研究所林宗弘研究員主持授課。 2.依中研院行事曆，114-1學期(秋季班)以2025/09/08為第一周開始上課，課程維持16+2週，採行線上教學至2026/01/08止。",
+    "name": "民主行不行：政治經濟轉型的辯論 Democracy Matters: the Debates of Political Economic Transitions",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "林宗弘",
+    "time": "R56-"
+  },
+  "1141_161004": {
+    "code": "GECE00425",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161004",
+    "memo": "1.中央研究院人文講座課程，中央研究院法律學研究所黃丞儀研究員主持授課。 2.依中研院行事曆，114-1學期(秋季班)以2025/09/08為第一周開始上課，課程維持16+2週，採行線上教學至2026/01/08止。",
+    "name": "人命值多少錢？社會正義與成本效益分析 Valuing Life: Social Justice and Cost-Benefit Analysis",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "黃丞儀",
+    "time": "R56-"
+  },
+  "1141_161005": {
+    "code": "GECE00426",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161005",
+    "memo": "1.中央研究院人文講座課程，中央研究院中國文哲研究所何乏筆研究員主持授課。 2.依中研院行事曆，114-1學期(秋季班)以2025/09/08為第一周開始上課，課程維持16+2週，採行線上教學至2026/01/08止。",
+    "name": "美學與氣學 Aesthetics and the Learning of Breath",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "何乏筆",
+    "time": "R56-"
+  },
+  "1141_161006": {
+    "code": "GECE00443",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161006",
+    "memo": "1.中央研究院人文講座課程，中央研究院臺灣史研究所林文凱副研究員主持授課。 2.依中研院行事曆，114-1學期(秋季班)以2025/09/08為第一周開始上課，課程維持16+2週，採行線上教學至2026/01/08止。3.限未修過「近代早期以來世界史視野下的臺灣與東亞歷史變動(永久課號：GECE00342)」同學選修。",
+    "name": "近代早期以來世界史視野下的臺灣與東亞歷史變動 The Historical Changes of Taiwan and East Asia since the Early Modern Period from the Perspective of World History",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "林文凱",
+    "time": "R78-"
+  },
   "1141_161007": {
     "code": "GECE00332",
     "credit": "1.00",
@@ -13223,6 +13295,42 @@
     "teacher": "王道還",
     "time": "R56-"
   },
+  "1141_161010": {
+    "code": "GECE00433",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "161010",
+    "memo": "",
+    "name": "巨人的肩膀：心靈療癒的學習－訓練、管理與知識 The guidance of career planning by academic masters：Learning to Heal－Traiing,  Management and Paradigm",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "李尚仁",
+    "time": "R56-"
+  },
+  "1141_161011": {
+    "code": "GECE00432",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "161011",
+    "memo": "",
+    "name": "巨人的肩膀：近代火藥科技史與東西方的興衰 The guidance of career planning by academic masters：The History of Modern  Gunpowder Technology and the Rise and   Fall of the East and the West",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "張哲嘉",
+    "time": "R56-"
+  },
+  "1141_161012": {
+    "code": "GECE00431",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "161012",
+    "memo": "",
+    "name": "巨人的肩膀：知識與民主 The guidance of career planning by academic masters： Knowledge and Democracy",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "王鵬翔",
+    "time": "R56-"
+  },
   "1141_161013": {
     "code": "GECE00386",
     "credit": "1.00",
@@ -13234,6 +13342,30 @@
     "reg_num": "0",
     "teacher": "張靜貞",
     "time": "R56-"
+  },
+  "1141_161014": {
+    "code": "GECE00434",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "161014",
+    "memo": "",
+    "name": "巨人的肩膀：文明、歷史、野蠻 The guidance of career planning by academic masters：Civilization, History,  Barbarism",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "陳正國",
+    "time": "R78-"
+  },
+  "1141_161015": {
+    "code": "GECE00430",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "161015",
+    "memo": "",
+    "name": "巨人的肩膀：現象學心理學與電影 The guidance of career planning by academic masters： Phenomenological psychology and   cinema",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "余安邦",
+    "time": "R78-"
   },
   "1141_161016": {
     "code": "GECE00047",
@@ -18342,10 +18474,10 @@
     "id": "515148",
     "memo": "欲加選的學生請於課堂第一堂課統一辦理。",
     "name": "類比積體電路導論 Introduction to Analog Integrated Circuits",
-    "num_limit": "80",
+    "num_limit": "72",
     "reg_num": "0",
     "teacher": "洪浩喬",
-    "time": "M4R34-EE220[GF]"
+    "time": "M34R4-EE220[GF]"
   },
   "1141_515149": {
     "code": "EEEC20101",
@@ -19281,7 +19413,7 @@
     "num_limit": "240",
     "reg_num": "0",
     "teacher": "袁賢銘",
-    "time": "M56-EDB27[GF]"
+    "time": "M56-EC022[GF],M56-EDB27[GF]"
   },
   "1141_515607": {
     "code": "CSCS10018",
@@ -19450,6 +19582,18 @@
     "reg_num": "0",
     "teacher": "李毅郎",
     "time": "M56-ED117[GF]"
+  },
+  "1141_515621": {
+    "code": "CSCS10030",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "515621",
+    "memo": "[English Medium Course]",
+    "name": "照護科技跨域專題(I) Smart Health Care Cross-Disciplinary Projects (I)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "資工系",
+    "time": ""
   },
   "1141_516002": {
     "code": "ENEN10001",
@@ -21320,7 +21464,7 @@
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "55",
     "reg_num": "0",
-    "teacher": "資財系",
+    "teacher": "陳柏安",
     "time": "T567-MB210[GF]"
   },
   "1141_517009": {
@@ -22029,7 +22173,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "程源中",
-    "time": ""
+    "time": "R567-"
   },
   "1141_519504": {
     "code": "XDAP20001",
@@ -22312,7 +22456,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "520009",
-    "memo": "新竹校區",
+    "memo": "新竹校區；許譽馨老師",
     "name": "微積分 Calculus",
     "num_limit": "100",
     "reg_num": "0",
@@ -22324,7 +22468,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "520010",
-    "memo": "新竹校區",
+    "memo": "新竹校區；鄭信良老師",
     "name": "普通物理學 General Physics",
     "num_limit": "100",
     "reg_num": "0",
@@ -22384,7 +22528,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "520015",
-    "memo": "新竹校區",
+    "memo": "新竹校區；許譽馨老師",
     "name": "工程數學 Engineering Mathematics",
     "num_limit": "70",
     "reg_num": "0",
@@ -22456,7 +22600,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "520021",
-    "memo": "高雄校區",
+    "memo": "高雄校區；許譽馨老師",
     "name": "微積分 Calculus",
     "num_limit": "100",
     "reg_num": "0",
@@ -22468,7 +22612,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "520022",
-    "memo": "高雄校區",
+    "memo": "高雄校區；鄭信良老師",
     "name": "普通物理學 General Physics",
     "num_limit": "100",
     "reg_num": "0",
@@ -22492,7 +22636,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "520024",
-    "memo": "高雄校區",
+    "memo": "高雄校區；鄭信良老師",
     "name": "電腦程式與計算分析(一) Computer Programming and Computational Analysis (1)",
     "num_limit": "100",
     "reg_num": "0",
@@ -24199,18 +24343,6 @@
     "memo": "上課地點AD027：大禮堂B1「音樂論壇空間」",
     "name": "即時數位影音合成一 Real-time Digital Audio-visual Synthesis I",
     "num_limit": "15",
-    "reg_num": "0",
-    "teacher": "董昭民",
-    "time": "W78-AD027[GF]"
-  },
-  "1141_534810": {
-    "code": "HSIM30037",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "534810",
-    "memo": "上課地點AD027：大禮堂B1「音樂論壇空間」",
-    "name": "實驗音樂即興 Workshop on Experimental Music Improvisation",
-    "num_limit": "12",
     "reg_num": "0",
     "teacher": "董昭民",
     "time": "W34-AD027[GF]"
@@ -25953,7 +26085,7 @@
     "num_limit": "90",
     "reg_num": "0",
     "teacher": "張庭榕",
-    "time": "T56-EC016[GF]"
+    "time": "T56-EDB27[GF]"
   },
   "1141_535512": {
     "code": "CSIC30063",
@@ -26098,6 +26230,18 @@
     "reg_num": "0",
     "teacher": "黃俊穎",
     "time": "F678-EC324[GF]"
+  },
+  "1141_535526": {
+    "code": "CSIC30059",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "535526",
+    "memo": "[English Medium Course]",
+    "name": "服務導向軟體工程 Software Engineering with SOA",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "王豐堅",
+    "time": "T234-ED102[GF]"
   },
   "1141_535600": {
     "code": "CSIC30051",
@@ -26265,7 +26409,7 @@
     "num_limit": "100",
     "reg_num": "0",
     "teacher": "王才沛",
-    "time": "T34-EC015[GF]"
+    "time": "T34-ED301[GF]"
   },
   "1141_535657": {
     "code": "CSIC30108",
@@ -26338,6 +26482,18 @@
     "reg_num": "0",
     "teacher": "曾新穆",
     "time": "R34n-ED102[GF]"
+  },
+  "1141_535705": {
+    "code": "CSDS30003",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "535705",
+    "memo": "[English Medium Course]",
+    "name": "數值軟體開發 Numerical Software Development ",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳永昱",
+    "time": "Mz12-EC114[GF]"
   },
   "1141_535780": {
     "code": "CSIC30172",
@@ -26577,7 +26733,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "阿圖爾Artur Useinov",
-    "time": "W567-EE117[GF]"
+    "time": "F234-EE116[GF]"
   },
   "1141_535950": {
     "code": "STVS30005",
@@ -29020,7 +29176,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537214",
-    "memo": "台北北門校區第一教室(實體上課)教室、新竹光復校區(同步視訊上課)901教室。非本系大學部學生選修必須經授課教師同意。",
+    "memo": "台北北門校區第一教室(實體上課)教室、新竹光復校區(同步視訊上課)806教室。非本系大學部學生選修必須經授課教師同意。",
     "name": "巨量資料分析 Big Data Analytics",
     "num_limit": "9999",
     "reg_num": "0",
@@ -29068,7 +29224,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537301",
-    "memo": "北門校區開課第一教室，新竹校區901教室，同步實體視訊。",
+    "memo": "台北北門校區第一教室(實體上課)教室、新竹光復校區(同步視訊上課)806教室。非本系大學部學生選修必須經授課教師同意。",
     "name": "全球供應鏈管理 Global Supply Chain Management",
     "num_limit": "9999",
     "reg_num": "0",
@@ -31472,7 +31628,7 @@
     "name": "統計學 Statistics",
     "num_limit": "20",
     "reg_num": "0",
-    "teacher": "謝國文",
+    "teacher": "欒紀成",
     "time": "Tabc-M301[GF]"
   },
   "1141_557104": {
@@ -32495,6 +32651,18 @@
     "teacher": "巫慧萍",
     "time": "T56-A202[GF]"
   },
+  "1141_561019": {
+    "code": "GECG10062",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "561019",
+    "memo": "",
+    "name": "拉丁美洲區域研究導論 Contemporary Latin American Studies",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "W56-A205[GF]"
+  },
   "1141_561020": {
     "code": "GECG00054",
     "credit": "2.00",
@@ -32639,6 +32807,30 @@
     "teacher": "林紹胤",
     "time": "R789-A203[GF],R789-YT301[YM]"
   },
+  "1141_561032": {
+    "code": "GECG10060",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "561032",
+    "memo": "",
+    "name": "西方藝術史導論 History of Western Art",
+    "num_limit": "50",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "T56-A204[GF]"
+  },
+  "1141_561033": {
+    "code": "GECG10061",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "561033",
+    "memo": "",
+    "name": "身體與藝術 Body and Art",
+    "num_limit": "50",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "T78-A203[GF]"
+  },
   "1141_561034": {
     "code": "GECG00007",
     "credit": "2.00",
@@ -32782,6 +32974,18 @@
     "reg_num": "0",
     "teacher": "張文昌",
     "time": "F56-A205[GF]"
+  },
+  "1141_561046": {
+    "code": "GECG10060",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "561046",
+    "memo": "[English Medium Course]",
+    "name": "西方藝術史導論 History of Western Art",
+    "num_limit": "50",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "M34-A204[GF]"
   },
   "1141_561047": {
     "code": "GECG00089",
@@ -33106,6 +33310,18 @@
     "reg_num": "0",
     "teacher": "楊敏昇",
     "time": "Rab-A205[GF]"
+  },
+  "1141_561076": {
+    "code": "GECG10063",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "561076",
+    "memo": "",
+    "name": "印度文化概論 Introduction to Indian Culture",
+    "num_limit": "50",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "R56-A213[GF]"
   },
   "1141_561077": {
     "code": "GECG10010",
@@ -37624,9 +37840,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "567000",
-    "memo": "生物科技學系大一新生/本系生、中一中科學班、醫師工程師組、電機系丙組優先，上限90人",
+    "memo": "生物科技學系大一新生/本系生、中一中科學班、醫師工程師組、電機系丙組優先，非以上科系學生須等開學後加退選，上限90人。",
     "name": "普通生物學(一) General Biology(I)",
-    "num_limit": "90",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "林勇欣、邱光裕、蘇昱誠",
     "time": "Wn56-SA320[GF]"
@@ -37638,7 +37854,7 @@
     "id": "567001",
     "memo": "[English Medium Course]英文授課 生物科技學系大一新生及轉學生優先選課，上限70人",
     "name": "普通生物學(一) General Biology(I)",
-    "num_limit": "70",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "趙啟宏、鄒協成",
     "time": "Wn56-SC106[GF]"
@@ -37725,7 +37941,7 @@
     "num_limit": "72",
     "reg_num": "0",
     "teacher": "李榮貴",
-    "time": "W56-"
+    "time": "W56-A213[GF]"
   },
   "1141_569001": {
     "code": "GESP00008",
@@ -37749,7 +37965,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "李恩齊",
-    "time": "T56-"
+    "time": "T56-A303[GF]"
   },
   "1141_569003": {
     "code": "GESP00014",

@@ -2299,7 +2299,7 @@
     "memo": "上課地點：高榮臨床技能訓練中心\n本課程高雄榮總開課，開放大六於高榮進階實習同學選課，請依高榮課表上課。",
     "name": "高擬真情境模擬訓練 High-fidelity Simulation Training",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "吳輔榮、陳其葳、蔡秉中、陳威宇、郭良維、陳佳儀、朱炳騰、林子騫、張嘉修、鍾承佑、劉恩劭、吳奕廷、許博翔、呂家名、顏廷宇、李如悅、王曉萍、連崇筆、鍾承達",
     "time": "W9a-"
   },
@@ -18837,7 +18837,7 @@
     "num_limit": "110",
     "reg_num": "110",
     "teacher": "陳志榮",
-    "time": "M56R2-AB101[GF]"
+    "time": "M56R2-AB103[GF]"
   },
   "1132_515162": {
     "code": "EEEC00014",
@@ -25903,7 +25903,7 @@
     "memo": "資科工所必修。1.每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "386",
+    "reg_num": "384",
     "teacher": "資科工所",
     "time": ""
   },
@@ -26119,7 +26119,7 @@
     "memo": "網工所必修，每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "103",
+    "reg_num": "102",
     "teacher": "網工所",
     "time": ""
   },
@@ -26397,7 +26397,7 @@
     "num_limit": "9999",
     "reg_num": "109",
     "teacher": "王培勳",
-    "time": "W567-AB101[GF]"
+    "time": "W567-AB103[GF]"
   },
   "1132_535902": {
     "code": "STST30014",
@@ -37795,7 +37795,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },
@@ -38335,7 +38335,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，專二(含)以上每學期必選課程",
     "name": "個別研討-專班 Independent Study-Degree Program",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "光電專班",
     "time": "WzRzFz-"
   },

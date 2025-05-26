@@ -31612,7 +31612,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557100",
-    "memo": "限專班選修。管科專必修。",
+    "memo": "營運管理114上學期停開，改為114下學期開設。限專班選修。管科專必修。",
     "name": "營運管理 Operation Management",
     "num_limit": "0",
     "reg_num": "0",
@@ -40195,7 +40195,7 @@
     "memo": "動力組，重補修隨班附讀，上課地點：國防大學理工學院，授課教師：XXX老師",
     "name": "體育(7) Physical Education(7)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "系統工程",
     "time": "R12-"
   },
@@ -43723,7 +43723,7 @@
     "memo": "動力組兵器班，上課地點：國防大學理工學院",
     "name": "系統工程管理概論 Systems Engineering Management",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "6",
     "teacher": "鄧世剛",
     "time": "T234-"
   },
@@ -43735,7 +43735,7 @@
     "memo": "動力組造船班，上課地點：國防大學理工學院",
     "name": "船舶結構學 Ship Structural",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "王樂民",
     "time": "T234-"
   },

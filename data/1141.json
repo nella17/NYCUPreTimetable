@@ -165,7 +165,7 @@
     "num_limit": "9999",
     "reg_num": "135",
     "teacher": "林明慧、陳育群、李威儒、黃信彰、劉瑞瑤、鄭惇方、李俊秀、許碧珊、洪德仁、張曉婷",
-    "time": "M56-"
+    "time": "M56-YB100[YM]"
   },
   "1141_110014": {
     "code": "MDMD10089",
@@ -4468,7 +4468,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "113500",
-    "memo": "公共衛生領域，限醫學系、中醫系二年級(含)以上，前8週上課，醫學系工程師組請線上上課。上課時間為週二1-2節，為必修，請同學第二節除了環境衛生課程之外，勿排其他課。本課程為應考公共衛生師指定修習科目。",
+    "memo": "公共衛生領域，限醫學系、中醫系三年級(含)以上，前8週上課，醫學系醫師工程師組請線上上課(連結開學前給)。上課時間為週二1-2節，為必修，請同學第二節除了環境衛生課程之外，勿排其他課。本課程為應考公共衛生師指定修習科目。",
     "name": "公共衛生概論 Introduction to Public Health",
     "num_limit": "9999",
     "reg_num": "144",
@@ -4480,7 +4480,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "113501",
-    "memo": "本課程為選修，上課時間實際為週二12節後8週(10/28-12/16)，醫學系工程師組請線上上課。本課程為應考公共衛生師指定修習科目。",
+    "memo": "本課程為選修，上課時間實際為週二12節後8週(10/28-12/16)，醫學系醫師工程師組請線上上課(連結開學前給)。本課程為應考公共衛生師指定修習科目。",
     "name": "環境衛生概論 Introduction to Environmental Health",
     "num_limit": "9999",
     "reg_num": "0",
@@ -5660,7 +5660,7 @@
     "name": "流行病學實證討論(碩) Seminars in Epidemiology (Master)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳信任、楊振昌、林明薇、黃心苑、周穎政、陳娟瑜、莊宜芳、潘文驥、東雅惠、劉家軒、劉嘉仁",
+    "teacher": "陳信任、楊振昌、林明薇、黃心苑、周穎政、林逸芬、陳娟瑜、莊宜芳、潘文驥、東雅惠、劉家軒、劉嘉仁",
     "time": "Tn5-"
   },
   "1141_130208": {
@@ -11396,7 +11396,7 @@
     "name": "流行病學實證討論(博) Seminars in Epidemiology (PhD)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳信任、楊振昌、林明薇、黃心苑、周穎政、陳娟瑜、莊宜芳、潘文驥、東雅惠、劉家軒",
+    "teacher": "陳信任、楊振昌、林明薇、黃心苑、周穎政、林逸芬、陳娟瑜、莊宜芳、潘文驥、東雅惠、劉家軒",
     "time": "Tn5-"
   },
   "1141_140204": {
@@ -12816,12 +12816,12 @@
     "time": "S23-YN514[YM]"
   },
   "1141_150102": {
-    "code": "MDHH30088",
+    "code": "MDSP30003",
     "credit": "2.00",
     "hours": "2.00",
     "id": "150102",
     "memo": "非本所在職專班請勿選，前11周上課，上課時間為18:20-21:20。",
-    "name": "醫療照護產業創新商業模式 Entrepreneurship in Health care Industry and Business Model Case Study",
+    "name": "醫療產業創新及商業模式 Entrepreneurship in Health care Industry and Business Model Case Study",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "李佩淵、陳銘樹",
@@ -13485,7 +13485,7 @@
     "num_limit": "15",
     "reg_num": "0",
     "teacher": "彭立忠",
-    "time": "R34-YX201[YM]"
+    "time": "R34-EE129[GF],R34-YX201[YM]"
   },
   "1141_161030": {
     "code": "GECE00189",
@@ -13497,7 +13497,7 @@
     "num_limit": "15",
     "reg_num": "0",
     "teacher": "徐詩偉",
-    "time": "F34-YX201[YM]"
+    "time": "F34-EE129[GF],F34-YX201[YM]"
   },
   "1141_161031": {
     "code": "GECE00189",
@@ -13509,7 +13509,7 @@
     "num_limit": "15",
     "reg_num": "0",
     "teacher": "徐詩偉",
-    "time": "F56-YT301[YM]"
+    "time": "F56-EE129[GF],F56-YT301[YM]"
   },
   "1141_161032": {
     "code": "GECE00162",
@@ -13593,7 +13593,7 @@
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "王惠民",
-    "time": ""
+    "time": "W9a-AB102[GF]"
   },
   "1141_161039": {
     "code": "GECE00075",
@@ -14757,7 +14757,7 @@
     "num_limit": "50",
     "reg_num": "50",
     "teacher": "潘美玲",
-    "time": "T567-HK105[LJ]"
+    "time": "T567-HKB09[LJ]"
   },
   "1141_310008": {
     "code": "HKHS20014",
@@ -14935,7 +14935,7 @@
     "memo": "",
     "name": "整合媒體專題實作 Digital Media Practice",
     "num_limit": "42",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "陳維平",
     "time": "T567-HK104[LJ]"
   },
@@ -14947,7 +14947,7 @@
     "memo": "",
     "name": "基礎網頁設計 Web design",
     "num_limit": "45",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "廖文宏",
     "time": "T567-CS-PC3[GF]"
   },
@@ -14956,7 +14956,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "310104",
-    "memo": "",
+    "memo": "限修過畢業專題(上)。",
     "name": "畢業專題(下) Final Year Projet (II)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -15031,7 +15031,7 @@
     "memo": "",
     "name": "傳播研究方法 Communication Research Methods",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "37",
     "teacher": "李美華",
     "time": "M567-HKB08[LJ]"
   },
@@ -15054,7 +15054,7 @@
     "id": "310113",
     "memo": "",
     "name": "傳播環境與問題分析 Communicative Ecology Analysis",
-    "num_limit": "30",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "戴瑜慧",
     "time": "F234-HK104[LJ]"
@@ -15106,6 +15106,18 @@
     "reg_num": "0",
     "teacher": "魏玓",
     "time": "F567-HK104[LJ]"
+  },
+  "1141_310118": {
+    "code": "HKCT10016",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "310118",
+    "memo": "",
+    "name": "影音新聞實作 Video News Production",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "杜聖聰",
+    "time": "R234-HK114[LJ]"
   },
   "1141_330000": {
     "code": "HKEC30003",
@@ -16196,7 +16208,7 @@
     "name": "專題演講B-生資組 Departmental Seminar B",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "朱智瑋、吳妍華",
+    "teacher": "李宗夷、吳妍華",
     "time": "T56-"
   },
   "1141_430101": {
@@ -16912,11 +16924,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "514020",
-    "memo": "本課程人數上限為30人，依初選階段逐階調整，跨域學程學生優先。",
+    "memo": "本課程人數上限為20人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "口語傳播與自我展演 Speech Communication and Self-Performance",
-    "num_limit": "15",
+    "num_limit": "10",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "唐允中",
     "time": "M56-HC101[GF]"
   },
   "1141_514021": {
@@ -18225,7 +18237,7 @@
     "num_limit": "100",
     "reg_num": "0",
     "teacher": "陳宏明",
-    "time": "T34n-ED116[GF]"
+    "time": "M2W56-ED116[GF]"
   },
   "1141_515126": {
     "code": "EEEC20050",
@@ -18297,7 +18309,7 @@
     "num_limit": "100",
     "reg_num": "0",
     "teacher": "待聘",
-    "time": "M2W56-ED116[GF]"
+    "time": "R234-EDB26[GF]"
   },
   "1141_515132": {
     "code": "EEEC20060",
@@ -18659,18 +18671,6 @@
     "teacher": "余俊宏",
     "time": "T234-ED713[GF]"
   },
-  "1141_515162": {
-    "code": "EEEC10028",
-    "credit": "3.00",
-    "hours": "4.00",
-    "id": "515162",
-    "memo": "",
-    "name": "電子學(二) Electronics (II)",
-    "num_limit": "60",
-    "reg_num": "0",
-    "teacher": "胡樹",
-    "time": ""
-  },
   "1141_515163": {
     "code": "EEEC20092",
     "credit": "3.00",
@@ -18690,8 +18690,8 @@
     "id": "515200",
     "memo": "1.專題研究方向：【固態電子組】需與「IC製程」、「量子物理」、「元件開發」、「晶片設計」研究領域直接相關；【奈米科學組】需與「奈米電子」、「奈米光電」、「奈米材料」、「奈米生科」研究領域直接相關。2.請務必先修過「學士專題研究(一)」再修習「學士專題研究(二)」依序修課。3.「除選課外，須於9/10(三)前繳交指導專題研究同意書單至系辦才算有學分。」",
     "name": "學士專題研究(一) Special Project (b.s.)Ⅰ",
-    "num_limit": "65",
-    "reg_num": "0",
+    "num_limit": "9999",
+    "reg_num": "62",
     "teacher": "半導體系",
     "time": ""
   },
@@ -18702,7 +18702,7 @@
     "id": "515201",
     "memo": "1.專題研究方向：【固態電子組】需與「IC製程」、「量子物理」、「元件開發」、「晶片設計」研究領域直接相關；【奈米科學組】需與「奈米電子」、「奈米光電」、「奈米材料」、「奈米生科」研究領域直接相關。2.請務必先修過「學士專題研究(三)」再修習「學士專題研究(四)」依序修課。3.「除選課外，須於9/10(三)前繳交指導專題研究同意書單至系辦才算有學分。」",
     "name": "學士專題研究(三) Special Project (b.s.)Ⅲ",
-    "num_limit": "65",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "半導體系",
     "time": ""
@@ -18712,10 +18712,10 @@
     "credit": "3.00",
     "hours": "4.00",
     "id": "515202",
-    "memo": "2年級。[固態組奈米組合班]",
+    "memo": "2年級。[固態組奈米組合班] *若有113暑成績，請至系辦退選。",
     "name": "電子學(一) ElectronicsⅠ",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "61",
     "teacher": "李義明",
     "time": "M78R34-ED117[GF]"
   },
@@ -18727,7 +18727,7 @@
     "memo": "2年級。[固態組奈米組合班] [English Medium Course]",
     "name": "電磁學(一) Electromagnetism (Ⅰ)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "61",
     "teacher": "許恒通",
     "time": "M56W34-EE105[GF]"
   },
@@ -18739,7 +18739,7 @@
     "memo": "2年級。[奈米科學組必修]",
     "name": "有機化學 Organic Chemistry",
     "num_limit": "27",
-    "reg_num": "0",
+    "reg_num": "20",
     "teacher": "許銘華",
     "time": "F567-EE112[GF]"
   },
@@ -18751,7 +18751,7 @@
     "memo": "3年級。[奈米科學組必修]",
     "name": "生物化學(二) Biochemistry  Ⅱ",
     "num_limit": "27",
-    "reg_num": "0",
+    "reg_num": "23",
     "teacher": "蘭宜錚",
     "time": "F56-EE548[GF]"
   },
@@ -18763,7 +18763,7 @@
     "memo": "3年級。[固態電子組必修] [English Medium Course]",
     "name": "半導體元件物理 Semiconductor Device Physics",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "李宗恩",
     "time": "T234-EE208[GF]"
   },
@@ -18775,7 +18775,7 @@
     "memo": "操作課(週四abc)請至計中PC4教室。正課(週二789)請至工程五館102室。",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "23",
     "teacher": "林柏宏",
     "time": "Rabc-,T789-EE102[GF]"
   },
@@ -18808,10 +18808,10 @@
     "credit": "3.00",
     "hours": "4.00",
     "id": "515210",
-    "memo": "1年級。[固態電子組必修]",
+    "memo": "2年級。[固態電子組必修] *若有113暑成績，請至系辦退選。",
     "name": "電路學 Circuit Theory",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "曹逸凡",
     "time": "T34W78-EE210[GF]"
   },
@@ -18847,7 +18847,7 @@
     "memo": "1年級。[固態組奈米組合班]。",
     "name": "微分方程 Differential Equation",
     "num_limit": "65",
-    "reg_num": "0",
+    "reg_num": "61",
     "teacher": "王仲益",
     "time": "M34W2-EE130[GF]"
   },
@@ -18883,7 +18883,7 @@
     "memo": "3年級。[固態電子組必修]",
     "name": "量子力學導論 Int. to Quantum Mechanics",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "梁興弛",
     "time": "W678-SC110[GF]"
   },
@@ -18895,7 +18895,7 @@
     "memo": "電子實驗(一)(二) 以半導體學系大二學生優先。[固態組奈米組合班]。課程時間為周四晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab.Ⅰ",
     "num_limit": "65",
-    "reg_num": "0",
+    "reg_num": "61",
     "teacher": "林容瑋",
     "time": "Rabcd-"
   },
@@ -18907,7 +18907,7 @@
     "memo": "2年級。[奈米組必修]",
     "name": "材料科學與工程導論 Introduction to Materials Science and Engineering",
     "num_limit": "27",
-    "reg_num": "0",
+    "reg_num": "20",
     "teacher": "半導體系",
     "time": "F234-EE548[GF]"
   },
@@ -18919,9 +18919,33 @@
     "memo": "3年級。[奈米組必修]",
     "name": "奈米科技導論 Introduction to Nano Science",
     "num_limit": "27",
-    "reg_num": "0",
+    "reg_num": "23",
     "teacher": "半導體系",
     "time": "R234-EE548[GF]"
+  },
+  "1141_515220": {
+    "code": "EEDM20017",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "515220",
+    "memo": "",
+    "name": "記憶體積體電路導論 Introduction to Memory Integrated Circuits",
+    "num_limit": "60",
+    "reg_num": "0",
+    "teacher": "半導體系",
+    "time": "M567-EF205[GF]"
+  },
+  "1141_515221": {
+    "code": "EEDM20018",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "515221",
+    "memo": "",
+    "name": "先進積體電路封裝技術導論 Introduction of IC package technology",
+    "num_limit": "40",
+    "reg_num": "0",
+    "teacher": "半導體系",
+    "time": "W234-EF201[GF]"
   },
   "1141_515400": {
     "code": "EEDP10010",
@@ -19293,7 +19317,7 @@
     "num_limit": "120",
     "reg_num": "0",
     "teacher": "彭文孝",
-    "time": "F7-EC122[GF],W34-EE106[GF]"
+    "time": "W34F7-EC115[GF]"
   },
   "1141_515512": {
     "code": "CSCS10007",
@@ -19317,7 +19341,7 @@
     "num_limit": "100",
     "reg_num": "0",
     "teacher": "陳碩漢",
-    "time": "W34-EC115[GF]"
+    "time": "W34-ED302[GF]"
   },
   "1141_515514": {
     "code": "CSCS10001",
@@ -22147,7 +22171,7 @@
     "memo": "大三必修；資財系優先選課；外系學生請於初選第2階段上網選課。",
     "name": "期貨與選擇權 Futures and Options",
     "num_limit": "80",
-    "reg_num": "54",
+    "reg_num": "53",
     "teacher": "李漢星",
     "time": "R567-M101[GF]"
   },
@@ -23464,7 +23488,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "534401",
-    "memo": "不開放紙本加簽, 校際選修除外。",
+    "memo": "應藝所優先。不開放紙本加簽, 校際選修除外。",
     "name": "美學運算 Computational Aesthetics",
     "num_limit": "15",
     "reg_num": "0",
@@ -23500,7 +23524,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "534404",
-    "memo": "不開放紙本加簽, 校際選修除外。",
+    "memo": "應藝所優先。不開放紙本加簽, 校際選修除外。",
     "name": "當代設計研究與創作 Design Research through Practice",
     "num_limit": "15",
     "reg_num": "0",
@@ -23524,7 +23548,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "534406",
-    "memo": "不開放紙本加簽, 校際選修除外。",
+    "memo": "應藝所優先。不開放紙本加簽, 校際選修除外。",
     "name": "視覺心理學 Visual Perception",
     "num_limit": "9999",
     "reg_num": "0",
@@ -23536,7 +23560,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "534407",
-    "memo": "不開放紙本加簽, 校際選修除外。",
+    "memo": "應藝所優先。不開放紙本加簽, 校際選修除外。",
     "name": "基礎設計運算 Basic Design Computation",
     "num_limit": "15",
     "reg_num": "0",
@@ -23548,7 +23572,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "534408",
-    "memo": "不開放紙本加簽, 校際選修除外。",
+    "memo": "應藝所優先。不開放紙本加簽, 校際選修除外。",
     "name": "醫療設計實驗場 Medical Design Lab",
     "num_limit": "15",
     "reg_num": "0",
@@ -23584,7 +23608,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "534411",
-    "memo": "不開放紙本加簽, 校際選修除外。師生自行約定時間/地點。",
+    "memo": "應藝所優先。不開放紙本加簽, 校際選修除外。師生自行約定時間/地點。",
     "name": "設計個別研究 Independent Study on Design",
     "num_limit": "8",
     "reg_num": "0",
@@ -23596,7 +23620,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "534412",
-    "memo": "不開放紙本加簽, 校際選修除外。",
+    "memo": "應藝所優先。不開放紙本加簽, 校際選修除外。",
     "name": "科技表演引擎 Digital Performing Engine",
     "num_limit": "15",
     "reg_num": "0",
@@ -23608,9 +23632,9 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "534413",
-    "memo": "因課程設計需求，實際上課時間自第1週起，連續上課6週，每週3小時。實際上課時間及地點，請見課綱說明。不開放紙本加簽, 校際選修除外。",
+    "memo": "因課程設計需求，實際上課時間自第1週起，連續上課6週，每週3小時。實際上課時間及地點，請見課綱說明。應藝所優先。不開放紙本加簽, 校際選修除外。",
     "name": "數據織碼工作坊：織溫計劃 Data Weaving Workshop:Tempestry project",
-    "num_limit": "9999",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "林欣怡",
     "time": "F567-HA314[GF]"
@@ -23632,7 +23656,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "534415",
-    "memo": "不開放紙本加簽, 校際選修除外。",
+    "memo": "應藝所優先。不開放紙本加簽, 校際選修除外。",
     "name": "前衛設計與評論 Avant-garde Design and Review",
     "num_limit": "9999",
     "reg_num": "0",
@@ -23656,7 +23680,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "534417",
-    "memo": "不開放網路選課；限應藝所，修課同學需實際參與2025年師生展。實際上課時間及地點，請見課綱說明。不開放紙本加簽, 校際選修除外。",
+    "memo": "不開放網路選課：限應藝所，修課同學需實際參與2025年師生展。實際上課時間及地點，請見課綱說明。不開放紙本加簽, 校際選修除外。",
     "name": "策展工作坊 Curatorial Workshop",
     "num_limit": "9999",
     "reg_num": "0",
@@ -23668,7 +23692,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "534418",
-    "memo": "實際上課時間，請見課綱說明。不開放紙本加簽, 校際選修除外。",
+    "memo": "實際上課時間，請見課綱說明。應藝所優先。不開放紙本加簽, 校際選修除外。",
     "name": "藝術與設計專題研討 Seminar on Arts and Design",
     "num_limit": "9999",
     "reg_num": "0",
@@ -23793,18 +23817,6 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林淑芬",
-    "time": ""
-  },
-  "1141_534511": {
-    "code": "HSSC30002",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "534511",
-    "memo": "",
-    "name": "個別研究 Independent Study",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "蔡晏霖",
     "time": ""
   },
   "1141_534512": {
@@ -25807,7 +25819,7 @@
     "memo": "1.光電系碩、博必選 2.由指導教授約定討論時間及地點",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "104",
     "teacher": "光電系",
     "time": ""
   },
@@ -26106,7 +26118,7 @@
     "id": "535506",
     "memo": "[English Medium Course]請依各所入學年度之修業要點選課；博士班資格考考核科目；資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "演算法 Algorithms",
-    "num_limit": "9999",
+    "num_limit": "117",
     "reg_num": "0",
     "teacher": "荊宇泰",
     "time": "F34n-EDB27[GF]"
@@ -26202,7 +26214,7 @@
     "id": "535514",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
     "name": "平行程式設計 Parallel Programming",
-    "num_limit": "130",
+    "num_limit": "80",
     "reg_num": "0",
     "teacher": "游逸平",
     "time": "R234-EDB27[GF]"
@@ -26265,7 +26277,7 @@
     "num_limit": "30",
     "reg_num": "0",
     "teacher": "黃世昆",
-    "time": "R56-"
+    "time": "R56-CS-PC3[GF]"
   },
   "1141_535522": {
     "code": "CSIC30191",
@@ -26584,12 +26596,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535704",
-    "memo": "資訊學院優先(不開放在職專班網路選課)。1.數據科學與工程研究所必修(畢業前修過，建議於碩二時修習)。2.宜先修過「資料探勘」與「機器學習」課程。3.本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級。",
+    "memo": "資訊學院優先(不開放在職專班網路選課)。1.數據科學與工程研究所必修(畢業前修過，建議於碩二時修習)。2.宜先修過「資料探勘」與「機器學習」課程。3.本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "數據科學專題 Data Science Project",
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "曾新穆",
-    "time": "R34n-ED102[GF]"
+    "time": "R34-ED102[GF]"
   },
   "1141_535705": {
     "code": "CSDS30003",
@@ -28955,18 +28967,6 @@
     "teacher": "高國揚",
     "time": "R34n-M301[GF]"
   },
-  "1141_537014": {
-    "code": "MGMS30037",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "537014",
-    "memo": "1.建議有初步資料庫管理操作概念或修過資料庫管理概論等基礎課程者較佳 2.並對數據分析有興趣者 3.限管科系選修。",
-    "name": "智慧生產與大數據分析  Intelligent Manufacturing and Big Data Analytics",
-    "num_limit": "30",
-    "reg_num": "0",
-    "teacher": "何佩勳",
-    "time": "R678-M301[GF]"
-  },
   "1141_537015": {
     "code": "MGMS30086",
     "credit": "3.00",
@@ -31151,18 +31151,6 @@
     "teacher": "邱一",
     "time": "Wabc-EE208[GF]"
   },
-  "1141_555003": {
-    "code": "EEDE30142",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "555003",
-    "memo": "電控組；限陽明交大在職專班學生選修",
-    "name": "電腦控制系統 Computer Control System",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "廖德誠",
-    "time": "Rabc-EE208[GF]"
-  },
   "1141_555004": {
     "code": "EEDE30059",
     "credit": "3.00",
@@ -31200,16 +31188,16 @@
     "time": "Tabc-EC115[GF]"
   },
   "1141_555007": {
-    "code": "EEDE30130",
+    "code": "EEDE30005",
     "credit": "3.00",
     "hours": "3.00",
     "id": "555007",
-    "memo": "資訊組；限陽明交大在職專班學生選修",
-    "name": "軟體定義網路及網路功能虛擬化 Software Defined Networks and Network Function Virtualization",
+    "memo": "資訊組：限陽明交大在職專班學生選修",
+    "name": "人工智慧 Artificial Intelligence",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "曾建超",
-    "time": "Wabc-EC115[GF]"
+    "teacher": "王才沛",
+    "time": "Rabc-EC114[GF]"
   },
   "1141_555008": {
     "code": "EEDE30108",
@@ -31258,6 +31246,18 @@
     "reg_num": "0",
     "teacher": "楊武",
     "time": "Wabc-EC122[GF]"
+  },
+  "1141_555012": {
+    "code": "EEDE30028",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "555012",
+    "memo": "電控組：限陽明交大在職專班學生選修",
+    "name": "固態能量轉換 Solid-State Power Conversion",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳鴻祺",
+    "time": "Rabc-EE208[GF]"
   },
   "1141_555600": {
     "code": "CSCM30029",
@@ -31316,7 +31316,7 @@
     "name": "金流應用與管理 Application and management for Cash flow",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "鄭桂蕙、李相臣、張文源",
     "time": "Tabc-"
   },
   "1141_555901": {
@@ -31340,7 +31340,7 @@
     "name": "新興科技應用與案例專題研究 Emerging Technology Applications and Hi-Tech Crime Case Studies",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "莊明雄",
     "time": "Rabc-"
   },
   "1141_556000": {
@@ -32658,10 +32658,10 @@
     "id": "561008",
     "memo": "「邏輯與思維」 選課系統預設核心人文,欲採計核心自然請至通識中心書面申請。",
     "name": "邏輯與思維 Logic and Thinking",
-    "num_limit": "20",
+    "num_limit": "23",
     "reg_num": "0",
     "teacher": "王冠生",
-    "time": "F78-A204[GF]"
+    "time": "F78-AB102[GF]"
   },
   "1141_561009": {
     "code": "GECG00043",
@@ -32685,7 +32685,7 @@
     "num_limit": "25",
     "reg_num": "0",
     "teacher": "王敬翔",
-    "time": "F34-A204[GF]"
+    "time": "F34-A302[GF]"
   },
   "1141_561011": {
     "code": "GECG00025",
@@ -32697,7 +32697,7 @@
     "num_limit": "25",
     "reg_num": "0",
     "teacher": "王敬翔",
-    "time": "F56-A204[GF]"
+    "time": "F56-A302[GF]"
   },
   "1141_561012": {
     "code": "GECG10013",
@@ -33345,7 +33345,7 @@
     "num_limit": "40",
     "reg_num": "0",
     "teacher": "程千芳",
-    "time": "R34-A205[GF]"
+    "time": "R34-AB102[GF]"
   },
   "1141_561067": {
     "code": "GECG10030",
@@ -33501,19 +33501,7 @@
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "蔡華臻",
-    "time": "F34-HB210[GF]"
-  },
-  "1141_561081": {
-    "code": "GECG00012",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "561081",
-    "memo": "",
-    "name": "性別與電影 Gender, Sexuality and Cinema",
-    "num_limit": "0",
-    "reg_num": "0",
-    "teacher": "蔡華臻",
-    "time": "F56-HB210[GF]"
+    "time": "W9a-HB210[GF]"
   },
   "1141_561082": {
     "code": "GECG10023",
@@ -33562,6 +33550,18 @@
     "reg_num": "0",
     "teacher": "溫宏斌",
     "time": "M234-ED117[GF]"
+  },
+  "1141_561086": {
+    "code": "GECG10027",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "561086",
+    "memo": "",
+    "name": "圖靈獎歷史 Viewing Computer History Through the Early Turing Award Winners",
+    "num_limit": "23",
+    "reg_num": "0",
+    "teacher": "林一平",
+    "time": "W567-A202[GF]"
   },
   "1141_561500": {
     "code": "GEGE00010",
@@ -38121,7 +38121,7 @@
     "num_limit": "63",
     "reg_num": "0",
     "teacher": "高正忠",
-    "time": "T34-A303[GF]"
+    "time": "T34-A302[GF]"
   },
   "1141_569004": {
     "code": "GESP00015",
@@ -38145,7 +38145,7 @@
     "num_limit": "30",
     "reg_num": "0",
     "teacher": "高正忠",
-    "time": "W34-"
+    "time": "W34-A302[GF]"
   },
   "1141_569006": {
     "code": "GESP00016",
@@ -38169,7 +38169,7 @@
     "num_limit": "30",
     "reg_num": "0",
     "teacher": "高正忠、黃文輝",
-    "time": "R56-"
+    "time": "R56-EE129[GF]"
   },
   "1141_569008": {
     "code": "GESP00018",
@@ -38184,16 +38184,16 @@
     "time": "R9ab-A304[GF]"
   },
   "1141_569009": {
-    "code": "GESP00013",
+    "code": "GESP00019",
     "credit": "2.00",
     "hours": "2.00",
     "id": "569009",
     "memo": "",
-    "name": "設計思考導引方法與AI協作實驗課 Practice of Design Thinking Facilitating Methods and AI Co-Creation",
-    "num_limit": "20",
+    "name": "設計思考導引方法與AI創新實驗課－情境篇 Practice of Design Thinking Facilitating Methods and AI Co-Creation: Scenario-Driven Practices",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "余德彰",
-    "time": "M56-"
+    "time": "M5678-EA101[GF]"
   },
   "1141_571000": {
     "code": "GESL00010",

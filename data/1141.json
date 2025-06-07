@@ -187,7 +187,7 @@
     "memo": "限醫三牙二, 上課時間及地點請參照PBL整合課程行事曆",
     "name": "組織學 Histology",
     "num_limit": "9999",
-    "reg_num": "135",
+    "reg_num": "176",
     "teacher": "傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、郭曉縈、蔣偉程、林坤陽",
     "time": "M1234T12345678W1234R12345678F1234-"
   },
@@ -871,7 +871,7 @@
     "memo": "電機工程學系(丙組)、資訊工程學系「智慧健康照護跨域學程」學生選修。",
     "name": "基礎醫學概論 Introduction to Basic Medicine",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "阮琪昌、吳鈺琳、黃娟娟、林惠菁、楊智宇、嚴錦城、張原翊、簡千栩、吳莉玲",
     "time": "M56-ED305[GF]"
   },
@@ -1220,7 +1220,7 @@
     "name": "導師時間(一) Class Meeting(I)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "林榮辰",
+    "teacher": "林怡彣",
     "time": "W34-YD105[YM]"
   },
   "1141_111504": {
@@ -1232,7 +1232,7 @@
     "name": "導師時間(一) Class Meeting(I)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "張國威",
+    "teacher": "黃何雄",
     "time": "W34-YD105[YM]"
   },
   "1141_111505": {
@@ -1244,7 +1244,7 @@
     "name": "導師時間(一) Class Meeting(I)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "林怡君",
+    "teacher": "季麟揚",
     "time": "W34-YD105[YM]"
   },
   "1141_111506": {
@@ -1256,19 +1256,7 @@
     "name": "導師時間(一) Class Meeting(I)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "耿藝文",
-    "time": "W34-YD105[YM]"
-  },
-  "1141_111507": {
-    "code": "DEDE10078",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "111507",
-    "memo": "",
-    "name": "導師時間(一) Class Meeting(I)",
-    "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "王鼎涵",
+    "teacher": "涂曦丰",
     "time": "W34-YD105[YM]"
   },
   "1141_111508": {
@@ -1280,7 +1268,7 @@
     "name": "牙醫學概論 Introduction of Dentistry",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "許明倫、季麟揚、林元敏、王鼎涵、林宥成、賴玉玲、吳政憲、劉正芬、陳彥廷、蘇明圳、何怡青、吳姿瑩、張志麟、黃建文、張采宇、陳鉉",
+    "teacher": "牙醫系、季麟揚、林元敏、王鼎涵、林宥成、賴玉玲、吳政憲、劉正芬、陳彥廷、蘇明圳、何怡青、吳姿瑩、張志麟、黃建文、張采宇、陳鉉",
     "time": "R56-CS100[GF]"
   },
   "1141_111509": {
@@ -1291,7 +1279,7 @@
     "memo": "",
     "name": "牙體型態學 Dental morphology ",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "耿藝文、林嘉澍、吳靜宜、施文宇、何怡青",
     "time": "F56-YD214[YM]"
   },
@@ -1303,8 +1291,8 @@
     "memo": "",
     "name": "導師時間(三) Class Meeting(III)",
     "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "黎萬君",
+    "reg_num": "41",
+    "teacher": "林榮辰",
     "time": "W56-YD214[YM]"
   },
   "1141_111511": {
@@ -1316,7 +1304,7 @@
     "name": "導師時間(三) Class Meeting(III)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "張景智",
+    "teacher": "張國威",
     "time": "W56-YD214[YM]"
   },
   "1141_111512": {
@@ -1328,7 +1316,7 @@
     "name": "導師時間(三) Class Meeting(III)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "陳翾",
+    "teacher": "林怡君",
     "time": "W56-YD214[YM]"
   },
   "1141_111513": {
@@ -1340,7 +1328,7 @@
     "name": "導師時間(三) Class Meeting(III)",
     "num_limit": "10",
     "reg_num": "0",
-    "teacher": "洪善鈴",
+    "teacher": "耿藝文",
     "time": "W56-YD214[YM]"
   },
   "1141_111514": {
@@ -1352,7 +1340,7 @@
     "name": "導師時間(三) Class Meeting(III)",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "林嘉澍",
+    "teacher": "王鼎涵",
     "time": "W56-YD214[YM]"
   },
   "1141_111515": {
@@ -1363,7 +1351,7 @@
     "memo": "",
     "name": "傳染病學 Infectious Disease",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "林邑璁、詹宇鈞、黃祥芬、陳昕白、江東鴻、陳夙容、黃鈴茹、巫炳峰、張雅媛、黃盈綺、阮志翰、莊茜",
     "time": "W3-YD214[YM]"
   },
@@ -1375,7 +1363,7 @@
     "memo": "",
     "name": "口腔胚胎及組織學 Oral Embryology & Histology",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "張婷菡、林怡彣、吳靜宜、王鼎涵、夏堪臺、張蓮鈺",
     "time": "T1234F1234-YD320[YM]"
   },
@@ -1411,7 +1399,7 @@
     "memo": "",
     "name": "牙科器材學 Dental Materials",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "黃何雄、林元敏、耿藝文",
     "time": "W78-YD105[YM]"
   },
@@ -1435,7 +1423,7 @@
     "memo": "",
     "name": "生物統計學 Biostatistics",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "季麟揚、林伯彥",
     "time": "M12-YD214[YM]"
   },
@@ -1447,8 +1435,8 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "40",
-    "reg_num": "0",
-    "teacher": "吳靜宜",
+    "reg_num": "42",
+    "teacher": "洪善鈴",
     "time": "S56-YD320[YM]"
   },
   "1141_111523": {
@@ -1459,7 +1447,7 @@
     "memo": "",
     "name": "內科學概論 Introduction to Internal Medicine",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "黃怡翔、黃金洲、陳涵栩、陳志強、胡啟民、王嚴鋒、陳瑋昇、賴建志、王維庭、蔡佳叡、陳俊宇、何莉櫻、阮志翰、蔡淳光、何翊芯、吳政億、林柏佐、張綜顯、馮嘉毅、許劭榮、林亮羽",
     "time": "T34-YD214[YM]"
   },
@@ -1471,7 +1459,7 @@
     "memo": "",
     "name": "外科學概論 Introduction to Surgery",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "張世慶、許瀚水、洪榮志、羅文良、陳維熊、葉發來、王鑑瀛、石育仲、黃聖捷、黃國宏、陳沂名、鍾孝仁、吳思賢",
     "time": "M12-YD105[YM]"
   },
@@ -1495,7 +1483,7 @@
     "memo": "",
     "name": "口腔診斷學 Oral Diagnosis",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "張國威、楊政杰、吳靜宜、洪凱風、張蓮鈺、林怡君、林弘斌、王文岑、陳軒弘、李立慈",
     "time": "M34-YD320[YM]"
   },
@@ -1507,7 +1495,7 @@
     "memo": "",
     "name": "循環學 Circulation",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "林彥璋、胡瑜峰、黃金洲、宋思賢、余文鍾、陳嬰華、盧澤民、羅文良、許喬博、施俊哲、吳道正、許百豐、鐘法博、林晉宇、李必昌、吳承學、張俊欽、劉至民、陳素真、吳政億、蔡泉財",
     "time": "M5-YT304[YM]"
   },
@@ -1519,7 +1507,7 @@
     "memo": "",
     "name": "牙科放射線學 Clinical Dental Radiology",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "羅文良、陳志成、許世明、林重榮、吳政憲、施文宇、楊淑芬、周怡江、林怡君、吳和泰、成函潔",
     "time": "R12-YD105[YM]"
   },
@@ -1531,7 +1519,7 @@
     "memo": "",
     "name": "牙髓病學 Endodontics",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "蔡佳倫、楊淑芬、黃妙玨、陳誼安、李亞芸、何怡青、白勝方、陳益貞、林慧青、錢正原、陳泰全、王友志",
     "time": "F34-YD105[YM]"
   },
@@ -1543,7 +1531,7 @@
     "memo": "",
     "name": "牙髓病學實驗 Endodontics Lab.",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "蔡佳倫、李士元、李亞芸、何怡青、白勝方、徐永儀、陳益貞、林慧青、陳泰全、王友志",
     "time": "F56789a-YD202[YM]"
   },
@@ -1555,7 +1543,7 @@
     "memo": "",
     "name": "兒童牙科學 Pediatric Dentistry  ",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "施文宇、劉正芬、陳亮如、王敏靜、莊麗娟、蔡宜峰、林雅文、裴善立、陳瓊芬、謝春怡、李睿仁",
     "time": "R34-YD210[YM]"
   },
@@ -1567,7 +1555,7 @@
     "memo": "",
     "name": "兒童牙科學實驗 Pediatric Dentistry lab.",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "施文宇、劉正芬、陳亮如、王敏靜、莊麗娟、蔡宜峰、林雅文、裴善立、陳瓊芬、謝春怡、李睿仁",
     "time": "T56-YD202[YM]"
   },
@@ -1579,8 +1567,8 @@
     "memo": "",
     "name": "特殊需求者口腔醫療照護 Oral health care for patients of special needs",
     "num_limit": "50",
-    "reg_num": "0",
-    "teacher": "許明倫、程千芳、彭莉甯、涂曦丰、羅文良、劉正芬、李雅玲、李思慧、蔡佳芬、黃明裕",
+    "reg_num": "41",
+    "teacher": "牙醫系、程千芳、彭莉甯、涂曦丰、羅文良、劉正芬、李雅玲、李思慧、蔡佳芬、黃明裕",
     "time": "R56-YD210[YM]"
   },
   "1141_111534": {
@@ -1591,7 +1579,7 @@
     "memo": "",
     "name": "行為牙醫學 Behavioral Dentistry",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "林嘉澍、王敏靜",
     "time": "F12-YD214[YM]"
   },
@@ -1603,8 +1591,8 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "10",
-    "reg_num": "0",
-    "teacher": "林姝君",
+    "reg_num": "41",
+    "teacher": "吳靜宜",
     "time": "M9a-YD320[YM]"
   },
   "1141_111536": {
@@ -1615,7 +1603,7 @@
     "memo": "",
     "name": "臨床診斷學 Clinical and Laboratory Diagnosis",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "黃怡翔、陳涵栩、紀乃方、藍敏瑛、劉永揚、曾彥寒、范乃文、廖顯宗、陳俊宇、許彥彬、李沛璋、謝昀蓁、王維庭、洪莉婷、游偉光、黃怡銘、周昱百、陳天華、薛健佑、吳政億、林詠萱、郭哲源、黃冠榕、葉建甫",
     "time": "T5-YD105[YM]"
   },
@@ -1627,7 +1615,7 @@
     "memo": "",
     "name": "臨床診斷學實習 Practical Training of Clinical and Laboratory Diagnosis",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "黃怡翔、陳涵栩、紀乃方、藍敏瑛、曾彥寒、范乃文、廖顯宗、陳俊宇、許彥彬、李沛璋、謝昀蓁、王維庭、張毓帆、周昱百、薛健佑、吳政億、吳啟榮、林詠萱、黃冠榕、劉璟璇、葉建甫",
     "time": "T678-YD105[YM]"
   },
@@ -1639,7 +1627,7 @@
     "memo": "",
     "name": "麻醉學 Anesthesiology",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "曹正明、丁乾坤、林祐霆、朱雅淳、何照明、鄒樂起、楊舜欽、宋俊松、林素滿、林世斌、王審之、郭怡敏、王馨苡、吳襄齡、鄧惟濃、許文瑛、柯惠瑄、張文貴、劉靖揚",
     "time": "T34-YD105[YM]"
   },
@@ -1651,7 +1639,7 @@
     "memo": "上課時間：每週五下午2點至五點，上課地點：台北榮總",
     "name": "口腔顎面外科學 Oral & Maxillofacial Surgery",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "高壽延、楊政杰、涂曦丰、洪凱風、吳政憲、羅文良、雷文天、成函潔、黃傳貴",
     "time": "F5678-YD105[YM]"
   },
@@ -1663,7 +1651,7 @@
     "memo": "",
     "name": "牙周病學 Periodontology",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "林怡君、賴玉玲、董醒任、陳彥廷、陳恒理、陳軒弘、黃惠華、張馨尹",
     "time": "R3-YD320[YM]"
   },
@@ -1675,7 +1663,7 @@
     "memo": "",
     "name": "牙科技術觀摩 Clinical Skills Demonstration in Dentistry",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "施文宇、高壽延、李士元、張國威、楊政杰、涂曦丰、吳靜宜、洪凱風、耿藝文、張景智、葉聖威、賴玉玲、吳政憲、羅文良、楊淑芬、馮懷珍、董醒任、李亞芸、何怡青、陳恒理、雷文天、于恩浩、陳大為、林怡君、董愛康、吳姿瑩、吳詩韻、陳軒弘、陳江雲、楊子彰、洪振元、吳和泰、陳瓊芬、成函潔、謝春怡、蔡佳倫、鄭冬慧、陳大中、何翊芸、陳雅琪、李思瑾、莊凱翔、李睿仁、劉妍君",
     "time": "F12349a-"
   },
@@ -1687,8 +1675,8 @@
     "memo": "",
     "name": "局部贗復學 Removable Partial Denture Prosthodontics",
     "num_limit": "50",
-    "reg_num": "0",
-    "teacher": "許明倫、耿藝文、張景智、陳岱茜、張志麟、謝旻杰、陳正毅",
+    "reg_num": "42",
+    "teacher": "牙醫系、耿藝文、張景智、陳岱茜、張志麟、謝旻杰、陳正毅",
     "time": "W12-YD210[YM]"
   },
   "1141_111543": {
@@ -1699,8 +1687,8 @@
     "memo": "",
     "name": "局部贋復學實驗 Removable Partial Denture Prosthodontics Lab.",
     "num_limit": "50",
-    "reg_num": "0",
-    "teacher": "許明倫、林嘉澍、耿藝文、張景智、張志麟、謝旻杰、林慧觀、張采宇、楊博雅、許文瑛、黃籌永、吳曉霖",
+    "reg_num": "42",
+    "teacher": "牙醫系、林嘉澍、耿藝文、張景智、張志麟、謝旻杰、林慧觀、張采宇、楊博雅、許文瑛、黃籌永、吳曉霖",
     "time": "M123456789-YD210[YM]"
   },
   "1141_111544": {
@@ -1711,8 +1699,8 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "50",
-    "reg_num": "0",
-    "teacher": "林怡彣",
+    "reg_num": "42",
+    "teacher": "林姝君",
     "time": "R9a-YD214[YM]"
   },
   "1141_111545": {
@@ -1723,7 +1711,7 @@
     "memo": "",
     "name": "固定贋復學實驗 Fixed Prosthodontics Lab.",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "42",
     "teacher": "李士元、陳翾、王君伃、劉妍君、陳信宏",
     "time": "W345678-YD202[YM]"
   },
@@ -1783,7 +1771,7 @@
     "memo": "實際實習地點請依開課教師安排。\n上課時間與地點同「成人護理學」。",
     "name": "成人護理學實習Ⅰ Adult Nursing PracticeⅠ",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "黃淑鶴、陳俞琪、楊曼華、陳律言、廖咨詠、溫明寰、林曼玲、童惠芳、王佳雯、王佩琮、許志忠、呂翠萍、盧一瑩、塗勝翔、吳碧珠、莊瑞玲、施瓊玉、林承萱、張嘉琪、楊易宏、郭憶文、許鈺絹、蘇惠文、楊翎玉",
     "time": "M12345678T12345678W12345678-"
   },
@@ -1807,7 +1795,7 @@
     "memo": "實際實習地點請依開課教師安排。\n上課時間與地點同「成人護理學」。",
     "name": "成人護理學實習Ⅱ Adult Nursing PracticeⅡ",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "黃淑鶴、陳俞琪、廖媛美、楊曼華、陳律言、廖咨詠、張議文、廖淑櫻、李雅萍、溫明寰、林曼玲、童惠芳、王佳雯、連如玉、呂翠萍、盧一瑩、塗勝翔、吳碧珠、梁巧儒、張嘉琪、周珊如、郭憶文、許鈺絹、蘇惠文、楊翎玉",
     "time": "M12345678T12345678W12345678-"
   },
@@ -1819,7 +1807,7 @@
     "memo": "實際導生課時間請依導師公告。",
     "name": "導師時間 Class Meeting",
     "num_limit": "50",
-    "reg_num": "39",
+    "reg_num": "40",
     "teacher": "楊秋月、黃淑鶴、侯宜菁、林承霈",
     "time": "Rcd-YN416[YM]"
   },
@@ -1831,7 +1819,7 @@
     "memo": "實際上課時間請留意開課教師之公告或課程大綱。",
     "name": "社區衛生護理學 Community Health Nursing",
     "num_limit": "50",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "周承珍、黃子庭、王子芳、陳怡如、簡莉盈、劉佩青、林承霈、賴鼎璁、張芬娥、周明慧",
     "time": "M1234T1234W1234-YN416[YM]"
   },
@@ -1843,7 +1831,7 @@
     "memo": "實際實習地點請依教師安排。",
     "name": "社區衛生護理學實習 Community Health Nursing Practice",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "周承珍、王子芳、林承霈、賴鼎璁、林麗華、吳佳珊、張芬娥、周明慧、劉慧芬",
     "time": "M12345678T12345678W12345678-"
   },
@@ -1855,7 +1843,7 @@
     "memo": "實際上課時間請留意開課教師之公告或課程大綱。",
     "name": "精神衛生護理學 Psychiatric Mental Health Nursing",
     "num_limit": "50",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "張秀如、許樹珍、楊秋月、胡力予、張阿雪、洪珮瑜",
     "time": "M5678T5678W5678-YN416[YM]"
   },
@@ -1867,7 +1855,7 @@
     "memo": "實際實習地點請依開課教師安排。",
     "name": "精神衛生護理學實習 Psychiatric Mental Health Nursing Practice",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "張秀如、張阿雪、羅素貞、楊牧曦、鄭淑琴",
     "time": "M12345678T12345678W12345678-"
   },
@@ -1879,7 +1867,7 @@
     "memo": "",
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "50",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "李亭亭、童恒新、黃淑鶴、賴鼎璁、施玉珊",
     "time": "R78-YN418[YM]"
   },
@@ -1891,7 +1879,7 @@
     "memo": "實際實習地點與上課時間，請依開課教師安排。",
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "50",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "李亭亭、黃淑鶴、賴鼎璁、王卿凌、陳美君、游佩玲",
     "time": "S123456-"
   },
@@ -1963,7 +1951,7 @@
     "memo": "",
     "name": "護理研究概論 Introduction to Nursing Research",
     "num_limit": "254",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "楊曼華、王子芳、陳俞琪、蔡慈儀、楊秋月、周承珍、陳律言、林承霈",
     "time": "F56-YN418[YM]"
   },
@@ -4243,7 +4231,7 @@
     "memo": "限中醫系二年級必修生修習。",
     "name": "大體解剖學實驗 Gross Anatomy Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "傅毓秀、鄭瓊娟、李學德、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程、林坤陽",
     "time": "W567-YEC109-2[Y"
   },
@@ -4267,7 +4255,7 @@
     "memo": "醫二A,   醫二B,  醫二C, 醫技二, 藥學二, 中醫二合班上課",
     "name": "生物化學 Biochemistry",
     "num_limit": "9999",
-    "reg_num": "165",
+    "reg_num": "200",
     "teacher": "黃介嶸、陳美瑜、鄭子豪、許翺麟、王琬菁、姜為中",
     "time": "R56F34-YX216[YM]"
   },
@@ -4291,7 +4279,7 @@
     "memo": "醫技二, 中醫二",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "34",
+    "reg_num": "61",
     "teacher": "游麗如、陳美瑜、鄭子豪、郭津岑、許翺麟",
     "time": "T5678-YEC309[YM]"
   },
@@ -4723,7 +4711,7 @@
     "memo": "",
     "name": "中醫醫學史 History of Chinese Medicine",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "陳方佩、郭文華、黃怡超、林昭庚、雷祥麟、蔡忠志、陳柏勳",
     "time": "F34-YK436[YM]"
   },
@@ -4734,8 +4722,8 @@
     "id": "113901",
     "memo": "",
     "name": "中醫學導論 Introduction to Traditional Chinese Medicine",
-    "num_limit": "167",
-    "reg_num": "0",
+    "num_limit": "60",
+    "reg_num": "1",
     "teacher": "許中華、黃怡超、陳方佩、林東毅、龔彥穎、張清貿、劉佳祐、徐蔚泓、彭溫雅、黃奎祐、邱榮鵬",
     "time": "M78-YK208[YM]"
   },
@@ -4771,7 +4759,7 @@
     "memo": "",
     "name": "心靈成長 Spiritual growth (mentor time)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "林東毅、黃怡超、張清貿",
     "time": "Tn-YK436[YM]"
   },
@@ -4843,7 +4831,7 @@
     "memo": "",
     "name": "中醫藥物學(一) Chinese Medicinal Pharmacology (1)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "蔡東湖、彭溫雅、薛敦品",
     "time": "T234-YK912[YM]"
   },
@@ -4866,8 +4854,8 @@
     "id": "113912",
     "memo": "",
     "name": "醫學新知 New medical knowledge",
-    "num_limit": "9999",
-    "reg_num": "0",
+    "num_limit": "30",
+    "reg_num": "27",
     "teacher": "林東毅",
     "time": "W34-YK911[YM]"
   },
@@ -4902,8 +4890,8 @@
     "id": "113915",
     "memo": "",
     "name": "中醫環境醫學 Chinese Medicine-Environmental Medicine",
-    "num_limit": "9999",
-    "reg_num": "0",
+    "num_limit": "30",
+    "reg_num": "27",
     "teacher": "洪裕強",
     "time": "F78-YK912[YM]"
   },
@@ -5287,7 +5275,7 @@
     "memo": "",
     "name": "生理學實驗教學實習 Teaching Practice on Physiological Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "阮琪昌、李怡萱、簡千栩",
     "time": "MnTnWnRn-YED214[YM]"
   },
@@ -5479,7 +5467,7 @@
     "memo": "週四5678節上課，牙三與藥理所合班，上課日期請參照藥理學整合課表，上課地點在實驗大樓D2區D214實驗室。可英語授課開放外籍生選修。",
     "name": "藥理學實驗 Pharmacology Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "張婷婷",
     "time": "R9abc-YED214[YM]"
   },
@@ -6031,7 +6019,7 @@
     "memo": "限醫學三、牙醫二、中醫二及解剖所(解剖組)之必修生修習。",
     "name": "大體解剖學 Gross Anatomy",
     "num_limit": "9999",
-    "reg_num": "135",
+    "reg_num": "162",
     "teacher": "傅毓秀、鄭瓊娟、李學德、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程、林坤陽",
     "time": "M1234-YX216[YM]"
   },
@@ -6475,7 +6463,7 @@
     "memo": "碩、博士班必選",
     "name": "衛生福利專題討論(A) Seminar on Health and Welfare Research (A)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "簡麗年、林文旭",
     "time": "T56-YN611[YM]"
   },
@@ -6487,7 +6475,7 @@
     "memo": "碩、博士班必選",
     "name": "衛生福利專題討論(B) Seminar on Health and Welfare Research (B)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "蔡憶文、李韶芬",
     "time": "T56-YN613[YM]"
   },
@@ -6991,7 +6979,7 @@
     "memo": "不開放外系、所選修，生醫資訊所、不分系一年級、數位醫療學程合班上課。",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "5",
     "teacher": "巫坤品",
     "time": "W56-YK104[YM]"
   },
@@ -7476,16 +7464,16 @@
     "time": "R56-YS405[YM]"
   },
   "1141_131219": {
-    "code": "MDIH30019",
-    "credit": "2.00",
-    "hours": "2.00",
+    "code": "MDIH30048",
+    "credit": "1.00",
+    "hours": "1.00",
     "id": "131219",
     "memo": "[English Medium Course]開放大學部學生修讀",
     "name": "新陳代謝與癌症 Global health challenges: Metabolic abnormalities and cancers",
     "num_limit": "15",
     "reg_num": "0",
     "teacher": "張懿欣、黃尉倫",
-    "time": "W34-YS103[YM]"
+    "time": "W4-YS103[YM]"
   },
   "1141_131300": {
     "code": "MDPH30021",
@@ -11968,7 +11956,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "141400",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "量性研究方法論 Quantitative Methodology",
     "num_limit": "9999",
     "reg_num": "0",
@@ -12691,7 +12679,7 @@
     "memo": "不開放外系、所選修，跨領域醫學學程、生醫資訊所、生科系一年級、醫學系B班一年級合班上課。",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "巫坤品",
     "time": "M78-YR104[YM]"
   },
@@ -15093,7 +15081,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "戴瑜慧",
-    "time": "F234-HK104[LJ]"
+    "time": "F234-A303[GF]"
   },
   "1141_310114": {
     "code": "HKCT10007",
@@ -17543,18 +17531,6 @@
     "teacher": "吳哲硯",
     "time": "R234-HC401[GF]"
   },
-  "1141_515001": {
-    "code": "EEEC10002",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "515001",
-    "memo": "",
-    "name": "微分方程 Differential Equation",
-    "num_limit": "55",
-    "reg_num": "0",
-    "teacher": "王忠炫",
-    "time": "M34W2-ED101[GF]"
-  },
   "1141_515002": {
     "code": "EEEC10002",
     "credit": "3.00",
@@ -17970,9 +17946,9 @@
     "id": "515037",
     "memo": "",
     "name": "訊號與系統 Signals and Systems",
-    "num_limit": "9999",
+    "num_limit": "50",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "王忠炫",
     "time": "T7F34-EDB01[GF]"
   },
   "1141_515038": {
@@ -17982,10 +17958,22 @@
     "id": "515038",
     "memo": "",
     "name": "訊號與系統 Signals and Systems",
-    "num_limit": "9999",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "冀泰石",
     "time": "T7-ED101[GF],F34-ED202[GF]"
+  },
+  "1141_515039": {
+    "code": "EEEC10016",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "515039",
+    "memo": "",
+    "name": "訊號與系統 Signals and Systems",
+    "num_limit": "50",
+    "reg_num": "0",
+    "teacher": "賴青沂",
+    "time": "R56-ED103[GF],T7-ED303[GF]"
   },
   "1141_515100": {
     "code": "EEEC00005",
@@ -18238,18 +18226,6 @@
     "reg_num": "0",
     "teacher": "冀泰石",
     "time": "T8R56-ED219[GF]"
-  },
-  "1141_515121": {
-    "code": "EEEC20036",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "515121",
-    "memo": "實驗課教室工程五館EE634",
-    "name": "數位訊號處理晶片實驗 Digital Signal Processing Chips Labs.",
-    "num_limit": "40",
-    "reg_num": "0",
-    "teacher": "冀泰石",
-    "time": "Rabc-ED103[GF]"
   },
   "1141_515122": {
     "code": "EEEC20041",
@@ -18616,9 +18592,9 @@
     "credit": "3.00",
     "hours": "5.00",
     "id": "515152",
-    "memo": "1、限大三、大四選修，電機學院學生優先。2、需修習過電路學、電子學、以及「類比積體電路導論」課程且及格者。",
+    "memo": "1、限大三、大四選修，優先順序依次：電機系、電機學院。2、需修習過電路學、電子學、以及「類比積體電路導論」課程且及格者。",
     "name": "類比積體電路實驗 Analog Integrated Circuits LAB",
-    "num_limit": "40",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "洪崇智",
     "time": "Rabc-ED220[GF]"
@@ -18742,6 +18718,18 @@
     "reg_num": "0",
     "teacher": "侯中權",
     "time": "F678-EE105[GF]"
+  },
+  "1141_515164": {
+    "code": "EEEC20099",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "515164",
+    "memo": "上課時間及教室：T7-EDB03、R56-ED203，每週T8為助教講解課程用；請保留該時段",
+    "name": "電磁波 Electromagnetic Wave",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "胡樹",
+    "time": "R56-ED203[GF],T7-EDB06[GF]"
   },
   "1141_515200": {
     "code": "EEDM20004",
@@ -19006,6 +18994,18 @@
     "reg_num": "0",
     "teacher": "半導體系",
     "time": "W234-EF201[GF]"
+  },
+  "1141_515222": {
+    "code": "EEDM20019",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "515222",
+    "memo": "台積電博士開設。延續固態物理（一），本課程內容如補充 scattering 現象，並銜接至金屬、介電層、超導材料等主題。",
+    "name": "固態物理(二) Solid State Physics Ⅱ",
+    "num_limit": "60",
+    "reg_num": "0",
+    "teacher": "半導體系",
+    "time": ""
   },
   "1141_515400": {
     "code": "EEDP10010",
@@ -20863,7 +20863,7 @@
     "memo": "電物系優先",
     "name": "電子實驗（一） Electronic Lab. (I)",
     "num_limit": "32",
-    "reg_num": "0",
+    "reg_num": "25",
     "teacher": "林烜輝",
     "time": "Tabcd-SC326[GF]"
   },
@@ -20875,7 +20875,7 @@
     "memo": "電物系優先\n",
     "name": "電子實驗（一） Electronic Lab. (I)",
     "num_limit": "32",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "林烜輝",
     "time": "Wabcd-SC326[GF]"
   },
@@ -20935,7 +20935,7 @@
     "memo": "[English Medium Course]",
     "name": "熱物理 Thermal Physics",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "52",
     "teacher": "蘇蓉容",
     "time": "T34n-SC160[GF]"
   },
@@ -20947,7 +20947,7 @@
     "memo": "",
     "name": "實驗物理(一) Experimental Physics(I)",
     "num_limit": "32",
-    "reg_num": "0",
+    "reg_num": "24",
     "teacher": "林俊良",
     "time": "F5678-SC358[GF]"
   },
@@ -20959,7 +20959,7 @@
     "memo": "[English Medium Course]",
     "name": "實驗物理(二) Experimental Physics(II)",
     "num_limit": "32",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "許鈺敏",
     "time": "F5678-SC324[GF]"
   },
@@ -20971,7 +20971,7 @@
     "memo": "",
     "name": "基礎光學 Introduction to Optics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "許鈺敏",
     "time": "R34n-SC160[GF]"
   },
@@ -20992,11 +20992,11 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "516615",
-    "memo": "[English Medium Course]電物系優先",
+    "memo": "[English Medium Course]電物系優先、電物組二選一",
     "name": "固態物理（二） Solid State Physics (II)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "蘇蓉容",
+    "teacher": "陳煜璋",
     "time": "T2W34-SC160[GF]"
   },
   "1141_516616": {
@@ -21031,7 +21031,7 @@
     "memo": "電物專題一已改為必修。\n電物專題每學期限修一門，請依序選修。請選擇電物系老師為指導老師，開學後請至系辦登記。",
     "name": "電物專題（一） Special Study (I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "52",
     "teacher": "電物系",
     "time": ""
   },
@@ -21067,7 +21067,7 @@
     "memo": "",
     "name": "預研專題(一) Pregraduate Studies (I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "電物系",
     "time": ""
   },
@@ -21103,7 +21103,7 @@
     "memo": "[English Medium Course]",
     "name": "量子力學導論（一） Int. to Quantum Mechanics (Ｉ)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "52",
     "teacher": "仲崇厚",
     "time": "M56R8-SC160[GF]"
   },
@@ -25194,7 +25194,7 @@
     "id": "535222",
     "memo": "(1)上課時間W56–ED415, Wab–LAB(2)\n第一、第二、第三階段選課：開放選課且電子所、電機系、半導體工程學系、產創學院優先；不開放填寫google表單(3)開學後加退選階段：開放選課；開放填寫google表單且依規定加簽。加簽方式會在第一堂課時特別說明並提供表單，欲加簽同學第一堂課請務必要來(4)未加選到同學：依照順位排序進行篩選進行網路加簽，加簽總人數會經老師評估後決定最後加簽人數。順位排序如下：\n電子所、電機系、半導體工程學系、相關學院、外系所、外校\n相關學院包含電機學院、資訊學院、產創學院、國半學院。如為外系所、外校欲進行加選，除填表單外，亦須提供曾修習兩門相關課程之修課成績單。若外系所、外校無提供成績單，即便選課系統選上，亦會被手動退選。\n相關課程：1.邏輯設計2.數位電路與系統3.超大型積體電路設計導論(VLSI)4.數位積體電路(DIC)",
     "name": "積體電路設計實驗 Integrated Circuit Design Laboratory",
-    "num_limit": "90",
+    "num_limit": "120",
     "reg_num": "0",
     "teacher": "李鎮宜",
     "time": "W56ab-"
@@ -25204,9 +25204,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535223",
-    "memo": "",
+    "memo": "(1)初選第一階段、初選第二階段：開放80人。(2)初選第三階段、開學後加退選階段：開放160人。",
     "name": "深度學習 Deep Learning",
-    "num_limit": "160",
+    "num_limit": "80",
     "reg_num": "0",
     "teacher": "張添烜",
     "time": "M789-ED220[GF]"
@@ -25218,7 +25218,7 @@
     "id": "535224",
     "memo": "",
     "name": "數位積體電路 Digital Integrated Circuits",
-    "num_limit": "100",
+    "num_limit": "120",
     "reg_num": "0",
     "teacher": "吳易忠",
     "time": "W78-ED219[GF],F56-EDB26[GF]"
@@ -25761,7 +25761,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "王忠炫",
-    "time": "M2W34-EDB01[GF]"
+    "time": "T234-EE112[GF]"
   },
   "1141_535366": {
     "code": "EECM30084",
@@ -26265,7 +26265,7 @@
     "num_limit": "70",
     "reg_num": "0",
     "teacher": "顏安孜",
-    "time": "T56-EC015[GF]"
+    "time": "T56-EC022[GF]"
   },
   "1141_535514": {
     "code": "CSIC30045",
@@ -30244,7 +30244,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537909",
-    "memo": "開放大三以上同學選修，陽明校區：線上上課，請向教師索取線上連結;混合遠距課程",
+    "memo": "本課程上課時間將改至週五上午，敬請留意。大三以上同學選修，陽明校區：線上上課，請向教師索取線上連結;混合遠距課程",
     "name": "刑法分則 Criminal Law: Offenses",
     "num_limit": "30",
     "reg_num": "0",
@@ -32884,9 +32884,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561021",
-    "memo": "",
+    "memo": "本課程採網路選課不開放加簽。",
     "name": "音樂語言與表達 Musical Syntax and Expression",
-    "num_limit": "26",
+    "num_limit": "27",
     "reg_num": "0",
     "teacher": "林伶美",
     "time": "T12-YX502[YM]"
@@ -32896,9 +32896,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561022",
-    "memo": "",
+    "memo": "本課程採網路選課不開放加簽。",
     "name": "戲劇音樂：生命與愛情 Drama Music: Lives and Love",
-    "num_limit": "26",
+    "num_limit": "27",
     "reg_num": "0",
     "teacher": "林伶美",
     "time": "T34-YX502[YM]"
@@ -32908,9 +32908,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561023",
-    "memo": "異地授課課程",
+    "memo": "1.異地授課課程 2.本課程採網路選課不開放加簽。",
     "name": "戲劇音樂：生命與愛情 Drama Music: Lives and Love",
-    "num_limit": "26",
+    "num_limit": "27",
     "reg_num": "0",
     "teacher": "林伶美",
     "time": "F34-A203[GF]"
@@ -32920,9 +32920,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561024",
-    "memo": "原課名「交響曲發展史：從史塔密茲到貝多芬」，不接受修過「交響曲發展史：從史塔密茲到貝多芬 」同學修讀。",
+    "memo": "1.本課程採網路選課不開放加簽。2.原課名「交響曲發展史：從史塔密茲到貝多芬」，不接受修過「交響曲發展史：從史塔密茲到貝多芬 」同學修讀。",
     "name": "古典樂派交響曲之藝術與流變 The Art and Evolution of Classical Symphonies",
-    "num_limit": "26",
+    "num_limit": "27",
     "reg_num": "0",
     "teacher": "林伶美",
     "time": "R12-YX502[YM]"
@@ -32932,9 +32932,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561025",
-    "memo": "原課名 「西洋古典音樂史」,不接受修過「西洋古典音樂史 」同學修讀;異地授課課程",
+    "memo": "1.1.本課程採網路選課不開放加簽。 2.原課名 「西洋古典音樂史」,不接受修過「西洋古典音樂史 」同學修讀;異地授課課程",
     "name": "西方音樂的源起與蛻變：從古希臘到巴洛克 The Origins and Evolution of Western Music: From Ancient Greece to the Baroque Period",
-    "num_limit": "26",
+    "num_limit": "27",
     "reg_num": "0",
     "teacher": "林伶美",
     "time": "F56-A203[GF]"

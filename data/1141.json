@@ -16314,7 +16314,7 @@
     "id": "430107",
     "memo": "",
     "name": "分散運算式網頁伺服器設計 Distributed Computation and its Practice in Web Servers",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "羅惟正",
     "time": "S567-BI304[BA]"
@@ -17551,7 +17551,7 @@
     "memo": "",
     "name": "微分方程 Differential Equation",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "鄭裕庭",
     "time": "M34W2-ED203[GF]"
   },
@@ -17575,7 +17575,7 @@
     "memo": "[English Medium Course]，2A",
     "name": "微分方程(英文班) Differential Equation",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "戴立嘉",
     "time": "M34W2-EE105[GF]"
   },
@@ -17767,7 +17767,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周一晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
-    "reg_num": "0",
+    "reg_num": "44",
     "teacher": "王夢偉",
     "time": "Mabcd-"
   },
@@ -17779,7 +17779,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周一晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "44",
     "teacher": "陳立洲",
     "time": "Mabcd-"
   },
@@ -17791,7 +17791,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，第三階段起開放所有學生加退選。\n以電機系大二學生優先、「2A班優先」、醫師工程師組。課程時間為周二晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "44",
     "teacher": "林容瑋、柯明道",
     "time": "Tabcd-"
   },
@@ -17803,7 +17803,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周二晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
-    "reg_num": "0",
+    "reg_num": "43",
     "teacher": "陳建安、柯明道",
     "time": "Tabcd-"
   },
@@ -17815,7 +17815,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周三晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
-    "reg_num": "0",
+    "reg_num": "43",
     "teacher": "王夢偉",
     "time": "Wabcd-"
   },
@@ -17827,7 +17827,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周三晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "43",
     "teacher": "陳立洲",
     "time": "Wabcd-"
   },
@@ -17899,7 +17899,7 @@
     "memo": "[English Medium Course]，2A。此課程不得列入生醫所畢業學分。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
     "name": "電路學－(英文班) Circuit Theory ",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "蔡德明",
     "time": "T34R78-EE623[GF]"
   },
@@ -17994,7 +17994,7 @@
     "id": "515101",
     "memo": "",
     "name": "服務學習 (二) Service Learning II",
-    "num_limit": "9999",
+    "num_limit": "110",
     "reg_num": "0",
     "teacher": "電機系",
     "time": "W56-ED203[GF]"
@@ -18006,7 +18006,7 @@
     "id": "515102",
     "memo": "",
     "name": "服務學習 (二) Service Learning II",
-    "num_limit": "9999",
+    "num_limit": "110",
     "reg_num": "0",
     "teacher": "電機系",
     "time": "W56-ED303[GF]"

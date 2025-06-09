@@ -1015,7 +1015,7 @@
     "memo": "",
     "name": "腎臟科臨床實習(二) Clerkship in Nephrology(2)",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "內科學科",
     "time": ""
   },
@@ -1147,7 +1147,7 @@
     "memo": "",
     "name": "感染科臨床實習(一) Clerkship in Infectious Disease(1)",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "44",
     "teacher": "內科學科",
     "time": ""
   },
@@ -1783,7 +1783,7 @@
     "memo": "",
     "name": "眼科臨床實習(二) Clerkship in Ophthalmology(2)",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "眼科學科",
     "time": ""
   },
@@ -2095,7 +2095,7 @@
     "memo": "",
     "name": "病理科臨床實習(一) Clerkship in Pathology(1)",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "9",
     "teacher": "病理學科",
     "time": ""
   },
@@ -5167,7 +5167,7 @@
     "memo": "限物理治療暨輔助科技學系來台交換生選修",
     "name": "國際學生物理治療臨床見習 II International Student Clinical Clerkship in Physical Therapy II",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "周立偉、施怡芬、林珊如、蔣志豪、邵芙昕、陳俊年、黃安華、黃湘茹",
     "time": "WyzRyz-"
   },
@@ -5215,7 +5215,7 @@
     "memo": "限物理治療暨輔助科技學系來台交換生選修",
     "name": "國際學生物理治療臨床見習 International Student Clinical Clerkship in Physical Therapy",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "周立偉、施怡芬、林珊如、蔣志豪、邵芙昕、陳俊年、黃安華、黃湘茹",
     "time": "MyzTyz-"
   },
@@ -12955,7 +12955,7 @@
     "memo": "",
     "name": "醫學生物技術學研究(博) Research in Biotechnology",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "黃智生",
     "time": ""
   },

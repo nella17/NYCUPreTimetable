@@ -3739,7 +3739,7 @@
     "memo": "",
     "name": "生活在陽明(一)-基礎服務學習 Life in National Yang-Ming University (1)-Basic service learning",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "張御展",
     "time": "W34-YT303[YM]"
   },
@@ -3751,7 +3751,7 @@
     "memo": "",
     "name": "生活在陽明(一)-基礎服務學習 Life in National Yang-Ming University (1)-Basic service learning",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "13",
     "teacher": "陳志成",
     "time": "W34-YT303[YM]"
   },
@@ -4412,7 +4412,7 @@
     "name": "微生物學及免疫學實驗 Lab Practice in Microbiology & Immunology",
     "num_limit": "35",
     "reg_num": "38",
-    "teacher": "呂春敏、陳紀如、許博琛",
+    "teacher": "呂春敏、陳紀如、許博琛、蔡文城",
     "time": "W5678-YEC211[YM]"
   },
   "1141_113203": {
@@ -5612,7 +5612,7 @@
     "name": "健康照護與法律 Law and Health Care",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "楊秀儀、黃品翔",
+    "teacher": "楊秀儀",
     "time": "T234-YT302[YM]"
   },
   "1141_130202": {
@@ -5912,7 +5912,7 @@
     "name": "公共衛生大師專題 Master Panel in Public Health",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "楊秀儀、陳娟瑜、陳瓊梅、林雅萍、陳信任、張鴻仁",
+    "teacher": "楊秀儀、黃嵩立、陳娟瑜、郭炤裕、蒲正筠、陳瓊梅、林雅萍、梁立霖、黃宣穎、陳信任、莊宜芳、潘文驥、劉家軒、張鴻仁、梁賡義",
     "time": "R56-YT305[YM]"
   },
   "1141_130227": {
@@ -6967,7 +6967,7 @@
     "memo": "不開放外系、所選修，生醫資訊所、不分系一年級、數位醫療學程合班上課。",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "7",
     "teacher": "巫坤品",
     "time": "W56-YK104[YM]"
   },
@@ -7040,7 +7040,7 @@
     "name": "專題討論(碩) Seminar",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "蔡欣融、鄭彥甫、郭博昭、陳麗芬、楊定一、楊靜修、王署君、蔡金吾、陳世彬、鄭菡若、侯珮珊、李怡慧、劉祐岑",
+    "teacher": "蔡欣融、鄭彥甫、郭博昭、陳麗芬、楊定一、楊靜修、王署君、蔡金吾、陳世彬、楊智傑、鄭菡若、侯珮珊、蔡世仁、李怡慧、劉祐岑",
     "time": "T56-YL402[YM]"
   },
   "1141_131102": {
@@ -8491,7 +8491,7 @@
     "memo": "1.非同步預錄課程上傳至E3系統(收播時間:9/1-10/31) \n2.此課程將納入教育部「精準健康產業跨領域人才培育計畫」精準醫學領域推動中心學校計畫，亦將規劃錄製線上課程，作為此中心及相關夥伴學校之培訓課程，提供陽明交大在學學生選修 。\n3.實際上課時數以影片內容為主",
     "name": "老年醫學臨床概論 Clinical Introduction of Geriatric Medicine",
     "num_limit": "45",
-    "reg_num": "19",
+    "reg_num": "21",
     "teacher": "姜紹青",
     "time": ""
   },
@@ -8503,7 +8503,7 @@
     "memo": "此課程在114暑期開課,上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "精準健康之精準照護趨勢與應用 Precision Health Precision Care Trends and Applications",
     "num_limit": "45",
-    "reg_num": "7",
+    "reg_num": "8",
     "teacher": "林滿玉",
     "time": ""
   },
@@ -9895,7 +9895,7 @@
     "memo": "[English Medium Course]",
     "name": "專題討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "33",
     "teacher": "饒啟文、吳育德、高甫仁、薛特、郭文娟、陳浩夫、陳奕帆、賈世璿、蘇佳沂",
     "time": "M56-YK208[YM]"
   },
@@ -10328,7 +10328,7 @@
     "name": "現代生物學研究方法 Research Methods for Modern Microbiology & Immunology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "蔡明翰、廖辰中、董建億、陳念榮、張佩靖、徐嘉琳、黃雪莉、呂春敏、陳紀如、葛一樊、高正彥、陳建鋒、曾才郁",
+    "teacher": "蔡明翰、廖辰中、董建億、陳念榮、張佩靖、徐嘉琳、黃雪莉、呂春敏、陳紀如、葛一樊、高正彥、許博琛、陳建鋒、蔡雨寰、曾才郁",
     "time": "R56-YC401[YM]"
   },
   "1141_132803": {
@@ -10412,7 +10412,7 @@
     "name": "微生物科技與新藥研發：實驗室見習 (全英語) Microbial Biotechnology and Drug Discovery: lab internship (in English)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃雪莉、程樹德",
+    "teacher": "黃雪莉、孫維欣、蔡明翰、陳惠亭、高正彥、陳儀聰、程樹德",
     "time": "Uyz-YC401[YM]"
   },
   "1141_132812": {
@@ -10448,7 +10448,7 @@
     "name": "微生物科技與新藥研發 (全英語) Microbial Biotechnology and Drug Discovery (in English)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃雪莉、孫維欣、蔡文城、羅南德、程樹德",
+    "teacher": "黃雪莉、孫維欣、林怡君、陳儀聰、蔡文城、羅南德、程樹德",
     "time": "S12-YC401[YM]"
   },
   "1141_132816": {
@@ -12919,7 +12919,7 @@
     "memo": "非本所在職專班請勿選，前5周上課，上課時間為13:00-16:00。",
     "name": "病人安全與風險管理   Patient safety and Risk Management ",
     "num_limit": "9999",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "洪芳明",
     "time": "S5-YX216[YM]"
   },
@@ -13015,7 +13015,7 @@
     "memo": "",
     "name": "進階家庭專科護理實習III Advanced Family Nurse Practitioner Practicum III",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "童恒新、賴鼎璁",
     "time": "R12345678-"
   },
@@ -13075,7 +13075,7 @@
     "memo": "",
     "name": "進階家庭專科護理實習II Advanced Family Nurse Practitioner Practicum II",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "7",
     "teacher": "陳盈如、賴鼎璁、楊淑華",
     "time": "R12345678-"
   },
@@ -17036,7 +17036,7 @@
     "name": "圖像說故事 Graphic Storytelling",
     "num_limit": "20",
     "reg_num": "2",
-    "teacher": "待聘",
+    "teacher": "陳延明",
     "time": "M34-YT303[YM]"
   },
   "1141_514100": {
@@ -19111,7 +19111,7 @@
     "memo": "",
     "name": "光子學實驗 (二) Photonics Lab.(II) ",
     "num_limit": "18",
-    "reg_num": "34",
+    "reg_num": "35",
     "teacher": "高宗聖",
     "time": "Tabcd-EO115[GF]"
   },
@@ -19123,7 +19123,7 @@
     "memo": "",
     "name": "光子學實驗 (二) Photonics Lab.(II) ",
     "num_limit": "18",
-    "reg_num": "31",
+    "reg_num": "32",
     "teacher": "高宗聖",
     "time": "Rabcd-EO115[GF]"
   },
@@ -20167,7 +20167,7 @@
     "memo": "有幾周會安排EE527電腦教室上課。開大學部1~4年級。",
     "name": "軟實力的哲學 The philosophy of soft skills",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "張瑞永",
     "time": "T34-EE132[GF]"
   },
@@ -20563,7 +20563,7 @@
     "memo": "1.限材料系、半導體工程學系(奈米科學組)選修 \n2.外系及外校請於開學後「加退選期間」以書面加選",
     "name": "材料熱力學(一) Thermodynamics of Materials(I)",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "61",
     "teacher": "朱英豪",
     "time": "M3R34-EF201[GF]"
   },
@@ -21186,7 +21186,7 @@
     "id": "516708",
     "memo": "",
     "name": "微分方程 Differential Equations",
-    "num_limit": "9999",
+    "num_limit": "90",
     "reg_num": "86",
     "teacher": "林奕亘",
     "time": "M34R2-SA311[GF]"
@@ -21619,7 +21619,7 @@
     "memo": "非管院學生請於8月25日上網加選。管院學生優先選課；上限85人，得請授課教師簽准後可放寬至90人；若有演習課則安排於9a；管理基礎學分學程課程。",
     "name": "統計學(一) Statistics (I)",
     "num_limit": "85",
-    "reg_num": "69",
+    "reg_num": "68",
     "teacher": "林義貴",
     "time": "M234-MB520[GF]"
   },
@@ -21679,7 +21679,7 @@
     "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限20人，得請授課教師簽准後可放寬至25人；若有演習課安排於9a；管理基礎學分學程課程。英文授課。[English Medium Course]",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "20",
-    "reg_num": "20",
+    "reg_num": "21",
     "teacher": "水敬心",
     "time": "T234-A316[GF]"
   },
@@ -22303,7 +22303,7 @@
     "memo": "",
     "name": "最特殊的權利？言論自由初探 The Most Special Right? An Introduction to Freedom of Speech",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "51",
     "teacher": "程源中",
     "time": "R567-"
   },
@@ -24931,7 +24931,7 @@
     "memo": "僅開放電子所學生選課（預備研究生洽承辦人加選）",
     "name": "專題研究 Graduate Research",
     "num_limit": "9999",
-    "reg_num": "163",
+    "reg_num": "165",
     "teacher": "電子所",
     "time": ""
   },
@@ -27116,7 +27116,7 @@
     "name": "書報討論（一） Seminar (I)",
     "num_limit": "9999",
     "reg_num": "64",
-    "teacher": "洪紹剛",
+    "teacher": "陳士勛",
     "time": "R78-EEB24[GF]"
   },
   "1141_536105": {
@@ -28984,7 +28984,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537013",
-    "memo": "需先修過組織行為。教師手動加簽，不開放網路選課。",
+    "memo": "需先修過組織行為。",
     "name": "領導與職場健康 Leadership and Occupational Health",
     "num_limit": "15",
     "reg_num": "0",
@@ -29071,7 +29071,7 @@
     "memo": "需先修過財務報表分析、信用風險與應用。",
     "name": "企業財務管理專題研討(一) Seminar on Corporate Financial Management (I)",
     "num_limit": "10",
-    "reg_num": "10",
+    "reg_num": "13",
     "teacher": "陳宗岡",
     "time": "R34n-M205[GF]"
   },
@@ -29083,7 +29083,7 @@
     "memo": "需修過「財金研究方法與論文寫作(一)」",
     "name": "財金研究方法與論文寫作(二) Financial Research Methods and Thesis Writing (II)",
     "num_limit": "10",
-    "reg_num": "2",
+    "reg_num": "4",
     "teacher": "陳宗岡",
     "time": "R567-M205[GF]"
   },
@@ -29886,7 +29886,7 @@
     "id": "537803",
     "memo": "開放大三以上同學選修",
     "name": "人工智慧與高科技之商業運用 Artificial Intelligence and Its Application to High-Tech Business",
-    "num_limit": "55",
+    "num_limit": "44",
     "reg_num": "21",
     "teacher": "李昕潔",
     "time": "T234-A701[GF]"
@@ -29922,7 +29922,7 @@
     "id": "537806",
     "memo": "",
     "name": "量化研究方法 Quantitative Research Methodology",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "6",
     "teacher": "李昕潔",
     "time": "Wabc-A701[GF]"
@@ -33583,7 +33583,7 @@
     "memo": "",
     "name": "Go 程式設計 Go Programming",
     "num_limit": "45",
-    "reg_num": "45",
+    "reg_num": "46",
     "teacher": "黃世昆",
     "time": "T567-CS-PC4[GF]"
   },
@@ -36727,7 +36727,7 @@
     "memo": "第一週上課集合地點為陽明校區山下排球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "徐煒杰",
     "time": "W12-PhE[YM]"
   },
@@ -36799,7 +36799,7 @@
     "memo": "第一週上課集合地點為活動中心三樓桌球教室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "0",
     "teacher": "黃中興",
     "time": "T34-PhE[YM]"
   },
@@ -38143,7 +38143,7 @@
     "memo": "限大三、大四。\n不接受修讀過「營運管理」同學修讀。",
     "name": "永續企業-建立卓越的營運管理系統 Sustainable Business- Building Excellent Operations Management System",
     "num_limit": "72",
-    "reg_num": "79",
+    "reg_num": "83",
     "teacher": "李榮貴",
     "time": "W56-A213[GF]"
   },
@@ -38155,7 +38155,7 @@
     "memo": "限大三、大四。\n不接受修讀過「ESG永續企業發展與管理」同學修讀。",
     "name": "永續企業-ESG實踐 Sustainable Business- ESG Hands-On",
     "num_limit": "32",
-    "reg_num": "35",
+    "reg_num": "36",
     "teacher": "李榮貴",
     "time": "W34-A309[GF]"
   },

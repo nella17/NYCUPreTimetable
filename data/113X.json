@@ -18,7 +18,7 @@
     "id": "112200",
     "memo": "限物輔系學生選課，不開放外系學生修習。",
     "name": "物理治療臨床實習(八) Physical Therapy Practicum (VIII)",
-    "num_limit": "9999",
+    "num_limit": "1",
     "reg_num": "0",
     "teacher": "羅鴻基、楊雅如、李淑貞",
     "time": ""
@@ -448,7 +448,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539000",
-    "memo": "日期:7月1日-8月30日。此課程通過後可抵免TSRI「SM01 半導體製程技術訓練班」及「SM01-01 半導體製程技術見習班」。7/3、7/4、7/10和8/22於A305上課.其餘在TSRI實作訓練",
+    "memo": "日期:7月1日-8月30日。此課程通過後可抵免TSRI「SM01 半導體製程技術訓練班」及「SM01-01 半導體製程技術見習班」。7/3、7/4、7/10、7/11和8/22於A305上課.其餘在TSRI實作訓練",
     "name": "先進堆疊式奈米結構製作 Fabrication of advanced stacked nanostructure",
     "num_limit": "25",
     "reg_num": "0",

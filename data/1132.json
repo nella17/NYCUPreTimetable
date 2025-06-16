@@ -5587,7 +5587,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "放射治療技術學實習 Radiation Therapy Technology Practice",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "醫放系、劉晉昇、劉彥德、劉春蘭、劉建助",
     "time": "S67-"
   },
@@ -5635,7 +5635,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "核醫藥物暨放射性同位素治療實習 Radiopharmaceuticals & Radioisotope Therapy Practice",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "醫放系、王昱豐、張智勇、許敦韋、陳怡潔、陳橙葦",
     "time": "S5-"
   },
@@ -5647,7 +5647,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "模具製作暨模擬攝影實習 Mold Room Technique & Simulation Practice",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "醫放系、郭萬祐、劉義華、楊國卿、曾鈴惠、黃子婕、黃姍姒",
     "time": "U2-"
   },
@@ -5659,7 +5659,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "醫學物理學實習(治療計劃) Medical Physics Practice(Therapy Planning)",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "醫放系、蕭安成、李秀文、李家誠、卓原仲、徐佩瑜",
     "time": "U1-"
   },
@@ -5671,7 +5671,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "醫學物理學實習(劑量學) Medical Physics Practice(Dosimetry)",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "醫放系、季匡華、林志銘、吳瓊芳",
     "time": "S8-"
   },
@@ -10267,7 +10267,7 @@
     "memo": "[English Medium Course]外籍生來台交換課程",
     "name": "新陳代謝、癌症與醣化修飾作用 Global health challenges: Metabolic abnormalities, cancer & glycosylation alteration",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "9",
     "teacher": "張懿欣、蘇美慈、洪小雅",
     "time": "W34-YT302[YM]"
   },
@@ -10279,7 +10279,7 @@
     "memo": "",
     "name": "醫學工程專題討論(碩) Seminar",
     "num_limit": "9999",
-    "reg_num": "84",
+    "reg_num": "85",
     "teacher": "賴穎暉、朱唯勤、江惠華、詹家泰、劉澤英、陳右穎、林峻立、江明彰、駱俊良、李泉、劉承揚、葛宗融、羅俊民、劉大中、許如秀、郭義松、梁晃千、張智銘",
     "time": "R67-YB100[YM]"
   },
@@ -19723,7 +19723,7 @@
     "memo": "主開：2年級，資工系學生優先選課。本課程實際內容為『程式能力鑑定』考試，及格條件為通過任一次考試，除考試後及另訂定的助教輔導時間外，本課程無實體教學。",
     "name": "基礎程式設計 Basic Programming",
     "num_limit": "9999",
-    "reg_num": "277",
+    "reg_num": "285",
     "teacher": "吳凱強、洪瑞鴻、黃寗琪",
     "time": ""
   },
@@ -26359,7 +26359,7 @@
     "memo": "[English Medium Course]",
     "name": "專題研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "47",
     "teacher": "黃昱智",
     "time": ""
   },
@@ -26371,7 +26371,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "63",
+    "reg_num": "61",
     "teacher": "電資碩士學程",
     "time": ""
   },

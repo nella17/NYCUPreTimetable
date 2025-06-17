@@ -422,7 +422,7 @@
   "1141_110031": {
     "code": "MDMD10155",
     "credit": "1.00",
-    "hours": "40.00",
+    "hours": "2.50",
     "id": "110031",
     "memo": "",
     "name": "醫院觀摩學習（一） Hospital Clinical Observation Program(1)",
@@ -470,7 +470,7 @@
   "1141_110036": {
     "code": "MDMD10158",
     "credit": "1.00",
-    "hours": "40.00",
+    "hours": "2.50",
     "id": "110036",
     "memo": "",
     "name": "醫院觀摩學習（三） Hospital Clinical Observation Program(3)",
@@ -482,7 +482,7 @@
   "1141_110037": {
     "code": "MDMD10159",
     "credit": "1.00",
-    "hours": "40.00",
+    "hours": "2.50",
     "id": "110037",
     "memo": "",
     "name": "醫院觀摩學習（五） Hospital Clinical Observation Program(5)",
@@ -494,7 +494,7 @@
   "1141_110038": {
     "code": "MDMD10156",
     "credit": "2.00",
-    "hours": "80.00",
+    "hours": "5.00",
     "id": "110038",
     "memo": "",
     "name": "醫院觀摩學習（二） Hospital Clinical Observation Program(2)",
@@ -506,7 +506,7 @@
   "1141_110039": {
     "code": "MDMD10160",
     "credit": "2.00",
-    "hours": "80.00",
+    "hours": "5.00",
     "id": "110039",
     "memo": "",
     "name": "醫院觀摩學習（四） Hospital Clinical Observation Program(4)",
@@ -518,7 +518,7 @@
   "1141_110040": {
     "code": "MDMD10161",
     "credit": "2.00",
-    "hours": "80.00",
+    "hours": "5.00",
     "id": "110040",
     "memo": "",
     "name": "醫院觀摩學習（六） Hospital Clinical Observation Program(6)",
@@ -842,7 +842,7 @@
   "1141_110067": {
     "code": "MDMD10162",
     "credit": "2.00",
-    "hours": "80.00",
+    "hours": "5.00",
     "id": "110067",
     "memo": "",
     "name": "醫院觀摩學習（八） Hospital Clinical Observation Program(8)",
@@ -4844,7 +4844,7 @@
     "name": "醫學新知 New medical knowledge",
     "num_limit": "30",
     "reg_num": "-999",
-    "teacher": "林滿玉、林東毅、吳彥谷、孫仲銘、蔡明翰、王鼎涵、廖咨詠、邱仁輝、王致又、簡采汝、林舜穀",
+    "teacher": "林滿玉、黃琤、林東毅、吳彥谷、孫仲銘、蔡明翰、王鼎涵、廖咨詠、邱仁輝、王致又、簡采汝、林舜穀",
     "time": "W34-YK912[YM]"
   },
   "1141_113913": {
@@ -11484,12 +11484,12 @@
     "time": "Uyz-YR210[YM]"
   },
   "1141_140304": {
-    "code": "MDCM30004",
+    "code": "MDCM30083",
     "credit": "2.00",
     "hours": "2.00",
     "id": "140304",
     "memo": "",
-    "name": "先天免疫反應在人類疾病的角色  Innate Immune Response in Human Diseases   ",
+    "name": "免疫學在健康與疾病議題的研究 Immunological Research in Health and Disease",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳斯婷、黃怡翔、陳念榮、陳世彬、蔡肇基、邱政洵、謝世良、王鵬惠、陳相成",
@@ -13746,7 +13746,7 @@
     "id": "161052",
     "memo": "1.陽明交通大學、政治大學、臺北藝術大學三校教務學術合作博雅教育課程。2.視訊同步遠距課程 (陽明校區：YL402；交大校區：CS100)。3.第15、16兩周課程改在12/13(六)10:30-12:20、13:30-15:20上課。4.依課務組選課期程逐階調整課程限修人數。",
     "name": "跨領域通識課：那些動物教我的事 Cross-Disciplinary GE Course： Things We Learned from Animals",
-    "num_limit": "20",
+    "num_limit": "27",
     "reg_num": "-999",
     "teacher": "李怡萱、郭文瑞、俞震亞、鄭凱元、嚴如玉、林士傑、麥如村、曲在雯、廖文霖、尼大衛、魏雋展",
     "time": "R78-CS100[GF],R78-YL402[YM]"
@@ -15198,7 +15198,7 @@
     "id": "330006",
     "memo": "",
     "name": "竹科的多重宇宙 Pluriversal HSP",
-    "num_limit": "9999",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "莊雅仲",
     "time": "Rabc-HK207[LJ]"
@@ -21138,7 +21138,7 @@
     "id": "516704",
     "memo": "",
     "name": "分析導論(一) Introduction to Analysis (I)",
-    "num_limit": "9999",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "李明佳",
     "time": "T34WnR78-SA214[GF]"
@@ -21210,7 +21210,7 @@
     "id": "516710",
     "memo": "",
     "name": "基礎數學 Basic Mathematics",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "王國仲",
     "time": "T2R34-SA311[GF]"
@@ -38226,7 +38226,7 @@
     "id": "569007",
     "memo": "限大二以上、不開放在職專班生。\n不接受修讀過【淨零碳規劃管理與碳盤查程序】同學修讀。",
     "name": "淨零碳規劃管理與碳盤查 Net Zero Management and Greenhouse Gas Inventory",
-    "num_limit": "28",
+    "num_limit": "29",
     "reg_num": "-999",
     "teacher": "高正忠、黃文輝",
     "time": "R56-EE129[GF]"

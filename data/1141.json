@@ -1340,7 +1340,7 @@
     "name": "傳染病學 Infectious Disease",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "林邑璁、詹宇鈞、黃祥芬、陳昕白、江東鴻、陳夙容、黃鈴茹、巫炳峰、張雅媛、黃盈綺、阮志翰、莊茜",
+    "teacher": "林邑璁、黃祥芬、陳昕白、江東鴻、陳夙容、黃鈴茹、巫炳峰、張雅媛、阮志翰、莊茜",
     "time": "W3-YD214[YM]"
   },
   "1141_111516": {
@@ -5591,6 +5591,30 @@
     "teacher": "王湘翠",
     "time": "M56-YR509[YM]"
   },
+  "1141_130122": {
+    "code": "MDPA30083",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "130122",
+    "memo": "[English Medium Course]開放大學部選修，上課地點：北榮神經修復科2樓N025會議室",
+    "name": "轉譯研究與學術發表 Translational research and scientific publication",
+    "num_limit": "70",
+    "reg_num": "-999",
+    "teacher": "吳昭慶",
+    "time": "R567-"
+  },
+  "1141_130123": {
+    "code": "MDPA30084",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "130123",
+    "memo": "[English Medium Course]開放大學部選修，上課地點：北榮神經修復科2樓-N025會議室",
+    "name": "神經科學研究 Research of neurological science",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "吳昭慶",
+    "time": "M9ab-"
+  },
   "1141_130200": {
     "code": "MDPH30051",
     "credit": "2.00",
@@ -6296,7 +6320,7 @@
     "name": "中醫藥實驗概論 Experimental Methods for Traditional Chinese Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林東毅、黃心苑、傅淑玲、蔡東湖、藍耿立、龔彥穎、張清貿、邱仁輝、陳建鋒、王致又",
+    "teacher": "林東毅、黃心苑、傅淑玲、蔡東湖、藍耿立、龔彥穎、張清貿、邱仁輝、陳建鋒、王致又、林舜穀、黃義龍",
     "time": "M34-YR102[YM]"
   },
   "1141_130603": {
@@ -7511,18 +7535,6 @@
     "teacher": "林伯彥",
     "time": "T34-YD304[YM]"
   },
-  "1141_131402": {
-    "code": "DEDE30043",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "131402",
-    "memo": "前8周上課",
-    "name": "金屬生醫材料之腐蝕與其控制 Corrosion and Corrosion Control of Metallic Biomaterials",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "黃何雄",
-    "time": "M78-YD415[YM]"
-  },
   "1141_131403": {
     "code": "DEDE30019",
     "credit": "1.00",
@@ -7546,18 +7558,6 @@
     "reg_num": "-999",
     "teacher": "林嘉澍、王敏靜",
     "time": "T34-YT103[YM]"
-  },
-  "1141_131405": {
-    "code": "DEDE30021",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "131405",
-    "memo": "前8週上課",
-    "name": "生醫材料分析(一) Biomaterials Analysis (I)",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "黃何雄",
-    "time": "F56-YD415[YM]"
   },
   "1141_131406": {
     "code": "DEDE30091",
@@ -12868,7 +12868,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "150106",
-    "memo": "非本所在職專班請勿選，全18周上課，上課時間為16:10-19:00，建議專一修。",
+    "memo": "非本所在職專班請勿選，全16周上課，上課時間為16:10-19:00，建議專一修。",
     "name": "應用經濟學 Applied Economics for Manager",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -13748,7 +13748,7 @@
     "name": "跨領域通識課：那些動物教我的事 Cross-Disciplinary GE Course： Things We Learned from Animals",
     "num_limit": "27",
     "reg_num": "-999",
-    "teacher": "李怡萱、郭文瑞、俞震亞、鄭凱元、嚴如玉、林士傑、麥如村、曲在雯、廖文霖、尼大衛、魏雋展",
+    "teacher": "李怡萱、郭文瑞、俞震亞、鄭凱元、嚴如玉、林士傑、麥如村、廖文霖、尼大衛、魏雋展",
     "time": "R78-CS100[GF],R78-YL402[YM]"
   },
   "1141_161054": {
@@ -18930,7 +18930,7 @@
     "id": "515218",
     "memo": "2年級。[奈米組必修]",
     "name": "材料科學與工程導論 Introduction to Materials Science and Engineering",
-    "num_limit": "27",
+    "num_limit": "29",
     "reg_num": "-999",
     "teacher": "半導體系",
     "time": "F234-EE548[GF]"
@@ -26046,7 +26046,7 @@
     "id": "535418",
     "memo": "[English Medium Course]",
     "name": "材料光學 The Optical Properties of Materials",
-    "num_limit": "9999",
+    "num_limit": "51",
     "reg_num": "-999",
     "teacher": "盧廷昌",
     "time": "F789-EO115[GF]"
@@ -29982,7 +29982,7 @@
     "id": "537811",
     "memo": "[English Medium Course]",
     "name": "社會創新與創業 Social Innovation and Entrepreneurship",
-    "num_limit": "9999",
+    "num_limit": "10",
     "reg_num": "-999",
     "teacher": "林士平",
     "time": "R234-A701[GF]"
@@ -30042,7 +30042,7 @@
     "id": "537816",
     "memo": "[English Medium Course]",
     "name": "創意思維與創新管理 Creativity and Innovation Management",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "林士平",
     "time": "R567-A701[GF]"
@@ -38044,7 +38044,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "567000",
-    "memo": "生物科技學系大一新生/本系生、中一中科學班、醫師工程師組、電機系丙組優先，非以上科系學生須等開學後加退選，上限90人。",
+    "memo": "生物科技學系大一新生/本系生、中一中科學班、醫師工程師組、電機系丙組優先，非生科系學生須等開學後加退選，上限90人。",
     "name": "普通生物學(一) General Biology(I)",
     "num_limit": "20",
     "reg_num": "-999",
@@ -40900,7 +40900,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910110",
-    "memo": "全組，重補修課程，上課地點：國防大學理工學院，授課教師：XXX老師",
+    "memo": "調整授課教師為：鄭根發老師。全組，重補修課程，上課地點：國防大學理工學院",
     "name": "普通物理(2) General Physics(2)",
     "num_limit": "9999",
     "reg_num": "-999",

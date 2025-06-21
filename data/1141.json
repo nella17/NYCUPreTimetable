@@ -1760,7 +1760,7 @@
     "name": "成人護理學實習Ⅰ Adult Nursing PracticeⅠ",
     "num_limit": "50",
     "reg_num": "39",
-    "teacher": "黃淑鶴、楊曼華、侯宜菁、陳律言、廖咨詠、梁靜娟、吳碧珠、李雅雯、莊瑞玲、施瓊玉、張嘉琪、周珊如、郭憶文",
+    "teacher": "黃淑鶴、楊曼華、侯宜菁、陳律言、廖咨詠、賴鼎璁、梁靜娟、吳碧珠、李雅雯、莊瑞玲、施瓊玉、張嘉琪、周珊如、郭憶文",
     "time": "M12345678T12345678W12345678-"
   },
   "1141_111805": {
@@ -16878,7 +16878,7 @@
     "id": "514015",
     "memo": "本課程人數上限為30人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "文化與創意設計 Cultural and Creative Design",
-    "num_limit": "15",
+    "num_limit": "30",
     "reg_num": "15",
     "teacher": "郭明浩",
     "time": "M56-HC104[GF]"
@@ -18700,7 +18700,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515164",
-    "memo": "上課時間及教室：T7-EDB03、R56-ED203，每週T8為助教講解課程用；請保留該時段",
+    "memo": "上課時間及教室：T7-EDB06、R56-ED203，每週T8為助教講解課程用；請保留該時段",
     "name": "電磁波 Electromagnetic Wave",
     "num_limit": "9999",
     "reg_num": "7",
@@ -20167,7 +20167,7 @@
     "memo": "有幾周會安排EE527電腦教室上課。開大學部1~4年級。",
     "name": "軟實力的哲學 The philosophy of soft skills",
     "num_limit": "30",
-    "reg_num": "35",
+    "reg_num": "36",
     "teacher": "張瑞永",
     "time": "T34-EE132[GF]"
   },
@@ -21700,9 +21700,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517151",
-    "memo": "VIP跨域學程優先選課，僅開放大學部學生選課(undergraduate only)。",
+    "memo": "VIP跨域學程優先選課，僅開放大學部學生選課(undergraduate only)。欲申請加簽，請填表單：https://forms.gle/Kik2DVEudkJLKqXq6",
     "name": "經營管理-創業與興業家精神 Entrepreneurs and Entrepreneurship",
-    "num_limit": "49",
+    "num_limit": "30",
     "reg_num": "49",
     "teacher": "黃寬丞、黃仕斌、林瑞嘉、王志軒、蕭嬋、林士平、楊志偉",
     "time": "Wabc-MB110[GF]"
@@ -22709,7 +22709,7 @@
     "hours": "3.00",
     "id": "520018",
     "memo": "",
-    "name": "電子電路系統 Electronic Circuit system",
+    "name": "電子電路系統設計 Electronic Circuit system design",
     "num_limit": "70",
     "reg_num": "34",
     "teacher": "陳建至",
@@ -38239,7 +38239,7 @@
     "memo": "限大二以上、不開放在職專班生。\n不接受修讀過【淨零碳規劃管理與碳盤查程序】同學修讀。",
     "name": "淨零碳規劃管理與碳盤查 Net Zero Management and Greenhouse Gas Inventory",
     "num_limit": "29",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "高正忠、黃文輝",
     "time": "R56-EE129[GF]"
   },

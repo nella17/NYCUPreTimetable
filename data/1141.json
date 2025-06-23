@@ -2311,7 +2311,7 @@
     "memo": "暑假開課。",
     "name": "方劑學 Prescription of Chinese Drug ",
     "num_limit": "9999",
-    "reg_num": "84",
+    "reg_num": "85",
     "teacher": "陳日榮、賴尚志",
     "time": "Sc-"
   },
@@ -5692,7 +5692,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "130206",
-    "memo": "初選僅限公衛所碩博士生。(需自備STATA軟體，公衛所同學會再通知軟體安裝時間。)",
+    "memo": "從9/10第二週開始上課，初選僅限公衛所碩博士生。(需自備STATA軟體，公衛所同學會再通知軟體安裝時間。)",
     "name": "STATA資料分析 Data analysis using Stata",
     "num_limit": "15",
     "reg_num": "3",
@@ -18283,7 +18283,7 @@
     "memo": "",
     "name": "複變函數 Complex Variables",
     "num_limit": "70",
-    "reg_num": "71",
+    "reg_num": "72",
     "teacher": "曾煜輝",
     "time": "W34n-EE220[GF]"
   },
@@ -21355,7 +21355,7 @@
     "memo": "跨域學程課程",
     "name": "物理化學(一) Physical Chemistry(I)",
     "num_limit": "60",
-    "reg_num": "61",
+    "reg_num": "62",
     "teacher": "刁維光",
     "time": "T56F56-SB211[GF]"
   },
@@ -22003,7 +22003,7 @@
     "memo": "管院管理基礎課程；管院學生優先選課；上限80人；主開大三工管系、輔開管理學院、管科系、運管系、資財系；工管系大三必修，運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。",
     "name": "生產與作業管理 Production and Operation Management",
     "num_limit": "80",
-    "reg_num": "84",
+    "reg_num": "85",
     "teacher": "王志軒",
     "time": "W234-MB520[GF]"
   },
@@ -38239,7 +38239,7 @@
     "memo": "限大二以上、不開放在職專班生。\n不接受修讀過【淨零碳規劃管理與碳盤查程序】同學修讀。",
     "name": "淨零碳規劃管理與碳盤查 Net Zero Management and Greenhouse Gas Inventory",
     "num_limit": "29",
-    "reg_num": "27",
+    "reg_num": "28",
     "teacher": "高正忠、黃文輝",
     "time": "R56-EE129[GF]"
   },

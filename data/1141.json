@@ -55,7 +55,7 @@
     "memo": "請依醫學系課表上課",
     "name": "麻醉學 Anesthesiology",
     "num_limit": "9999",
-    "reg_num": "149",
+    "reg_num": "148",
     "teacher": "丁乾坤、林祐霆、朱雅淳、曹正明、鄒美勇、何照明、鄒樂起、張光宜、楊舜欽、宋俊松、林素滿、林世斌、王審之、郭怡敏、王馨苡、吳襄齡、鄧惟濃、柯惠瑄、張文貴、劉靖揚",
     "time": "M1234-YT003[YM]"
   },
@@ -67,7 +67,7 @@
     "memo": "請依醫學系課表上課",
     "name": "眼科學 Ophthalmology",
     "num_limit": "9999",
-    "reg_num": "149",
+    "reg_num": "148",
     "teacher": "林佩玉、王安國、柯玉潔、陳克華、蔡傑智、黃德光、范乃文、林泰祺、林伯剛、陳美如、鄭惠禎、許志堅、游偉光、張毓帆",
     "time": "M5678-YT003[YM]"
   },
@@ -79,7 +79,7 @@
     "memo": "請依醫學系課表上課",
     "name": "急診醫學(一) Emergency Medicine(1)",
     "num_limit": "9999",
-    "reg_num": "148",
+    "reg_num": "147",
     "teacher": "李怡姿、楊振昌、侯重光、黃獻皞、王鑑瀛、邱柏齊、顏鴻章、李昱聲、徐德福、陳燕嘉、范渚鑫、葉長青、劉鎮旗、陳春廷、陳正翰、陳盈如、陳俊仁、廖婉如、李毅信、張家瑜、張家銘、鍾孟軒、林佩瑩、王則堯、林進偉、廖柏翔、孟煜翔、康芳瑜",
     "time": "T1234-YT003[YM]"
   },
@@ -91,7 +91,7 @@
     "memo": "請依醫學系課表上課",
     "name": "急診醫學(二) Emergency Medicine(2)",
     "num_limit": "9999",
-    "reg_num": "74",
+    "reg_num": "73",
     "teacher": "侯重光、黃金洲、黃獻皞、徐德福、宋俊松、陳燕嘉、范渚鑫、陳春廷、謝明順、陳正翰、楊惠文、程雅琳、李毅信、彭鈐澤、張家瑜、張家銘、曾嘉瑩、林純如、徐月霜、葉穎澤、林佩瑩、劉秀薇",
     "time": "W1234-YT003[YM]"
   },
@@ -103,7 +103,7 @@
     "memo": "請依醫學系課表上課",
     "name": "急診醫學(二) Emergency Medicine(2)",
     "num_limit": "9999",
-    "reg_num": "73",
+    "reg_num": "74",
     "teacher": "侯重光、黃金洲、黃獻皞、徐德福、范渚鑫、陳春廷、謝明順、陳正翰、巫春蓮、楊惠文、李毅信、張家瑜、張家銘、曾嘉瑩、林純如、徐月霜、曾院美、張靜怡、林進偉、孟煜翔、呂政憲",
     "time": "F1234-YT003[YM]"
   },
@@ -115,7 +115,7 @@
     "memo": "請依醫學系課表上課",
     "name": "老人醫學 Geriatric Medicine",
     "num_limit": "9999",
-    "reg_num": "148",
+    "reg_num": "147",
     "teacher": "陳亮恭、彭莉甯、林明憲、陳亮宇、黃安君、曾崧華、黃仲禹、鄭丁靚、嚴可瀚、梁志光",
     "time": "T56-YT003[YM]"
   },
@@ -127,7 +127,7 @@
     "memo": "請依醫學系課表上課",
     "name": "職前臨床技能訓練 Clinical Skill Training",
     "num_limit": "9999",
-    "reg_num": "148",
+    "reg_num": "147",
     "teacher": "林邑璁、楊令瑀、梁仁峯、江東鴻、賴建志、周睿信、關艾琛、陳素真、楊雀戀、趙存婉、陳三奇、陳孟清、陳瑋儀、陳佩瑩、古玉貞、程子珩、廖文香、林思妤、陳玟均、廖儀依、陳宥任、吳佩珊、吳政億、吳啟榮、陳範宇、吳紋綺、陳伯亮、王則堯、陳美珠、林易鈴、余欣儒、洪佩慈、江長和、邱哲琳、徐靖姍、蔡佩芬、陳佳聘、藍文莉、張惠娟、阮怡菱",
     "time": "R1234-YT003[YM]"
   },
@@ -151,7 +151,7 @@
     "memo": "依醫學系課表上課。本課程為醫學系課程，不開放外系選修。",
     "name": "臨床解剖學 Clinical Anatomy",
     "num_limit": "9999",
-    "reg_num": "152",
+    "reg_num": "151",
     "teacher": "傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程、林坤陽、彭淑婷、吳思賢",
     "time": "W56-YT003[YM]"
   },
@@ -2923,7 +2923,7 @@
     "memo": "(1)物輔系同學優先\n(2)凡期中考、期末考請假者，除公假、喪假、急重病或臨時發生緊急、重大不可抗力之變故外，其補考後之成績應打9折",
     "name": "物理治療導論 Introduction to Physical Therapy",
     "num_limit": "45",
-    "reg_num": "16",
+    "reg_num": "33",
     "teacher": "陳喬男、王子娟、王瑞瑤、楊雅如、李淑貞、李雪楨、蔡美文、羅鴻基、林吟亮、黃崇舜",
     "time": "T3-YB601[YM]"
   },
@@ -2935,7 +2935,7 @@
     "memo": "(1)物輔系同學優先\n(2)凡期中考、期末考請假者，除公假、喪假、急重病或臨時發生緊急、重大不可抗力之變故外，其補考後之成績應打9折",
     "name": "輔助科技導論 Introduction to Assistive Technology ",
     "num_limit": "50",
-    "reg_num": "15",
+    "reg_num": "32",
     "teacher": "李淑貞、徐麒晏、余虹、蘇信昌、陳英聰",
     "time": "T4-YB601[YM]"
   },
@@ -2947,7 +2947,7 @@
     "memo": "導師時間",
     "name": "人文與生活(一) Humanities and Life (I)",
     "num_limit": "50",
-    "reg_num": "11",
+    "reg_num": "28",
     "teacher": "施怡芬、羅鴻基、陳博因",
     "time": "W34-"
   },
@@ -3487,7 +3487,7 @@
     "memo": "",
     "name": "物理治療職涯規劃 Physical Therapy Career Planning",
     "num_limit": "50",
-    "reg_num": "15",
+    "reg_num": "32",
     "teacher": "王子娟、周立偉、陳喬男、李雪楨、陳子敬、邵芙昕、阮彥鈞",
     "time": "W2-YB601[YM]"
   },
@@ -4567,7 +4567,7 @@
     "memo": "請依醫學系課表上課",
     "name": "實驗外科 Practice of Surgery",
     "num_limit": "9999",
-    "reg_num": "148",
+    "reg_num": "147",
     "teacher": "",
     "time": ""
   },
@@ -4615,7 +4615,7 @@
     "memo": "上課地點為陽明校區，開放陽明校區大學部學生選課，並認列為領域課程(通識)。醫學系可從「醫學人文與倫理領域-醫學人文類」與「領域課程」中擇一認列。",
     "name": "性別與醫學 Gender and Medicine",
     "num_limit": "50",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "任一安",
     "time": "F12-YT206[YM]"
   },
@@ -4664,7 +4664,7 @@
     "name": "從A到A+品質改善的理論與實踐 The Theory and Practice for Good to Great",
     "num_limit": "40",
     "reg_num": "4",
-    "teacher": "楊令瑀、黃心苑、凌憬峰、蘇信寧、黃志賢、林麗華、林秉熙",
+    "teacher": "楊令瑀、黃心苑、凌憬峰、李怡萱、蘇信寧、黃志賢、林麗華、林秉熙",
     "time": "T56-CS100[GF],T56-YM225[YM]"
   },
   "1141_113808": {
@@ -5934,7 +5934,7 @@
     "id": "130226",
     "memo": "公衛所碩博士生必修",
     "name": "公共衛生大師專題 Master Panel in Public Health",
-    "num_limit": "9999",
+    "num_limit": "36",
     "reg_num": "2",
     "teacher": "楊秀儀、黃嵩立、陳娟瑜、郭炤裕、蒲正筠、陳瓊梅、林雅萍、梁立霖、黃宣穎、陳信任、莊宜芳、潘文驥、劉家軒、張鴻仁、梁賡義",
     "time": "R56-YT305[YM]"
@@ -20337,7 +20337,7 @@
     "num_limit": "55",
     "reg_num": "34",
     "teacher": "林其穎",
-    "time": "T56R2-EB415[GF]"
+    "time": "Tn56-EB415[GF]"
   },
   "1141_516216": {
     "code": "ENCV20016",
@@ -21763,7 +21763,7 @@
     "memo": "",
     "name": "企業實習 Internship",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "30",
     "teacher": "水敬心、陳彥佑",
     "time": ""
   },
@@ -23444,7 +23444,7 @@
     "name": "傳播媒體，品牌與行銷 Comm Media, Branding, and Marketing",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "待聘",
+    "teacher": "李秀珠",
     "time": "W34n-HB216[GF]"
   },
   "1141_534306": {
@@ -26622,7 +26622,7 @@
     "id": "535703",
     "memo": "",
     "name": "運動數據處理與分析 Sports Data Processing and Analysis",
-    "num_limit": "100",
+    "num_limit": "60",
     "reg_num": "83",
     "teacher": "易志偉",
     "time": "R56-EC022[GF]"
@@ -28996,7 +28996,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537013",
-    "memo": "需先修過組織行為。",
+    "memo": "需先修過組織行為或人力資源管理。",
     "name": "領導與職場健康 Leadership and Occupational Health",
     "num_limit": "15",
     "reg_num": "0",
@@ -29445,7 +29445,7 @@
     "num_limit": "30",
     "reg_num": "19",
     "teacher": "王志軒",
-    "time": "T567-MB414[GF]"
+    "time": "W567-MB415[GF]"
   },
   "1141_537404": {
     "code": "MGEM30053",
@@ -30343,7 +30343,7 @@
     "memo": "非科法所學生限跨域學程同學選修，僅開放冤獄平反協會實習。與指導業師約定上課日期、時間",
     "name": "法務法遵實習(一) Legal & Compliance Internship (Ⅰ)",
     "num_limit": "9999",
-    "reg_num": "3",
+    "reg_num": "8",
     "teacher": "金孟華、林志潔",
     "time": ""
   },
@@ -38238,7 +38238,7 @@
     "id": "569007",
     "memo": "限大二以上、不開放在職專班生。\n不接受修讀過【淨零碳規劃管理與碳盤查程序】同學修讀。",
     "name": "淨零碳規劃管理與碳盤查 Net Zero Management and Greenhouse Gas Inventory",
-    "num_limit": "29",
+    "num_limit": "28",
     "reg_num": "28",
     "teacher": "高正忠、黃文輝",
     "time": "R56-EE129[GF]"

@@ -5188,7 +5188,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "114400",
-    "memo": "",
+    "memo": "此課程為跨教室遠距課程(教師實體授課、學生實體上課)",
     "name": "微積分 Calculus",
     "num_limit": "9999",
     "reg_num": "6",
@@ -18295,7 +18295,7 @@
     "memo": "",
     "name": "複變函數 Complex Variables",
     "num_limit": "70",
-    "reg_num": "72",
+    "reg_num": "73",
     "teacher": "曾煜輝",
     "time": "W34n-EE220[GF]"
   },
@@ -21331,7 +21331,7 @@
     "memo": "[English Medium Course] 跨域學程課程",
     "name": "有機化學(一) Organic Chemistry (Ｉ)",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "61",
     "teacher": "蒙國光",
     "time": "M34R23-SC159[GF]"
   },
@@ -21367,7 +21367,7 @@
     "memo": "跨域學程課程",
     "name": "物理化學(一) Physical Chemistry(I)",
     "num_limit": "60",
-    "reg_num": "62",
+    "reg_num": "63",
     "teacher": "刁維光",
     "time": "T56F56-SB211[GF]"
   },
@@ -21391,7 +21391,7 @@
     "memo": "",
     "name": "無機化學(一) Inorganic Chemistry (1)",
     "num_limit": "60",
-    "reg_num": "53",
+    "reg_num": "54",
     "teacher": "洪崧富",
     "time": "T34R4-SB211[GF]"
   },
@@ -22099,7 +22099,7 @@
     "memo": "大一必修；限資財系學生學號尾數1,3,5,7,9修課(學號尾數0,2,4,6,8下學期修課)。本課程不開放同學自行選課，資財系大二以上同學若有修課需求，請洽資財系辦公室。",
     "name": "高齡財務規劃與風險 Elderly Financial Planning and Risk",
     "num_limit": "0",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "李漢星",
     "time": "W56-M-b09[GF]"
   },
@@ -23263,7 +23263,7 @@
     "memo": "專選，開放三四年級選修",
     "name": "理論專題研究（文類課：其他） Topical Studies of Theory (Genre: Others)",
     "num_limit": "20",
-    "reg_num": "22",
+    "reg_num": "28",
     "teacher": "李家沂",
     "time": "W234-F206[GF]"
   },
@@ -26767,7 +26767,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "42",
+    "reg_num": "41",
     "teacher": "黃柏蒼",
     "time": "W567-AB101[GF]"
   },

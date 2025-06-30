@@ -6191,18 +6191,6 @@
     "teacher": "陳威儀、郭津岑、張崇德",
     "time": "T56-CS100[GF],T56-YT305[YM]"
   },
-  "1132_113000": {
-    "code": "MDPY30042",
-    "credit": "3.00",
-    "hours": "4.00",
-    "id": "113000",
-    "memo": "需修畢：生物化學",
-    "name": "離子通道分子物理學 Molecular Biophysics of Ion Channels",
-    "num_limit": "15",
-    "reg_num": "1",
-    "teacher": "陳政育、黃自強、葉翰宜、季康揚",
-    "time": "TabRab-YR104[YM]"
-  },
   "1132_113001": {
     "code": "BEBL10015",
     "credit": "4.00",
@@ -8959,7 +8947,7 @@
     "memo": "[English Medium Course]The course will be taught intensively for two weeks from July 1 - 11, 2025, and is limited to those who have registered in advance.\n本課程授課時間為2025年7月1-11日兩週密集課程，限有事先報名登記者選修，大學部限修五人。",
     "name": "台灣傳統中醫及公共衛生實務 Introduction of Traditional Chinese Medicine and Public Health System in Taiwan",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "彭溫雅、簡莉盈、陳方佩、陳娟瑜、林東毅、莊宜芳、邱淑媞、連加恩、劉汗曦",
     "time": "S1-YS405[YM]"
   },

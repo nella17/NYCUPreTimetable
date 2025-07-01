@@ -1963,7 +1963,7 @@
     "memo": "",
     "name": "手術全期護理學實習 Perioperative Nursing Practicum",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "戴宏達",
     "time": "MabTab-YN416[YM]"
   },
@@ -4615,7 +4615,7 @@
     "memo": "醫學人文與社會領域必修，週二12前八週上課，週三56後八週上課，課程教室將另行通知，限醫學系四年級。本課開放智慧健康照護跨域學程學生選修，欲選修者請務必聯繫醫學人文暨教育學科助教，以協助分班。",
     "name": "醫療與社會人文 Medical Humanity and Social Science",
     "num_limit": "146",
-    "reg_num": "137",
+    "reg_num": "138",
     "teacher": "周穎政、郭文華、喬芷、梁立霖、林文旭、藍凡耘、任一安、楊南屏、顏永豐、王宗曦、李雅玲、蔡淑鈴、葉采衢、簡詩穎、陳秀丹",
     "time": "T12W56-"
   },
@@ -8491,7 +8491,7 @@
     "memo": "1.非同步預錄課程上傳至E3系統(收播時間:9/1-10/31) \n2.此課程將納入教育部「精準健康產業跨領域人才培育計畫」精準醫學領域推動中心學校計畫，亦將規劃錄製線上課程，作為此中心及相關夥伴學校之培訓課程，提供陽明交大在學學生選修 。\n3.實際上課時數以影片內容為主",
     "name": "高齡精準醫學：邁向創新與健康的人生 Precision Medicine in Aging Society: Innovation and Healthy Life",
     "num_limit": "45",
-    "reg_num": "14",
+    "reg_num": "15",
     "teacher": "黃世宗",
     "time": ""
   },
@@ -8503,7 +8503,7 @@
     "memo": "1.非同步預錄課程上傳至E3系統(收播時間:9/1-10/31) \n2.此課程將納入教育部「精準健康產業跨領域人才培育計畫」精準醫學領域推動中心學校計畫，亦將規劃錄製線上課程，作為此中心及相關夥伴學校之培訓課程，提供陽明交大在學學生選修 。\n3.實際上課時數以影片內容為主",
     "name": "老年醫學臨床概論 Clinical Introduction of Geriatric Medicine",
     "num_limit": "45",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "姜紹青",
     "time": ""
   },
@@ -9272,7 +9272,7 @@
     "name": "生物統計學 Biostatistics",
     "num_limit": "40",
     "reg_num": "0",
-    "teacher": "施惠婷、羅鴻基、黃志忠",
+    "teacher": "施惠婷",
     "time": "T234-YB101[YM]"
   },
   "1141_132404": {
@@ -9525,7 +9525,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "施怡芬、王子娟、林吟亮、黃崇舜",
-    "time": ""
+    "time": "Sabcd-YB636-1[YM"
   },
   "1141_132427": {
     "code": "BEPT30101",
@@ -9537,7 +9537,7 @@
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "施怡芬、王子娟、林吟亮、黃崇舜",
-    "time": ""
+    "time": "Uabcd-YB636-1[YM"
   },
   "1141_132428": {
     "code": "BEPT10007",
@@ -17515,7 +17515,7 @@
     "memo": "專選",
     "name": "教室逃脫：以文學、藝術和互動媒體設計遊戲 Escape the Classroom: Designing Games with Literature, Art, and Interactive Media",
     "num_limit": "22",
-    "reg_num": "22",
+    "reg_num": "23",
     "teacher": "吳哲硯",
     "time": "R234-HC401[GF]"
   },
@@ -21451,7 +21451,7 @@
     "memo": "[English Medium Course] 跨域學程課程",
     "name": "高分子化學 (一) Polymer Chemistry (I)",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "張佳智",
     "time": "T89R3-SB203[GF]"
   },
@@ -35167,7 +35167,7 @@
     "memo": "第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課;混合遠距課程",
     "name": "泰文(一) Thai I",
     "num_limit": "35",
-    "reg_num": "10",
+    "reg_num": "11",
     "teacher": "劉小慧",
     "time": "F34-EE106[GF]"
   },

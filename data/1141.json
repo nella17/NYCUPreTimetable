@@ -8491,7 +8491,7 @@
     "memo": "1.非同步預錄課程上傳至E3系統(收播時間:9/1-10/31) \n2.此課程將納入教育部「精準健康產業跨領域人才培育計畫」精準醫學領域推動中心學校計畫，亦將規劃錄製線上課程，作為此中心及相關夥伴學校之培訓課程，提供陽明交大在學學生選修 。\n3.實際上課時數以影片內容為主",
     "name": "高齡精準醫學：邁向創新與健康的人生 Precision Medicine in Aging Society: Innovation and Healthy Life",
     "num_limit": "45",
-    "reg_num": "15",
+    "reg_num": "16",
     "teacher": "黃世宗",
     "time": ""
   },
@@ -8503,7 +8503,7 @@
     "memo": "1.非同步預錄課程上傳至E3系統(收播時間:9/1-10/31) \n2.此課程將納入教育部「精準健康產業跨領域人才培育計畫」精準醫學領域推動中心學校計畫，亦將規劃錄製線上課程，作為此中心及相關夥伴學校之培訓課程，提供陽明交大在學學生選修 。\n3.實際上課時數以影片內容為主",
     "name": "老年醫學臨床概論 Clinical Introduction of Geriatric Medicine",
     "num_limit": "45",
-    "reg_num": "26",
+    "reg_num": "27",
     "teacher": "姜紹青",
     "time": ""
   },
@@ -8515,7 +8515,7 @@
     "memo": "此課程在114暑期開課,上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "精準健康之精準照護趨勢與應用 Precision Health Precision Care Trends and Applications",
     "num_limit": "45",
-    "reg_num": "7",
+    "reg_num": "9",
     "teacher": "林滿玉",
     "time": ""
   },
@@ -8527,7 +8527,7 @@
     "memo": "此課程在114暑期開課,上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "職涯分享-美國生技藥廠製程與醫材法規 Career journey in US Biotech CMC and Medical Devices Regulations",
     "num_limit": "45",
-    "reg_num": "3",
+    "reg_num": "4",
     "teacher": "姜紹青",
     "time": ""
   },
@@ -8539,7 +8539,7 @@
     "memo": "此課程在114暑期開課,上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "精準醫藥發展法規與實務 Regulatory Practices for the Development of Precision Medicine",
     "num_limit": "45",
-    "reg_num": "2",
+    "reg_num": "4",
     "teacher": "林滿玉",
     "time": ""
   },
@@ -8551,7 +8551,7 @@
     "memo": "此課程在114暑期開課,上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "銀髮友善食品開發 Silver-friendly food development",
     "num_limit": "45",
-    "reg_num": "5",
+    "reg_num": "7",
     "teacher": "林怡君",
     "time": ""
   },
@@ -8563,7 +8563,7 @@
     "memo": "此課程在114暑期開課,上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "高齡整合照護與科技應用 Integrated Elderly Care and the Application of Technolog",
     "num_limit": "45",
-    "reg_num": "10",
+    "reg_num": "11",
     "teacher": "黃世宗",
     "time": ""
   },
@@ -18753,7 +18753,7 @@
     "num_limit": "70",
     "reg_num": "61",
     "teacher": "李義明",
-    "time": "M78R34-"
+    "time": "M78-,R34-ED220[GF]"
   },
   "1141_515203": {
     "code": "EEDM10025",
@@ -19795,7 +19795,7 @@
     "memo": "由材料系主開，材料系學生應優先選擇本課程。",
     "name": "工程數學（一） Engineering Mathematics(Ⅰ)",
     "num_limit": "60",
-    "reg_num": "57",
+    "reg_num": "56",
     "teacher": "徐雍鎣",
     "time": "M4T34-EF201[GF]"
   },
@@ -20575,7 +20575,7 @@
     "memo": "1.限材料系、半導體工程學系(奈米科學組)選修 \n2.外系及外校請於開學後「加退選期間」以書面加選",
     "name": "材料熱力學(一) Thermodynamics of Materials(I)",
     "num_limit": "60",
-    "reg_num": "61",
+    "reg_num": "60",
     "teacher": "朱英豪",
     "time": "M3R34-EF201[GF]"
   },
@@ -20587,7 +20587,7 @@
     "memo": "1.第一~第三階段限材料系、半導體工程學系(奈米科學組)加選\n2.開學後才開放外系或外校加選\n[English Medium Course]",
     "name": "物理冶金(一) Physical Metallurgy (I)",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "王誠佑",
     "time": "R2F34-EF201[GF]"
   },
@@ -20599,7 +20599,7 @@
     "memo": "1.限材料系選修 2.外系限以書面加選，需繳交材料費(材料跨域學程學生不需繳交材料費，但仍需以書面加選)",
     "name": "材料基礎實驗 (一) Elementary Materials Labs.(I)",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "鍾采甫",
     "time": "Tabc-"
   },
@@ -20647,7 +20647,7 @@
     "memo": "1.限材料系選修\n2.上課教室：資訊中心電腦教室2",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "60",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "鄒年棣",
     "time": "T6R78-CS-PC2[GF]"
   },
@@ -23120,8 +23120,8 @@
     "name": "諮商與心理治療理論專題研究 Seminar in Counseling and Psychotherapy Theory",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "盧怡任",
-    "time": "R234-HA107[GF]"
+    "teacher": "許鶯珠",
+    "time": "W789-HA217[GF]"
   },
   "1141_534020": {
     "code": "HSIE30089",

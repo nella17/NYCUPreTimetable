@@ -4340,7 +4340,7 @@
     "name": "生理學實驗 Physiology Lab.",
     "num_limit": "200",
     "reg_num": "175",
-    "teacher": "林惠菁、阮琪昌、李怡萱、簡千栩",
+    "teacher": "林惠菁、阮琪昌、李怡萱、簡千栩、巫俊杉",
     "time": "T5678R5678-YED214[YM]"
   },
   "1141_113003": {
@@ -6151,7 +6151,7 @@
     "memo": "限醫學三(C組)及解剖所學生修習。",
     "name": "基礎人體結構學 Fundamental Human Anatomical Structure",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "11",
     "teacher": "傅毓秀、李學德、蔡佩君、郭曉縈、侯珮珊、蔣偉程",
     "time": "T9-"
   },
@@ -8515,7 +8515,7 @@
     "memo": "此課程在114暑期開課,上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "精準健康之精準照護趨勢與應用 Precision Health Precision Care Trends and Applications",
     "num_limit": "45",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "林滿玉",
     "time": ""
   },
@@ -9248,7 +9248,7 @@
     "name": "研究方法學 Research Methodology",
     "num_limit": "40",
     "reg_num": "1",
-    "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、楊雅如、林明薇、周立偉、陳喬男、李雪楨、蔡美文、游忠煌、范佩貞、羅鴻基、黃崇舜、施惠婷",
+    "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、楊雅如、林明薇、周立偉、陳喬男、李雪楨、蔡美文、游忠煌、范佩貞、羅鴻基、黃崇舜、施惠婷、蔡立棠",
     "time": "W234-YB102[YM]"
   },
   "1141_132401": {
@@ -14611,7 +14611,7 @@
     "memo": "限管理學院各專班",
     "name": "管理經濟學 Managerial Economics",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "胡均立",
     "time": "Mabc-TA506[BM]"
   },
@@ -16160,7 +16160,7 @@
     "name": "再生醫學與細胞治療 Regenerative Medicine and Cell Therapy",
     "num_limit": "30",
     "reg_num": "7",
-    "teacher": "盧懷恩",
+    "teacher": "盧懷恩、吉田信介",
     "time": "W6-BI311[BA]"
   },
   "1141_430033": {
@@ -16372,7 +16372,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "430200",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "高等分子醫學 Advanced Molecular Medicine",
     "num_limit": "9999",
     "reg_num": "6",
@@ -20217,7 +20217,7 @@
     "num_limit": "105",
     "reg_num": "0",
     "teacher": "土木系",
-    "time": "T78-EB117[GF]"
+    "time": "T56-EB117[GF]"
   },
   "1141_516203": {
     "code": "ENCV10029",
@@ -28965,7 +28965,7 @@
     "num_limit": "40",
     "reg_num": "40",
     "teacher": "郭國泰",
-    "time": "W567-M104[GF]"
+    "time": "W567-M205[GF]"
   },
   "1141_537011": {
     "code": "MGMS30084",
@@ -30415,7 +30415,7 @@
     "memo": "1前瞻所甲組專業選修、乙組專業核心課程(適用110~112學年度入學)；甲組專業核心課程(適用113-114學年度入學)12.融合台積電新創中心課程資源現場實習\n3.修過積體電路技術(一)&(二)將可以抵免台灣半導體研究中心(TSRI)之「SM01半導體製程技術訓練班」之基礎課程",
     "name": "積體電路技術（一） IC technology (1)",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "李耀仁",
     "time": "R567-A305[GF]"
   },
@@ -30427,7 +30427,7 @@
     "memo": "論文研討課程應加總通過2學期，但論文研討不計入應修學分數24學分。",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "李耀仁、梁耕僑、賴朝松、林柏宏、曹逸凡",
     "time": "T56-A305[GF]"
   },
@@ -39370,18 +39370,6 @@
     "reg_num": "3",
     "teacher": "彭其瀚、黃仁竑、連紹宇、謝君偉、郭志義、許志仲、陳建志、魏澤人、林勻蔚、馬清文",
     "time": "F567-CM218[GR]"
-  },
-  "1141_639010": {
-    "code": "AICA30027",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "639010",
-    "memo": "[English Medium Course]",
-    "name": "物聯網核心技術 Core Technologies of the Internet of Things",
-    "num_limit": "40",
-    "reg_num": "1",
-    "teacher": "黃仁竑",
-    "time": "T567-CM212[GR]"
   },
   "1141_639011": {
     "code": "AICA30024",

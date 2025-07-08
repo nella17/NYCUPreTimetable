@@ -4231,7 +4231,7 @@
     "memo": "限中醫系二年級必修生修習。",
     "name": "大體解剖學實驗 Gross Anatomy Laboratory",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "傅毓秀、鄭瓊娟、李學德、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程、林坤陽",
     "time": "W567-YEC109-2[Y"
   },
@@ -4255,7 +4255,7 @@
     "memo": "醫二A,   醫二B,  醫二C, 醫技二, 藥學二, 中醫二合班上課",
     "name": "生物化學 Biochemistry",
     "num_limit": "9999",
-    "reg_num": "231",
+    "reg_num": "230",
     "teacher": "黃介嶸、陳美瑜、鄭子豪、許翺麟、王琬菁、姜為中",
     "time": "R56F34-YX216[YM]"
   },
@@ -4279,7 +4279,7 @@
     "memo": "醫技二, 中醫二",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "61",
+    "reg_num": "60",
     "teacher": "游麗如、陳美瑜、鄭子豪、郭津岑、許翺麟",
     "time": "T5678-YEC309[YM]"
   },
@@ -4759,7 +4759,7 @@
     "memo": "",
     "name": "心靈成長 Spiritual growth (mentor time)",
     "num_limit": "9999",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "林東毅、黃怡超、張清貿",
     "time": "Tn-YK436[YM]"
   },
@@ -4831,7 +4831,7 @@
     "memo": "",
     "name": "中醫藥物學(一) Chinese Medicinal Pharmacology (1)",
     "num_limit": "9999",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "蔡東湖、彭溫雅、薛敦品",
     "time": "T234-YK912[YM]"
   },
@@ -4855,7 +4855,7 @@
     "memo": "",
     "name": "醫學新知 New medical knowledge",
     "num_limit": "30",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "林滿玉、黃琤、林東毅、吳彥谷、孫仲銘、蔡明翰、王鼎涵、廖咨詠、邱仁輝、黃聰龍、王致又、簡采汝、林舜穀",
     "time": "W34-YK912[YM]"
   },
@@ -4867,7 +4867,7 @@
     "memo": "",
     "name": "台東偏鄉中醫義診及社區服務學習─專業服務學習 Volunteer service with Traditional Chinese Medicine in Taitung-Professional Service Learning",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "許中華",
     "time": "MnFn-YK436[YM],MnFn-YK533[YM]"
   },
@@ -4891,7 +4891,7 @@
     "memo": "",
     "name": "中醫環境醫學 Chinese Medicine-Environmental Medicine",
     "num_limit": "30",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "洪裕強",
     "time": "F78-YK912[YM]"
   },
@@ -6043,7 +6043,7 @@
     "memo": "限醫學三、牙醫二、中醫二及解剖所(解剖組)之必修生修習。",
     "name": "大體解剖學 Gross Anatomy",
     "num_limit": "9999",
-    "reg_num": "203",
+    "reg_num": "202",
     "teacher": "傅毓秀、鄭瓊娟、李學德、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程、林坤陽",
     "time": "M1234-YX216[YM]"
   },
@@ -6151,7 +6151,7 @@
     "memo": "限醫學三(C組)及解剖所學生修習。",
     "name": "基礎人體結構學 Fundamental Human Anatomical Structure",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "23",
     "teacher": "傅毓秀、李學德、蔡佩君、郭曉縈、侯珮珊、蔣偉程",
     "time": "T9-"
   },
@@ -13615,7 +13615,7 @@
     "memo": "1.限未修過「現代國際經濟議題(永久課號：GECE00322)」同學選修。2.依課務組選課期程逐階調整課程限修人數。",
     "name": "現代國際經濟議題 The Modern International Economic Topics",
     "num_limit": "45",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "曾憲政",
     "time": "M78-YB100[YM]"
   },
@@ -13675,7 +13675,7 @@
     "memo": "依課務組選課期程逐階調整課程限修人數。",
     "name": "科學與哲學跨領域研究：分子生物學的哲學 Multidisciplinary Research in Science and Philosophy: Philosophy of Molecular Biology",
     "num_limit": "40",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "蔡有光、鄭凱元",
     "time": "R12-YT202[YM]"
   },
@@ -15211,7 +15211,7 @@
     "memo": "本課程需經過徵選，不開放學生加退選",
     "name": "東南亞華人社會與文化 Culture and Society of Southeastern Asia Chinese",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "柯朝欽",
     "time": ""
   },
@@ -17011,7 +17011,7 @@
     "memo": "每學期開課，需通過檢定才可修習(前一學期第5周前提出:請於114/10/10前提出申請並告知檢定科目;請mail到xjfu@nycu.edu.tw)，修習音樂個別指導課程者收取音樂個別指導費。 累進修習規定請參閱實施要點。 109跨域學程器樂修課檢定考試規定如下，目前樂器別限鋼琴及小提琴。 檢定當天 1. 書面資料包含 (1)音樂相關背景，例如：學習歷程、師承。 (2)學過的曲目。 2. 鋼琴： (1) 一首巴赫 (J. S. Bach) 作品/樂章，或一首練習曲。 (2) 兩首對比性樂曲或樂章。 3. 小提琴: (1) 巴赫 (J. S. Bach)：一個樂章無伴奏奏鳴曲或組曲。 (2) 一首自選曲 (曲長需5分鐘以上)。 原則上，4月進行檢定，詳細時間將另行通知。",
     "name": "器樂進階演奏（一） Advanced Instrumental Performance I",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "許佳穎",
     "time": ""
   },
@@ -17023,7 +17023,7 @@
     "memo": "每學期開課，需通過檢定才可修習(前一學期第5周前提出:請於114/10/10前提出申請並告知檢定科目;請mail到xjfu@nycu.edu.tw)，修習音樂個別指導課程者收取音樂個別指導費。 累進修習規定請參閱實施要點。 109跨域學程器樂修課檢定考試規定如下，目前樂器別限鋼琴及小提琴。 檢定當天 1. 書面資料包含 (1)音樂相關背景，例如：學習歷程、師承。 (2)學過的曲目。 2. 鋼琴： (1) 一首巴赫 (J. S. Bach) 作品/樂章，或一首練習曲。 (2) 兩首對比性樂曲或樂章。 3. 小提琴: (1) 巴赫 (J. S. Bach)：一個樂章無伴奏奏鳴曲或組曲。 (2) 一首自選曲 (曲長需5分鐘以上)。 原則上，4月進行檢定，詳細時間將另行通知。",
     "name": "器樂進階演奏（二） Advanced Instrumental Performance II",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "許佳穎",
     "time": ""
   },
@@ -21018,7 +21018,7 @@
     "id": "516616",
     "memo": "",
     "name": "計算物理 Computational Physics",
-    "num_limit": "9999",
+    "num_limit": "25",
     "reg_num": "66",
     "teacher": "鄭舜仁",
     "time": "W789-SC160[GF]"
@@ -21715,7 +21715,7 @@
     "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限20人，得請授課教師簽准後可放寬至25人；若有演習課安排於9a；管理基礎學分學程課程。英文授課。[English Medium Course]",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "20",
-    "reg_num": "22",
+    "reg_num": "23",
     "teacher": "水敬心",
     "time": "T234-A316[GF]"
   },
@@ -37123,7 +37123,7 @@
     "memo": "上課地點：陽明校區活動中心韻律教室。\n第一階段開放選課系級：護理三、中醫二。\n第二階段後開放選修。",
     "name": "動力伸展與紓壓 Power Extension and Relax",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "藍于青",
     "time": "R34-PhE[YM]"
   },
@@ -37471,7 +37471,7 @@
     "memo": "(限管科系)",
     "name": "微積分乙(一) Calculus B (I)",
     "num_limit": "60",
-    "reg_num": "12",
+    "reg_num": "13",
     "teacher": "洪慧念",
     "time": "T34F56-SC106[GF]"
   },
@@ -44164,7 +44164,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910382",
-    "memo": "資工組，上課地點：國防大學理工學院；AI跨域學程學生若欲修課可先洽詢系統工程學程辦公室。",
+    "memo": "調整上課時間為Tabc。資工組，上課地點：國防大學理工學院；AI跨域學程學生若欲修課可先洽詢系統工程學程辦公室。",
     "name": "資訊安全 Introduction to Information Security",
     "num_limit": "9999",
     "reg_num": "0",

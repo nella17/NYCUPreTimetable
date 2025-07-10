@@ -2851,7 +2851,7 @@
     "memo": "",
     "name": "大四導師時間 Tutor time",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "駱俊良、劉承揚、劉大中",
     "time": "Uab-"
   },
@@ -9595,7 +9595,7 @@
     "memo": "碩士班必修[English Medium Course]",
     "name": "專題討論(乙組) Seminar",
     "num_limit": "9999",
-    "reg_num": "3",
+    "reg_num": "4",
     "teacher": "張御展、詹明賢",
     "time": "F56-YT206[YM]"
   },
@@ -9643,7 +9643,7 @@
     "memo": "",
     "name": "放射性藥物與生醫材料特論 Advanced Topics in Radiopharmaceuticals and Biomaterials",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "詹明賢、陳傳霖、吳駿一",
     "time": "R56-YB458[YM]"
   },
@@ -13843,7 +13843,7 @@
     "memo": "視訊同步遠距課程 (陽明校區：YT305；交大校區：A302)；碩博士修課連結:https://forms.gle/2CpWJ2xDzvoC5cx98",
     "name": "食品安全與生活 Food Safety and Life",
     "num_limit": "22",
-    "reg_num": "22",
+    "reg_num": "23",
     "teacher": "陳美蓮、陳鋕雄",
     "time": "R34-A302[GF],R34-YT305[YM]"
   },
@@ -19771,7 +19771,7 @@
     "memo": "[English Medium Course]\n機械系主開，英文授課，機械系學生應優先選擇本課程。",
     "name": "工程數學（一） Engineering Mathematics(Ⅰ)",
     "num_limit": "60",
-    "reg_num": "82",
+    "reg_num": "83",
     "teacher": "張瑞永",
     "time": "T2W34-EE106[GF]"
   },
@@ -24931,7 +24931,7 @@
     "memo": "",
     "name": "電子專題研討(固態組) Seminar on Electronics-Solid State Electronics",
     "num_limit": "120",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "陳冠能、吳添立",
     "time": "T56-EDB26[GF]"
   },
@@ -24991,7 +24991,7 @@
     "memo": "",
     "name": "高功率半導體元件物理 Power Semiconductor Device Physics",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "崔秉鉞",
     "time": "T78R2-ED103[GF]"
   },
@@ -25039,7 +25039,7 @@
     "memo": "",
     "name": "固態物理 Solid State Physics",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "顏順通",
     "time": "F678-ED220[GF]"
   },
@@ -25159,7 +25159,7 @@
     "memo": "",
     "name": "氧化物電子 Oxide Electronics",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "侯拓宏",
     "time": "Wn56-ED101[GF]"
   },
@@ -26755,7 +26755,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -38854,18 +38854,6 @@
     "reg_num": "17",
     "teacher": "劉奕蘭",
     "time": "M56-HA219[GF]"
-  },
-  "1141_599006": {
-    "code": "GETE10015",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "599006",
-    "memo": "本課程限106學年度(含)以後進入教育學程學生一定要修讀課程，如選錯，恐無法承認該學分，請同學特別留意!",
-    "name": "生涯規劃暨職業教育與訓練 Career Planning, Vocational Education and Training",
-    "num_limit": "9999",
-    "reg_num": "7",
-    "teacher": "盧怡任",
-    "time": "T78-HA216[GF]"
   },
   "1141_599007": {
     "code": "GETE10019",

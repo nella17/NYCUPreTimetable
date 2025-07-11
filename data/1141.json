@@ -5538,7 +5538,7 @@
     "id": "130113",
     "memo": "",
     "name": "職涯引水人—醫藥產業的航路 Career Pilot: Navigating the Pharmaceutical Industry",
-    "num_limit": "20",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "駱雨利",
     "time": "F78-YR104[YM]"
@@ -6151,7 +6151,7 @@
     "memo": "限醫學三(C組)及解剖所學生修習。",
     "name": "基礎人體結構學 Fundamental Human Anatomical Structure",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "24",
     "teacher": "傅毓秀、李學德、蔡佩君、郭曉縈、侯珮珊、蔣偉程",
     "time": "T9-"
   },
@@ -13159,7 +13159,7 @@
     "memo": "實際上課時間請參考學程公告，並請留意不能衝堂。",
     "name": "創業創新管理 Entrepreneurial mindset and Innovation ",
     "num_limit": "9999",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "黃仕斌、劉福運",
     "time": "Sy-YR105[YM]"
   },
@@ -13171,7 +13171,7 @@
     "memo": "實際上課時間請參考學程公告，並請留意不能衝堂。",
     "name": "生醫產業研發趨勢 New Developments in Biotech Industry",
     "num_limit": "9999",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "生醫管理學位學程",
     "time": "Uy-YR101[YM]"
   },
@@ -19771,7 +19771,7 @@
     "memo": "[English Medium Course]\n機械系主開，英文授課，機械系學生應優先選擇本課程。",
     "name": "工程數學（一） Engineering Mathematics(Ⅰ)",
     "num_limit": "60",
-    "reg_num": "83",
+    "reg_num": "84",
     "teacher": "張瑞永",
     "time": "T2W34-EE106[GF]"
   },
@@ -22531,7 +22531,7 @@
     "memo": "",
     "name": "專題討論 Seminar",
     "num_limit": "148",
-    "reg_num": "86",
+    "reg_num": "85",
     "teacher": "張財銘",
     "time": "Tn-SA321[GF]"
   },
@@ -22543,7 +22543,7 @@
     "memo": "",
     "name": "光學 Optics",
     "num_limit": "60",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "梁興弛",
     "time": "R234-SC151[GF]"
   },
@@ -22555,7 +22555,7 @@
     "memo": "",
     "name": "光電子學 Optoelectronics",
     "num_limit": "60",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "翁俊仁",
     "time": "W234-SC109[GF]"
   },
@@ -25075,7 +25075,7 @@
     "memo": "",
     "name": "記憶體元件與製程 Semiconductor Memories and Their Fabrication Technologies",
     "num_limit": "100",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "李佩雯",
     "time": "F234-EDB26[GF]"
   },
@@ -25243,7 +25243,7 @@
     "memo": "",
     "name": "計算機輔助設計特論 Special Topics in Computer Aided Design",
     "num_limit": "85",
-    "reg_num": "85",
+    "reg_num": "84",
     "teacher": "劉建男",
     "time": "M34W34-ED116[GF]"
   },
@@ -33223,7 +33223,7 @@
     "memo": "[English Medium Course]1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制)核心社會,欲採計核心自然請至通識中心書面申請。",
     "name": "普通心理學 General Psychology",
     "num_limit": "38",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "梁瓊惠",
     "time": "T34-A204[GF]"
   },
@@ -38815,7 +38815,7 @@
     "memo": "1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫網路選課加退選處理表，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。",
     "name": "教育哲學 Philosophy of Education",
     "num_limit": "35",
-    "reg_num": "16",
+    "reg_num": "17",
     "teacher": "陳鏗任",
     "time": "F34-HA315[GF]"
   },
@@ -38851,7 +38851,7 @@
     "memo": "",
     "name": "輔導原理與實務 Principle and Practice of Counseling",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "18",
     "teacher": "劉奕蘭",
     "time": "M56-HA219[GF]"
   },

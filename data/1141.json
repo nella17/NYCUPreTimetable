@@ -2731,7 +2731,7 @@
     "memo": "[English Medium Course]\n先修課程：普通物理學（一）（３學分）、微積分（６學分）\n（必修未達上述課程學分標準，無法修讀本門必修課）",
     "name": "工程力學 Engineering Mechanics",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "26",
     "teacher": "李泉",
     "time": "T34n-YT205[YM]"
   },
@@ -3008,7 +3008,7 @@
     "name": "基礎物理治療學 Fundamental Physical Therapy",
     "num_limit": "45",
     "reg_num": "39",
-    "teacher": "施怡芬、王瑞瑤、楊雅如、蔡美文、羅鴻基、黃崇舜、陳博因、彭麗貞、黃美淑、王怡品",
+    "teacher": "施怡芬、王瑞瑤、楊雅如、蔡美文、羅鴻基、黃崇舜、陳博因、彭麗貞、王怡品",
     "time": "M56R5-YB601[YM]"
   },
   "1141_112208": {
@@ -3284,7 +3284,7 @@
     "name": "臨床推理與決策分析(一) Clinical Reasoning and Decision Making (Ⅰ)",
     "num_limit": "45",
     "reg_num": "36",
-    "teacher": "王子娟、王瑞瑤、楊雅如、羅鴻基、施惠婷、陳子敬、劉育銓、徐麒晏、陳柏佑、蔡佳蓉、余虹",
+    "teacher": "王子娟、王瑞瑤、楊雅如、羅鴻基、林吟亮、施惠婷、陳子敬、劉育銓、徐麒晏、陳柏佑、蔡佳蓉、余虹",
     "time": "R5-YB602[YM]"
   },
   "1141_112233": {
@@ -8563,7 +8563,7 @@
     "memo": "此課程在114暑期開課,上課地點另行公布。線上遠距同步教學(遠距開放給新竹校區)",
     "name": "銀髮友善食品開發 Silver-friendly food development",
     "num_limit": "45",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "林怡君",
     "time": ""
   },
@@ -8971,7 +8971,7 @@
     "memo": "",
     "name": "醫學工程概論 Introduction to Biomedical Engineering",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "52",
     "teacher": "醫工學系碩、朱唯勤、江惠華、詹家泰、陳右穎、林峻立、江明彰、駱俊良、賴穎暉、劉承揚、葛宗融、劉大中、許如秀",
     "time": "T12R12-YX501[YM]"
   },
@@ -8995,7 +8995,7 @@
     "memo": "",
     "name": "醫學工程專題討論(碩) Seminar",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "64",
     "teacher": "賴穎暉、朱唯勤、江惠華、詹家泰、劉澤英、陳右穎、林峻立、江明彰、駱俊良、李泉、劉承揚、葛宗融、羅俊民、劉大中、許如秀",
     "time": "R67-YB100[YM]"
   },
@@ -9151,7 +9151,7 @@
     "memo": "",
     "name": "臨床工程實務 Workshop in Clinical Engineering",
     "num_limit": "9999",
-    "reg_num": "3",
+    "reg_num": "45",
     "teacher": "劉承揚",
     "time": "T567-YT304[YM]"
   },
@@ -9249,7 +9249,7 @@
     "num_limit": "9999",
     "reg_num": "8",
     "teacher": "王世仁",
-    "time": ""
+    "time": "F56-YEA205[YM]"
   },
   "1141_132400": {
     "code": "BEPT30030",
@@ -12175,7 +12175,7 @@
     "memo": "[English Medium Course]",
     "name": "醫學工程專題討論(博) Seminar",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "8",
     "teacher": "賴穎暉、朱唯勤、江惠華、詹家泰、劉澤英、陳右穎、林峻立、江明彰、駱俊良、李泉、劉承揚、葛宗融、羅俊民、劉大中、許如秀",
     "time": "R89-YB100[YM]"
   },
@@ -22624,36 +22624,36 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "520009",
-    "memo": "新竹校區；許譽馨老師",
+    "memo": "新竹校區 SC001；許譽馨老師",
     "name": "微積分 Calculus",
     "num_limit": "100",
     "reg_num": "7",
     "teacher": "待聘",
-    "time": "R234-"
+    "time": "R234-SC001[GF]"
   },
   "1141_520010": {
     "code": "XDEP10014",
     "credit": "3.00",
     "hours": "3.00",
     "id": "520010",
-    "memo": "新竹校區；鄭信良老師",
+    "memo": "新竹校區 SC001；鄭信良老師",
     "name": "普通物理學 General Physics",
     "num_limit": "100",
     "reg_num": "4",
     "teacher": "待聘",
-    "time": "W678-A904[GF]"
+    "time": "W678-SC001[GF]"
   },
   "1141_520011": {
     "code": "XDEP10016",
     "credit": "3.00",
     "hours": "3.00",
     "id": "520011",
-    "memo": "新竹校區",
+    "memo": "新竹校區 教室 ：SC001",
     "name": "電子學(一) Electronics (1)",
     "num_limit": "100",
     "reg_num": "6",
     "teacher": "陳建至",
-    "time": "M567-"
+    "time": "M567-SC001[GF]"
   },
   "1141_520012": {
     "code": "XDEP10004",
@@ -25207,7 +25207,7 @@
     "memo": "",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "120",
-    "reg_num": "71",
+    "reg_num": "70",
     "teacher": "吳易忠",
     "time": "W78-ED219[GF],F56-EDB26[GF]"
   },
@@ -25303,7 +25303,7 @@
     "memo": "9月1日(週一)第一次上課教室在EDB27",
     "name": "類比積體電路 Analog Integrated Circuits",
     "num_limit": "120",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "陳巍仁",
     "time": "M34-,R7-ED116[GF]"
   },
@@ -25603,7 +25603,7 @@
     "memo": "",
     "name": "VLSI 導線效應之模型與最佳化 Modeling and Optimization of VLSI Interconnects",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "李育民",
     "time": "W234-EDB07[GF]"
   },
@@ -25723,7 +25723,7 @@
     "memo": "Lab: ED713，第一次上課請同學到EDB26教室",
     "name": "無線隨意網路 Wireless Ad  Hoc Networks",
     "num_limit": "25",
-    "reg_num": "24",
+    "reg_num": "23",
     "teacher": "林亭佑",
     "time": "M234-ED713[GF],M234-EDB26[GF]"
   },
@@ -30496,7 +30496,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539006",
-    "memo": "1、前瞻所甲組、乙組專業選修課程(適用110~112學年度入學)。\n2、前瞻所甲組專業選修課程(適用113~114學年度入學)。",
+    "memo": "[English Medium Course]1、前瞻所甲組、乙組專業選修課程(適用110~112學年度入學)。\n2、前瞻所甲組專業選修課程(適用113~114學年度入學)。",
     "name": "半導體感測器 Semiconductor Sensors",
     "num_limit": "9999",
     "reg_num": "4",
@@ -37461,7 +37461,7 @@
     "num_limit": "60",
     "reg_num": "13",
     "teacher": "洪慧念",
-    "time": "T34F56-SC106[GF]"
+    "time": "T34-A205[GF],F56-A304[GF]"
   },
   "1141_564022": {
     "code": "GECS10005",
@@ -38094,7 +38094,7 @@
     "id": "567002",
     "memo": "電機系學生優先選課。",
     "name": "近代生物學(一) Modern Biology (I)",
-    "num_limit": "120",
+    "num_limit": "60",
     "reg_num": "8",
     "teacher": "梁美智、黃植懋、高智飛",
     "time": "T2W56-EE105[GF]"

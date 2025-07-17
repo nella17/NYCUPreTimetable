@@ -2347,7 +2347,7 @@
     "memo": "",
     "name": "臨床生化學實習 Clinical Biochemistry Practice Lab Internship",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "黃琤、張懿欣",
     "time": "M2-"
   },
@@ -2359,7 +2359,7 @@
     "memo": "",
     "name": "病理切片及細胞診斷實習 Pathological Technology & Diagnosis Cytology Practice",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "黃尉倫、呂世正",
     "time": "R5-"
   },
@@ -2371,7 +2371,7 @@
     "memo": "",
     "name": "臨床血庫實習 Clinical Blood Banking Lab Internship",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "涂玉青、蘇美慈",
     "time": "T6-"
   },
@@ -2383,7 +2383,7 @@
     "memo": "",
     "name": "臨床血清免疫實習 Clinical Serology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "孫光蕙、黃智生",
     "time": "T7-"
   },
@@ -2395,7 +2395,7 @@
     "memo": "",
     "name": "臨床生理學實習 Clinical Physiology Practice Lab Internship",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "吳韋訥",
     "time": "M3-"
   },
@@ -2407,7 +2407,7 @@
     "memo": "",
     "name": "臨床血液學實習 Clinical Hematology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "呂世正、蘇美慈",
     "time": "T8-"
   },
@@ -2419,7 +2419,7 @@
     "memo": "",
     "name": "臨床病毒學實習 Clinical Virology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "龔思豪、蘇美慈、洪小雅",
     "time": "T5-"
   },
@@ -2431,7 +2431,7 @@
     "memo": "",
     "name": "臨床鏡檢及寄生蟲學實習 Clinical Microscopy & Parasitology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "黃智生、黃尉倫",
     "time": "M4-"
   },
@@ -2443,7 +2443,7 @@
     "memo": "",
     "name": "醫學分子檢驗實習 Molecular Diagnosis in Medicine Lab Internship",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "龔思豪、洪小雅",
     "time": "R4-"
   },
@@ -2455,7 +2455,7 @@
     "memo": "",
     "name": "臨床微生物學實習 Clinical Microbiology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "吳韋訥、楊翠青",
     "time": "M1-"
   },
@@ -2551,7 +2551,7 @@
     "memo": "",
     "name": "大四導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "洪小雅、孫光蕙、黃琤",
     "time": "R9-"
   },
@@ -2970,7 +2970,7 @@
     "id": "112204",
     "memo": "限完成物理治療臨床實習36週以上之物輔系學生修習",
     "name": "筋膜學：內臟與顱薦療法 Fascia Science：Visceral and Craniosacral Therapy",
-    "num_limit": "25",
+    "num_limit": "30",
     "reg_num": "22",
     "teacher": "王子娟、張德裕",
     "time": "Scd-YB601[YM]"
@@ -3222,7 +3222,7 @@
     "id": "112225",
     "memo": "限完成物理治療臨床實習36週以上之物輔系學生修習",
     "name": "筋膜學：徒手與適能訓練 Fascia Science：manual therapy and fascia fitness",
-    "num_limit": "25",
+    "num_limit": "30",
     "reg_num": "21",
     "teacher": "王子娟、傅士豪",
     "time": "Ucd-YB601[YM]"
@@ -5025,7 +5025,7 @@
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "曾炳輝、林達顯",
-    "time": "W56-YX216[YM]"
+    "time": "F56-CS100[GF],W56-YX216[YM]"
   },
   "1141_114203": {
     "code": "GECY10001",
@@ -17524,7 +17524,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "514138",
-    "memo": "專選",
+    "memo": "專選，說故事與多媒體跨域學程",
     "name": "教室逃脫：以文學、藝術和互動媒體設計遊戲 Escape the Classroom: Designing Games with Literature, Art, and Interactive Media",
     "num_limit": "22",
     "reg_num": "23",
@@ -18307,7 +18307,7 @@
     "memo": "",
     "name": "複變函數 Complex Variables",
     "num_limit": "70",
-    "reg_num": "73",
+    "reg_num": "74",
     "teacher": "曾煜輝",
     "time": "W34n-EE220[GF]"
   },
@@ -19879,7 +19879,7 @@
     "memo": "(太空學程) 開1/2/3/4年級",
     "name": "衛星科技與工程導論 Introduction to Satellite Technology and Engineering",
     "num_limit": "9999",
-    "reg_num": "52",
+    "reg_num": "51",
     "teacher": "林信嘉",
     "time": "Tabc-CS100[GF]"
   },
@@ -28281,7 +28281,7 @@
     "num_limit": "70",
     "reg_num": "31",
     "teacher": "官大智",
-    "time": "W567-SC206[GF]"
+    "time": "W567-SC201[GF]"
   },
   "1141_536750": {
     "code": "SCMA30009",

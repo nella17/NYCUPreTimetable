@@ -1972,7 +1972,7 @@
     "credit": "2.00",
     "hours": "8.50",
     "id": "111821",
-    "memo": "",
+    "memo": "暑假提前實習",
     "name": "手術全期護理學實習 Perioperative Nursing Practicum",
     "num_limit": "9999",
     "reg_num": "1",
@@ -8515,7 +8515,7 @@
     "memo": "1.非同步預錄課程上傳至E3系統(收播時間:9/1-10/31) \n2.此課程將納入教育部「精準健康產業跨領域人才培育計畫」精準醫學領域推動中心學校計畫，亦將規劃錄製線上課程，作為此中心及相關夥伴學校之培訓課程，提供陽明交大在學學生選修 。\n3.實際上課時數以影片內容為主",
     "name": "高齡精準醫學：邁向創新與健康的人生 Precision Medicine in Aging Society: Innovation and Healthy Life",
     "num_limit": "45",
-    "reg_num": "17",
+    "reg_num": "19",
     "teacher": "黃世宗",
     "time": ""
   },
@@ -8527,7 +8527,7 @@
     "memo": "1.非同步預錄課程上傳至E3系統(收播時間:9/1-10/31) \n2.此課程將納入教育部「精準健康產業跨領域人才培育計畫」精準醫學領域推動中心學校計畫，亦將規劃錄製線上課程，作為此中心及相關夥伴學校之培訓課程，提供陽明交大在學學生選修 。\n3.實際上課時數以影片內容為主",
     "name": "老年醫學臨床概論 Clinical Introduction of Geriatric Medicine",
     "num_limit": "45",
-    "reg_num": "28",
+    "reg_num": "31",
     "teacher": "姜紹青",
     "time": ""
   },
@@ -17839,7 +17839,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周三晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "王夢偉",
     "time": "Wabcd-"
   },
@@ -21391,7 +21391,7 @@
     "memo": "",
     "name": "應用數學 Applied Mathematics",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "61",
     "teacher": "曾建銘",
     "time": "T7W34-SB211[GF]"
   },
@@ -22483,7 +22483,7 @@
     "memo": "[English Medium Course]",
     "name": "技術統治之全球影響 Global Influences of Technocracy",
     "num_limit": "20",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "林愛真",
     "time": "M567-"
   },

@@ -71,6 +71,18 @@
     "teacher": "王聖閎",
     "time": "R5678-"
   },
+  "1132_040013": {
+    "code": "IAFA10054",
+    "credit": "4.00",
+    "hours": "4.00",
+    "id": "040013",
+    "memo": "",
+    "name": "科技與社會 Technology and Society",
+    "num_limit": "9999",
+    "reg_num": "6",
+    "teacher": "",
+    "time": ""
+  },
   "1132_110000": {
     "code": "MDMD10034",
     "credit": "1.00",

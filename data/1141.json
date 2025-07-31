@@ -47,6 +47,42 @@
     "teacher": "李大中",
     "time": "M34F34-"
   },
+  "1141_030005": {
+    "code": "IADI00328",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030005",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，人社院A309室，11410TL590500",
+    "name": "文化敘事與再現 Cultural Narratives and Representations",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "王威智",
+    "time": "F678-"
+  },
+  "1141_030006": {
+    "code": "IADI00312",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030006",
+    "memo": "中央大學文學二館437室，請參考下方連結檔案P5-P13，https://pdc.adm.ncu.edu.tw/Course/other/CCOP_1.pdf，建立中央的NetID(臨時學號)及個人基本資料。IS5001",
+    "name": "亞際文化研究導論 Introduction to Inter Asia Cultural Studies",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林建廷",
+    "time": "T5678-"
+  },
+  "1141_030007": {
+    "code": "IADI00327",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "030007",
+    "memo": "中央大學文學二館218室，請參考下方連結檔案P5-P13，https://pdc.adm.ncu.edu.tw/Course/other/CCOP_1.pdf，建立中央的NetID(臨時學號)及個人基本資料。FR5096",
+    "name": "法國現/當代電影研究III Researches on French cinema III",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "史惟筑",
+    "time": "W34-"
+  },
   "1141_110000": {
     "code": "MDMD20261",
     "credit": "1.00",
@@ -679,7 +715,7 @@
     "memo": "導師時間",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "15",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "王維庭",
     "time": "W34-YT204[YM]"
   },
@@ -787,7 +823,7 @@
     "memo": "限醫學系學生修課",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "150",
-    "reg_num": "105",
+    "reg_num": "104",
     "teacher": "潘美連",
     "time": "M34-YK208[YM]"
   },
@@ -799,7 +835,7 @@
     "memo": "大堂課與小組討論交替，小組課上課地點:醫學館",
     "name": "科學發表與思維 Scientific Presentation and Thinking",
     "num_limit": "135",
-    "reg_num": "122",
+    "reg_num": "121",
     "teacher": "霍德義、黃金洲、陳志彥、林志慶、林邑璁、陳世彬、鄭浩民、紀乃方、劉峻宇、賴峻毅、詹宇鈞、蘇建維、許劭榮、林堯彬、陳明德",
     "time": "W78-YX216[YM]"
   },
@@ -4267,7 +4303,7 @@
     "memo": "醫二A,   醫二B,  醫二C, 醫技二, 藥學二, 中醫二合班上課",
     "name": "生物化學 Biochemistry",
     "num_limit": "9999",
-    "reg_num": "230",
+    "reg_num": "229",
     "teacher": "黃介嶸、陳美瑜、鄭子豪、許翺麟、王琬菁、姜為中",
     "time": "R56F34-CS100[GF],R56F34-YX216[YM]"
   },
@@ -4315,7 +4351,7 @@
     "memo": "醫學二A",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "80",
-    "reg_num": "74",
+    "reg_num": "73",
     "teacher": "游麗如、陳美瑜、鄭子豪、郭津岑、許翺麟、黃依川",
     "time": "F5678-YEC309[YM]"
   },
@@ -4519,7 +4555,7 @@
     "memo": "公共衛生領域，限醫學系、中醫系三年級(含)以上，前8週上課，電機系、醫學系醫師工程師組請線上上課(連結開學前給)。上課時間為週二1-2節，為必修，請同學第二節除了環境衛生課程之外，勿排其他課。本課程為應考公共衛生師指定修習科目。",
     "name": "公共衛生概論 Introduction to Public Health",
     "num_limit": "9999",
-    "reg_num": "150",
+    "reg_num": "149",
     "teacher": "陳娟瑜、楊振昌、黃心苑、周穎政、雷文玫、陳信任",
     "time": "T1-YX216[YM]"
   },
@@ -4531,7 +4567,7 @@
     "memo": "本課程為選修，上課時間實際為週二12節後8週(10/28-12/16)，電機系、醫學系醫師工程師組請線上上課(連結開學前給)。本課程為應考公共衛生師指定修習科目。",
     "name": "環境衛生概論 Introduction to Environmental Health",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "楊振昌、陳美蓮、余國賓、紀凱獻、黃鈺芳、潘文驥、張榮偉",
     "time": "T2-YX216[YM]"
   },
@@ -4699,7 +4735,7 @@
     "memo": "限醫學系，為使課程品質提升，故修課人數有限。",
     "name": "臺語人際溝通 Taiwanese (language) and Interpersonal Communication",
     "num_limit": "16",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "林良儒",
     "time": "T56-YT302[YM]"
   },
@@ -5155,7 +5191,7 @@
     "memo": "",
     "name": "普通物理學 General Physics",
     "num_limit": "9999",
-    "reg_num": "112",
+    "reg_num": "111",
     "teacher": "羅俊民",
     "time": "T34-YX216[YM]"
   },
@@ -9575,6 +9611,18 @@
     "teacher": "施世亮、張彧銓、黃昭偉",
     "time": ""
   },
+  "1141_132429": {
+    "code": "BEPT30033",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132429",
+    "memo": "",
+    "name": "神經肌肉系統特論 Special Topics in Neuromuscular System",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "周立偉、林吟亮、陳博因、李惠敏",
+    "time": "T56-YB419[YM]"
+  },
   "1141_132500": {
     "code": "BEIR30007",
     "credit": "1.00",
@@ -10978,6 +11026,18 @@
     "reg_num": "2",
     "teacher": "林映彤、杜培基、洪裕宏",
     "time": "F78-YX321[YM]"
+  },
+  "1141_133105": {
+    "code": "HSPH30011",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "133105",
+    "memo": "[English Medium Course]",
+    "name": "疼痛與受苦經驗的哲學探討 Philosophy of Pain and Suffering",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林映彤、游尚愷",
+    "time": "W789-YX321[YM]"
   },
   "1141_133200": {
     "code": "SHTS30040",
@@ -13927,7 +13987,7 @@
     "memo": "[1] 具日文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。110制學生如欲加選請逕洽語文學習與寫作中心(llwc@nycu.edu.tw）辦理。[3]本課程初選第三階段僅開放大一學生選修。",
     "name": "日文(二) Japanese(II)",
     "num_limit": "35",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "周雅玲",
     "time": "M12-YT202[YM]"
   },
@@ -20527,7 +20587,7 @@
     "memo": "第三小時為非同步方式授課。上學期限AB班選課，C班開在下學期；其餘重修同學請自行找老師加簽。",
     "name": "工程地質學 Engineering Geology",
     "num_limit": "60",
-    "reg_num": "45",
+    "reg_num": "46",
     "teacher": "羅佳明",
     "time": "T34-EB118[GF]"
   },
@@ -22866,7 +22926,7 @@
     "id": "520026",
     "memo": "上課地點:高雄校區",
     "name": "電子學實驗(一) Electronic Laboratory (1)",
-    "num_limit": "9999",
+    "num_limit": "100",
     "reg_num": "0",
     "teacher": "林尚亭",
     "time": "W567-"
@@ -25387,7 +25447,7 @@
     "memo": "未擇定指導教授且繳交指導教授同意書之研究生，請勿選修。",
     "name": "學位論文研究 Academic Dissertation Research",
     "num_limit": "9999",
-    "reg_num": "66",
+    "reg_num": "71",
     "teacher": "電控所",
     "time": ""
   },
@@ -25399,7 +25459,7 @@
     "memo": "AI學程學生修業期間應修習2學期論文研討(書報討論)。",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "21",
+    "reg_num": "25",
     "teacher": "李慶鴻",
     "time": "W56-EE105[GF]"
   },
@@ -26022,7 +26082,7 @@
     "id": "535409",
     "memo": "1.初選第一階段及第二階段, 人數上限20人,光電系碩博優先\n2.選課第三階段及開學後加退選,人數上限70人,光電系碩一優先選課",
     "name": "半導體元件及物理 Semiconductor Devices & Physics",
-    "num_limit": "20",
+    "num_limit": "70",
     "reg_num": "5",
     "teacher": "冉曉雯",
     "time": "F234-CY201[GF]"
@@ -26779,7 +26839,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "58",
+    "reg_num": "57",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -32359,7 +32419,7 @@
     "memo": "陽明校區：線上上課，請向教師索取線上連結 ;混合遠距課程",
     "name": "醫療法律與政策 Medical Law and Policy",
     "num_limit": "40",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "陳鋕雄",
     "time": "S678-A302[GF]"
   },
@@ -37123,7 +37183,7 @@
     "memo": "上課地點：陽明校區活動中心桌球室。\n第一階段開放選課系級：醫學二B、醫放三。\n第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "黃中興",
     "time": "W56-PhE[YM]"
   },
@@ -38371,7 +38431,7 @@
     "memo": "",
     "name": "醫學科技整合：以健康需求為導向之創新體驗-服務學習(二) Biotech Integration:Innovative Experiential Service Learning Oriented to Health Needs-Service Learning（二）",
     "num_limit": "30",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "劉影梅、張原翊、陳律言",
     "time": "M567-YN603[YM]"
   },

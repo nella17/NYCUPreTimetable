@@ -1616,8 +1616,8 @@
     "name": "特殊需求者口腔醫療照護 Oral health care for patients of special needs",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "牙醫系、程千芳、彭莉甯、涂曦丰、羅文良、劉正芬、李雅玲、李思慧、蔡佳芬、黃明裕",
-    "time": "R56-YD210[YM]"
+    "teacher": "涂曦丰、程千芳、彭莉甯、羅文良、劉正芬、李雅玲、李思慧、蔡佳芬、黃明裕",
+    "time": "M78-YD105[YM]"
   },
   "1141_111534": {
     "code": "DEDE20059",
@@ -6791,18 +6791,6 @@
     "teacher": "黃鈺芳、張榮偉、郭憲文",
     "time": "W78-YS105[YM]"
   },
-  "1141_130818": {
-    "code": "MDEO30096",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "130818",
-    "memo": "",
-    "name": "工業管理與資源回收 Industrial Management and Waste Recycling",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "李旻軒",
-    "time": "W34n-YS105[YM]"
-  },
   "1141_130900": {
     "code": "MDEC30014",
     "credit": "2.00",
@@ -9573,7 +9561,7 @@
     "num_limit": "30",
     "reg_num": "7",
     "teacher": "王瑞瑤、楊雅如、施惠婷",
-    "time": ""
+    "time": "M234-YB603[YM]"
   },
   "1141_132425": {
     "code": "BEPT30047",
@@ -10339,7 +10327,7 @@
     "memo": "開放大學部學生修讀。",
     "name": "神經膠細胞研究文獻選讀 Specific Topics on Neuroglia",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "3",
     "teacher": "何淑君",
     "time": "R78-YL824[YM]"
   },
@@ -19411,7 +19399,7 @@
     "memo": "外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "演算法概論 Introduction to Algorithms",
     "num_limit": "85",
-    "reg_num": "84",
+    "reg_num": "83",
     "teacher": "施仁忠",
     "time": "T34R7-EC115[GF]"
   },
@@ -19483,7 +19471,7 @@
     "memo": "[English Medium Course]外系生請於開學上網加選；資訊共同；資訊工程組必修；網路與多媒體工程組必修；資工系與電資學士班學生優先選課；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "機率 Probability ",
     "num_limit": "96",
-    "reg_num": "84",
+    "reg_num": "83",
     "teacher": "彭文孝",
     "time": "W34F7-EC115[GF]"
   },
@@ -19951,7 +19939,7 @@
     "memo": "2A",
     "name": "熱力學（一） Thermodynamics (I)",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "劉耀先",
     "time": "M34F2-EE106[GF]"
   },
@@ -19963,7 +19951,7 @@
     "memo": "2B",
     "name": "機動學 Mechanism",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "洪紹剛",
     "time": "M56R5-EE106[GF]"
   },
@@ -20191,7 +20179,7 @@
     "memo": "2B",
     "name": "材料力學 Mechanics  of Materials",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "鄭文雅",
     "time": "M12T56-EE130[GF]"
   },
@@ -20203,7 +20191,7 @@
     "memo": "2A",
     "name": "材料力學 Mechanics  of Materials",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "鄭文雅",
     "time": "M78T34-EE130[GF]"
   },
@@ -22003,7 +21991,7 @@
     "memo": "",
     "name": "畢業專題 Thesis",
     "num_limit": "9999",
-    "reg_num": "58",
+    "reg_num": "57",
     "teacher": "運管系",
     "time": ""
   },
@@ -22747,7 +22735,7 @@
     "memo": "新竹校區 SC001",
     "name": "微積分 Calculus",
     "num_limit": "100",
-    "reg_num": "7",
+    "reg_num": "102",
     "teacher": "許譽馨",
     "time": "R234-SC001[GF]"
   },
@@ -22759,7 +22747,7 @@
     "memo": "新竹校區 SC001",
     "name": "普通物理學 General Physics",
     "num_limit": "100",
-    "reg_num": "4",
+    "reg_num": "99",
     "teacher": "鄭信良",
     "time": "W678-SC001[GF]"
   },
@@ -22771,7 +22759,7 @@
     "memo": "新竹校區 教室 ：SC001",
     "name": "電子學(一) Electronics (1)",
     "num_limit": "100",
-    "reg_num": "6",
+    "reg_num": "101",
     "teacher": "陳建至",
     "time": "M567-SC001[GF]"
   },
@@ -22783,7 +22771,7 @@
     "memo": "新竹校區",
     "name": "電腦程式與計算分析(一) Computer Programming and Computational Analysis (1)",
     "num_limit": "100",
-    "reg_num": "3",
+    "reg_num": "98",
     "teacher": "林志偉",
     "time": "F567-ED117[GF]"
   },
@@ -22795,7 +22783,7 @@
     "memo": "新竹校區",
     "name": "電子學實驗(一) Electronic Laboratory (1)",
     "num_limit": "100",
-    "reg_num": "4",
+    "reg_num": "99",
     "teacher": "陳建至",
     "time": "Tabc-SA321[GF]"
   },
@@ -22939,7 +22927,7 @@
     "memo": "高雄校區",
     "name": "電子學實驗(一) Electronic Laboratory (1)",
     "num_limit": "100",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "林壽煦",
     "time": "W234-"
   },
@@ -22951,7 +22939,7 @@
     "memo": "上課地點:高雄校區",
     "name": "電子學實驗(一) Electronic Laboratory (1)",
     "num_limit": "100",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "林尚亭",
     "time": "W567-"
   },
@@ -25615,7 +25603,7 @@
     "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程)",
     "name": "檢測與估計理論 Detection and Estimation Theory",
     "num_limit": "40",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "蔡尚澕",
     "time": "M567-EE208[GF]"
   },
@@ -25843,7 +25831,7 @@
     "memo": "[English Medium Course]",
     "name": "無線通訊 Wireless Communications",
     "num_limit": "45",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "李明峻",
     "time": "R567-EDB01[GF]"
   },
@@ -27115,7 +27103,7 @@
     "memo": "",
     "name": "書報討論(一) Seminar(I)",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "曾昭雄",
     "time": "R78-EE324[GF]"
   },
@@ -27163,7 +27151,7 @@
     "memo": "[English Medium Course]",
     "name": "高效益太空任務營運 Cost-Effective Space Mission Operations",
     "num_limit": "50",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "方怡欽",
     "time": "R34n-EE205[GF]"
   },
@@ -27175,7 +27163,7 @@
     "memo": "上課教室：教師研究室",
     "name": "學位論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "陳慶耀",
     "time": "Myz1-"
   },
@@ -30571,7 +30559,7 @@
     "memo": "論文研討課程應加總通過2學期，但論文研討不計入應修學分數24學分。",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "李耀仁、梁耕僑、賴朝松、林柏宏、曹逸凡",
     "time": "T56-A305[GF]"
   },
@@ -30619,7 +30607,7 @@
     "memo": "[English Medium Course]英文授課，\n1、前瞻所甲組、乙組專業核心課程(適用110~112學年度入學)。  2、前瞻所甲組專業核心課程(適用113~114學年度入學)。",
     "name": "半導體元件物理與奈米電晶體 Semiconductor Device Physics and Nanometer Scale Transistors",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "陶元、孫元成",
     "time": "M234-CS100[GF]"
   },
@@ -30799,7 +30787,7 @@
     "memo": "視訊同步遠距課程 。醫電所(原生醫所).電機.生科. MD-PhD學程及AI學院。(通識課程) 、開放隨班附讀。",
     "name": "仿生科技 Biomimicry",
     "num_limit": "9999",
-    "reg_num": "134",
+    "reg_num": "133",
     "teacher": "陳榮治",
     "time": "W234-"
   },
@@ -31663,7 +31651,7 @@
     "memo": "",
     "name": "雷射精密加工實務 Laser Precision Microfabrication and Practice",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "鄭中緯",
     "time": "Tabc-EE230[GF]"
   },
@@ -31759,7 +31747,7 @@
     "memo": "",
     "name": "專題討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "吳樸偉、鄭中緯",
     "time": "S234-EF207[GF]"
   },
@@ -32674,6 +32662,18 @@
     "reg_num": "0",
     "teacher": "科法所",
     "time": ""
+  },
+  "1141_557923": {
+    "code": "LWLW30331",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "557923",
+    "memo": "",
+    "name": "供應鏈企業責任與國際人權 Corporate responsibility and international human rights in supply chains",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "邱羽凡、Bonny I-Hua Ling",
+    "time": "Tab-MB1063[GF]"
   },
   "1141_559000": {
     "code": "MGME30018",
@@ -37808,7 +37808,7 @@
     "name": "物理一(榮譽班)作業演算 Physics Recitation(I)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "蕭翌登",
     "time": "Fbc-"
   },
   "1141_565016": {

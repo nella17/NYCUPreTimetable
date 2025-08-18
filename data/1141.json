@@ -20347,7 +20347,7 @@
     "memo": "限土木系大一生，本系導師課程為必選課程，請務必在畢業前選修2次。",
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "108",
     "teacher": "土木系",
     "time": "W78-EB117[GF]"
   },
@@ -20371,7 +20371,7 @@
     "memo": "",
     "name": "土木工程概論 Introduction to Civil Engineering",
     "num_limit": "105",
-    "reg_num": "0",
+    "reg_num": "108",
     "teacher": "土木系",
     "time": "T56-EB117[GF]"
   },
@@ -20383,7 +20383,7 @@
     "memo": "",
     "name": "土木工程實務講座(一) MAA Lecture on Engineering Practice I",
     "num_limit": "100",
-    "reg_num": "0",
+    "reg_num": "108",
     "teacher": "林子剛、石棟鑫",
     "time": "R78-EB117[GF]"
   },
@@ -26464,7 +26464,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535523",
-    "memo": "資訊學院優先(不開放在職專班網路選課)。本課程亦為「人工智慧生醫應用學分學程」、「 資料科學與智慧儀控學分學程」課程之一。",
+    "memo": "資訊學院優先(不開放在職專班網路選課)。本課程亦為「人工智慧生醫應用學分學程」、「 資料科學與智慧儀控學分學程」課程之一；[另外1小時(第3節)以非同步上課方式",
     "name": "人工智慧醫學影像應用專題研究 Research Project in Application of Artificial Intelligence on Medical Imaging",
     "num_limit": "60",
     "reg_num": "11",

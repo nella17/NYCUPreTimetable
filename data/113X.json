@@ -251,18 +251,6 @@
     "teacher": "陳威儀、郭津岑、張崇德",
     "time": "M234T234W234R234F234-YC516[YM]"
   },
-  "113X_112200": {
-    "code": "BEPT20033",
-    "credit": "2.00",
-    "hours": "4.00",
-    "id": "112200",
-    "memo": "限物輔系學生選課，不開放外系學生修習。",
-    "name": "物理治療臨床實習(八) Physical Therapy Practicum (VIII)",
-    "num_limit": "1",
-    "reg_num": "1",
-    "teacher": "羅鴻基、楊雅如、李淑貞",
-    "time": ""
-  },
   "113X_112300": {
     "code": "BEIR10019",
     "credit": "2.00",

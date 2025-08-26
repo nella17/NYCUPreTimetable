@@ -1640,7 +1640,7 @@
     "name": "特殊需求者口腔醫療照護 Oral health care for patients of special needs",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "涂曦丰、程千芳、彭莉甯、羅文良、劉正芬、李雅玲、李思慧、蔡佳芬、黃明裕",
+    "teacher": "涂曦丰、程千芳、彭莉甯、胡慧蘭、羅文良、劉正芬、李雅玲、李思慧、蔡秉晃、蔡佳芬、蔡法慈、黃明裕",
     "time": "M78-YD105[YM]"
   },
   "1141_111534": {
@@ -6534,7 +6534,7 @@
     "id": "130611",
     "memo": "與針灸(一)隔周上課，實際授課時間為56節，每周2小時，合計8周。",
     "name": "本草綱目(一) Bencao gangmu (Compendium of Materia)(1)",
-    "num_limit": "9999",
+    "num_limit": "45",
     "reg_num": "-999",
     "teacher": "蔡東湖",
     "time": "F5-YR105[YM]"
@@ -6656,7 +6656,7 @@
     "name": "環境衛生學 Environmental Health",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳美蓮、余國賓、紀凱獻、黃鈺芳、潘文驥、張榮偉、郭憲文、王正雄",
+    "teacher": "陳美蓮、余國賓、紀凱獻、黃鈺芳、李宥萱、潘文驥、張榮偉、郭憲文、王正雄",
     "time": "T12-YS415[YM]"
   },
   "1141_130801": {
@@ -6776,7 +6776,7 @@
     "name": "職業衛生學 Occupational Hygiene",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳美蓮、毛義方",
+    "teacher": "陳美蓮、黃鈺芳、李宥萱、毛義方",
     "time": "T78-YS107[YM]"
   },
   "1141_130814": {
@@ -8480,7 +8480,7 @@
     "name": "用藥安全與醫藥政策特論 Medication Safety and Medical Policy",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "周千瀅、李偉強、黃以信、陳育群、李友專、余萬能、周月卿、陳德禮、陳寬軒、黃鈺媖、鄒嘉玲、許家禎、何沁沁、林于瑄、王怡凱、王笙帆、陳盈宇、蔡維禎、邱睦涵、陳正豐",
+    "teacher": "周千瀅、黃以信、陳育群、李友專、余萬能、陳德禮、陳寬軒、許家禎、王怡凱、朱慶榮、蔡維禎、陳正豐",
     "time": "T34-"
   },
   "1141_132012": {
@@ -9308,7 +9308,7 @@
     "name": "生物力學 Biomechanics",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林峻立、李泉、吳博貴、葛宗融、鄔蜀威、楊世偉",
+    "teacher": "林峻立、李泉、劉承揚、葛宗融、施惠婷、陳博因、鄔蜀威、楊世偉",
     "time": "T34n-YEA301[YM]"
   },
   "1141_132323": {
@@ -9846,7 +9846,7 @@
     "id": "132514",
     "memo": "[English Medium Course]生醫影像學程",
     "name": "程式語言與醫學影像處理 Programming Language and Medical Image Processing",
-    "num_limit": "9999",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "盧家鋒",
     "time": "R78-YL401[YM],R78-YL403[YM]"
@@ -10122,7 +10122,7 @@
     "id": "132610",
     "memo": "需修過微積分",
     "name": "機器學習與生醫應用 Machine learning and biomedical application",
-    "num_limit": "25",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "吳育德",
     "time": "M789-YL403[YM]"
@@ -11324,7 +11324,7 @@
     "name": "長照跨專業實務討論與分析(II) Seminar on transdisciplinary long-term care practice",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "楊雅如、簡麗年、王瑞瑤、陳怡如、陳喬男、李淑貞、李雪楨、楊曼華、李玉春",
+    "teacher": "楊雅如、簡麗年、王瑞瑤、陳怡如、陳喬男、李淑貞、李雪楨、楊曼華、姜紹青、吳佳東、李玉春",
     "time": "R56-YN603[YM]"
   },
   "1141_133509": {
@@ -12323,6 +12323,18 @@
     "teacher": "羅鴻基、王子娟、王瑞瑤、施怡芬、楊雅如、蔚順華、陳喬男、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、林吟亮、黃崇舜、施惠婷、陳博因",
     "time": "M5678-YB102[YM]"
   },
+  "1141_141903": {
+    "code": "BEPT30026",
+    "credit": ".00",
+    "hours": ".00",
+    "id": "141903",
+    "memo": "此為本學系博士班必選，請與指導教授討論後再選",
+    "name": "教學實習 Teaching Practicum",
+    "num_limit": "20",
+    "reg_num": "-999",
+    "teacher": "陳振昇",
+    "time": ""
+  },
   "1141_142000": {
     "code": "BEIR30009",
     "credit": "1.00",
@@ -12822,7 +12834,7 @@
     "id": "143401",
     "memo": "",
     "name": "醫藥品政策與管理 Pharmaceutical Policy and Management",
-    "num_limit": "10",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "許銘能、倪貴榮、黃世宗、楊世偉、陳映樺、劉守宣、林春月、杜培文、張連成、陳文雯、黃小文、徐麗娟、許雅鈞",
     "time": "F34-YN208[YM]"
@@ -12834,7 +12846,7 @@
     "id": "143402",
     "memo": "",
     "name": "醫藥品產業概論 Introduction to the Pharmaceutical and Medical Device Industry",
-    "num_limit": "24",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "楊世偉、黃奇英、賴穎暉、劉建昇、鄭仲志、蔡恩加、陳建州、洪志駿、詹馥妤、盧青佑、傅冬卿、顏鳴輝、廖建忠",
     "time": "F56-YN205[YM]"
@@ -12846,7 +12858,7 @@
     "id": "143403",
     "memo": "醫藥品法規科學博士學位學程學生優先選課",
     "name": "憲法與醫藥法規：實例分析 Constitutional Law, Medical Law, and Pharmaceutical Law: Case Study",
-    "num_limit": "10",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "吳全峰",
     "time": "T56-YN208[YM]"
@@ -12858,7 +12870,7 @@
     "id": "143404",
     "memo": "醫藥品法規科學博士學位學程學生優先選課",
     "name": "藥事法規 Pharmaceutical Law",
-    "num_limit": "10",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "吳全峰",
     "time": "T78-YN208[YM]"
@@ -12870,7 +12882,7 @@
     "id": "143405",
     "memo": "醫藥品法規科學博士學位學程學生優先選課",
     "name": "藥品與醫療器材之重大事件與法規管理專題研究 Special Research on Major Events and Regulatory Management of Pharmaceuticals and Medical Devices",
-    "num_limit": "10",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳惠芳",
     "time": "R56-YN208[YM]"
@@ -15381,7 +15393,7 @@
     "num_limit": "50",
     "reg_num": "-999",
     "teacher": "莊雅仲",
-    "time": "Rabc-HK207[LJ]"
+    "time": "Rabc-HK115[LJ]"
   },
   "1141_330007": {
     "code": "HKEC30011",
@@ -15906,7 +15918,7 @@
     "id": "410023",
     "memo": "",
     "name": "程式設計 Go Go Go Programming Go Go Go",
-    "num_limit": "20",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "羅惟正",
     "time": "T678-BI304[BA]"
@@ -18196,7 +18208,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "515101",
-    "memo": "",
+    "memo": "2班「服務學習(二)」會一起進行服務分組與評分。",
     "name": "服務學習 (二) Service Learning II",
     "num_limit": "110",
     "reg_num": "-999",
@@ -18208,7 +18220,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "515102",
-    "memo": "",
+    "memo": "2班「服務學習(二)」會一起進行服務分組與評分。",
     "name": "服務學習 (二) Service Learning II",
     "num_limit": "110",
     "reg_num": "-999",
@@ -19038,7 +19050,7 @@
     "id": "515208",
     "memo": "「半導體系學生優先修課」開3/4年級。[固態組奈米組合班]。",
     "name": "類比積體電路導論 Introduction to Analog Integrated Circuits",
-    "num_limit": "50",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "邱進峯",
     "time": "R678-EE130[GF]"
@@ -19194,7 +19206,7 @@
     "id": "515221",
     "memo": "「半導體系學生優先修課」開3/4年級。[註] 此課程將追認為「專業必選課程」(18學分)的項目內。[固態組奈米組合班]。",
     "name": "先進積體電路封裝技術導論 Introduction of IC package technology",
-    "num_limit": "60",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "顧鴻壽",
     "time": "W234-EF201[GF]"
@@ -19206,7 +19218,7 @@
     "id": "515222",
     "memo": "延續固態物理（一），「半導體系學生優先修課」開3/4年級。[註] 此課程將追認為「專業必選課程」(18學分)的項目內。[固態組奈米組合班]。",
     "name": "固態物理(二) Solid State Physics Ⅱ",
-    "num_limit": "60",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "陳建宏",
     "time": "F567-EF201[GF]"
@@ -19542,7 +19554,7 @@
     "id": "515508",
     "memo": "外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "計算機網路概論 Intro. to Computer Networks",
-    "num_limit": "70",
+    "num_limit": "80",
     "reg_num": "-999",
     "teacher": "蕭旭峰",
     "time": "T56F2-EC114[GF]"
@@ -19566,7 +19578,7 @@
     "id": "515510",
     "memo": "[English Medium Course]外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "計算機網路概論 Intro. to Computer Networks",
-    "num_limit": "70",
+    "num_limit": "80",
     "reg_num": "-999",
     "teacher": "林靖茹",
     "time": "T56F2-ED117[GF]"
@@ -20466,7 +20478,7 @@
     "id": "516204",
     "memo": "AB班",
     "name": "工程材料學 Engineering Materials",
-    "num_limit": "65",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "陳垂欣",
     "time": "M34R2-EB118[GF]"
@@ -20490,7 +20502,7 @@
     "id": "516206",
     "memo": "AB班",
     "name": "應用力學 Applied Mechanics",
-    "num_limit": "65",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "王彥博",
     "time": "T2R56-EB118[GF]"
@@ -20514,7 +20526,7 @@
     "id": "516208",
     "memo": "AB班",
     "name": "工程圖學(一) Engineering Graphics (I)",
-    "num_limit": "65",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "莊子毅",
     "time": "M5-EB115[GF]"
@@ -21477,7 +21489,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "王秀瑛",
-    "time": "T56W2-SA213[GF]"
+    "time": "T56W2-SA223[GF]"
   },
   "1141_516713": {
     "code": "SCMA20018",
@@ -21796,7 +21808,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517005",
-    "memo": "管院、雙主修、跨領域學程學生請於8月25日上網選課；非管院學生請於9月1日上網選課。管院大學部共同必修課程；管院學生優先選課；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(8/25提供)，登記時間至開學上課第一週週三(9/3)中午十二點截止，於當日下午分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。課程抵免申請流程請見課程綱要 。",
+    "memo": "管院、雙主修、跨領域學程學生請於8月25日上網選課；非管院學生請於9月1日上網選課。管院大學部共同必修課程；管院學生優先選課；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(https://forms.gle/LioMj2HvZYBQsr668)，登記時間至開學上課第一週週三(9/3)中午十二點截止，於當日下午分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。課程抵免申請流程請見課程綱要 。",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "55",
     "reg_num": "-999",
@@ -21808,7 +21820,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517006",
-    "memo": "管院、雙主修、跨領域學程學生請於8月25日上網選課；非管院學生請於9月1日上網選課。管院大學部共同必修課程；管院學生優先選課；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(8/25提供)，登記時間至開學上課第一週週三(9/3)中午十二點截止，於當日下午分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。課程抵免申請流程請見課程綱要 。",
+    "memo": "管院、雙主修、跨領域學程學生請於8月25日上網選課；非管院學生請於9月1日上網選課。管院大學部共同必修課程；管院學生優先選課；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(https://forms.gle/LioMj2HvZYBQsr668)，登記時間至開學上課第一週週三(9/3)中午十二點截止，於當日下午分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。課程抵免申請流程請見課程綱要 。",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "55",
     "reg_num": "-999",
@@ -21820,7 +21832,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517007",
-    "memo": "管院、雙主修、跨領域學程學生請於8月25日上網選課；非管院學生請於9月1日上網選課。管院大學部共同必修課程；管院學生優先選課；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(8/25提供)，登記時間至開學上課第一週週三(9/3)中午十二點截止，於當日下午分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。課程抵免申請流程請見課程綱要 。",
+    "memo": "管院、雙主修、跨領域學程學生請於8月25日上網選課；非管院學生請於9月1日上網選課。管院大學部共同必修課程；管院學生優先選課；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(https://forms.gle/LioMj2HvZYBQsr668)，登記時間至開學上課第一週週三(9/3)中午十二點截止，於當日下午分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。課程抵免申請流程請見課程綱要 。",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "55",
     "reg_num": "-999",
@@ -21832,7 +21844,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517008",
-    "memo": "管院、雙主修、跨領域學程學生請於8月25日上網選課；非管院學生請於9月1日上網選課。管院大學部共同必修課程；管院學生優先選課；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(8/25提供)，登記時間至開學上課第一週週三(9/3)中午十二點截止，於當日下午分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。課程抵免申請流程請見課程綱要 。",
+    "memo": "管院、雙主修、跨領域學程學生請於8月25日上網選課；非管院學生請於9月1日上網選課。管院大學部共同必修課程；管院學生優先選課；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(https://forms.gle/LioMj2HvZYBQsr668)，登記時間至開學上課第一週週三(9/3)中午十二點截止，於當日下午分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。課程抵免申請流程請見課程綱要 。",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "55",
     "reg_num": "-999",
@@ -21880,7 +21892,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517012",
-    "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(8/25提供)；若有演習課安排於9a；管理基礎學分學程課程。",
+    "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/taVDrCdGjCmxXMfm6)；若有演習課安排於9a；管理基礎學分學程課程。",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "53",
     "reg_num": "-999",
@@ -21892,7 +21904,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517013",
-    "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(8/25提供)；若有演習課安排於9a；管理基礎學分學程課程。",
+    "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/taVDrCdGjCmxXMfm6)；若有演習課安排於9a；管理基礎學分學程課程。",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "53",
     "reg_num": "-999",
@@ -21904,7 +21916,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517014",
-    "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(8/25提供)；若有演習課安排於9a；管理基礎學分學程課程。",
+    "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/taVDrCdGjCmxXMfm6)；若有演習課安排於9a；管理基礎學分學程課程。",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "53",
     "reg_num": "-999",
@@ -24777,7 +24789,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蘇晶晶",
-    "time": "F1-HC604[GF]"
+    "time": "F2-HC604[GF]"
   },
   "1141_534818": {
     "code": "HSIM30047",
@@ -25384,7 +25396,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535221",
-    "memo": "[English Medium Course]上課教室：ED108",
+    "memo": "[English Medium Course]",
     "name": "醫療電子臨床導入 Clinical Application of Medical Electronic Devices",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -25542,7 +25554,7 @@
     "id": "535234",
     "memo": "",
     "name": "資料轉換積體電路 Data Conversion Integrated Circuits",
-    "num_limit": "9999",
+    "num_limit": "90",
     "reg_num": "-999",
     "teacher": "王仲益",
     "time": "M2W34-EE102[GF]"
@@ -25552,12 +25564,12 @@
     "credit": "3.00",
     "hours": "4.00",
     "id": "535235",
-    "memo": "[English Medium Course]初選第三階段、開學後加退選：僅開放「電機學院」、「國際半導體學院」及「產創學院」之學生選課",
+    "memo": "[English Medium Course](1)初選第三階段、開學後加退選：僅開放「電機學院」、「國際半導體學院」及「產創學院」之學生選課。(2)9月2日（週二）第一次上課教室EDB26",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "黃柏蒼",
-    "time": "R34-ED103[GF],T34-ED116[GF]"
+    "time": "T78-,R34-ED103[GF]"
   },
   "1141_535300": {
     "code": "EECN30046",
@@ -25758,7 +25770,7 @@
     "id": "535317",
     "memo": "[English Medium Course]",
     "name": "數位訊號處理 Digital Signal Processing",
-    "num_limit": "90",
+    "num_limit": "89",
     "reg_num": "-999",
     "teacher": "林源倍",
     "time": "F234-EE102[GF]"
@@ -25938,7 +25950,7 @@
     "id": "535363",
     "memo": "Lab: ED713，第一次上課請同學到EDB26教室",
     "name": "無線隨意網路 Wireless Ad  Hoc Networks",
-    "num_limit": "25",
+    "num_limit": "35",
     "reg_num": "-999",
     "teacher": "林亭佑",
     "time": "M234-ED713[GF],M234-EDB26[GF]"
@@ -26346,7 +26358,7 @@
     "id": "535502",
     "memo": "資訊科學與工程研究所丁組必修；其他組別請勿選課",
     "name": "系統與網路服務研究(一) System and Network Services Research (I)",
-    "num_limit": "6",
+    "num_limit": "7",
     "reg_num": "-999",
     "teacher": "謝秉均",
     "time": ""
@@ -26382,7 +26394,7 @@
     "id": "535505",
     "memo": "資訊科學與工程研究所丁組必修；其他組別請勿選課",
     "name": "系統與網路管理實習 Computer and Network System Administration Lab",
-    "num_limit": "6",
+    "num_limit": "7",
     "reg_num": "-999",
     "teacher": "謝秉均",
     "time": ""
@@ -26716,7 +26728,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535650",
-    "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
+    "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&amp;1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously];因教室整修，第一堂採線上授課:https://meet.google.com/pmx-oaox-ysy\n",
     "name": "視訊壓縮 Video Compression",
     "num_limit": "45",
     "reg_num": "-999",
@@ -28353,7 +28365,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "黃彥彰",
-    "time": "T56-SA223[GF]"
+    "time": "T56-SA213[GF]"
   },
   "1141_536702": {
     "code": "SCMA30010",
@@ -28449,7 +28461,7 @@
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "陳秋媛",
-    "time": "M34W12-SA223[GF]"
+    "time": "M34W12-SA213[GF]"
   },
   "1141_536710": {
     "code": "SCMA30051",
@@ -30330,7 +30342,7 @@
     "id": "537815",
     "memo": "[English Medium Course];混合遠距課程。大學生限大四以上開學後寄信給老師人工加選。",
     "name": "科技創新創業管理 Technological Innovation and Entrepreneurship Management",
-    "num_limit": "30",
+    "num_limit": "35",
     "reg_num": "-999",
     "teacher": "陳詩欣",
     "time": "W789-A701[GF]"
@@ -30378,7 +30390,7 @@
     "id": "537819",
     "memo": "[English Medium Course];混合遠距課程；混合遠距課程。大學生只開放科管跨域 VIP跨域大四以上開學後寄信給老師人工加選",
     "name": "永續治理與企業社會責任創新實踐 Sustainable Governance and the Practice of Corporate Social Responsible Innovation",
-    "num_limit": "20",
+    "num_limit": "25",
     "reg_num": "-999",
     "teacher": "陳詩欣、徐肇聰",
     "time": "M34n-A722[GF]"
@@ -32200,7 +32212,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557109",
-    "memo": "限專班選修。管科專必修。有指導教授後方能選修。",
+    "memo": "限專班二年級選修。管科專必修。有指導教授後方能選修。",
     "name": "碩士論文研究 Thesis Research",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32668,7 +32680,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "557909",
-    "memo": "請注意：本課程需經授課老師審核同意後方可選修，請同學至課綱中填寫表單申請。",
+    "memo": "請注意：本課程需經授課老師審核同意後方可選修，請於 2025/8/27 前 填寫下列表單提出修課申請：https://forms.gle/TpPiud3EZ29CfG5Q8",
     "name": "政策與法律 Policy and Law",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32926,18 +32938,6 @@
     "reg_num": "-999",
     "teacher": "鍾惠民、黃仕斌、李河泉、林國徵",
     "time": "Sbcd-"
-  },
-  "1141_559007": {
-    "code": "MGME30034",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "559007",
-    "memo": "限交大校區EMBA及陽明校區生醫EMBA學生修課。",
-    "name": "歐洲精品產業管理 European Luxury Industry Management",
-    "num_limit": "0",
-    "reg_num": "-999",
-    "teacher": "張家齊、郭國泰、黃寬丞、鍾惠民",
-    "time": "Ubcd-M115[GF]"
   },
   "1141_559008": {
     "code": "MGME30030",
@@ -33618,7 +33618,7 @@
     "id": "561057",
     "memo": "「造型與繪圖」不接受已修過「幾何造形」的同學選讀。",
     "name": "造型與繪圖 Patterning and Drawing",
-    "num_limit": "31",
+    "num_limit": "41",
     "reg_num": "-999",
     "teacher": "陳明璋",
     "time": "F34-CS-PC2[GF]"
@@ -33642,7 +33642,7 @@
     "id": "561063",
     "memo": "限物治二、護理一、藥學一優先選課，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生(依初選第三階段時在籍學生帶入)，請勿隨意退課。物治、護理、藥學三系有重補修本課程需求學生，麻煩至https://forms.gle/iUJddkGakRrj2o1H9登記，行政人員將依表單資料在新生初選結束後帶入選課。",
     "name": "普通心理學 General Psychology",
-    "num_limit": "120",
+    "num_limit": "140",
     "reg_num": "-999",
     "teacher": "程千芳",
     "time": "T12-YX406[YM]"
@@ -33690,7 +33690,7 @@
     "id": "561067",
     "memo": "1.本課程期望創造醫療與科技跨領域的對話，選課學生設定為光復校區學生以及陽明校區至光復校區的共學生，各25人。2.第1至第3初選階段，「光復校區學生」以網路選課為主，「陽明校區至光復校區的共學生」至https://forms.gle/BnQZGbia2SNmj17A8登記選課意願。3. 開學加退選階段，為達到修課學生的平衡，請新竹校區的同學於選課系統選課，陽明校區的同學則請直接聯絡老師（mhwang@nycu.edu.tw)。",
     "name": "科技與醫療的人文關懷 Humanism in Technology and Medical Cares",
-    "num_limit": "25",
+    "num_limit": "27",
     "reg_num": "-999",
     "teacher": "黃育綸、陳俞琪、程千芳、林承霈、林士平、王美鴻",
     "time": "R56-A202[GF]"
@@ -39128,7 +39128,7 @@
     "name": "分科教材教法(自然領域/生物) Subject-related Teaching Materials & Methods(Biology)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "薛靜瑩",
+    "teacher": "陳雅君",
     "time": "T56-HA218[GF]"
   },
   "1141_599010": {
@@ -43156,7 +43156,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910276",
-    "memo": "(停開)化材組，上課地點：國防大學理工學院",
+    "memo": "(停開)",
     "name": "材料光電磁性質 Optical, Electronic, and Magnetic Properties of Materials",
     "num_limit": "9999",
     "reg_num": "-999",

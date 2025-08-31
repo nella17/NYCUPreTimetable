@@ -4375,7 +4375,7 @@
     "memo": "限必修生修習。",
     "name": "解剖學實驗 Anatomy Lab.",
     "num_limit": "9999",
-    "reg_num": "77",
+    "reg_num": "78",
     "teacher": "郭曉縈、傅毓秀、鄭瓊娟、李學德、王先逸、蔡佩君、侯珮珊、蔣偉程、林坤陽、彭淑婷、劉皓云、蔡國樞",
     "time": "M89F1234-YEC109[YM]"
   },
@@ -6187,7 +6187,7 @@
     "memo": "研究所: 細胞生物學組必修。\n大學部: 修課對象以必修生優先及陽明校區大一大二不分系學生。\n本課程不開放旁聽生。",
     "name": "解剖學 Anatomy",
     "num_limit": "212",
-    "reg_num": "210",
+    "reg_num": "212",
     "teacher": "傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程、林坤陽、彭淑婷",
     "time": "R234-YX216[YM]"
   },
@@ -14203,7 +14203,7 @@
     "memo": "1. 北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽語言學習與寫作中心(llwc@nycu.edu.tw）。2. 本課程初選第三階段僅開放大一學生選修。",
     "name": "西班牙文(一) Spanish (I)",
     "num_limit": "45",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "馮志宇",
     "time": "R56-YT202[YM]"
   },
@@ -22699,7 +22699,7 @@
     "memo": "[English Medium Course]",
     "name": "技術統治之全球影響 Global Influences of Technocracy",
     "num_limit": "20",
-    "reg_num": "20",
+    "reg_num": "22",
     "teacher": "林愛真",
     "time": "M567-A301[GF]"
   },
@@ -28615,7 +28615,7 @@
     "memo": "高分子、有機、無機、物化、分析、生化等領域。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "194",
+    "reg_num": "195",
     "teacher": "鄭彥如",
     "time": ""
   },
@@ -28627,7 +28627,7 @@
     "memo": "高分子、有機、無機、物化、分析、生化等領域。",
     "name": "專題演講 Departmental Colloquium",
     "num_limit": "9999",
-    "reg_num": "111",
+    "reg_num": "112",
     "teacher": "鄭彥如",
     "time": "F5678-SB210[GF]"
   },
@@ -28663,7 +28663,7 @@
     "memo": "",
     "name": "高分子物理 Polymer Physics",
     "num_limit": "60",
-    "reg_num": "59",
+    "reg_num": "60",
     "teacher": "陳俊太",
     "time": "W678-SB211[GF]"
   },
@@ -28699,7 +28699,7 @@
     "memo": "",
     "name": "有機光譜特論-核磁共振 Special Topics on Organic Spectroscopy-NMR",
     "num_limit": "20",
-    "reg_num": "21",
+    "reg_num": "22",
     "teacher": "鍾文聖",
     "time": "W567-SB201[GF]"
   },
@@ -28747,7 +28747,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論-物化組 Seminar",
     "num_limit": "45",
-    "reg_num": "33",
+    "reg_num": "34",
     "teacher": "曾建銘",
     "time": "F34-SB203[GF]"
   },
@@ -28783,7 +28783,7 @@
     "memo": "[English Medium Course]",
     "name": "分子光譜 Molecular Spectroscopy",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "21",
     "teacher": "平松弘嗣",
     "time": "R567-SB202[GF]"
   },
@@ -28807,7 +28807,7 @@
     "memo": "",
     "name": "半導體導論  Introduction to Semiconductors",
     "num_limit": "15",
-    "reg_num": "7",
+    "reg_num": "8",
     "teacher": "孫建文",
     "time": "M567-SB429[GF]"
   },
@@ -29743,7 +29743,7 @@
     "memo": "博士班專業核心課程。不可旁聽，不開放社會人士選讀",
     "name": "萬用啟發式演算法 Metaheuristic Algorithms",
     "num_limit": "30",
-    "reg_num": "57",
+    "reg_num": "58",
     "teacher": "林春成",
     "time": "T89W9-MB520[GF]"
   },
@@ -33415,7 +33415,7 @@
     "memo": "上課地點：浩然B1國際會議廳,限大二至大四同學修讀。",
     "name": "經典通識教育講座 Contemporary Civilization",
     "num_limit": "180",
-    "reg_num": "180",
+    "reg_num": "181",
     "teacher": "胡正光、王美鴻",
     "time": "W56-Lib-B1[GF]"
   },
@@ -35275,7 +35275,7 @@
     "memo": "第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課",
     "name": "西班牙文(一) Spanish (I)",
     "num_limit": "35",
-    "reg_num": "38",
+    "reg_num": "40",
     "teacher": "李忍堅",
     "time": "W12-A308[GF]"
   },
@@ -35287,7 +35287,7 @@
     "memo": "第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課",
     "name": "西班牙文(一) Spanish (I)",
     "num_limit": "35",
-    "reg_num": "36",
+    "reg_num": "39",
     "teacher": "李忍堅",
     "time": "F34-A307[GF]"
   },

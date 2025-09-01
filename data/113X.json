@@ -251,6 +251,18 @@
     "teacher": "陳威儀、郭津岑、張崇德",
     "time": "M234T234W234R234F234-YC516[YM]"
   },
+  "113X_112200": {
+    "code": "BEPT20033",
+    "credit": "2.00",
+    "hours": "4.00",
+    "id": "112200",
+    "memo": "限物輔系學生選課，不開放外系學生修習。",
+    "name": "物理治療臨床實習(八) Physical Therapy Practicum (VIII)",
+    "num_limit": "1",
+    "reg_num": "1",
+    "teacher": "羅鴻基、楊雅如、李淑貞",
+    "time": ""
+  },
   "113X_112300": {
     "code": "BEIR10019",
     "credit": "2.00",
@@ -272,7 +284,7 @@
     "name": "台灣傳統中醫及公共衛生實務 Introduction of Traditional Chinese Medicine and Public Health System in Taiwan",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "彭溫雅、簡莉盈、陳方佩、陳娟瑜、林東毅、莊宜芳、邱淑媞、連加恩、劉汗曦",
+    "teacher": "彭溫雅、簡莉盈、陳方佩、陳娟瑜、莊宜芳、林東毅、邱淑媞、連加恩、劉汗曦",
     "time": ""
   },
   "113X_250100": {
@@ -547,7 +559,7 @@
     "memo": "1.上課日期7/14-8/4 。\n2.本課程與台灣半導體研究中心合作，開課前將另發相關上課通知。\n3.限光電系碩,博新生。\n4.加簽不需經任課老師簽名,授權由光電系學生指導教授加簽。",
     "name": "半導體製程暨光電子學技術 Semiconductor Manufacturing and Optoelectronics Technologies",
     "num_limit": "50",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "謝嘉民",
     "time": ""
   },

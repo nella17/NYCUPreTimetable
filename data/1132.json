@@ -40668,12 +40668,12 @@
     "time": "M34F6-"
   },
   "1132_910254": {
-    "code": "SESE10088",
+    "code": "SESE20133",
     "credit": "3.00",
     "hours": "3.00",
     "id": "910254",
     "memo": "化材組，上課地點：國防大學理工學院",
-    "name": "無機化學 Organic Chemistry(2)",
+    "name": "無機化學 Inorganic Chemistry(2)",
     "num_limit": "9999",
     "reg_num": "9",
     "teacher": "張章平",

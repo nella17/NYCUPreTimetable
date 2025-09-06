@@ -6669,7 +6669,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "林志遠",
-    "time": "R56-YN611[YM]"
+    "time": "R56-YN613[YM]"
   },
   "1141_130800": {
     "code": "MDEO30046",
@@ -7509,7 +7509,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "范佩貞",
-    "time": "R78-YS415[YM]"
+    "time": "R78-YR102[YM]"
   },
   "1141_131212": {
     "code": "MDIH30001",
@@ -8157,7 +8157,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "劉介宇",
-    "time": "F78-YN416[YM]"
+    "time": "F78-YN418[YM]"
   },
   "1141_131805": {
     "code": "NSCH30003",
@@ -9887,18 +9887,6 @@
     "teacher": "許世明",
     "time": "M78-YT202[YM]"
   },
-  "1141_132521": {
-    "code": "BEIR30040",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "132521",
-    "memo": "",
-    "name": "超音波神經調控 Ultrasound Neuromodulation",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "楊逢羿",
-    "time": "W56-YB134[YM]"
-  },
   "1141_132522": {
     "code": "BEIR30078",
     "credit": "2.00",
@@ -9982,6 +9970,18 @@
     "reg_num": "-999",
     "teacher": "陳志成、楊逢羿、郭文娟、盧家鋒",
     "time": "F34-YB134[YM]"
+  },
+  "1141_132530": {
+    "code": "BEIR30085",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "132530",
+    "memo": "",
+    "name": "治療用超音波學 Therapeutic Ultrasound",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "楊逢羿",
+    "time": "W567-YB134[YM]"
   },
   "1141_132600": {
     "code": "BEBP30006",
@@ -11085,7 +11085,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "王文基",
-    "time": "F234-YX211[YM]"
+    "time": "F234-YX321[YM]"
   },
   "1141_133202": {
     "code": "SHTS30044",
@@ -11793,7 +11793,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "簡麗年、劉介宇、蔡憶文、藍凡耘、李韶芬",
-    "time": "T34-YN611[YM]"
+    "time": "T34-YN613[YM]"
   },
   "1141_140501": {
     "code": "MDHW30028",
@@ -11829,7 +11829,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蔡憶文",
-    "time": "W789-YN613[YM]"
+    "time": "W234-YN613[YM]"
   },
   "1141_140700": {
     "code": "MDEC30003",
@@ -12330,7 +12330,7 @@
     "id": "141902",
     "memo": "[English Medium Course]此為本學系博士班必修課程，請與指導教授討論後再選修",
     "name": "專題討論(三) Seminar (III)",
-    "num_limit": "70",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "羅鴻基、王子娟、王瑞瑤、施怡芬、楊雅如、蔚順華、陳喬男、李淑貞、李雪楨、蔡美文、游忠煌、宋文旭、林吟亮、黃崇舜、施惠婷、陳博因",
     "time": "M5678-YB102[YM]"
@@ -12574,6 +12574,18 @@
     "reg_num": "-999",
     "teacher": "李志浩、陳韻如",
     "time": "R234-"
+  },
+  "1141_142811": {
+    "code": "LSMM30024",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "142811",
+    "memo": "授課老師：陳振輝，上課地點：A236, 2F, Agricultural Technology Building, Academia Sinica",
+    "name": "進階動物生物學 Advenced Animal Biology",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "分子醫學學程",
+    "time": "R678-"
   },
   "1141_142900": {
     "code": "LSNS30053",
@@ -13578,7 +13590,7 @@
     "id": "161023",
     "memo": "依課務組選課期程逐階調整課程限修人數。2.開學後人工加簽，開放5位「優先開放第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」務必出席第一堂課程說明",
     "name": "政治學 Political Science",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "彭懷恩",
     "time": "F56-YT104[YM]"
@@ -13674,7 +13686,7 @@
     "id": "161031",
     "memo": "1.視訊同步遠距課程 (陽明校區：YT301；交大校區：EE129)。2.依課務組選課期程逐階調整課程限修人數。3.開學後人工加簽，開放5位「優先開放第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」務必出席第一堂課程說明",
     "name": "翻轉管理學 A Critical Understanding of Management",
-    "num_limit": "40",
+    "num_limit": "49",
     "reg_num": "-999",
     "teacher": "徐詩偉",
     "time": "F56-EE129[GF],F56-YT301[YM]"
@@ -13914,7 +13926,7 @@
     "id": "161052",
     "memo": "1.陽明交通大學、政治大學、臺北藝術大學三校教務學術合作博雅教育課程。2.視訊同步遠距課程 (陽明校區：YL402；交大校區：CS100)。3.第15、16兩周課程改在12/13(六)10:30-12:20、13:30-15:20上課。4.依課務組選課期程逐階調整課程限修人數。",
     "name": "跨領域通識課：那些動物教我的事 Cross-Disciplinary GE Course： Things We Learned from Animals",
-    "num_limit": "35",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "李怡萱、郭文瑞、俞震亞、鄭凱元、嚴如玉、林士傑、麥如村、廖文霖、尼大衛、魏雋展",
     "time": "R78-CS100[GF],R78-YL402[YM]"
@@ -13955,18 +13967,6 @@
     "teacher": "嚴曉珮",
     "time": "R56-YT104[YM]"
   },
-  "1141_161057": {
-    "code": "GECE00391",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "161057",
-    "memo": "本學期（114-1）「音樂、媒介與說故事」課程因故停開，造成不便之處，望請海涵。【備註】1. 停課日自第一周起即時生效，當周停課，請無須到課。2. 已選進本課程之同學，敬請轉選其它課程修習。3. 承上，如有轉選其它由博雅書苑（陽明校區）開設之核心課程相關需求，請與博雅書苑陽明校區辦公室聯繫（※ 聯繫時請先告知該課程承辦人是從本課程退選之同學）。",
-    "name": "音樂、媒介與說故事 Music, Media and Storytelling",
-    "num_limit": "0",
-    "reg_num": "-999",
-    "teacher": "雷光夏",
-    "time": "R5678-HH201[YM]"
-  },
   "1141_161058": {
     "code": "GECE00163",
     "credit": "2.00",
@@ -13974,7 +13974,7 @@
     "id": "161058",
     "memo": "視訊同步遠距課程 (陽明校區：YT305；交大校區：A302)；碩博士修課連結:https://forms.gle/2CpWJ2xDzvoC5cx98",
     "name": "食品安全與生活 Food Safety and Life",
-    "num_limit": "80",
+    "num_limit": "95",
     "reg_num": "-999",
     "teacher": "陳美蓮、陳鋕雄",
     "time": "R34-A302[GF],R34-YT305[YM]"
@@ -15321,7 +15321,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "杜聖聰",
-    "time": "R234-HK114[LJ]"
+    "time": "R234-HKB08[LJ]"
   },
   "1141_310119": {
     "code": "HKCT20033",
@@ -15825,7 +15825,7 @@
     "num_limit": "100",
     "reg_num": "-999",
     "teacher": "莊碧簪、黃兆祺、林勇欣",
-    "time": "T234-BI301[BA]"
+    "time": "T234-BI310[BA]"
   },
   "1141_410014": {
     "code": "BTBT10024",
@@ -15990,7 +15990,7 @@
     "id": "410028",
     "memo": "",
     "name": "量子運算：貓神獸與科技奇異點 Quantum Computing: From  Schrödinger's Cat to the Technological Singularity",
-    "num_limit": "20",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "羅惟正",
     "time": "Rabc-CS-PC3[GF]"
@@ -16041,7 +16041,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "張家靖、羅惟正、邱光裕、柯泰名",
-    "time": "T34R34-BI310[BA]"
+    "time": "T34R34-BI309[BA]"
   },
   "1141_430004": {
     "code": "BTBT30136",
@@ -16438,6 +16438,18 @@
     "reg_num": "-999",
     "teacher": "陳誼如",
     "time": "R567-BI308[BA]"
+  },
+  "1141_430037": {
+    "code": "BTBT30151",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "430037",
+    "memo": "",
+    "name": "計算生物實驗 Computational Biology Lab.",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "陳亭妏、尤禎祥",
+    "time": "W567-BI304[BA]"
   },
   "1141_430100": {
     "code": "BTBI30025",
@@ -17178,7 +17190,7 @@
     "id": "514020",
     "memo": "本課程人數上限為20人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "口語傳播與自我展演 Speech Communication and Self-Performance",
-    "num_limit": "20",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "唐允中",
     "time": "M56-HC101[GF]"
@@ -18561,7 +18573,7 @@
     "num_limit": "150",
     "reg_num": "-999",
     "teacher": "陳坤志",
-    "time": "M34W2-ED219[GF]"
+    "time": "M34-ED116[GF],W2-ED219[GF]"
   },
   "1141_515131": {
     "code": "EEEC20060",
@@ -19112,7 +19124,7 @@
     "name": "半導體科技-基礎服務學習 Semiconductor Technology-Foundational Service Learning",
     "num_limit": "70",
     "reg_num": "-999",
-    "teacher": "梁美智",
+    "teacher": "梁美智、張國恩",
     "time": "Fab-"
   },
   "1141_515213": {
@@ -23157,7 +23169,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "秦毓婷",
-    "time": "R56-A506[GF]"
+    "time": "R56-A505[GF]"
   },
   "1141_534000": {
     "code": "HSIE30003",
@@ -25040,7 +25052,7 @@
     "name": "論文研討 Seminar",
     "num_limit": "150",
     "reg_num": "-999",
-    "teacher": "邱一",
+    "teacher": "邱一、闕河鳴",
     "time": "W56-ED220[GF]"
   },
   "1141_535102": {
@@ -25112,7 +25124,7 @@
     "name": "機器學習無線通訊 Machine Learning for Wireless Communications",
     "num_limit": "25",
     "reg_num": "-999",
-    "teacher": "王蒞君",
+    "teacher": "王蒞君、闕河鳴、許亨仰、陳達慶",
     "time": "Wabc-ED203[GF]"
   },
   "1141_535108": {
@@ -25449,7 +25461,7 @@
     "num_limit": "85",
     "reg_num": "-999",
     "teacher": "劉建男",
-    "time": "M34W34-ED116[GF]"
+    "time": "W34-ED116[GF],M34-ED219[GF]"
   },
   "1141_535227": {
     "code": "EEIE30024",
@@ -25602,7 +25614,7 @@
     "id": "535303",
     "memo": "【AI學程專業選修】",
     "name": "影像處理 Image Processing",
-    "num_limit": "172",
+    "num_limit": "185",
     "reg_num": "-999",
     "teacher": "歐陽盟",
     "time": "Mabc-ED220[GF]"
@@ -26013,7 +26025,7 @@
     "num_limit": "80",
     "reg_num": "-999",
     "teacher": "渡邊浩志",
-    "time": "R789-ED202[GF]"
+    "time": "R789-ED219[GF]"
   },
   "1141_535370": {
     "code": "EECM30118",
@@ -26037,7 +26049,7 @@
     "num_limit": "45",
     "reg_num": "-999",
     "teacher": "高曜煌",
-    "time": "M678-ED202[GF]"
+    "time": "M678-EDB01[GF]"
   },
   "1141_535372": {
     "code": "EECM30136",
@@ -26565,7 +26577,7 @@
     "num_limit": "150",
     "reg_num": "-999",
     "teacher": "劉育綸",
-    "time": "R56-EC115[GF]"
+    "time": "R56-ED117[GF]"
   },
   "1141_535523": {
     "code": "CSIC30014",
@@ -26649,7 +26661,7 @@
     "num_limit": "40",
     "reg_num": "-999",
     "teacher": "許騰尹",
-    "time": "Rabc-EC016[GF],Rabc-EC221[GF],Rabc-EC222[GF]"
+    "time": "Rabc-EC122[GF],Rabc-EC221[GF],Rabc-EC222[GF]"
   },
   "1141_535603": {
     "code": "CSIC30093",
@@ -28509,7 +28521,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "許元春",
-    "time": "T2F34-SA211[GF]"
+    "time": "T2F34-SA223[GF]"
   },
   "1141_536712": {
     "code": "SCMA30074",
@@ -28533,7 +28545,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳冠宇",
-    "time": "W34-SA211[GF],F3-SA213[GF]"
+    "time": "W34F3-SA211[GF]"
   },
   "1141_536714": {
     "code": "SCMA30076",
@@ -29805,7 +29817,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "董弘平",
-    "time": "R234-MB418[GF]"
+    "time": "R234-MB414[GF]"
   },
   "1141_537409": {
     "code": "MGEM30084",
@@ -29878,18 +29890,6 @@
     "reg_num": "-999",
     "teacher": "資管所",
     "time": "S567-MB304[GF]"
-  },
-  "1141_537603": {
-    "code": "MGIM30005",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "537603",
-    "memo": "博士班二年級上學期必修課程，博班專業課程。限資管同學選\n英語授課，隔週上課博二與博三合上課程。\n[English Medium Course]",
-    "name": "博士論文研討(I) Doctoral Seminar (I)",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "資管所",
-    "time": "R56-MB304[GF]"
   },
   "1141_537604": {
     "code": "MGIM30006",
@@ -33018,7 +33018,7 @@
     "id": "561006",
     "memo": "",
     "name": "生命教育 Life Education",
-    "num_limit": "50",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "王冠生",
     "time": "F56-A202[GF]"
@@ -33030,7 +33030,7 @@
     "id": "561008",
     "memo": "「邏輯與思維」 選課系統預設核心人文,欲採計核心自然請至通識中心書面申請。",
     "name": "邏輯與思維 Logic and Thinking",
-    "num_limit": "80",
+    "num_limit": "99",
     "reg_num": "-999",
     "teacher": "王冠生",
     "time": "F78-AB102[GF]"
@@ -33054,7 +33054,7 @@
     "id": "561010",
     "memo": "視訊同步遠距課程，(交大校區：A204實體授課，陽明校區:請向教師索取線上連結)",
     "name": "日本文化論 Cultural Heritage of Japan",
-    "num_limit": "50",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "王敬翔",
     "time": "F34-A302[GF]"
@@ -33066,7 +33066,7 @@
     "id": "561011",
     "memo": "視訊同步遠距課程，(交大校區：A204實體授課，陽明校區:請向教師索取線上連結)",
     "name": "日本文化論 Cultural Heritage of Japan",
-    "num_limit": "50",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "王敬翔",
     "time": "F56-A302[GF]"
@@ -33534,7 +33534,7 @@
     "id": "561050",
     "memo": "",
     "name": "情緒心理學 Emotional Psychology",
-    "num_limit": "40",
+    "num_limit": "45",
     "reg_num": "-999",
     "teacher": "許鶯珠",
     "time": "M34-A203[GF]"
@@ -33894,7 +33894,7 @@
     "id": "561087",
     "memo": "",
     "name": "全球視野下的工程文化與實踐 Engineering culture and practice in a global context",
-    "num_limit": "25",
+    "num_limit": "29",
     "reg_num": "-999",
     "teacher": "顧彩璇",
     "time": "R78-HC104[GF]"
@@ -34581,7 +34581,7 @@
     "num_limit": "25",
     "reg_num": "-999",
     "teacher": "陳亞玲",
-    "time": "R56-A505[GF]"
+    "time": "R56-A506[GF]"
   },
   "1141_562052": {
     "code": "GELT00007",
@@ -34593,7 +34593,7 @@
     "num_limit": "25",
     "reg_num": "-999",
     "teacher": "陳亞玲",
-    "time": "R78-A505[GF]"
+    "time": "R78-A506[GF]"
   },
   "1141_562053": {
     "code": "GELT00013",

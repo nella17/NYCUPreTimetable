@@ -4136,7 +4136,7 @@
     "name": "心靈雞湯 Chicken Soup for the Soul",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "郭文娟",
+    "teacher": "卓冠宇",
     "time": "W12-"
   },
   "1141_112500": {
@@ -10074,10 +10074,10 @@
     "id": "132607",
     "memo": "",
     "name": "醫用電子學應用導論 Introduction to Medical Electronics Applications",
-    "num_limit": "25",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "饒啟文",
-    "time": "W567-YL404[YM]"
+    "time": "W567-YK436[YM]"
   },
   "1141_132608": {
     "code": "BEBP30009",
@@ -13890,7 +13890,7 @@
     "id": "161049",
     "memo": "依課務組選課期程逐階調整課程限修人數。",
     "name": "安全衛生通識教育 General Knowledge of Safety Health",
-    "num_limit": "50",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "張榮偉、黃鈺芳、吳威德",
     "time": "W78-YB101[YM]"
@@ -19816,7 +19816,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "515607",
-    "memo": "[English Medium Course]不開放網路選課，需經指導教授同意後以書面加簽",
+    "memo": "[English Medium Course]不開放網路選課，需經指導教授同意後以書面加簽。加簽方式請參閱資工系網頁。",
     "name": "資訊工程專題(一) Computer Science and Engineering Projects (I)",
     "num_limit": "0",
     "reg_num": "-999",
@@ -19828,7 +19828,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "515608",
-    "memo": "[English Medium Course]資工系與電資學士班學生優先選課；須修過資訊工程專題(一)才可修資訊工程專題(二)；Pass the “Computer Science and Engineering Projects (I)” before taking “Computer Science and Engineering Projects (II)”；電資學士班同學在二年級以上必須選修電機學院與資訊學院同一系所開至少2學期專題課程；主開4年級；「於學期末的第17/18彈性教學週，原則上會安排在W78的時間舉行專題報告或競賽」",
+    "memo": "[English Medium Course]資工系學生優先選課；須修過資訊工程專題(一)才可修資訊工程專題(二)；Pass the “Computer Science and Engineering Projects (I)” before taking “Computer Science and Engineering Projects (II)”；主開4年級；「於學期末的第17/18彈性教學週，原則上會安排在W78的時間舉行專題報告或競賽」。選課注意事項請參閱系網頁。",
     "name": "資訊工程專題(二) Computer Science and Engineering Projects (II)",
     "num_limit": "175",
     "reg_num": "-999",
@@ -20949,7 +20949,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "黃爾文",
-    "time": "R456-EF202[GF]"
+    "time": "R6-EF201[GF],R45-EF207[GF]"
   },
   "1141_516314": {
     "code": "ENMS10034",
@@ -21904,7 +21904,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517012",
-    "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/taVDrCdGjCmxXMfm6)；若有演習課安排於9a；管理基礎學分學程課程。",
+    "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/qNAyVuQqbgNQEfZE7)；若有演習課安排於9a；管理基礎學分學程課程。",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "53",
     "reg_num": "-999",
@@ -21916,7 +21916,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517013",
-    "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/taVDrCdGjCmxXMfm6)；若有演習課安排於9a；管理基礎學分學程課程。",
+    "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/qNAyVuQqbgNQEfZE7)；若有演習課安排於9a；管理基礎學分學程課程。",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "53",
     "reg_num": "-999",
@@ -21928,7 +21928,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517014",
-    "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/taVDrCdGjCmxXMfm6)；若有演習課安排於9a；管理基礎學分學程課程。",
+    "memo": "非管院學生請於8月25日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/qNAyVuQqbgNQEfZE7)；若有演習課安排於9a；管理基礎學分學程課程。",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "53",
     "reg_num": "-999",
@@ -22134,7 +22134,7 @@
     "id": "517213",
     "memo": "",
     "name": "運輸學 Transportation",
-    "num_limit": "60",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "吳昆峰、張宗勝、鍾易詩、盧宗成、胡守任、閻姿慧、黃寬丞、黃明居、邱裕鈞、姚銘忠、王晉元、黃家耀、陳彥佑、林陳佑、顏子皓、水敬心",
     "time": "M234-A901[GF]"
@@ -27976,7 +27976,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "536310",
-    "memo": "[English Medium Course]\n1.第一~第三階段限材料系、奈米所、國際半導體學院、前瞻所加選\n2.開學後加退選開放外系或外校加選\n3.上課教室：EF408",
+    "memo": "[English Medium Course]\n1.第一~第三階段限材料系、奈米所、國際半導體學院、前瞻所加選\n2.開學後加退選開放外系或外校加選",
     "name": "應用電化學 Applied Electrochemistry",
     "num_limit": "60",
     "reg_num": "-999",
@@ -32958,7 +32958,7 @@
     "id": "561001",
     "memo": "",
     "name": "文學經典：台灣文學 Taiwanese Literature",
-    "num_limit": "45",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "黃毓婷",
     "time": "F567-A303[GF]"
@@ -38442,7 +38442,7 @@
     "id": "569003",
     "memo": "[新開課程,歡迎選修]\n上市上櫃公司都需要成立永續委員會及永續長，至少需要>1800位永續長(再加上相關部門主管需求人數會更多)，期望未來永續長中有不少是出自這個精進微學程的同學,:-),歡迎來向目前的永續長及相關部門主管學習。",
     "name": "跨領域企業碳中和與ESG培力 Cross-disciplinary Corporate Carbon Neutrality and ESG Empowerment.",
-    "num_limit": "60",
+    "num_limit": "63",
     "reg_num": "-999",
     "teacher": "高正忠",
     "time": "T34-A302[GF]"

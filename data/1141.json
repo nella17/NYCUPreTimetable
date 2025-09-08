@@ -1340,7 +1340,7 @@
     "name": "牙醫學概論 Introduction of Dentistry",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "林元敏、季麟揚、林宥成、王鼎涵、賴玉玲、吳政憲、劉正芬、陳彥廷、蘇明圳、何怡青、吳姿瑩、張志麟",
+    "teacher": "林元敏、季麟揚、林嘉澍、林宥成、王鼎涵、賴玉玲、吳政憲、劉正芬、陳彥廷、蘇明圳、何怡青、吳姿瑩、張志麟、劉妍君",
     "time": "R56-YD214[YM]"
   },
   "1141_111509": {
@@ -25842,7 +25842,7 @@
     "id": "535354",
     "memo": "上課地點：電資大樓ES503教室",
     "name": "元件設計與模擬實驗 Device Design and Simulation Lab. ",
-    "num_limit": "25",
+    "num_limit": "15",
     "reg_num": "-999",
     "teacher": "李義明",
     "time": "S234-"
@@ -30594,7 +30594,7 @@
     "id": "537915",
     "memo": "開放通識，開放台聯大同學選修",
     "name": "國家安全與現代社會：法律的角度 National Security and Modern Society: Legal Perspective",
-    "num_limit": "100",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "林建中",
     "time": "R56-A209[GF]"

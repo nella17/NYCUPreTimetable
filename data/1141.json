@@ -3043,7 +3043,7 @@
     "memo": "(1)物輔系同學優先\n(2)凡期中考、期末考請假者，除公假、喪假、急重病或臨時發生緊急、重大不可抗力之變故外，其補考後之成績應打9折",
     "name": "物理治療導論 Introduction to Physical Therapy",
     "num_limit": "45",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "陳喬男、王子娟、王瑞瑤、楊雅如、李淑貞、李雪楨、蔡美文、羅鴻基、林吟亮、黃崇舜",
     "time": "T3-YB601[YM]"
   },
@@ -3055,7 +3055,7 @@
     "memo": "(1)物輔系同學優先\n(2)凡期中考、期末考請假者，除公假、喪假、急重病或臨時發生緊急、重大不可抗力之變故外，其補考後之成績應打9折",
     "name": "輔助科技導論 Introduction to Assistive Technology ",
     "num_limit": "50",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "李淑貞、徐麒晏、余虹、蘇信昌、陳英聰",
     "time": "T4-YB601[YM]"
   },
@@ -3607,7 +3607,7 @@
     "memo": "",
     "name": "物理治療職涯規劃 Physical Therapy Career Planning",
     "num_limit": "50",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "王子娟、施怡芬、羅鴻基、陳博因、陳子敬、邵芙昕、阮彥鈞",
     "time": "W2-YB601[YM]"
   },
@@ -4880,7 +4880,7 @@
     "name": "中醫學導論 Introduction to Traditional Chinese Medicine",
     "num_limit": "60",
     "reg_num": "31",
-    "teacher": "許中華、黃怡超、陳方佩、林東毅、張清貿、龔彥穎、劉佳祐、徐蔚泓、彭溫雅、黃奎祐",
+    "teacher": "許中華、黃怡超、陳方佩、林東毅、張清貿、龔彥穎、劉佳祐、徐蔚泓、彭溫雅、黃奎祐、陳怡如",
     "time": "M78-YK208[YM]"
   },
   "1141_113902": {
@@ -5095,7 +5095,7 @@
     "memo": "*牙醫一、物輔一、藥學一合班上課，他系同學選修須經授課教師同意。\n*遠距&實體上課：【陽明校區】傳甲208演講廳、【交大校區】綜合一館B102。",
     "name": "普通生物學(上) General Biology I",
     "num_limit": "100",
-    "reg_num": "104",
+    "reg_num": "103",
     "teacher": "陳俊銘、羅清維、李曉暉、袁維謙、陳妤、吳如蕙",
     "time": "F34-AB102[GF],F34-YK208[YM]"
   },
@@ -5107,7 +5107,7 @@
     "memo": "物輔大一同學優先，外系同學選修需先徵得老師同意。",
     "name": "普通生物學實驗 General Biology Lab.",
     "num_limit": "36",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "林崇智、陳俊銘、羅清維、俞震亞、李敏嘉、陳嘉霖、姜為中、陳妤、吳如蕙",
     "time": "W5678-YED109[YM]"
   },
@@ -5227,7 +5227,7 @@
     "memo": "物輔一",
     "name": "化學原理實驗 General Chemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "曾炳輝、廖韋晴、黃依川",
     "time": "R5678-YED309[YM]"
   },
@@ -5263,7 +5263,7 @@
     "memo": "生科一、不分一、物輔一",
     "name": "化學原理(一) Principles of Chemistry I",
     "num_limit": "9999",
-    "reg_num": "109",
+    "reg_num": "108",
     "teacher": "許世宜",
     "time": "T56-YX216[YM]"
   },
@@ -5323,7 +5323,7 @@
     "memo": "",
     "name": "普通物理學(一) General Physics I",
     "num_limit": "9999",
-    "reg_num": "118",
+    "reg_num": "117",
     "teacher": "黃宣誠",
     "time": "M56-YX216[YM]"
   },
@@ -5347,7 +5347,7 @@
     "memo": "此課程為跨教室遠距課程(教師實體授課、學生實體上課)",
     "name": "微積分 Calculus",
     "num_limit": "9999",
-    "reg_num": "115",
+    "reg_num": "114",
     "teacher": "宋文旭",
     "time": "T78-A302[GF],T78-YX216[YM]"
   },
@@ -6464,7 +6464,7 @@
     "name": "中醫學概論 Introduction of Traditional Chinese Medicine",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "許中華、黃伯瑜、鄭婷宜",
+    "teacher": "許中華、陳怡如、黃伯瑜、鄭婷宜",
     "time": "R56-YR104[YM]"
   },
   "1141_130602": {
@@ -11059,7 +11059,7 @@
     "memo": "上課時間為9:30~12:20。",
     "name": "科技與社會導論 An Introduction to Science, Technology and Society",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "王文基",
     "time": "F234-YX321[YM]"
   },
@@ -12884,7 +12884,7 @@
     "name": "藥事法規 Pharmaceutical Law",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "吳全峰",
+    "teacher": "吳全峰、黃文鴻、張偉嶠、李素華、張連成",
     "time": "T78-YN208[YM]"
   },
   "1141_143405": {
@@ -18331,7 +18331,7 @@
     "memo": "實驗教室安排於工四館ED414、ED415",
     "name": "VLSI實驗 VLSI Labs.",
     "num_limit": "80",
-    "reg_num": "73",
+    "reg_num": "72",
     "teacher": "廖育德",
     "time": "Tabc-"
   },
@@ -18739,7 +18739,7 @@
     "memo": "欲加選的學生請於課堂第一堂課統一辦理。",
     "name": "類比積體電路導論 Introduction to Analog Integrated Circuits",
     "num_limit": "72",
-    "reg_num": "67",
+    "reg_num": "66",
     "teacher": "洪浩喬",
     "time": "M34R4-EE324[GF]"
   },
@@ -19771,7 +19771,7 @@
     "memo": "[English Medium Course]不開放網路選課，需經指導教授同意後以書面加簽。加簽方式請參閱資工系網頁。",
     "name": "資訊工程專題(一) Computer Science and Engineering Projects (I)",
     "num_limit": "0",
-    "reg_num": "165",
+    "reg_num": "166",
     "teacher": "資工系",
     "time": ""
   },
@@ -24695,18 +24695,6 @@
     "teacher": "馬定一",
     "time": "W56-HC514[GF]"
   },
-  "1141_534814": {
-    "code": "HSIM30077",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "534814",
-    "memo": "限本所",
-    "name": "竹韻音樂會實務一 Concert of IMU “Tunes of Bamboo” I",
-    "num_limit": "14",
-    "reg_num": "0",
-    "teacher": "曾毓忠、董昭民、羅芳偉",
-    "time": "W9-HC501[GF]"
-  },
   "1141_534815": {
     "code": "HSIM30045",
     "credit": "1.00",
@@ -24970,18 +24958,6 @@
     "reg_num": "2",
     "teacher": "李珮琪",
     "time": "Ta-HC615[GF]"
-  },
-  "1141_534838": {
-    "code": "HSIM30062",
-    "credit": "3.00",
-    "hours": "1.00",
-    "id": "534838",
-    "memo": "限本所",
-    "name": "演奏主修：低音管 Advanced Instruction in Bassoon",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "張先惠",
-    "time": "Fb-HC616[GF]"
   },
   "1141_534839": {
     "code": "HSIM30046",
@@ -25363,7 +25339,7 @@
     "memo": "上課教室：ED415。(1) 第一、第二、第三階段選課：開放選課且電子所、電機系、產創學院優先；不開放填寫google表單\n(2) 開學後加退選階段：開放選課；\n(3) 未加選到同學: 開放填寫google表單且依規定加簽\n依照順位排序1.電子所 2.電機系 3.相關學院 4.外系所 5.外校 進行篩選進行網路加簽，加簽總人數會經老師評估後決定最後加簽人數。 相關學院包含電機學院、資訊學院、產創學院、國半學院。如為外系所、外校欲進行加選，除填表單外，亦須提供曾修習兩門相關課程之修課成績單。若外系所、外校無提供成績單，即便選課系統選上，亦會被手動退選。相關課程：1.邏輯設計 2.數位電路與系統3.超大型積體電路設計導論(VLSI)4.數位積體電路(DIC)5.計算機結構(CA)\n加簽方式會在第一堂課時特別說明並提供表單，欲加簽同學第一堂課請務必要來。",
     "name": "積體電路設計實驗 Integrated Circuit Design Laboratory",
     "num_limit": "150",
-    "reg_num": "176",
+    "reg_num": "175",
     "teacher": "李鎮宜",
     "time": "W56ab-"
   },
@@ -25869,7 +25845,7 @@
     "num_limit": "60",
     "reg_num": "44",
     "teacher": "黃昱智",
-    "time": "R234-EE130[GF]"
+    "time": "R234-EDB06[GF]"
   },
   "1141_535361": {
     "code": "EECM30064",
@@ -26863,7 +26839,7 @@
     "memo": "資安所必修；每學期需選修「個別研究課程」。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "資安所",
     "time": ""
   },
@@ -30453,7 +30429,7 @@
     "num_limit": "9999",
     "reg_num": "24",
     "teacher": "王漢威、邱羽凡",
-    "time": "T567-MB418[GF]"
+    "time": "T567-EE129[GF]"
   },
   "1141_537906": {
     "code": "LWLW30116",
@@ -30691,7 +30667,7 @@
     "memo": "1.前瞻半導體研究所優先 2.前瞻所丙組專業選修課程(適用110~112學年度入學)；乙組專業選修課程(適用113~114學年度入學)\n3.Final project (ADC/Wireline 二擇一, 以2~3人一組為原則)\n4.視選課情況開放加選 (上限 10人)\n5.限研究生選修",
     "name": "類比混合訊號電路設計特論 Special topics in analog mixed-signal circuit design",
     "num_limit": "70",
-    "reg_num": "81",
+    "reg_num": "82",
     "teacher": "許雲翔、蕭振宇",
     "time": "F678-EC122[GF]"
   },
@@ -36991,7 +36967,7 @@
     "memo": "第一週上課集合地點為活動中心三樓桌球教室。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "藍于青",
     "time": "F56-PhE[YM]"
   },
@@ -37651,7 +37627,7 @@
     "memo": "[English Medium Course]",
     "name": "微積分學而班理論組(一) Honor Calculus Problem Solving Session (I)",
     "num_limit": "56",
-    "reg_num": "60",
+    "reg_num": "61",
     "teacher": "千野由喜",
     "time": "Fn-SA213[GF],Fn-SA214[GF],Fn-SA215[GF]"
   },
@@ -38599,7 +38575,7 @@
     "memo": "因課務系統限制，本課程不開放線上選課。請適用109學年度（含以前）必修科目表的選課同學於開學加退選期間以紙本加簽單至浩然圖書館B1藝文空間服務台進行加簽。",
     "name": "藝文賞析教育 Arts Appreciation Education",
     "num_limit": "0",
-    "reg_num": "5",
+    "reg_num": "7",
     "teacher": "藝文中心",
     "time": ""
   },
@@ -38611,7 +38587,7 @@
     "memo": "因課務系統限制，本課程不開放線上選課。請適用109學年度（含以前）必修科目表的選課同學於開學加退選期間以紙本加簽單至浩然圖書館B1藝文空間服務台進行加簽。",
     "name": "藝文賞析教育 Arts Appreciation Education",
     "num_limit": "0",
-    "reg_num": "1",
+    "reg_num": "2",
     "teacher": "藝文中心",
     "time": ""
   },

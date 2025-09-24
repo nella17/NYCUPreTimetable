@@ -1171,7 +1171,7 @@
     "memo": "",
     "name": "心靈成長(一) Spiritual Growth Ⅰ",
     "num_limit": "10",
-    "reg_num": "5",
+    "reg_num": "6",
     "teacher": "醫學系",
     "time": "W9a-"
   },
@@ -2215,7 +2215,7 @@
     "memo": "",
     "name": "中醫概論 Introduction to Chinese Medicine",
     "num_limit": "70",
-    "reg_num": "54",
+    "reg_num": "55",
     "teacher": "簡采汝、劉茹涵、柯品豪、廖麗蘭、林舜穀",
     "time": "F12-YL402[YM]"
   },
@@ -3008,7 +3008,7 @@
     "name": "臨床見習(一) Clinical Clerkship in Physical Therapy(Ⅰ)",
     "num_limit": "45",
     "reg_num": "38",
-    "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、黃崇舜、陳博因、黃美淑、魏敏如、陳元劭、蔡佳容、林佩伶、秦雅玲、方婉羽、張簡書勝、葉姵君、陳孟清、呂怡慧、喻大忠、蔡明倫、黃建儒、李肇中、李怡安、宋敦仁、黃琬葶、高宜暄、莊雅雯、周玟玲、張伸睿、黃亭瑜、厲真、蔡瑋祺、張杏妃、李建志、許穎昌、巫俊杉、王禎、王祚萱、顏如欣、翁昀秀、陳琬婷、王佩茹、楊政浩、楊子瑩、游佩芯、羅唯熏、劉士賢、廖于萱、林佳穎、楊奇恩、施宇信、謝元綸、林明臻、李君碩",
+    "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、黃崇舜、陳博因、黃美淑、魏敏如、陳元劭、蔡佳容、林佩伶、秦雅玲、方婉羽、張簡書勝、葉姵君、陳孟清、呂怡慧、喻大忠、蔡明倫、黃建儒、李肇中、李怡安、宋敦仁、黃琬葶、高宜暄、莊雅雯、周玟玲、張伸睿、黃亭瑜、厲真、蔡瑋祺、張杏妃、李建志、許穎昌、巫俊杉、王禎、王祚萱、顏如欣、翁昀秀、陳琬婷、王佩茹、楊政浩、楊子瑩、游佩芯、羅唯熏、劉士賢、廖于萱、林佳穎、楊奇恩、施宇信、謝元綸、吳昕芫、林明臻、李君碩",
     "time": "T12-YB624[YM]"
   },
   "1141_112210": {
@@ -5169,7 +5169,7 @@
     "num_limit": "9999",
     "reg_num": "47",
     "teacher": "葛宗融",
-    "time": "M234-YX501[YM]"
+    "time": "M234-YT305[YM]"
   },
   "1141_114400": {
     "code": "GEKY10001",
@@ -5623,7 +5623,7 @@
     "memo": "1.統資組碩士班領域必修課程。\n2.開放隨班附讀",
     "name": "存活資料分析 Survival Analysis",
     "num_limit": "20",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "陳瓊梅",
     "time": "W34-YS107[YM]"
   },
@@ -6177,7 +6177,7 @@
     "num_limit": "9999",
     "reg_num": "5",
     "teacher": "藍祚運、喬芷、陳信任",
-    "time": "T78-YN511[YM]"
+    "time": "T78-YN514[YM]"
   },
   "1141_130507": {
     "code": "MDHH30071",
@@ -8180,7 +8180,7 @@
     "name": "臨床藥學專科實習(二) Clinical Pharmacy Practice (Ⅱ)",
     "num_limit": "30",
     "reg_num": "4",
-    "teacher": "周千瀅、楊振昌、蔡佩君、彭殿王、王嚴鋒、王培寧、顏秀如、周月卿、王鑑瀛、張豫立、陳明德、陳寬軒、尹彙文、江東鴻、吳承學、劉耀中、陳正彥、鄒嘉玲、許家禎、何沁沁、林于瑄、王怡凱、王笙帆、陳一瑋、陳倩、黃鈴茹、雷浩然、鍾孟軒、陳伯亮、張時杰",
+    "teacher": "周千瀅、楊振昌、陳怡仁、王嚴鋒、王培寧、周月卿、張豫立、陳明德、陳寬軒、鄒嘉玲、許家禎、何沁沁、林于瑄、王怡凱、王笙帆、陳一瑋、陳倩、黃鈴茹、張時杰",
     "time": "MnTnWnRnFn-"
   },
   "1141_132015": {
@@ -8528,7 +8528,7 @@
     "name": "生技醫學講座 Biotechnology and Biomedical Seminar",
     "num_limit": "9999",
     "reg_num": "22",
-    "teacher": "楊翠青、吳韋訥、蔡伊琳、范乃文、林妙霞、吳師誠、張心儀、陳詩允",
+    "teacher": "楊翠青、吳韋訥、蔡伊琳、范乃文、林妙霞、郭育倫、吳師誠、張心儀、陳詩允",
     "time": "Tn-YB100[YM]"
   },
   "1141_132201": {
@@ -10500,9 +10500,9 @@
     "time": "M789-YK101[YM]"
   },
   "1141_133014": {
-    "code": "LSGS30023",
+    "code": "LSGS30052",
     "credit": "1.00",
-    "hours": "2.00",
+    "hours": "1.00",
     "id": "133014",
     "memo": "碩一rotation，113年7月暑假上課",
     "name": "生命科學技術 Methods in Modern Biology",
@@ -11215,7 +11215,7 @@
     "memo": "",
     "name": "臨床醫學研究設計與資料分析 Study design and data analysis for clinical research",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "李美璇",
     "time": "T34-YR105[YM]"
   },
@@ -13171,7 +13171,7 @@
     "memo": "依課務組選課期程逐階調整課程限修人數。",
     "name": "比較東西方自然哲學與古醫學觀 Comparison of Eastern & Western Natural Philosophy and View of Ancient Medicine",
     "num_limit": "50",
-    "reg_num": "48",
+    "reg_num": "49",
     "teacher": "陳方佩、張清貿、張晋賢、楊仁鄰、吳大鵬",
     "time": "T34-YT202[YM]"
   },
@@ -24559,7 +24559,7 @@
     "memo": "AI學程學生修業期間應修習2學期論文研討(書報討論)。",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "116",
+    "reg_num": "115",
     "teacher": "李慶鴻",
     "time": "W56-EEB24[GF]"
   },
@@ -24727,7 +24727,7 @@
     "memo": "[English Medium Course]",
     "name": "數位訊號處理 Digital Signal Processing",
     "num_limit": "120",
-    "reg_num": "93",
+    "reg_num": "92",
     "teacher": "陳福川",
     "time": "R567-EE105[GF]"
   },
@@ -25303,7 +25303,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "470",
+    "reg_num": "468",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25807,7 +25807,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "155",
+    "reg_num": "154",
     "teacher": "數據所",
     "time": ""
   },

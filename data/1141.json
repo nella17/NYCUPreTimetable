@@ -1688,7 +1688,7 @@
     "name": "固定贋復學實驗 Fixed Prosthodontics Lab.",
     "num_limit": "50",
     "reg_num": "42",
-    "teacher": "李士元、陳翾、王君伃、劉妍君、陳信宏",
+    "teacher": "李士元、陳翾、王君伃、許至瑜、劉妍君、陳信宏",
     "time": "W345678-YD202[YM]"
   },
   "1141_111800": {
@@ -7616,7 +7616,7 @@
     "name": "臨床細胞治療導論 Clinical Cell Therapy",
     "num_limit": "9999",
     "reg_num": "10",
-    "teacher": "張婷菡、黎萬君、吳靜宜、洪凱風、王子威、王自雄",
+    "teacher": "張婷菡、黎萬君、吳靜宜、洪凱風、王子威、王自雄、施雅薰",
     "time": "W34-YD415[YM]"
   },
   "1141_131605": {
@@ -9249,7 +9249,7 @@
     "num_limit": "10",
     "reg_num": "10",
     "teacher": "施世亮、張彧銓、黃昭偉",
-    "time": ""
+    "time": "M9a-"
   },
   "1141_132429": {
     "code": "BEPT30033",
@@ -18153,7 +18153,7 @@
     "num_limit": "35",
     "reg_num": "26",
     "teacher": "蘭宜錚",
-    "time": "F56-ED101[GF]"
+    "time": "F56-EE548[GF]"
   },
   "1141_515206": {
     "code": "EEDM20002",
@@ -18309,7 +18309,7 @@
     "num_limit": "50",
     "reg_num": "34",
     "teacher": "張國恩",
-    "time": "F234-EE130[GF]"
+    "time": "F234-EE548[GF]"
   },
   "1141_515219": {
     "code": "EEDM10028",
@@ -18321,7 +18321,7 @@
     "num_limit": "30",
     "reg_num": "23",
     "teacher": "張國恩",
-    "time": "R234-EDB07[GF]"
+    "time": "R234-EE548[GF]"
   },
   "1141_515220": {
     "code": "EEDM20017",
@@ -24585,7 +24585,7 @@
     "num_limit": "185",
     "reg_num": "152",
     "teacher": "歐陽盟",
-    "time": "Mabc-ED220[GF]"
+    "time": "Mabc-EE105[GF]"
   },
   "1141_535304": {
     "code": "EECN30077",
@@ -25303,7 +25303,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "468",
+    "reg_num": "467",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25615,7 +25615,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "119",
+    "reg_num": "117",
     "teacher": "網工所",
     "time": ""
   },
@@ -25807,7 +25807,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "154",
+    "reg_num": "153",
     "teacher": "數據所",
     "time": ""
   },
@@ -27172,7 +27172,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "536603",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "高等固態物理（一） Advanced Solid State Physics (I)",
     "num_limit": "75",
     "reg_num": "58",
@@ -29924,7 +29924,7 @@
     "name": "書報討論A Special Topic Seminar A",
     "num_limit": "20",
     "reg_num": "17",
-    "teacher": "莊競程、李佳燕",
+    "teacher": "李佳燕",
     "time": "Mz1-EE112[GF]"
   },
   "1141_545457": {
@@ -33727,7 +33727,7 @@
     "memo": "第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課",
     "name": "日文(三) Japanese(III)",
     "num_limit": "35",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "上條純惠",
     "time": "M78-A217[GF]"
   },
@@ -34555,7 +34555,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "張振興",
     "time": "M56-PE[GF]"
   },
@@ -35491,7 +35491,7 @@
     "memo": "身心障礙或持有醫院證明不宜上一般體育課者，需向體育教育中心申請統一編入「適應體育」上課。\n上課地點在游泳館二樓健身房。",
     "name": "體育－適應體育 Adapted Physical Education",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "21",
     "teacher": "詹益欣",
     "time": "Wz1-PE[GF]"
   },
@@ -35851,7 +35851,7 @@
     "memo": "上課地點：陽明校區活動中心3樓桌球教室\n第一階段開放選課系級：醫學二A。\n第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "待聘",
     "time": "M12-PhE[YM]"
   },

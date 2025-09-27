@@ -3080,7 +3080,7 @@
     "name": "臨床醫學(二) Clinical Medicine (II)",
     "num_limit": "9999",
     "reg_num": "39",
-    "teacher": "陳柏霖、丁乾坤、蔡昕霖、杜宗熹、吳思賢、吳飛逸、秦郁晴、蔡亞倫、鄭厚軒、陳冠林、黃建勝",
+    "teacher": "陳柏霖、丁乾坤、蔡昕霖、杜宗熹、吳思賢、吳飛逸、秦郁晴、蔡亞倫、鄭厚軒、陳冠林、吳東琰、余秉軒、黃建勝",
     "time": "M56-YB624[YM]"
   },
   "1141_112216": {
@@ -4233,7 +4233,7 @@
     "num_limit": "9999",
     "reg_num": "30",
     "teacher": "傅毓秀、鄭瓊娟、李學德、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程、林坤陽",
-    "time": "W567-YEC109-2[Y"
+    "time": "T234-YEC109-2[Y"
   },
   "1141_112801": {
     "code": "MDDB10016",
@@ -7712,7 +7712,7 @@
     "name": "進階婦兒科護理學(一) Advanced Maternity and Pediatric Nursing (I)",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "劉佩青、黃久美、蔡慈儀、穆佩芬",
+    "teacher": "劉佩青、黃久美、蔡慈儀",
     "time": "T567-YN320[YM]"
   },
   "1141_131706": {
@@ -9272,7 +9272,7 @@
     "name": "動作系統症候群之物理治療處置：上半身區域的臨床應用 Physical Therapy Management of Movement System Syndromes: Application to the Upper Quarter",
     "num_limit": "30",
     "reg_num": "39",
-    "teacher": "王子娟",
+    "teacher": "王子娟、李士茹",
     "time": "Syz-YB601[YM]"
   },
   "1141_132500": {
@@ -11540,7 +11540,7 @@
     "name": "護理哲理與知識建構 Philosophy and Knowledge Construction in Nursing",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "劉影梅",
+    "teacher": "劉影梅、張秀如、嚴曉珮、李豐楙",
     "time": "F234-YN321[YM]"
   },
   "1141_141402": {

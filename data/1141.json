@@ -458,7 +458,7 @@
   "1141_110031": {
     "code": "MDMD10155",
     "credit": "1.00",
-    "hours": "2.50",
+    "hours": "3.00",
     "id": "110031",
     "memo": "",
     "name": "醫院觀摩學習（一） Hospital Clinical Observation Program(1)",
@@ -470,7 +470,7 @@
   "1141_110037": {
     "code": "MDMD10159",
     "credit": "1.00",
-    "hours": "2.50",
+    "hours": "3.00",
     "id": "110037",
     "memo": "",
     "name": "醫院觀摩學習（五） Hospital Clinical Observation Program(5)",
@@ -482,7 +482,7 @@
   "1141_110038": {
     "code": "MDMD10156",
     "credit": "2.00",
-    "hours": "5.00",
+    "hours": "6.00",
     "id": "110038",
     "memo": "",
     "name": "醫院觀摩學習（二） Hospital Clinical Observation Program(2)",
@@ -494,7 +494,7 @@
   "1141_110039": {
     "code": "MDMD10160",
     "credit": "2.00",
-    "hours": "5.00",
+    "hours": "6.00",
     "id": "110039",
     "memo": "",
     "name": "醫院觀摩學習（四） Hospital Clinical Observation Program(4)",
@@ -506,7 +506,7 @@
   "1141_110040": {
     "code": "MDMD10161",
     "credit": "2.00",
-    "hours": "5.00",
+    "hours": "6.00",
     "id": "110040",
     "memo": "",
     "name": "醫院觀摩學習（六） Hospital Clinical Observation Program(6)",
@@ -4833,7 +4833,7 @@
     "num_limit": "9999",
     "reg_num": "27",
     "teacher": "蔡東湖、彭溫雅、薛敦品、莊武璋",
-    "time": "T234-YK912[YM]"
+    "time": "W567-YK912[YM]"
   },
   "1141_113911": {
     "code": "MDCH20007",
@@ -7564,7 +7564,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "131505",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "次世代定序與生物資訊分析 Next-Generation Sequencing and Bioinformatics Analysis",
     "num_limit": "9999",
     "reg_num": "9",
@@ -14456,7 +14456,7 @@
     "name": "畢業專題(下) Final Year Projet (II)",
     "num_limit": "9999",
     "reg_num": "38",
-    "teacher": "張宏宇、賴至慧、李美華、魏玓、戴瑜慧、陳維平、黃淑鈴、游婉雲",
+    "teacher": "賴至慧、李美華、魏玓、戴瑜慧、陳維平、黃淑鈴、游婉雲",
     "time": ""
   },
   "1141_310105": {
@@ -25303,7 +25303,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "463",
+    "reg_num": "461",
     "teacher": "資科工所",
     "time": ""
   },
@@ -30752,7 +30752,7 @@
     "name": "電漿與薄膜製程技術 Plasma and Thin Film Technology ",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "陳軍華、張  立",
+    "teacher": "陳軍華、張 立",
     "time": "Rabc-EF207[GF]"
   },
   "1141_556306": {
@@ -41088,12 +41088,12 @@
     "time": "T678-"
   },
   "1141_910255": {
-    "code": "SESE10194",
+    "code": "SESE20257",
     "credit": "1.00",
     "hours": "3.00",
     "id": "910255",
     "memo": "電機組，上課地點：國防大學理工學院",
-    "name": "通訊系統專題實作(3) Practice of Communication Systems(3)",
+    "name": "資訊應用專題實作(3) Project of Information Applications(3)",
     "num_limit": "9999",
     "reg_num": "4",
     "teacher": "鄭紹宏",

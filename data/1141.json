@@ -25975,7 +25975,7 @@
     "memo": "[English Medium Course]",
     "name": "固態物理學導論 Introduction to solid state physics",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "24",
     "teacher": "葉勝玄",
     "time": "T234-EE117[GF]"
   },
@@ -28787,6 +28787,18 @@
     "teacher": "資管所",
     "time": "S567-MB304[GF]"
   },
+  "1141_537604": {
+    "code": "MGIM30006",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "537604",
+    "memo": "博士班三年級上學期必修課程，博班專業課程。限資管同學選\n英語授課，隔週上課博二與博三合上課程。\n[English Medium Course][English Medium Course]",
+    "name": "博士論文研討(II) Doctoral Seminar(II)",
+    "num_limit": "9999",
+    "reg_num": "6",
+    "teacher": "資管所",
+    "time": "R56-MB304[GF]"
+  },
   "1141_537605": {
     "code": "MGIM30042",
     "credit": "3.00",
@@ -30178,6 +30190,18 @@
     "reg_num": "25",
     "teacher": "運管系",
     "time": "F78-TB429[BM]"
+  },
+  "1141_547600": {
+    "code": "MGIM30049",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "547600",
+    "memo": "[English Medium Course]，博士班一年級上學期必修課程，專業課程\n限資管所選課。",
+    "name": "高等管理資訊系統 Advanced Management Information Systems",
+    "num_limit": "9999",
+    "reg_num": "5",
+    "teacher": "資管所",
+    "time": "M567-MB304[GF]"
   },
   "1141_547700": {
     "code": "MGIF30059",

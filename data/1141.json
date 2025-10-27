@@ -10616,7 +10616,7 @@
     "name": "科技與社會專題討論(一) Seminar on Science, Technology and Society I",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "郭文華、王文基、范玫芳、林昭光、陳嘉新、洪紹洋、彭松嶽、顧彩璇、嚴曉珮、雷祥麟",
+    "teacher": "郭文華、王文基、范玫芳、陳嘉新、洪紹洋、彭松嶽、顧彩璇、嚴曉珮、雷祥麟",
     "time": "F78-YX201[YM]"
   },
   "1141_133201": {
@@ -30739,7 +30739,7 @@
     "memo": "",
     "name": "半導體電子元件 Semiconductor Device Physics ",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "楊朝堯",
     "time": "Wabc-EF207[GF]"
   },

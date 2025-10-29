@@ -4616,7 +4616,7 @@
     "name": "醫療與社會人文 Medical Humanity and Social Science",
     "num_limit": "146",
     "reg_num": "135",
-    "teacher": "周穎政、郭文華、梁立霖、藍凡耘、任一安、楊南屏、顏永豐、王宗曦、李雅玲、蔡淑鈴、葉采衢、簡詩穎、黃品翔、陳秀丹",
+    "teacher": "周穎政、郭文華、梁立霖、藍凡耘、任一安、楊南屏、顏永豐、王宗曦、李雅玲、蔡淑鈴、葉采衢、簡詩穎、黃品翔、陳秀丹、馬聖翔",
     "time": "T12W56-"
   },
   "1141_113802": {
@@ -12404,7 +12404,7 @@
     "name": "科技醫療服務管理創新 Double S.M.A.R.T Homespital Care",
     "num_limit": "20",
     "reg_num": "20",
-    "teacher": "尹彙文、黃仕斌、蔡秉晃",
+    "teacher": "尹彙文",
     "time": "F789-YN514[YM]"
   },
   "1141_150110": {
@@ -18283,7 +18283,7 @@
     "memo": "3年級。[固態電子組必修]",
     "name": "量子力學導論 Int. to Quantum Mechanics",
     "num_limit": "70",
-    "reg_num": "67",
+    "reg_num": "66",
     "teacher": "梁興弛",
     "time": "W678-SC110[GF]"
   },
@@ -20011,7 +20011,7 @@
     "memo": "1.第一~第三階段限材料系、半導體工程學系(奈米科學組)加選\n2.開學後才開放外系或外校加選",
     "name": "材料微觀結構分析 Microstructural Characterization of Materials",
     "num_limit": "60",
-    "reg_num": "61",
+    "reg_num": "60",
     "teacher": "吳文偉",
     "time": "T567-EF205[GF]"
   },
@@ -20023,7 +20023,7 @@
     "memo": "1.第一~第三階段限材料系加選\n2.開學後才開放外系或外校加選",
     "name": "材料動力學概論 Rate Processes in Materials",
     "num_limit": "60",
-    "reg_num": "21",
+    "reg_num": "20",
     "teacher": "吳耀銓",
     "time": "R67-EF207[GF]"
   },
@@ -25615,7 +25615,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "116",
+    "reg_num": "115",
     "teacher": "網工所",
     "time": ""
   },
@@ -25735,7 +25735,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "134",
+    "reg_num": "133",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -26815,7 +26815,7 @@
     "memo": "1.第一~第三階段限材料系、奈米所、前瞻所加選 \n2.開學後開放外系或外校加選\n[English Medium Course]",
     "name": "材料機械性質 Mechanical Behaviours of Materials",
     "num_limit": "60",
-    "reg_num": "62",
+    "reg_num": "61",
     "teacher": "鍾采甫",
     "time": "M678-EF201[GF]"
   },
@@ -26923,7 +26923,7 @@
     "memo": "[English Medium Course] \n1.第一~第三階段限材料系、奈米所加選 \n2.開學後開放外系或外校加選",
     "name": "高分子定性與分析 Characterization and Analysis of Polymer",
     "num_limit": "60",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "王誠佑",
     "time": "T234-EF207[GF]"
   },
@@ -29347,7 +29347,7 @@
     "memo": "開放台聯大同學選修;混合遠距課程",
     "name": "公共衛生法  Public Health Law",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "賈文宇、Robert Leflar",
     "time": "M34-A302[GF]"
   },
@@ -29371,7 +29371,7 @@
     "memo": "開放台聯大大三以上同學選修;混合遠距課程",
     "name": "刑事訴訟法(一) Criminal Procedure(Ⅰ)",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "金孟華、林志潔",
     "time": "T234-MB1069[GF]"
   },
@@ -31423,7 +31423,7 @@
     "memo": "[English Medium Course]限科法博、科法碩及科法專班同學選修",
     "name": "美國上市公司法 U.S. Publicly Traded Corporations",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "施明遠",
     "time": "U12-"
   },
@@ -31483,7 +31483,7 @@
     "memo": "",
     "name": "網路法 Internet Law",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "孫介然",
     "time": "Rabc-MB1069[GF]"
   },
@@ -31567,7 +31567,7 @@
     "memo": "[English Medium Course]新竹光復校區指定日期時間上課。上課日期12/4,12/5,12/6,12/7,12/8,12/9。授課教師Nicole Ligon",
     "name": "媒體法(英文授課) Media Law",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "25",
     "teacher": "NICOLE JEAN LIGON",
     "time": "U7-MB1069[GF]"
   },
@@ -33679,7 +33679,7 @@
     "memo": "第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課",
     "name": "日文(二) Japanese(II)",
     "num_limit": "35",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "馮秋玉",
     "time": "R34-A308[GF]"
   },

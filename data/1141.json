@@ -3080,7 +3080,7 @@
     "name": "臨床醫學(二) Clinical Medicine (II)",
     "num_limit": "9999",
     "reg_num": "39",
-    "teacher": "陳柏霖、丁乾坤、蔡昕霖、杜宗熹、吳思賢、吳飛逸、秦郁晴、蔡亞倫、鄭厚軒、陳冠林、吳東琰、余秉軒、黃建勝",
+    "teacher": "陳柏霖、丁乾坤、蔡昕霖、杜宗熹、吳思賢、吳飛逸、秦郁晴、蔡亞倫、鄭厚軒、陳冠林、吳東琰、余秉軒、林祐華、黃建勝",
     "time": "M56-YB624[YM]"
   },
   "1141_112216": {
@@ -10808,7 +10808,7 @@
     "name": "長期照護政策 Long Term Care Policy",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "陳怡如、陳喬男、李韶芬、蔡芳文、許志成、王英偉、林麗嬋、李玉春、吳肖琪、徐業良、陳怡亨、祝健芳、王怡晶",
+    "teacher": "陳怡如、陳喬男、李韶芬、蔡芳文、陳怡亨、許志成、王英偉、林麗嬋、李玉春、吳肖琪、徐業良、祝健芳、王怡晶",
     "time": "T56-YN118[YM]"
   },
   "1141_133505": {
@@ -11312,7 +11312,7 @@
     "name": "醫療照護品質與結果特論 Quality of Medical Care and Outcomes",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "簡麗年、吳肖琪、陳怡亨、葉馨婷",
+    "teacher": "簡麗年、陳怡亨、吳肖琪、葉馨婷",
     "time": "T12-YN613[YM]"
   },
   "1141_140502": {
@@ -12236,7 +12236,7 @@
     "name": "藥事法規 Pharmaceutical Law",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "吳全峰、黃文鴻、張偉嶠、李素華、張連成",
+    "teacher": "吳全峰、黃文鴻、張偉嶠、李素華、蔡昀廷、張濱璿、張連成",
     "time": "T78-YN208[YM]"
   },
   "1141_143405": {
@@ -12452,7 +12452,7 @@
     "name": "高齡健康照護與處置 Health care and intervention in older adults",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "王子芳、陳怡如、蔡慈儀、邱愛富、李雪楨、楊曼華、廖咨詠、張豫立、陳怡亨、林明憲、曾崧華、余虹、何佳珍",
+    "teacher": "王子芳、陳怡如、蔡慈儀、邱愛富、李雪楨、楊曼華、廖咨詠、陳怡亨、張豫立、林明憲、曾崧華、余虹、何佳珍",
     "time": "T567-YN419[YM]"
   },
   "1141_150202": {
@@ -25735,7 +25735,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "133",
+    "reg_num": "132",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -31543,7 +31543,7 @@
     "memo": "[English Medium Course]陽明校區指定日期時間上課。上課日期 11/10、11/12、11/14、11/17、11/19、11/21。共同授課教師Kashish Aneja、Olohikhuae Egbokhare",
     "name": "全球衛生法 Global Health Law",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "11",
     "teacher": "賈文宇、Kashish Aneja、Olohikhuae Egbokhare",
     "time": "U5-YR104[YM]"
   },
@@ -31555,21 +31555,9 @@
     "memo": "[English Medium Course]新竹光復校區指定日期時間上課。上課日期11/24,11/25,11/26,11/27,11/28,11/30。授課教師Donal Patrick Hanley",
     "name": "國際航空與太空法(英文授課) International Aerospace Law",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "25",
     "teacher": "Donal Patrick Hanley",
     "time": "U6-MB1069[GF]"
-  },
-  "1141_557921": {
-    "code": "LWLW30329",
-    "credit": "1.00",
-    "hours": "3.00",
-    "id": "557921",
-    "memo": "[English Medium Course]新竹光復校區指定日期時間上課。上課日期12/4,12/5,12/6,12/7,12/8,12/9。授課教師Nicole Ligon",
-    "name": "媒體法(英文授課) Media Law",
-    "num_limit": "9999",
-    "reg_num": "25",
-    "teacher": "NICOLE JEAN LIGON",
-    "time": "U7-MB1069[GF]"
   },
   "1141_557922": {
     "code": "LWLW30164",

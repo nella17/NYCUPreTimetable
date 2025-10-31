@@ -1892,7 +1892,7 @@
     "name": "外科基本手術技術、器械介紹及微創手術演進 Surgical Techniques, Instrument Introduction and Evolution of Minimally Invasive Surgery",
     "num_limit": "25",
     "reg_num": "24",
-    "teacher": "張世慶、藍苑慈、王鑑瀛、戴宏達、石育仲、陳正彥、吳祚光、陳世欽、黃聖捷、林瑞萍、陳斐文、許皓雯、陳彥蓁、張哲源、黃國宏",
+    "teacher": "張世慶、藍苑慈、王鑑瀛、戴宏達、石育仲、陳正彥、陳慶恩、吳祚光、陳世欽、黃聖捷、林瑞萍、陳斐文、許皓雯、張哲源、朱柏宇、黃國宏",
     "time": "F56-YS420[YM]"
   },
   "1141_111817": {
@@ -25807,7 +25807,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "151",
+    "reg_num": "150",
     "teacher": "數據所",
     "time": ""
   },
@@ -36883,7 +36883,7 @@
     "memo": "機械系優先",
     "name": "化學(一) Chemistry (I)",
     "num_limit": "100",
-    "reg_num": "111",
+    "reg_num": "110",
     "teacher": "黃立心",
     "time": "M2W56-EE106[GF]"
   },

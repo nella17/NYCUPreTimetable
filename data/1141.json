@@ -3872,7 +3872,7 @@
     "name": "放射診斷技術學(一) Clinical Radiodiagnostic Technology",
     "num_limit": "9999",
     "reg_num": "38",
-    "teacher": "許世明、陳富都、陳潤秋、張東曜、范源洪、張建法、楊承閎、劉致康、許敦韋",
+    "teacher": "許世明、陳富都、陳潤秋、張東曜、楊必立、范源洪、張建法、楊承閎、劉致康、許敦韋",
     "time": "T234-YB100[YM]"
   },
   "1141_112331": {
@@ -18451,7 +18451,7 @@
     "memo": "線上同步教學",
     "name": "微分方程 Differential Equations",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "陳智弘",
     "time": "M34W2-"
   },
@@ -19699,7 +19699,7 @@
     "memo": "[English Medium Course]C班",
     "name": "材料力學 Mechanics of Materials",
     "num_limit": "55",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "林其穎",
     "time": "Tn56-EB415[GF]"
   },
@@ -19759,7 +19759,7 @@
     "memo": "AB班",
     "name": "基礎工程 Foundation Engineering",
     "num_limit": "60",
-    "reg_num": "53",
+    "reg_num": "52",
     "teacher": "單信瑜",
     "time": "M7R34-EB115[GF]"
   },
@@ -21885,7 +21885,7 @@
     "num_limit": "70",
     "reg_num": "55",
     "teacher": "陳永富",
-    "time": "M9F34-SC110[GF]"
+    "time": "F34-SC110[GF],M89-SC158[GF]"
   },
   "1141_520005": {
     "code": "XDEP20006",
@@ -25303,7 +25303,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "455",
+    "reg_num": "454",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25735,7 +25735,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "131",
+    "reg_num": "130",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -25879,7 +25879,7 @@
     "memo": "資安所必修；每學期需選修「個別研究課程」。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "資安所",
     "time": ""
   },
@@ -36271,7 +36271,7 @@
     "memo": "",
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "60",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "許元春",
     "time": "T34F56-SC151[GF]"
   },

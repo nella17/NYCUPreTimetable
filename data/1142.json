@@ -198,8 +198,8 @@
     "id": "110016",
     "memo": "由光復校區實體授課 + 陽明校區採線上同步授課",
     "name": "生醫感測器概論 Introduction to biomedical sensors",
-    "num_limit": "9999",
-    "reg_num": "0",
+    "num_limit": "70",
+    "reg_num": "20",
     "teacher": "甘致群",
     "time": ""
   },
@@ -3356,7 +3356,7 @@
     "name": "婦嬰護理學 Maternity Nursing",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃久美、蔡慈儀、黃淑鶴、賴鼎璁、陳淑芬、鍾侑倫",
+    "teacher": "黃久美、蔡慈儀、黃淑鶴、賴鼎璁、陳尹甄、陳淑芬、鍾侑倫",
     "time": "W12345678-YN416[YM]"
   },
   "1142_111808": {
@@ -3368,7 +3368,7 @@
     "name": "婦嬰護理學實習 Maternity Nursing Practice",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃久美、李詩敏、王媛、夏惠珍、楊雯如、莊秋萍、陳淑芬、吳惠茹、林思妤、孫志琪、鍾侑倫、林玉蘭、楊易宏、方月吟、呂欣芮、許淳媁、徐嘉澧",
+    "teacher": "黃久美、李詩敏、王媛、夏惠珍、楊雯如、莊秋萍、陳淑芬、吳惠茹、林思妤、孫志琪、鍾侑倫、呂欣芮、許淳媁",
     "time": "W12345678-"
   },
   "1142_111809": {
@@ -8023,7 +8023,7 @@
     "memo": "",
     "name": "醫務管理專題討論(二) Seminar on Hospital and Healthcare Management(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "12",
     "teacher": "林寬佳、黃心苑、郎慧珠、鄧宗業、蒲正筠、李威儒、潘美連、陳慧芬、陳翎、陳韵宜",
     "time": "F56-YN511[YM]"
   },
@@ -8536,7 +8536,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "130816",
-    "memo": "",
+    "memo": "單數周上課",
     "name": "1142新興環境流行病學專題討論 1142Seminar for Emerging Topics in Environmental Epidemiology",
     "num_limit": "9999",
     "reg_num": "0",
@@ -8548,11 +8548,11 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "130817",
-    "memo": "",
+    "memo": "雙數周上課",
     "name": "1142毒藥物環境流行病學專題討論 1142 Seminars on Toxicoepidemiology and Pharmacoepidemiology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "楊振昌",
+    "teacher": "楊振昌、潘文驥、張榮偉",
     "time": "W4-YS415[YM]"
   },
   "1142_130818": {
@@ -9536,7 +9536,7 @@
     "name": "一般牙醫學-牙體復形 Advanced General Dentistry- Restorative Dentistry",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "李士元、吳靜宜、周怡江、吳詩韻",
+    "teacher": "李士元、吳靜宜、周怡江、吳詩韻、陳雅琪",
     "time": "M5678T1234W1234R5678F5678-"
   },
   "1142_131415": {
@@ -13939,7 +13939,7 @@
     "memo": "",
     "name": "實務專題研討 Seminar on Health Industry Practice",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "2",
     "teacher": "鄧宗業、黃心苑、郎慧珠、蒲正筠、林寬佳、李威儒、潘美連、陳慧芬、陳翎、陳韵宜",
     "time": "F56-YN511[YM]"
   },
@@ -39412,7 +39412,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "599018",
-    "memo": "1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫網路選課加退選處理表，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。",
+    "memo": "1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫網路選課加退選處理表，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。4.本課程限110學年度(含)以後進入教育學程學生修讀課程，如選錯，恐無法承認該學分，請同學特別留意!",
     "name": "科學教育：理性、思考、創新 Science Education: Rationality, Thinking, Creativity",
     "num_limit": "9999",
     "reg_num": "0",

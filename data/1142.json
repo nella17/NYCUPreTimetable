@@ -9061,15 +9061,15 @@
   },
   "1142_131113": {
     "code": "MDBS30080",
-    "credit": "2.00",
-    "hours": "2.00",
+    "credit": "1.00",
+    "hours": "1.00",
     "id": "131113",
     "memo": "",
     "name": "腦疾病的分子透視 The Molecular Vision of Brain Diseases",
     "num_limit": "20",
     "reg_num": "0",
     "teacher": "",
-    "time": "F34-YL839[YM]"
+    "time": "F3-YL839[YM]"
   },
   "1142_131114": {
     "code": "MDBS30082",
@@ -14448,12 +14448,12 @@
     "time": "R78-"
   },
   "1142_161013": {
-    "code": "GECE00418",
+    "code": "GECE00430",
     "credit": "1.00",
     "hours": "1.00",
     "id": "161013",
     "memo": "1.中央研究院民族學研究所余安邦副研究員主持授課。\n2.隔週上課，每次上課兩小時。\n3..課程不開放加簽。",
-    "name": "巨人的肩膀：存在心理學與電影 The guidance of career planning by academic masters: Existential psychology and cinema",
+    "name": "巨人的肩膀：現象學心理學與電影 The guidance of career planning by academic masters： Phenomenological psychology and   cinema",
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "余安邦",
@@ -31339,7 +31339,7 @@
     "memo": "",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "3",
     "teacher": "生醫工所",
     "time": ""
   },
@@ -31435,7 +31435,7 @@
     "memo": "醫電所主開",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "36",
     "teacher": "陳榮治",
     "time": "W56-EE105[GF]"
   },

@@ -8405,7 +8405,7 @@
     "hours": "2.00",
     "id": "130805",
     "memo": "",
-    "name": "1142 分子毒理學 1142Molecular Toxicology",
+    "name": "分子毒理學 Molecular Toxicology",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "李宥萱",
@@ -8529,7 +8529,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "潘文驥",
-    "time": "W567-YT302[YM]"
+    "time": "W567-YS105[YM]"
   },
   "1142_130816": {
     "code": "MDEO30124",
@@ -8540,7 +8540,7 @@
     "name": "1142新興環境流行病學專題討論 1142Seminar for Emerging Topics in Environmental Epidemiology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "潘文驥",
+    "teacher": "潘文驥、李宥萱",
     "time": "Wn-YS415[YM]"
   },
   "1142_130817": {
@@ -9285,7 +9285,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "潘文驥",
-    "time": "T56-YS405[YM]"
+    "time": "T56-YS105[YM]"
   },
   "1142_131213": {
     "code": "MDIH30050",
@@ -10231,7 +10231,7 @@
     "memo": "[English Medium Course]",
     "name": "應用藥物科學 Applied Pharmaceutical Technology",
     "num_limit": "15",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "廖曉偉、胡德民、陳日榮、林宥欣、陳惠亭、蘇溶真",
     "time": "M78-YR103[YM]"
   },
@@ -10243,7 +10243,7 @@
     "memo": "碩士班乙組必修，上課地點：榮總藥學部及臨床病房",
     "name": "臨床藥學專科實習(一) Clinical Pharmacy Practice (Ⅰ)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "3",
     "teacher": "周千瀅",
     "time": "MnTnWnRnFn-"
   },
@@ -10255,7 +10255,7 @@
     "memo": "* 開放大三以上(含)同學選修\r\n* 需自備筆記型電腦",
     "name": "健康資料分析與應用 Analysis and application of healthcare databases",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "6",
     "teacher": "東雅惠、許家禎",
     "time": "T56-YL401[YM]"
   },
@@ -10291,7 +10291,7 @@
     "memo": "隔週上課，上課地點：榮總中正樓藥學部第一會議室",
     "name": "藥物基因體學與臨床應用 Pharmacogenomics and clinical application",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "3",
     "teacher": "陳寬軒、陳世彬、余文鍾、王笙帆",
     "time": "F78-"
   },
@@ -10303,7 +10303,7 @@
     "memo": "甲組學生上課於守仁103教室，乙丙組同學請勿選擇[English Medium Course]",
     "name": "專題討論 Seminar",
     "num_limit": "254",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "林宥欣、林滿玉、胡德民、陳日榮、陳惠亭、蘇溶真、廖曉偉、康照洲",
     "time": "F34-YR103[YM]"
   },
@@ -10315,7 +10315,7 @@
     "memo": "乙丙組學生於圖資402教室上課，甲組學生請勿選擇此堂[English Medium Course]",
     "name": "專題討論 Seminar",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "吳宗軒、王孟廷、姜紹青、東雅惠、陳謄州、黃世宗、周月卿、張豫立、陳寬軒、鄒嘉玲、許家禎、周千瀅、何沁沁、林于瑄、王笙帆",
     "time": "F34-YL402[YM]"
   },
@@ -22929,7 +22929,7 @@
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "陳亭志",
-    "time": "F234-MB405[GF]"
+    "time": "M234-MB405[GF]"
   },
   "1142_517407": {
     "code": "MGEM10003",
@@ -22953,7 +22953,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林義貴",
-    "time": "R789-MB520[GF]"
+    "time": "F789-MB506[GF]"
   },
   "1142_517409": {
     "code": "MGEM20013",
@@ -22989,7 +22989,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "待聘",
-    "time": "M234-MB405[GF]"
+    "time": "Tabc-MB405[GF]"
   },
   "1142_517412": {
     "code": "MGEM30088",
@@ -28223,18 +28223,6 @@
     "teacher": "洪偉嘉",
     "time": "R234-EB115[GF]"
   },
-  "1142_536214": {
-    "code": "ENCV30031",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "536214",
-    "memo": "大三、大四、研究所合開。",
-    "name": "房屋結構設計 Design of Building Structures",
-    "num_limit": "48",
-    "reg_num": "0",
-    "teacher": "待聘",
-    "time": "M567-EB107[GF]"
-  },
   "1142_536215": {
     "code": "ENCV30023",
     "credit": "3.00",
@@ -30176,7 +30164,7 @@
     "name": "論文研討(下) Seminar (II)",
     "num_limit": "9999",
     "reg_num": "66",
-    "teacher": "陳亭志、張永佳",
+    "teacher": "陳亭志、林義貴",
     "time": "M56-MB520[GF]"
   },
   "1142_537403": {

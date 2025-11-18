@@ -6031,7 +6031,7 @@
     "memo": "週二5678節上課，上課日期請參照藥理學整合授課進度表。",
     "name": "藥理學實驗(二) Pharmacology Lab. (Ⅱ)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "王湘翠",
     "time": "T9abc-YED214[YM]"
   },
@@ -7099,7 +7099,7 @@
     "memo": "與護二合班上課",
     "name": "藥理學 Pharmacology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "31",
     "teacher": "張婷婷、黃金洲、李新城、霍德義、王湘翠、張世霖、黃自強、兵岳忻、嚴錦城、沈郁強、洪舜郁、張豫立、王笙帆、周士傑、葉翰宜、蔣智宏",
     "time": "W56R5678-YX406[YM]"
   },
@@ -7123,7 +7123,7 @@
     "memo": "週四5678節上課，請參照課表說明，與護理系合班上課，可用英語授課",
     "name": "藥理學實驗 Pharmacology Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "31",
     "teacher": "張婷婷",
     "time": "R9abc-YED214[YM]"
   },
@@ -8541,7 +8541,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "潘文驥、李宥萱",
-    "time": "Wn-YS415[YM]"
+    "time": "W4n-YS105[YM]"
   },
   "1142_130817": {
     "code": "MDEO30123",
@@ -8553,7 +8553,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "楊振昌、潘文驥、張榮偉",
-    "time": "W4-YS415[YM]"
+    "time": "W4n-YS415[YM]"
   },
   "1142_130818": {
     "code": "MDEO30122",
@@ -10183,7 +10183,7 @@
     "memo": "大學部三年級為必修課；\n碩士班研究生需完成必選修四選一，以完成畢業學分門檻，可選擇之課程為下列四堂:  藥理學(二)、細胞生物學、轉譯生物藥學的實際應用、生物藥學特論",
     "name": "藥理學(二) Pharmacology (2)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "林滿玉、李新城、王湘翠、駱雨利、黃自強、張牧新、嚴錦城、黃世宗、沈郁強、張耀文",
     "time": "M56W56-YK533[YM]"
   },
@@ -11180,7 +11180,7 @@
     "name": "物理治療臨床藥學 Clinical Pharmacotherapy for Physical Therapy",
     "num_limit": "40",
     "reg_num": "0",
-    "teacher": "楊翠芬、陳涵栩、霍德義、顏厥全、黃志賢、陳肇文、郭英調、周昆達、李信興、宋俊松、吳采虹、鄭佳洵",
+    "teacher": "楊翠芬、陳涵栩、霍德義、顏厥全、黃志賢、陳肇文、郭英調、李信興、宋俊松、吳采虹、鄭佳洵、黃煦晴",
     "time": "S67-YB603[YM]"
   },
   "1142_132501": {
@@ -14368,31 +14368,91 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161000",
-    "memo": "限醫學系、中醫系，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生，請勿隨意退課。",
+    "memo": "限醫學系，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生，請勿隨意退課。",
     "name": "普通心理學 General Psychology",
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "張立鴻",
     "time": "T34-YX216[YM]"
   },
+  "1142_161001": {
+    "code": "GECE00453",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161001",
+    "memo": "1.中央研究院人文講座課程，中研院法律學研究所王鵬翔研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.依課務組選課期程逐階調整課程限修人數。",
+    "name": "因果論辯：反事實與規範的異想世界 Causal Dialectics: The World of What Ifs and What Should Be",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "王鵬翔",
+    "time": "R56-"
+  },
   "1142_161002": {
     "code": "GECE00344",
     "credit": "2.00",
     "hours": "2.00",
     "id": "161002",
-    "memo": "",
+    "memo": "1.中央研究院人文講座課程，中研院語言學研究所李佳?究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.依課務組選課期程逐階調整課程限修人數",
     "name": "大腦、語言與社會 Brain, Language and Society",
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "李佳頴",
     "time": "R56-"
   },
+  "1142_161003": {
+    "code": "GECE00458",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161003",
+    "memo": "1.中央研究院人文講座課程，中研院中國文哲研究所陳相因研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.依課務組選課期程逐階調整課程限修人數。",
+    "name": "反叛與解放：「搖滾詩歌」的力與美 Rebellion and Emancipation: The Power and Beauty of “Rock Poetry”",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "陳相因",
+    "time": "R56-"
+  },
+  "1142_161004": {
+    "code": "GECE00454",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161004",
+    "memo": "1.中央研究院人文講座課程，中研院政治學研究所吳親恩副研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.依課務組選課期程逐階調整課程限修人數。",
+    "name": "民主三重奏：美國、英國與德國的政治運作與挑戰 Democratic Trilogy: Political Systems, Operations, and Challenges in the U.S., U.K., and  Germany",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "吳親恩",
+    "time": "R78-"
+  },
+  "1142_161005": {
+    "code": "GECE00457",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161005",
+    "memo": "1.中央研究院人文講座課程，中研院中國文哲研究所陳瑋芬研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.依課務組選課期程逐階調整課程限修人數。",
+    "name": "文明的邏輯 The Logic of “Civilization”",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "陳瑋芬",
+    "time": "R78-"
+  },
+  "1142_161006": {
+    "code": "GECE00455",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161006",
+    "memo": "1.中央研究院人文講座課程，中研院民族學研究所郭佩宜副研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.依課務組選課期程逐階調整課程限修人數。",
+    "name": "南島連結：太平洋史的新視角 Austronesian Connections: New Perspectives on Pacific History",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "郭佩宜",
+    "time": "R78-"
+  },
   "1142_161007": {
     "code": "GECE00386",
     "credit": "1.00",
     "hours": "1.00",
     "id": "161007",
-    "memo": "",
+    "memo": "1.中央研究院巨人的肩膀系列課程，中研院經濟研究所張靜貞研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。\n5.依課務組選課期程逐階調整課程限修人數。",
     "name": "巨人的肩膀：農業與資源經濟 The guidance of career planning by academic masters：Agricultural and Resource Economics",
     "num_limit": "0",
     "reg_num": "0",
@@ -14404,11 +14464,23 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161008",
-    "memo": "1.中央研究院歷史語言研究所王道還助研究員主持授課。\n2.隔週上課，每次上課兩小時，第一次上課必須出席不得缺席。\n3.課程不開放加簽。",
+    "memo": "1.中央研究院巨人的肩膀系列課程，中研院歷史語言研究所王道還助研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.隔週上課，每次上課兩小時，第一次上課必須出席不得缺席。\n4.課程不開放加簽。\n5.依課務組選課期程逐階調整課程限修人數。",
     "name": "巨人的肩膀：精讀《槍砲、病菌、與鋼鐵》 The guidance of career planning by academic masters：Critical Reading of Guns, Germs, and Steel",
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "王道還",
+    "time": "R56-"
+  },
+  "1142_161009": {
+    "code": "GECE00459",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "161009",
+    "memo": "1.中央研究院巨人的肩膀系列課程，中研院近代史研究所張哲嘉副研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。\n5.依課務組選課期程逐階調整課程限修人數。",
+    "name": "巨人的肩膀：中國菜的世界史 The guidance of career planning by academic masters: The World History of Chinese Food",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "張哲嘉",
     "time": "R56-"
   },
   "1142_161010": {
@@ -14416,7 +14488,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161010",
-    "memo": "",
+    "memo": "1.中央研究院巨人的肩膀系列課程，中研院歷史語言研究所陳正國研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。\n5.依課務組選課期程逐階調整課程限修人數。",
     "name": "巨人的肩膀：文明、歷史、野蠻 The guidance of career planning by academic masters：Civilization, History,  Barbarism",
     "num_limit": "0",
     "reg_num": "0",
@@ -14428,7 +14500,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161011",
-    "memo": "1.中央研究院歷史語言研究所陳熙遠研究員主持授課。\n2.隔週上課，每次上課兩小時。\n3..課程不開放加簽。",
+    "memo": "1.中央研究院巨人的肩膀系列課程，中研院歷史語言研究所陳熙遠研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。\n5.依課務組選課期程逐階調整課程限修人數。",
     "name": "巨人的肩膀：日常與節慶的文化史 The guidance of career planning by academic masters:  The Cultural History of Daily  Life and Festivals",
     "num_limit": "0",
     "reg_num": "0",
@@ -14440,7 +14512,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161012",
-    "memo": "1.中央研究院歷史語言研究所李尚仁研究員主持授課。\n2.隔週上課，每次上課兩小時。\n3.課程不開放加簽。",
+    "memo": "1.中央研究院巨人的肩膀系列課程，中研院歷史語言研究所李尚仁研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。\n5.依課務組選課期程逐階調整課程限修人數。",
     "name": "巨人的肩膀：科學、製藥工業與現代醫學:以學名藥的歷史為例 The guidance of career planning by academic masters：Science, Pharmaceutical Industry and Modern Medicine: The Case",
     "num_limit": "0",
     "reg_num": "0",
@@ -14452,7 +14524,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161013",
-    "memo": "1.中央研究院民族學研究所余安邦副研究員主持授課。\n2.隔週上課，每次上課兩小時。\n3..課程不開放加簽。",
+    "memo": "1.中央研究院巨人的肩膀系列課程，中研院民族學研究所余安邦副研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。\n5.依課務組選課期程逐階調整課程限修人數。",
     "name": "巨人的肩膀：現象學心理學與電影 The guidance of career planning by academic masters： Phenomenological psychology and   cinema",
     "num_limit": "0",
     "reg_num": "0",
@@ -14464,7 +14536,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "161014",
-    "memo": "",
+    "memo": "1.中央研究院巨人的肩膀系列課程，中研院中國文哲研究所楊小濱研究員主持授課。\n2.依中研院行事曆，114-2學期(春季班)課程維持16+2週，採行線上教學至2026/06/25止。\n3.隔週上課，每次上課兩小時。\n4.課程不開放加簽。\n5.依課務組選課期程逐階調整課程限修人數。",
     "name": "巨人的肩膀：世界藝術電影賞析 The guidance of career planning by academic masters： Appreciating and Analyzing World Art Cinema",
     "num_limit": "0",
     "reg_num": "0",
@@ -14766,10 +14838,34 @@
     "id": "161039",
     "memo": "[English Medium Course]",
     "name": "香港城市文化之邊走邊學 Understanding Hong Kong Through Walking",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "勞維俊",
     "time": "R34-YX202[YM]"
+  },
+  "1142_161043": {
+    "code": "GECE00451",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161043",
+    "memo": "[English Medium Course]僅在北投陽明校區授課",
+    "name": "瑜珈：從歷史到現代實踐 Yoga: From History to Modern Practice",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "",
+    "time": "T12-YB102[YM]"
+  },
+  "1142_161044": {
+    "code": "GECE00463",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161044",
+    "memo": "限未修過批判思考(永久課號：A2034)同學選修",
+    "name": "批判思考 Critical Thinking",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "趙曉傲",
+    "time": "T9a-YX201[YM]"
   },
   "1142_161045": {
     "code": "GECE00350",
@@ -14783,17 +14879,29 @@
     "teacher": "鄭凱元",
     "time": "R34-YT202[YM]"
   },
+  "1142_161046": {
+    "code": "GECE00464",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161046",
+    "memo": "[English Medium Course]",
+    "name": "神經科學與社會 Neuroscience &amp; Society",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "艾力",
+    "time": "F56-YT205[YM]"
+  },
   "1142_161047": {
     "code": "GECE00419",
     "credit": "2.00",
     "hours": "2.00",
     "id": "161047",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]\n僅在北投陽明校區授課",
     "name": "流行文化中的社會和語言議題 Social and Linguistic Topics in Popular Culture",
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "何彥如",
-    "time": "F56-YX201[YM]"
+    "time": "R56-YX201[YM]"
   },
   "1142_161048": {
     "code": "GECE00466",
@@ -14818,6 +14926,18 @@
     "reg_num": "0",
     "teacher": "李雪楨、劉依珍、廖延芳",
     "time": "R6-YB102[YM]"
+  },
+  "1142_161050": {
+    "code": "GECE00452",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161050",
+    "memo": "",
+    "name": "課．城市：走進臺北城內 From Campus to City : Walk Into Inside Taipei City",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "洪紹洋、林伶美、張立鴻",
+    "time": "R5678-YX503[YM]"
   },
   "1142_161051": {
     "code": "GECE00397",
@@ -15136,7 +15256,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "230003",
-    "memo": "",
+    "memo": "限經管所碩士生、博士生",
     "name": "論文研討(博士班) Seminar on Business and Management(PhD)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -15544,7 +15664,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "310008",
-    "memo": "",
+    "memo": "擬修課同學請在114年12月10日以前繳交構想書/指導教授確認表。並參加114年12月9日之說明會。",
     "name": "論文專題與畢業製作(一)  Graduation Project (I)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -19879,7 +19999,7 @@
     "memo": "",
     "name": "近代物理 Modern Physics",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "李柏璁",
     "time": "T34R5-CY202[GF]"
   },
@@ -19915,7 +20035,7 @@
     "memo": "",
     "name": "光子學（一）  Photonics(I)",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "余沛慈",
     "time": "M56R6-CY203[GF]"
   },
@@ -19927,7 +20047,7 @@
     "memo": "光電系及跨域生優先選課",
     "name": "光子學實驗(一) Photonics Lab.(I)",
     "num_limit": "18",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "安惠榮",
     "time": "Mabcd-CY202[GF]"
   },
@@ -19939,7 +20059,7 @@
     "memo": "光電系及跨域生優先選課",
     "name": "光子學實驗(一) Photonics Lab.(I)",
     "num_limit": "18",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "安惠榮",
     "time": "Wabcd-CY202[GF]"
   },
@@ -19963,7 +20083,7 @@
     "memo": "",
     "name": "光電生涯與生活及導師時間 Career Planning and Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "黃耀緯",
     "time": "W78-CY201[GF]"
   },
@@ -20624,7 +20744,7 @@
     "name": "工場實習 Workshop Practice",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "鄭中緯",
+    "teacher": "洪紹剛",
     "time": "F234-EA105[GF]"
   },
   "1142_516105": {
@@ -20840,7 +20960,7 @@
     "name": "工程數學（二） Engineering Mathematics (II)",
     "num_limit": "55",
     "reg_num": "0",
-    "teacher": "機械系",
+    "teacher": "張存均",
     "time": "M78W3-EE205[GF]"
   },
   "1142_516123": {
@@ -26515,7 +26635,7 @@
     "memo": "個別與指導教授約時間地點討論",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "197",
+    "reg_num": "198",
     "teacher": "光電系",
     "time": ""
   },
@@ -27367,7 +27487,7 @@
     "memo": "限本碩班同學選修；若尚未繳交過指導教授協議書，最遲開學後兩週內交至系所辦公室。\nLimited to International Graduate Program of College of Computer Science students. \nOnly those who already have a advisor can take the course, and if they have not yet submitted the advisor agreement, they should submit it to the department office no later than two weeks after the start of the semester.",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "國際資訊",
     "time": ""
   },
@@ -27379,7 +27499,7 @@
     "memo": "限本碩班同學選修 Limited to International Graduate Program of College of Computer Science students.",
     "name": "產業技術研究（一） Industrial Technology Research (I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "國際資訊",
     "time": ""
   },
@@ -27391,7 +27511,7 @@
     "memo": "限本碩班同學選修 Limited to International Graduate Program of College of Computer Science students.",
     "name": "產業技術研究（二） Industrial Technology Research (Ⅱ)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "國際資訊",
     "time": ""
   },
@@ -27403,7 +27523,7 @@
     "memo": "限本碩班同學選修 Limited to International Graduate Program of College of Computer Science students.",
     "name": "產業技術研究（三） Industrial Technology Research (Ⅲ)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "3",
     "teacher": "國際資訊",
     "time": ""
   },
@@ -30270,7 +30390,7 @@
     "id": "537411",
     "memo": "開放社會人士選修",
     "name": "不確定性多目標決策分析 Uncertain Multiple Criteria Decision Making",
-    "num_limit": "9999",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "陳亭志",
     "time": "W234-MB506[GF]"
@@ -31351,7 +31471,7 @@
     "memo": "",
     "name": "書報討論A Special Topic Seminar A",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "18",
     "teacher": "李佳燕",
     "time": "Mz1-EE112[GF]"
   },
@@ -31363,7 +31483,7 @@
     "memo": "",
     "name": "書報討論B Special Topic Seminar B",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "江柏翰",
     "time": "Mz1-EE113[GF]"
   },
@@ -31375,7 +31495,7 @@
     "memo": "",
     "name": "書報討論C Special Topic Seminar C",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "18",
     "teacher": "李博仁",
     "time": "Mz1-EE117[GF]"
   },
@@ -31387,7 +31507,7 @@
     "memo": "",
     "name": "書報討論D Special Topic Seminar D",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "羅畯義",
     "time": "Mz1-EE118[GF]"
   },
@@ -31519,7 +31639,7 @@
     "memo": "",
     "name": "博士學位論文研究 Ph.D.Thesis Study",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "",
     "time": ""
   },
@@ -35791,7 +35911,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "江竹偉",
     "time": "F78-PE[GF]"
   },
@@ -35803,7 +35923,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "待聘",
     "time": "M34-PE[GF]"
   },
@@ -35815,7 +35935,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "余秀菁",
     "time": "M34-PE[GF]"
   },
@@ -35851,7 +35971,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "48",
     "teacher": "何胤樓",
     "time": "W12-PE[GF]"
   },
@@ -35863,7 +35983,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "李建毅",
     "time": "W12-PE[GF]"
   },
@@ -35875,7 +35995,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "52",
     "teacher": "余秀菁",
     "time": "W12-PE[GF]"
   },
@@ -35887,7 +36007,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "48",
     "teacher": "江竹偉",
     "time": "W12-PE[GF]"
   },
@@ -35899,7 +36019,7 @@
     "memo": "第一週於司令台集合",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "伍啟萌",
     "time": "R12-PE[GF]"
   },
@@ -35911,7 +36031,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "55",
     "teacher": "陳忠強",
     "time": "R12-PE[GF]"
   },
@@ -35923,7 +36043,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "52",
     "teacher": "李建毅",
     "time": "R12-PE[GF]"
   },
@@ -35935,7 +36055,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "48",
     "teacher": "余秀菁",
     "time": "M12-PE[GF]"
   },
@@ -35947,7 +36067,7 @@
     "memo": "第一週上課集合地點為體育館籃球場\n\n",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "留鼎淙",
     "time": "M78-PE[GF]"
   },
@@ -35959,7 +36079,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "51",
     "teacher": "張振興",
     "time": "M78-PE[GF]"
   },
@@ -35971,7 +36091,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "55",
     "teacher": "詹富鈞",
     "time": "F78-PE[GF]"
   },
@@ -35983,7 +36103,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "53",
     "teacher": "何胤樓",
     "time": "R12-PE[GF]"
   },
@@ -35995,7 +36115,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "56",
     "teacher": "何胤樓",
     "time": "M12-PE[GF]"
   },
@@ -36007,7 +36127,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "48",
     "teacher": "待聘",
     "time": "M12-PE[GF]"
   },
@@ -36019,7 +36139,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "57",
     "teacher": "詹富鈞",
     "time": "M56-PE[GF]"
   },
@@ -36031,7 +36151,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "44",
     "teacher": "留鼎淙",
     "time": "F78-PE[GF]"
   },
@@ -36043,7 +36163,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "45",
     "teacher": "陳忠強",
     "time": "R34-PE[GF]"
   },
@@ -36055,7 +36175,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "50",
     "teacher": "江竹偉",
     "time": "R34-PE[GF]"
   },
@@ -36067,7 +36187,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "60",
     "teacher": "張振興",
     "time": "R34-PE[GF]"
   },
@@ -36079,7 +36199,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "45",
     "teacher": "張振興",
     "time": "M56-PE[GF]"
   },
@@ -36091,7 +36211,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "50",
     "teacher": "余秀菁",
     "time": "W34-PE[GF]"
   },
@@ -36103,7 +36223,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "何胤樓",
     "time": "W34-PE[GF]"
   },
@@ -36115,7 +36235,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "何胤樓",
     "time": "R34-PE[GF]"
   },
@@ -36127,7 +36247,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "詹富鈞",
     "time": "F56-PE[GF]"
   },
@@ -36139,7 +36259,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "留鼎淙",
     "time": "M56-PE[GF]"
   },
@@ -36151,7 +36271,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "57",
     "teacher": "江竹偉",
     "time": "R12-PE[GF]"
   },

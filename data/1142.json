@@ -117,7 +117,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "張世慶",
-    "time": ""
+    "time": "Wa-"
   },
   "1142_110010": {
     "code": "MDMD20134",
@@ -129,7 +129,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林邑璁",
-    "time": ""
+    "time": "W9-"
   },
   "1142_110011": {
     "code": "MDMD20068",
@@ -141,7 +141,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "張瑞文、楊令瑀、顏秀如、楊佳鳳、曹珮真、賴昭誠、林建宏、許庭榕、洪妙秋、林為聖、陳威宇、李星原、李致穎、黃清峯",
-    "time": ""
+    "time": "M9-"
   },
   "1142_110012": {
     "code": "MDMD20049",
@@ -153,7 +153,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳怡仁、洪煥程、趙灌中、趙湘台、張家銘、葉長青、鄭乃銘、何積泓、劉希儒、曾仁宇、張燕後、張嘉珮、劉家豪、趙偉廷、陳冠宇、楊思婷",
-    "time": ""
+    "time": "T9a-"
   },
   "1142_110013": {
     "code": "MDMD10109",
@@ -165,7 +165,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林良儒、凌憬峯",
-    "time": ""
+    "time": "Rab-"
   },
   "1142_110014": {
     "code": "MDMD20289",
@@ -177,7 +177,7 @@
     "num_limit": "12",
     "reg_num": "0",
     "teacher": "陳冠宇",
-    "time": ""
+    "time": "Mab-"
   },
   "1142_110015": {
     "code": "MDMD20236",
@@ -189,7 +189,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林邑璁",
-    "time": ""
+    "time": "W8-"
   },
   "1142_110016": {
     "code": "MDMD00022",
@@ -2604,16 +2604,16 @@
     "time": "W34-YD214[YM]"
   },
   "1142_111504": {
-    "code": "DEDE10046",
-    "credit": "4.00",
-    "hours": "4.00",
+    "code": "DEDE10080",
+    "credit": "3.00",
+    "hours": "3.00",
     "id": "111504",
     "memo": "",
     "name": "生物化學 Biochemistry",
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "黎萬君、林姝君、羅正汎、涂曦丰、林怡彣、林榮辰",
-    "time": "T34W12-YD105[YM]"
+    "time": "W567-YD105[YM]"
   },
   "1142_111505": {
     "code": "DEDE10070",
@@ -2948,7 +2948,7 @@
     "name": "固定贋復學 Fixed Prosthodontics",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "李士元、葉聖威、陳恒理、董愛康、王君伃、洪振元、謝昀伶、陳信宏",
+    "teacher": "李士元、葉聖威、陳恒理、董愛康、王君伃、洪振元、謝昀伶、陳雅琪、陳信宏",
     "time": "W12-YD210[YM]"
   },
   "1142_111533": {
@@ -2960,7 +2960,7 @@
     "name": "固定贋復學實驗 Fixed Prosthodontics Lab.",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "李士元、陳翾、王君伃、劉妍君",
+    "teacher": "李士元、陳翾、王君伃、陳信宏、許至瑜、劉妍君",
     "time": "W345678-YD202[YM]"
   },
   "1142_111534": {
@@ -4404,12 +4404,12 @@
     "time": "W34-YB624[YM]"
   },
   "1142_112209": {
-    "code": "BEPT20040",
+    "code": "BEPT20100",
     "credit": "1.00",
     "hours": "1.00",
     "id": "112209",
     "memo": "",
-    "name": "皮膚物理治療學 Integumentary Physical Therapy",
+    "name": "皮膚系統物理治療學 Integumentary Physical Therapy",
     "num_limit": "45",
     "reg_num": "0",
     "teacher": "王子娟、彭成康、林之勛、王天祥、陳梅君、翁立窈、宋有礪、陳偉修、莊惇雅、林家穗、涂育嫺",
@@ -7063,7 +7063,7 @@
     "memo": "",
     "name": "高等藥理學 Advanced Pharmacology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "嚴錦城、鄭彥甫、吳昭慶、李新城、楊慕華、黃奇英、張佩靖、黃自強、張婷婷、鄧豪偉、陳炯東、楊文欽、周士傑",
     "time": "T567-YR103[YM]"
   },
@@ -7075,7 +7075,7 @@
     "memo": "",
     "name": "實驗藥理學 Experimental Pharmacology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "嚴錦城、吳昭慶、霍德義、駱雨利、張婷婷、沈郁強、陳建鋒、花嘉玲、葉翰宜、吳孟修、林威廷、陳繪名",
     "time": "Mn56-YL404[YM]"
   },
@@ -7111,7 +7111,7 @@
     "memo": "[English Medium Course]",
     "name": "進階藥理學與生技新藥之應用 Advanced Pharmacology and Biotechnology Application in Drug Development",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "邱士華、霍德義、王夢蓮、周士傑",
     "time": "F5678-YR102[YM]"
   },
@@ -7135,7 +7135,7 @@
     "memo": "[English Medium Course] Students who do not enroll in the Yang-Ming campus can join the class via Google Meet.",
     "name": "藥理學概論 Introduction of Pharmacology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "林滿玉、吳宗軒、霍德義、林惠菁、王湘翠、黃自強、姜紹青、東雅惠、陳謄州",
     "time": "M78-YL402[YM]"
   },
@@ -7243,7 +7243,7 @@
     "memo": "請參照授課進度表上課日期，限修畢藥理學實驗課程且可使用中文與英文協助教學者",
     "name": "藥理學實驗教學實習(二) Pharmacology Lab.Teaching Practice II",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "張婷婷",
     "time": "R345678F345678-YED214[YM]"
   },
@@ -7267,7 +7267,7 @@
     "memo": "[English Medium Course]上課地點：榮總致德樓705室",
     "name": "誘導幹細胞與基因編輯特論 Induced Pluripotent Stem Cells and Genome Editing",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "邱士華、霍德義、王夢蓮、周士傑",
     "time": "T9a-YR103[YM]"
   },
@@ -7279,7 +7279,7 @@
     "memo": "[English Medium Course]上課地點：台北榮總醫學科技大樓9F",
     "name": "藥物裝載與傳遞奈米工程導讀 Introduction of drug package and delivery system in nano scale",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "邱士華、霍德義、王夢蓮、周士傑",
     "time": "F9a-YR103[YM]"
   },
@@ -9874,6 +9874,18 @@
     "reg_num": "0",
     "teacher": "陳俞琪、孫秀卿、孫家偉、陳榮治、李博仁、楊曼華、石紀",
     "time": "T9ab-YN419[YM]"
+  },
+  "1142_131714": {
+    "code": "NSCN30055",
+    "credit": "3.00",
+    "hours": "8.00",
+    "id": "131714",
+    "memo": "",
+    "name": "進階婦兒科護理學實習(一) Pracitce in Advanced Maternity and Pediatric Nursing (I)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蔡慈儀",
+    "time": "W12345678R12345678-"
   },
   "1142_131800": {
     "code": "NSCH30050",

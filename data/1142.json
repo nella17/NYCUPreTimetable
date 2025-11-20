@@ -9680,7 +9680,7 @@
     "name": "口腔組織工程與生技材料專題討論 Oral Tissue Engineering and Biotechnology Materials Panel Discussion",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃何雄、李士元、張國威、林元敏、林嘉澍、林宥成、王鼎涵、林榮辰、陳翾",
+    "teacher": "黃何雄、李士元、張國威、林元敏、林嘉澍、林宥成、王鼎涵、林榮辰、陳翾、林坤志",
     "time": "Rn5-YD302[YM]"
   },
   "1142_131602": {
@@ -10786,6 +10786,18 @@
     "reg_num": "0",
     "teacher": "蘇美慈、龔思豪、黃尉倫",
     "time": "R56-YB101[YM]"
+  },
+  "1142_132218": {
+    "code": "BEBL30048",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "132218",
+    "memo": "",
+    "name": "醣質生物學特論(一) Special Topics on Glycobiology I",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "涂玉青",
+    "time": "R78-YB102[YM]"
   },
   "1142_132300": {
     "code": "BEBE30041",
@@ -13127,6 +13139,18 @@
     "teacher": "蔡憶文",
     "time": "W234-YN611[YM]"
   },
+  "1142_140600": {
+    "code": "MDEO30047",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "140600",
+    "memo": "",
+    "name": "環境衛生特論 Advanced Environmental Health",
+    "num_limit": "10",
+    "reg_num": "0",
+    "teacher": "潘文驥、陳美蓮、王正雄、高偉峯",
+    "time": ""
+  },
   "1142_140700": {
     "code": "MDEC30009",
     "credit": "1.00",
@@ -14854,6 +14878,30 @@
     "reg_num": "0",
     "teacher": "勞維俊",
     "time": "R34-YX202[YM]"
+  },
+  "1142_161040": {
+    "code": "GECE00461",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161040",
+    "memo": "",
+    "name": "公共利益與永續社會 Public Interest and Sustainable Society",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "曾憲政",
+    "time": "R78-A205[GF]"
+  },
+  "1142_161041": {
+    "code": "GECE00462",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161041",
+    "memo": "",
+    "name": "國民所得的全球視角 A Global Perspective on National Income ",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "曾憲政",
+    "time": "M78-YB100[YM]"
   },
   "1142_161043": {
     "code": "GECE00451",
@@ -22243,7 +22291,7 @@
     "memo": "本課程限應化系大一單號同學優先。",
     "name": "服務學習(一) Service Learning I",
     "num_limit": "27",
-    "reg_num": "0",
+    "reg_num": "25",
     "teacher": "詹揚翔",
     "time": "M56-SB201[GF]"
   },
@@ -22255,7 +22303,7 @@
     "memo": "",
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "48",
     "teacher": "吳宜霖",
     "time": "W78-SB211[GF]"
   },
@@ -22279,7 +22327,7 @@
     "memo": "",
     "name": "分析化學(一) Analytical Chemtistry (1)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "48",
     "teacher": "詹揚翔、朱晏頤",
     "time": "T34F2-SC159[GF]"
   },
@@ -22315,7 +22363,7 @@
     "memo": "",
     "name": "有機化學(二) Organic Chemistry (2)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "53",
     "teacher": "莊士卿",
     "time": "M34R23-SC159[GF]"
   },
@@ -22327,7 +22375,7 @@
     "memo": "限本系，外系學生需經任課教師同意後，方可加選本課程。",
     "name": "有機化學實驗(二) Organic experiments(2)",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "53",
     "teacher": "莊士卿",
     "time": "R4n5678-SB120[GF]"
   },
@@ -22339,7 +22387,7 @@
     "memo": "[English Medium Course]",
     "name": "物理化學(二) Physical Chemistry(II)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "53",
     "teacher": "魏恆理",
     "time": "W34F56-SB211[GF]"
   },
@@ -22362,7 +22410,7 @@
     "id": "516810",
     "memo": "限本系，外系學生需經任課教師同意後，方可加選本課程。",
     "name": "物化實驗(一) Physical Chemistry Labs.(I)",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "吳慶昇",
     "time": "M89ab-SB219[GF]"
@@ -22375,7 +22423,7 @@
     "memo": "",
     "name": "無機化學(二) Inorganic Chemistry (2)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "43",
     "teacher": "劉學儒",
     "time": "T234-SB211[GF]"
   },
@@ -22434,7 +22482,7 @@
     "id": "516816",
     "memo": "[English Medium Course]",
     "name": "有機化學(三) Organic Chemistry(III)",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "0",
     "teacher": "蒙國光",
     "time": "T56R3-SB201[GF]"
@@ -22446,7 +22494,7 @@
     "id": "516817",
     "memo": "[English Medium Course]",
     "name": "有機立體化學 Organic Stereochemistry",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "0",
     "teacher": "戶部義人",
     "time": "T567-SB203[GF]"
@@ -22458,7 +22506,7 @@
     "id": "516818",
     "memo": "[English Medium Course]",
     "name": "化學應用群論 Group Theory for Chemistry",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "0",
     "teacher": "杉山輝樹",
     "time": "R567-SC159[GF]"
@@ -22470,7 +22518,7 @@
     "id": "516819",
     "memo": "",
     "name": "物理化學(三) Physical Chemistry (III)",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "0",
     "teacher": "曾建銘",
     "time": "M456-SB202[GF]"
@@ -38848,7 +38896,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "571002",
-    "memo": "【1】限國際志工選修：本課程為本校國際志工團所選修之培訓課程，需經書審、面試通過錄取後方得修習。【2】上課地點：印度團主要於光復校區資訊館3樓319會議室（陽明校區同學輔以線上同步）、東南亞團主要於工程一館EA204，如有變更會另行通知。",
+    "memo": "【1】限國際志工選修：本課程為本校國際志工團所選修之培訓課程，需經書審、面試通過錄取後方得修習。【2】上課地點將另行通知。",
     "name": "永續發展與設計實踐-服務學習(二) Sustainable Development and Design Practice-Service Learning II",
     "num_limit": "30",
     "reg_num": "0",
@@ -38860,7 +38908,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "571003",
-    "memo": "上課地點為ED202(交大校區工程四館202教室)",
+    "memo": "上課地點新竹光復校區，教室另行通知。",
     "name": "烘焙甜點與責任消費─服務學習二 Baking Practice and Responsible Consumption -Basic Service Learning",
     "num_limit": "30",
     "reg_num": "0",

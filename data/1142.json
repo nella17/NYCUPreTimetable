@@ -2227,7 +2227,7 @@
     "memo": "醫師工程師組導師時間，上課地點視導師安排。",
     "name": "心靈成長(二) Spiritual Growth Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "李政家、李佳燕",
     "time": "W78-"
   },
@@ -2239,7 +2239,7 @@
     "memo": "醫師工程師組導師時間，上課地點視導師安排。",
     "name": "心靈成長(四) Spiritual Growth Ⅳ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "紀乃方、江柏翰",
     "time": "Ryz-"
   },
@@ -2251,7 +2251,7 @@
     "memo": "限醫學系醫師工程師組、電機系丙組學生選修。",
     "name": "醫師工程師專題研究(二) Physician Engineer Research Project (Ⅱ)",
     "num_limit": "11",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "楊懷哲",
     "time": ""
   },
@@ -3668,7 +3668,7 @@
     "name": "流行病學 Epidemiology",
     "num_limit": "45",
     "reg_num": "0",
-    "teacher": "黃世宗、王孟廷、東雅惠、陳謄州、翁紹恩",
+    "teacher": "吳宗軒、王孟廷、東雅惠、陳謄州、黃世宗",
     "time": "W12-YR105[YM]"
   },
   "1142_111919": {
@@ -3763,7 +3763,7 @@
     "memo": "",
     "name": "大四導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "52",
     "teacher": "黃琤、孫光蕙、洪小雅",
     "time": "W34-YT205[YM]"
   },
@@ -3787,7 +3787,7 @@
     "memo": "[English Medium Course]",
     "name": "臨床微生物實驗 Clinical Microbiology Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "楊翠青、龔思豪、洪小雅",
     "time": "W56R3-YB229[YM]"
   },
@@ -3799,7 +3799,7 @@
     "memo": "",
     "name": "大三導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "張懿欣、楊翠青、蘇美慈",
     "time": "W34-"
   },
@@ -3811,7 +3811,7 @@
     "memo": "",
     "name": "臨床生化學 Clinical Biochemistry",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "黃琤、張懿欣、黃尉倫",
     "time": "M34-YB101[YM]"
   },
@@ -3823,7 +3823,7 @@
     "memo": "[English Medium Course]",
     "name": "臨床生化學實驗 Clinical Biochemistry Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "黃琤、張懿欣、黃尉倫、李麗花、楊舜鈞",
     "time": "M567-YB229[YM]"
   },
@@ -3835,7 +3835,7 @@
     "memo": "",
     "name": "臨床細菌學 Clinical Bacteriology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "楊翠青、吳韋訥、郭富美",
     "time": "R78-YB101[YM]"
   },
@@ -3847,7 +3847,7 @@
     "memo": "",
     "name": "臨床病毒學 Clinical Virology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "龔思豪",
     "time": "T78-YB102[YM]"
   },
@@ -3859,7 +3859,7 @@
     "memo": "",
     "name": "臨床血清免疫學 Clinical Serology & Immunology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "黃智生、孫光蕙、涂玉青、呂世正、蘇美慈、蔡長祐、余家利",
     "time": "T34-YT104[YM]"
   },
@@ -3871,7 +3871,7 @@
     "memo": "",
     "name": "臨床生理學 Clinical Physiology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "常敏之、黃金洲、黃志賢、邱宏仁、潘聖衛、林伯剛、賴冠霖、張珽詠、丁冠中、陸治雯、余晟豪、彭康政、徐婉庭",
     "time": "F56-YB102[YM]"
   },
@@ -3883,7 +3883,7 @@
     "memo": "",
     "name": "臨床鏡檢學 Introduction to Clinical Microscopy",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "黃智生、孫光蕙、呂世正、黃尉倫、洪加政、曾文琴、蔡慧思",
     "time": "T56-YT104[YM]"
   },
@@ -3895,7 +3895,7 @@
     "memo": "",
     "name": "臨床鏡檢學實驗 Introduction to Clinical Microscopy Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "黃智生、黃尉倫、蘇美慈、黃憲堂、曾文琴、蔡慧思",
     "time": "T567-YB229[YM]"
   },
@@ -3907,7 +3907,7 @@
     "memo": "",
     "name": "美麗人生(下) How to Make Your Life Beautiful (II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "涂玉青、龔思豪、黃尉倫",
     "time": "W34-YT304[YM]"
   },
@@ -3919,7 +3919,7 @@
     "memo": "",
     "name": "細胞生物學 Cell Biology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "黃尉倫、黃琤、呂世正、龔思豪",
     "time": "F34-YB102[YM]"
   },
@@ -3931,7 +3931,7 @@
     "memo": "",
     "name": "分子生物學 Molecular Biology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "黃尉倫、吳韋訥、黃琤、龔思豪",
     "time": "T34-YT305[YM]"
   },
@@ -3943,7 +3943,7 @@
     "memo": "",
     "name": "精彩人生 (下) How to make your life splendid",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "黃智生、呂世正",
     "time": "W34-YB102[YM]"
   },
@@ -3967,7 +3967,7 @@
     "memo": "必修生優先",
     "name": "組織學 Histology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "王先逸、傅毓秀、葉添順、鄭瓊娟、李學德、郭曉縈、蔣偉程",
     "time": "M34-YT305[YM]"
   },
@@ -5384,7 +5384,7 @@
     "name": "放射診斷學 Radiodiagnosis",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "邱宏仁、吳銘庭、凌憬峯、林重榮、賴炳宏、沈書慧、黃振義、邱乃祈、柳建安、吳慶蘭、黃宣恩、林德銘",
+    "teacher": "邱宏仁、吳銘庭、凌憬峯、林重榮、賴炳宏、沈書慧、黃振義、邱乃祈、柳建安、吳慶蘭、黃宣恩、林德銘、劉顯慈",
     "time": "M56-YT204[YM]"
   },
   "1142_112333": {
@@ -6628,7 +6628,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "114100",
-    "memo": "牙醫一、物治一、藥學一、生物科技管理學程合班",
+    "memo": "牙醫一、物治一、藥學一、生物科技管理學程合班，本課程為跨教室遠距課程。",
     "name": "普通生物學(下) General Biology II",
     "num_limit": "9999",
     "reg_num": "0",
@@ -7099,7 +7099,7 @@
     "memo": "與護二合班上課",
     "name": "藥理學 Pharmacology",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "張婷婷、黃金洲、李新城、霍德義、王湘翠、張世霖、黃自強、兵岳忻、嚴錦城、沈郁強、洪舜郁、張豫立、王笙帆、周士傑、葉翰宜、蔣智宏",
     "time": "W56R5678-YX406[YM]"
   },
@@ -7123,7 +7123,7 @@
     "memo": "週四5678節上課，請參照課表說明，與護理系合班上課，可用英語授課",
     "name": "藥理學實驗 Pharmacology Lab.",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "張婷婷",
     "time": "R9abc-YED214[YM]"
   },
@@ -7436,7 +7436,7 @@
     "name": "傳染病流行病學  Epidemiology of Infectious Diseases",
     "num_limit": "20",
     "reg_num": "0",
-    "teacher": "詹宇鈞、李美璇、王復德、詹大千、潘聖衛、陳昕白、黃頌恩、巫炳峰、馮嘉毅",
+    "teacher": "詹宇鈞、李美璇、詹大千、潘聖衛、陳昕白、黃頌恩、巫炳峰、陳伯亮、馮嘉毅",
     "time": "T56-YS107[YM]"
   },
   "1142_130208": {
@@ -8384,7 +8384,7 @@
     "name": "1142環境與職業衛生的趨勢與展望 1142 The Trend and Future Perspective of Environmental and Occupational Health Sciences",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "潘文驥、楊振昌、陳美蓮、余國賓、紀凱獻、黃鈺芳、張榮偉",
+    "teacher": "潘文驥、楊振昌、陳美蓮、余國賓、紀凱獻、黃鈺芳、李宥萱、張榮偉",
     "time": "T34-YT304[YM]"
   },
   "1142_130804": {
@@ -8468,7 +8468,7 @@
     "name": "1142職業衛生書報討論 1142Seminars on Occupational Hygiene",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃鈺芳、陳美蓮、紀凱獻、張榮偉",
+    "teacher": "陳美蓮、紀凱獻、張榮偉",
     "time": "T56-YS415[YM]"
   },
   "1142_130811": {
@@ -8728,7 +8728,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "131007",
-    "memo": "不分系二、生科系二、醫學系B組二、藥學二、物治二合班上課，開放全校選修。",
+    "memo": "不分系二、生科系二、醫學系B組二、藥學二、物治二合班上課，開放全校選修。本課程為混成遠距課程 (教師實體授課@圖資401、學生跨校區學生可透過軟體同步上課)",
     "name": "量化數據分析 Quantitative data analysis",
     "num_limit": "9999",
     "reg_num": "0",
@@ -9872,7 +9872,7 @@
     "name": "開發智慧照護新藍海 Exploring a new blue ocean through the development of smart care",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳俞琪、孫秀卿、孫家偉、陳榮治、李博仁、楊曼華、石紀",
+    "teacher": "陳俞琪、孫秀卿、孫家偉、陳榮治、李博仁、羅畯義、楊曼華、石紀、朱原嘉",
     "time": "T9ab-YN419[YM]"
   },
   "1142_131714": {
@@ -10615,7 +10615,7 @@
     "memo": "",
     "name": "醫學分子檢驗學 Molecular Diagnosis in Medicine",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "52",
     "teacher": "黃智生、吳韋訥、孫光蕙、涂玉青、呂世正、龔思豪、洪舜郁、吳俊忠、游雅言、何祥齡、洪加政",
     "time": "W78-YT104[YM]"
   },
@@ -10687,7 +10687,7 @@
     "memo": "",
     "name": "醫學檢驗及生技醫藥相關法規 Regulations on Medical Laboratories and Biotechnology Industry",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "52",
     "teacher": "洪小雅、王世仁、李子偉、鄭又瑋、李湘琳",
     "time": "F78-YB102[YM]"
   },
@@ -10771,7 +10771,7 @@
     "memo": "",
     "name": "醫學檢驗品質管理 Quality Management in Medical Laboratory Sciences",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "洪小雅、高照村、何祥齡、陳瀅如、李詩益、王晏莉、劉凱中",
     "time": "W78-YB101[YM]"
   },
@@ -12316,7 +12316,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "133017",
-    "memo": "[English Medium Course]每週2小時，共八週",
+    "memo": "[English Medium Course]每週2小時，共八週，本課程為混成遠距課程 (教師實體授課@傳甲533、學生跨校區學生可透過軟體同步上課)",
     "name": "仿生智慧與系統在生物計算中的應用 Biomimetic Intelligence and Systems in Biological Computing",
     "num_limit": "9999",
     "reg_num": "0",
@@ -13149,7 +13149,7 @@
     "num_limit": "10",
     "reg_num": "0",
     "teacher": "潘文驥、陳美蓮、王正雄、高偉峯",
-    "time": ""
+    "time": "T12-YS105[YM]"
   },
   "1142_140700": {
     "code": "MDEC30009",
@@ -13258,6 +13258,42 @@
     "reg_num": "0",
     "teacher": "楊靜修、鄭彥甫、陳麗芬、楊定一、盧俊良、李國熙、王署君、蔡金吾、林嘉澍、楊智傑、黃植懋、鄭菡若、侯珮珊、蔡欣融、蔡世仁、李怡慧、李正達、林永煬、洪成志、劉祐岑、尼大衛",
     "time": "T78-YL402[YM]"
+  },
+  "1142_141000": {
+    "code": "MDDT30012",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "141000",
+    "memo": "[English Medium Course]上課時間：13:30-15:20，上課地點：中研院生醫所8樓TIGP教室，限轉譯醫學博士學位學程學生修讀",
+    "name": "專題討論(四) Seminar in Translational Medicine IV",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "呂仁、李永凌",
+    "time": "F56-"
+  },
+  "1142_141001": {
+    "code": "MDDT30016",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "141001",
+    "memo": "[English Medium Course]上課時間：10:00~12:00，上課地點：中研院統計所 B1 演講廳，限轉譯醫學博士學位學程學生修讀",
+    "name": "生物醫學統計學 Biomedical Statistics",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳璿宇",
+    "time": "W34-"
+  },
+  "1142_141002": {
+    "code": "MDDT30020",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "141002",
+    "memo": "[English Medium Course]English Medium Course]限轉譯醫學博士學位學程學生修讀，非MD必修。寒假1/12~1/21上課。上課時間: (一至五)10:00-12:00及13:00-15:00。上課地點：中研院生醫所8F TIGP教室上課",
+    "name": "臨床醫學概論 Introduction to Clinical Medicine",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "謝清河、周德盈",
+    "time": "S3456-"
   },
   "1142_141200": {
     "code": "DEDE30034",
@@ -15124,7 +15160,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162009",
-    "memo": "1. 北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽語言學習與寫作中心(llwc@nycu.edu.tw）辦理。2. 開學後第一、二週無故未到者，系統將逕行退選。",
+    "memo": "1. 北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽語言學習與寫作中心(llwc@nycu.edu.tw）辦理。2. 開學後第一、二週無故未到者，系統將逕行退選。3.本課程為混成遠距課程 (教師實體授課@知行202、學生跨校區學生可透過軟體同步上課)",
     "name": "法文(一) French(I)",
     "num_limit": "20",
     "reg_num": "0",
@@ -15645,7 +15681,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "盧正恒",
-    "time": "M234-HKB09[LJ]"
+    "time": "R234-HKB09[LJ]"
   },
   "1142_310002": {
     "code": "HKHS10009",
@@ -15849,7 +15885,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "周馥儀",
-    "time": "T678-HK106[LJ]"
+    "time": "T567-HK106[LJ]"
   },
   "1142_310020": {
     "code": "HKHS00001",
@@ -15871,7 +15907,7 @@
     "memo": "",
     "name": "統計學 Statistics and Statistical Computing Language",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "陶振超",
     "time": "M5678-HK114[LJ]"
   },
@@ -15883,7 +15919,7 @@
     "memo": "",
     "name": "數位影像設計 Digital image design",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "吳岱芸",
     "time": "R567-HK114[LJ]"
   },
@@ -15895,7 +15931,7 @@
     "memo": "",
     "name": "客家與傳播 Hakka and Communication",
     "num_limit": "100",
-    "reg_num": "0",
+    "reg_num": "92",
     "teacher": "游婉雲",
     "time": "M234-HKB08[LJ]"
   },
@@ -15907,7 +15943,7 @@
     "memo": "",
     "name": "畢業專題(上) Final Year Projet(I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "李美華、吳岱芸",
     "time": "TnRn-HKB08[LJ]"
   },
@@ -15919,7 +15955,7 @@
     "memo": "",
     "name": "媒體文化與社會 Media Culture and Society",
     "num_limit": "55",
-    "reg_num": "0",
+    "reg_num": "36",
     "teacher": "戴瑜慧",
     "time": "R234-HKB08[LJ]"
   },
@@ -15931,7 +15967,7 @@
     "memo": "",
     "name": "人機互動概論 Human Computer Interaction",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "36",
     "teacher": "待聘",
     "time": "T567-HKB08[LJ]"
   },
@@ -15943,7 +15979,7 @@
     "memo": "",
     "name": "創意與設計 Innovation and Design",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "陳維平",
     "time": "T567-HK114[LJ]"
   },
@@ -15979,7 +16015,7 @@
     "memo": "",
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "黃淑鈴、何俊霆",
     "time": "W78-HKB08[LJ]"
   },
@@ -16051,7 +16087,7 @@
     "memo": "",
     "name": "傳播過程與效果 Communication Process and Effect",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "何俊霆",
     "time": "T234-HKB08[LJ]"
   },
@@ -16063,7 +16099,7 @@
     "memo": "",
     "name": "媒體、民主與人民發聲─ 專業服務學習 Media, Democracy, and People’s Voices",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "戴瑜慧",
     "time": "W56-HKB08[LJ]"
   },
@@ -16267,7 +16303,7 @@
     "memo": "",
     "name": "傳播質化研究方法 Qualitative Communication Research Methods",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "黃淑鈴",
     "time": "F234-HK206[LJ]"
   },
@@ -16411,7 +16447,7 @@
     "memo": "",
     "name": "有機化學（一） Organic Chmistry (I)",
     "num_limit": "110",
-    "reg_num": "0",
+    "reg_num": "77",
     "teacher": "孫仲銘",
     "time": "T56R34-SB210[GF]"
   },
@@ -16531,7 +16567,7 @@
     "memo": "本系學生優先",
     "name": "資料結構與演算法 Algorithm and data structure in bioinformatics",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "19",
     "teacher": "陸志豪",
     "time": "M789-SC151[GF]"
   },
@@ -16807,7 +16843,7 @@
     "memo": "",
     "name": "工程數學 Engineering Mathematics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "李孟學",
     "time": "W567-BI302[BA]"
   },
@@ -16819,7 +16855,7 @@
     "memo": "",
     "name": "光譜與分子量測學 Biospectroscopy and Detection",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "高雅婷",
     "time": "R234-SC109[GF]"
   },
@@ -18441,7 +18477,7 @@
     "num_limit": "20",
     "reg_num": "0",
     "teacher": "楊欣芳",
-    "time": "M89-HC402[GF]"
+    "time": "F56-HC402[GF]"
   },
   "1142_514128": {
     "code": "HSFL20059",
@@ -23685,7 +23721,7 @@
     "num_limit": "70",
     "reg_num": "0",
     "teacher": "林志偉",
-    "time": "T789-SC158[GF]"
+    "time": "F234-SC151[GF]"
   },
   "1142_520008": {
     "code": "XDEP20007",
@@ -23709,7 +23745,7 @@
     "num_limit": "70",
     "reg_num": "0",
     "teacher": "林志偉",
-    "time": "F234-SC151[GF]"
+    "time": "T789-SC158[GF]"
   },
   "1142_520010": {
     "code": "XDEP20018",
@@ -23756,8 +23792,8 @@
     "name": "半導體物理與元件 Semiconductor Physics and Device",
     "num_limit": "70",
     "reg_num": "0",
-    "teacher": "陳永富",
-    "time": "M89-SC109[GF],F2-SC152[GF]"
+    "teacher": "陳振芳",
+    "time": "W234-SC110[GF]"
   },
   "1142_520014": {
     "code": "XDEP20025",
@@ -24570,7 +24606,7 @@
     "id": "534304",
     "memo": "",
     "name": "資料科學與人機互動 Data Science  and Human- Computer  Interaction",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "許富淞",
     "time": "W234-HB204[GF]"
@@ -24594,7 +24630,7 @@
     "id": "534306",
     "memo": "",
     "name": "虛擬實境暨擴增實境傳播研究 Virtual/Augmented Reality Communication Research",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "許富淞",
     "time": "W678-HB204[GF]"
@@ -33549,7 +33585,7 @@
     "num_limit": "40",
     "reg_num": "0",
     "teacher": "白姝玉",
-    "time": "W34-CS105[GF]"
+    "time": "W34-CS-PC2[GF]"
   },
   "1142_561007": {
     "code": "GECG10070",
@@ -34365,7 +34401,7 @@
     "num_limit": "30",
     "reg_num": "0",
     "teacher": "羅惟正",
-    "time": "T678-"
+    "time": "T789-CS-PC4[GF]"
   },
   "1142_561075": {
     "code": "GECG10063",
@@ -40064,7 +40100,7 @@
     "name": "深度學習研究模組 Deep Learning Modules ",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳建志、綠能學院、連紹宇、陳榮治、許志仲、魏澤人",
+    "teacher": "陳建志、綠能學院、連紹宇、陳榮治、郭志義、許志仲",
     "time": "R23456-CM218[GR]"
   },
   "1142_639200": {
@@ -40076,7 +40112,7 @@
     "name": "智慧系統研究模組 Intelligent System Modules",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "陳建志、綠能學院、謝君偉、郭志義、賴伯承、彭其瀚",
+    "teacher": "陳建志、綠能學院、黃仁竑、謝君偉、賴伯承、陳勝一、彭其瀚",
     "time": "T234-CM212[GR],R56-CM218[GR]"
   },
   "1142_639300": {
@@ -40160,7 +40196,7 @@
     "name": "協作工業機器人手臂 Collaborative Industrial Robotic Arms Course",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "潘俊傑",
     "time": "M567-CM212[GR]"
   },
   "1142_639406": {
@@ -44332,7 +44368,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910339",
-    "memo": "資工組，此課程由曾建超老師授課X週，上課地點於本校光復校區；其餘週數由張凱威老師授課，上課地點於國防大學理工學院",
+    "memo": "資工組，此課程由曾建超老師授課3週，上課時間F34n，上課地點於本校光復校區；其餘13週由張凱威老師授課，上課時間F234，上課地點於國防大學理工學院",
     "name": "網路技術與實務1 Network Technology and Practice(1)",
     "num_limit": "9999",
     "reg_num": "0",

@@ -8336,7 +8336,7 @@
     "name": "健康政策專題討論 Seminar on Health Policy",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "林文旭、喬芷、蔡憶文、李韶芬",
+    "teacher": "林文旭、喬芷、李韶芬",
     "time": "T56-YN613[YM]"
   },
   "1142_130800": {
@@ -9056,7 +9056,7 @@
     "name": "腦科學中的分子工程 Molecular Engineering Tools in Brain Science",
     "num_limit": "20",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "待聘",
     "time": "W34-YL837[YM]"
   },
   "1142_131113": {
@@ -9068,7 +9068,7 @@
     "name": "腦疾病的分子透視 The Molecular Vision of Brain Diseases",
     "num_limit": "20",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "待聘",
     "time": "F3-YL839[YM]"
   },
   "1142_131114": {
@@ -12728,7 +12728,7 @@
     "name": "專題討論(四) Seminar",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "待聘",
     "time": ""
   },
   "1142_133803": {
@@ -12740,7 +12740,7 @@
     "name": "論文進度報告(三) Progress Report",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "待聘",
     "time": ""
   },
   "1142_133804": {
@@ -13353,7 +13353,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "楊秋月、邱愛富、陳紀雯",
-    "time": "F78-YN301[YM]"
+    "time": "F78-YN302[YM]"
   },
   "1142_141404": {
     "code": "NSDN30030",
@@ -13365,7 +13365,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "邱愛富、黃子庭、陳俞琪、劉影梅、楊秋月、陳紀雯、廖媛美",
-    "time": "F789-YN603[YM]"
+    "time": "F234-YN603[YM]"
   },
   "1142_141500": {
     "code": "NSCN30037",
@@ -13473,7 +13473,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "金翠庭、胡瑜峰、黃奇英、何國牟、張牧新、江季霖",
-    "time": ""
+    "time": "T78-YC101[YM]"
   },
   "1142_141700": {
     "code": "BEBL30010",
@@ -13521,7 +13521,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "賴穎暉、朱唯勤、江惠華、詹家泰、劉澤英、陳右穎、林峻立、江明彰、駱俊良、李泉、劉承揚、葛宗融、羅俊民、劉大中、許如秀",
-    "time": ""
+    "time": "R89-YB100[YM]"
   },
   "1142_141900": {
     "code": "BEPT30026",
@@ -14265,7 +14265,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "李亭亭、黃升苗、楊秋月",
-    "time": "F56-YN418[YM]"
+    "time": "F56-YN603[YM]"
   },
   "1142_150206": {
     "code": "NSDN30079",
@@ -14944,11 +14944,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161043",
-    "memo": "[English Medium Course]僅在北投陽明校區授課",
+    "memo": "1.[English Medium Course]\n2.僅在北投陽明校區授課。\n3.限大學部選修。",
     "name": "瑜珈：從歷史到現代實踐 Yoga: From History to Modern Practice",
     "num_limit": "0",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "待聘",
     "time": "T12-YB102[YM]"
   },
   "1142_161044": {
@@ -16401,7 +16401,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "盧正恒",
-    "time": "Tabc-HK207[LJ]"
+    "time": "Mabc-HK207[LJ]"
   },
   "1142_350003": {
     "code": "HKSC30024",
@@ -16437,7 +16437,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "周馥儀",
-    "time": "Mabc-HK207[LJ]"
+    "time": "Tabc-HK207[LJ]"
   },
   "1142_410000": {
     "code": "BTBT10021",
@@ -31461,7 +31461,7 @@
     "num_limit": "70",
     "reg_num": "0",
     "teacher": "廖元甫、陳志成",
-    "time": "W123-A305[GF]"
+    "time": "W234-A305[GF]"
   },
   "1142_539103": {
     "code": "IIAI30010",
@@ -32252,7 +32252,7 @@
     "name": "通訊監察與解析 Lawful interception: principle and application",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "林煒翔",
     "time": ""
   },
   "1142_555902": {
@@ -32264,7 +32264,7 @@
     "name": "資安韌性治理與數位鑑識執法-理論與應用 InfoSec Resilience Governance and Digital Forensics in Law Enforcement: Applying Theory to Practice",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "高大宇、李相臣",
     "time": "Tabc-"
   },
   "1142_556000": {
@@ -32301,7 +32301,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "張淑閔",
-    "time": "Tabc-EV407[GF]"
+    "time": "Wabc-EV407[GF]"
   },
   "1142_556003": {
     "code": "ENSR30011",

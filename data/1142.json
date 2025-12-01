@@ -12328,7 +12328,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "133100",
-    "memo": "[English Medium Course]僅陽明校區實體授課",
+    "memo": "1.[English Medium Course]。\n2.僅陽明校區實體授課。\n3.限未修過此門課程學生修讀。",
     "name": "質性研究方法導論 Introduction to Qualitative Research Methods",
     "num_limit": "9999",
     "reg_num": "0",
@@ -25448,7 +25448,7 @@
     "name": "無揚聲器之聲音裝置設計  Soundinstallations without Loudspeakers",
     "num_limit": "15",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "董昭民",
     "time": "R5-AD027[GF]"
   },
   "1142_534812": {
@@ -27388,7 +27388,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535606",
-    "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目",
+    "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&amp;1年級；博士班資格考考核科目。資安所必選修課程。",
     "name": "網路安全 Network Security",
     "num_limit": "80",
     "reg_num": "0",

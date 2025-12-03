@@ -5695,7 +5695,7 @@
     "memo": "",
     "name": "生命科學總論(下) General Biology, 2nd semester",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "55",
     "teacher": "李曉暉、羅清維、張欣暘、藍昇輝",
     "time": "T56-YK533[YM]"
   },
@@ -6079,7 +6079,7 @@
     "memo": "醫學系一年級選課需經主課嵇達德老師同意，請填寫手動選課單申請，未經申請者一律擋修。",
     "name": "寄生蟲學 Parasitology",
     "num_limit": "200",
-    "reg_num": "136",
+    "reg_num": "137",
     "teacher": "嵇達德、廖皎君、陳正成",
     "time": "M56-YT001[YM]"
   },
@@ -6200,7 +6200,7 @@
     "name": "生物統計學 Biostatistics",
     "num_limit": "45",
     "reg_num": "28",
-    "teacher": "林逸芬",
+    "teacher": "陳瓊梅",
     "time": "M56-YL403[YM]"
   },
   "1142_113505": {
@@ -6643,7 +6643,7 @@
     "memo": "生科系+不分系+物輔系",
     "name": "化學原理(二) Principles of Chemistry II",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "45",
     "teacher": "許世宜",
     "time": "W56-YX216[YM]"
   },
@@ -6691,7 +6691,7 @@
     "memo": "醫技系+生科系+不分系",
     "name": "有機化學 Organic Chemistry",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "45",
     "teacher": "蔡有光、林照雄、廖韋晴",
     "time": "T8-YX216[YM],F56-YX406[YM]"
   },
@@ -9431,18 +9431,6 @@
     "teacher": "林嘉澍",
     "time": "T12-YD304[YM]"
   },
-  "1142_131406": {
-    "code": "DEDE30107",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "131406",
-    "memo": "",
-    "name": "高等口腔病理學(含臨床病理討論) Advanced Oral Pathology (Include C.P.C.)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "張國威、楊政杰、涂曦丰、洪凱風、張婷菡、劉崇基、羅文良、劉宗榮、洪佩詩、周忠憲",
-    "time": "T78-YD207[YM]"
-  },
   "1142_131407": {
     "code": "DEDE30014",
     "credit": "2.00",
@@ -10340,7 +10328,7 @@
     "name": "生物製劑與再生醫療 Biological and Regenerative Medicine",
     "num_limit": "45",
     "reg_num": "27",
-    "teacher": "林滿玉、呂春敏、黃雪莉、胡德民、姜紹青、江季霖、陶秘華、顏厥全、陳惠芳、蒲若芳、張連成、李佳欣",
+    "teacher": "江季霖、呂春敏、黃雪莉、胡德民、姜紹青、陶秘華、顏厥全、陳惠芳、蒲若芳、張連成、李佳欣",
     "time": "R34-YR105[YM]"
   },
   "1142_132015": {
@@ -10772,7 +10760,7 @@
     "name": "醫學檢驗品質管理 Quality Management in Medical Laboratory Sciences",
     "num_limit": "9999",
     "reg_num": "39",
-    "teacher": "洪小雅、高照村、何祥齡、陳瀅如、李詩益、王晏莉、劉凱中",
+    "teacher": "洪小雅、何祥齡、陳瀅如、李詩益、王晏莉、劉凱中",
     "time": "W78-YB101[YM]"
   },
   "1142_132217": {
@@ -15179,6 +15167,18 @@
     "teacher": "周玉蕙",
     "time": "T56-YT103[YM]"
   },
+  "1142_162012": {
+    "code": "GELT20037",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "162012",
+    "memo": "[English Medium Course]此課原課號GELW00018， 原課名「英文寫作」，有修過此課同學若再修習，學分將不採計。全英語授課，為維持教學品質，限制修課人數。",
+    "name": "進階英文寫作 Advanced English Writing",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "鄭以旋",
+    "time": "T34-YT206[YM]"
+  },
   "1142_162013": {
     "code": "GELT00020",
     "credit": "2.00",
@@ -15203,6 +15203,18 @@
     "teacher": "何彥如",
     "time": "W12-YT104[YM]"
   },
+  "1142_162015": {
+    "code": "GELT20037",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "162015",
+    "memo": "[English Medium Course]此課原課號GELW00018， 原課名「英文寫作」，有修過此課同學若再修習，學分將不採計。全英語授課，為維持教學品質，限制修課人數。",
+    "name": "進階英文寫作 Advanced English Writing",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "鄭以旋",
+    "time": "T9a-YT104[YM]"
+  },
   "1142_162016": {
     "code": "GELT20055",
     "credit": "2.00",
@@ -15226,6 +15238,18 @@
     "reg_num": "0",
     "teacher": "林志瑋",
     "time": "W56-YT104[YM]"
+  },
+  "1142_162018": {
+    "code": "GELT20037",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "162018",
+    "memo": "[English Medium Course]此課原課號GELW00018， 原課名「英文寫作」，有修過此課同學若再修習，學分將不採計全英語授課，為維持教學品質，限制修課人數。如有選課問題請洽語言學習與寫作中心(llwc@nycu.edu.tw）。 如為滿額課程，請同學於2月26日 上午 9:00前送加簽單至語寫中心，語寫中心於2月26日上午10:00辦理加簽抽籤。",
+    "name": "進階英文寫作 Advanced English Writing",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "程曉杰",
+    "time": "W12-YT103[YM]"
   },
   "1142_162019": {
     "code": "GELT20054",
@@ -17313,7 +17337,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳誼如",
-    "time": "F678-BI301[BA]"
+    "time": "F567-BI301[BA]"
   },
   "1142_430039": {
     "code": "BTBT30204",
@@ -25965,7 +25989,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "蘇彬",
-    "time": "T7F34-ED203[GF]"
+    "time": "T2F56-ED101[GF]"
   },
   "1142_535208": {
     "code": "EEIE30042",
@@ -26001,7 +26025,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林聖迪、林國瑞",
-    "time": "F34-ED101[GF],T7-ED202[GF]"
+    "time": "R34-ED116[GF],M7-ED220[GF]"
   },
   "1142_535211": {
     "code": "EEIE30016",
@@ -26109,7 +26133,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "蘇彬",
-    "time": "R78-ED103[GF],T3-ED201[GF]"
+    "time": "R234-EDB06[GF]"
   },
   "1142_535220": {
     "code": "EEIE30015",

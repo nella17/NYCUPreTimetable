@@ -11591,6 +11591,18 @@
     "teacher": "陳俞琪、孫秀卿、邱愛富、楊秋月、鄭浩民、黃淑鶴、穆佩芬、鄒樂起、徐德福",
     "time": "F34-YN416[YM]"
   },
+  "1141_141503": {
+    "code": "NSCN30031",
+    "credit": "4.00",
+    "hours": "8.00",
+    "id": "141503",
+    "memo": "",
+    "name": "特定領域護理實習 Professional field nursing practice",
+    "num_limit": "10",
+    "reg_num": "1",
+    "teacher": "童恒新、孫秀卿、陳俞琪",
+    "time": "W12345678-"
+  },
   "1141_141504": {
     "code": "NSCN30041",
     "credit": "4.00",
@@ -11611,7 +11623,7 @@
     "memo": "碩士級APN、NP實習可免修，請於本所課程委員會申請提案抵免，若提案未通過再選課。 避免系統選課衝突，實習暫定於星期三，但確切實習時間，請與指導教授討論。",
     "name": "進階護理照護實習 Advanced Practicum in Nursing",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "孫秀卿、童恒新",
     "time": "W12345678-"
   },
@@ -25303,7 +25315,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "442",
+    "reg_num": "441",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25735,7 +25747,7 @@
     "memo": "多工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "129",
+    "reg_num": "128",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -25807,7 +25819,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "145",
+    "reg_num": "144",
     "teacher": "數據所",
     "time": ""
   },
@@ -30043,7 +30055,7 @@
     "memo": "資科工所博士班 博士生資格考通過後必修",
     "name": "博士學位論文研究 Ph.D.Thesis Study",
     "num_limit": "110",
-    "reg_num": "90",
+    "reg_num": "89",
     "teacher": "資科工博",
     "time": ""
   },

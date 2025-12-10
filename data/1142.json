@@ -16026,7 +16026,7 @@
     "id": "310111",
     "memo": "",
     "name": "新科技與組織傳播 New Technology and Organizational Communication",
-    "num_limit": "9999",
+    "num_limit": "60",
     "reg_num": "0",
     "teacher": "李美華",
     "time": "M567-A303[GF]"
@@ -18127,7 +18127,7 @@
     "memo": "限外文系，計中電腦教室4",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "待聘",
     "time": "F34-CS-PC4[GF]"
   },
@@ -18139,7 +18139,7 @@
     "memo": "A組,限外文系",
     "name": "實用翻譯A組 Practical Translation A",
     "num_limit": "27",
-    "reg_num": "0",
+    "reg_num": "24",
     "teacher": "吳煒聲",
     "time": "R56-HC402[GF]"
   },
@@ -18151,7 +18151,7 @@
     "memo": "B組,限外文系",
     "name": "實用翻譯B組 Practical Translation B",
     "num_limit": "27",
-    "reg_num": "0",
+    "reg_num": "22",
     "teacher": "劉啟明",
     "time": "R56-HB207[GF]"
   },
@@ -18163,7 +18163,7 @@
     "memo": "建議大一修習，其他年級依照自己需求彈性修課，共掛核心課程。",
     "name": "西洋文學概論(二) Introduction to Western Literature (2)",
     "num_limit": "65",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "李家沂",
     "time": "T234-HB210[GF]"
   },
@@ -18175,7 +18175,7 @@
     "memo": "限外文系、語言學與人工智能學分學程",
     "name": "大一英文(二)  Freshman English (2)",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "劉辰生",
     "time": "W234-HB210[GF]"
   },
@@ -18187,7 +18187,7 @@
     "memo": "A組,限外文系",
     "name": "英文作文(二) A組 English Composition (2) A",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "廖秀真",
     "time": "M34-HC401[GF]"
   },
@@ -18199,7 +18199,7 @@
     "memo": "B組,限外文系",
     "name": "英文作文(二) B組 English Composition (2) B",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "邱剛彥",
     "time": "M34-HC402[GF]"
   },
@@ -18211,7 +18211,7 @@
     "memo": "[English Medium Course]C組,限外文系",
     "name": "英文作文(二) C組 English Composition (2) C",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "萬宗綸",
     "time": "M34-HC404[GF]"
   },
@@ -18259,7 +18259,7 @@
     "memo": "[English Medium Course],限外文系,建議大二修習，其他年級依照自己需求彈性修課。",
     "name": "英國文學(二) English Literature (2)",
     "num_limit": "65",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "胡心瑜",
     "time": "T567-HB207[GF]"
   },
@@ -18271,7 +18271,7 @@
     "memo": "A組,限外文系",
     "name": "高級寫作(二) A組 Advanced Writing (2) A",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "劉啟明",
     "time": "W234-HB203[GF]"
   },
@@ -18283,7 +18283,7 @@
     "memo": "B組,限外文系",
     "name": "高級寫作(二) B組 Advanced Writing (2) B",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "潘荷仙",
     "time": "W234-HB207[GF]"
   },
@@ -18295,7 +18295,7 @@
     "memo": "C組,限外文系",
     "name": "高級寫作(二) C組 Advanced Writing (2) C",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "15",
     "teacher": "李家沂",
     "time": "W234-HB206[GF]"
   },
@@ -18403,7 +18403,7 @@
     "memo": "A組,限外文系",
     "name": "傳達技巧工作坊(二) ：演說技巧A組 Communicative Skills Workshop(2): Public Speaking and Presentation Skills A",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "楊雅筑",
     "time": "T567-HC401[GF]"
   },
@@ -18415,7 +18415,7 @@
     "memo": "B組,限外文系",
     "name": "傳達技巧工作坊(二) ：演說技巧B組 Communicative Skills Workshop(2): Public Speaking and Presentation Skills B",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "13",
     "teacher": "林建國",
     "time": "T567-HC402[GF]"
   },
@@ -18427,7 +18427,7 @@
     "memo": "C組,限外文系",
     "name": "傳達技巧工作坊(二) ：演說技巧C組 Communicative Skills Workshop(2): Public Speaking and Presentation Skills C",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "朱品璇",
     "time": "T567-HB206[GF]"
   },
@@ -18484,7 +18484,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "514130",
-    "memo": "D組,限外文系。",
+    "memo": "D組,限外文系。\n請雙主修、輔系、跨域以及二年級以上外文系學生優先選擇此門課程。",
     "name": "英文作文(二) D組 English Composition (2) D",
     "num_limit": "18",
     "reg_num": "0",
@@ -22639,7 +22639,7 @@
     "memo": "非管院同學請於2月9日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限135人，得請授課教師簽准後可放寬至140人；管理基礎學分學程課程。",
     "name": "經濟學(二) Economics (II)",
     "num_limit": "135",
-    "reg_num": "134",
+    "reg_num": "132",
     "teacher": "郭家豪",
     "time": "W234-M101[GF]"
   },
@@ -22651,7 +22651,7 @@
     "memo": "非管院同學請於2月9日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限135人，得請授課教師簽准後可放寬至140人；管理基礎學分學程課程。",
     "name": "經濟學(二) Economics (II)",
     "num_limit": "135",
-    "reg_num": "131",
+    "reg_num": "130",
     "teacher": "黃星華",
     "time": "W234-M-b10[GF]"
   },
@@ -38287,7 +38287,7 @@
     "memo": "含近代物理",
     "name": "物理(二)榮譽班 Physics(II)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "105",
     "teacher": "簡紋濱",
     "time": "M34R78-SA321[GF]"
   },
@@ -38299,7 +38299,7 @@
     "memo": "含近代物理[English Medium Course]",
     "name": "物理(二)榮譽班 Physics(II)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "101",
     "teacher": "郭昌洋",
     "time": "M34R78-SA320[GF]"
   },
@@ -38310,7 +38310,7 @@
     "id": "565002",
     "memo": "含近代物理[English Medium Course]",
     "name": "物理(二)榮譽班 Physics(II)",
-    "num_limit": "75",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "河野公俊",
     "time": "M34R78-SC152[GF]"
@@ -38323,7 +38323,7 @@
     "memo": "[English Medium Course]",
     "name": "物理(二) Physics(II)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "99",
     "teacher": "籔下篤史",
     "time": "M34R78-SC001[GF]"
   },
@@ -38334,7 +38334,7 @@
     "id": "565004",
     "memo": "",
     "name": "物理(二) Physics(II)",
-    "num_limit": "75",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "陳煜璋",
     "time": "M34R78-SC106[GF]"
@@ -38347,7 +38347,7 @@
     "memo": "含近代物理",
     "name": "物理(二)榮譽班 Physics(II)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "79",
     "teacher": "李明知",
     "time": "T78F34-SA321[GF]"
   },
@@ -38359,7 +38359,7 @@
     "memo": "含近代物理[English Medium Course]",
     "name": "物理(二)榮譽班 Physics(II)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "31",
     "teacher": "蕭翌登",
     "time": "T78F34-SA320[GF]"
   },
@@ -38371,7 +38371,7 @@
     "memo": "[English Medium Course]",
     "name": "物理(二) Physics(II)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "83",
     "teacher": "寺西慶哲",
     "time": "T78F34-"
   },
@@ -38383,7 +38383,7 @@
     "memo": "",
     "name": "物理(二) Physics(II)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "85",
     "teacher": "孟心飛",
     "time": "T78F34-SC106[GF]"
   },
@@ -38395,7 +38395,7 @@
     "memo": "資工系優先  遠距課程",
     "name": "物理(二) Physics(II)",
     "num_limit": "180",
-    "reg_num": "0",
+    "reg_num": "176",
     "teacher": "李威儀",
     "time": "T78-SC001[GF]"
   },
@@ -38407,7 +38407,7 @@
     "memo": "含近代物理，電物系優先",
     "name": "物理(二)榮譽班 Physics(II)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "59",
     "teacher": "楊本立",
     "time": "T78R78-SC162[GF]"
   },
@@ -38419,7 +38419,7 @@
     "memo": "生科系優先，此課程為3學分物理",
     "name": "物理(二) Physics(II)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "62",
     "teacher": "鍾介文",
     "time": "T7F34-SC152[GF]"
   },

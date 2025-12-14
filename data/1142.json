@@ -19783,7 +19783,7 @@
     "memo": "[奈米科學組]",
     "name": "生涯規劃與導師時間 Career Planning and Mentor’s Hours",
     "num_limit": "25",
-    "reg_num": "0",
+    "reg_num": "20",
     "teacher": "梁美智、張國恩",
     "time": "W78-EE548[GF]"
   },
@@ -19795,7 +19795,7 @@
     "memo": "[固態電子組]",
     "name": "生涯規劃與導師時間 Career Planning and Mentor’s Hours",
     "num_limit": "45",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "柯明道、梁美智",
     "time": "W78-EE102[GF]"
   },
@@ -19807,7 +19807,7 @@
     "memo": "3年級 [固態電子組必修] 。外系學生請紙本加簽，且需繳交材料費6000元。\n",
     "name": "半導體實驗 Semiconductor Lab.",
     "num_limit": "45",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "李宗恩",
     "time": "M78-EE130[GF],M56-EE207[GF]"
   },
@@ -19818,8 +19818,8 @@
     "id": "515205",
     "memo": "1年級。 [固態組奈米組合班]",
     "name": "線性代數 Linear Algebra",
-    "num_limit": "68",
-    "reg_num": "0",
+    "num_limit": "65",
+    "reg_num": "54",
     "teacher": "梁耕僑",
     "time": "Mn56-A302[GF]"
   },
@@ -19842,8 +19842,8 @@
     "id": "515207",
     "memo": "2年級。[固態組奈米組合班]",
     "name": "電子學(二) ElectronicsⅡ",
-    "num_limit": "65",
-    "reg_num": "0",
+    "num_limit": "70",
+    "reg_num": "64",
     "teacher": "李義明",
     "time": "M78R34-ED219[GF]"
   },
@@ -19854,8 +19854,8 @@
     "id": "515208",
     "memo": "2年級。[固態組奈米組合班]",
     "name": "電磁學(二) Electromagnetism Ⅱ",
-    "num_limit": "65",
-    "reg_num": "0",
+    "num_limit": "70",
+    "reg_num": "65",
     "teacher": "許恒通",
     "time": "M56W34-EE102[GF]"
   },
@@ -19867,7 +19867,7 @@
     "memo": "2年級。上課地點為ED320。[固態電子組必修]",
     "name": "電子實驗(二) Electronics Lab.Ⅱ",
     "num_limit": "46",
-    "reg_num": "0",
+    "reg_num": "46",
     "teacher": "林容瑋",
     "time": "Rabcd-"
   },
@@ -19879,7 +19879,7 @@
     "memo": "2年級。[固態組奈米組合班]",
     "name": "近代物理 Modern Physics",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "60",
     "teacher": "簡昭欣",
     "time": "W2R78-AB102[GF]"
   },
@@ -19891,7 +19891,7 @@
     "memo": "2年級。[奈米科學組必修]",
     "name": "生物化學(一) Biochemistry Ⅰ",
     "num_limit": "30",
-    "reg_num": "0",
+    "reg_num": "19",
     "teacher": "陳誼如",
     "time": "F34-EE548[GF]"
   },
@@ -19914,7 +19914,7 @@
     "id": "515213",
     "memo": "「半導體系學生優先修課」開3/4年級。",
     "name": "矽光子技術導論 Introduction to Silicon Photonics Technology",
-    "num_limit": "35",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "張國恩",
     "time": "F234-EDB06[GF]"
@@ -19927,7 +19927,7 @@
     "memo": "3年級。[固態電子組必修]",
     "name": "固態物理(一) Solid State Physics I",
     "num_limit": "65",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "李宗恩",
     "time": "T234-EE208[GF]"
   },
@@ -19939,7 +19939,7 @@
     "memo": "3年級。[奈米科學組必修]",
     "name": "奈米科學與工程實驗 Nano science and engineering Lab.",
     "num_limit": "40",
-    "reg_num": "0",
+    "reg_num": "22",
     "teacher": "柯富祥、徐雍鎣、蘇冠暐、李孟學",
     "time": "M9ab-EEB42[GF]"
   },
@@ -19987,7 +19987,7 @@
     "memo": "[學期末須發表一頁海報成果。] 1.專題研究方向：【固態電子組】需與「IC製程」、「量子物理」、「元件開發」、「晶片設計」研究領域直接相關；【奈米科學組】需與「奈米電子」、「奈米光電」、「奈米材料」、「奈米生科」研究領域直接相關。2.請務必先修過「學士專題研究(一)」再修習「學士專題研究(二)」依序修課。3.「除選課外，須於3/4(三)前繳交指導專題研究同意書單至系辦才算有學分。」",
     "name": "學士專題研究(二) Special Project (b.s.)Ⅱ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "56",
     "teacher": "半導體系",
     "time": ""
   },
@@ -20022,7 +20022,7 @@
     "id": "515222",
     "memo": "此課程開放給參與寒假一日營及二階的工作人員選課:基礎服務學習(C)  [本課程須經系上同意後，才能由系辦進行加選]",
     "name": "半導體基礎服務學習(C) Semiconductor Foundational Service Learning(C)",
-    "num_limit": "0",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "張國恩",
     "time": "Uy-"

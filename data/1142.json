@@ -3260,7 +3260,7 @@
     "name": "口腔顎面外科學 Oral & Maxillofacial Surgery",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "高壽延、楊政杰、涂曦丰、洪凱風、劉崇基、蔣維凡、吳政憲、羅文良、劉巡宇、成函潔、劉子綸、何翊芸",
+    "teacher": "吳政憲、高壽延、楊政杰、涂曦丰、洪凱風、劉崇基、蔣維凡、羅文良、劉巡宇、成函潔、劉子綸、何翊芸",
     "time": "F234-YD105[YM]"
   },
   "1142_111556": {
@@ -8180,7 +8180,7 @@
     "name": "傳統醫藥學綜論 Comprehansive Introduction of Traditional Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳方佩、洪裕強、盧美光、傅淑玲、黃怡超、蔡東湖、林滿玉、許中華、藍耿立、陳日榮、林東毅、張清貿、龔彥穎、陳裕仁、邱仁輝、林麗純、王致又、簡采汝、徐蔚泓、彭溫雅、林舜穀",
+    "teacher": "陳方佩、洪裕強、盧美光、傅淑玲、黃怡超、蔡東湖、林滿玉、許中華、藍耿立、陳日榮、林東毅、張清貿、龔彥穎、陳裕仁、邱仁輝、林麗純、劉國同、王致又、簡采汝、徐蔚泓、彭溫雅、林舜穀、羅明宇",
     "time": "R56-YR101[YM]"
   },
   "1142_130608": {
@@ -8242,6 +8242,18 @@
     "reg_num": "-999",
     "teacher": "龔彥穎、黃怡超、陳方佩、林東毅、張清貿、陳柏勳、楊仁鄰、彭溫雅、Gregory Zimmerman",
     "time": "M1234n5678T1234n5678W1234n5678-"
+  },
+  "1142_130613": {
+    "code": "MDTM30061",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "130613",
+    "memo": "",
+    "name": "代謝體學研究策略與臨床應用 Research Strategies and Clinical Applications of Metabolomics",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "黃義龍",
+    "time": "W3-YR103[YM]"
   },
   "1142_130700": {
     "code": "MDHW30007",
@@ -8505,7 +8517,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "張榮偉",
-    "time": "F34-YS415[YM]"
+    "time": "T78-YS415[YM]"
   },
   "1142_130813": {
     "code": "MDEO30077",
@@ -10374,7 +10386,7 @@
     "id": "132017",
     "memo": "",
     "name": "醫藥品專利與技轉實務 Pharmaceutical Patents and Technology Transfer Practice",
-    "num_limit": "30",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "吳宗軒、張連成",
     "time": "W56-YR105[YM]"
@@ -10533,7 +10545,7 @@
     "num_limit": "12",
     "reg_num": "-999",
     "teacher": "楊登傑、何其儻",
-    "time": "M9a-YN205[YM]"
+    "time": "T78-YN205[YM]"
   },
   "1142_132113": {
     "code": "PSFS30024",
@@ -10572,16 +10584,28 @@
     "time": "R9a-YN208[YM]"
   },
   "1142_132116": {
-    "code": "PSFS30072",
+    "code": "PSFS30073",
     "credit": "2.00",
     "hours": "2.00",
     "id": "132116",
     "memo": "",
-    "name": "質譜分析應用特論 Special Topics in Mass Spectrometry Applications",
+    "name": "食品分析化學與儀器分析 Food analytical analysis &amp; instrumental analysis",
     "num_limit": "24",
     "reg_num": "-999",
     "teacher": "賴盈宏",
     "time": "R56-YN205[YM]"
+  },
+  "1142_132117": {
+    "code": "PSFS30007",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132117",
+    "memo": "",
+    "name": "實驗室品質管理 The Laboratory Quality Control",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "魏國晋",
+    "time": "R56-YN208[YM]"
   },
   "1142_132200": {
     "code": "BEBL20013",
@@ -12404,7 +12428,7 @@
     "name": "哲學專題討論(二) Seminar in Philosophy II",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "程曉杰",
+    "teacher": "程曉杰、杜培基、洪裕宏",
     "time": "F78-YX321[YM]"
   },
   "1142_133200": {
@@ -14982,10 +15006,10 @@
     "id": "161046",
     "memo": "[English Medium Course]",
     "name": "神經科學與社會 Neuroscience &amp; Society",
-    "num_limit": "35",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "艾力",
-    "time": "F56-YT205[YM]"
+    "time": "R56-YT205[YM]"
   },
   "1142_161047": {
     "code": "GECE00419",
@@ -20860,7 +20884,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "515624",
-    "memo": "",
+    "memo": "1.本系學生須修畢「專題二」。2.外系學生可透過手動加簽，不受此限制。3.選修專題與必修專題之指導老師不需相同。 ※修課同學於於開學第一週內繳交「選修專題」指導老師申請表，本課程由指導教授評分。未繳交者將於第二週由系辦公室進行退選。",
     "name": "選修專題 Elective  Project",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -23296,9 +23320,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517411",
-    "memo": "",
+    "memo": "Students are highly recommended to be familiar at least one programing language (such as Python), or any system / mathematical modeling tool. The capability of creating pilot system models or Proof of Concept (PoC) simulation is crucial for this class.  Engineering background or prior working experience is a plus (not a must).  Contact the professor if you have questions.",
     "name": "系統工程 System Engineering",
-    "num_limit": "9999",
+    "num_limit": "35",
     "reg_num": "-999",
     "teacher": "待聘",
     "time": "Tabc-MB405[GF]"
@@ -23723,18 +23747,6 @@
     "teacher": "安勤之",
     "time": "W56-"
   },
-  "1142_519517": {
-    "code": "XDAP00036",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "519517",
-    "memo": "",
-    "name": "言語的力量 — 一本筆記如何改變世界? The Power of Words: How Lecture Notes Transformed the World",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "程源中",
-    "time": "W567-"
-  },
   "1142_519518": {
     "code": "XDAP00014",
     "credit": "3.00",
@@ -23742,7 +23754,7 @@
     "id": "519518",
     "memo": "",
     "name": "什麼是法律？ — 法理學初探 What Is Law: An Introduction to Legal Theory",
-    "num_limit": "9999",
+    "num_limit": "134",
     "reg_num": "-999",
     "teacher": "程源中",
     "time": "R567-"
@@ -23754,10 +23766,10 @@
     "id": "519519",
     "memo": "",
     "name": "言語的力量 — 一本筆記如何改變世界? The Power of Words: How Lecture Notes Transformed the World",
-    "num_limit": "9999",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "程源中",
-    "time": "F56-"
+    "time": "F34-"
   },
   "1142_520000": {
     "code": "XDEP10013",
@@ -28770,7 +28782,7 @@
     "id": "536222",
     "memo": "大三、大四、研究所合開。",
     "name": "半導體廠營建及廠務運營管理 Semiconductor Factory Construction and Facility Operation Management",
-    "num_limit": "9999",
+    "num_limit": "36",
     "reg_num": "-999",
     "teacher": "林慶彰",
     "time": "R567-EB415[GF]"
@@ -29208,12 +29220,12 @@
     "time": "T234-SC162[GF]"
   },
   "1142_536606": {
-    "code": "SCEP30032",
+    "code": "SCEP30033",
     "credit": "3.00",
     "hours": "3.00",
     "id": "536606",
     "memo": "[English Medium Course]",
-    "name": "統計力學 Statistical Mechanics",
+    "name": "統計力學（一） Statistical Mechanics(I)",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "科契諾",
@@ -30568,7 +30580,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537302",
-    "memo": "北門校區開課第一教室，新竹校區806教室，同步實體視訊。",
+    "memo": "北門校區開課第一教室，新竹校區806教室，同步實體視訊。非本系大學部同學選課須經授課教師同意。",
     "name": "物流品質管理 Total Quality Management on Logistics",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -31048,7 +31060,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537800",
-    "memo": "",
+    "memo": "限大四以上同學選修",
     "name": "新興科技創新智慧財產權管理 Emerging Technology Innovation and Intellectual Property Management",
     "num_limit": "30",
     "reg_num": "-999",
@@ -31326,7 +31338,7 @@
     "id": "537905",
     "memo": "開放台聯大同學選修，開放通識[混合遠距課程]",
     "name": "行政法 Administrative Law",
-    "num_limit": "85",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "賈文宇",
     "time": "W34n-YT305[YM]"
@@ -32284,7 +32296,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "555500",
-    "memo": "",
+    "memo": "資訊組；限陽明交大在職專班學生選修",
     "name": "推薦系統 Introduction to Recommender Systems",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32296,7 +32308,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "555501",
-    "memo": "",
+    "memo": "資訊組；限陽明交大在職專班學生選修",
     "name": "視訊壓縮 Video Compression",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32308,7 +32320,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "555502",
-    "memo": "",
+    "memo": "資訊組；限陽明交大在職專班學生選修",
     "name": "無線網路 Wireless Network",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32320,7 +32332,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "555503",
-    "memo": "",
+    "memo": "光電組；限陽明交大在職專班學生選修",
     "name": "顯示科技概論 Introduction to Display Technologies",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32332,7 +32344,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "555504",
-    "memo": "",
+    "memo": "電控組；限陽明交大在職專班學生選修",
     "name": "功率積體電路設計 Power Management IC Design",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32344,7 +32356,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "555505",
-    "memo": "",
+    "memo": "電控組；限陽明交大在職專班學生選修",
     "name": "影像處理 Image Processing",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32356,7 +32368,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "555506",
-    "memo": "",
+    "memo": "電控組；限陽明交大在職專班學生選修",
     "name": "電動機控制 Motor Control",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32368,7 +32380,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "555507",
-    "memo": "",
+    "memo": "電信組；限陽明交大在職專班學生選修",
     "name": "天線與電波傳播 Antenna and Radio Wave Propagation",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32380,7 +32392,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "555508",
-    "memo": "",
+    "memo": "電信組；限陽明交大在職專班學生選修",
     "name": "數位通訊 Digital Communications",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32392,7 +32404,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "555509",
-    "memo": "",
+    "memo": "學期共3次課程，上課日暫訂為5/16(六)，詳細上課時間請留意專班網頁公告；限電資專班學生選修",
     "name": "專題研討 Seminars",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -32404,11 +32416,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "555510",
-    "memo": "",
+    "memo": "限本專班95級(含)以後同學選修；已有指導教授者才可選修，若尚未繳交過指導教授協議書，最遲開學兩週後交至專班辦公室。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "電資專班",
     "time": ""
   },
   "1142_555600": {
@@ -32926,18 +32938,6 @@
     "reg_num": "-999",
     "teacher": "盧浩鈞",
     "time": "Rabc-M205[GF]"
-  },
-  "1142_557105": {
-    "code": "MGMS30139",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "557105",
-    "memo": "限專班選修。",
-    "name": "企業經營與成本策略管理 Corporate Business and Cost Strategy Management",
-    "num_limit": "20",
-    "reg_num": "-999",
-    "teacher": "陳宗岡、郭國泰、劉福運",
-    "time": "Rabc-M301[GF]"
   },
   "1142_557106": {
     "code": "MGMS30079",
@@ -33904,9 +33904,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561014",
-    "memo": "",
+    "memo": "因授課教師因素，課程暫不開放選課",
     "name": "拉丁美洲區域研究導論 Contemporary Latin American Studies",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "卓浩右",
     "time": "W34-A204[GF]"
@@ -33916,9 +33916,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561015",
-    "memo": "",
+    "memo": "因授課教師因素，課程暫不開放選課",
     "name": "拉丁美洲區域研究導論 Contemporary Latin American Studies",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "卓浩右",
     "time": "W56-A204[GF]"
@@ -34468,7 +34468,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561061",
-    "memo": "",
+    "memo": "實地線上混合教學課程。 陽明校區：線上，請向教師索取線上連結。",
     "name": "書學與書道 Theories and Practice of Calligraphy",
     "num_limit": "50",
     "reg_num": "-999",
@@ -34480,7 +34480,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561062",
-    "memo": "",
+    "memo": "實地線上混合教學課程。 陽明校區：線上，請向教師索取線上連結。",
     "name": "教育學概論 An introduction to pedagogy",
     "num_limit": "50",
     "reg_num": "-999",
@@ -39167,30 +39167,6 @@
     "teacher": "張佳智",
     "time": "T78-EA101[GF]"
   },
-  "1142_571000": {
-    "code": "GESL00011",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "571000",
-    "memo": "",
-    "name": "青銀共學太極拳(2)─專業服務學習 Intergenerational TaiChi Chuan learning course (2) -Professional Service Learning",
-    "num_limit": "20",
-    "reg_num": "-999",
-    "teacher": "陳俊銘",
-    "time": "R9a-YK101[YM]"
-  },
-  "1142_571001": {
-    "code": "GESL10001",
-    "credit": "2.00",
-    "hours": "4.00",
-    "id": "571001",
-    "memo": "上課地點為交大校區科一館SA007",
-    "name": "跟AI做朋友—基礎服務學習 Making Friends with AI-Cornerstone Service-Learning",
-    "num_limit": "30",
-    "reg_num": "-999",
-    "teacher": "陳鏗任",
-    "time": "Sab-"
-  },
   "1142_571002": {
     "code": "GESL00007",
     "credit": "3.00",
@@ -39202,18 +39178,6 @@
     "reg_num": "-999",
     "teacher": "潘美玲、嵇達德",
     "time": "Wabc-"
-  },
-  "1142_571003": {
-    "code": "GESL00012",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "571003",
-    "memo": "上課地點新竹光復校區，教室另行通知。",
-    "name": "烘焙甜點與責任消費─服務學習二 Baking Practice and Responsible Consumption -Basic Service Learning",
-    "num_limit": "30",
-    "reg_num": "-999",
-    "teacher": "巫慧萍",
-    "time": "Mbc-"
   },
   "1142_574000": {
     "code": "GEIT10001",

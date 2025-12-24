@@ -249,7 +249,7 @@
     "num_limit": "70",
     "reg_num": "-999",
     "teacher": "甘致群",
-    "time": ""
+    "time": "R89Fn-ED201[GF]"
   },
   "1142_110017": {
     "code": "MDMD20269",
@@ -1808,7 +1808,7 @@
     "name": "神經解剖學實驗 Neuroanatomy Laboratory",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "傅毓秀、王先逸、郭曉縈、侯珮珊、彭淑婷",
+    "teacher": "傅毓秀、王先逸、郭曉縈、侯珮珊、林坤陽、彭淑婷、劉皓云、蔡國樞",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
   "1142_110147": {
@@ -6657,7 +6657,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "俞震亞、黃雪莉、陳燕彰、可文亞、吳如蕙",
-    "time": "F34-YK208[YM]"
+    "time": "F34-AB102[GF],F34-YK208[YM]"
   },
   "1142_114200": {
     "code": "GECY10004",
@@ -6885,7 +6885,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "王禹超",
-    "time": "T34-SC110[GF],T34-YX406[YM]"
+    "time": "T34-EE129[GF],T34-YX406[YM]"
   },
   "1142_114401": {
     "code": "GEKY10004",
@@ -7054,6 +7054,18 @@
     "reg_num": "-999",
     "teacher": "張原翊",
     "time": "W34-YR105[YM]"
+  },
+  "1142_130012": {
+    "code": "MDPY30042",
+    "credit": "3.00",
+    "hours": "4.00",
+    "id": "130012",
+    "memo": "",
+    "name": "離子通道分子物理學 Molecular Biophysics of Ion Channels",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "陳政育",
+    "time": "T9aR9a-YR104[YM]"
   },
   "1142_130100": {
     "code": "MDPA30035",
@@ -10606,6 +10618,18 @@
     "reg_num": "-999",
     "teacher": "魏國晋",
     "time": "R56-YN208[YM]"
+  },
+  "1142_132118": {
+    "code": "PSFS30067",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132118",
+    "memo": "",
+    "name": "多體學於食品科學之運用 Food Science Investigation Using Multiomics Technologies",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "梁恭豪",
+    "time": "W78-YN205[YM]"
   },
   "1142_132200": {
     "code": "BEBL20013",
@@ -20094,7 +20118,7 @@
     "id": "515222",
     "memo": "此課程開放給參與寒假一日營及二階的工作人員選課:基礎服務學習(C)  [本課程須經系上同意後，才能由系辦進行加選]",
     "name": "半導體基礎服務學習(C) Semiconductor Foundational Service Learning(C)",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "張國恩",
     "time": "Uy-"
@@ -24078,7 +24102,7 @@
     "id": "520025",
     "memo": "",
     "name": "量子力學導論 Introduction to Quantum Mechanics",
-    "num_limit": "9999",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "陳永富",
     "time": "M89a-SC109[GF]"
@@ -28568,7 +28592,7 @@
     "name": "大地工程專題討論（二） Seminar in Geotechnical Engineering (II)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "陳賢榮、待聘",
     "time": "R567-EB227[GF]"
   },
   "1142_536204": {
@@ -28748,7 +28772,7 @@
     "name": "坡地災害防治 Landslide Hazard Remediation",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳賢榮、待聘",
+    "teacher": "陳賢榮、林志平、待聘",
     "time": "F234-EB415[GF]"
   },
   "1142_536220": {
@@ -28796,7 +28820,7 @@
     "name": "土壤動力學 Soil Dynamics",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳賢榮、待聘",
+    "teacher": "陳賢榮、待聘、潘爾年",
     "time": "T234-EB108[GF]"
   },
   "1142_536224": {
@@ -31060,7 +31084,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537800",
-    "memo": "限大四以上同學選修",
+    "memo": "本課程限大四以上，及擇定歸屬核心課程「社會中的科技與自然」領域的同學選修，並請於開學後以紙本方式加選。\n",
     "name": "新興科技創新智慧財產權管理 Emerging Technology Innovation and Intellectual Property Management",
     "num_limit": "30",
     "reg_num": "-999",
@@ -31210,30 +31234,6 @@
     "reg_num": "-999",
     "teacher": "黃仕斌",
     "time": "T567-A701[GF]"
-  },
-  "1142_537813": {
-    "code": "MGMT30112",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "537813",
-    "memo": "限科管所碩博",
-    "name": "數位行銷與市場研究 Digital Marketing and Market Research",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "林亭汝",
-    "time": "Uabc-A701[GF]"
-  },
-  "1142_537814": {
-    "code": "MGMT30008",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "537814",
-    "memo": "不開放隨班附讀",
-    "name": "企業管理 Business Management",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "林亭汝",
-    "time": "Fabc-A701[GF]"
   },
   "1142_537815": {
     "code": "MGMT30033",
@@ -32242,30 +32242,6 @@
     "reg_num": "-999",
     "teacher": "資管所",
     "time": "M567-MB304[GF]"
-  },
-  "1142_547700": {
-    "code": "MGIF30097",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "547700",
-    "memo": "[English Medium Course]財金博士班專業課程；本課程為原博士班論文研討A課程；與博士班論文研討B合併上課；英語授課。",
-    "name": "博士班論文研討 Seminar in finance for doctoral students",
-    "num_limit": "25",
-    "reg_num": "-999",
-    "teacher": "戴天時",
-    "time": "W56-M102[GF]"
-  },
-  "1142_547701": {
-    "code": "MGIF30028",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "547701",
-    "memo": "[English Medium Course]財金博士班專業課程；與博士班論文研討合併上課；英語授課。",
-    "name": "博士班論文研討B Seminar in finance for doctoral students B",
-    "num_limit": "15",
-    "reg_num": "-999",
-    "teacher": "戴天時",
-    "time": "W56-"
   },
   "1142_547800": {
     "code": "MGMT30023",
@@ -33280,7 +33256,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557801",
-    "memo": "限本所專班完成指導教授申請手續才可修課。由李昕潔、林亭汝、黃仕斌、蘇信寧、林士平、陳詩欣、陳姵樺等7位教師授課。",
+    "memo": "限本所專班完成指導教授申請手續才可修課。由李昕潔、黃仕斌、蘇信寧、林士平、陳詩欣、陳姵樺等6位教師授課。",
     "name": "碩士論文研究  MBA Thesis",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -33340,7 +33316,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557806",
-    "memo": "",
+    "memo": "第一次上課在115年2月22日，大學部學生限大四 以上且具有以下三種身份其中之一者選修： 創業創新跨域學程、科技管理跨域、陽明校區所有校系 。大學生不開放線上選課權限請寄信給授課教師schen340@nycu.edu.tw詢問加選。",
     "name": "企業永續治理創新策略規劃 Enterprise Sustainable Governance and Innovation Strategic Deployment",
     "num_limit": "20",
     "reg_num": "-999",
@@ -33952,7 +33928,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561018",
-    "memo": "異地授課課程",
+    "memo": "",
     "name": "戲劇音樂：人性 Drama Music：Human Nature",
     "num_limit": "36",
     "reg_num": "-999",
@@ -34725,7 +34701,7 @@
     "num_limit": "25",
     "reg_num": "-999",
     "teacher": "闕郁軒",
-    "time": "R12-"
+    "time": "R12-A210[GF]"
   },
   "1142_562002": {
     "code": "GELT20033",
@@ -39167,6 +39143,30 @@
     "teacher": "張佳智",
     "time": "T78-EA101[GF]"
   },
+  "1142_571000": {
+    "code": "GESL00011",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "571000",
+    "memo": "",
+    "name": "青銀共學太極拳(2)─專業服務學習 Intergenerational TaiChi Chuan learning course (2) -Professional Service Learning",
+    "num_limit": "30",
+    "reg_num": "-999",
+    "teacher": "陳俊銘",
+    "time": "R9a-YK101[YM]"
+  },
+  "1142_571001": {
+    "code": "GESL10001",
+    "credit": "2.00",
+    "hours": "4.00",
+    "id": "571001",
+    "memo": "上課地點為交大校區科一館SA007",
+    "name": "跟AI做朋友—基礎服務學習 Making Friends with AI-Cornerstone Service-Learning",
+    "num_limit": "30",
+    "reg_num": "-999",
+    "teacher": "陳鏗任",
+    "time": "Sab-"
+  },
   "1142_571002": {
     "code": "GESL00007",
     "credit": "3.00",
@@ -39178,6 +39178,18 @@
     "reg_num": "-999",
     "teacher": "潘美玲、嵇達德",
     "time": "Wabc-"
+  },
+  "1142_571003": {
+    "code": "GESL00012",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "571003",
+    "memo": "上課地點新竹光復校區，教室另行通知。",
+    "name": "烘焙甜點與責任消費─服務學習二 Baking Practice and Responsible Consumption -Basic Service Learning",
+    "num_limit": "30",
+    "reg_num": "-999",
+    "teacher": "巫慧萍",
+    "time": "Mbc-"
   },
   "1142_574000": {
     "code": "GEIT10001",
@@ -39642,7 +39654,7 @@
     "id": "599000",
     "memo": "1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫網路選課加退選處理表，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。4.遠距課程。",
     "name": "學習與閱讀理解策略 Learning How to Learn: Strategies for Reading and Learning",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "陳鏗任",
     "time": "F56-HA315[GF]"

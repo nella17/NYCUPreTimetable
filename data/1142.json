@@ -6547,7 +6547,7 @@
     "memo": "暑假中醫院觀摩學習",
     "name": "中醫醫院觀摩學習(二) Hospital Clinical Observation Program of Chinese Medicine(II)",
     "num_limit": "1",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "林東毅",
     "time": "R9-"
   },
@@ -13736,7 +13736,7 @@
     "name": "生化特論(博) Special Topic on Biochemistry",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "許翺麟",
+    "teacher": "許翺麟、陳美瑜、游麗如、郭津岑、陳威儀、王琬菁、陳鴻震、曾炳輝、姜為中、張崇德",
     "time": ""
   },
   "1142_142700": {
@@ -18163,7 +18163,7 @@
     "memo": "本課程人數上限為20人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "電影配樂賞析 Film Music：Analysis and Aesthetics",
     "num_limit": "20",
-    "reg_num": "20",
+    "reg_num": "21",
     "teacher": "林明學",
     "time": "T34-HC501[GF]"
   },
@@ -21883,7 +21883,7 @@
     "memo": "1.第一~第三階段限材料系、半導體工程學系(奈米科學組)加選 2.開學後才開放外系或外校加選[English Medium Course]",
     "name": "電子材料 Electronic Materials",
     "num_limit": "60",
-    "reg_num": "33",
+    "reg_num": "34",
     "teacher": "林御專",
     "time": "M567-EF205[GF]"
   },
@@ -26323,7 +26323,7 @@
     "memo": "[English Medium Course]",
     "name": "半導體物理及元件(一) Semiconductor Physics and Devices (I)",
     "num_limit": "70",
-    "reg_num": "109",
+    "reg_num": "110",
     "teacher": "吳添立",
     "time": "M234-ED220[GF]"
   },
@@ -26443,7 +26443,7 @@
     "memo": "",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "100",
-    "reg_num": "100",
+    "reg_num": "101",
     "teacher": "周世傑",
     "time": "W78-ED219[GF],F56-EDB27[GF]"
   },
@@ -27967,7 +27967,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "85",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -27979,7 +27979,7 @@
     "memo": "[English Medium Course]",
     "name": "專題研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "72",
     "teacher": "黃昱智",
     "time": ""
   },
@@ -31111,7 +31111,7 @@
     "memo": "本課程限大四以上，及擇定歸屬核心課程「社會中的科技與自然」領域的同學選修，並請於開學後以紙本方式加選。\n",
     "name": "新興科技創新智慧財產權管理 Emerging Technology Innovation and Intellectual Property Management",
     "num_limit": "30",
-    "reg_num": "19",
+    "reg_num": "20",
     "teacher": "陳詩欣、陳永平",
     "time": "M789-A722[GF]"
   },
@@ -32011,7 +32011,7 @@
     "memo": "[English Medium Course]",
     "name": "專題研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "18",
     "teacher": "黃昱智",
     "time": ""
   },
@@ -33127,7 +33127,7 @@
     "memo": "",
     "name": "電子商務 Electronic Commerce",
     "num_limit": "9999",
-    "reg_num": "3",
+    "reg_num": "4",
     "teacher": "蔡銘箴",
     "time": "Mabc-MB304[GF]"
   },
@@ -34434,7 +34434,7 @@
     "id": "561057",
     "memo": "1.本課程期望創造醫療與科技跨領域的對話，選課學生設定為光復校區學生以及陽明校區至光復校區的共學生，各25人。2.第1至第3初選階段，「光復校區學生」以網路選課為主，「陽明校區至光復校區的共學生」至https://forms.gle/BnQZGbia2SNmj17A8登記選課意願。3. 開學加退選階段大四~大二優先選課。",
     "name": "科技與醫療的人文關懷 Humanism in Technology and Medical Cares",
-    "num_limit": "33",
+    "num_limit": "34",
     "reg_num": "34",
     "teacher": "黃育綸、陳俞琪、程千芳、林承霈、林士平、王美鴻",
     "time": "R56-A202[GF]"
@@ -39055,7 +39055,7 @@
     "memo": "限大三、大四。\n",
     "name": "永續企業-建立卓越的營運管理系統 Sustainable Business- Building Excellent Operations Management System",
     "num_limit": "72",
-    "reg_num": "78",
+    "reg_num": "80",
     "teacher": "李榮貴",
     "time": "W56-A202[GF]"
   },

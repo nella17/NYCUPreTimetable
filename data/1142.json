@@ -1712,7 +1712,7 @@
     "name": "急重症影像醫學 Emergency Radiology",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "吳銘庭、王俊傑、王威登、蔡孟原、江佳陵、陳怡君、許碩修",
+    "teacher": "吳銘庭、王俊傑、王威登、蔡孟原、江佳陵、陳怡君、許碩修、張一勤",
     "time": "M9-"
   },
   "1142_110140": {
@@ -5479,7 +5479,7 @@
     "memo": "",
     "name": "醫學倫理 Hospital Management",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "吳文沛、陳潤秋、侯貴圓",
     "time": "T9a-YB458[YM]"
   },
@@ -5623,7 +5623,7 @@
     "memo": "",
     "name": "放射科學與技術特論 Special Topics on Radiologic Technology",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "29",
     "teacher": "許世明、吳駿一",
     "time": "W34-YB458[YM]"
   },
@@ -6043,7 +6043,7 @@
     "memo": "不開放校際選修及隨班附讀。",
     "name": "生理學 Physiology",
     "num_limit": "158",
-    "reg_num": "158",
+    "reg_num": "159",
     "teacher": "吳鈺琳、陳政育、阮琪昌、李怡萱、林惠菁、張原翊、簡千栩、吳莉玲、唐德成",
     "time": "W12R34-YX406[YM]"
   },
@@ -6412,7 +6412,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113807",
-    "memo": "第一階段選課限醫學系選修，第二階段選課限中醫系選修，第三階段全數開放選課。\n醫學人文與倫理領域-醫學倫理類，限醫學系、中醫系，為使課程品質提升設有人數上限。",
+    "memo": "第一階段選課限醫學系選修，第二階段選課限中醫系選修，第三階段全面開放。\n醫學人文與倫理領域-醫學倫理類，限醫學系、中醫系，為使課程品質提升設有人數上限。本課程與『生命倫理與法律』，中醫系學生僅能擇一修習。",
     "name": "ER中的倫理與法律 Law and Ethics in ER",
     "num_limit": "36",
     "reg_num": "36",
@@ -6424,7 +6424,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113808",
-    "memo": "第一階段選課限醫學系選修，第二階段選課限中醫系選修，第三階段全數開放選課。\n醫學人文與倫理領域-醫學倫理類，限醫學系、中醫系，為使課程品質提升設有人數上限。本課程為應考公共衛生師指定修習科目。",
+    "memo": "第一階段選課限醫學系選修，第二階段選課限中醫系選修，第三階段全面開放。\n醫學人文與倫理領域-醫學倫理類，限醫學系、中醫系，為使課程品質提升設有人數上限。本課程與『ER中的倫理與法律』，中醫系學生僅能擇一修習。本課程為應考公共衛生師指定修習科目。",
     "name": "生命倫理與法律 Bioethics and Law",
     "num_limit": "50",
     "reg_num": "50",
@@ -11099,18 +11099,6 @@
     "teacher": "宋文旭",
     "time": "F56-YB603[YM]"
   },
-  "1142_132403": {
-    "code": "BEPT30045",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "132403",
-    "memo": "[English Medium Course]",
-    "name": "肌電訊號原理與應用 Principles and Application of Electromyographic Signals",
-    "num_limit": "30",
-    "reg_num": "7",
-    "teacher": "周立偉",
-    "time": "T567-YB419[YM]"
-  },
   "1142_132404": {
     "code": "BEPT30034",
     "credit": "3.00",
@@ -11145,7 +11133,7 @@
     "num_limit": "30",
     "reg_num": "2",
     "teacher": "陳喬男、李雪楨",
-    "time": "M78-YB603[YM]"
+    "time": "M9a-YB603[YM]"
   },
   "1142_132407": {
     "code": "BEPT30109",
@@ -11194,18 +11182,6 @@
     "reg_num": "29",
     "teacher": "王子娟、蔡永裕、傅士豪、鄭融、謝妮芸、陳月霞、陳怡同、阮彥鈞、陳德生、王德維、李尚澤、林啟平、李君碩",
     "time": "S34-YB602[YM]"
-  },
-  "1142_132413": {
-    "code": "BEPT30102",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "132413",
-    "memo": "上課地點：輔助科技研究中心會議室",
-    "name": "輔助科技服務於自立生活實務應用(四) Application of Assistive Technology Services on Independent living (IV)",
-    "num_limit": "10",
-    "reg_num": "1",
-    "teacher": "李淑貞",
-    "time": "M34-"
   },
   "1142_132414": {
     "code": "BEPT30085",
@@ -11803,7 +11779,7 @@
     "memo": "開放研究所及大學部學生修讀。修課學生須先修過至少一門認知神經科學相關課程，並於開學後取得授課老師同意。",
     "name": "社會神經科學深論：從同理心到道德 Advanced Social Neuroscience: Empathy and Morality",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "8",
     "teacher": "鄭雅薇",
     "time": "F34-YL824[YM]"
   },
@@ -12308,7 +12284,7 @@
     "name": "進階細胞生物學 Advanced Cell Biology",
     "num_limit": "9999",
     "reg_num": "23",
-    "teacher": "李曉暉、俞震亞、林崇智、李敏嘉、陳嘉霖、陳虹如",
+    "teacher": "李曉暉、俞震亞、陳鴻震、林崇智、李敏嘉、陳嘉霖、陳虹如",
     "time": "R234-YK533[YM]"
   },
   "1142_133008": {
@@ -14348,7 +14324,7 @@
     "name": "高齡持續性照護與長照機構管理 Continuous Care for the older adults and Management of Long-term Care Institutions",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "楊曼華、陳怡如、邱愛富、林承霈、廖咨詠、吳佳東、林麗嬋、吳肖琪、陳瑛瑛、張淑卿、游麗裡",
+    "teacher": "楊曼華、陳怡如、邱愛富、林承霈、廖咨詠、吳佳東、林麗嬋、吳肖琪、陳瑛瑛、張淑卿、游麗裡、周孟賢",
     "time": "T567-YN322[YM]"
   },
   "1142_150203": {
@@ -19699,7 +19675,7 @@
     "memo": "1、限大三、大四選修，電機學院學生優先。2、需修習過電路學、電子學、以及「類比積體電路導論」課程且及格者。",
     "name": "類比積體電路實驗 Analog Integrated Circuits LAB",
     "num_limit": "80",
-    "reg_num": "81",
+    "reg_num": "83",
     "teacher": "柯明道",
     "time": "Rabc-ED220[GF]"
   },
@@ -20488,7 +20464,7 @@
     "credit": "3.00",
     "hours": "5.00",
     "id": "515505",
-    "memo": "[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：1年級，4年級，3年級，2年級 。2.課程時段Fabc 上課教室:EC315、EC316、EC324",
+    "memo": "[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：1年級，4年級，3年級，2年級 。2.課程時段Rabc 上課教室:EC315、EC316、EC324",
     "name": "資料結構與物件導向程式設計 Data Structures and Object-oriented Programming",
     "num_limit": "118",
     "reg_num": "88",
@@ -20560,7 +20536,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515512",
-    "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously] 主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課。1.學士班七大主題學程。2.本系生優先權順序：2年級，4年級，3年級，1年級。",
+    "memo": "[English Medium Course] 主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課。1.學士班七大主題學程。2.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "人工智慧概論 Intro. to Artificial Intelligence",
     "num_limit": "112",
     "reg_num": "112",
@@ -20572,7 +20548,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515513",
-    "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously] 主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課。1.學士班七大主題學程。2. 本系生優先權順序：2年級，4年級，3年級，1年級。",
+    "memo": "[English Medium Course]主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課。1.學士班七大主題學程。2. 本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "人工智慧概論 Intro. to Artificial Intelligence",
     "num_limit": "112",
     "reg_num": "80",
@@ -23841,7 +23817,7 @@
     "num_limit": "100",
     "reg_num": "95",
     "teacher": "陳建至",
-    "time": "M256-SC106[GF]"
+    "time": "Mn56-SC106[GF]"
   },
   "1142_520003": {
     "code": "XDEP10009",
@@ -26515,7 +26491,7 @@
     "memo": "[English Medium Course] Class time：Thursday 9:30-12:30",
     "name": "最佳化理論與應用 Optimization Theory and Applications",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "23",
     "teacher": "馮智豪",
     "time": "R234-ED101[GF]"
   },
@@ -29526,7 +29502,7 @@
     "id": "536715",
     "memo": "[English Medium Course]",
     "name": "Python 與機器學習演算法 Python and Machine Learning Algorithms",
-    "num_limit": "9999",
+    "num_limit": "60",
     "reg_num": "56",
     "teacher": "待聘",
     "time": "M234-SC201[GF]"
@@ -32720,7 +32696,7 @@
     "name": "資訊系統應用 Applied Information System",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "待聘",
+    "teacher": "洪士林",
     "time": "S89a-EB227[GF]"
   },
   "1142_556300": {
@@ -34434,8 +34410,8 @@
     "id": "561057",
     "memo": "1.本課程期望創造醫療與科技跨領域的對話，選課學生設定為光復校區學生以及陽明校區至光復校區的共學生，各25人。2.第1至第3初選階段，「光復校區學生」以網路選課為主，「陽明校區至光復校區的共學生」至https://forms.gle/BnQZGbia2SNmj17A8登記選課意願。3. 開學加退選階段大四~大二優先選課。",
     "name": "科技與醫療的人文關懷 Humanism in Technology and Medical Cares",
-    "num_limit": "34",
-    "reg_num": "34",
+    "num_limit": "35",
+    "reg_num": "35",
     "teacher": "黃育綸、陳俞琪、程千芳、林承霈、林士平、王美鴻",
     "time": "R56-A202[GF]"
   },
@@ -37735,7 +37711,7 @@
     "memo": "第一週上課集合地點為山下網球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "29",
     "teacher": "黃中興",
     "time": "W56-PhE[YM]"
   },
@@ -37747,7 +37723,7 @@
     "memo": "第一週上課集合地點為山下排球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "28",
     "teacher": "藍于青",
     "time": "F56-PhE[YM]"
   },
@@ -39045,7 +39021,7 @@
     "num_limit": "32",
     "reg_num": "36",
     "teacher": "李榮貴",
-    "time": "W34-"
+    "time": "W34-A213[GF]"
   },
   "1142_569001": {
     "code": "GESP00009",

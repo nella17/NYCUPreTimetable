@@ -5094,7 +5094,7 @@
     "id": "112259",
     "memo": "需先修讀過：肌肉骨骼物理治療學(I)、肌肉骨骼物理治療學(II)",
     "name": "進階肌肉骨骼物理治療學 Advanced Musculoskeletal Physical Therapy",
-    "num_limit": "20",
+    "num_limit": "25",
     "reg_num": "20",
     "teacher": "王子娟、蔡永裕、陳子敬、鄭融、謝妮芸、阮彥鈞、楊宛青、范錦蕙",
     "time": "Ubc-"
@@ -5118,7 +5118,7 @@
     "id": "112261",
     "memo": "",
     "name": "女性健康物理治療 Women Health in Physical Therapy",
-    "num_limit": "15",
+    "num_limit": "20",
     "reg_num": "12",
     "teacher": "王子娟、余堅忍、謝妮芸、陳怡同、閻永珍",
     "time": "Sbc-YB601[YM]"
@@ -5540,7 +5540,7 @@
     "name": "書報討論(A) Seminar",
     "num_limit": "9999",
     "reg_num": "15",
-    "teacher": "高瑀絜、陳志成、吳東信、許世明、吳杰、盧家鋒、陳瀅州",
+    "teacher": "高瑀絜、陳志成、楊逢羿、吳東信、許世明、吳杰、盧家鋒",
     "time": "W567-YB118[YM]"
   },
   "1142_112339": {
@@ -6539,18 +6539,6 @@
     "teacher": "張清貿、洪裕強、謝伯駿、黃伯瑜",
     "time": "F789-YK533[YM],F789-YK912[YM]"
   },
-  "1142_113904": {
-    "code": "MDCH10030",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "113904",
-    "memo": "暑假中醫院觀摩學習",
-    "name": "中醫醫院觀摩學習(二) Hospital Clinical Observation Program of Chinese Medicine(II)",
-    "num_limit": "1",
-    "reg_num": "0",
-    "teacher": "林東毅",
-    "time": "R9-"
-  },
   "1142_113905": {
     "code": "MDCH10023",
     "credit": "2.00",
@@ -6572,7 +6560,7 @@
     "name": "中醫藥物學(二) Chinese Materia Medica (II)",
     "num_limit": "40",
     "reg_num": "26",
-    "teacher": "蔡東湖",
+    "teacher": "蔡東湖、許中華、彭溫雅",
     "time": "T234-YR101[YM]"
   },
   "1142_113907": {
@@ -6608,7 +6596,7 @@
     "name": "傷寒學  Treatise on Exogenous Febrile Diseases",
     "num_limit": "40",
     "reg_num": "25",
-    "teacher": "陳柏勳、謝伯駿",
+    "teacher": "陳柏勳、洪裕強、楊仁鄰、林舜穀、謝伯駿、黃伯瑜、陳麒方",
     "time": "F34n-YK916[YM]"
   },
   "1142_113910": {
@@ -6656,7 +6644,7 @@
     "name": "中醫醫院觀摩學習(一) Hospital Clinical Observation Program of Chinese Medicine(1)",
     "num_limit": "30",
     "reg_num": "19",
-    "teacher": "林東毅",
+    "teacher": "林東毅、洪裕強、許中華、張清貿、龔彥穎、陳朝宗、楊仁鄰、廖麗蘭、徐蔚泓、彭溫雅、邱榮鵬、黃伯瑜",
     "time": "F9-"
   },
   "1142_113914": {
@@ -8204,7 +8192,7 @@
     "name": "抗癌天然物作用機轉 Molecular Mechanisms of Anti-cancer Natural Products",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "傅淑玲、黃奇英、林東毅、盧重光、謝忱希",
+    "teacher": "傅淑玲、林東毅、盧重光、黃義龍",
     "time": "M78-YR104[YM]"
   },
   "1142_130604": {
@@ -8827,7 +8815,7 @@
     "memo": "不分系二、生科系二、醫學系B組二、藥學二、物治二合班上課，開放全校選修。本課程為混成遠距課程 (教師實體授課@圖資401、學生跨校區學生可透過軟體同步上課)",
     "name": "量化數據分析 Quantitative data analysis",
     "num_limit": "9999",
-    "reg_num": "75",
+    "reg_num": "76",
     "teacher": "陳卓逸",
     "time": "M34-YL401[YM]"
   },
@@ -10843,8 +10831,8 @@
     "memo": "",
     "name": "生技醫學講座(二) Biotechnology and Biomedical Seminar (II)",
     "num_limit": "9999",
-    "reg_num": "18",
-    "teacher": "洪小雅、黃尉倫、賴明德、鄭維中、陳振輝、王夢蓮、廖秀蓉",
+    "reg_num": "17",
+    "teacher": "洪小雅、黃尉倫、江季霖、賴明德、鄭維中、陳振輝、王夢蓮、廖秀蓉、余奕霖",
     "time": "Tn-YB100[YM]"
   },
   "1142_132214": {
@@ -11179,7 +11167,7 @@
     "memo": "限物治系學生修讀",
     "name": "新興領域物理治療 Emerging Physical Therapy Practice",
     "num_limit": "30",
-    "reg_num": "29",
+    "reg_num": "22",
     "teacher": "王子娟、蔡永裕、傅士豪、鄭融、謝妮芸、陳月霞、陳怡同、阮彥鈞、陳德生、王德維、李尚澤、林啟平、李君碩",
     "time": "S34-YB602[YM]"
   },
@@ -11431,7 +11419,7 @@
     "memo": "[English Medium Course]",
     "name": "腦科學與腦影像 Brain Science and Image",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "13",
     "teacher": "高瑀絜",
     "time": "M78-YT203[YM]"
   },
@@ -11445,7 +11433,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "蘇家豪",
-    "time": "R78-YT203[YM]"
+    "time": "W78-YB134[YM]"
   },
   "1142_132515": {
     "code": "BEIR30064",
@@ -16185,7 +16173,7 @@
     "num_limit": "35",
     "reg_num": "35",
     "teacher": "戴瑜慧",
-    "time": "M567-A309[GF]"
+    "time": "M567-"
   },
   "1142_310114": {
     "code": "HKCT30019",
@@ -16400,7 +16388,7 @@
     "name": "論文(一) Thesis Research(I)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "待聘",
     "time": ""
   },
   "1142_330009": {
@@ -16412,7 +16400,7 @@
     "name": "論文(二) Thesis Research(II)",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "",
+    "teacher": "朱華瑄、莊雅仲",
     "time": ""
   },
   "1142_330100": {
@@ -19675,7 +19663,7 @@
     "memo": "1、限大三、大四選修，電機學院學生優先。2、需修習過電路學、電子學、以及「類比積體電路導論」課程且及格者。",
     "name": "類比積體電路實驗 Analog Integrated Circuits LAB",
     "num_limit": "80",
-    "reg_num": "83",
+    "reg_num": "84",
     "teacher": "柯明道",
     "time": "Rabc-ED220[GF]"
   },
@@ -21095,18 +21083,6 @@
     "teacher": "劉義強",
     "time": "T8W23-EE210[GF]"
   },
-  "1142_516117": {
-    "code": "ENME20008",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "516117",
-    "memo": "[EE527電腦教室] 核心選修課程(感測與控制系統)。 開3/4年級",
-    "name": "微處理機 Microprocessor",
-    "num_limit": "50",
-    "reg_num": "50",
-    "teacher": "鄭雲謙",
-    "time": "M234-EE527[GF]"
-  },
   "1142_516118": {
     "code": "ENME20020",
     "credit": "3.00",
@@ -21115,7 +21091,7 @@
     "memo": "核心選修課程(感測與控制系統)。開3/4年級",
     "name": "自動控制（二） Automatic Control (II)",
     "num_limit": "35",
-    "reg_num": "35",
+    "reg_num": "37",
     "teacher": "李安謙",
     "time": "Wabc-EE132[GF]"
   },
@@ -23346,7 +23322,7 @@
     "id": "517412",
     "memo": "",
     "name": "生成式 AI 系統設計與實務 Design and Practice of Generative AI Systems",
-    "num_limit": "9999",
+    "num_limit": "95",
     "reg_num": "116",
     "teacher": "待聘",
     "time": "Wabc-MB506[GF]"
@@ -26299,7 +26275,7 @@
     "memo": "[English Medium Course]",
     "name": "半導體物理及元件(一) Semiconductor Physics and Devices (I)",
     "num_limit": "70",
-    "reg_num": "110",
+    "reg_num": "111",
     "teacher": "吳添立",
     "time": "M234-ED220[GF]"
   },
@@ -26923,7 +26899,7 @@
     "memo": "",
     "name": "物理光學 Physical Optics",
     "num_limit": "70",
-    "reg_num": "70",
+    "reg_num": "71",
     "teacher": "張祐嘉",
     "time": "R234-CY201[GF]"
   },
@@ -28113,7 +28089,7 @@
     "num_limit": "9999",
     "reg_num": "15",
     "teacher": "待聘",
-    "time": "R567-A309[GF]"
+    "time": "R567-EE116[GF]"
   },
   "1142_535913": {
     "code": "STST30050",
@@ -28269,7 +28245,7 @@
     "num_limit": "40",
     "reg_num": "13",
     "teacher": "曾昭雄",
-    "time": "W789-EE206[GF]"
+    "time": "W567-EE206[GF]"
   },
   "1142_536076": {
     "code": "ENSS30022",
@@ -35668,12 +35644,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "562081",
-    "memo": "第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課",
+    "memo": "上課地點:A310 ;第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課",
     "name": "日文(三) Japanese(III)",
     "num_limit": "35",
     "reg_num": "25",
     "teacher": "永冨菜穗美",
-    "time": "T34-A310[GF]"
+    "time": "T34-"
   },
   "1142_562082": {
     "code": "GELT20014",
@@ -36214,18 +36190,6 @@
     "reg_num": "9",
     "teacher": "馮燕妮",
     "time": "F78-A214[GF]"
-  },
-  "1142_562128": {
-    "code": "GELT00020",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "562128",
-    "memo": "[語言與溝通-英文][English Medium Course]此為114年寒假課程，上課時間為1/6-2/10，每週一與每週二上午9:00-12:00，敬請留意上課時間。寒假課程搭配初選第二階段進行選課，寒假課程收費標準請參見課務組公告。",
-    "name": "學術英文聽力與討論 Academic English Listening and Discussion",
-    "num_limit": "30",
-    "reg_num": "30",
-    "teacher": "闕郁軒",
-    "time": "MyzTyz-"
   },
   "1142_563000": {
     "code": "GEPE00001",

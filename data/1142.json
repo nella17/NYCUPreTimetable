@@ -2236,7 +2236,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "110183",
-    "memo": "1.陽明校區於圖資404教室；光復校區於工程五館112教室上課。",
+    "memo": "1.陽明校區於圖資404教室；光復校區EE129教室上課。",
     "name": "數位醫學專題研究 Introduction to Machine Learning for Digital Healthcare",
     "num_limit": "32",
     "reg_num": "6",
@@ -16796,7 +16796,7 @@
     "name": "書報討論:E組 Seminar",
     "num_limit": "13",
     "reg_num": "12",
-    "teacher": "趙瑞益",
+    "teacher": "何信瑩",
     "time": "F34-BI308[BA]"
   },
   "1142_410021": {
@@ -17577,7 +17577,7 @@
     "num_limit": "9999",
     "reg_num": "50",
     "teacher": "王維菁",
-    "time": "W234-A427[GF]"
+    "time": "W234-A306[GF]"
   },
   "1142_430111": {
     "code": "BTBT30107",
@@ -21272,7 +21272,7 @@
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
     "reg_num": "99",
-    "teacher": "土木系",
+    "teacher": "石棟鑫",
     "time": "W78-EB117[GF]"
   },
   "1142_516202": {
@@ -23755,7 +23755,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "工程數學 Engineering Mathematics",
     "num_limit": "100",
-    "reg_num": "73",
+    "reg_num": "72",
     "teacher": "許譽馨",
     "time": "W234-SC106[GF]"
   },
@@ -23767,7 +23767,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "電磁學(一) Electromagnetics (1)",
     "num_limit": "100",
-    "reg_num": "87",
+    "reg_num": "86",
     "teacher": "鄭信良",
     "time": "T56-SA320[GF],T9-SC106[GF]"
   },
@@ -23779,7 +23779,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "電子學(二) Electronics (2)",
     "num_limit": "100",
-    "reg_num": "95",
+    "reg_num": "94",
     "teacher": "陳建至",
     "time": "Mn56-SC106[GF]"
   },
@@ -23791,7 +23791,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "電腦程式與計算分析(二) Computer Programming and Computational Analysis (2)",
     "num_limit": "100",
-    "reg_num": "91",
+    "reg_num": "90",
     "teacher": "杜岳錡",
     "time": "Rn56-SA321[GF]"
   },
@@ -23803,7 +23803,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。\n教室：SA012",
     "name": "電子學實驗(二) Electronic Laboratory (2)",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "陳建至",
     "time": "Tabc-"
   },
@@ -23891,18 +23891,6 @@
     "teacher": "陳建至",
     "time": "F678-SC160[GF]"
   },
-  "1142_520012": {
-    "code": "XDEP20023",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "520012",
-    "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
-    "name": "邏輯設計與FPGA Logic Design and Field Programmable Gate Array",
-    "num_limit": "70",
-    "reg_num": "4",
-    "teacher": "林尚亭",
-    "time": "R567-SC109[GF]"
-  },
   "1142_520013": {
     "code": "XDEP20001",
     "credit": "3.00",
@@ -23936,7 +23924,7 @@
     "name": "半導體製程 Semiconductor Processing",
     "num_limit": "70",
     "reg_num": "7",
-    "teacher": "待聘",
+    "teacher": "謝承利、杜岳錡",
     "time": "M123-SC109[GF]"
   },
   "1142_520016": {
@@ -23984,7 +23972,7 @@
     "name": "電子學(二) Electronics (2)",
     "num_limit": "100",
     "reg_num": "60",
-    "teacher": "林壽煦",
+    "teacher": "林尚亭、林壽煦",
     "time": "T234-KB402"
   },
   "1142_520020": {
@@ -26383,7 +26371,7 @@
     "memo": "",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "100",
-    "reg_num": "101",
+    "reg_num": "105",
     "teacher": "周世傑",
     "time": "W78-ED219[GF],F56-EDB27[GF]"
   },
@@ -36847,7 +36835,7 @@
     "memo": "1.第一週上課在交大校區田徑場集合。修習交大校區開設之高爾夫球課程同學，需自行前往上課地點、自備球桿及自付練習場費用。 (上課地點：高仕高爾夫竹科練習場-新竹市東區湖濱三路1號，電話：03-5678928)\n2.第一階段開放選課系級：\n電機2\n光電2\n材料2\n應化2\n管科2\n運管2\n工工2\n資財2\n人社2\n傳科2\n理院2",
     "name": "體育－高爾夫球甲 Golf",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "陳忠強",
     "time": "F34-PE[GF]"
   },
@@ -37183,7 +37171,7 @@
     "memo": "",
     "name": "體育－籃球乙 Basketball",
     "num_limit": "40",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "鄭智仁",
     "time": "M78-PE[GF]"
   },

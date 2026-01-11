@@ -27391,7 +27391,7 @@
     "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously] 資訊學院優先(不開放在職專班網路選課)。",
     "name": "嵌入式即時系統 Real-time and embedded systems",
     "num_limit": "45",
-    "reg_num": "45",
+    "reg_num": "47",
     "teacher": "張立平",
     "time": "T56-ED102[GF]"
   },
@@ -33690,7 +33690,7 @@
     "id": "559007",
     "memo": "上課地點 : 台北北門校區四樓B401-1教室。",
     "name": "AI在企業管理之應用 AI Applications in Business Management",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "23",
     "teacher": "蔡祈岩、林春成",
     "time": "U89abcd-"

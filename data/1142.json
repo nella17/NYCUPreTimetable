@@ -3115,7 +3115,7 @@
     "memo": "",
     "name": "齒顎矯正學實驗 Orthodontics Lab.",
     "num_limit": "50",
-    "reg_num": "42",
+    "reg_num": "43",
     "teacher": "吳姿瑩、游依璇、梁祐銘",
     "time": "T567-YD214[YM]"
   },
@@ -6200,7 +6200,7 @@
     "name": "病理學 Pathology",
     "num_limit": "145",
     "reg_num": "141",
-    "teacher": "杭仁釩、李芬瑤、許志怡、王蕾琪、林士堯、楊靜芬、張富邦、劉雯玲",
+    "teacher": "杭仁釩、李芬瑤、許志怡、王蕾琪、林士堯、楊靜芬、張富邦、張心怡、劉雯玲",
     "time": "T5678-YT002[YM]"
   },
   "1142_113401": {
@@ -6237,7 +6237,7 @@
     "num_limit": "150",
     "reg_num": "137",
     "teacher": "郭炤裕",
-    "time": "T34-CS100[GF],T34-R106[BA],T34-YT003[YM]"
+    "time": "T34-YT003[YM]"
   },
   "1142_113501": {
     "code": "MDMD10051",
@@ -6393,7 +6393,7 @@
     "num_limit": "24",
     "reg_num": "24",
     "teacher": "林彥鋒",
-    "time": "T56-EE112[GF],T56-EE129[GF]"
+    "time": "T56-EE129[GF]"
   },
   "1142_113806": {
     "code": "MDMD10125",
@@ -12680,7 +12680,7 @@
     "name": "進階長期照顧管理實務實習 Advanced Long-Term Care Management Practicum",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "陳怡如、范佩貞、周承珍、李玉春",
+    "teacher": "陳怡如",
     "time": "U1234-YN108[YM]"
   },
   "1142_133502": {
@@ -12716,7 +12716,7 @@
     "name": "長照科技系統分析與實務設計 Long-term Care Systems Analysis and Design",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "吳佳東、陳彥君、黃龍冠、蘇信昌",
+    "teacher": "吳佳東",
     "time": "F56-YN108[YM]"
   },
   "1142_133505": {
@@ -23275,7 +23275,7 @@
     "memo": "",
     "name": "設施規劃 Facility Planning",
     "num_limit": "70",
-    "reg_num": "70",
+    "reg_num": "72",
     "teacher": "陳文智",
     "time": "R567-MB506[GF]"
   },
@@ -31878,7 +31878,7 @@
     "id": "545461",
     "memo": "",
     "name": "人工智慧醫學影像輔助診斷與應用 AI-assisted Diagnosis and Applications in Medical Imaging",
-    "num_limit": "9999",
+    "num_limit": "25",
     "reg_num": "25",
     "teacher": "李佳燕",
     "time": "F234-EE117[GF]"
@@ -44332,7 +44332,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910324",
-    "memo": "動力組兵器班，上課地點：國防大學理工學院",
+    "memo": "調整上課時間為W678。動力組兵器班，上課地點：國防大學理工學院",
     "name": "彈道學及實驗(2) Ballistics and Experiments(2)",
     "num_limit": "9999",
     "reg_num": "0",

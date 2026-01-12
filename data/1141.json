@@ -775,7 +775,7 @@
     "memo": "限醫學系學生修課",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "150",
-    "reg_num": "113",
+    "reg_num": "112",
     "teacher": "潘美連",
     "time": "M34-YK208[YM]"
   },
@@ -5719,7 +5719,7 @@
     "memo": "",
     "name": "流行病學原理 Principles of Epidemiology ",
     "num_limit": "65",
-    "reg_num": "52",
+    "reg_num": "51",
     "teacher": "楊振昌、潘文驥",
     "time": "R78-YT202[YM]"
   },
@@ -9271,7 +9271,7 @@
     "memo": "",
     "name": "動作系統症候群之物理治療處置：上半身區域的臨床應用 Physical Therapy Management of Movement System Syndromes: Application to the Upper Quarter",
     "num_limit": "30",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "王子娟、李士茹",
     "time": "Syz-YB601[YM]"
   },
@@ -25315,7 +25315,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "435",
+    "reg_num": "434",
     "teacher": "資科工所",
     "time": ""
   },
@@ -34246,6 +34246,18 @@
     "reg_num": "16",
     "teacher": "馮燕妮",
     "time": "F78-A209[GF]"
+  },
+  "1141_562999": {
+    "code": "GELT00020",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "562999",
+    "memo": "[語言與溝通-英文][English Medium Course]此為114年寒假課程，上課時間為1/6-2/10，每週一與每週二上午9:00-12:00，敬請留意上課時間。寒假課程搭配初選第二階段進行選課，寒假課程收費標準請參見課務組公告。",
+    "name": "學術英文聽力與討論 Academic English Listening and Discussion",
+    "num_limit": "30",
+    "reg_num": "30",
+    "teacher": "闕郁軒",
+    "time": "M234T234-"
   },
   "1141_563000": {
     "code": "GEPE00001",

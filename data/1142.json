@@ -2241,7 +2241,7 @@
     "num_limit": "32",
     "reg_num": "6",
     "teacher": "陳麗芬、曾意儒、嚴錦城",
-    "time": "M78-EE112[GF],M78-YL404[YM]"
+    "time": "M78-EE129[GF],M78-YL404[YM]"
   },
   "1142_110184": {
     "code": "MDMD00003",
@@ -2456,7 +2456,7 @@
     "name": "泌尿學 Urology",
     "num_limit": "9999",
     "reg_num": "141",
-    "teacher": "林子平、黃奕燊、黃志賢、林登龍、陳光國、張心湜、邱文祥、范玉華、林志杰、賴姿妤、許自翔、黃子豪、顧明軒、蔡承翰、黃逸修、鍾孝仁",
+    "teacher": "林子平、黃志賢、黃奕燊、林登龍、陳光國、張心湜、邱文祥、范玉華、林志杰、賴姿妤、許自翔、黃子豪、顧明軒、蔡承翰、黃逸修、鍾孝仁",
     "time": "M12345678T1234W123456R1234F12345678-YT002[YM]"
   },
   "1142_110202": {
@@ -3464,7 +3464,7 @@
     "name": "綜合臨床護理學實習(二) Comprehensive Nursing Practice(2)",
     "num_limit": "9999",
     "reg_num": "42",
-    "teacher": "李亭亭、黃淑鶴、賴鼎璁、王卿凌、陳美君、施玉珊、游佩玲、鄭菁慧",
+    "teacher": "李亭亭、黃升苗、黃淑鶴、賴鼎璁、王卿凌、陳美君、施玉珊、游佩玲、鄭菁慧",
     "time": "M12345678T12345678W12345678-"
   },
   "1142_111811": {
@@ -6232,7 +6232,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113500",
-    "memo": "限醫學系二年級(含)以上。醫學系醫師工程師組請至書田館106教室上課。本課程為應考公共衛生師指定修習科目。",
+    "memo": "限醫學系二年級(含)以上。醫學系醫師工程師組改為遠距上課，會議連結於課前一週通告。本課程為應考公共衛生師指定修習科目。",
     "name": "生物統計學 Biostatistics",
     "num_limit": "150",
     "reg_num": "137",
@@ -6404,7 +6404,7 @@
     "name": "醫院中的醫學倫理與人文 Medical Ethics and Humanity in Hospital",
     "num_limit": "46",
     "reg_num": "46",
-    "teacher": "黃志賢、楊令瑀、雷文玫、賴其萬、蔡甫昌、陳秀丹",
+    "teacher": "黃志賢、雷文玫、蔡甫昌、陳秀丹",
     "time": "F12-CS100[GF],F12-R106[BA],F12-YM225[YM]"
   },
   "1142_113807": {
@@ -10412,7 +10412,7 @@
     "name": "生物製劑與再生醫療 Biological and Regenerative Medicine",
     "num_limit": "45",
     "reg_num": "31",
-    "teacher": "江季霖、呂春敏、黃雪莉、胡德民、姜紹青、陶秘華、顏厥全、陳惠芳、蒲若芳、張連成、李佳欣",
+    "teacher": "江季霖、呂春敏、胡德民、姜紹青、黃尉倫、陶秘華、顏厥全、陳惠芳、蒲若芳、張連成、李佳欣",
     "time": "R34-YR105[YM]"
   },
   "1142_132015": {
@@ -12472,7 +12472,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "133107",
-    "memo": "1.[English Medium Course]\n2.僅在陽明校區實體授課。\n3.限未修過此門課程學生修讀。",
+    "memo": "1.[English Medium Course]\n2.限未修過此門課程學生修讀。",
     "name": "哲學專題討論(二) Seminar in Philosophy II",
     "num_limit": "9999",
     "reg_num": "2",
@@ -13220,7 +13220,7 @@
     "name": "環境衛生特論 Advanced Environmental Health",
     "num_limit": "10",
     "reg_num": "4",
-    "teacher": "潘文驥、陳美蓮、黃鈺芳、李宥萱、王正雄",
+    "teacher": "潘文驥、陳美蓮、黃鈺芳、李宥萱、王正雄、吳威德",
     "time": "T12-YS105[YM]"
   },
   "1142_140700": {
@@ -21079,7 +21079,7 @@
     "memo": "核心選修課程(感測與控制系統)。開3/4年級",
     "name": "自動控制（二） Automatic Control (II)",
     "num_limit": "35",
-    "reg_num": "39",
+    "reg_num": "40",
     "teacher": "李安謙",
     "time": "Wabc-EE132[GF]"
   },
@@ -23755,7 +23755,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "工程數學 Engineering Mathematics",
     "num_limit": "100",
-    "reg_num": "72",
+    "reg_num": "71",
     "teacher": "許譽馨",
     "time": "W234-SC106[GF]"
   },
@@ -23767,7 +23767,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "電磁學(一) Electromagnetics (1)",
     "num_limit": "100",
-    "reg_num": "86",
+    "reg_num": "85",
     "teacher": "鄭信良",
     "time": "T56-SA320[GF],T9-SC106[GF]"
   },
@@ -23779,7 +23779,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "電子學(二) Electronics (2)",
     "num_limit": "100",
-    "reg_num": "94",
+    "reg_num": "93",
     "teacher": "陳建至",
     "time": "Mn56-SC106[GF]"
   },
@@ -23791,7 +23791,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "電腦程式與計算分析(二) Computer Programming and Computational Analysis (2)",
     "num_limit": "100",
-    "reg_num": "90",
+    "reg_num": "89",
     "teacher": "杜岳錡",
     "time": "Rn56-SA321[GF]"
   },
@@ -23803,7 +23803,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。\n教室：SA012",
     "name": "電子學實驗(二) Electronic Laboratory (2)",
     "num_limit": "50",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "陳建至",
     "time": "Tabc-"
   },
@@ -23815,7 +23815,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。\n教室：SA012",
     "name": "電子學實驗(二) Electronic Laboratory (2)",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "陳建至",
     "time": "Rabc-"
   },
@@ -23827,7 +23827,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放加選。",
     "name": "專題討論 Seminar",
     "num_limit": "148",
-    "reg_num": "81",
+    "reg_num": "80",
     "teacher": "張財銘",
     "time": "Tn-SA321[GF]"
   },
@@ -23887,7 +23887,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "電路學 Circuit Theory",
     "num_limit": "70",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "陳建至",
     "time": "F678-SC160[GF]"
   },
@@ -25220,7 +25220,7 @@
     "name": "建築設計 Architectural Design Optional Studio",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "曾怡茹",
     "time": "M678R678-HA104[GF]"
   },
   "1142_534706": {
@@ -25232,7 +25232,7 @@
     "name": "建築設計 Architectural Design Optional Studio",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "戴嘉惠、林欣蘋",
     "time": "M678R678-HA102[GF]"
   },
   "1142_534707": {
@@ -25378,18 +25378,6 @@
     "reg_num": "0",
     "teacher": "侯君昊",
     "time": "R4U3-HA104[GF]"
-  },
-  "1142_534725": {
-    "code": "HSAR30005",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "534725",
-    "memo": "",
-    "name": "台灣建築史 History of Taiwanese Architecture",
-    "num_limit": "9999",
-    "reg_num": "1",
-    "teacher": "傅朝卿",
-    "time": "T678-HA105[GF]"
   },
   "1142_534726": {
     "code": "HSAR30079",
@@ -25881,7 +25869,7 @@
     "num_limit": "35",
     "reg_num": "21",
     "teacher": "王蒞君",
-    "time": "Rabc-"
+    "time": "Wabc-"
   },
   "1142_535101": {
     "code": "EEEE30002",
@@ -27391,7 +27379,7 @@
     "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously] 資訊學院優先(不開放在職專班網路選課)。",
     "name": "嵌入式即時系統 Real-time and embedded systems",
     "num_limit": "45",
-    "reg_num": "47",
+    "reg_num": "49",
     "teacher": "張立平",
     "time": "T56-ED102[GF]"
   },
@@ -27510,7 +27498,7 @@
     "id": "535603",
     "memo": "資訊學院優先(不開放在職專班網路選課)。1.博士班資格考考核科目。2.資安所必選修課程。3.請依各所入學年度之修業要點選課。",
     "name": "網路程式設計 Network Programming",
-    "num_limit": "100",
+    "num_limit": "130",
     "reg_num": "100",
     "teacher": "吳毅成",
     "time": "Rabc-EC114[GF]"
@@ -31483,7 +31471,7 @@
     "memo": "開放大三以上同學選修",
     "name": "法與心理學 Law and Psychology",
     "num_limit": "20",
-    "reg_num": "21",
+    "reg_num": "22",
     "teacher": "金孟華",
     "time": "T34-MB1069[GF]"
   },
@@ -36547,7 +36535,7 @@
     "memo": "第一階段開放選課系級：\n百川2\n半導體2\n機械2\n土木2\n資工2\n電物2\n應數2\n外文2\n生科2\n醫學系(醫師工程師組)2",
     "name": "體育－籃球甲 Basketball",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "陳忠強",
     "time": "T78-PE[GF]"
   },
@@ -39583,7 +39571,7 @@
     "memo": "1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫網路選課加退選處理表，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。4.遠距課程。",
     "name": "學習與閱讀理解策略 Learning How to Learn: Strategies for Reading and Learning",
     "num_limit": "30",
-    "reg_num": "24",
+    "reg_num": "26",
     "teacher": "陳鏗任",
     "time": "F56-HA315[GF]"
   },

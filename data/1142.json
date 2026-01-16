@@ -1713,7 +1713,7 @@
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "吳銘庭、王俊傑、王威登、蔡孟原、江佳陵、陳怡君、許碩修、張一勤",
-    "time": "M9-"
+    "time": "T9-"
   },
   "1142_110140": {
     "code": "MDMD20059",
@@ -2864,7 +2864,7 @@
     "name": "牙科麻醉學 Dental Anesthesiology",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "雷文天、丁乾坤、張哲壽、吳政憲、羅文良、鄒樂起、蕭應良、袁懷璧、張文貴",
+    "teacher": "雷文天、丁乾坤、洪凱風、張哲壽、吳政憲、羅文良、鄒樂起、蕭應良、袁懷璧、張文貴",
     "time": "W1-YD320[YM]"
   },
   "1142_111520": {
@@ -3008,7 +3008,7 @@
     "name": "全口贋復學實驗 Complete Denture Prosthodontics Lab",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "張景智、耿藝文、謝旻杰、林慧觀、楊博雅、許文瑛、黃籌永、吳曉霖、許明倫",
+    "teacher": "林元敏、耿藝文、謝旻杰、林慧觀、楊博雅、許文瑛、黃籌永、吳曉霖、張景智、許明倫",
     "time": "M345678-YD210[YM]"
   },
   "1142_111532": {
@@ -16758,7 +16758,7 @@
     "id": "410016",
     "memo": "",
     "name": "書報討論:A組 Seminar",
-    "num_limit": "13",
+    "num_limit": "0",
     "reg_num": "3",
     "teacher": "蘭宜錚",
     "time": "F34-BI301[BA]"
@@ -21018,7 +21018,7 @@
     "id": "516111",
     "memo": "2B",
     "name": "電工學 Electrical Engineering",
-    "num_limit": "60",
+    "num_limit": "110",
     "reg_num": "60",
     "teacher": "曾昭雄",
     "time": "M56R8-EE106[GF]"
@@ -22867,7 +22867,7 @@
     "memo": "非管院同學請於2月9日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限65人，得請授課教師簽准後可放寬至70人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(2/9提供)；管理基礎學分學程課程。",
     "name": "作業研究(二) Operations Research (II)",
     "num_limit": "65",
-    "reg_num": "67",
+    "reg_num": "66",
     "teacher": "洪暉智",
     "time": "T234-MB520[GF]"
   },
@@ -26095,7 +26095,7 @@
     "memo": "限電子所核可者",
     "name": "書報討論 Graduate Research",
     "num_limit": "0",
-    "reg_num": "1",
+    "reg_num": "2",
     "teacher": "電子所",
     "time": ""
   },
@@ -26107,7 +26107,7 @@
     "memo": "",
     "name": "材料分析 Material Analysis",
     "num_limit": "30",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "譚至善",
     "time": "R678-ED202[GF]"
   },
@@ -26131,7 +26131,7 @@
     "memo": "",
     "name": "半導體物理及元件(二) Semiconductor Physics and Devices (II)",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "蘇彬",
     "time": "T2F56-ED101[GF]"
   },
@@ -26179,7 +26179,7 @@
     "memo": "",
     "name": "固態物理 Solid State Physics",
     "num_limit": "9999",
-    "reg_num": "93",
+    "reg_num": "92",
     "teacher": "林聖迪",
     "time": "T34R5-ED220[GF]"
   },
@@ -26215,7 +26215,7 @@
     "memo": "",
     "name": "量子力學 Quantum Mechanics",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "林炯源",
     "time": "M34R3-ED202[GF]"
   },
@@ -26323,7 +26323,7 @@
     "memo": "",
     "name": "記憶體積體電路 Memory Circuit Design",
     "num_limit": "9999",
-    "reg_num": "149",
+    "reg_num": "148",
     "teacher": "謝易叡",
     "time": "M567-ED101[GF]"
   },
@@ -26395,7 +26395,7 @@
     "memo": "[English Medium Course]",
     "name": "計算機結構 Computer Architecture",
     "num_limit": "100",
-    "reg_num": "46",
+    "reg_num": "47",
     "teacher": "賴伯承",
     "time": "R34n-EDB27[GF]"
   },
@@ -30115,7 +30115,7 @@
     "memo": "開放全校大三大四選修。",
     "name": "創業管理:新創事業開發 Entrepreneurship: New Venture Creation",
     "num_limit": "40",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "黃瓊誼",
     "time": "W34n-M301[GF]"
   },
@@ -36188,7 +36188,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "40",
-    "teacher": "待聘",
+    "teacher": "戴偉國",
     "time": "M34-PE[GF]"
   },
   "1142_563003": {
@@ -36392,7 +36392,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "48",
-    "teacher": "待聘",
+    "teacher": "戴偉國",
     "time": "M12-PE[GF]"
   },
   "1142_563020": {
@@ -42016,7 +42016,7 @@
     "credit": ".00",
     "hours": "1.00",
     "id": "910131",
-    "memo": "電機組B班，上課地點：國防大學理工學院",
+    "memo": "調整上課時間為R1。電機組B班，上課地點：國防大學理工學院",
     "name": "服務學習 (1) Service Learning (I)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42736,7 +42736,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910191",
-    "memo": "電機組B班，上課地點：國防大學理工學院",
+    "memo": "調整上課時間為M8W8R2。電機組B班，上課地點：國防大學理工學院",
     "name": "電路學(1) Fundamental of Electric Circuits (1)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42760,7 +42760,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910193",
-    "memo": "電機組B班，上課地點：國防大學理工學院。",
+    "memo": "調整上課時間為T678。電機組B班，上課地點：國防大學理工學院。",
     "name": "數位邏輯設計 Digital logic design",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42796,7 +42796,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910196",
-    "memo": "電機組A+B班，上課地點：國防大學理工學院",
+    "memo": "電機組，上課地點：國防大學理工學院",
     "name": "電子學(2) Electronics Circuits (2)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42808,7 +42808,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910197",
-    "memo": "電機組A+B班，上課地點：國防大學理工學院，授課教師：周裕達老師",
+    "memo": "電機組，上課地點：國防大學理工學院，授課教師：周裕達老師",
     "name": "電磁學 Electromagnetics",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42820,7 +42820,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910198",
-    "memo": "電機組A班，上課地點：國防大學理工學院",
+    "memo": "電機組電機班，上課地點：國防大學理工學院",
     "name": "電子實驗(2) Experiments of Electrical Engineering(2)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42832,7 +42832,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910199",
-    "memo": "電機組B班，上課地點：國防大學理工學院",
+    "memo": "調整授課教師為：系統工程。電機組電子班，上課地點：國防大學理工學院，授課教師：曾思喬老師",
     "name": "電子實驗(2) Experiments of Electrical Engineering(2)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42916,7 +42916,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910206",
-    "memo": "電機組，上課地點：國防大學理工學院",
+    "memo": "(停開)",
     "name": "Matlab 程式設計 Matlab Programming",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42964,7 +42964,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910210",
-    "memo": "電機組電子班，此課程由余俊宏老師授課X週，上課地點於本校光復校區；其餘週數由聶若鹽老師授課，上課地點於國防大學理工學院",
+    "memo": "電機組電子班，此課程由余俊宏老師授課2週，上課地點於本校光復校區；其餘週數由聶若鹽老師授課，上課地點於國防大學理工學院",
     "name": "通訊系統實驗 Communication system experiment",
     "num_limit": "9999",
     "reg_num": "0",
@@ -43108,7 +43108,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910222",
-    "memo": "電機組，上課地點：國防大學理工學院，授課教師：黃炳森老師",
+    "memo": "(停開)",
     "name": "數位影像處理 Digital Image Processing",
     "num_limit": "9999",
     "reg_num": "0",
@@ -43144,7 +43144,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910225",
-    "memo": "電機組，上課地點：國防大學理工學院，授課教師：陳俊豪老師",
+    "memo": "調整上課時間為F126。電機組，上課地點：國防大學理工學院，授課教師：陳俊豪老師",
     "name": "電力電子電路設計與應用 Design and Application of Power Electronic Circuit",
     "num_limit": "9999",
     "reg_num": "0",

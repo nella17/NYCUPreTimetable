@@ -3847,7 +3847,7 @@
     "memo": "",
     "name": "大四導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "黃琤、孫光蕙、洪小雅",
     "time": "W34-YT205[YM]"
   },
@@ -5634,7 +5634,7 @@
     "id": "112346",
     "memo": "[English Medium Course]",
     "name": "MATLAB進階程式設計與專題實作 MATLAB Advanced Programming Design",
-    "num_limit": "9999",
+    "num_limit": "25",
     "reg_num": "22",
     "teacher": "盧家鋒",
     "time": "R78-YL402[YM]"
@@ -5754,7 +5754,7 @@
     "id": "112359",
     "memo": "",
     "name": "醫學影像原理與實務 Principles and Practices of Medical Imaging",
-    "num_limit": "9999",
+    "num_limit": "45",
     "reg_num": "41",
     "teacher": "盧家鋒",
     "time": "T89-YB458[YM]"
@@ -10795,7 +10795,7 @@
     "memo": "",
     "name": "醫學檢驗及生技醫藥相關法規 Regulations on Medical Laboratories and Biotechnology Industry",
     "num_limit": "9999",
-    "reg_num": "54",
+    "reg_num": "53",
     "teacher": "洪小雅、王世仁、林景堉、李子偉、李湘琳",
     "time": "F78-YB102[YM]"
   },
@@ -14860,7 +14860,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161027",
-    "memo": "",
+    "memo": "開學後人工加簽，開放3-5位「優先開放第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
     "name": "臺灣政治概論 Introduction to Taiwan Politics",
     "num_limit": "30",
     "reg_num": "30",
@@ -14896,7 +14896,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161030",
-    "memo": "",
+    "memo": "(1)2/24第一周停課乙次。(2)開學後人工加簽，開放3-5位「優先開放第二週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
     "name": "法官說法-大學生必備的法學常識 What Every College Student Has to Know: Legal Common Knowledge-The Judges&#039; Version",
     "num_limit": "25",
     "reg_num": "23",
@@ -14944,7 +14944,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161034",
-    "memo": "1.跨校區教學且兩校區均有教室；陽明校區:YX201；光復校區: A103。2. 開學後人工加簽，開放6位「優先開放第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
+    "memo": "1.跨校區教學且兩校區均有教室；陽明校區:YX201；光復校區: A103。2. 開學後人工加簽，開放3-5位「優先開放第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
     "name": "智慧財產權導論 Introduction to intellectual property right",
     "num_limit": "30",
     "reg_num": "30",
@@ -22703,6 +22703,18 @@
     "teacher": "鄭彥如",
     "time": "S234-"
   },
+  "1142_516823": {
+    "code": "SCAC20001",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "516823",
+    "memo": "",
+    "name": "分析化學(三) Analytical Chemistry (III)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "R234-SB202[GF]"
+  },
   "1142_517000": {
     "code": "MGCM10014",
     "credit": "3.00",
@@ -26383,7 +26395,7 @@
     "memo": "[English Medium Course]",
     "name": "計算機結構 Computer Architecture",
     "num_limit": "100",
-    "reg_num": "47",
+    "reg_num": "48",
     "teacher": "賴伯承",
     "time": "R34n-EDB27[GF]"
   },
@@ -29495,6 +29507,18 @@
     "teacher": "蘇承芳",
     "time": "M8T34-SA211[GF]"
   },
+  "1142_536720": {
+    "code": "SCMA30088",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536720",
+    "memo": "",
+    "name": "圖論專題 Topics in Graph Theory",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林武雄",
+    "time": "T234-SA212[GF]"
+  },
   "1142_536750": {
     "code": "SCMA30011",
     "credit": "3.00",
@@ -29854,6 +29878,18 @@
     "reg_num": "12",
     "teacher": "陳志榮",
     "time": "W567-A304[GF]"
+  },
+  "1142_536907": {
+    "code": "SCIS30092",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536907",
+    "memo": "",
+    "name": "製造數據科學 Manufacturing Data Science",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "R234-A304[GF]"
   },
   "1142_536950": {
     "code": "SCIP30026",

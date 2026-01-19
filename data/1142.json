@@ -3847,7 +3847,7 @@
     "memo": "",
     "name": "大四導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "黃琤、孫光蕙、洪小雅",
     "time": "W34-YT205[YM]"
   },
@@ -10795,7 +10795,7 @@
     "memo": "",
     "name": "醫學檢驗及生技醫藥相關法規 Regulations on Medical Laboratories and Biotechnology Industry",
     "num_limit": "9999",
-    "reg_num": "53",
+    "reg_num": "52",
     "teacher": "洪小雅、王世仁、林景堉、李子偉、李湘琳",
     "time": "F78-YB102[YM]"
   },
@@ -17587,7 +17587,7 @@
     "memo": "",
     "name": "統計應用方法 Applied Methods in Statistics",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "王維菁",
     "time": "W234-A306[GF]"
   },
@@ -27187,7 +27187,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)。1.博士班資格考考核科目。2.資安所必選修課程。3.AI碩士學程為必修。4.前瞻所113學年入學乙組專業選修。[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
     "name": "機器學習 Machine Learning ",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "邱維辰、洪瑞鴻",
     "time": "R34-EC114[GF]"
   },
@@ -27295,7 +27295,7 @@
     "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]資訊學院優先(不開放在職專班網路選課)。",
     "name": "記憶體與儲存系統 Memory and Storage Systems",
     "num_limit": "220",
-    "reg_num": "218",
+    "reg_num": "217",
     "teacher": "吳俊峯",
     "time": "M56-EC015[GF]"
   },
@@ -27583,7 +27583,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)。1.資安所必選修課程。",
     "name": "密碼工程 Cryptography Engineering",
     "num_limit": "145",
-    "reg_num": "139",
+    "reg_num": "138",
     "teacher": "謝致仁",
     "time": "Rabc-ED117[GF]"
   },
@@ -27643,7 +27643,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)。",
     "name": "電腦動畫與特效 Computer Animation and Special Effects",
     "num_limit": "9999",
-    "reg_num": "103",
+    "reg_num": "102",
     "teacher": "林文杰",
     "time": "M34n-EC114[GF]"
   },
@@ -34567,7 +34567,7 @@
     "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀2.選課系統預設(舊制通識)核心社會,欲採計核心自然請至人學中心書面申請。",
     "name": "普通心理學 General Psychology",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "羅仕宇",
     "time": "F34-HB110[GF]"
   },

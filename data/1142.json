@@ -5456,7 +5456,7 @@
     "name": "放射診斷學 Radiodiagnosis",
     "num_limit": "9999",
     "reg_num": "38",
-    "teacher": "邱宏仁、吳銘庭、凌憬峯、林重榮、賴炳宏、沈書慧、黃振義、邱乃祈、柳建安、吳慶蘭、黃宣恩、林德銘、劉顯慈",
+    "teacher": "邱宏仁、吳銘庭、凌憬峯、林重榮、賴炳宏、沈書慧、邱乃祈、柳建安、吳慶蘭、黃宣恩、林德銘、劉顯慈、李誌謙",
     "time": "M56-YT204[YM]"
   },
   "1142_112333": {
@@ -13412,7 +13412,7 @@
     "name": "護理與醫療照護策略 Strategy for Nursing and Health Care",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "陳怡如、黃子庭、鄧宗業、黃淑鶴、尹祚芊、楊銘欽",
+    "teacher": "陳怡如、黃子庭、鄭夙芬、鄧宗業、黃淑鶴、尹祚芊、楊銘欽",
     "time": "F34-YN302[YM]"
   },
   "1142_141402": {
@@ -13639,7 +13639,7 @@
     "memo": "[English Medium Course]",
     "name": "神經科學專題討論(博) Seminar",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "林貝容、連正章、蔡惠珍、林士傑、何淑君、陳摘文",
     "time": "R78-YL837[YM]"
   },
@@ -13831,7 +13831,7 @@
     "memo": "[English Medium Course]\nTA會事先寫信通知學生實際上課時間與地點。",
     "name": "跨領域神經科學講座 Interdisciplinary Neuroscience lecture",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "周坤賢、林慶波、連正章、林士傑、何淑君、陳摘文、林貝容",
     "time": "S34-"
   },
@@ -13843,7 +13843,7 @@
     "memo": "",
     "name": "實驗室輪習 Laboratory Rotation",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "郭紘志",
     "time": ""
   },
@@ -13855,7 +13855,7 @@
     "memo": "[English Medium Course]上課時間：每周一 13:30-15:30；上課地點：中研院跨領域大樓B100會議室",
     "name": "神經科學的論文寫作及表達 Neuroscience thesis writing and presentation",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "簡正鼎、何淑君",
     "time": "M56-"
   },
@@ -13868,7 +13868,7 @@
     "name": "神經發育與疾病 Neural Development and disease",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "姚季光",
+    "teacher": "姚季光、何淑君",
     "time": "W567-"
   },
   "1142_143100": {
@@ -14071,7 +14071,7 @@
     "memo": "前八週上2小時",
     "name": "醫療器材管理法規與實務 Medical Devices Regulation and Practice",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "杜培文、蔡世琳、劉守宣、王淑慧、彭秀慧、邱筱盈、陳治豪",
     "time": "F34-YN208[YM]"
   },
@@ -19660,7 +19660,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515149",
-    "memo": "",
+    "memo": "網路授課",
     "name": "電子設計自動化演算法與實作 Electronic Design Automation Algorithms and Implementation",
     "num_limit": "60",
     "reg_num": "45",
@@ -20632,11 +20632,11 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515604",
-    "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課。1.學士班七大主題學程。2.本系生優先權順序：2年級，4年級，3年級，1年級。",
+    "memo": "[English Medium Course]主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課。1.學士班七大主題學程。2.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "密碼學概論 Introduction to Cryptography",
     "num_limit": "100",
     "reg_num": "100",
-    "teacher": "易志偉",
+    "teacher": "待聘",
     "time": "M34-EC016[GF]"
   },
   "1142_515605": {
@@ -25855,7 +25855,7 @@
     "memo": "",
     "name": "前瞻類比積體電路設計 Advance Analog Integrated Circuit",
     "num_limit": "66",
-    "reg_num": "66",
+    "reg_num": "65",
     "teacher": "洪浩喬",
     "time": "R678-EE220[GF]"
   },
@@ -25867,7 +25867,7 @@
     "memo": "[English Medium Course]",
     "name": "奈米結構半導體的理論與模擬 Theory and Modeling of   Semiconductor Nanostructures",
     "num_limit": "60",
-    "reg_num": "24",
+    "reg_num": "25",
     "teacher": "渡邊浩志",
     "time": "W789-ED303[GF]"
   },
@@ -26167,7 +26167,7 @@
     "memo": "",
     "name": "三維積體電路 3D Integrated Circuits",
     "num_limit": "115",
-    "reg_num": "115",
+    "reg_num": "117",
     "teacher": "陳冠能",
     "time": "F34n-EDB26[GF]"
   },
@@ -26287,7 +26287,7 @@
     "memo": "",
     "name": "記憶體積體電路 Memory Circuit Design",
     "num_limit": "9999",
-    "reg_num": "148",
+    "reg_num": "147",
     "teacher": "謝易叡",
     "time": "M567-ED101[GF]"
   },
@@ -26323,7 +26323,7 @@
     "memo": "[English Medium Course]上課時間及教室：W56–ED415, Wcd–LAB",
     "name": "積體電路設計實驗 Integrated Circuit Design Laboratory",
     "num_limit": "90",
-    "reg_num": "87",
+    "reg_num": "86",
     "teacher": "李鎮宜",
     "time": "W56cd-"
   },
@@ -26335,7 +26335,7 @@
     "memo": "",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "100",
-    "reg_num": "105",
+    "reg_num": "106",
     "teacher": "周世傑",
     "time": "W78-ED219[GF],F56-EDB27[GF]"
   },
@@ -26347,7 +26347,7 @@
     "memo": "",
     "name": "計算機結構 Computer Architecture",
     "num_limit": "100",
-    "reg_num": "98",
+    "reg_num": "97",
     "teacher": "劉志尉",
     "time": "F234-ED219[GF]"
   },
@@ -26395,7 +26395,7 @@
     "memo": "",
     "name": "數位訊號處理 Digital Signal Processing",
     "num_limit": "130",
-    "reg_num": "112",
+    "reg_num": "111",
     "teacher": "桑梓賢、鄭耿璽",
     "time": "T8R34-EDB26[GF]"
   },
@@ -26431,7 +26431,7 @@
     "memo": "[English Medium Course]",
     "name": "記憶體電路及系統設計  Memory Circuits and System",
     "num_limit": "9999",
-    "reg_num": "120",
+    "reg_num": "119",
     "teacher": "黃柏蒼",
     "time": "T234-EDB01[GF]"
   },
@@ -27199,7 +27199,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)。",
     "name": "VLSI設計與實作 VLSI Design and Implementation",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "51",
     "teacher": "許騰尹",
     "time": "F567-EC114[GF]"
   },
@@ -27670,6 +27670,18 @@
     "reg_num": "25",
     "teacher": "陳永昱",
     "time": "Mz12-EC022[GF]"
+  },
+  "1142_535703": {
+    "code": "CSDS30009",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "535703",
+    "memo": "[English Medium Course]",
+    "name": "資料探勘 Data Mining",
+    "num_limit": "100",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "R567-EC022[GF]"
   },
   "1142_535760": {
     "code": "CSIC30019",
@@ -31016,7 +31028,7 @@
     "name": "高科技公司個案研究 Case studies in high tech companies",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "王燈山、陳建榮、鄭仲傑",
+    "teacher": "王燈山、陳建榮、林雲逸、鄭仲傑",
     "time": "Rabc-M115[GF]"
   },
   "1142_537800": {
@@ -35601,7 +35613,7 @@
     "num_limit": "35",
     "reg_num": "25",
     "teacher": "永冨菜穗美",
-    "time": "T34-"
+    "time": "T34-A202[GF]"
   },
   "1142_562082": {
     "code": "GELT20014",
@@ -35661,7 +35673,7 @@
     "num_limit": "35",
     "reg_num": "29",
     "teacher": "馮秋玉",
-    "time": "R56-A307[GF]"
+    "time": "R56-A216[GF]"
   },
   "1142_562087": {
     "code": "GELT20017",
@@ -35684,8 +35696,8 @@
     "name": "日文(五) Japanese(V)",
     "num_limit": "35",
     "reg_num": "8",
-    "teacher": "岡部康子",
-    "time": "T56-A202[GF]"
+    "teacher": "賴郁芳",
+    "time": "R34-A202[GF]"
   },
   "1142_562089": {
     "code": "GELT20016",
@@ -35708,8 +35720,8 @@
     "name": "日文(六) Japanese(Ⅵ)",
     "num_limit": "35",
     "reg_num": "19",
-    "teacher": "岡部康子",
-    "time": "T34-A202[GF]"
+    "teacher": "賴郁芳",
+    "time": "R56-A307[GF]"
   },
   "1142_562091": {
     "code": "GELT20001",
@@ -36379,7 +36391,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "戴偉國",
     "time": "M12-PE[GF]"
   },
@@ -38731,7 +38743,7 @@
     "memo": "",
     "name": "化學(二) Chemistry (II)",
     "num_limit": "55",
-    "reg_num": "54",
+    "reg_num": "53",
     "teacher": "黃立心",
     "time": "T56F2-SC105[GF]"
   },
@@ -38815,7 +38827,7 @@
     "memo": "",
     "name": "化學實驗(二)  Chemistry Labs. (II)",
     "num_limit": "55",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "朱晏頤",
     "time": "R234-SB119[GF]"
   },
@@ -38971,7 +38983,7 @@
     "memo": "大學部1-4年級",
     "name": "企業ESG經營實務 Corporate ESG Management Practices",
     "num_limit": "50",
-    "reg_num": "63",
+    "reg_num": "64",
     "teacher": "徐肇聰",
     "time": "R9ab-A304[GF]"
   },

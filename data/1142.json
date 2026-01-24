@@ -2576,7 +2576,7 @@
     "name": "整合醫學暨中醫學現代進展 Recent Advances in Integrative Medicine and Chinese Medicine",
     "num_limit": "9999",
     "reg_num": "37",
-    "teacher": "龔彥穎、郭文華、張清貿、楊仁鄰、鄭惇方、張凱惟、曾元卜、吳大鵬、陳昭憲",
+    "teacher": "龔彥穎、郭文華、楊仁鄰、鄭惇方、曾元卜、吳大鵬、陳昭憲、許家豪",
     "time": "W78-YX216[YM]"
   },
   "1142_110212": {
@@ -2996,7 +2996,7 @@
     "name": "全口贋復學 Complete Denture Prosthodontics",
     "num_limit": "9999",
     "reg_num": "41",
-    "teacher": "張志麟、姚光大、謝旻杰、許明倫",
+    "teacher": "張景智、張志麟、姚光大、謝旻杰、許明倫",
     "time": "M12-YD105[YM]"
   },
   "1142_111531": {
@@ -9980,7 +9980,7 @@
     "name": "進階社區護理學實習(二) Advanced Community Nursing Practice (II)",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "周承珍、黃子庭、許樹珍、劉影梅、簡莉盈、林承霈",
+    "teacher": "周承珍、黃子庭、劉影梅、簡莉盈、林承霈",
     "time": "W1234n56789-"
   },
   "1142_131802": {
@@ -10004,7 +10004,7 @@
     "name": "社區健康創新實踐與評值實習 Practice in Community Innovative Health and Evaluation",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "周承珍、黃子庭、許樹珍、劉影梅、簡莉盈、林承霈",
+    "teacher": "周承珍、黃子庭、劉影梅、簡莉盈、林承霈",
     "time": "W1234n56789-"
   },
   "1142_131804": {
@@ -23839,7 +23839,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "光電子學 Optoelectronics",
     "num_limit": "70",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "梁興弛",
     "time": "R567-SC110[GF]"
   },
@@ -23863,7 +23863,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "資料探勘與深度學習 Data Mining and Deep Learning",
     "num_limit": "70",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "杜岳錡",
     "time": "W567-SC162[GF]"
   },
@@ -23899,7 +23899,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程與電子物理系學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "電磁學(二) Electromagnetics (2)",
     "num_limit": "150",
-    "reg_num": "92",
+    "reg_num": "91",
     "teacher": "陳衛國",
     "time": "M567-SC001[GF]"
   },
@@ -26287,7 +26287,7 @@
     "memo": "",
     "name": "記憶體積體電路 Memory Circuit Design",
     "num_limit": "9999",
-    "reg_num": "147",
+    "reg_num": "146",
     "teacher": "謝易叡",
     "time": "M567-ED101[GF]"
   },
@@ -27676,7 +27676,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535703",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&amp;1年級；博士班資格考考核科目；數據科學與工程研究所二選一",
     "name": "資料探勘 Data Mining",
     "num_limit": "100",
     "reg_num": "0",
@@ -28795,7 +28795,7 @@
     "memo": "[English Medium Course]1.限材料系、奈米所、前瞻所加選 2.外系限開學後加退選以書面加選",
     "name": "相變化 Phase Transformations",
     "num_limit": "9999",
-    "reg_num": "52",
+    "reg_num": "51",
     "teacher": "鄭薇詩",
     "time": "T34W3-EF201[GF]"
   },
@@ -28915,7 +28915,7 @@
     "memo": "[English Medium Course]第一至第三階段限材料系、奈米所、半導體工程學系(奈米科學組)、前瞻所加選，開學後加退選開放外系或外校加選",
     "name": "複合物半導體元件與製程 Intro. to Compound Semiconductor Device & Process",
     "num_limit": "60",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "張翼",
     "time": "M67R8-EF207[GF]"
   },
@@ -31591,7 +31591,7 @@
     "memo": "論文研討課程應加總通過2學期，但論文研討不計入應修學分數24學分。",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "73",
+    "reg_num": "72",
     "teacher": "賴朝松、李耀仁、梁耕僑、曹逸凡",
     "time": "T56-SA321[GF]"
   },
@@ -31759,7 +31759,7 @@
     "memo": "",
     "name": "書報討論A Special Topic Seminar A",
     "num_limit": "9999",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "李佳燕",
     "time": "Mz1-EE112[GF]"
   },
@@ -31795,7 +31795,7 @@
     "memo": "",
     "name": "書報討論D Special Topic Seminar D",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "18",
     "teacher": "羅畯義",
     "time": "Mz1-EE118[GF]"
   },
@@ -34171,7 +34171,7 @@
     "memo": "「經濟學概論」不接受管理學院同學修讀。",
     "name": "經濟學概論 Introduction to Economics",
     "num_limit": "80",
-    "reg_num": "80",
+    "reg_num": "79",
     "teacher": "梁婉麗",
     "time": "M234-M-b10[GF]"
   },
@@ -34867,7 +34867,7 @@
     "memo": "",
     "name": "小說英文 English Readers",
     "num_limit": "25",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "吳宇晴",
     "time": "R34-A504[GF]"
   },
@@ -37279,7 +37279,7 @@
     "memo": "體育館B1韻律教室",
     "name": "體育－養生太極乙 Tai Chi",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "徐采彤",
     "time": "T34-PE[GF]"
   },
@@ -40426,18 +40426,6 @@
     "reg_num": "9",
     "teacher": "潘瑞文",
     "time": "Wabc-"
-  },
-  "1142_650004": {
-    "code": "PTDP30002",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "650004",
-    "memo": "限在職專班學生選修",
-    "name": "光電元件物理 Physics of Optoelectronic Devices",
-    "num_limit": "9999",
-    "reg_num": "8",
-    "teacher": "楊斯博、蘇海清",
-    "time": "Rabc-CM217[GR]"
   },
   "1142_910000": {
     "code": "SESE10264",

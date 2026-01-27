@@ -3080,7 +3080,7 @@
     "name": "牙科臨床病理討論 Dental Clinical Pathological Conference",
     "num_limit": "50",
     "reg_num": "42",
-    "teacher": "洪凱風、涂曦丰、葉聖威、賴玉玲、劉正芬、白勝方、楊淑芬、李亞芸、何怡青、黃正峰、陳正毅、徐永儀、于恩浩、林怡君、董愛康、吳姿瑩、吳詩韻、王敏靜、黃惠華、洪振元、游依璇、蔡佳倫、陳大中、許明倫",
+    "teacher": "洪凱風、涂曦丰、葉聖威、賴玉玲、劉正芬、白勝方、楊淑芬、李亞芸、何怡青、黃正峰、陳正毅、徐永儀、于恩浩、林怡君、董愛康、吳姿瑩、吳詩韻、王敏靜、黃惠華、洪振元、游依璇、蔡佳倫、陳大中、陳雅琪、顏瑞瑩、許明倫",
     "time": "R34-YD214[YM]"
   },
   "1142_111538": {
@@ -5012,7 +5012,7 @@
     "name": "競技物理治療 Sports Physical Therapy",
     "num_limit": "45",
     "reg_num": "11",
-    "teacher": "黃崇舜、簡若恩、廖翊宏、趙遠宏、阮彥鈞、林威廷、方思睿、王中威、彭維辰、陳俐君、陳曉謙",
+    "teacher": "黃崇舜、簡若恩、廖翊宏、趙遠宏、阮彥鈞、林威廷、方思睿、王中威、彭維辰、陳俐君、盧清佑、陳曉謙",
     "time": "M34-YB624[YM]"
   },
   "1142_112254": {
@@ -5108,7 +5108,7 @@
     "name": "女性健康物理治療 Women Health in Physical Therapy",
     "num_limit": "20",
     "reg_num": "12",
-    "teacher": "王子娟、余堅忍、謝妮芸、陳怡同、閻永珍",
+    "teacher": "王子娟、余堅忍、謝妮芸、陳怡同、蔡亞倫、閻永珍",
     "time": "Sbc-YB601[YM]"
   },
   "1142_112262": {
@@ -6644,7 +6644,7 @@
     "name": "中醫醫院觀摩學習(一) Hospital Clinical Observation Program of Chinese Medicine(1)",
     "num_limit": "30",
     "reg_num": "19",
-    "teacher": "林東毅、洪裕強、許中華、張清貿、龔彥穎、陳朝宗、楊仁鄰、廖麗蘭、徐蔚泓、彭溫雅、邱榮鵬、黃伯瑜",
+    "teacher": "林東毅、洪裕強、許中華、張清貿、龔彥穎、陳朝宗、吳建隆、楊仁鄰、廖麗蘭、徐蔚泓、彭溫雅、邱榮鵬、蔡文興、黃伯瑜、陳建宏",
     "time": "F9-"
   },
   "1142_113914": {
@@ -6904,7 +6904,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "114312",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "普通物理學 General Physics",
     "num_limit": "9999",
     "reg_num": "36",
@@ -7903,7 +7903,7 @@
     "memo": "僅供醫、牙學系重修生修習。",
     "name": "神經解剖學實驗 Neuroanatomy Laboratory",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "21",
     "teacher": "傅毓秀、彭淑婷、劉皓云、蔡國樞",
     "time": "W78-YEC109-1[Y"
   },
@@ -13735,7 +13735,7 @@
     "memo": "本學程一般生，通過資格考後學生必選課程。",
     "name": "論文研究 Progress Report",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "2",
     "teacher": "孫維欣",
     "time": ""
   },
@@ -14913,7 +14913,7 @@
     "num_limit": "30",
     "reg_num": "30",
     "teacher": "王世仁",
-    "time": "R12-A103[GF],R12-YX201[YM]"
+    "time": "R12-EE129[GF],R12-YX201[YM]"
   },
   "1142_161035": {
     "code": "GECE00006",
@@ -20083,7 +20083,7 @@
     "memo": "此課程開放給預計參與2026年7~8月暑期營隊工作人員選課，請預先選課且同時選修基礎服務學習(A)(B)2門。",
     "name": "半導體基礎服務學習(B) Semiconductor Foundational Service Learning(B)",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "21",
     "teacher": "張國恩",
     "time": "Sz-"
   },
@@ -21440,7 +21440,7 @@
     "name": "土壤力學實驗 Soil Mechanics Lab.",
     "num_limit": "60",
     "reg_num": "40",
-    "teacher": "翁孟嘉",
+    "teacher": "陳賢榮",
     "time": "TabWa-EB108[GF],Mn-EB117[GF]"
   },
   "1142_516219": {
@@ -21452,7 +21452,7 @@
     "name": "土壤力學實驗 Soil Mechanics Lab.",
     "num_limit": "60",
     "reg_num": "31",
-    "teacher": "翁孟嘉",
+    "teacher": "陳賢榮",
     "time": "WbRab-EB108[GF],Mn-EB117[GF]"
   },
   "1142_516220": {
@@ -24649,15 +24649,15 @@
   },
   "1142_534300": {
     "code": "HSCS30023",
-    "credit": "3.00",
-    "hours": "3.00",
+    "credit": "2.00",
+    "hours": "2.00",
     "id": "534300",
     "memo": "",
     "name": "認知與傳播專題討論 Seminar in Cognition and Communication",
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "羅仕宇",
-    "time": "M34n-HB109[GF]"
+    "time": "M34-HB109[GF]"
   },
   "1142_534301": {
     "code": "HSCS30016",
@@ -26839,7 +26839,7 @@
     "memo": "個別與指導教授約時間地點討論",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "213",
+    "reg_num": "214",
     "teacher": "光電系",
     "time": ""
   },
@@ -27115,7 +27115,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)。1.請依各所入學年度之修業要點選課。2.博士班資格考考核科目。3.前瞻所113學年入學乙組專業核心課程。",
     "name": "演算法 Algorithms",
     "num_limit": "162",
-    "reg_num": "162",
+    "reg_num": "161",
     "teacher": "荊宇泰",
     "time": "M34n-EDB27[GF]"
   },
@@ -30274,6 +30274,54 @@
     "reg_num": "41",
     "teacher": "管科系",
     "time": ""
+  },
+  "1142_537024": {
+    "code": "MGMS30145",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "537024",
+    "memo": "",
+    "name": "財務會計與信用風險論文研討(一) Research Seminar on Financial  Accounting and Credit Risk (I)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳宗岡",
+    "time": "F34n-M302[GF]"
+  },
+  "1142_537025": {
+    "code": "MGMS30146",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "537025",
+    "memo": "",
+    "name": "財務會計與信用風險論文研討(二) Research Seminar on Financial  Accounting and Credit Risk (II)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳宗岡",
+    "time": "F89a-M302[GF]"
+  },
+  "1142_537026": {
+    "code": "MGMS30147",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "537026",
+    "memo": "限管科所",
+    "name": "程式語言導論 Introduction to Programming Languages",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "吳浩庠",
+    "time": "Tn56-M104[GF]"
+  },
+  "1142_537027": {
+    "code": "MGMS30128",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "537027",
+    "memo": "",
+    "name": "高等作業研究 Advanced Operations Research",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "盧浩鈞",
+    "time": "R234-M301[GF]"
   },
   "1142_537150": {
     "code": "MGBA30016",
@@ -34384,7 +34432,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "561060",
-    "memo": "",
+    "memo": "本課程網路選課為主，不開放加簽。",
     "name": "文學經典：台灣文學 Taiwanese Literature",
     "num_limit": "45",
     "reg_num": "27",
@@ -36559,7 +36607,7 @@
     "memo": "1.足球場\n2.第一階段開放選課系級：\n百川2\n半導體2\n機械2\n土木2\n資工2\n電物2\n應數2\n外文2\n生科2\n醫學系(醫師工程師組)2",
     "name": "足球 Soccer",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "余秀菁",
     "time": "T78-PE[GF]"
   },
@@ -36691,7 +36739,7 @@
     "memo": "第一階段開放選課系級：\n百川3\n機械3\n土木3\n資工3\n電物3\n應數3\n外文3\n生科3\n半導體3",
     "name": "體育－棒球甲 Baseball",
     "num_limit": "40",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "黃杉楹",
     "time": "T56-PE[GF]"
   },

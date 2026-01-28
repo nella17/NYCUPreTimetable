@@ -3727,7 +3727,7 @@
     "memo": "",
     "name": "國際藥學研究 International Pharmacy Research Experience",
     "num_limit": "0",
-    "reg_num": "0",
+    "reg_num": "4",
     "teacher": "胡德民、王孟廷、林滿玉、陳日榮、林宥欣、廖曉偉",
     "time": ""
   },
@@ -5431,7 +5431,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "詹明賢、吳東信、陳傳霖",
     "time": "Sc-YB458[YM]"
   },
@@ -5551,7 +5551,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "放射治療技術學實習 Radiation Therapy Technology Practice",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "醫放系、劉晉昇、劉彥德、劉春蘭、劉建助",
     "time": "S56-"
   },
@@ -5563,7 +5563,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "核醫藥物暨放射性同位素治療實習 Radiopharmaceuticals & Radioisotope Therapy Practice",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "醫放系、王昱豐、張智勇、許敦韋、陳怡潔、陳橙葦",
     "time": "S1-"
   },
@@ -5575,7 +5575,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "模具製作暨模擬攝影實習 Mold Room Technique & Simulation Practice",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "醫放系、郭萬祐、劉義華、楊國卿、曾鈴惠、黃子婕、黃姍姒",
     "time": "U2-"
   },
@@ -5587,7 +5587,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "醫學物理學實習(治療計劃) Medical Physics Practice(Therapy Planning)",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "醫放系、蕭安成、李秀文、李家誠、卓原仲、徐佩瑜",
     "time": "U1-"
   },
@@ -5599,7 +5599,7 @@
     "memo": "實習課程於教學醫院實習",
     "name": "醫學物理學實習(劑量學) Medical Physics Practice(Dosimetry)",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "醫放系、季匡華、林志銘、吳瓊芳",
     "time": "S8-"
   },
@@ -5707,7 +5707,7 @@
     "memo": "",
     "name": "骨質密度測定及紅外線掃瞄實習 Bone Density Measurement and Infra-red Thermography Practice",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "醫放系、陳富都、范源洪、劉致康、陳木熊、楊舜仲",
     "time": "U3-"
   },
@@ -5719,7 +5719,7 @@
     "memo": "",
     "name": "醫學物理學實習(輻射安全) Medical Physics Practice(Radiation Safety)",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "醫放系、黃正仲、陸思慧、劉雪君",
     "time": "U4-"
   },
@@ -12187,7 +12187,7 @@
     "memo": "碩班必選，請依分班班級選課",
     "name": "專題討論(碩) Seminar",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "陳儀聰、張欣暘",
     "time": "M56-YL735[YM]"
   },
@@ -12259,7 +12259,7 @@
     "memo": "碩必選(review)",
     "name": "論文研究進度報告(碩) Progress report",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "陳俊銘、林照雄、許世宜、蔡亭芬、羅清維、俞震亞、孫維欣、林崇智、陳燕彰、李曉暉、可文亞、李敏嘉、張欣暘、陳嘉霖、陳虹如、陳瀅州、陳儀聰、藍昇輝、袁維謙",
     "time": "S1-"
   },
@@ -12271,7 +12271,7 @@
     "memo": "",
     "name": "進階細胞生物學 Advanced Cell Biology",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "李曉暉、俞震亞、陳鴻震、林崇智、李敏嘉、陳嘉霖、陳虹如",
     "time": "R234-YK533[YM]"
   },
@@ -12295,7 +12295,7 @@
     "memo": "授課方式：實地線上混合。上課教室：陽明校區：傳統醫學大樓甲棟533；交大校區：線上，請向教師索取線上連結",
     "name": "癌症生物學 Cancer Biology",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "陳俊銘、陳嘉霖、藍昇輝、袁維謙",
     "time": "F234-YK533[YM]"
   },
@@ -12787,7 +12787,7 @@
     "memo": "1.原則上為全英語授課課程，如有異動，會提前通知。\n2.本課程原則上僅限本校生命科學院學生(含大學部)及藥物科學院生物藥學研究所學生修習,其他學生如欲修課,需經本院審核同意。 \n3.不開放校際選課。\n4.本課程於陽明校區傳甲二樓演講廳上課[English Medium Course]",
     "name": "生命科學院-生物醫學講座 Special lectures on biomedicine",
     "num_limit": "155",
-    "reg_num": "110",
+    "reg_num": "109",
     "teacher": "連正章",
     "time": "W78-"
   },
@@ -14863,7 +14863,7 @@
     "memo": "(1)2/24第一周停課乙次。(2)開學後人工加簽，開放3-5位「優先開放第二週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
     "name": "法官說法-大學生必備的法學常識 What Every College Student Has to Know: Legal Common Knowledge-The Judges&#039; Version",
     "num_limit": "25",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "張瑜鳳",
     "time": "T34-YT205[YM]"
   },
@@ -15811,7 +15811,7 @@
     "memo": "",
     "name": "社會經典閱讀(二) Reading Classics of Social Studies(II)",
     "num_limit": "60",
-    "reg_num": "59",
+    "reg_num": "58",
     "teacher": "許維德",
     "time": "T234-HKB09[LJ]"
   },
@@ -15823,7 +15823,7 @@
     "memo": "",
     "name": "人文經典閱讀(二) Reading Classics of Humanities(II)",
     "num_limit": "60",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "張藝曦",
     "time": "T567-HKB09[LJ]"
   },
@@ -15835,7 +15835,7 @@
     "memo": "",
     "name": "研究方法概論(一) Introduction to Research Methods(I)",
     "num_limit": "60",
-    "reg_num": "53",
+    "reg_num": "52",
     "teacher": "莊雅仲",
     "time": "W234-HKB09[LJ]"
   },
@@ -21343,7 +21343,7 @@
     "memo": "AB班",
     "name": "結構學（一） Theory of Structures (I)",
     "num_limit": "60",
-    "reg_num": "58",
+    "reg_num": "57",
     "teacher": "林其穎",
     "time": "Tn56-EB118[GF]"
   },
@@ -21463,7 +21463,7 @@
     "memo": "AB班。109(含)學年度以後入學者為必選課程；108(含)學年度前入學者為必修課程。",
     "name": "水利工程 Hydraulic Engineering",
     "num_limit": "60",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "石棟鑫",
     "time": "R234-EB118[GF]"
   },
@@ -21619,7 +21619,7 @@
     "memo": "AB班",
     "name": "工程經濟學 Engineering Economics",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "王維志",
     "time": "F567-EB227[GF]"
   },
@@ -25425,7 +25425,7 @@
     "num_limit": "9999",
     "reg_num": "2",
     "teacher": "李昆穎",
-    "time": "W34-HC513[GF]"
+    "time": "W78-HC513[GF]"
   },
   "1142_534804": {
     "code": "HSIM30005",
@@ -27487,7 +27487,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
     "name": "賽局理論及應用 Game Theory and Its Applications",
     "num_limit": "86",
-    "reg_num": "85",
+    "reg_num": "84",
     "teacher": "嚴力行",
     "time": "T34-ED117[GF]"
   },
@@ -28543,7 +28543,7 @@
     "memo": "",
     "name": "高科技廠房設施營建管理 High-tech Facility Construction Management",
     "num_limit": "9999",
-    "reg_num": "121",
+    "reg_num": "120",
     "teacher": "王維志、莊子壽、童國倫",
     "time": "Tabc-EB117[GF]"
   },
@@ -29301,7 +29301,7 @@
     "num_limit": "9999",
     "reg_num": "13",
     "teacher": "黃彥彰",
-    "time": "R234-SC201[GF]"
+    "time": "R234-SA215[GF]"
   },
   "1142_536705": {
     "code": "SCMA30021",
@@ -29349,7 +29349,7 @@
     "num_limit": "9999",
     "reg_num": "5",
     "teacher": "黃信元",
-    "time": "T7R34-SA215[GF]"
+    "time": "T7R34-SA211[GF]"
   },
   "1142_536709": {
     "code": "SCMA30050",
@@ -30280,9 +30280,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537024",
-    "memo": "",
+    "memo": "需先修過財務報表分析、信用風險與應用。",
     "name": "財務會計與信用風險論文研討(一) Research Seminar on Financial  Accounting and Credit Risk (I)",
-    "num_limit": "9999",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "陳宗岡",
     "time": "F34n-M302[GF]"
@@ -30292,9 +30292,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537025",
-    "memo": "",
+    "memo": "需先修過財務報表分析、信用風險與應用。",
     "name": "財務會計與信用風險論文研討(二) Research Seminar on Financial  Accounting and Credit Risk (II)",
-    "num_limit": "9999",
+    "num_limit": "10",
     "reg_num": "0",
     "teacher": "陳宗岡",
     "time": "F89a-M302[GF]"
@@ -30306,7 +30306,7 @@
     "id": "537026",
     "memo": "限管科所",
     "name": "程式語言導論 Introduction to Programming Languages",
-    "num_limit": "9999",
+    "num_limit": "15",
     "reg_num": "0",
     "teacher": "吳浩庠",
     "time": "Tn56-M104[GF]"
@@ -30316,9 +30316,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537027",
-    "memo": "",
+    "memo": "不開放網路選課，須任課老師加簽",
     "name": "高等作業研究 Advanced Operations Research",
-    "num_limit": "9999",
+    "num_limit": "12",
     "reg_num": "0",
     "teacher": "盧浩鈞",
     "time": "R234-M301[GF]"
@@ -36751,7 +36751,7 @@
     "memo": "1.綜合球館2樓\n2.第一階段開放選課系級：\n百川3\n機械3\n土木3\n資工3\n電物3\n應數3\n外文3\n生科3\n半導體3",
     "name": "體育－網球甲 Tennis",
     "num_limit": "32",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "詹益欣",
     "time": "T56-PE[GF]"
   },
@@ -36871,7 +36871,7 @@
     "memo": "1.第一週上課在交大校區田徑場集合。修習交大校區開設之高爾夫球課程同學，需自行前往上課地點、自備球桿及自付練習場費用。 (上課地點：高仕高爾夫竹科練習場-新竹市東區湖濱三路1號，電話：03-5678928)\n2.第一階段開放選課系級：\n電機2\n光電2\n材料2\n應化2\n管科2\n運管2\n工工2\n資財2\n人社2\n傳科2\n理院2",
     "name": "體育－高爾夫球甲 Golf",
     "num_limit": "30",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "陳忠強",
     "time": "F34-PE[GF]"
   },
@@ -37375,7 +37375,7 @@
     "memo": "體育館B1體適能教室",
     "name": "體育－瑜珈 Yoga",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "巫慧萍",
     "time": "F34-PE[GF]"
   },
@@ -38299,7 +38299,7 @@
     "memo": "[English Medium Course]",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "66",
+    "reg_num": "65",
     "teacher": "科特林",
     "time": "M78R34-SC110[GF]"
   },

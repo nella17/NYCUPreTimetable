@@ -5564,7 +5564,7 @@
     "name": "核醫藥物暨放射性同位素治療實習 Radiopharmaceuticals & Radioisotope Therapy Practice",
     "num_limit": "9999",
     "reg_num": "29",
-    "teacher": "醫放系、王昱豐、張智勇、許敦韋、陳怡潔、陳橙葦",
+    "teacher": "醫放系、王昱豐、許敦韋、張智勇、陳怡潔、陳橙葦",
     "time": "S1-"
   },
   "1142_112342": {
@@ -10808,7 +10808,7 @@
     "name": "人工輔助生殖技術講座 Assisted Reproductive Technology (ART)",
     "num_limit": "50",
     "reg_num": "27",
-    "teacher": "武國璋、宋麗英、宋永魁、曾啟瑞、劉嘉燿、宋柏儀、黃莊彥、李俊逸、李易良",
+    "teacher": "武國璋、曾啟瑞、宋麗英、宋永魁、劉嘉燿、宋柏儀、黃莊彥、李俊逸、李易良",
     "time": "F56-YB101[YM]"
   },
   "1142_132211": {
@@ -19279,7 +19279,7 @@
     "memo": "",
     "name": "半導體元件物理 Semiconductor Device Physics",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "李佩雯",
     "time": "M8F78-ED101[GF]"
   },
@@ -19711,7 +19711,7 @@
     "memo": "電機學院大三、大四學生優先選課",
     "name": "類比及射頻設計實務-手機晶片與系統設計 Analog and RF design practices – Cellular phone chip and system design",
     "num_limit": "100",
-    "reg_num": "99",
+    "reg_num": "98",
     "teacher": "陳科宏、蔡作敏、洪浩喬、冀泰石",
     "time": "Mabc-EE105[GF]"
   },
@@ -19723,7 +19723,7 @@
     "memo": "原「通訊原理一」。",
     "name": "通訊系統導論 Introduction to Communication Systems",
     "num_limit": "140",
-    "reg_num": "57",
+    "reg_num": "56",
     "teacher": "陳柏志",
     "time": "W234-EDB26[GF]"
   },
@@ -22207,7 +22207,7 @@
     "memo": "",
     "name": "預研專題(二) Pregraduate Studies (II)",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "電物系",
     "time": ""
   },
@@ -25819,7 +25819,7 @@
     "memo": "[English Medium Course]",
     "name": "創業實作 Practice in Entrepreneurship",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "黃經堯",
     "time": "M234-ED101[GF]"
   },
@@ -25867,7 +25867,7 @@
     "memo": "",
     "name": "感測器介面電路設計 Integrated Circuit Design for Sensors",
     "num_limit": "35",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "廖育德",
     "time": "T567-EE207[GF]"
   },
@@ -25963,7 +25963,7 @@
     "memo": "",
     "name": "仿神經形態積體電路與系統 Neuromorphic Integrated Circuits and Systems",
     "num_limit": "70",
-    "reg_num": "53",
+    "reg_num": "52",
     "teacher": "彭盛裕",
     "time": "Mn56-EE220[GF]"
   },
@@ -26011,7 +26011,7 @@
     "memo": "",
     "name": "電子專題研討(系統組) Seminar on Electronics-Circuits and Systems",
     "num_limit": "120",
-    "reg_num": "86",
+    "reg_num": "85",
     "teacher": "溫    岸",
     "time": "T56-ED116[GF]"
   },
@@ -26299,7 +26299,7 @@
     "memo": "[English Medium Course]",
     "name": "生醫電子與系統 Bio-Medical Circuits and Systems",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "方偉騏",
     "time": "R678-EDB06[GF]"
   },
@@ -26311,7 +26311,7 @@
     "memo": "[English Medium Course]上課時間及教室：W56–ED415, Wcd–LAB",
     "name": "積體電路設計實驗 Integrated Circuit Design Laboratory",
     "num_limit": "90",
-    "reg_num": "86",
+    "reg_num": "85",
     "teacher": "李鎮宜",
     "time": "W56cd-"
   },
@@ -26323,7 +26323,7 @@
     "memo": "",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "100",
-    "reg_num": "106",
+    "reg_num": "105",
     "teacher": "周世傑",
     "time": "W78-ED219[GF],F56-EDB27[GF]"
   },
@@ -26335,7 +26335,7 @@
     "memo": "",
     "name": "計算機結構 Computer Architecture",
     "num_limit": "100",
-    "reg_num": "97",
+    "reg_num": "96",
     "teacher": "劉志尉",
     "time": "F234-ED219[GF]"
   },
@@ -26359,7 +26359,7 @@
     "memo": "[English Medium Course]",
     "name": "機器學習智能晶片設計 Machine Learning Intelligent Chip Design",
     "num_limit": "130",
-    "reg_num": "67",
+    "reg_num": "66",
     "teacher": "陳坤志",
     "time": "W234-ED219[GF]"
   },
@@ -26383,7 +26383,7 @@
     "memo": "",
     "name": "數位訊號處理 Digital Signal Processing",
     "num_limit": "130",
-    "reg_num": "111",
+    "reg_num": "110",
     "teacher": "桑梓賢、鄭耿璽",
     "time": "T8R34-EDB26[GF]"
   },
@@ -26407,7 +26407,7 @@
     "memo": "",
     "name": "實體設計自動化 Physical Design Automation",
     "num_limit": "120",
-    "reg_num": "64",
+    "reg_num": "63",
     "teacher": "林柏宏",
     "time": "T9ab-ED116[GF]"
   },
@@ -26419,7 +26419,7 @@
     "memo": "[English Medium Course]",
     "name": "記憶體電路及系統設計  Memory Circuits and System",
     "num_limit": "9999",
-    "reg_num": "119",
+    "reg_num": "118",
     "teacher": "黃柏蒼",
     "time": "T234-EDB01[GF]"
   },
@@ -26431,7 +26431,7 @@
     "memo": "(1)第一次上課：115年3月6日（週五）19:30-21:20在ED116教室。(2)本課程為線上授課，隔週上課，每次兩節課。",
     "name": "人工智慧運算架構 AI Compute Architecture",
     "num_limit": "9999",
-    "reg_num": "89",
+    "reg_num": "88",
     "teacher": "梁伯嵩",
     "time": "Fbc-ED116[GF]"
   },
@@ -27247,7 +27247,7 @@
     "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]資訊學院優先(不開放在職專班網路選課)。",
     "name": "記憶體與儲存系統 Memory and Storage Systems",
     "num_limit": "220",
-    "reg_num": "217",
+    "reg_num": "216",
     "teacher": "吳俊峯",
     "time": "M56-EC015[GF]"
   },
@@ -27355,7 +27355,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)。",
     "name": "基於深度學習之視覺辨識專論 Selected Topics in Visual Recognition using Deep Learning",
     "num_limit": "100",
-    "reg_num": "100",
+    "reg_num": "99",
     "teacher": "林彥宇",
     "time": "T567-EC114[GF]"
   },
@@ -29107,7 +29107,7 @@
     "memo": "",
     "name": "半導體物理及元件（二） Semiconductor Physics and Devices (II)",
     "num_limit": "120",
-    "reg_num": "74",
+    "reg_num": "73",
     "teacher": "蘇俊榮",
     "time": "F567-SC001[GF]"
   },
@@ -29119,7 +29119,7 @@
     "memo": "[English Medium Course]",
     "name": "高等固態物理（二） Advanced Solid State Physics (II)",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "仲崇厚",
     "time": "M34W2-SC162[GF]"
   },
@@ -29191,7 +29191,7 @@
     "memo": "[English Medium Course]",
     "name": "Labview程式設計(一) Labview Programming(I)",
     "num_limit": "70",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "籔下篤史",
     "time": "F234-SC162[GF]"
   },
@@ -29215,7 +29215,7 @@
     "memo": "[English Medium Course]",
     "name": "顯微技術物理 Physics of Microscopy",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "鍾介文、林俊良",
     "time": "W567-SC105[GF]"
   },
@@ -31939,7 +31939,7 @@
     "memo": "資科工所、網資學程博士班 博士生資格考通過後必修。",
     "name": "博士學位論文研究 Ph.D.Thesis Study",
     "num_limit": "9999",
-    "reg_num": "45",
+    "reg_num": "99",
     "teacher": "資科工博",
     "time": ""
   },
@@ -31951,7 +31951,7 @@
     "memo": "英文授課；[English Medium Course]博二以上方能選修",
     "name": "博士班書報討論 Special Topics Seminar A (PhD)",
     "num_limit": "60",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "楊武",
     "time": "R56-ED302[GF]"
   },
@@ -34363,7 +34363,7 @@
     "memo": "",
     "name": "優雅老化心理學 Grace Aging Psychology",
     "num_limit": "80",
-    "reg_num": "80",
+    "reg_num": "81",
     "teacher": "程千芳",
     "time": "R34-A103[GF]"
   },
@@ -37747,7 +37747,7 @@
     "memo": "第一週上課集合地點為山下網球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "黃中興",
     "time": "W78-PhE[YM]"
   },
@@ -43096,7 +43096,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910219",
-    "memo": "電機組，上課地點：國防大學理工學院",
+    "memo": "(停開)",
     "name": "數位訊號處理程式設計 DSP Programming",
     "num_limit": "9999",
     "reg_num": "0",
@@ -43156,7 +43156,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910224",
-    "memo": "電機組，上課地點：國防大學理工學院，授課教師：劉貞灝老師",
+    "memo": "(停開)",
     "name": "工業電子 Industrial electronics",
     "num_limit": "9999",
     "reg_num": "0",
@@ -45331,7 +45331,7 @@
     "memo": "",
     "name": "全民國防教育軍事訓練課程－全民國防 All-out Defense Education Military Training-Civil Defense",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "邱雅萍",
     "time": "M56-YX501[YM]"
   },
@@ -45343,7 +45343,7 @@
     "memo": "",
     "name": "全民國防教育軍事訓練課程－國防科技 All-out Defense Education Military Training-Defense Technology",
     "num_limit": "45",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "邱雅萍",
     "time": "M78-YX501[YM]"
   }

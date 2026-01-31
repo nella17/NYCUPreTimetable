@@ -11538,7 +11538,7 @@
     "id": "132603",
     "memo": "跨校區課程。",
     "name": "智慧生醫概論 Introduction of Smart Biomedicine",
-    "num_limit": "9999",
+    "num_limit": "80",
     "reg_num": "77",
     "teacher": "郭文娟、吳育德、高甫仁、李美璇、賴穎暉、盧家鋒、卓冠宇、兵岳忻、陳奕帆、賈世璿、李超煌、邱爾德、饒啟文",
     "time": "Wab-YK533[YM]"
@@ -11586,7 +11586,7 @@
     "id": "132608",
     "memo": "[English Medium Course]全英文授課\n上課時間及方式另行通知。",
     "name": "雷射與顯微技術於生醫科技之應用 Laser and Microscope Technologies for Biotechnology",
-    "num_limit": "9999",
+    "num_limit": "20",
     "reg_num": "2",
     "teacher": "細川陽一郎",
     "time": "F8-"
@@ -17899,7 +17899,7 @@
     "memo": "本課程人數上限為120人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "建築概論 Introduction to Architecture",
     "num_limit": "120",
-    "reg_num": "120",
+    "reg_num": "132",
     "teacher": "凌天",
     "time": "F34-"
   },
@@ -18931,7 +18931,7 @@
     "memo": "A~F班 3學分4小時，3小時上課第4小時授權每位老師彈性規劃。",
     "name": "電子學(二) Electronics (II)",
     "num_limit": "60",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "蔡嘉明",
     "time": "M78R34-ED201[GF]"
   },
@@ -19219,7 +19219,7 @@
     "memo": "",
     "name": "近代物理導論  Introduction to Modern Physics",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "曾銘綸",
     "time": "T34W5-EE102[GF]"
   },
@@ -19363,7 +19363,7 @@
     "memo": "",
     "name": "控制系統設計 Design and Simulation of Control Systems     ",
     "num_limit": "70",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "吳炳飛",
     "time": "M2W34-EE623[GF]"
   },
@@ -19723,7 +19723,7 @@
     "memo": "原「通訊原理一」。",
     "name": "通訊系統導論 Introduction to Communication Systems",
     "num_limit": "140",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "陳柏志",
     "time": "W234-EDB26[GF]"
   },
@@ -22123,7 +22123,7 @@
     "memo": "",
     "name": "材料科學導論 Introduction to Materials Science",
     "num_limit": "70",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "陳智彥",
     "time": "W234-SC160[GF]"
   },
@@ -22207,7 +22207,7 @@
     "memo": "",
     "name": "預研專題(二) Pregraduate Studies (II)",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "電物系",
     "time": ""
   },
@@ -22531,7 +22531,7 @@
     "memo": "",
     "name": "無機化學(二) Inorganic Chemistry (2)",
     "num_limit": "60",
-    "reg_num": "54",
+    "reg_num": "53",
     "teacher": "劉學儒",
     "time": "T234-SB211[GF]"
   },
@@ -22627,7 +22627,7 @@
     "memo": "",
     "name": "物理化學(三) Physical Chemistry (III)",
     "num_limit": "40",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "曾建銘",
     "time": "M456-SB202[GF]"
   },
@@ -22651,7 +22651,7 @@
     "memo": "",
     "name": "整合型化學實驗 Integrated Chemistry Laboratory",
     "num_limit": "10",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "黃立心",
     "time": "R567-SB321[GF]"
   },
@@ -24022,6 +24022,30 @@
     "reg_num": "29",
     "teacher": "陳永富",
     "time": "M89a-SC109[GF]"
+  },
+  "1142_520026": {
+    "code": "XDEP10012",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "520026",
+    "memo": "",
+    "name": "微積分 Calculus",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "許譽馨",
+    "time": "M89a-SC162[GF]"
+  },
+  "1142_520027": {
+    "code": "XDEP20032",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "520027",
+    "memo": "",
+    "name": "數位電路設計 Digital Circuit Design",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林尚亭",
+    "time": "R567-SC109[GF]"
   },
   "1142_530000": {
     "code": "GELT30003",
@@ -25975,7 +25999,7 @@
     "memo": "",
     "name": "仿神經形態積體電路與系統 Neuromorphic Integrated Circuits and Systems",
     "num_limit": "70",
-    "reg_num": "52",
+    "reg_num": "51",
     "teacher": "彭盛裕",
     "time": "Mn56-EE220[GF]"
   },
@@ -26023,7 +26047,7 @@
     "memo": "",
     "name": "電子專題研討(系統組) Seminar on Electronics-Circuits and Systems",
     "num_limit": "120",
-    "reg_num": "85",
+    "reg_num": "84",
     "teacher": "溫    岸",
     "time": "T56-ED116[GF]"
   },
@@ -26059,7 +26083,7 @@
     "memo": "限電子所核可者",
     "name": "書報討論 Graduate Research",
     "num_limit": "0",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "電子所",
     "time": ""
   },
@@ -26119,7 +26143,7 @@
     "memo": "Wab-LAB",
     "name": "半導體實驗 Semiconductor Laboratory",
     "num_limit": "30",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "曾銘綸",
     "time": "Wab-,W678-ED101[GF]"
   },
@@ -26155,7 +26179,7 @@
     "memo": "電子所優先",
     "name": "元件電路計測實驗 Device and Circuit Characterization Laboratory",
     "num_limit": "40",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "侯拓宏",
     "time": "R678-ED201[GF]"
   },
@@ -26167,7 +26191,7 @@
     "memo": "",
     "name": "三維積體電路 3D Integrated Circuits",
     "num_limit": "115",
-    "reg_num": "117",
+    "reg_num": "116",
     "teacher": "陳冠能",
     "time": "F34n-EDB26[GF]"
   },
@@ -26215,7 +26239,7 @@
     "memo": "[English Medium Course]",
     "name": "半導體物理及元件(一) Semiconductor Physics and Devices (I)",
     "num_limit": "70",
-    "reg_num": "110",
+    "reg_num": "109",
     "teacher": "吳添立",
     "time": "M234-ED220[GF]"
   },
@@ -26263,7 +26287,7 @@
     "memo": "授課教師–蔡孝恩醫師，上課教室–ED108",
     "name": "醫學工程概論 Introductiion of Medical Engineering",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "鄭裕庭",
     "time": "F678-"
   },
@@ -26287,7 +26311,7 @@
     "memo": "",
     "name": "記憶體積體電路 Memory Circuit Design",
     "num_limit": "9999",
-    "reg_num": "145",
+    "reg_num": "143",
     "teacher": "謝易叡",
     "time": "M567-ED101[GF]"
   },
@@ -26335,7 +26359,7 @@
     "memo": "",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "100",
-    "reg_num": "105",
+    "reg_num": "103",
     "teacher": "周世傑",
     "time": "W78-ED219[GF],F56-EDB27[GF]"
   },
@@ -26347,7 +26371,7 @@
     "memo": "",
     "name": "計算機結構 Computer Architecture",
     "num_limit": "100",
-    "reg_num": "96",
+    "reg_num": "95",
     "teacher": "劉志尉",
     "time": "F234-ED219[GF]"
   },
@@ -26359,7 +26383,7 @@
     "memo": "[English Medium Course]",
     "name": "計算機結構 Computer Architecture",
     "num_limit": "100",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "賴伯承",
     "time": "R34n-EDB27[GF]"
   },
@@ -26419,7 +26443,7 @@
     "memo": "",
     "name": "實體設計自動化 Physical Design Automation",
     "num_limit": "120",
-    "reg_num": "63",
+    "reg_num": "62",
     "teacher": "林柏宏",
     "time": "T9ab-ED116[GF]"
   },
@@ -26431,7 +26455,7 @@
     "memo": "[English Medium Course]",
     "name": "記憶體電路及系統設計  Memory Circuits and System",
     "num_limit": "9999",
-    "reg_num": "118",
+    "reg_num": "117",
     "teacher": "黃柏蒼",
     "time": "T234-EDB01[GF]"
   },
@@ -26455,7 +26479,7 @@
     "memo": "大四及研究所。*電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程)",
     "name": "功率積體電路設計 Power Integrated Circuits Design",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "陳科宏",
     "time": "F234-EE623[GF]"
   },
@@ -26827,7 +26851,7 @@
     "memo": "兼任教師授課,不列入大學部專業選修",
     "name": "深度學習基礎概論 Introduction to Deep Learning",
     "num_limit": "9999",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "李正匡",
     "time": "T567-EO103[GF]"
   },
@@ -27511,7 +27535,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&amp;1年級；博士班資格考考核科目。資安所必選修課程。",
     "name": "網路安全 Network Security",
     "num_limit": "80",
-    "reg_num": "80",
+    "reg_num": "79",
     "teacher": "謝續平",
     "time": "T34-EC115[GF]"
   },
@@ -27895,7 +27919,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "96",
+    "reg_num": "95",
     "teacher": "阿圖爾Artur Useinov",
     "time": "W567-AB101[GF]"
   },
@@ -29155,7 +29179,7 @@
     "memo": "",
     "name": "量子物理與元件 Quantum Physics and Devices",
     "num_limit": "70",
-    "reg_num": "63",
+    "reg_num": "62",
     "teacher": "羅舜聰、蔡兆申",
     "time": "T234-SC162[GF]"
   },
@@ -29227,7 +29251,7 @@
     "memo": "[English Medium Course]",
     "name": "顯微技術物理 Physics of Microscopy",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "鍾介文、林俊良",
     "time": "W567-SC105[GF]"
   },
@@ -30115,7 +30139,7 @@
     "memo": "開放全校大三大四選修。",
     "name": "創業管理:新創事業開發 Entrepreneurship: New Venture Creation",
     "num_limit": "40",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "黃瓊誼",
     "time": "W34n-M301[GF]"
   },
@@ -34243,7 +34267,7 @@
     "memo": "[English Medium Course]1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制)核心社會,欲採計核心自然請至人學中心書面申請。",
     "name": "普通心理學 General Psychology",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "51",
     "teacher": "梁瓊惠",
     "time": "T34-A204[GF]"
   },
@@ -36235,7 +36259,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "戴偉國",
     "time": "M34-PE[GF]"
   },
@@ -37015,7 +37039,7 @@
     "memo": "綜合球館2樓",
     "name": "體育－網球甲 Tennis",
     "num_limit": "32",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "伍啟萌",
     "time": "M56-PE[GF]"
   },

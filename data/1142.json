@@ -59,6 +59,18 @@
     "teacher": "王柏安",
     "time": "T56R4-"
   },
+  "1142_030006": {
+    "code": "IADI00073",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030006",
+    "memo": "中央大學文學二館437室，請參考下方連結檔案P5-P13，https://pdc.adm.ncu.edu.tw/Course/other/CCOP_1.pdf，建立中央的NetID(臨時學號)及個人基本資料。EL5000",
+    "name": "論文寫作與研究方法 Thesis Writing and Methodology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "白瑞梅",
+    "time": "F567-"
+  },
   "1142_110000": {
     "code": "MDMD20363",
     "credit": "8.00",
@@ -3344,7 +3356,7 @@
     "name": "省思-人﹑生活﹑生命 Reflection-Human Being, Living, Life",
     "num_limit": "9999",
     "reg_num": "36",
-    "teacher": "陳紀雯、邱愛富、童恒新",
+    "teacher": "陳紀雯、邱愛富、童恒新、黃莉婷",
     "time": "W78-EE112[GF]"
   },
   "1142_111802": {
@@ -8468,7 +8480,7 @@
     "name": "1142環境與職業衛生的趨勢與展望 1142 The Trend and Future Perspective of Environmental and Occupational Health Sciences",
     "num_limit": "9999",
     "reg_num": "30",
-    "teacher": "潘文驥、楊振昌、陳美蓮、余國賓、紀凱獻、黃鈺芳、李宥萱、張榮偉",
+    "teacher": "潘文驥、楊振昌、余國賓、紀凱獻、黃鈺芳、李宥萱、張榮偉、陳美蓮",
     "time": "T34-YT304[YM]"
   },
   "1142_130804": {
@@ -8480,7 +8492,7 @@
     "name": "作業環境監測 Operation environment monitoring",
     "num_limit": "9999",
     "reg_num": "10",
-    "teacher": "黃鈺芳、陳美蓮、劉宗榮",
+    "teacher": "黃鈺芳、劉宗榮、陳美蓮",
     "time": "T78-YS105[YM]"
   },
   "1142_130805": {
@@ -9848,7 +9860,7 @@
     "name": "進階心理健康護理學實習(二) Practice in Advanced Mental Health Nursing (II)",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "楊秋月",
+    "teacher": "楊秋月、黃莉婷",
     "time": "W12345678-"
   },
   "1142_131706": {
@@ -9884,7 +9896,7 @@
     "name": "護理研究 Nursing Research",
     "num_limit": "9999",
     "reg_num": "53",
-    "teacher": "楊秋月、黃子庭、孫秀卿、劉介宇、許樹珍、陳俞琪、蔡慈儀、劉影梅、簡莉盈、李亭亭、廖媛美、胡慧蘭、黃淑鶴、周承珍、林承霈",
+    "teacher": "楊秋月、黃子庭、孫秀卿、劉介宇、許樹珍、陳俞琪、蔡慈儀、劉影梅、簡莉盈、李亭亭、廖媛美、胡慧蘭、黃淑鶴、周承珍、林承霈、廖咨詠、黃莉婷",
     "time": "T234-YN511[YM]"
   },
   "1142_131709": {
@@ -10556,7 +10568,7 @@
     "name": "專題討論 Seminar",
     "num_limit": "50",
     "reg_num": "15",
-    "teacher": "林怡君、林照雄、楊振昌、蔡東湖、陳美蓮、林滿玉、林逸芬、范玫芳、王湘翠、黃雪莉、楊登傑、林奇宏、倪貴榮、黃鈺芳、魏國晋、廖伯霖、蔡文城、林嬪嬪、康照洲、劉宗榮、何其儻、鄭幼文、梁恭豪、鄒瀚興、賴盈宏",
+    "teacher": "林怡君、林照雄、楊振昌、蔡東湖、林滿玉、林逸芬、范玫芳、王湘翠、黃雪莉、楊登傑、林奇宏、倪貴榮、黃鈺芳、魏國晋、廖伯霖、蔡文城、林嬪嬪、康照洲、劉宗榮、何其儻、鄭幼文、陳美蓮、梁恭豪、鄒瀚興、賴盈宏",
     "time": "F56-YN118[YM]"
   },
   "1142_132109": {
@@ -13232,7 +13244,7 @@
     "name": "環境衛生特論 Advanced Environmental Health",
     "num_limit": "10",
     "reg_num": "4",
-    "teacher": "潘文驥、陳美蓮、黃鈺芳、李宥萱、王正雄、吳威德",
+    "teacher": "潘文驥、黃鈺芳、李宥萱、陳美蓮、王正雄、吳威德",
     "time": "T12-YS105[YM]"
   },
   "1142_140700": {
@@ -13388,7 +13400,7 @@
     "name": "環境與職業衛生的趨勢與展望書報討論 Seminars in the Trend and Future Perspective of Environmental and Occupational Health Sciences",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "張榮偉、楊振昌、陳美蓮、余國賓、紀凱獻、黃鈺芳、李宥萱、潘文驥",
+    "teacher": "張榮偉、楊振昌、余國賓、紀凱獻、黃鈺芳、李宥萱、潘文驥、陳美蓮",
     "time": "T34-YT304[YM]"
   },
   "1142_141200": {
@@ -15020,7 +15032,7 @@
     "name": "瑜珈：從歷史到現代實踐 Yoga: From History to Modern Practice",
     "num_limit": "35",
     "reg_num": "12",
-    "teacher": "待聘",
+    "teacher": "Paloma Valeria Muñoz",
     "time": "T12-YB102[YM]"
   },
   "1142_161044": {
@@ -17899,7 +17911,7 @@
     "memo": "本課程人數上限為120人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "建築概論 Introduction to Architecture",
     "num_limit": "120",
-    "reg_num": "132",
+    "reg_num": "133",
     "teacher": "凌天",
     "time": "F34-"
   },
@@ -23517,7 +23529,7 @@
     "num_limit": "9999",
     "reg_num": "40",
     "teacher": "程源中",
-    "time": "F56-"
+    "time": "F56-A209[GF]"
   },
   "1142_519502": {
     "code": "XDAP00030",
@@ -23661,7 +23673,7 @@
     "num_limit": "9999",
     "reg_num": "39",
     "teacher": "程源中、王美鴻、安勤之",
-    "time": "Wn-A509[GF]"
+    "time": "Wn-A209[GF]"
   },
   "1142_519514": {
     "code": "XDAP00035",
@@ -23697,7 +23709,7 @@
     "num_limit": "9999",
     "reg_num": "44",
     "teacher": "安勤之",
-    "time": "W56-"
+    "time": "W56-A217[GF]"
   },
   "1142_519518": {
     "code": "XDAP00014",
@@ -23709,14 +23721,14 @@
     "num_limit": "134",
     "reg_num": "120",
     "teacher": "程源中",
-    "time": "R567-"
+    "time": "R567-A103[GF]"
   },
   "1142_519519": {
     "code": "XDAP00015",
     "credit": "2.00",
     "hours": "2.00",
     "id": "519519",
-    "memo": "",
+    "memo": "上課教室:A202。",
     "name": "言語的力量 — 一本筆記如何改變世界? The Power of Words: How Lecture Notes Transformed the World",
     "num_limit": "50",
     "reg_num": "50",
@@ -25160,7 +25172,7 @@
     "name": "資本主義的擴張與剝奪：邊陲地區依賴理論的批判性檢視 Capitalism's Expansion and Dispossession: A Critical Examination of Dependency Theory in Peripheral Regions",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "待聘",
+    "teacher": "RAFAL PIOTR",
     "time": "T34-HB106A[GF]"
   },
   "1142_534700": {
@@ -40507,7 +40519,7 @@
     "memo": "全組，上課地點：本校新竹光復校區資訊中心電腦教室二、三、四或資工系電腦教室",
     "name": "基礎科學講座與實驗(2) Seminar and Lab(2)",
     "num_limit": "9999",
-    "reg_num": "130",
+    "reg_num": "147",
     "teacher": "林政寬",
     "time": "Fabc-"
   },
@@ -40579,20 +40591,8 @@
     "memo": "化材組，上課地點：國防大學理工學院",
     "name": "導師輔導(2)  Tutor Guidance(2) ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "王志嘉",
-    "time": "M12-"
-  },
-  "1142_910007": {
-    "code": "SESE00022",
-    "credit": ".00",
-    "hours": "2.00",
-    "id": "910007",
-    "memo": "(停開)",
-    "name": "導師輔導(2)  Tutor Guidance(2) ",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "黃文鍵",
     "time": "M12-"
   },
   "1142_910008": {
@@ -40603,7 +40603,7 @@
     "memo": "環資組，上課地點：國防大學理工學院",
     "name": "導師輔導(2)  Tutor Guidance(2) ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "李宏輝",
     "time": "M12-"
   },
@@ -40651,7 +40651,7 @@
     "memo": "資工組，上課地點：國防大學理工學院",
     "name": "導師輔導(2)  Tutor Guidance(2) ",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "莊曜嘉",
     "time": "M12-"
   },
@@ -40675,7 +40675,7 @@
     "memo": "電機組電機班，上課地點：國防大學理工學院",
     "name": "導師輔導(4) Tutor Guidance(4)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "鄭紹宏",
     "time": "M12-"
   },
@@ -40687,7 +40687,7 @@
     "memo": "電機組電子班，上課地點：國防大學理工學院",
     "name": "導師輔導(4) Tutor Guidance(4)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "談光雄",
     "time": "M12-"
   },
@@ -40783,7 +40783,7 @@
     "memo": "電機組電機班，上課地點：國防大學理工學院",
     "name": "導師輔導(6) Tutor Guidance(6)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "楊家宏",
     "time": "M12-"
   },
@@ -40795,7 +40795,7 @@
     "memo": "電機組電子班，上課地點：國防大學理工學院",
     "name": "導師輔導(6) Tutor Guidance(6)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "謝育立",
     "time": "M12-"
   },
@@ -40903,7 +40903,7 @@
     "memo": "電機組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：體育室教師",
     "name": "體育(2) Physical Education(2)",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "28",
     "teacher": "系統工程",
     "time": "M67-"
   },
@@ -40927,7 +40927,7 @@
     "memo": "環資組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：體育室教師",
     "name": "體育(2) Physical Education(2)",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "9",
     "teacher": "系統工程",
     "time": "W67-"
   },
@@ -40939,7 +40939,7 @@
     "memo": "動力組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：體育室教師",
     "name": "體育(2) Physical Education(2)",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "17",
     "teacher": "系統工程",
     "time": "T67-"
   },
@@ -40951,7 +40951,7 @@
     "memo": "資工組，上課地點：國防大學理工學院，重補修隨班附讀，授課教師：體育室教師",
     "name": "體育(2) Physical Education(2)",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "32",
     "teacher": "系統工程",
     "time": "M67-"
   },
@@ -41179,7 +41179,7 @@
     "memo": "電機組，上課地點：國防大學理工學院，授課教師：林宏安老師",
     "name": "國文(2) Chinese(2)",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "28",
     "teacher": "系統工程",
     "time": "T234-"
   },
@@ -41203,7 +41203,7 @@
     "memo": "環資組，上課地點：國防大學理工學院，授課教師：賴素玫老師",
     "name": "國文(2) Chinese(2)",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "9",
     "teacher": "系統工程",
     "time": "M678-"
   },
@@ -41215,7 +41215,7 @@
     "memo": "動力組，上課地點：國防大學理工學院，授課教師：賴素玫老師",
     "name": "國文(2) Chinese(2)",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "17",
     "teacher": "系統工程",
     "time": "T234-"
   },
@@ -41227,7 +41227,7 @@
     "memo": "資工組，上課地點：國防大學理工學院，授課教師：林宏安老師",
     "name": "國文(2) Chinese(2)",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "32",
     "teacher": "系統工程",
     "time": "T678-"
   },
@@ -41251,7 +41251,7 @@
     "memo": "電機組，上課地點：國防大學理工學院，授課教師：陳盈伶老師",
     "name": "英文(2) English(2)",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "28",
     "teacher": "系統工程",
     "time": "W67F2-"
   },
@@ -41275,7 +41275,7 @@
     "memo": "環資組，上課地點：國防大學理工學院，授課教師：陳盈伶老師",
     "name": "英文(2) English(2)",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "9",
     "teacher": "系統工程",
     "time": "W34F4-"
   },
@@ -41287,7 +41287,7 @@
     "memo": "動力組，上課地點：國防大學理工學院，授課教師：黃靜珊老師",
     "name": "英文(2) English(2)",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "17",
     "teacher": "系統工程",
     "time": "R12F2-"
   },
@@ -41299,7 +41299,7 @@
     "memo": "資工組，上課地點：國防大學理工學院，授課教師：黃靜珊老師",
     "name": "英文(2) English(2)",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "32",
     "teacher": "系統工程",
     "time": "W34F7-"
   },
@@ -41347,7 +41347,7 @@
     "memo": "電機組，上課地點：國防大學理工學院",
     "name": "微積分(2) Calculus(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "張枝成",
     "time": "M34W12-"
   },
@@ -41359,7 +41359,7 @@
     "memo": "化材組，上課地點：國防大學理工學院",
     "name": "微積分(2) Calculus(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "張仁煦",
     "time": "T12F67-"
   },
@@ -41371,7 +41371,7 @@
     "memo": "環資組，上課地點：國防大學理工學院",
     "name": "微積分(2) Calculus(2)",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "9",
     "teacher": "蘇承芳",
     "time": "M34W12-"
   },
@@ -41383,7 +41383,7 @@
     "memo": "動力組，上課地點：國防大學理工學院",
     "name": "微積分(2) Calculus(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "吳文銓",
     "time": "M34W34-"
   },
@@ -41395,7 +41395,7 @@
     "memo": "資工組，上課地點：國防大學理工學院",
     "name": "微積分(2) Calculus(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "張仁煦",
     "time": "T34F34-"
   },
@@ -41407,7 +41407,7 @@
     "memo": "機航組，上課地點：國防大學理工學院",
     "name": "微積分(2) Calculus(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "張枝成",
     "time": "M67W67-"
   },
@@ -41431,7 +41431,7 @@
     "memo": "電機組，上課地點：國防大學理工學院",
     "name": "普通物理(2) General Physics(2)",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "28",
     "teacher": "鄭紹宏",
     "time": "R34F1-"
   },
@@ -41455,7 +41455,7 @@
     "memo": "環資組，上課地點：國防大學理工學院，授課教師：汪建良老師",
     "name": "普通物理(2) General Physics(2)",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "9",
     "teacher": "系統工程",
     "time": "R34F1-"
   },
@@ -41467,7 +41467,7 @@
     "memo": "動力組，上課地點：國防大學理工學院，授課教師：汪建良老師",
     "name": "普通物理(2) General Physics(2)",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "17",
     "teacher": "系統工程",
     "time": "R34F1-"
   },
@@ -41479,7 +41479,7 @@
     "memo": "[English Medium Course]資工組，上課地點：國防大學理工學院",
     "name": "普通物理(2) General Physics(2)",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "32",
     "teacher": "杜建明",
     "time": "R234-"
   },
@@ -41512,11 +41512,11 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "910084",
-    "memo": "調整授課教師為：系統工程。電機組，上課地點：國防大學理工學院，授課教師：邱廷鴻老師",
+    "memo": "電機組，上課地點：國防大學理工學院，授課教師：邱廷鴻老師",
     "name": "程式語言概論 Int. to Programming Languages",
     "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "莊曜嘉",
+    "reg_num": "28",
+    "teacher": "系統工程",
     "time": "T1-"
   },
   "1142_910085": {
@@ -41527,7 +41527,7 @@
     "memo": "化材組，上課地點：國防大學理工學院",
     "name": "程式語言概論 Int. to Programming Languages",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "莊曜嘉",
     "time": "F4-"
   },
@@ -41539,7 +41539,7 @@
     "memo": "環資組，上課地點：國防大學理工學院",
     "name": "程式語言概論 Int. to Programming Languages",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "莊曜嘉",
     "time": "F3-"
   },
@@ -41551,7 +41551,7 @@
     "memo": "動力組，上課地點：國防大學理工學院，授課教師：邱廷鴻老師",
     "name": "程式語言概論 Int. to Programming Languages",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "系統工程",
     "time": "M8-"
   },
@@ -41563,7 +41563,7 @@
     "memo": "資工組，上課地點：國防大學理工學院",
     "name": "程式語言概論 Int. to Programming Languages",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "莊曜嘉",
     "time": "F6-"
   },
@@ -41575,7 +41575,7 @@
     "memo": "機航組，上課地點：國防大學理工學院，授課教師：邱廷鴻老師",
     "name": "程式語言概論 Int. to Programming Languages",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "系統工程",
     "time": "F7-"
   },
@@ -41587,7 +41587,7 @@
     "memo": "電機組，上課地點：國防大學理工學院，授課教師：曾思喬老師",
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "系統工程",
     "time": "F67-"
   },
@@ -41599,7 +41599,7 @@
     "memo": "化材組，上課地點：國防大學理工學院，授課教師：曾思喬老師",
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "系統工程",
     "time": "R12-"
   },
@@ -41611,7 +41611,7 @@
     "memo": "環資組，上課地點：國防大學理工學院，授課教師：XXX老師",
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "系統工程",
     "time": "T34-"
   },
@@ -41623,7 +41623,7 @@
     "memo": "動力組，上課地點：國防大學理工學院",
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "宋易哲",
     "time": "M67-"
   },
@@ -41635,7 +41635,7 @@
     "memo": "資工組，上課地點：國防大學理工學院，授課教師：XXX老師",
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "系統工程",
     "time": "T12-"
   },
@@ -41647,7 +41647,7 @@
     "memo": "機航組，上課地點：國防大學理工學院，授課教師：羅翊榕老師",
     "name": "普通物理實驗(2) General Physics Laboratory(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "系統工程",
     "time": "M34-"
   },
@@ -41659,7 +41659,7 @@
     "memo": "電機組，上課地點：國防大學理工學院",
     "name": "普通化學實驗 General Chemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "28",
     "teacher": "俞勝為",
     "time": "W34-"
   },
@@ -41671,7 +41671,7 @@
     "memo": "化材組，上課地點：國防大學理工學院",
     "name": "普通化學實驗 General Chemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "游竹淋",
     "time": "M67-"
   },
@@ -41695,7 +41695,7 @@
     "memo": "動力組，上課地點：國防大學理工學院，授課教師：鄭根發老師",
     "name": "普通化學實驗 General Chemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "17",
     "teacher": "系統工程",
     "time": "F67-"
   },
@@ -41707,7 +41707,7 @@
     "memo": "資工組，上課地點：國防大學理工學院",
     "name": "普通化學實驗 General Chemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "游竹淋",
     "time": "M34-"
   },
@@ -41719,7 +41719,7 @@
     "memo": "機航組，上課地點：國防大學理工學院",
     "name": "普通化學實驗 General Chemistry Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "俞勝為",
     "time": "T34-"
   },
@@ -41731,7 +41731,7 @@
     "memo": "電機組，上課地點：國防大學理工學院，授課教師：許睿元老師",
     "name": "法學概論  Introduction to Law",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "28",
     "teacher": "系統工程",
     "time": "F34-"
   },
@@ -41755,7 +41755,7 @@
     "memo": "環資組，上課地點：國防大學理工學院，授課教師：周崇發老師",
     "name": "法學概論  Introduction to Law",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "9",
     "teacher": "系統工程",
     "time": "T12-"
   },
@@ -41779,7 +41779,7 @@
     "memo": "資工組，上課地點：國防大學理工學院，授課教師：許睿元老師",
     "name": "法學概論  Introduction to Law",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "32",
     "teacher": "系統工程",
     "time": "F12-"
   },
@@ -41839,7 +41839,7 @@
     "memo": "電機組，上課地點：國防大學理工學院，授課教師：劉嘉霖老師",
     "name": "中華民國憲法與立國精神 Constitution and Founding spirit of the ROC",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "系統工程",
     "time": "R234-"
   },
@@ -41927,24 +41927,12 @@
     "teacher": "系統工程",
     "time": "T34-"
   },
-  "1142_910119": {
-    "code": "SESE10009",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910119",
-    "memo": "(停開)",
-    "name": "哲學概論 Introdution to Philosophy",
-    "num_limit": "9999",
-    "reg_num": "16",
-    "teacher": "系統工程",
-    "time": "T12-"
-  },
   "1142_910120": {
     "code": "SESE10009",
     "credit": "2.00",
     "hours": "2.00",
     "id": "910120",
-    "memo": "電機組，上課地點：國防大學理工學院，授課教師：張靜如老師",
+    "memo": "資工組，上課地點：國防大學理工學院，授課教師：張靜如老師",
     "name": "哲學概論 Introdution to Philosophy",
     "num_limit": "9999",
     "reg_num": "24",
@@ -42052,12 +42040,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910129",
-    "memo": "調整上課時間為T89。全組，重補修隨班附讀，上課地點：國防大學理工學院，授課教師：邱智銘老師",
+    "memo": "全組，重補修隨班附讀，上課地點：國防大學理工學院，授課教師：邱智銘老師",
     "name": "中級英文(1) Intermediate English(1)",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
-    "time": "F34-"
+    "time": "T89-"
   },
   "1142_910130": {
     "code": "SESE00038",
@@ -42076,12 +42064,12 @@
     "credit": ".00",
     "hours": "1.00",
     "id": "910131",
-    "memo": "調整上課時間為R1。電機組B班，上課地點：國防大學理工學院",
+    "memo": "電機組B班，上課地點：國防大學理工學院",
     "name": "服務學習 (1) Service Learning (I)",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "葉宗翰",
-    "time": "M8-"
+    "time": "R1-"
   },
   "1142_910132": {
     "code": "SESE00038",
@@ -42091,7 +42079,7 @@
     "memo": "化材組，上課地點：國防大學理工學院",
     "name": "服務學習 (1) Service Learning (I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "29",
     "teacher": "王志嘉",
     "time": "M8-"
   },
@@ -42127,7 +42115,7 @@
     "memo": "資工組，上課地點：國防大學理工學院",
     "name": "服務學習 (1) Service Learning (I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "莊曜嘉",
     "time": "M8-"
   },
@@ -42139,7 +42127,7 @@
     "memo": "環資組，上課地點：國防大學理工學院，授課教師：方星文老師",
     "name": "服務學習 (1) Service Learning (I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "系統工程",
     "time": "W8-"
   },
@@ -42172,11 +42160,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910139",
-    "memo": "調整上課教師為：李宜珊老師。全組，通識選修-國防領域(113年入學者始)或自然領域(112年入學者)，上課地點：國防大學理工學院",
+    "memo": "全組，通識選修-國防領域(113年入學者始)或自然領域(112年入學者)，上課地點：國防大學理工學院",
     "name": "太空與國防 Space and National Defense",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
+    "teacher": "李宜珊",
     "time": "M34-"
   },
   "1142_910140": {
@@ -42202,30 +42190,6 @@
     "reg_num": "0",
     "teacher": "系統工程",
     "time": "W12-"
-  },
-  "1142_910142": {
-    "code": "SESE10250",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910142",
-    "memo": "(停開)",
-    "name": "日文(二) japanese(2)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": ""
-  },
-  "1142_910143": {
-    "code": "SESE10250",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910143",
-    "memo": "(停開)",
-    "name": "日文(二) japanese(2)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": ""
   },
   "1142_910144": {
     "code": "SESE00009",
@@ -42256,12 +42220,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910146",
-    "memo": "調整上課時間為M34。調整授課教師為：葉宗翰老師。全組，通識選修-自然領域，上課地點：國防大學理工學院",
+    "memo": "全組，通識選修-自然領域，上課地點：國防大學理工學院",
     "name": "生命科學與生命教育   Life Sciences and Education",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "T67-"
+    "teacher": "葉宗翰",
+    "time": "M34-"
   },
   "1142_910147": {
     "code": "SESE00044",
@@ -42299,30 +42263,6 @@
     "teacher": "系統工程",
     "time": "F67-"
   },
-  "1142_910150": {
-    "code": "SESE00041",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910150",
-    "memo": "(停開)",
-    "name": "法文(一)   French(1)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "R34-"
-  },
-  "1142_910151": {
-    "code": "SESE00041",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910151",
-    "memo": "(停開)",
-    "name": "法文(一)   French(1)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "R12-"
-  },
   "1142_910152": {
     "code": "SESE00047",
     "credit": "2.00",
@@ -42340,32 +42280,8 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910153",
-    "memo": "調整上課時間為W12。全組，通識選修-自然領域，上課地點：國防大學理工學院，授課教師：鄭根發老師",
+    "memo": "全組，通識選修-自然領域，上課地點：國防大學理工學院，授課教師：鄭根發老師",
     "name": "科技與未來生活   Technology and the Future Life",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "T34-"
-  },
-  "1142_910154": {
-    "code": "SESE00048",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910154",
-    "memo": "(停開)",
-    "name": "科技與未來生活   Technology and the Future Life",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "R12-"
-  },
-  "1142_910155": {
-    "code": "SESE10259",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910155",
-    "memo": "(停開)",
-    "name": "美國研究 American Studies",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
@@ -42383,18 +42299,6 @@
     "teacher": "系統工程",
     "time": "W67-"
   },
-  "1142_910157": {
-    "code": "SESE00132",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910157",
-    "memo": "(停開)",
-    "name": "英文閱讀與寫作 English Reading and Composition",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "F67-"
-  },
   "1142_910158": {
     "code": "SESE00131",
     "credit": "2.00",
@@ -42406,18 +42310,6 @@
     "reg_num": "0",
     "teacher": "系統工程",
     "time": "F67-"
-  },
-  "1142_910159": {
-    "code": "SESE00056",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910159",
-    "memo": "(停開)",
-    "name": "軍事教育與生涯發展 Military Education and Career Counseling",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "R34-"
   },
   "1142_910160": {
     "code": "SESE00058",
@@ -42503,18 +42395,6 @@
     "teacher": "系統工程",
     "time": "T12-"
   },
-  "1142_910167": {
-    "code": "SESE00015",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910167",
-    "memo": "(停開)",
-    "name": "國際軍事議題導讀 Introduction to International Military Issues",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "W34-"
-  },
   "1142_910168": {
     "code": "SESE00016",
     "credit": "2.00",
@@ -42527,42 +42407,6 @@
     "teacher": "系統工程",
     "time": "R34-"
   },
-  "1142_910169": {
-    "code": "SESE00016",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910169",
-    "memo": "(停開)",
-    "name": "國際關係 International Relations",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "M34-"
-  },
-  "1142_910170": {
-    "code": "SESE00020",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910170",
-    "memo": "(停開)",
-    "name": "專案管理 Project Management",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "R12-"
-  },
-  "1142_910171": {
-    "code": "SESE00005",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910171",
-    "memo": "(停開)",
-    "name": "傳記文學賞析 Biographical Literature",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "W67-"
-  },
   "1142_910172": {
     "code": "SESE00046",
     "credit": "2.00",
@@ -42574,42 +42418,6 @@
     "reg_num": "0",
     "teacher": "系統工程",
     "time": "F12-"
-  },
-  "1142_910173": {
-    "code": "SESE00046",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910173",
-    "memo": "(停開)",
-    "name": "當代政治思潮 Modern Politics Thoughe",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "F34-"
-  },
-  "1142_910174": {
-    "code": "SESE00122",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910174",
-    "memo": "(停開)",
-    "name": "運動科學概論 Introduction to Kinematics",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "W67-"
-  },
-  "1142_910175": {
-    "code": "SESE00028",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910175",
-    "memo": "(停開)",
-    "name": "德文(一)   German(1)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "T89-"
   },
   "1142_910176": {
     "code": "SESE00028",
@@ -42635,18 +42443,6 @@
     "teacher": "系統工程",
     "time": "M34-"
   },
-  "1142_910178": {
-    "code": "SESE00130",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910178",
-    "memo": "(停開)",
-    "name": "歷史與領導 History and Leadership",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": ""
-  },
   "1142_910179": {
     "code": "SESE00123",
     "credit": "2.00",
@@ -42671,42 +42467,6 @@
     "teacher": "系統工程",
     "time": "T34-"
   },
-  "1142_910181": {
-    "code": "SESE00043",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910181",
-    "memo": "(停開)",
-    "name": "環境保護   Environmental Protection",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "M12-"
-  },
-  "1142_910182": {
-    "code": "SESE00033",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910182",
-    "memo": "(停開)",
-    "name": "戲劇與人生  Drama and Life",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "W34-"
-  },
-  "1142_910183": {
-    "code": "SESE00124",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910183",
-    "memo": "(停開)",
-    "name": "體適能與健康 Fitness and Health",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": ""
-  },
   "1142_910184": {
     "code": "SESE10185",
     "credit": "2.00",
@@ -42730,18 +42490,6 @@
     "reg_num": "0",
     "teacher": "張枝成",
     "time": "F34-"
-  },
-  "1142_910186": {
-    "code": "SESE10185",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "910186",
-    "memo": "(停開)",
-    "name": "工程倫理 Ethics in Engineering",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "M12-"
   },
   "1142_910187": {
     "code": "SESE00038",
@@ -42772,12 +42520,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910189",
-    "memo": "調整授課教師為：莊曜嘉。調整上課時間為Tab。全組，重補修課程，上課地點：國防大學理工學院",
+    "memo": "全組，重補修課程，上課地點：國防大學理工學院",
     "name": "資訊科學概論 Introduction to Information Science ",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "Mab-"
+    "teacher": "莊曜嘉",
+    "time": "Tab-"
   },
   "1142_910190": {
     "code": "SESE10165",
@@ -42796,19 +42544,19 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910191",
-    "memo": "調整上課時間為M8W8R2。電機組B班，上課地點：國防大學理工學院",
+    "memo": "電機組B班，上課地點：國防大學理工學院",
     "name": "電路學(1) Fundamental of Electric Circuits (1)",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "葉宗翰",
-    "time": "W8R12-"
+    "time": "M8W8R2-"
   },
   "1142_910192": {
     "code": "SESE10049",
     "credit": "3.00",
     "hours": "3.00",
     "id": "910192",
-    "memo": "電機組A班，上課地點：國防大學理工學院。",
+    "memo": "電機組A班，上課地點：國防大學理工學院",
     "name": "數位邏輯設計 Digital logic design",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42820,23 +42568,23 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910193",
-    "memo": "調整上課時間為T678。電機組B班，上課地點：國防大學理工學院。",
+    "memo": "電機組B班，上課地點：國防大學理工學院",
     "name": "數位邏輯設計 Digital logic design",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "瞿忠正",
-    "time": "T789-"
+    "time": "T678-"
   },
   "1142_910194": {
     "code": "SESE10231",
     "credit": "3.00",
     "hours": "3.00",
     "id": "910194",
-    "memo": "調整授課教師：系統工程。電機組電機班，上課地點：國防大學理工學院，授課教師：杜博仁老師",
+    "memo": "電機組電機班，上課地點：國防大學理工學院，授課教師：杜博仁老師",
     "name": "工程數學(2) Engineering Mathematics(2)",
     "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "曾煜輝",
+    "reg_num": "16",
+    "teacher": "系統工程",
     "time": "F123-"
   },
   "1142_910195": {
@@ -42847,7 +42595,7 @@
     "memo": "電機組電子班，上課地點：國防大學理工學院",
     "name": "工程數學(2) Engineering Mathematics(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "14",
     "teacher": "曾煜輝",
     "time": "W678-"
   },
@@ -42859,7 +42607,7 @@
     "memo": "電機組，上課地點：國防大學理工學院",
     "name": "電子學(2) Electronics Circuits (2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "瞿忠正",
     "time": "W234-"
   },
@@ -42871,7 +42619,7 @@
     "memo": "電機組，上課地點：國防大學理工學院，授課教師：周裕達老師",
     "name": "電磁學 Electromagnetics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "系統工程",
     "time": "M678-"
   },
@@ -42883,7 +42631,7 @@
     "memo": "電機組電機班，上課地點：國防大學理工學院",
     "name": "電子實驗(2) Experiments of Electrical Engineering(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "16",
     "teacher": "謝育立",
     "time": "W678-"
   },
@@ -42892,11 +42640,11 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910199",
-    "memo": "調整授課教師為：系統工程。電機組電子班，上課地點：國防大學理工學院，授課教師：曾思喬老師",
+    "memo": "電機組電子班，上課地點：國防大學理工學院，授課教師：曾思喬老師",
     "name": "電子實驗(2) Experiments of Electrical Engineering(2)",
     "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "謝育立",
+    "reg_num": "14",
+    "teacher": "系統工程",
     "time": "F123-"
   },
   "1142_910200": {
@@ -42907,7 +42655,7 @@
     "memo": "電機組，重補修隨班附讀，上課地點：國防大學理工學院",
     "name": "訊號與系統 Signal and System",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "蘇英俊",
     "time": "M34R1-"
   },
@@ -42971,18 +42719,6 @@
     "teacher": "系統工程",
     "time": "F467-"
   },
-  "1142_910206": {
-    "code": "SESE20313",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910206",
-    "memo": "(停開)",
-    "name": "Matlab 程式設計 Matlab Programming",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "聶若鹽",
-    "time": "W1F67-"
-  },
   "1142_910207": {
     "code": "SESE20187",
     "credit": "3.00",
@@ -42991,7 +42727,7 @@
     "memo": "電機組電機班，上課地點：國防大學理工學院",
     "name": "自動控制系統(2) Automatic Control Systems(2)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "楊家宏",
     "time": "M678-"
   },
@@ -43003,7 +42739,7 @@
     "memo": "電機組電機班，上課地點：國防大學理工學院",
     "name": "自動控制實驗 The Experimental of Automatic Control",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "楊家宏",
     "time": "W678-"
   },
@@ -43015,7 +42751,7 @@
     "memo": "電機組電子班，上課地點：國防大學理工學院，授課教師：郭仁財老師",
     "name": "微波工程 Introduction to Microwave Engineering",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "系統工程",
     "time": "M678-"
   },
@@ -43027,7 +42763,7 @@
     "memo": "電機組電子班，此課程由余俊宏老師授課2週，上課地點於本校光復校區；其餘週數由聶若鹽老師授課，上課地點於國防大學理工學院",
     "name": "通訊系統實驗 Communication system experiment",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "聶若鹽、余俊宏",
     "time": "W678-"
   },
@@ -43103,113 +42839,17 @@
     "teacher": "謝輝煌",
     "time": "T678-"
   },
-  "1142_910217": {
-    "code": "SESE20064",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910217",
-    "memo": "(停開)",
-    "name": "電腦輔助邏輯電路設計 Computer Aided Logic Circuit Design",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "劉江龍",
-    "time": "M34W4-"
-  },
-  "1142_910218": {
-    "code": "SESE20186",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910218",
-    "memo": "(停開)",
-    "name": "電力電子學 Power Electronics",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "談光雄",
-    "time": "T1W34-"
-  },
-  "1142_910219": {
-    "code": "SESE20242",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910219",
-    "memo": "(停開)",
-    "name": "數位訊號處理程式設計 DSP Programming",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "蘇英俊",
-    "time": "T12F1-"
-  },
-  "1142_910220": {
-    "code": "SESE20183",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910220",
-    "memo": "(停開)",
-    "name": "光電子學 Optoelectronics",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "葉宗翰",
-    "time": "W34F2-"
-  },
-  "1142_910221": {
-    "code": "SESE20312",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910221",
-    "memo": "(停開)",
-    "name": "電機科技論文報告 Report Writing for Electrical Technology",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "R234-"
-  },
-  "1142_910222": {
-    "code": "SESE20264",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910222",
-    "memo": "(停開)",
-    "name": "數位影像處理 Digital Image Processing",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "R234-"
-  },
-  "1142_910223": {
-    "code": "SESE20329",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910223",
-    "memo": "(停開)",
-    "name": "系統分析與設計 System Analysis and Design",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "R123-"
-  },
-  "1142_910224": {
-    "code": "SESE20188",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910224",
-    "memo": "(停開)",
-    "name": "工業電子 Industrial electronics",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "R234-"
-  },
   "1142_910225": {
     "code": "SESE20304",
     "credit": "3.00",
     "hours": "3.00",
     "id": "910225",
-    "memo": "調整上課時間為F126。電機組，上課地點：國防大學理工學院，授課教師：陳俊豪老師",
+    "memo": "電機組，上課地點：國防大學理工學院，授課教師：陳俊豪老師",
     "name": "電力電子電路設計與應用 Design and Application of Power Electronic Circuit",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
-    "time": "F123-"
+    "time": "F126-"
   },
   "1142_910226": {
     "code": "SESE10230",
@@ -43228,7 +42868,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910227",
-    "memo": "電機組，重補修課程，上課地點：國防大學理工學院。",
+    "memo": "電機組，重補修課程，上課地點：國防大學理工學院",
     "name": "數位邏輯設計 Digital logic design",
     "num_limit": "9999",
     "reg_num": "0",
@@ -43288,11 +42928,11 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910232",
-    "memo": "調整授課教師為：劉益銘老師。化材組，上課地點：國防大學理工學院",
+    "memo": "化材組，上課地點：國防大學理工學院",
     "name": "結晶繞射概論 Elements of X-ray Diffraction",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "王哲釧",
+    "teacher": "劉益銘",
     "time": "T34R2-"
   },
   "1142_910233": {
@@ -43300,12 +42940,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910233",
-    "memo": "調整上課時間為M34R2。化材組，上課地點：國防大學理工學院",
+    "memo": "化材組，上課地點：國防大學理工學院",
     "name": "工程數學(2)  Engineering Mathematics(2)",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "鄭安佑",
-    "time": "T34R2-"
+    "time": "M34R2-"
   },
   "1142_910234": {
     "code": "SESE10070",
@@ -43324,12 +42964,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910235",
-    "memo": "調整上課時間為R34F6。化材組，上課地點：國防大學理工學院",
+    "memo": "化材組，上課地點：國防大學理工學院",
     "name": "物理化學(1) Physical Chemistry(1)",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "黃文鍵",
-    "time": "W4R34-"
+    "time": "R34F6-"
   },
   "1142_910236": {
     "code": "SESE10098",
@@ -43360,24 +43000,24 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910238",
-    "memo": "調整上課時間為M34F7。化材組，上課地點：國防大學理工學院",
+    "memo": "化材組，上課地點：國防大學理工學院",
     "name": "儀器及分析化學(2) Analytical Chemistry(2)",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "王志嘉",
-    "time": "M34S7-"
+    "time": "M34F7-"
   },
   "1142_910239": {
     "code": "SESE20132",
     "credit": "3.00",
     "hours": "3.00",
     "id": "910239",
-    "memo": "調整上課時間為W4F34。化材組，上課地點：國防大學理工學院，授課教師：洪耀勳老師",
+    "memo": "化材組，上課地點：國防大學理工學院，授課教師：洪耀勳老師",
     "name": "有機化學(2) Organic Chemistry(2)",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
-    "time": "S346-"
+    "time": "W4F34-"
   },
   "1142_910240": {
     "code": "SESE20123",
@@ -43636,11 +43276,11 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910261",
-    "memo": "調整授課教師為：系統工程。環資組大氣班，上課地點：國防大學理工學院，授課教師：王泰鈞老師",
+    "memo": "環資組大氣班，上課地點：國防大學理工學院，授課教師：王泰鈞老師",
     "name": "熱力學 Thermodynamics",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "王泰鈞",
+    "teacher": "系統工程",
     "time": "W678-"
   },
   "1142_910262": {
@@ -44061,7 +43701,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "朱子文",
-    "time": "T678-"
+    "time": "Mabc-"
   },
   "1142_910297": {
     "code": "SESE10076",
@@ -44073,7 +43713,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "宋易哲",
-    "time": "T1W12-"
+    "time": "Tabc-"
   },
   "1142_910298": {
     "code": "SESE10231",
@@ -44248,12 +43888,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910312",
-    "memo": "調整上課時間為T3W12。動力組車輛班，上課地點：國防大學理工學院",
+    "memo": "動力組車輛班，上課地點：國防大學理工學院",
     "name": "車輛運動力學 Vehicle Dynamics",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "朱子文",
-    "time": "M34T3-"
+    "time": "T3W12-"
   },
   "1142_910313": {
     "code": "SESE20205",
@@ -44392,12 +44032,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910324",
-    "memo": "調整上課時間為W678。動力組兵器班，上課地點：國防大學理工學院",
+    "memo": "動力組兵器班，上課地點：國防大學理工學院",
     "name": "彈道學及實驗(2) Ballistics and Experiments(2)",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "葉昭南",
-    "time": "M34T3-"
+    "time": "W678-"
   },
   "1142_910325": {
     "code": "SESE10209",
@@ -44416,12 +44056,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910326",
-    "memo": "調整上課時間為M34T8。動力組車輛班，上課地點：國防大學理工學院",
+    "memo": "動力組車輛班，上課地點：國防大學理工學院",
     "name": "電動車及混合動力車 Electric and Hybrid Vehicles",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "周志正",
-    "time": "T8W12-"
+    "time": "M34T8-"
   },
   "1142_910327": {
     "code": "SESE10210",
@@ -44452,12 +44092,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910329",
-    "memo": "調整上課時間為T8W12。動力組造船班，上課地點：國防大學理工學院",
+    "memo": "動力組造船班，上課地點：國防大學理工學院",
     "name": "船用電學 Basic Electronics for Marine Engineering",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林俊成",
-    "time": "W12F1-"
+    "time": "T8W12-"
   },
   "1142_910330": {
     "code": "SESE10231",
@@ -44500,12 +44140,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910333",
-    "memo": "調整上課時間為Wabc。動力組，重補修課程，上課地點：國防大學理工學院",
+    "memo": "動力組，重補修課程，上課地點：國防大學理工學院",
     "name": "應用力學－靜力學 Engineering Mechanics - Statics",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林盈志",
-    "time": "Mabc-"
+    "time": "Wabc-"
   },
   "1142_910334": {
     "code": "SESE10105",
@@ -44548,12 +44188,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910337",
-    "memo": "調整授課教師為：系統工程。調整上課時間為M67F6。資工組，上課地點：國防大學理工學院，授課教師：邱廷鴻老師",
+    "memo": "資工組，上課地點：國防大學理工學院，授課教師：邱廷鴻老師",
     "name": "計算機組織 Computer Organization. and Architecture",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "莊曜嘉",
-    "time": "M67F7-"
+    "teacher": "系統工程",
+    "time": "M67F6-"
   },
   "1142_910338": {
     "code": "SESE10115",
@@ -44764,12 +44404,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910355",
-    "memo": "調整上課時間為W34F1。資工組，上課地點：國防大學理工學院",
+    "memo": "資工組，上課地點：國防大學理工學院",
     "name": "模式模擬與兵棋 Modeling, Simulation, and Wargame",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "莊曜嘉",
-    "time": "T34F1-"
+    "time": "W34F1-"
   },
   "1142_910356": {
     "code": "SESE20001",
@@ -44800,12 +44440,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910358",
-    "memo": "調整上課時間為T12。機航組，上課地點：國防大學理工學院，授課教師：羅翊榕老師",
+    "memo": "機航組，上課地點：國防大學理工學院，授課教師：羅翊榕老師",
     "name": "航太工程概論 Introduction to Aerospace Engineering",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
-    "time": "M8W8-"
+    "time": "T12-"
   },
   "1142_910359": {
     "code": "SESE10031",
@@ -44836,36 +44476,24 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910361",
-    "memo": "調整上課時間為W89。機航組，上課地點：國防大學理工學院",
+    "memo": "機航組，上課地點：國防大學理工學院",
     "name": "能源概論 Introduction to Energy",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "方友霖",
-    "time": "T12-"
-  },
-  "1142_910362": {
-    "code": "SESE10226",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910362",
-    "memo": "(停開)",
-    "name": "新興工程概論 Introduction to Recent Advances in Engineering",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "F467-"
+    "time": "W89-"
   },
   "1142_910363": {
     "code": "SESE10065",
     "credit": "3.00",
     "hours": "3.00",
     "id": "910363",
-    "memo": "調整上課時間為W8F12。機航組，上課地點：國防大學理工學院，授課教師：吳柏緯老師",
+    "memo": "機航組，上課地點：國防大學理工學院，授課教師：吳柏緯老師",
     "name": "材料力學 Mechanics of Materials",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
-    "time": "W12F3-"
+    "time": "W8F12-"
   },
   "1142_910364": {
     "code": "SESE10231",
@@ -44884,23 +44512,23 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910365",
-    "memo": "調整上課時間為W12R1。機航組，上課地點：國防大學理工學院",
+    "memo": "機航組，上課地點：國防大學理工學院",
     "name": "流體力學 Fluid Mechanics",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "賴渝翔",
-    "time": "R1F12-"
+    "time": "W12R1-"
   },
   "1142_910366": {
     "code": "SESE10044",
     "credit": "3.00",
     "hours": "3.00",
     "id": "910366",
-    "memo": "調整授課教師為：系統工程。機航組，上課地點：國防大學理工學院，授課教師：楊承翰老師",
+    "memo": "機航組，上課地點：國防大學理工學院，授課教師：楊承翰老師",
     "name": "應用力學(2)-動力學 Applied Mechanics(2): Dynamics",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "林聰穎",
+    "teacher": "系統工程",
     "time": "R234-"
   },
   "1142_910367": {
@@ -44908,12 +44536,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910367",
-    "memo": "調整上課時間為M34T1。機航組航空班，上課地點：國防大學理工學院，授課教師：夏筱明老師",
+    "memo": "機航組航空班，上課地點：國防大學理工學院",
     "name": "熱力學(2) Thermodynamics (2)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "W67F7-"
+    "teacher": "夏筱明",
+    "time": "M34T1-"
   },
   "1142_910368": {
     "code": "SESE10074",
@@ -44937,7 +44565,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
-    "time": "W34-"
+    "time": "W67-"
   },
   "1142_910370": {
     "code": "SESE10069",
@@ -44963,53 +44591,29 @@
     "teacher": "系統工程",
     "time": "T234-"
   },
-  "1142_910372": {
-    "code": "SESE20262",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910372",
-    "memo": "(停開)",
-    "name": "數控機具 Numerical Control Machine",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "F467-"
-  },
-  "1142_910373": {
-    "code": "SESE20148",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910373",
-    "memo": "(停開)",
-    "name": "旋翼機武器系統 Heliborne Weapon Systems",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "F467-"
-  },
   "1142_910374": {
     "code": "SESE10234",
     "credit": "3.00",
     "hours": "3.00",
     "id": "910374",
-    "memo": "調整上課時間為F346。機航組，上課地點：國防大學理工學院",
+    "memo": "機航組，上課地點：國防大學理工學院",
     "name": "無人機系統概論 Introduction to Ummannd aircraft system operation",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "尤懷德",
-    "time": "F467-"
+    "time": "F346-"
   },
   "1142_910375": {
     "code": "SESE20142",
     "credit": "3.00",
     "hours": "3.00",
     "id": "910375",
-    "memo": "調整授課教師：尤懷德老師。調整上課時間為R12F7。機航組航空班，上課地點：國防大學理工學院",
+    "memo": "機航組航空班，上課地點：國防大學理工學院",
     "name": "熱傳學 Heat Transfer",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "系統工程",
-    "time": "R12F6-"
+    "teacher": "尤懷德",
+    "time": "R12F7-"
   },
   "1142_910376": {
     "code": "SESE20152",
@@ -45040,12 +44644,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910378",
-    "memo": "調整上課時間為W12。機航組航空班，上課地點：國防大學理工學院",
+    "memo": "機航組航空班，上課地點：國防大學理工學院",
     "name": "飛行力學 Flight Mechanics",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "孔健君",
-    "time": "W67-"
+    "time": "W12-"
   },
   "1142_910379": {
     "code": "SESE20146",
@@ -45172,12 +44776,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910389",
-    "memo": "調整授課教師：系統工程。調整上課時間為T678。機航組航空班，上課地點：國防大學理工學院，授課教師：夏筱明老師",
+    "memo": "機航組航空班，上課地點：國防大學理工學院",
     "name": "戰機推進系統 Aircraft Propulsion System",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "夏筱明",
-    "time": "T234-"
+    "time": "T678-"
   },
   "1142_910390": {
     "code": "SESE10231",
@@ -45196,24 +44800,96 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910391",
-    "memo": "調整上課時間為Wabc。機航組，重補修課程，上課地點：國防大學理工學院，授課教師：吳柏緯老師",
+    "memo": "機航組，重補修課程，上課地點：國防大學理工學院，授課教師：吳柏緯老師",
     "name": "流體力學 Fluid Mechanics",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
-    "time": "Tabc-"
+    "time": "Wabc-"
   },
   "1142_910392": {
     "code": "SESE20140",
     "credit": "3.00",
     "hours": "3.00",
     "id": "910392",
-    "memo": "調整上課時間為Tabc。機航組，重補修課程，上課地點：國防大學理工學院，授課教師：吳柏緯老師",
+    "memo": "機航組，重補修課程，上課地點：國防大學理工學院，授課教師：吳柏緯老師",
     "name": "動力學 Dynamics",
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "系統工程",
-    "time": "Wabc-"
+    "time": "Tabc-"
+  },
+  "1142_910393": {
+    "code": "SESE20271",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "910393",
+    "memo": "資工組，上課地點：國防大學理工學院，授課教師：賴志榮老師",
+    "name": "電信網路概論 Introduction to Telecommunication Networks",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "系統工程",
+    "time": "T678-"
+  },
+  "1142_910394": {
+    "code": "SESE20334",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "910394",
+    "memo": "資工組，上課地點：國防大學理工學院，授課教師：袁勤國老師",
+    "name": "網路安全防護 Computer Network Defense ",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "系統工程",
+    "time": "T678-"
+  },
+  "1142_910395": {
+    "code": "SESE00030",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "910395",
+    "memo": "全組，通識選修-社會領域，上課地點：國防大學理工學院，授課教師：鄧宜男老師",
+    "name": "性別教育 Gender Education",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "系統工程",
+    "time": "R34-"
+  },
+  "1142_910396": {
+    "code": "SESE20310",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "910396",
+    "memo": "機航組，上課地點：國防大學理工學院，授課教師：許曆山老師",
+    "name": "燃料電池 Introduction to Fuel Cell",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "系統工程",
+    "time": "F346-"
+  },
+  "1142_910397": {
+    "code": "SESE20335",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "910397",
+    "memo": "電機組，上課地點：國防大學理工學院",
+    "name": "類神經網路 Artificial Neural Networks ",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林振輝",
+    "time": "R34F2-"
+  },
+  "1142_910398": {
+    "code": "SESE10026",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "910398",
+    "memo": "動力組，重補修課程，上課地點：國防大學理工學院",
+    "name": "工程數學(1) Engineering Mathematics(1)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "宋易哲",
+    "time": "Tabc-"
   },
   "1142_960000": {
     "code": "GEMT00003",

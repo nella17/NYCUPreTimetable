@@ -3428,7 +3428,7 @@
     "name": "婦嬰護理學 Maternity Nursing",
     "num_limit": "9999",
     "reg_num": "35",
-    "teacher": "黃久美、蔡慈儀、黃淑鶴、賴鼎璁、陳尹甄、陳淑芬、鍾侑倫",
+    "teacher": "黃久美、蔡慈儀、黃淑鶴、賴鼎璁、陳淑芬、陳尹甄、鍾侑倫",
     "time": "W12345678-YN416[YM]"
   },
   "1142_111808": {
@@ -3440,7 +3440,7 @@
     "name": "婦嬰護理學實習 Maternity Nursing Practice",
     "num_limit": "9999",
     "reg_num": "35",
-    "teacher": "黃久美、李詩敏、王媛、夏惠珍、楊雯如、莊秋萍、陳淑芬、吳惠茹、林思妤、孫志琪、鍾侑倫、呂欣芮、許淳媁",
+    "teacher": "黃久美、陳淑芬、李詩敏、王媛、夏惠珍、楊雯如、莊秋萍、吳惠茹、林思妤、孫志琪、鍾侑倫、呂欣芮、許淳媁",
     "time": "W12345678-"
   },
   "1142_111809": {
@@ -12620,7 +12620,7 @@
     "name": "專題討論：視覺社會史/學(二) Seminar: Social History and Sociology of Visual Cultures Ⅱ ",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "勞維俊、劉瑞琪、王潔瑩、黃桂瑩、葉嘉華",
+    "teacher": "勞維俊、劉瑞琪、王潔瑩、黃桂瑩、葉嘉華、謝一誼",
     "time": "F12-YX322[YM]"
   },
   "1142_133302": {
@@ -12680,7 +12680,7 @@
     "name": "藝術人類學與當代藝術 Anthropology of Contemporary Art",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "謝一誼",
     "time": "R789-YX322[YM]"
   },
   "1142_133500": {
@@ -26011,7 +26011,7 @@
     "memo": "",
     "name": "仿神經形態積體電路與系統 Neuromorphic Integrated Circuits and Systems",
     "num_limit": "70",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "彭盛裕",
     "time": "Mn56-EE220[GF]"
   },
@@ -26371,7 +26371,7 @@
     "memo": "",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "100",
-    "reg_num": "103",
+    "reg_num": "102",
     "teacher": "周世傑",
     "time": "W78-ED219[GF],F56-EDB27[GF]"
   },
@@ -26431,7 +26431,7 @@
     "memo": "",
     "name": "數位訊號處理 Digital Signal Processing",
     "num_limit": "130",
-    "reg_num": "110",
+    "reg_num": "109",
     "teacher": "桑梓賢、鄭耿璽",
     "time": "T8R34-EDB26[GF]"
   },
@@ -26611,7 +26611,7 @@
     "memo": "[English Medium Course]電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程)",
     "name": "生醫工程 Biomedical Engineering",
     "num_limit": "72",
-    "reg_num": "72",
+    "reg_num": "71",
     "teacher": "戴立嘉",
     "time": "M234-EE220[GF]"
   },
@@ -27318,7 +27318,7 @@
     "id": "535514",
     "memo": "資訊學院優先(不開放在職專班網路選課);本課程全由台積電業師授課。",
     "name": "雲原生軟體開發與最佳實踐 Cloud Native Development: towards Best Practice",
-    "num_limit": "110",
+    "num_limit": "60",
     "reg_num": "110",
     "teacher": "曾建超、黃俊龍",
     "time": "Wabc-EC122[GF]"
@@ -44971,7 +44971,7 @@
     "memo": "",
     "name": "全民國防教育軍事訓練課程－防衛動員 All-out Defense Education Military Training-Defense Mobilization",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "51",
     "teacher": "王先正",
     "time": "F56-A104[GF]"
   },

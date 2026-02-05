@@ -2252,7 +2252,7 @@
     "name": "數位醫學專題研究 Introduction to Machine Learning for Digital Healthcare",
     "num_limit": "32",
     "reg_num": "6",
-    "teacher": "陳麗芬、曾意儒、嚴錦城",
+    "teacher": "陳麗芬、曾意儒、甘致群",
     "time": "M78-EE129[GF],M78-YL404[YM]"
   },
   "1142_110184": {
@@ -4280,7 +4280,7 @@
     "name": "臨床工程實務 Workshop in Clinical Engineering",
     "num_limit": "40",
     "reg_num": "26",
-    "teacher": "許如秀、林重榮、林伯剛、郭昭宏、鄭銘輝、凌濼傑、郭哲源、張美玲、鄭淑娟、曾致學、吳思賢",
+    "teacher": "許如秀、林重榮、張誌剛、林伯剛、許志堅、郭昭宏、鄭銘輝、凌濼傑、詹承翰、郭哲源、張美玲、鄭淑娟、曾致學、宋偉廷、吳思賢",
     "time": "T567-YT204[YM]"
   },
   "1142_112118": {
@@ -4828,7 +4828,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "112237",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "運動測試與處方 Exercise Testing and Prescription",
     "num_limit": "50",
     "reg_num": "36",
@@ -5167,7 +5167,7 @@
     "memo": "",
     "name": "放射化學 Radiochemistry",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "38",
     "teacher": "吳駿一、陳傳霖、王信二",
     "time": "R78-YT104[YM]"
   },
@@ -5481,7 +5481,7 @@
     "num_limit": "9999",
     "reg_num": "37",
     "teacher": "吳文沛、陳潤秋、侯貴圓",
-    "time": "T9a-YB458[YM]"
+    "time": "T34-YB458[YM]"
   },
   "1142_112334": {
     "code": "BEIR20016",
@@ -6199,7 +6199,7 @@
     "memo": "醫學系一年級選課需經主課嵇達德老師同意，請填寫手動選課單申請，未經申請者一律擋修。",
     "name": "寄生蟲學 Parasitology",
     "num_limit": "200",
-    "reg_num": "140",
+    "reg_num": "145",
     "teacher": "嵇達德、廖皎君、陳正成",
     "time": "M56-YT001[YM]"
   },
@@ -6223,7 +6223,7 @@
     "memo": "醫學系一年級選課需經主課嵇達德老師同意，請填寫手動選課單申請，未經申請者一律擋修。",
     "name": "寄生蟲學實驗 Parasitology Lab.",
     "num_limit": "150",
-    "reg_num": "138",
+    "reg_num": "143",
     "teacher": "嵇達德、廖皎君",
     "time": "M78-YEC211[YM]"
   },
@@ -6295,7 +6295,7 @@
     "memo": "課程教室將另行通知，限醫學系三年級。本課程為應考公共衛生師指定修習科目。",
     "name": "進階公共衛生議題 Topics in Advanced Public Health",
     "num_limit": "9999",
-    "reg_num": "136",
+    "reg_num": "135",
     "teacher": "周穎政、黃心苑、紀凱獻、李美璇、黃鈺芳、陳信任、潘文驥、張榮偉、林怡君、衛雅樂、陳翎、任一安、顏永豐、劉宗榮",
     "time": "W56-"
   },
@@ -6511,7 +6511,7 @@
     "memo": "醫學人文與社會領域，限醫學系三年級，隔週上課，一次2小時。本課程為應考公共衛生師指定修習科目。",
     "name": "醫事法律 Medical Laws & Regulations",
     "num_limit": "9999",
-    "reg_num": "136",
+    "reg_num": "135",
     "teacher": "楊秀儀",
     "time": "W34-YT001[YM]"
   },
@@ -7028,7 +7028,7 @@
     "name": "生理醫學研究概論 Research Principle in Physiology & Medicine",
     "num_limit": "9999",
     "reg_num": "15",
-    "teacher": "李怡萱、陳志成、洪瑞鴻、廖曉偉",
+    "teacher": "李怡萱、陳志成、洪瑞鴻、盧鴻興、廖曉偉、莊健盈、張聰賢、邱奕穎、陳詩允、洪維廷、吳偉愷",
     "time": "R34-YR103[YM]"
   },
   "1142_130003": {
@@ -10735,7 +10735,7 @@
     "memo": "",
     "name": "生技醫藥產業 Biotechnology in Biomedical Industry",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "黃琤、洪小雅、王世仁、高純琇、紀威光、莊士賢、李應宣、賴瓊雅、陳菀芬、蔡佳哲、柯景懷、蔡士昌、吳舜祺、楊哲權、朱博謙、張書銘、俞宛妮、蔡屹喬、郭恆妙、彭梓涵、陳廷碩",
     "time": "T34-YB101[YM]"
   },
@@ -10867,7 +10867,7 @@
     "memo": "",
     "name": "生技醫學講座(二) Biotechnology and Biomedical Seminar (II)",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "洪小雅、陳卓逸、黃尉倫、江季霖、賴明德、鄭維中、陳振輝、王夢蓮、廖秀蓉、余奕霖",
     "time": "Tn-YB100[YM]"
   },
@@ -15499,7 +15499,7 @@
     "memo": "限經管所碩士生、博士生",
     "name": "論文研討(博士班) Seminar on Business and Management(PhD)",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "38",
     "teacher": "林介鵬、溫金豐、胡均立、劉志諒、陳燕諭、高瑞麟、王勝斌",
     "time": "T56-TB307[BM]"
   },
@@ -16762,18 +16762,6 @@
     "reg_num": "16",
     "teacher": "李曉青、陳文亮",
     "time": "U567-"
-  },
-  "1142_410016": {
-    "code": "BTBT20026",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "410016",
-    "memo": "",
-    "name": "書報討論:A組 Seminar",
-    "num_limit": "0",
-    "reg_num": "1",
-    "teacher": "蘭宜錚",
-    "time": "F34-BI301[BA]"
   },
   "1142_410017": {
     "code": "BTBT20027",
@@ -20694,7 +20682,7 @@
     "id": "515606",
     "memo": "主開：三年級，外系生請於開學後選課階段網路選課，資工系學生優先選課。1.學士班七大主題學程。2.須修過基礎程式設計才可修「網路系統總整與實作」。3.原課名「計算機網路實驗」與「網路系統總整與實作」與新舊課程僅能採計一門為畢業學分，不能重覆採計。4.本系生優先權順序：3年級，4年級，2年級，1年級。",
     "name": "網路系統總整與實作 Network Systems Capstone",
-    "num_limit": "70",
+    "num_limit": "60",
     "reg_num": "38",
     "teacher": "趙禧綠",
     "time": "T34R8-ED301[GF]"
@@ -23706,7 +23694,7 @@
     "id": "519513",
     "memo": "為中醫學系學生開設之課程，其他學系學生選修之學分採計方式請另洽主修教學單位。",
     "name": "心靈成長 Spiritual growth (mentor time)",
-    "num_limit": "9999",
+    "num_limit": "39",
     "reg_num": "39",
     "teacher": "程源中、王美鴻、安勤之",
     "time": "Wn-A209[GF]"
@@ -23971,7 +23959,7 @@
     "memo": "[高雄校區]",
     "name": "工程數學 Engineering Mathematics",
     "num_limit": "77",
-    "reg_num": "58",
+    "reg_num": "57",
     "teacher": "許譽馨",
     "time": "M567-KB402"
   },
@@ -23983,7 +23971,7 @@
     "memo": "[高雄校區]",
     "name": "電磁學(一) Electromagnetics (1)",
     "num_limit": "100",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "林壽煦",
     "time": "R567-KB402"
   },
@@ -23995,7 +23983,7 @@
     "memo": "[高雄校區]",
     "name": "電子學(二) Electronics (2)",
     "num_limit": "100",
-    "reg_num": "59",
+    "reg_num": "58",
     "teacher": "林尚亭、林壽煦",
     "time": "T234-KB402"
   },
@@ -24007,7 +23995,7 @@
     "memo": "[高雄校區]",
     "name": "電腦程式與計算分析(二) Computer Programming and Computational Analysis (2)",
     "num_limit": "100",
-    "reg_num": "59",
+    "reg_num": "58",
     "teacher": "鄭信良",
     "time": "F567-KB402"
   },
@@ -24031,7 +24019,7 @@
     "memo": "[高雄校區] 授課教師：林尚亭",
     "name": "電子學實驗(二) Electronic Laboratory (2)",
     "num_limit": "50",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "林尚亭",
     "time": "W567-KC108"
   },
@@ -26359,7 +26347,7 @@
     "memo": "",
     "name": "記憶體積體電路 Memory Circuit Design",
     "num_limit": "9999",
-    "reg_num": "143",
+    "reg_num": "142",
     "teacher": "謝易叡",
     "time": "M567-ED101[GF]"
   },
@@ -26512,10 +26500,10 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "535238",
-    "memo": "(1)第一次上課：115年3月6日（週五）19:30-21:20在ED116教室。(2)本課程為線上授課，隔週上課，每次兩節課。",
+    "memo": "(1)第一次上課實體課程：115年3月6日（週五）19:30-21:20在ED116教室。(2)本課程為線上授課，隔週上課，每次兩節課。",
     "name": "人工智慧運算架構 AI Compute Architecture",
     "num_limit": "9999",
-    "reg_num": "88",
+    "reg_num": "89",
     "teacher": "梁伯嵩",
     "time": "Fbc-ED116[GF]"
   },
@@ -27079,7 +27067,7 @@
     "memo": "",
     "name": "物理數學 Mathematical Methods for Physicists",
     "num_limit": "80",
-    "reg_num": "80",
+    "reg_num": "81",
     "teacher": "陳智弘",
     "time": "M234-CY202[GF]"
   },
@@ -27500,7 +27488,7 @@
     "name": "敏捷軟體工程：產品探索、開發流程與測試實務 Agile Software Engineering: Product Discovery, Development Process, and Testing Practices",
     "num_limit": "30",
     "reg_num": "60",
-    "teacher": "曾建超",
+    "teacher": "曾建超、柯仁傑",
     "time": "F234-EC329[GF]"
   },
   "1142_535600": {
@@ -27752,7 +27740,7 @@
     "name": "資料探勘 Data Mining",
     "num_limit": "100",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "丁羅邦芸",
     "time": "R567-EC022[GF]"
   },
   "1142_535760": {
@@ -36787,7 +36775,7 @@
     "memo": "第一階段開放選課系級：\n百川3\n機械3\n土木3\n資工3\n電物3\n應數3\n外文3\n生科3\n半導體3",
     "name": "體育－游泳初學甲 Fundamental Swimming",
     "num_limit": "40",
-    "reg_num": "24",
+    "reg_num": "23",
     "teacher": "林國威",
     "time": "T56-PE[GF]"
   },
@@ -36823,7 +36811,7 @@
     "memo": "第一階段開放選課系級：\n百川3\n機械3\n土木3\n資工3\n電物3\n應數3\n外文3\n生科3\n半導體3",
     "name": "體育－棒球甲 Baseball",
     "num_limit": "40",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "黃杉楹",
     "time": "T56-PE[GF]"
   },

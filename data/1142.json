@@ -5167,7 +5167,7 @@
     "memo": "",
     "name": "放射化學 Radiochemistry",
     "num_limit": "9999",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "吳駿一、陳傳霖、王信二",
     "time": "R78-YT104[YM]"
   },
@@ -5179,7 +5179,7 @@
     "memo": "[English Medium Course]",
     "name": "放射化學實驗 Radiochemistry Lab.",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "吳駿一、王信二",
     "time": "M234-YB458[YM]"
   },
@@ -5191,7 +5191,7 @@
     "memo": "",
     "name": "放射生物學 Radiation Biology",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "李易展、莊惠燕、張御展、黃正仲",
     "time": "M56-YT206[YM]"
   },
@@ -5203,7 +5203,7 @@
     "memo": "",
     "name": "放射物理學(二) Radiation Physics",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "吳東信",
     "time": "T34-YB102[YM]"
   },
@@ -5215,7 +5215,7 @@
     "memo": "",
     "name": "放射物理學實驗(二)(A) Radiation Physics Lab.",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "吳杰",
     "time": "M78-YB118[YM]"
   },
@@ -5335,7 +5335,7 @@
     "memo": "導師時間",
     "name": "知性與感性時間(二)-基礎服務學習 Time for Instruction and Inspiration (2) -Basic service learning",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "李易展",
     "time": "W34-YT303[YM]"
   },
@@ -5395,7 +5395,7 @@
     "memo": "[English Medium Course]",
     "name": "生物化學概論 Introduction to Biochemistry",
     "num_limit": "60",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "李易展、莊惠燕、張御展",
     "time": "T56-YB101[YM]"
   },
@@ -6079,7 +6079,7 @@
     "memo": "不開放校際選修及隨班附讀。",
     "name": "生理學 Physiology",
     "num_limit": "158",
-    "reg_num": "160",
+    "reg_num": "159",
     "teacher": "吳鈺琳、陳政育、阮琪昌、李怡萱、林惠菁、張原翊、簡千栩、吳莉玲、唐德成",
     "time": "W12R34-YX406[YM]"
   },
@@ -6091,7 +6091,7 @@
     "memo": "不開放隨班附讀及跨校選修。",
     "name": "生理學實驗 Physiology Lab.",
     "num_limit": "126",
-    "reg_num": "107",
+    "reg_num": "106",
     "teacher": "吳莉玲、吳鈺琳、阮琪昌、李怡萱、林惠菁、張原翊、簡千栩、唐德成、巫俊杉",
     "time": "W5678-YED214[YM]"
   },
@@ -6620,7 +6620,7 @@
     "name": "中醫病理學  Chinese Medicine-Pathology",
     "num_limit": "40",
     "reg_num": "25",
-    "teacher": "洪裕強",
+    "teacher": "洪裕強、陳朝宗",
     "time": "R567-YK912[YM]"
   },
   "1142_113909": {
@@ -8012,7 +8012,7 @@
     "name": "組織學 Histology",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "李學德、呂春敏、傅毓秀、葉添順、王先逸、郭曉縈、蔣偉程",
+    "teacher": "李學德、呂春敏、傅毓秀、葉添順、鄭瓊娟、王先逸、郭曉縈、蔣偉程",
     "time": "M12R12-YEA100[YM]"
   },
   "1142_130410": {
@@ -9788,7 +9788,7 @@
     "name": "口腔組織工程與生技材料專題討論 Oral Tissue Engineering and Biomaterials Panel Discussion",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "黃何雄、李士元、張國威、林元敏、林嘉澍、林宥成、王鼎涵、林榮辰、陳翾、林坤志",
+    "teacher": "黃何雄、李士元、張國威、林元敏、林嘉澍、林宥成、王鼎涵、林榮辰、陳翾、蘇真瑩、林坤志",
     "time": "Rn5-YD302[YM]"
   },
   "1142_131602": {
@@ -18260,7 +18260,7 @@
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "9999",
     "reg_num": "51",
-    "teacher": "待聘",
+    "teacher": "陳名一",
     "time": "F34-CS-PC4[GF]"
   },
   "1142_514101": {
@@ -24741,7 +24741,7 @@
     "num_limit": "30",
     "reg_num": "21",
     "teacher": "羅仕宇",
-    "time": "T234-HB216[GF]"
+    "time": "T234-HB204[GF]"
   },
   "1142_534303": {
     "code": "HSCS30040",
@@ -25891,7 +25891,7 @@
     "memo": "[English Medium Course]",
     "name": "創業實作 Practice in Entrepreneurship",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "黃經堯",
     "time": "M234-ED101[GF]"
   },
@@ -26083,7 +26083,7 @@
     "memo": "",
     "name": "電子專題研討(系統組) Seminar on Electronics-Circuits and Systems",
     "num_limit": "120",
-    "reg_num": "84",
+    "reg_num": "83",
     "teacher": "溫    岸",
     "time": "T56-ED116[GF]"
   },
@@ -26107,7 +26107,7 @@
     "memo": "僅開放電子所學生選課（預備研究生洽承辦人加選）",
     "name": "專題研究 Graduate Research",
     "num_limit": "9999",
-    "reg_num": "356",
+    "reg_num": "355",
     "teacher": "電子所",
     "time": ""
   },
@@ -26347,7 +26347,7 @@
     "memo": "",
     "name": "記憶體積體電路 Memory Circuit Design",
     "num_limit": "9999",
-    "reg_num": "142",
+    "reg_num": "141",
     "teacher": "謝易叡",
     "time": "M567-ED101[GF]"
   },
@@ -26395,7 +26395,7 @@
     "memo": "",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "100",
-    "reg_num": "102",
+    "reg_num": "101",
     "teacher": "周世傑",
     "time": "W78-ED219[GF],F56-EDB27[GF]"
   },
@@ -26407,7 +26407,7 @@
     "memo": "",
     "name": "計算機結構 Computer Architecture",
     "num_limit": "100",
-    "reg_num": "95",
+    "reg_num": "94",
     "teacher": "劉志尉",
     "time": "F234-ED219[GF]"
   },
@@ -26431,7 +26431,7 @@
     "memo": "[English Medium Course]",
     "name": "機器學習智能晶片設計 Machine Learning Intelligent Chip Design",
     "num_limit": "130",
-    "reg_num": "66",
+    "reg_num": "64",
     "teacher": "陳坤志",
     "time": "W234-ED219[GF]"
   },
@@ -26443,7 +26443,7 @@
     "memo": "",
     "name": "Memory Centric Computing 特論 Special Topics on Memory Centric Computing",
     "num_limit": "9999",
-    "reg_num": "75",
+    "reg_num": "74",
     "teacher": "林英超",
     "time": "R678-EDB01[GF]"
   },
@@ -26455,7 +26455,7 @@
     "memo": "",
     "name": "數位訊號處理 Digital Signal Processing",
     "num_limit": "130",
-    "reg_num": "109",
+    "reg_num": "107",
     "teacher": "桑梓賢、鄭耿璽",
     "time": "T8R34-EDB26[GF]"
   },
@@ -27955,7 +27955,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "106",
+    "reg_num": "105",
     "teacher": "阿圖爾Artur Useinov",
     "time": "W567-AB101[GF]"
   },
@@ -29744,7 +29744,7 @@
     "name": "生物感測器特論 Introduction of Biosensors",
     "num_limit": "9999",
     "reg_num": "28",
-    "teacher": "廖韋晴",
+    "teacher": "廖韋晴、陳胤全、郭津岑",
     "time": "Wn56-EE129[GF],Wn56-YL404[YM]"
   },
   "1142_536850": {
@@ -33691,7 +33691,7 @@
     "memo": "限科法博、科法所、科法專班同學選修",
     "name": "法學雜誌編輯(一) Law Review Editing [Ⅰ]",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "郭詠華",
     "time": "U12-MB1063[GF]"
   },
@@ -34054,18 +34054,6 @@
     "reg_num": "7",
     "teacher": "林苕吟",
     "time": "M56-A203[GF]"
-  },
-  "1142_561023": {
-    "code": "GECG10054",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "561023",
-    "memo": "本課程網路選課為主，不開放加簽。",
-    "name": "生活中的腦科學 Brain Science in Daily Life",
-    "num_limit": "0",
-    "reg_num": "50",
-    "teacher": "林校群",
-    "time": "M78-A203[GF]"
   },
   "1142_561024": {
     "code": "GECG10054",
@@ -37399,7 +37387,7 @@
     "memo": "",
     "name": "體育－游泳 Swimming",
     "num_limit": "40",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "林國威",
     "time": "T34-PE[GF]"
   },

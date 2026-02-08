@@ -19087,7 +19087,7 @@
     "memo": "[English Medium Course]R1為助教時間",
     "name": "電磁學(英文班) Electromagnetics",
     "num_limit": "100",
-    "reg_num": "100",
+    "reg_num": "99",
     "teacher": "黃謀勤、林群祐",
     "time": "M56R12-EDB26[GF]"
   },
@@ -23742,7 +23742,7 @@
     "id": "519518",
     "memo": "",
     "name": "什麼是法律？ — 法理學初探 What Is Law: An Introduction to Legal Theory",
-    "num_limit": "134",
+    "num_limit": "120",
     "reg_num": "120",
     "teacher": "程源中",
     "time": "R567-A103[GF]"

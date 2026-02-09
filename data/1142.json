@@ -2924,7 +2924,7 @@
     "name": "咬合學 Occlusion",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "張景智、林嘉澍、陳岱茜、陳正毅、黃柏元、張志麟、張采宇、許明倫",
+    "teacher": "張景智、林嘉澍、陳岱茜、黃柏元、張采宇、許明倫",
     "time": "T1234F1234-YD210[YM]"
   },
   "1142_111524": {
@@ -2936,7 +2936,7 @@
     "name": "咬合學實驗 Occlusion Lab.",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "張景智、林嘉澍、耿藝文、黃柏元、姚光大、張采宇、許明倫",
+    "teacher": "張景智、林嘉澍、耿藝文、黃柏元、張志麟、張采宇、陳大中",
     "time": "T1234F12345678-YD210[YM]"
   },
   "1142_111525": {
@@ -3008,7 +3008,7 @@
     "name": "全口贋復學 Complete Denture Prosthodontics",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "張景智、張志麟、姚光大、謝旻杰、許明倫",
+    "teacher": "張景智、張志麟、謝旻杰",
     "time": "M12-YD105[YM]"
   },
   "1142_111531": {
@@ -20024,7 +20024,7 @@
     "name": "超大型積體電路設計導論 Introduction to VLSI Design",
     "num_limit": "60",
     "reg_num": "-999",
-    "teacher": "半導體系",
+    "teacher": "楊智喬",
     "time": "W9ab-ED103[GF]"
   },
   "1142_515213": {
@@ -24066,7 +24066,7 @@
     "id": "520026",
     "memo": "",
     "name": "微積分 Calculus",
-    "num_limit": "9999",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "許譽馨",
     "time": "M89a-SC162[GF]"
@@ -24078,7 +24078,7 @@
     "id": "520027",
     "memo": "",
     "name": "數位電路設計 Digital Circuit Design",
-    "num_limit": "9999",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "林尚亭",
     "time": "R567-SC109[GF]"
@@ -39908,7 +39908,7 @@
     "name": "光電子學 Optical Electronics",
     "num_limit": "48",
     "reg_num": "-999",
-    "teacher": "光電學院",
+    "teacher": "簡靖航",
     "time": "M234-CM218[GR]"
   },
   "1142_638002": {

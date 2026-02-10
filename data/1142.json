@@ -1856,7 +1856,7 @@
     "name": "社區醫學實習 Community Medicine Practice",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林明慧、陳方佩、彭莉甯、張清貿、龔彥穎、王崇仁、林長熙、蔡世滋、徐永年、林雨亭、詹益祥、蕭學誠、陳冠宇、何叔芳、陳珀勳、羅文林、林明憲、劉瑞瑤、楊仁鄰、林宜璇、黃安君、戴月明、余儀呈、陳冠群、陳柏菁、余文瑞、吳大鵬、何清幼、陳怡君、林安民、黃仲禹、戴英修、施子健、劉浩彥、朱豐沅、鄭博仁、楊博欽、廖廣榆、劉雅安、王怡人、王玥心、李蕙君、林譽家、黃信得、王正淵、吳彬源、林信利、邱政宏、洪德仁、賴志冠、朱柔澍、張曉婷",
+    "teacher": "林明慧、陳方佩、彭莉甯、張清貿、龔彥穎、王崇仁、林長熙、蔡世滋、徐永年、林雨亭、詹益祥、蕭學誠、陳冠宇、何叔芳、陳珀勳、羅文林、林明憲、劉瑞瑤、楊仁鄰、林宜璇、黃安君、戴月明、余儀呈、陳冠群、陳柏菁、余文瑞、吳大鵬、何清幼、陳怡君、林安民、黃仲禹、戴英修、施子健、劉浩彥、朱豐沅、鄭博仁、楊博欽、廖廣榆、劉雅安、王怡人、王玥心、李蕙君、林譽家、馬欣、黃信得、王正淵、吳彬源、林信利、邱政宏、洪德仁、賴志冠、朱柔澍、張曉婷",
     "time": "R5678-YT001[YM]"
   },
   "1142_110151": {
@@ -2924,7 +2924,7 @@
     "name": "咬合學 Occlusion",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "張景智、林嘉澍、陳岱茜、黃柏元、張采宇、許明倫",
+    "teacher": "張景智、林嘉澍、陳岱茜、黃柏元、張志麟、陳大中、許明倫",
     "time": "T1234F1234-YD210[YM]"
   },
   "1142_111524": {
@@ -2936,7 +2936,7 @@
     "name": "咬合學實驗 Occlusion Lab.",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "張景智、林嘉澍、耿藝文、黃柏元、張志麟、張采宇、陳大中",
+    "teacher": "張景智、林嘉澍、耿藝文、黃柏元、張志麟",
     "time": "T1234F12345678-YD210[YM]"
   },
   "1142_111525": {
@@ -3752,7 +3752,7 @@
     "name": "國際藥學研究 International Pharmacy Research Experience",
     "num_limit": "0",
     "reg_num": "-999",
-    "teacher": "胡德民、王孟廷、林滿玉、陳日榮、林宥欣、廖曉偉",
+    "teacher": "吳宗軒、王孟廷、林滿玉、陳日榮、林宥欣、陳惠亭、廖曉偉",
     "time": ""
   },
   "1142_111918": {
@@ -4400,7 +4400,7 @@
     "name": "實證醫學概論 Introduction to Evidence-Based Medicine",
     "num_limit": "45",
     "reg_num": "-999",
-    "teacher": "施惠婷、黃淑鶴、陳詠宸、黃安華",
+    "teacher": "施惠婷",
     "time": "W7-YB624[YM]"
   },
   "1142_112201": {
@@ -4508,7 +4508,7 @@
     "name": "皮膚系統物理治療學 Integumentary Physical Therapy",
     "num_limit": "45",
     "reg_num": "-999",
-    "teacher": "王子娟、彭成康、林之勛、王天祥、陳梅君、翁立窈、宋有礪、陳偉修、莊惇雅、林家穗、涂育嫺",
+    "teacher": "王子娟、林之勛、王天祥、陳梅君、宋有礪、陳偉修、莊惇雅、林家穗、涂育嫺",
     "time": "M5-YB624[YM]"
   },
   "1142_112210": {
@@ -4760,7 +4760,7 @@
     "name": "物理因子治療學(二) Therapeutic Physical Agents(II)",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "楊雅如、陳博因、蔡佩玲、董阜玲、杜俊宏、黃安華",
+    "teacher": "楊雅如、施惠婷、陳博因、蔡佩玲、董阜玲、杜俊宏、黃安華",
     "time": "F12-YB601[YM]"
   },
   "1142_112231": {
@@ -4772,7 +4772,7 @@
     "name": "物理因子治療學實作 Therapeutic Physical Agents Lab",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "楊雅如、陳博因、蔡佩玲、董阜玲、邵芙昕、施宇信、黃安華",
+    "teacher": "楊雅如、施惠婷、陳博因、蔡佩玲、董阜玲、邵芙昕、施宇信、黃安華",
     "time": "F34-YB601[YM]"
   },
   "1142_112232": {
@@ -4844,7 +4844,7 @@
     "name": "運動測試與處方 Exercise Testing and Prescription",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "陳博因、吳若嫣",
+    "teacher": "陳博因、黃郁潔、吳若嫣",
     "time": "M34-YB602[YM]"
   },
   "1142_112238": {
@@ -4880,7 +4880,7 @@
     "name": "呼吸循環物理治療學(二) Cardiovascular and Pulmonary Physical Therapy (II)",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "陳喬男、黃心怡、黃睦升、賴亮穎、滕婷、吳佳恩、蕭琬蓁、陳立唯、洪素鶯",
+    "teacher": "陳喬男、黃郁潔、黃心怡、黃睦升、賴亮穎、滕婷、吳佳恩、蕭琬蓁、陳立唯、洪素鶯",
     "time": "R12-YB601[YM]"
   },
   "1142_112241": {
@@ -4892,7 +4892,7 @@
     "name": "呼吸循環物理治療學實作 Cardiovascular and Pulmonary Physical Therapy Practicum",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳喬男、黃心怡、黃睦升、賴亮穎、滕婷、吳佳恩、蕭琬蓁、陳立唯、洪素鶯",
+    "teacher": "陳喬男、黃郁潔、黃心怡、黃睦升、賴亮穎、滕婷、吳佳恩、蕭琬蓁、陳立唯、洪素鶯",
     "time": "R34-YB601[YM]"
   },
   "1142_112242": {
@@ -5132,7 +5132,7 @@
     "name": "女性健康物理治療 Women Health in Physical Therapy",
     "num_limit": "20",
     "reg_num": "-999",
-    "teacher": "王子娟、余堅忍、謝妮芸、陳怡同、蔡亞倫、閻永珍",
+    "teacher": "王子娟、余堅忍、張家銘、謝妮芸、陳怡同、蔡亞倫、閻永珍",
     "time": "Sbc-YB601[YM]"
   },
   "1142_112262": {
@@ -8668,7 +8668,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "130817",
-    "memo": "雙數周上課",
+    "memo": "",
     "name": "1142毒藥物環境流行病學專題討論 1142 Seminars on Toxicoepidemiology and Pharmacoepidemiology",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -12092,8 +12092,8 @@
     "name": "專題討論(A) Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳美瑜、郭津岑、姜為中、張崇德",
-    "time": "T78-YC501[YM]"
+    "teacher": "許翺麟、游麗如、黃介嶸、陳鴻震、曾炳輝、張崇德",
+    "time": "R78-YC501[YM]"
   },
   "1142_132902": {
     "code": "LSBM30011",
@@ -12104,8 +12104,8 @@
     "name": "專題討論(C) Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "鄭子豪、游麗如、許翺麟、陳威儀、蔡有光",
-    "time": "R78-YC501[YM]"
+    "teacher": "鄭子豪、陳美瑜、郭津岑、蔡有光、廖韋晴",
+    "time": "F78-YC501[YM]"
   },
   "1142_132903": {
     "code": "LSBM30047",
@@ -12200,8 +12200,8 @@
     "name": "專題討論(B) Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黃介嶸、王琬菁、曾炳輝、廖韋晴",
-    "time": "R78-YC516[YM]"
+    "teacher": "王琬菁、陳威儀、陳鴻震、姜為中",
+    "time": "T78-YC516[YM]"
   },
   "1142_132911": {
     "code": "LSBM30052",
@@ -15056,7 +15056,7 @@
     "name": "瑜珈：從歷史到現代實踐 Yoga: From History to Modern Practice",
     "num_limit": "35",
     "reg_num": "-999",
-    "teacher": "Paloma Valeria Muñoz Gomez",
+    "teacher": "Paloma Valeria Muñoz Gómez",
     "time": "T12-YB102[YM]"
   },
   "1142_161044": {
@@ -15268,7 +15268,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162010",
-    "memo": "北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽語言學習與寫作中心(llwc@nycu.edu.tw）辦理。",
+    "memo": "北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽語言學習與寫作中心(llwc@nycu.edu.tw）辦理。如為滿額課程，請同學於2月26日 上午 9:00前送加簽單至語寫中心，語寫中心於2月26日上午10:00辦理加簽抽籤。",
     "name": "日文(一) Japanese(I)",
     "num_limit": "36",
     "reg_num": "-999",
@@ -15340,7 +15340,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162016",
-    "memo": "[English Medium Course]全英語授課，為維持教學品質，限制修課人數。如有選課問題請洽語言學習與寫作中心(llwc@nycu.edu.tw）。",
+    "memo": "[English Medium Course]全英語授課，為維持教學品質，限制修課人數。如為滿額課程，請同學於2月26日 上午 9:00前送加簽單至語寫中心，語寫中心於2月26日上午10:00辦理加簽抽籤。如有選課問題請洽語言學習與寫作中心(llwc@nycu.edu.tw）。",
     "name": "新聞英文 Newspaper English",
     "num_limit": "30",
     "reg_num": "-999",
@@ -15352,7 +15352,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162017",
-    "memo": "[English Medium Course]全英語授課，為維持教學品質，限制修課人數。如有選課問題請洽語言學習與寫作中心(llwc@nycu.edu.tw）。",
+    "memo": "[English Medium Course]全英語授課，為維持教學品質，限制修課人數。如為滿額課程，請同學於2月26日 上午 9:00前送加簽單至語寫中心，語寫中心於2月26日上午10:00辦理加簽抽籤。如有選課問題請洽語言學習與寫作中心(llwc@nycu.edu.tw）。",
     "name": "新聞英文 Newspaper English",
     "num_limit": "30",
     "reg_num": "-999",
@@ -18201,7 +18201,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "曾聖凱",
-    "time": "T34-HC104[GF]"
+    "time": "T56-HA107[GF]"
   },
   "1142_514031": {
     "code": "HSCH20018",
@@ -18694,6 +18694,18 @@
     "reg_num": "-999",
     "teacher": "馬紹芸",
     "time": "T234-HB206[GF]"
+  },
+  "1142_514137": {
+    "code": "HSFL20032",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "514137",
+    "memo": "",
+    "name": "簡報素養與傳達技巧 Presentation Literacy and Delivery Skills",
+    "num_limit": "15",
+    "reg_num": "-999",
+    "teacher": "周昭廷",
+    "time": "T234-HC102[GF]"
   },
   "1142_515000": {
     "code": "EEEC10002",
@@ -21428,7 +21440,7 @@
     "name": "工程數學(二) Engineering Mathematics(II)",
     "num_limit": "60",
     "reg_num": "-999",
-    "teacher": "郭心怡、辛炯燁",
+    "teacher": "辛炯燁",
     "time": "T234-EB227[GF]"
   },
   "1142_516214": {
@@ -27750,7 +27762,7 @@
     "id": "535703",
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&amp;1年級；博士班資格考考核科目；數據科學與工程研究所二選一",
     "name": "資料探勘 Data Mining",
-    "num_limit": "100",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "丁羅邦芸",
     "time": "R567-EC022[GF]"
@@ -30370,18 +30382,6 @@
     "reg_num": "-999",
     "teacher": "陳宗岡",
     "time": "R567-M302[GF]"
-  },
-  "1142_537025": {
-    "code": "MGMS30146",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "537025",
-    "memo": "需先修過財務報表分析、信用風險與應用。",
-    "name": "財務會計與信用風險論文研討(二) Research Seminar on Financial  Accounting and Credit Risk (II)",
-    "num_limit": "0",
-    "reg_num": "-999",
-    "teacher": "陳宗岡",
-    "time": "F89a-M302[GF]"
   },
   "1142_537026": {
     "code": "MGMS30147",
@@ -33644,7 +33644,7 @@
     "name": "全球人工智慧治理(英文授課) Global Artificial Intelligence Governance",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "David Socol de la Osa",
     "time": "U7-"
   },
   "1142_557916": {
@@ -33680,7 +33680,7 @@
     "name": "智慧財產案件審理法 Intellectual Property Case Adjudication Act",
     "num_limit": "30",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "李維心",
     "time": "Mab-TA505[BM]"
   },
   "1142_557920": {
@@ -34470,7 +34470,7 @@
     "id": "561057",
     "memo": "1.本課程期望創造醫療與科技跨領域的對話，選課學生設定為光復校區學生以及陽明校區至光復校區的共學生，各25人。2.第1至第3初選階段，「光復校區學生」以網路選課為主，「陽明校區至光復校區的共學生」至https://forms.gle/BnQZGbia2SNmj17A8登記選課意願。3. 開學加退選階段大四~大二優先選課。",
     "name": "科技與醫療的人文關懷 Humanism in Technology and Medical Cares",
-    "num_limit": "35",
+    "num_limit": "36",
     "reg_num": "-999",
     "teacher": "黃育綸、陳俞琪、程千芳、林承霈、林士平、王美鴻",
     "time": "R56-A202[GF]"
@@ -39167,18 +39167,6 @@
     "teacher": "高正忠",
     "time": "T34-A302[GF]"
   },
-  "1142_569010": {
-    "code": "GESP00006",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "569010",
-    "memo": "大學部。",
-    "name": "綠色科技與永續發展探索 Exploring the Green Technology in Sustainable Development",
-    "num_limit": "40",
-    "reg_num": "-999",
-    "teacher": "張佳智",
-    "time": "T78-EA101[GF]"
-  },
   "1142_571000": {
     "code": "GESL00011",
     "credit": "2.00",
@@ -41848,7 +41836,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910110",
-    "memo": "機航組，上課地點：國防大學理工學院，授課教師：劉瀚嶸老師",
+    "memo": "機航組，上課地點：國防大學理工學院，授課教師：羅金棟老師",
     "name": "大陸問題研究 Studies on Mainland China",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -41980,7 +41968,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "910122",
-    "memo": "機航組，上課地點：國防大學理工學院，授課教師：鄧宜男老師",
+    "memo": "機航組，上課地點：國防大學理工學院，授課教師：徐銘敬老師",
     "name": "心理學 Psychology",
     "num_limit": "9999",
     "reg_num": "-999",

@@ -2683,7 +2683,7 @@
     "memo": "",
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "10",
-    "reg_num": "39",
+    "reg_num": "7",
     "teacher": "林怡彣",
     "time": "W34-YD214[YM]"
   },
@@ -2707,7 +2707,7 @@
     "memo": "",
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "6",
     "teacher": "季麟揚",
     "time": "W34-YD214[YM]"
   },
@@ -2719,7 +2719,7 @@
     "memo": "",
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "黃何雄",
     "time": "W34-YD214[YM]"
   },
@@ -2731,7 +2731,7 @@
     "memo": "",
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "10",
-    "reg_num": "0",
+    "reg_num": "6",
     "teacher": "涂曦丰",
     "time": "W34-YD214[YM]"
   },
@@ -3343,7 +3343,7 @@
     "memo": "",
     "name": "導師時間(二) Class Meeting(II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "7",
     "teacher": "蘇真瑩",
     "time": "W34-YD214[YM]"
   },
@@ -35011,7 +35011,7 @@
     "memo": "保留大一優先選課，此課程於開學加退選階段開放大二以上同學選修。",
     "name": "英文跨文化溝通 Intercultural Communication in English",
     "num_limit": "25",
-    "reg_num": "17",
+    "reg_num": "18",
     "teacher": "吳舜華",
     "time": "R12-A217[GF]"
   },
@@ -35503,7 +35503,7 @@
     "memo": "第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課",
     "name": "日文(一) Japanese(I)",
     "num_limit": "35",
-    "reg_num": "37",
+    "reg_num": "38",
     "teacher": "賴薇如",
     "time": "T12-A307[GF]"
   },
@@ -39139,7 +39139,7 @@
     "memo": "限大二以上。本課程採用非同步及同步遠距教學;但第一週實體教室上課。\n擋修【淨零碳規劃管理與碳盤查程序】\n",
     "name": "淨零碳規劃管理與碳盤查 Net Zero Management and Greenhouse Gas Inventory",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "24",
     "teacher": "高正忠、黃文輝",
     "time": "T56-AB102[GF]"
   },

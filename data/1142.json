@@ -21103,7 +21103,7 @@
     "memo": "核心選修課程(感測與控制系統)。開3/4年級",
     "name": "自動控制（二） Automatic Control (II)",
     "num_limit": "35",
-    "reg_num": "39",
+    "reg_num": "40",
     "teacher": "李安謙",
     "time": "Wabc-EE132[GF]"
   },
@@ -31614,7 +31614,7 @@
     "id": "537922",
     "memo": "開放大三以上同學選修",
     "name": "法與心理學 Law and Psychology",
-    "num_limit": "20",
+    "num_limit": "25",
     "reg_num": "20",
     "teacher": "金孟華",
     "time": "T34-MB1069[GF]"
@@ -34219,7 +34219,7 @@
     "memo": "",
     "name": "音樂理論導論 Introduction to Music Theory",
     "num_limit": "40",
-    "reg_num": "28",
+    "reg_num": "29",
     "teacher": "洪億津",
     "time": "M56-A102[GF]"
   },
@@ -39139,7 +39139,7 @@
     "memo": "限大二以上。本課程採用非同步及同步遠距教學;但第一週實體教室上課。\n擋修【淨零碳規劃管理與碳盤查程序】\n",
     "name": "淨零碳規劃管理與碳盤查 Net Zero Management and Greenhouse Gas Inventory",
     "num_limit": "30",
-    "reg_num": "24",
+    "reg_num": "26",
     "teacher": "高正忠、黃文輝",
     "time": "T56-AB102[GF]"
   },
@@ -39175,7 +39175,7 @@
     "memo": "限大二以上。",
     "name": "循環經濟與實務 Circular Economy and Practices",
     "num_limit": "30",
-    "reg_num": "24",
+    "reg_num": "25",
     "teacher": "高正忠",
     "time": "T34-A302[GF]"
   },

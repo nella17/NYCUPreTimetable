@@ -2228,7 +2228,7 @@
     "name": "組織學實驗 Histology Laboratory",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "傅毓秀、鄭瓊娟、李學德、郭曉縈、蔣偉程、彭淑婷、劉皓云、蔡國樞",
+    "teacher": "傅毓秀、鄭瓊娟、李學德、郭曉縈、蔣偉程、林坤陽、彭淑婷、劉皓云、蔡國樞",
     "time": "M1234T12345678W12R12345678F1234-YT001[YM]"
   },
   "1142_110182": {
@@ -23985,7 +23985,7 @@
     "num_limit": "77",
     "reg_num": "-999",
     "teacher": "陳慶永",
-    "time": "M567-"
+    "time": "M567-KB302"
   },
   "1142_520018": {
     "code": "XDEP10015",
@@ -24021,7 +24021,7 @@
     "num_limit": "100",
     "reg_num": "-999",
     "teacher": "陳慶永",
-    "time": "F567-"
+    "time": "F567-KB202"
   },
   "1142_520021": {
     "code": "XDEP10019",
@@ -24117,7 +24117,7 @@
     "num_limit": "50",
     "reg_num": "-999",
     "teacher": "陳慶永",
-    "time": "R234-"
+    "time": "R234-KB202"
   },
   "1142_530000": {
     "code": "GELT30003",
@@ -27594,7 +27594,7 @@
     "id": "535605",
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
     "name": "賽局理論及應用 Game Theory and Its Applications",
-    "num_limit": "86",
+    "num_limit": "100",
     "reg_num": "-999",
     "teacher": "嚴力行",
     "time": "T34-ED117[GF]"
@@ -31305,7 +31305,7 @@
     "num_limit": "12",
     "reg_num": "-999",
     "teacher": "陳詩欣",
-    "time": "Mn56-A722[GF]"
+    "time": "M34n-A722[GF]"
   },
   "1142_537811": {
     "code": "MGMT30091",
@@ -43504,7 +43504,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910277",
-    "memo": "環資組大氣班，上課地點：國防大學理工學院，授課教師：王牧宇老師",
+    "memo": "預計調整上課時間為T4F13。環資組大氣班，上課地點：國防大學理工學院，授課教師：王牧宇老師",
     "name": "數值天氣預報及實習 Numerical Weather Prediction and Practice",
     "num_limit": "9999",
     "reg_num": "-999",

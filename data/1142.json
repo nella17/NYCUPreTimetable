@@ -6320,7 +6320,7 @@
     "name": "進階公共衛生議題 Topics in Advanced Public Health",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "周穎政、黃心苑、紀凱獻、李美璇、黃鈺芳、陳信任、潘文驥、張榮偉、林怡君、衛雅樂、陳翎、任一安、顏永豐、劉宗榮",
+    "teacher": "周穎政、黃心苑、陳娟瑜、紀凱獻、李美璇、陳信任、張榮偉、林怡君、衛雅樂、陳翎、任一安、顏永豐、劉宗榮",
     "time": "W56-"
   },
   "1142_113503": {
@@ -6436,9 +6436,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113804",
-    "memo": "本課程上課地點為陽明校區，開放陽明校區大學部學生選課，並認列為領域課程(通識)。醫學系與智慧健康照護跨域學程可認列為\"醫學人文與倫理領域-醫學人文類\"，但僅能在\"醫學人文與倫理領域\"與\"通識領域\"學分中擇一計算，若欲計算通識學分，請至領域課程中選修本課。",
+    "memo": "本課因老師身體健康緣故，本學期將暫停開課。造成不便敬請見諒。",
     "name": "如果心理健康是重要的 Mental Health Matters",
-    "num_limit": "25",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "黃宣穎、雷文玫",
     "time": "M78-YT204[YM]"
@@ -7461,7 +7461,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "駱雨利",
-    "time": "W234-YR508[YM]"
+    "time": "M234-YR508[YM]"
   },
   "1142_130124": {
     "code": "MDPA30072",
@@ -9500,7 +9500,7 @@
     "name": "臨床牙醫學專題討論(二)(碩士班) Seminar of Clinical Dentistry ( II )",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林元敏、季麟揚、黃何雄、楊政杰、涂曦丰、林嘉澍、林宥成、吳靜宜、洪凱風、王鼎涵、陳翾、曾柏鈞、林怡君、吳姿瑩、許明倫",
+    "teacher": "林元敏、季麟揚、黃何雄、楊政杰、涂曦丰、林嘉澍、林宥成、吳靜宜、洪凱風、王鼎涵、陳翾、曾柏鈞、林怡君、吳姿瑩、王敏靜、許明倫",
     "time": "T56-YD302[YM]"
   },
   "1142_131401": {
@@ -11108,7 +11108,7 @@
     "name": "物理治療實證醫學 Evidence-based Practice in Physical Therapy",
     "num_limit": "40",
     "reg_num": "-999",
-    "teacher": "李雪楨、王子娟、王瑞瑤、施怡芬、楊雅如、周立偉、陳喬男、游忠煌、黃淑鶴、羅鴻基、林吟亮、黃崇舜、施惠婷、陳博因、穆佩芬、黃志忠、李思平、黃安華",
+    "teacher": "李雪楨、王子娟、王瑞瑤、施怡芬、楊雅如、周立偉、陳喬男、游忠煌、黃淑鶴、羅鴻基、林吟亮、黃崇舜、施惠婷、陳博因、穆佩芬、黃志忠、李思平、黃昭竣、黃安華",
     "time": "T234-YB603[YM]"
   },
   "1142_132402": {
@@ -12846,7 +12846,7 @@
     "id": "133600",
     "memo": "1.原則上為全英語授課課程，如有異動，會提前通知。\n2.本課程原則上僅限本校生命科學院學生(含大學部)及藥物科學院生物藥學研究所學生修習,其他學生如欲修課,需經本院審核同意。 \n3.不開放校際選課。\n4.本課程於陽明校區傳甲二樓演講廳上課[English Medium Course]",
     "name": "生命科學院-生物醫學講座 Special lectures on biomedicine",
-    "num_limit": "155",
+    "num_limit": "170",
     "reg_num": "-999",
     "teacher": "連正章",
     "time": "W78-"
@@ -14838,7 +14838,7 @@
     "id": "161023",
     "memo": "",
     "name": "日治時期臺灣文學與性別問題 Japanese Occupation of Taiwan Literature and Gender Issues",
-    "num_limit": "35",
+    "num_limit": "28",
     "reg_num": "-999",
     "teacher": "王敬翔",
     "time": "T12-YX201[YM]"
@@ -14862,7 +14862,7 @@
     "id": "161025",
     "memo": "限未修過「東南亞各國經濟、社會與文化(永久課號：GECE00127)」同學選修。",
     "name": "東南亞各國經濟、社會與文化 State Economics, Societies and Culture in Southeast Asia",
-    "num_limit": "35",
+    "num_limit": "27",
     "reg_num": "-999",
     "teacher": "林若雩",
     "time": "T12-YX501[YM]"
@@ -14886,7 +14886,7 @@
     "id": "161027",
     "memo": "開學後人工加簽，開放3-5位「優先開放第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
     "name": "臺灣政治概論 Introduction to Taiwan Politics",
-    "num_limit": "35",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "彭立忠",
     "time": "R34-EE129[GF],R34-YX201[YM]"
@@ -14898,7 +14898,7 @@
     "id": "161028",
     "memo": "開學後人工加簽，開放6位「優先開放第二週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
     "name": "翻轉管理學 A Critical Understanding of Management",
-    "num_limit": "35",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "徐詩偉",
     "time": "F34-A103[GF],F34-YT301[YM]"
@@ -14910,7 +14910,7 @@
     "id": "161029",
     "memo": "開學後人工加簽，開放6位「優先開放第二週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
     "name": "翻轉管理學 A Critical Understanding of Management",
-    "num_limit": "35",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "徐詩偉",
     "time": "F56-A103[GF],F56-YT301[YM]"
@@ -14934,7 +14934,7 @@
     "id": "161031",
     "memo": "",
     "name": "城市與氣候變遷 Cities and climate change",
-    "num_limit": "15",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "李河清",
     "time": "T34-YX202[YM]"
@@ -14970,7 +14970,7 @@
     "id": "161034",
     "memo": "1.跨校區教學且兩校區均有教室；陽明校區:YX201；光復校區: A103。2. 開學後人工加簽，開放3-5位「優先開放第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
     "name": "智慧財產權導論 Introduction to intellectual property right",
-    "num_limit": "35",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "王世仁",
     "time": "R12-EE129[GF],R12-YX201[YM]"
@@ -15165,7 +15165,7 @@
     "num_limit": "36",
     "reg_num": "-999",
     "teacher": "周雅玲",
-    "time": "M34-YT203[YM]"
+    "time": "M34-YT202[YM]"
   },
   "1142_162001": {
     "code": "GELT10011",
@@ -15328,7 +15328,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "162014",
-    "memo": "[English Medium Course]全英文授課，為維持教學品質，限制修課人數。如有選課問題請洽語言學習與寫作中心(llwc@nycu.edu.tw）。 如為滿額課程，請同學於2月26日 上午 9:00前送加簽單至語寫中心，語寫中心於2月26日上午10:00辦理加簽抽籤。",
+    "memo": "[English Medium Course]全英文授課，為維持教學品質，限制修課人數。如有選課問題請洽語言學習與寫作中心(llwc@nycu.edu.tw）。 此課程僅接受系統加選，語寫中心不受理紙本加簽。",
     "name": "英文跨文化溝通 Cross-Cultural Communication in English",
     "num_limit": "30",
     "reg_num": "-999",
@@ -17730,7 +17730,7 @@
     "id": "430208",
     "memo": "",
     "name": "電腦在生醫之應用 Aomputer Application in Biology and Medicine",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "曲在雯",
     "time": "W789-BI309[BA]"
@@ -18861,7 +18861,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "劉益宏",
-    "time": "T34R7-EE207[GF]"
+    "time": "T34R7-EE132[GF]"
   },
   "1142_515012": {
     "code": "EEEC10010",
@@ -19185,7 +19185,7 @@
     "num_limit": "110",
     "reg_num": "-999",
     "teacher": "陳志榮",
-    "time": "M56R2-AB103[GF]"
+    "time": "M56R2-AB101[GF]"
   },
   "1142_515105": {
     "code": "EEEC00014",
@@ -19350,10 +19350,10 @@
     "id": "515118",
     "memo": "",
     "name": "半導體元件物理 Semiconductor Device Physics",
-    "num_limit": "60",
+    "num_limit": "75",
     "reg_num": "-999",
     "teacher": "李佩雯",
-    "time": "M8F78-ED101[GF]"
+    "time": "M8F78-EDB26[GF]"
   },
   "1142_515119": {
     "code": "EEEC20015",
@@ -19365,7 +19365,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "連德軒",
-    "time": "T2F34-ED220[GF]"
+    "time": "T2F34-ED116[GF]"
   },
   "1142_515120": {
     "code": "EEEC20018",
@@ -19576,7 +19576,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "515137",
-    "memo": "1. 限申請電機工程學系「跨域學程」修課，同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1. 限申請電機工程學系「跨域學程」修課，同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於3月4日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "跨領域專題(一) Crossdisciplinary Projects (I) ",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19588,7 +19588,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "515138",
-    "memo": "1.選修專題的同學需同時選課並填寫專題研究同意書。2.同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。3.同意書請指導老師簽名後，於9月10日(三)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1.選修專題的同學需同時選課並填寫專題研究同意書。2.同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。3.同意書請指導老師簽名後，於3月4日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "跨領域專題(二) Crossdisciplinary Projects (II) ",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19600,7 +19600,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "515139",
-    "memo": "1.選修專題的同學需同時選課並填寫專題研究同意書。2.同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。3.同意書請指導老師簽名後，於9月10日(三)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1.選修專題的同學需同時選課並填寫專題研究同意書。2.同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。3.同意書請指導老師簽名後，於3月4日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機資訊跨領域專題(一) Electrical and Computer Engineering-Computer Science Cross disciplinary Projects (I)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19612,7 +19612,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "515140",
-    "memo": "1.限電機工程學系且申請電機工程學系「資訊工程跨域學程」同學修課；資訊工程學系且申請資訊工程學系「電機工程跨域學程」同學修課。同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1.限電機工程學系且申請電機工程學系「資訊工程跨域學程」同學修課；資訊工程學系且申請資訊工程學系「電機工程跨域學程」同學修課。同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於3月4日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機資訊跨領域專題(二) Electrical and Computer Engineering-Computer Science Cross disciplinary Projects (I)(II)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19624,7 +19624,7 @@
     "credit": "2.00",
     "hours": "3.00",
     "id": "515141",
-    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於3月4日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機工程專題 (一) Special Project on Electrical Engineering (I)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19636,7 +19636,7 @@
     "credit": "2.00",
     "hours": "3.00",
     "id": "515142",
-    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於3月4日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機工程專題(二) Special Project on Electrical Engineering (II)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19648,7 +19648,7 @@
     "credit": "2.00",
     "hours": "3.00",
     "id": "515143",
-    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於3月4日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機工程專題(三) Special Project on Electrical Engineering (III)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -19660,7 +19660,7 @@
     "credit": "2.00",
     "hours": "3.00",
     "id": "515144",
-    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&locale=tw)。2. 同意書請指導老師簽名後，於2月26日(三)前繳交至電機系辦(工程四館111室)。",
+    "memo": "1. 同意書可至系辦領取或從系網頁下載：https://dee.nycu.edu.tw/pages.php?pa=stu_college_download&amp;locale=tw)。2. 同意書請指導老師簽名後，於3月4日(三)前繳交至電機系辦(工程四館111室)。",
     "name": "電機工程專題 (四) Special Project on Electrical Engineering (IV)",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -20514,7 +20514,7 @@
     "id": "515507",
     "memo": "主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "計算機組織 Computer Organization",
-    "num_limit": "65",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "蔡文錦",
     "time": "M2R56-EC114[GF]"
@@ -20526,7 +20526,7 @@
     "id": "515508",
     "memo": "主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "計算機組織 Computer Organization",
-    "num_limit": "65",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "李毅郎",
     "time": "M2R56-EC122[GF]"
@@ -20538,7 +20538,7 @@
     "id": "515509",
     "memo": "[English Medium Course]主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課。1.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "計算機組織 Computer Organization",
-    "num_limit": "65",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "葉宗泰",
     "time": "M2R56-EC115[GF]"
@@ -20634,7 +20634,7 @@
     "id": "515518",
     "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課；請依各組入學年度之「必修科目表」選課；學士班七大主題學程；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "正規語言概論 Introduction to Formal Language",
-    "num_limit": "100",
+    "num_limit": "105",
     "reg_num": "-999",
     "teacher": "陳穎平",
     "time": "T34-EC122[GF]"
@@ -20694,7 +20694,7 @@
     "id": "515604",
     "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課。1.學士班七大主題學程。2.本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "密碼學概論 Introduction to Cryptography",
-    "num_limit": "120",
+    "num_limit": "130",
     "reg_num": "-999",
     "teacher": "易志偉",
     "time": "M34-EC016[GF]"
@@ -20862,7 +20862,7 @@
     "id": "515618",
     "memo": "主開：三年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
     "name": "演算法在繞線問題的實務應用 The applications of algorithms on routing problems",
-    "num_limit": "60",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李毅郎",
     "time": "M34-ED301[GF]"
@@ -21476,7 +21476,7 @@
     "name": "土壤力學 Soil Mechanics",
     "num_limit": "60",
     "reg_num": "-999",
-    "teacher": "陳賢榮、待聘",
+    "teacher": "陳賢榮、楊德忠",
     "time": "M56R2-EB108[GF]"
   },
   "1142_516216": {
@@ -21728,7 +21728,7 @@
     "name": "材料熱力學(二) Thermodynamics of Materials (II)",
     "num_limit": "60",
     "reg_num": "-999",
-    "teacher": "材料系",
+    "teacher": "陳名一",
     "time": "M3R34-EF104[GF]"
   },
   "1142_516303": {
@@ -23334,7 +23334,7 @@
     "id": "517411",
     "memo": "Students are highly recommended to be familiar at least one programing language (such as Python), or any system / mathematical modeling tool. The capability of creating pilot system models or Proof of Concept (PoC) simulation is crucial for this class.  Engineering background or prior working experience is a plus (not a must).  Contact the professor if you have questions.",
     "name": "系統工程 System Engineering",
-    "num_limit": "35",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳宏毅",
     "time": "Tabc-MB405[GF]"
@@ -23718,7 +23718,7 @@
     "id": "519513",
     "memo": "為中醫學系學生開設之課程，不開放外系學生選修。",
     "name": "心靈成長 Spiritual growth (mentor time)",
-    "num_limit": "39",
+    "num_limit": "42",
     "reg_num": "-999",
     "teacher": "程源中、王美鴻、安勤之",
     "time": "Wn-A209[GF]"
@@ -23997,7 +23997,7 @@
     "num_limit": "100",
     "reg_num": "-999",
     "teacher": "林壽煦",
-    "time": "R567-KB402"
+    "time": "R567-KB302"
   },
   "1142_520019": {
     "code": "XDEP10017",
@@ -24009,7 +24009,7 @@
     "num_limit": "100",
     "reg_num": "-999",
     "teacher": "林尚亭、林壽煦",
-    "time": "T234-"
+    "time": "T234-KB302"
   },
   "1142_520020": {
     "code": "XDEP10009",
@@ -24057,7 +24057,7 @@
     "num_limit": "70",
     "reg_num": "-999",
     "teacher": "林尚亭",
-    "time": "M234-"
+    "time": "M234-KB202"
   },
   "1142_520024": {
     "code": "XDEP20006",
@@ -24069,7 +24069,7 @@
     "num_limit": "70",
     "reg_num": "-999",
     "teacher": "杜岳錡",
-    "time": "T567-"
+    "time": "T567-KB302"
   },
   "1142_520025": {
     "code": "XDEP20016",
@@ -26092,7 +26092,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535113",
-    "memo": "授課老師：簡婉軒教授",
+    "memo": "[English Medium Course]授課老師：簡婉軒教授",
     "name": "人工智慧治理與可信任設計 Governance and Trustworthy Artificial Intelligence",
     "num_limit": "65",
     "reg_num": "-999",
@@ -26754,7 +26754,7 @@
     "id": "535355",
     "memo": "",
     "name": "無線通訊信號處理 Wireless Communication Signal Processing",
-    "num_limit": "60",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李大嵩",
     "time": "F567-ED220[GF]"
@@ -27652,7 +27652,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535610",
-    "memo": "資訊學院優先。",
+    "memo": "資訊學院優先。欲修習本課程，須經第一堂課測驗後，由授課老師加簽，第一堂課未通過測驗者不加簽。 已選到課的同學亦須參與第一堂課測驗，未通過者將手動退選。詳細測驗資訊請參考課程大綱。",
     "name": "網際網路工程實務 Internet Engineering Practice",
     "num_limit": "55",
     "reg_num": "-999",
@@ -28460,7 +28460,7 @@
     "name": "衛星姿態判定與控制  Spacecraft Attitude Determination and Control ",
     "num_limit": "30",
     "reg_num": "-999",
-    "teacher": "機械系",
+    "teacher": "詹鎮宇",
     "time": "Tabc-CS100[GF]"
   },
   "1142_536112": {
@@ -28796,7 +28796,7 @@
     "name": "坡地災害防治 Landslide Hazard Remediation",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳賢榮、林志平、待聘",
+    "teacher": "陳賢榮、林志平、單信瑜",
     "time": "F234-EB415[GF]"
   },
   "1142_536220": {
@@ -28844,7 +28844,7 @@
     "name": "土壤動力學 Soil Dynamics",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳賢榮、待聘、潘爾年",
+    "teacher": "陳賢榮、潘爾年、方永壽",
     "time": "W234-EB107[GF]"
   },
   "1142_536224": {
@@ -29493,7 +29493,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "許元春",
-    "time": "T2F34-SA213[GF]"
+    "time": "T2F34-SA211[GF]"
   },
   "1142_536711": {
     "code": "SCMA30086",
@@ -31182,7 +31182,7 @@
     "id": "537800",
     "memo": "本課程限大四以上，及擇定歸屬核心課程「社會中的科技與自然」領域的同學選修，並請於開學後以紙本方式加選。\n",
     "name": "新興科技創新智慧財產權管理 Emerging Technology Innovation and Intellectual Property Management",
-    "num_limit": "35",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "陳詩欣、陳永平",
     "time": "M789-A722[GF]"
@@ -31318,18 +31318,6 @@
     "reg_num": "-999",
     "teacher": "陳姵樺",
     "time": "F234-A722[GF]"
-  },
-  "1142_537812": {
-    "code": "MGMT30018",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "537812",
-    "memo": "",
-    "name": "創新與網路創業 Innovation and Internet Entrepreneurship",
-    "num_limit": "35",
-    "reg_num": "-999",
-    "teacher": "黃仕斌",
-    "time": "T567-A701[GF]"
   },
   "1142_537815": {
     "code": "MGMT30033",
@@ -31689,7 +31677,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "邱羽凡、李佩縈、洪敬舒",
-    "time": ""
+    "time": "S678-MB1069[GF]"
   },
   "1142_539000": {
     "code": "IIPS30017",
@@ -31744,12 +31732,12 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "539004",
-    "memo": "論文研討課程應加總通過2學期，但論文研討不計入應修學分數24學分。",
+    "memo": "上課教室:2/24第一次上課地點在SA321; 第二次上課之後,皆在合勤講堂 上課； 論文研討課程應加總通過2學期，但論文研討不計入應修學分數24學分。",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "賴朝松、李耀仁、梁耕僑、曹逸凡",
-    "time": "T56-SA321[GF]"
+    "teacher": "賴朝松、李耀仁、梁耕僑、林柏宏、曹逸凡",
+    "time": "T56-"
   },
   "1142_539005": {
     "code": "IIPS30025",
@@ -31761,7 +31749,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "賴朝松",
-    "time": "F234-A212[GF]"
+    "time": "F234-A305[GF]"
   },
   "1142_539006": {
     "code": "IIPS30029",
@@ -31869,7 +31857,7 @@
     "num_limit": "70",
     "reg_num": "-999",
     "teacher": "葉國暉",
-    "time": "F234-A305[GF]"
+    "time": "F234-A212[GF]"
   },
   "1142_545000": {
     "code": "EEIP30001",
@@ -32445,7 +32433,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "許騰尹",
-    "time": "Tabc-EC015[GF]"
+    "time": "Tabc-EC115[GF]"
   },
   "1142_555503": {
     "code": "EEDE30154",
@@ -33009,7 +32997,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "陳宗岡",
-    "time": "Mabc-M301[GF]"
+    "time": "Mabc-M205[GF]"
   },
   "1142_557101": {
     "code": "MGMS30053",
@@ -34098,7 +34086,7 @@
     "id": "561024",
     "memo": "本課程網路選課為主，不開放加簽。",
     "name": "生活中的腦科學 Brain Science in Daily Life",
-    "num_limit": "50",
+    "num_limit": "55",
     "reg_num": "-999",
     "teacher": "林校群",
     "time": "R78-A203[GF]"
@@ -34494,7 +34482,7 @@
     "id": "561057",
     "memo": "1.本課程期望創造醫療與科技跨領域的對話，選課學生設定為光復校區學生以及陽明校區至光復校區的共學生，各25人。2.第1至第3初選階段，「光復校區學生」以網路選課為主，「陽明校區至光復校區的共學生」至https://forms.gle/BnQZGbia2SNmj17A8登記選課意願。3. 開學加退選階段大四~大二優先選課。",
     "name": "科技與醫療的人文關懷 Humanism in Technology and Medical Cares",
-    "num_limit": "25",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "黃育綸、陳俞琪、程千芳、林承霈、林士平、王美鴻",
     "time": "R56-A202[GF]"
@@ -38466,7 +38454,7 @@
     "id": "564021",
     "memo": "限管科系與資財系財金組(一年級)",
     "name": "微積分乙(二) Calculus B (II)",
-    "num_limit": "70",
+    "num_limit": "80",
     "reg_num": "-999",
     "teacher": "洪慧念",
     "time": "T34-A304[GF],F56-A309[GF]"
@@ -38490,7 +38478,7 @@
     "id": "565000",
     "memo": "含近代物理",
     "name": "物理(二)榮譽班 Physics(II)",
-    "num_limit": "85",
+    "num_limit": "105",
     "reg_num": "-999",
     "teacher": "簡紋濱",
     "time": "M34R78-SA321[GF]"
@@ -38502,7 +38490,7 @@
     "id": "565001",
     "memo": "含近代物理[English Medium Course]",
     "name": "物理(二)榮譽班 Physics(II)",
-    "num_limit": "85",
+    "num_limit": "90",
     "reg_num": "-999",
     "teacher": "郭昌洋",
     "time": "M34R78-SA320[GF]"
@@ -38526,7 +38514,7 @@
     "id": "565003",
     "memo": "[English Medium Course]",
     "name": "物理(二) Physics(II)",
-    "num_limit": "85",
+    "num_limit": "105",
     "reg_num": "-999",
     "teacher": "籔下篤史",
     "time": "M34R78-SC001[GF]"
@@ -38574,7 +38562,7 @@
     "id": "565007",
     "memo": "[English Medium Course]",
     "name": "物理(二) Physics(II)",
-    "num_limit": "85",
+    "num_limit": "90",
     "reg_num": "-999",
     "teacher": "寺西慶哲",
     "time": "T78F34-EDB27[GF]"
@@ -39690,7 +39678,7 @@
     "id": "579100",
     "memo": "",
     "name": "華語文教學實習 Chinese Language Teaching Practice",
-    "num_limit": "10",
+    "num_limit": "9",
     "reg_num": "-999",
     "teacher": "林佳慧",
     "time": "M12-A216[GF]"
@@ -40134,7 +40122,7 @@
     "id": "638506",
     "memo": "",
     "name": "半導體雷射工程 Semiconductor Laser Engineering ",
-    "num_limit": "28",
+    "num_limit": "29",
     "reg_num": "-999",
     "teacher": "尤信介",
     "time": "Rabc-CM215[GR]"
@@ -43281,7 +43269,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "系統工程",
-    "time": "R234-"
+    "time": "W678-"
   },
   "1142_910259": {
     "code": "SESE10111",
@@ -43341,7 +43329,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "沈鴻禧",
-    "time": "M34F2-"
+    "time": "M34F6-"
   },
   "1142_910264": {
     "code": "SESE10022",
@@ -43353,7 +43341,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李宜珊",
-    "time": "M678-"
+    "time": "T678-"
   },
   "1142_910265": {
     "code": "SESE10023",
@@ -43365,7 +43353,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李宜珊",
-    "time": "M34-"
+    "time": "T34-"
   },
   "1142_910266": {
     "code": "SESE10118",
@@ -43377,7 +43365,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "林玉菁",
-    "time": "F234-"
+    "time": "M34F2-"
   },
   "1142_910267": {
     "code": "SESE10119",
@@ -43389,7 +43377,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "林玉菁",
-    "time": "T678-"
+    "time": "W678-"
   },
   "1142_910268": {
     "code": "SESE10081",
@@ -43401,19 +43389,19 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蔡明達",
-    "time": "W678-"
+    "time": "M678-"
   },
   "1142_910269": {
     "code": "SESE10015",
     "credit": "3.00",
     "hours": "3.00",
     "id": "910269",
-    "memo": "環資組空間班，上課地點：國防大學理工學院，授課教師：方星文、黃立信老師",
+    "memo": "預計調整上課時間為R123。環資組空間班，上課地點：國防大學理工學院，授課教師：方星文、黃立信老師",
     "name": "地形學 Geomorphology",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "黃立信",
-    "time": "T34F6-"
+    "time": "R123-"
   },
   "1142_910270": {
     "code": "SESE10012",
@@ -43425,7 +43413,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "宋欣芳",
-    "time": "T678-"
+    "time": "W1R12-"
   },
   "1142_910271": {
     "code": "SESE10065",
@@ -43437,7 +43425,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "張文南",
-    "time": "W678-"
+    "time": "T678-"
   },
   "1142_910272": {
     "code": "SESE10013",
@@ -43449,7 +43437,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李宏輝",
-    "time": "M34T4-"
+    "time": "M34F1-"
   },
   "1142_910273": {
     "code": "SESE20225",
@@ -43485,7 +43473,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "侯昭平",
-    "time": "T234-"
+    "time": "T23F4-"
   },
   "1142_910276": {
     "code": "SESE10257",
@@ -43509,7 +43497,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "系統工程",
-    "time": "F234-"
+    "time": "T4F13-"
   },
   "1142_910278": {
     "code": "SESE20220",
@@ -43605,7 +43593,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "系統工程",
-    "time": "T234-"
+    "time": "T349-"
   },
   "1142_910286": {
     "code": "SESE20191",
@@ -43617,7 +43605,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "張文南",
-    "time": "T678-"
+    "time": "F234-"
   },
   "1142_910287": {
     "code": "SESE20190",

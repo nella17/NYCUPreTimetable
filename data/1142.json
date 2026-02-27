@@ -3008,7 +3008,7 @@
     "name": "全口贋復學 Complete Denture Prosthodontics",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "張景智、張志麟、謝旻杰",
+    "teacher": "張景智、張志麟、謝旻杰、鍾佳宇",
     "time": "M12-YD105[YM]"
   },
   "1142_111531": {
@@ -3020,7 +3020,7 @@
     "name": "全口贋復學實驗 Complete Denture Prosthodontics Lab",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "陳翾、林元敏、耿藝文、謝旻杰、謝昀伶、林慧觀、楊博雅、許文瑛、黃籌永、陳大中、吳曉霖、張景智、許明倫",
+    "teacher": "陳翾、林元敏、耿藝文、謝旻杰、謝昀伶、黃籌永、陳大中、張景智、顏瑞瑩",
     "time": "M345678-YD210[YM]"
   },
   "1142_111532": {
@@ -3380,7 +3380,7 @@
     "name": "省思-人﹑生活﹑生命 Reflection-Human Being, Living, Life",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳紀雯、邱愛富、童恒新、黃莉婷",
+    "teacher": "陳紀雯、曾意儒、邱愛富、童恒新、盧郁安、戴立嘉、趙禧綠、黃莉婷",
     "time": "W78-EE112[GF]"
   },
   "1142_111802": {
@@ -6162,7 +6162,7 @@
     "id": "113101",
     "memo": "週四5678節上課，教室以知行樓501R為主，另配合課程內容安排實驗室或電腦教室，請參照整合課程行事曆。",
     "name": "藥理學實驗 Pharmacology Lab.",
-    "num_limit": "32",
+    "num_limit": "35",
     "reg_num": "-999",
     "teacher": "王湘翠、嚴錦城",
     "time": "R9abc-YX501[YM]"
@@ -7017,7 +7017,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "葛宗融",
-    "time": "M567-YT202[YM]"
+    "time": "M567-YT003[YM]"
   },
   "1142_114402": {
     "code": "GEKY10005",
@@ -12846,7 +12846,7 @@
     "id": "133600",
     "memo": "1.原則上為全英語授課課程，如有異動，會提前通知。\n2.本課程原則上僅限本校生命科學院學生(含大學部)及藥物科學院生物藥學研究所學生修習,其他學生如欲修課,需經本院審核同意。 \n3.不開放校際選課。\n4.本課程於陽明校區傳甲二樓演講廳上課[English Medium Course]",
     "name": "生命科學院-生物醫學講座 Special lectures on biomedicine",
-    "num_limit": "170",
+    "num_limit": "180",
     "reg_num": "-999",
     "teacher": "連正章",
     "time": "W78-"
@@ -14766,7 +14766,7 @@
     "id": "161017",
     "memo": "",
     "name": "現代散文選讀 Selected Readings of Modern Chinese Prose",
-    "num_limit": "30",
+    "num_limit": "36",
     "reg_num": "-999",
     "teacher": "楊芮芳",
     "time": "T12-YT204[YM]"
@@ -14826,7 +14826,7 @@
     "id": "161022",
     "memo": "",
     "name": "日常生活、科技與社會 Technology and Everyday Life",
-    "num_limit": "30",
+    "num_limit": "32",
     "reg_num": "-999",
     "teacher": "秦先玉",
     "time": "R12-YT205[YM]"
@@ -14838,7 +14838,7 @@
     "id": "161023",
     "memo": "",
     "name": "日治時期臺灣文學與性別問題 Japanese Occupation of Taiwan Literature and Gender Issues",
-    "num_limit": "27",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "王敬翔",
     "time": "T12-YX201[YM]"
@@ -14862,7 +14862,7 @@
     "id": "161025",
     "memo": "限未修過「東南亞各國經濟、社會與文化(永久課號：GECE00127)」同學選修。",
     "name": "東南亞各國經濟、社會與文化 State Economics, Societies and Culture in Southeast Asia",
-    "num_limit": "27",
+    "num_limit": "35",
     "reg_num": "-999",
     "teacher": "林若雩",
     "time": "T12-YX501[YM]"
@@ -14886,7 +14886,7 @@
     "id": "161027",
     "memo": "開學後人工加簽，開放3-5位「優先開放第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
     "name": "臺灣政治概論 Introduction to Taiwan Politics",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "彭立忠",
     "time": "R34-EE129[GF],R34-YX201[YM]"
@@ -14970,7 +14970,7 @@
     "id": "161034",
     "memo": "1.跨校區教學且兩校區均有教室；陽明校區:YX201；光復校區: EE129。2. 開學後人工加簽，開放3-5位「優先開放第一週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
     "name": "智慧財產權導論 Introduction to intellectual property right",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "王世仁",
     "time": "R12-EE129[GF],R12-YX201[YM]"
@@ -17910,7 +17910,7 @@
     "id": "514005",
     "memo": "",
     "name": "藝術心理學 Psychology of Art",
-    "num_limit": "9999",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "陳一平",
     "time": "T56-HA315[GF]"
@@ -18052,7 +18052,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "514017",
-    "memo": "1.本課程人數上限為12人，依初選階段逐階調整，跨域學程學生優先。\n2.上課地點：FR101。",
+    "memo": "1.本課程人數上限為12人，依初選階段逐階調整，跨域學程學生優先。\n2.上課地點：HC101。",
     "name": "金工概論與美學設計 Introduction to Metalwork and Esthetic Design",
     "num_limit": "12",
     "reg_num": "-999",
@@ -20610,7 +20610,7 @@
     "id": "515518",
     "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課；請依各組入學年度之「必修科目表」選課；學士班七大主題學程；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "正規語言概論 Introduction to Formal Language",
-    "num_limit": "105",
+    "num_limit": "110",
     "reg_num": "-999",
     "teacher": "陳穎平",
     "time": "T34-EC122[GF]"
@@ -24633,7 +24633,7 @@
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "邱剛彥",
-    "time": "T567-HC404[GF]"
+    "time": "T567-HC102[GF]"
   },
   "1142_534108": {
     "code": "HSGF30054",
@@ -26337,7 +26337,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "洪瑞華",
-    "time": "M567-ED116[GF]"
+    "time": "M567-EDB06[GF]"
   },
   "1142_535223": {
     "code": "EEIE30093",
@@ -31341,7 +31341,7 @@
     "num_limit": "25",
     "reg_num": "-999",
     "teacher": "陳在方",
-    "time": "T567-MB1069[GF]"
+    "time": "T567-A401[GF]"
   },
   "1142_537903": {
     "code": "LWLW30221",
@@ -31485,7 +31485,7 @@
     "num_limit": "25",
     "reg_num": "-999",
     "teacher": "李界昇",
-    "time": "F567-MB1069[GF]"
+    "time": "F567-A401[GF]"
   },
   "1142_537915": {
     "code": "LWLW30059",
@@ -31581,7 +31581,7 @@
     "num_limit": "25",
     "reg_num": "-999",
     "teacher": "金孟華",
-    "time": "T34-MB1069[GF]"
+    "time": "T34-A402[GF]"
   },
   "1142_537923": {
     "code": "LWLW30315",
@@ -34086,7 +34086,7 @@
     "id": "561027",
     "memo": "",
     "name": "領導與統御 Leadership",
-    "num_limit": "60",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "林紹胤",
     "time": "R789-A102[GF],R789-YT301[YM]"
@@ -34110,7 +34110,7 @@
     "id": "561029",
     "memo": "",
     "name": "身體與藝術 Body and Art",
-    "num_limit": "60",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "武嘉文",
     "time": "T78-A203[GF]"
@@ -34410,7 +34410,7 @@
     "id": "561054",
     "memo": "",
     "name": "優雅老化心理學 Grace Aging Psychology",
-    "num_limit": "80",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "程千芳",
     "time": "R34-A103[GF]"
@@ -34422,7 +34422,7 @@
     "id": "561055",
     "memo": "",
     "name": "藥學知多少 An introductory guide to pharmacy",
-    "num_limit": "60",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "吳宗軒、林滿玉、姜紹青、陳惠亭、陳謄州、黃世宗、康照洲、曾冠燁",
     "time": "T34-A103[GF]"
@@ -34434,7 +34434,7 @@
     "id": "561056",
     "memo": "",
     "name": "與社會心理學共舞 Interplay with Social Psychology",
-    "num_limit": "80",
+    "num_limit": "90",
     "reg_num": "-999",
     "teacher": "程千芳",
     "time": "T34-YB100[YM]"
@@ -39846,7 +39846,7 @@
     "id": "599018",
     "memo": "1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫網路選課加退選處理表，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。4.本課程限110學年度(含)以後進入教育學程學生修讀課程，如選錯，恐無法承認該學分，請同學特別留意!",
     "name": "科學教育：理性、思考、創新 Science Education: Rationality, Thinking, Creativity",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "陳雅君",
     "time": "W56-HA218[GF]"

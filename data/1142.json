@@ -15042,7 +15042,7 @@
     "id": "161040",
     "memo": "",
     "name": "公共利益與永續社會 Public Interest and Sustainable Society",
-    "num_limit": "50",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "曾憲政",
     "time": "T78-A213[GF]"
@@ -15054,7 +15054,7 @@
     "id": "161041",
     "memo": "",
     "name": "國民所得的全球視角 A Global Perspective on National Income ",
-    "num_limit": "50",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "曾憲政",
     "time": "W9ab-YT305[YM]"
@@ -15150,7 +15150,7 @@
     "id": "161051",
     "memo": "初選階段限中醫系學生選修",
     "name": "中醫古籍文選 Literature of Traditional Chinese Medicine",
-    "num_limit": "30",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "游均晶",
     "time": "W78-EB402[GF]"

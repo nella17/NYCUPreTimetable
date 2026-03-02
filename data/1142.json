@@ -4772,7 +4772,7 @@
     "name": "物理因子治療學(二) Therapeutic Physical Agents(II)",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "楊雅如、施惠婷、陳博因、蔡佩玲、潘俐伶、董阜玲、邵芙昕、杜俊宏、黃安華",
+    "teacher": "楊雅如、施惠婷、陳博因、蔡佩玲、潘俐伶、邵芙昕、黃安華",
     "time": "F12-YB601[YM]"
   },
   "1142_112231": {
@@ -4784,7 +4784,7 @@
     "name": "物理因子治療學實作 Therapeutic Physical Agents Lab",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "楊雅如、施惠婷、陳博因、蔡佩玲、潘俐伶、董阜玲、邵芙昕、施宇信、黃安華",
+    "teacher": "楊雅如、施惠婷、陳博因、蔡佩玲、潘俐伶、邵芙昕、施宇信、黃安華",
     "time": "F34-YB601[YM]"
   },
   "1142_112232": {
@@ -5661,7 +5661,7 @@
     "num_limit": "25",
     "reg_num": "-999",
     "teacher": "盧家鋒",
-    "time": "R78-YL402[YM]"
+    "time": "R78-YT203[YM]"
   },
   "1142_112347": {
     "code": "BEIR10002",
@@ -5841,7 +5841,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李曉暉、羅清維、張欣暘、藍昇輝",
-    "time": "T56-YK533[YM]"
+    "time": "T56-YB102[YM]"
   },
   "1142_112501": {
     "code": "LSLS10035",
@@ -7962,7 +7962,7 @@
     "id": "130402",
     "memo": "開放大學部高年級(三、四年級)學生選修，不包括醫學系及牙醫系。",
     "name": "基礎與臨床人體神經解剖學 Basic and Clinical Human Neuroanatomy",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "傅毓秀、王先逸、蔡佩君、郭曉縈、侯珮珊、彭淑婷、劉皓云、蔡國樞、陳天華",
     "time": "W5678-YEA100[YM]"
@@ -8010,7 +8010,7 @@
     "id": "130406",
     "memo": "開放大學部選修。",
     "name": "胚胎學 Embryology",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "侯珮珊、葉添順、陳燕彰、李學德、王先逸、郭曉縈、林坤陽",
     "time": "W12-YEA100[YM]"
@@ -8748,12 +8748,12 @@
     "time": "R8-YN118[YM]"
   },
   "1142_130903": {
-    "code": "MDEC30013",
+    "code": "MDEC30019",
     "credit": "1.00",
     "hours": "1.00",
     "id": "130903",
     "memo": "雙數週第34節上課",
-    "name": "臨床研究數據分析之理論與實作 Analysis of clinical research data: from the theory to practice",
+    "name": "臨床研究數據分析實戰：從生物統計到AI協作 Clinical Research Data Analysis in Practice: From Biostatistics to AI-Assisted Analysis",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "劉嘉仁",
@@ -9632,7 +9632,7 @@
     "name": "高等牙髓病學(二) Advanced Endodontics (II)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "何怡青、白勝方、楊淑芬、黃妙玨、陳誼安、李亞芸、陳正毅、林怡君、郭恬君、林郁恆、賴博堂、陳益貞、蔡佳倫",
+    "teacher": "何怡青、白勝方、楊淑芬、陳誼安、李亞芸、林伯彥、吳右喬、陳泰全、簡士傑、蔡佳倫",
     "time": "W9a-"
   },
   "1142_131412": {
@@ -11696,7 +11696,7 @@
     "name": "奈米專題研究 Independent Study on Nanoscience",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳奕帆、吳育德",
+    "teacher": "陳浩夫",
     "time": "S123456-"
   },
   "1142_132616": {
@@ -12009,7 +12009,7 @@
     "num_limit": "8",
     "reg_num": "-999",
     "teacher": "高正彥",
-    "time": "R5678Uy-YC313[YM]"
+    "time": "Uy-YC313[YM]"
   },
   "1142_132810": {
     "code": "LSMI30106",
@@ -14108,7 +14108,7 @@
     "name": "專題討論 Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林滿玉、黃奇英、吳俊穎、賴穎暉、陳鋕雄、賈文宇、陳謄州、江季霖、黃世宗、楊世偉、陳惠芳、陳豐奇、陳豐奇、林意筑、杜培文、吳全峰",
+    "teacher": "林滿玉、黃奇英、蔡憶文、吳俊穎、賴穎暉、楊登傑、陳鋕雄、賈文宇、姜紹青、陳謄州、江季霖、賴盈宏、黃世宗、康照洲、楊世偉、陳惠芳、盧青佑、陳豐奇、葉嘉新、陳豐奇、林意筑、杜培文、吳全峰、許銘能、張耀文",
     "time": "F78-YN205[YM]"
   },
   "1142_143401": {
@@ -14120,7 +14120,7 @@
     "name": "藥品上市法規實務 Regulatory Practice of Drug",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳惠芳、黃彥華、汪佑襄、吳力人、陳筱苓、孫婷婷、巫清安、李元鳳、黃千岳、盧青佑、沈志隆、林意筑、林翊均",
+    "teacher": "陳惠芳、黃彥華、汪佑襄、吳力人、陳筱苓、孫婷婷、巫清安、李元鳳、黃千岳、盧青佑、沈志隆、林意筑、林翊均、廖瓊禾",
     "time": "F56-YN205[YM]"
   },
   "1142_143405": {
@@ -14132,7 +14132,7 @@
     "name": "生物製藥產業創業財務管理實務 Financial Management Practices for Biopharmaceutical Startups",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "劉福運",
+    "teacher": "劉福運、陳玠甫、吳宗翰",
     "time": "F9a-YN205[YM]"
   },
   "1142_143500": {
@@ -15006,7 +15006,7 @@
     "id": "161037",
     "memo": "",
     "name": "經濟學 Economics",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "蒲正筠、周穎政",
     "time": "R34-YT104[YM]"
@@ -19818,7 +19818,7 @@
     "id": "515160",
     "memo": "",
     "name": "通訊系統入門 Basics of Communication Systems",
-    "num_limit": "60",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "吳卓諭、黃昱智、余俊宏、賴青沂、李明峻",
     "time": "F34n-EDB01[GF]"
@@ -21546,7 +21546,7 @@
     "id": "516223",
     "memo": "限土木系大一生；其他同學請自行找老師加簽。",
     "name": "土木工程實務講座(二) Lecture on Engineering Practice",
-    "num_limit": "100",
+    "num_limit": "97",
     "reg_num": "-999",
     "teacher": "林子剛、石棟鑫",
     "time": "M34-EB117[GF]"
@@ -22864,7 +22864,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517012",
-    "memo": "非管院同學請於2月9日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限65人，得請授課教師簽准後可放寬至70人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/v2cBySxG6ehqPiu66)；管理基礎學分學程課程。",
+    "memo": "非管院同學請於2月9日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限65人，得請授課教師簽准後可放寬至70人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/Eq25uud7o6YvWZz37)；管理基礎學分學程課程。",
     "name": "作業研究(二) Operations Research (II)",
     "num_limit": "65",
     "reg_num": "-999",
@@ -22876,7 +22876,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517013",
-    "memo": "非管院同學請於2月9日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限65人，得請授課教師簽准後可放寬至70人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/v2cBySxG6ehqPiu66)；管理基礎學分學程課程。",
+    "memo": "非管院同學請於2月9日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限65人，得請授課教師簽准後可放寬至70人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/Eq25uud7o6YvWZz37)；管理基礎學分學程課程。",
     "name": "作業研究(二) Operations Research (II)",
     "num_limit": "65",
     "reg_num": "-999",
@@ -24369,7 +24369,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳雅君",
-    "time": "W78-HA218[GF]"
+    "time": "W12-HA208[GF]"
   },
   "1142_534012": {
     "code": "HSIE30025",
@@ -24868,7 +24868,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "534404",
-    "memo": "應藝所優先選課；外系所學生須出席第1堂課，經授課教師同意者可登記加選。(不開放紙本加簽, 校際選修除外)",
+    "memo": "(不開放紙本加簽, 校際選修除外)應藝所優先選課；外系所學生須出席第1堂課，經授課教師同意者可登記加選。",
     "name": "複雜系統與美學 Complexity and Aesthetics",
     "num_limit": "15",
     "reg_num": "-999",
@@ -24892,7 +24892,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "534406",
-    "memo": "應藝所優先選課；外系所學生須出席第1堂課，經授課教師同意者可登記加選。(不開放紙本加簽, 校際選修除外)",
+    "memo": "(不開放紙本加簽, 校際選修除外)應藝所優先選課；外系所學生須出席第1堂課，經授課教師同意者可登記加選。",
     "name": "使用者經驗設計 User Experience Design",
     "num_limit": "18",
     "reg_num": "-999",
@@ -26349,7 +26349,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "謝易叡",
-    "time": "M567-ED101[GF]"
+    "time": "Mabc-ED220[GF]"
   },
   "1142_535224": {
     "code": "EEIE30096",
@@ -29565,7 +29565,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "林武雄",
-    "time": "T234-SA212[GF]"
+    "time": "W234-SA212[GF]"
   },
   "1142_536750": {
     "code": "SCMA30011",
@@ -31425,7 +31425,7 @@
     "num_limit": "40",
     "reg_num": "-999",
     "teacher": "許家馨",
-    "time": "W789-MB1069[GF]"
+    "time": "W789-A302[GF]"
   },
   "1142_537910": {
     "code": "LWLW30275",
@@ -31660,7 +31660,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "539001",
-    "memo": "1前瞻所甲組專業選修、乙組專業選修課程(適用110~112學年度入學)；甲組專業選修課程(適用113學年度入學)2.融合台積電新創中心課程資源現場實習 3.修過積體電路技術(一)&(二)將可以抵免台灣半導體研究中心(TSRI)之「SM01半導體製程技術訓練班」之基礎課程",
+    "memo": "1前瞻所甲組專業選修、乙組專業選修課程(適用110~112學年度入學)；甲組專業選修課程(適用113-114學年度入學)2.融合台積電新創中心課程資源現場實習 3.修過積體電路技術(一)&amp;(二)將可以抵免台灣半導體研究中心(TSRI)之「SM01半導體製程技術訓練班」之基礎課程",
     "name": "積體電路技術(二) IC technology (2)",
     "num_limit": "90",
     "reg_num": "-999",
@@ -39090,7 +39090,7 @@
     "id": "569005",
     "memo": "限大二以上。",
     "name": "淨零排放與實務 Net Zero Emission and Practices",
-    "num_limit": "27",
+    "num_limit": "21",
     "reg_num": "-999",
     "teacher": "高正忠",
     "time": "W34-EE129[GF]"
@@ -39102,7 +39102,7 @@
     "id": "569006",
     "memo": "限大二以上。本課程採用非同步及同步遠距教學;但第一週實體教室上課。\n擋修【淨零碳規劃管理與碳盤查程序】\n",
     "name": "淨零碳規劃管理與碳盤查 Net Zero Management and Greenhouse Gas Inventory",
-    "num_limit": "30",
+    "num_limit": "21",
     "reg_num": "-999",
     "teacher": "高正忠、黃文輝",
     "time": "T56-AB102[GF]"
@@ -39138,7 +39138,7 @@
     "id": "569009",
     "memo": "限大二以上。",
     "name": "循環經濟與實務 Circular Economy and Practices",
-    "num_limit": "27",
+    "num_limit": "21",
     "reg_num": "-999",
     "teacher": "高正忠",
     "time": "T34-A302[GF]"

@@ -239,6 +239,18 @@
     "teacher": "",
     "time": ""
   },
+  "113X_040006": {
+    "code": "IAFA01582",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "040006",
+    "memo": "[English Medium Course]",
+    "name": "策略管理 Strategic Management",
+    "num_limit": "9999",
+    "reg_num": "1",
+    "teacher": "",
+    "time": ""
+  },
   "113X_111800": {
     "code": "NSDN10031",
     "credit": "2.00",

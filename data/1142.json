@@ -2298,7 +2298,7 @@
     "id": "110187",
     "memo": "限醫學系醫師工程師組、電機系丙組學生選修。",
     "name": "醫師工程師專題研究(二) Physician Engineer Research Project (Ⅱ)",
-    "num_limit": "12",
+    "num_limit": "13",
     "reg_num": "-999",
     "teacher": "楊懷哲",
     "time": ""
@@ -5178,7 +5178,7 @@
     "id": "112263",
     "memo": "限已完成物理治療臨床實習36週以上之學生選修",
     "name": "顱頸部與顳顎關節之物理治療 Physical Therapy for the Craniocervical Complex and the Temporomandibular Joint",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "王子娟、劉育銓",
     "time": "Wyz-"
@@ -5876,7 +5876,7 @@
     "name": "植物生理學 Plant Physiology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "蔡宜芳、李秀敏、葉國禎、涂世隆、朱修安、余天心、王中茹、何金敏、吳志航、何承訓、吳亭穎",
+    "teacher": "蔡宜芳、李秀敏、葉國禎、涂世隆、朱修安、余天心、王中茹、陳荷明、何金敏、吳志航、何承訓、吳亭穎、鄭惠國",
     "time": "T34-YK101[YM]"
   },
   "1142_112503": {
@@ -6764,7 +6764,7 @@
     "name": "高齡整合照護理論與實踐 Holistically Integrated Geriatric Care: Theoretical and Practical Approach",
     "num_limit": "30",
     "reg_num": "-999",
-    "teacher": "陳亮恭、李威儒、彭莉甯、待聘、周明岳、陳亮宇、劉慕恩、黃安君、林鉅勝、梁志光",
+    "teacher": "陳亮恭、李威儒、彭莉甯、待聘、周明岳、陳亮宇、劉慕恩、黃安君、林鉅勝、王郁鈞、梁志光",
     "time": "R89-"
   },
   "1142_114001": {
@@ -9276,12 +9276,12 @@
     "time": "F3-YL845[YM]"
   },
   "1142_131118": {
-    "code": "MDBS30064",
+    "code": "MDBS30084",
     "credit": "2.00",
     "hours": "2.00",
     "id": "131118",
     "memo": "",
-    "name": "精神醫學多元論 The Mind, Brain, and Behavior in Psychiatry",
+    "name": "精神醫學多元論(二) The Mind, Brain, and Behavior in Psychiatry(II)",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蔡欣融、蔡世仁",
@@ -13172,7 +13172,7 @@
     "name": "人工智慧於醫學研究之應用 Artificial intelligence in medical research",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "楊智傑、鄭彥甫、李懿宬、李宗夷、吳育德、楊智宇、曾新穆、楊進木、陳鋕雄、林錦生、廖偉智、劉致宏、陳震宇、葉肇元、梁文議",
+    "teacher": "楊智傑、曾意儒、鄭彥甫、李懿宬、李宗夷、吳育德、楊智宇、曾新穆、楊進木、陳鋕雄、林錦生、廖偉智、劉致宏、陳震宇、葉肇元、梁文議",
     "time": "F78-YL402[YM]"
   },
   "1142_140316": {
@@ -27294,7 +27294,7 @@
     "id": "535509",
     "memo": "資訊科學與工程研究所碩士班丁組必修，其他組別請勿選課。",
     "name": "系統與網路服務研究(二) System and Network Services Research (II)",
-    "num_limit": "7",
+    "num_limit": "8",
     "reg_num": "-999",
     "teacher": "謝秉均",
     "time": ""
@@ -31758,7 +31758,7 @@
     "id": "539100",
     "memo": "[English Medium Course]，本所甲組核心課程",
     "name": "電腦視覺 Computer Vision",
-    "num_limit": "75",
+    "num_limit": "80",
     "reg_num": "-999",
     "teacher": "楊元福、鄭嘉珉",
     "time": "T234-A305[GF]"
@@ -32572,7 +32572,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "555901",
-    "memo": "1.  限本專班同學選修\n2. 上課地點為警政署刑事警察局偵防大樓4樓簡報室\n3.  課程時間為每週四19:00-21:00",
+    "memo": "1.  限本專班同學選修\n2. 上課地點為警政署刑事警察局科技大樓11樓多功能會議室\n3.  課程時間為每週四19:00-21:00",
     "name": "通訊監察與解析 Lawful interception: principle and application",
     "num_limit": "60",
     "reg_num": "-999",
@@ -34110,7 +34110,7 @@
     "id": "561028",
     "memo": "",
     "name": "西方藝術史導論 History of Western Art",
-    "num_limit": "55",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "武嘉文",
     "time": "T56-A203[GF]"
@@ -34122,7 +34122,7 @@
     "id": "561029",
     "memo": "",
     "name": "身體與藝術 Body and Art",
-    "num_limit": "65",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "武嘉文",
     "time": "T78-A203[GF]"
@@ -38994,7 +38994,7 @@
     "id": "567004",
     "memo": "電機系學生優先選課。不接受生技系學生採計為核心學分。",
     "name": "近代生物學(二) Modern Biology (II)",
-    "num_limit": "120",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "梁美智、高智飛、林芷歆",
     "time": "T2W34-EE105[GF]"
@@ -43139,18 +43139,6 @@
     "teacher": "林明憲",
     "time": "M678-"
   },
-  "1142_910250": {
-    "code": "SESE20125",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910250",
-    "memo": "(預計停開)",
-    "name": "環境化學 Environmental Chemistry",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "王志嘉",
-    "time": "R234-"
-  },
   "1142_910251": {
     "code": "SESE20305",
     "credit": "3.00",
@@ -43216,11 +43204,11 @@
     "credit": "3.00",
     "hours": "4.00",
     "id": "910256",
-    "memo": "環資組，上課地點：國防大學理工學院，授課教師：林思源老師",
+    "memo": "環資組，上課地點：國防大學理工學院，授課教師：吳憲(王民)、林思源老師",
     "name": "測量學及實習 Surveying and Practice",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "系統工程",
+    "teacher": "系統工程、吳憲珉",
     "time": "T89R12-"
   },
   "1142_910257": {
@@ -43281,7 +43269,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "系統工程",
-    "time": "W678-"
+    "time": "R234-"
   },
   "1142_910262": {
     "code": "SESE10270",
@@ -43432,11 +43420,11 @@
     "credit": "3.00",
     "hours": "4.00",
     "id": "910274",
-    "memo": "環資組，重補修課程，上課地點：國防大學理工學院，授課教師：方星文老師",
+    "memo": "環資組，重補修課程，上課地點：國防大學理工學院，授課教師：吳憲(王民)、方星文老師",
     "name": "測量學及實習 Surveying and Practice",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "系統工程",
+    "teacher": "系統工程、吳憲珉",
     "time": "MabF67-"
   },
   "1142_910275": {
@@ -44248,7 +44236,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910343",
-    "memo": "(預計停開)",
+    "memo": "(停開)",
     "name": "資訊系統應用實務 Information System Practice",
     "num_limit": "9999",
     "reg_num": "-999",

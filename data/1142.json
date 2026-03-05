@@ -2336,7 +2336,7 @@
     "name": "醫師科學家研究概論(下) Physician-Scientist Program-Career Planning (2)",
     "num_limit": "40",
     "reg_num": "-999",
-    "teacher": "兵岳忻、鄭彥甫、張佩靖、郭文娟、蔡金吾、林士傑、林雅萍、陳摘文、侯珮珊、姜為中、林錦洲、陳德禮、王廷瑋",
+    "teacher": "兵岳忻、鄭彥甫、張佩靖、郭文娟、蔡金吾、林士傑、楊智傑、陳摘文、侯珮珊、張家祥、姜為中",
     "time": "T8-YM201[YM]"
   },
   "1142_110191": {
@@ -5876,7 +5876,7 @@
     "name": "植物生理學 Plant Physiology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "蔡宜芳、李秀敏、葉國禎、涂世隆、朱修安、余天心、王中茹、陳荷明、何金敏、吳志航、何承訓、吳亭穎、鄭惠國",
+    "teacher": "蔡宜芳、李秀敏、葉國禎、涂世隆、朱修安、王中茹、陳荷明、何金敏、吳志航、何承訓、吳亭穎、鄭惠國",
     "time": "T34-YK101[YM]"
   },
   "1142_112503": {
@@ -6220,12 +6220,12 @@
     "credit": "4.00",
     "hours": "4.00",
     "id": "113201",
-    "memo": "A、B組上課地點:知行216教室\nC組上課地點:週五綜合一館B102、週三工程五館129",
+    "memo": "A、B組上課地點:知行216教室\nC組上課地點:週五工程五館129、週三工程五館129\n",
     "name": "微生物學及免疫學 Microbiology & Immunology",
     "num_limit": "156",
     "reg_num": "-999",
     "teacher": "陳念榮、蔡明翰、高正彥",
-    "time": "F567-AB102[GF],W12-EE129[GF],W12F567-YX216[YM]"
+    "time": "W12F567-EE129[GF],W12-YX216[YM]"
   },
   "1142_113300": {
     "code": "MDDI10001",
@@ -6573,7 +6573,7 @@
     "num_limit": "30",
     "reg_num": "-999",
     "teacher": "曾意儒、張高榮",
-    "time": "M56-EC329[GF]"
+    "time": "M56-EC315[GF]"
   },
   "1142_113901": {
     "code": "MDCH10010",
@@ -6884,7 +6884,7 @@
     "name": "有機化學實驗 Laboratory in Organic Chemistry",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "蔡有光、姜為中",
+    "teacher": "蔡有光、姜為中、黃依川",
     "time": "W5678-YED309[YM]"
   },
   "1142_114209": {
@@ -6908,7 +6908,7 @@
     "name": "有機化學實驗 Laboratory in Organic Chemistry",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "蔡有光、姜為中",
+    "teacher": "蔡有光、姜為中、黃依川",
     "time": "F567-YED309[YM]"
   },
   "1142_114306": {
@@ -7904,7 +7904,7 @@
     "name": "專題討論(碩士班中文) Seminar MI",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳世彬、楊慕華、楊盈盈、黃柏勳、楊智宇、陳斯婷、賴峻毅、蘇建維、魏耀揮、梁毓津、吳肇卿",
+    "teacher": "陳世彬、楊慕華、楊盈盈、黃柏勳、李美璇、楊智宇、陳斯婷、賴峻毅、廖皎君、蘇建維、楊懷壹、魏耀揮、梁毓津、吳肇卿",
     "time": "R34-YL404[YM]"
   },
   "1142_130301": {
@@ -11997,7 +11997,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "黃雪莉、陳念榮",
-    "time": "R34-YC401[YM]"
+    "time": "R34-YC302[YM]"
   },
   "1142_132808": {
     "code": "LSMI30104",
@@ -13100,7 +13100,7 @@
     "name": "專題討論(博士班一) Seminar DI",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳世彬、黃奇英、楊盈盈、黃柏勳、楊智宇、賴峻毅、吳成文、林錫勳、魏耀揮、陳宜民、王鵬惠、陳建良、吳肇卿",
+    "teacher": "陳世彬、鄭彥甫、楊慕華、黃奇英、楊盈盈、黃柏勳、楊智宇、陳斯婷、陳志強、賴峻毅、廖皎君、吳成文、林錫勳、魏耀揮、陳宜民、謝世良、王鵬惠、陳建良、梁毓津、吳肇卿",
     "time": "R78-YL405[YM]"
   },
   "1142_140310": {
@@ -13184,7 +13184,7 @@
     "name": "粒線體功能異常和人類疾病 Mitochondrial dysfunctions and human diseases",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "吳肇卿、許翺麟、黎萬君、廖皎君、姜為中、藍昇輝、張壯榮、梁毓津、張瀞文、王志豪",
+    "teacher": "吳肇卿、許翺麟、黎萬君、廖皎君、姜為中、藍昇輝、張壯榮、高茂傑、高淑慧、梁毓津、張瀞文、王志豪、張通銘",
     "time": "W78-YL405[YM]"
   },
   "1142_140317": {
@@ -15162,7 +15162,7 @@
     "id": "161051",
     "memo": "初選階段限中醫系學生選修",
     "name": "中醫古籍文選 Literature of Traditional Chinese Medicine",
-    "num_limit": "20",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "游均晶",
     "time": "W78-EB402[GF]"
@@ -18993,7 +18993,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "陳巍仁",
-    "time": "R34-,M78-ED220[GF]"
+    "time": "R34-ED116[GF],M78-ED220[GF]"
   },
   "1142_515024": {
     "code": "EEEC10031",
@@ -19833,7 +19833,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "吳卓諭、黃昱智、余俊宏、賴青沂、李明峻",
-    "time": "F34n-EDB01[GF]"
+    "time": "F34n-ED117[GF]"
   },
   "1142_515161": {
     "code": "EEEC20051",
@@ -20622,7 +20622,7 @@
     "id": "515518",
     "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課；請依各組入學年度之「必修科目表」選課；學士班七大主題學程；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "正規語言概論 Introduction to Formal Language",
-    "num_limit": "115",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "陳穎平",
     "time": "T34-EC122[GF]"
@@ -26205,7 +26205,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "林聖迪、林國瑞",
-    "time": "R34-ED116[GF],M6-ED201[GF]"
+    "time": "R34-,M6-ED201[GF]"
   },
   "1142_535211": {
     "code": "EEIE30016",
@@ -26313,7 +26313,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蘇彬",
-    "time": "R234-ED103[GF]"
+    "time": "R234-EE106[GF]"
   },
   "1142_535220": {
     "code": "EEIE30015",
@@ -27741,7 +27741,7 @@
     "num_limit": "25",
     "reg_num": "-999",
     "teacher": "陳永昱",
-    "time": "Mz12-EC022[GF]"
+    "time": "Mz12-EC114[GF]"
   },
   "1142_535703": {
     "code": "CSDS30009",
@@ -31077,7 +31077,7 @@
     "num_limit": "35",
     "reg_num": "-999",
     "teacher": "黃星華",
-    "time": "R89a-M101[GF]"
+    "time": "R89a-M102[GF]"
   },
   "1142_537711": {
     "code": "MGIF30095",
@@ -33762,7 +33762,7 @@
     "id": "559004",
     "memo": "上課地點為：台北北門校區四樓B401-1",
     "name": "台日企業專題研討 Taiwan Japan Management seminar",
-    "num_limit": "60",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "黃仕斌、林春成、陳宗岡、鍾惠民、張家齊、戴天時、邱裕鈞、蔡有光、劉興成",
     "time": "S89abcd-"
@@ -34530,7 +34530,7 @@
     "id": "561063",
     "memo": "「當代人需了解的變態心理學」不接受修過「精神醫學」或「精神科護理學」相關課程同學修讀",
     "name": "當代人需了解的變態心理學 Abnormal psychology for everyone",
-    "num_limit": "50",
+    "num_limit": "55",
     "reg_num": "-999",
     "teacher": "楊大和",
     "time": "W567-A213[GF]"
@@ -34578,7 +34578,7 @@
     "id": "561067",
     "memo": "",
     "name": "電影與生活中的機器人科技 Robot Technology in Movies and Life",
-    "num_limit": "55",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "楊谷洋",
     "time": "R34-A203[GF]"
@@ -38502,7 +38502,7 @@
     "id": "565004",
     "memo": "",
     "name": "物理(二) Physics(II)",
-    "num_limit": "85",
+    "num_limit": "86",
     "reg_num": "-999",
     "teacher": "陳煜璋",
     "time": "M34R78-SC106[GF]"
@@ -38986,18 +38986,6 @@
     "reg_num": "-999",
     "teacher": "陳文亮、黃兆祺、鄒協成、莊碧簪",
     "time": "R567-SC210[GF]"
-  },
-  "1142_567004": {
-    "code": "GEBT00009",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "567004",
-    "memo": "電機系學生優先選課。不接受生技系學生採計為核心學分。",
-    "name": "近代生物學(二) Modern Biology (II)",
-    "num_limit": "0",
-    "reg_num": "-999",
-    "teacher": "梁美智、高智飛、林芷歆",
-    "time": "T2W34-EE105[GF]"
   },
   "1142_567005": {
     "code": "GEBT00005",
@@ -39621,7 +39609,7 @@
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "楊可欣",
-    "time": "R34-YT103[YM]"
+    "time": "R34-YX202[YM]"
   },
   "1142_579022": {
     "code": "GECL00017",

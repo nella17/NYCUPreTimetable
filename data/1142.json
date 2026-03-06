@@ -2696,7 +2696,7 @@
     "name": "生物化學 Biochemistry",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "黎萬君、林姝君、羅正汎、涂曦丰、林怡彣、林榮辰",
+    "teacher": "黎萬君、林姝君、羅正汎、涂曦丰、林怡彣、林榮辰、蘇真瑩",
     "time": "W567-YD105[YM]"
   },
   "1142_111505": {
@@ -6225,7 +6225,7 @@
     "num_limit": "156",
     "reg_num": "-999",
     "teacher": "陳念榮、蔡明翰、高正彥",
-    "time": "W12F567-EE129[GF],W12-YX216[YM]"
+    "time": "W12F567-EE129[GF],W12F567-YX216[YM]"
   },
   "1142_113300": {
     "code": "MDDI10001",
@@ -8684,7 +8684,7 @@
     "name": "R統計回歸模式於環境流行病學之應用 Regression Method in Environmental Epidemiology Using R Language",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "潘文驥",
+    "teacher": "潘文驥、吳威德",
     "time": "W567-YS105[YM]"
   },
   "1142_130816": {
@@ -11416,12 +11416,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "132508",
-    "memo": "生醫影像學程",
+    "memo": "",
     "name": "醫學物理特論 Special topics on medical physics",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "許世明",
-    "time": "R56-YB134[YM]"
+    "time": "M9a-YB134[YM]"
   },
   "1142_132509": {
     "code": "BEIR30015",
@@ -11500,7 +11500,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "132515",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "放射材料化學 Radioactive Materials Chemistry",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -11853,7 +11853,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "張立鴻、王培寧",
-    "time": "M34-YL837[YM]"
+    "time": "M34-YN603[YM]"
   },
   "1142_132707": {
     "code": "LSNS30043",
@@ -12489,7 +12489,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "嚴偉哲",
-    "time": "T567-YX211[YM]"
+    "time": "T567-YX201[YM]"
   },
   "1142_133103": {
     "code": "SHPH30029",
@@ -12572,7 +12572,7 @@
     "name": "科技與社會實作方法 Methodology and Practice of Science, Technology and Society",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "郭文華、王文基、范玫芳、陳嘉新、洪紹洋、彭松嶽、顧彩璇、嚴曉珮",
+    "teacher": "郭文華、王文基、范玫芳、陳嘉新、洪紹洋、彭松嶽、顧彩璇、嚴曉珮、林宜平",
     "time": "F234-YX321[YM]"
   },
   "1142_133202": {
@@ -12834,7 +12834,7 @@
     "id": "133507",
     "memo": "",
     "name": "智慧整合式照護模式設計與運用 Designing a Smart Integrative Healthcare System",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "張博論",
     "time": "Tab-YN108[YM]"
@@ -15165,7 +15165,7 @@
     "num_limit": "30",
     "reg_num": "-999",
     "teacher": "游均晶",
-    "time": "W78-EB402[GF]"
+    "time": "W78-EB415[GF]"
   },
   "1142_162000": {
     "code": "GELT10008",
@@ -24896,7 +24896,7 @@
     "name": "設計運算與數位製造 Design Computation & Digital Fabrication",
     "num_limit": "15",
     "reg_num": "-999",
-    "teacher": "李建佑、待聘",
+    "teacher": "李建佑、蔡佳霖",
     "time": "Wabc-HBB13[GF]"
   },
   "1142_534406": {
@@ -28113,7 +28113,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "杜長慶",
-    "time": "R567-EE116[GF]"
+    "time": "R567-EE205[GF]"
   },
   "1142_535913": {
     "code": "STST30050",
@@ -28809,7 +28809,7 @@
     "num_limit": "36",
     "reg_num": "-999",
     "teacher": "林慶彰",
-    "time": "R567-EB415[GF]"
+    "time": "R567-EB117[GF]"
   },
   "1142_536223": {
     "code": "ENCV30090",
@@ -29673,7 +29673,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "張佳智",
-    "time": "R3F34-SB203[GF]"
+    "time": "W56R6-EO701[GF]"
   },
   "1142_536807": {
     "code": "SCIC30062",
@@ -29817,7 +29817,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "孫建文",
-    "time": "M567-SB203[GF]"
+    "time": "M567-SB321[GF]"
   },
   "1142_536854": {
     "code": "SCMS30013",
@@ -30309,7 +30309,7 @@
     "num_limit": "10",
     "reg_num": "-999",
     "teacher": "張家齊",
-    "time": "R678-M104[GF]"
+    "time": "M234-M104[GF]"
   },
   "1142_537018": {
     "code": "MGMS30008",
@@ -34110,7 +34110,7 @@
     "id": "561028",
     "memo": "",
     "name": "西方藝術史導論 History of Western Art",
-    "num_limit": "60",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "武嘉文",
     "time": "T56-A203[GF]"
@@ -34422,7 +34422,7 @@
     "id": "561054",
     "memo": "",
     "name": "優雅老化心理學 Grace Aging Psychology",
-    "num_limit": "120",
+    "num_limit": "126",
     "reg_num": "-999",
     "teacher": "程千芳",
     "time": "R34-A103[GF]"
@@ -34434,7 +34434,7 @@
     "id": "561055",
     "memo": "",
     "name": "藥學知多少 An introductory guide to pharmacy",
-    "num_limit": "65",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "吳宗軒、林滿玉、姜紹青、陳惠亭、陳謄州、黃世宗、康照洲、曾冠燁",
     "time": "T34-A103[GF]"
@@ -34530,7 +34530,7 @@
     "id": "561063",
     "memo": "「當代人需了解的變態心理學」不接受修過「精神醫學」或「精神科護理學」相關課程同學修讀",
     "name": "當代人需了解的變態心理學 Abnormal psychology for everyone",
-    "num_limit": "55",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "楊大和",
     "time": "W567-A213[GF]"
@@ -34578,7 +34578,7 @@
     "id": "561067",
     "memo": "",
     "name": "電影與生活中的機器人科技 Robot Technology in Movies and Life",
-    "num_limit": "60",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "楊谷洋",
     "time": "R34-A203[GF]"

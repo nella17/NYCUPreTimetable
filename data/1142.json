@@ -9897,7 +9897,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蔡慈儀、黃久美、陳紀雯、劉佩青",
-    "time": "T567-YN319[YM]"
+    "time": "T567-YN320[YM]"
   },
   "1142_131705": {
     "code": "NSCN30067",
@@ -14814,7 +14814,7 @@
     "id": "161020",
     "memo": "開學後人工加簽，開放6位「優先開放第二週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
     "name": "國際關係 International Relations",
-    "num_limit": "35",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "彭懷恩",
     "time": "F34-YT204[YM]"
@@ -14826,7 +14826,7 @@
     "id": "161021",
     "memo": "開學後人工加簽，開放6位「優先開放第二週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依高年級至低年級逐步遞補。",
     "name": "人際關係與溝通 Interpersonal Relations and Communication",
-    "num_limit": "35",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "彭懷恩",
     "time": "F56-YT204[YM]"
@@ -14910,7 +14910,7 @@
     "id": "161028",
     "memo": "開學後人工加簽，開放6位「優先開放第二週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依抽籤方式由高年級至低年級逐步遞補，為符合公平原則，加簽時間於正式上課前5-10分鐘進行，若有符合上述條件者，請攜帶學生證於課堂上抽籤，謝謝！",
     "name": "翻轉管理學 A Critical Understanding of Management",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "徐詩偉",
     "time": "F34-A103[GF],F34-YT301[YM]"
@@ -14922,7 +14922,7 @@
     "id": "161029",
     "memo": "開學後人工加簽，開放6位「優先開放第二週有來課堂特殊選課需求學生 (含大三以上畢業需求者、實習者、出國交換計畫者及特殊需求者」，依抽籤方式由高年級至低年級逐步遞補，為符合公平原則，加簽時間於正式上課前5-10分鐘進行，若有符合上述條件者，請攜帶學生證於課堂上抽籤，謝謝！\n",
     "name": "翻轉管理學 A Critical Understanding of Management",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "徐詩偉",
     "time": "F56-A103[GF],F56-YT301[YM]"
@@ -14970,7 +14970,7 @@
     "id": "161033",
     "memo": "",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
-    "num_limit": "15",
+    "num_limit": "19",
     "reg_num": "-999",
     "teacher": "徐詩偉、洪紹洋",
     "time": "F78-YX202[YM]"
@@ -16592,7 +16592,7 @@
     "name": "客家音樂與文化 Hakka Music and Culture",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "劉延芳",
     "time": "Fabc-HK208[LJ]"
   },
   "1142_410000": {
@@ -19722,7 +19722,7 @@
     "id": "515150",
     "memo": "",
     "name": "半導體工程 Semiconductor Engineering",
-    "num_limit": "40",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "荊鳳德",
     "time": "F567-ED303[GF]"
@@ -20685,7 +20685,7 @@
     "num_limit": "130",
     "reg_num": "-999",
     "teacher": "易志偉",
-    "time": "M34-EC016[GF]"
+    "time": "M34-ED117[GF]"
   },
   "1142_515605": {
     "code": "CSCS20049",
@@ -25344,9 +25344,9 @@
     "time": "W678-HA105[GF]"
   },
   "1142_534711": {
-    "code": "HSAR30058",
-    "credit": "2.00",
-    "hours": "2.00",
+    "code": "HSAR30059",
+    "credit": "3.00",
+    "hours": "3.00",
     "id": "534711",
     "memo": "",
     "name": "電腦輔助建築設計 Fundamentals of CAD",
@@ -27210,7 +27210,7 @@
     "id": "535502",
     "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]資訊學院優先(不開放在職專班網路選課)。1.博士班資格考考核科目。2.請依各所入學年度之修業要點選課。",
     "name": "作業系統 Operating System",
-    "num_limit": "150",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "袁賢銘",
     "time": "W34-EDB27[GF]"
@@ -34542,7 +34542,7 @@
     "id": "561064",
     "memo": "",
     "name": "生態的感官: 文學、電影、新媒介 The Senses of Ecology: Literature, Cinema, and New Media",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "楊子樵",
     "time": "F34-A213[GF]"
@@ -44958,7 +44958,7 @@
     "id": "960007",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－防衛動員 All-out Defense Education Military Training-Defense Mobilization",
-    "num_limit": "70",
+    "num_limit": "75",
     "reg_num": "-999",
     "teacher": "王先正",
     "time": "F34-A104[GF]"

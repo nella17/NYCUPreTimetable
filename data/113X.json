@@ -251,6 +251,18 @@
     "teacher": "",
     "time": ""
   },
+  "113X_040007": {
+    "code": "IAFA01583",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "040007",
+    "memo": "[English Medium Course]",
+    "name": "新創企業發展 New Enterprise Development",
+    "num_limit": "9999",
+    "reg_num": "1",
+    "teacher": "",
+    "time": ""
+  },
   "113X_111800": {
     "code": "NSDN10031",
     "credit": "2.00",

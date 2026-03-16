@@ -1667,18 +1667,6 @@
     "teacher": "醫學系",
     "time": ""
   },
-  "1142_110133": {
-    "code": "MDMD20250",
-    "credit": "4.00",
-    "hours": ".00",
-    "id": "110133",
-    "memo": "",
-    "name": "醫學教育專題研究實習 Clerkship on medical education",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "醫學系",
-    "time": ""
-  },
   "1142_110136": {
     "code": "MDMD20252",
     "credit": "4.00",
@@ -1917,18 +1905,6 @@
     "num_limit": "9999",
     "reg_num": "12",
     "teacher": "楊智傑、梁仁峯、張景智",
-    "time": ""
-  },
-  "1142_110156": {
-    "code": "MDMD10160",
-    "credit": "2.00",
-    "hours": "6.00",
-    "id": "110156",
-    "memo": "",
-    "name": "醫院觀摩學習（四） Hospital Clinical Observation Program(4)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "楊智傑、梁仁峯",
     "time": ""
   },
   "1142_110157": {
@@ -2590,18 +2566,6 @@
     "reg_num": "64",
     "teacher": "龔彥穎、郭文華、楊仁鄰、鄭惇方、曾元卜、吳大鵬、陳昭憲、許家豪",
     "time": "W78-YX216[YM]"
-  },
-  "1142_110212": {
-    "code": "MDMD10164",
-    "credit": "1.00",
-    "hours": "3.00",
-    "id": "110212",
-    "memo": "",
-    "name": "醫院觀摩學習（七） Hospital Clinical Observation Program(7)",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "楊智傑、梁仁峯",
-    "time": ""
   },
   "1142_110213": {
     "code": "MDMD20373",
@@ -3779,18 +3743,6 @@
     "teacher": "吳宗軒、王孟廷、東雅惠、陳謄州、黃世宗",
     "time": "W34-YT301[YM]"
   },
-  "1142_111919": {
-    "code": "PSPM10035",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "111919",
-    "memo": "[English Medium Course]隔週上課，每次上課2小時，授課日期參照課程大綱公告，全英文授課",
-    "name": "藥用英文名詞與發音 Medical terminology & pronunciation",
-    "num_limit": "70",
-    "reg_num": "0",
-    "teacher": "姜紹青、張耀文",
-    "time": "T34-YT302[YM]"
-  },
   "1142_111920": {
     "code": "PSPM20021",
     "credit": "5.00",
@@ -3801,30 +3753,6 @@
     "num_limit": "9999",
     "reg_num": "6",
     "teacher": "陳惠亭、王孟廷、林滿玉、胡德民、陳日榮、林宥欣、姜紹青、東雅惠、蘇溶真、廖曉偉、陳謄州、黃世宗",
-    "time": ""
-  },
-  "1142_111921": {
-    "code": "PSPM10007",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "111921",
-    "memo": "",
-    "name": "初階專題討論(二) Seminar on Special Topics (II)",
-    "num_limit": "30",
-    "reg_num": "0",
-    "teacher": "吳宗軒",
-    "time": ""
-  },
-  "1142_111922": {
-    "code": "PSPM10008",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "111922",
-    "memo": "",
-    "name": "初階專題討論(四) Seminar on Special Topics (IV)",
-    "num_limit": "30",
-    "reg_num": "0",
-    "teacher": "吳宗軒",
     "time": ""
   },
   "1142_111923": {
@@ -6127,7 +6055,7 @@
     "memo": "A、B組上課地點:知行216教室\nC組上課地點:週五工程五館129、週三工程五館129\n",
     "name": "微生物學及免疫學 Microbiology & Immunology",
     "num_limit": "156",
-    "reg_num": "145",
+    "reg_num": "144",
     "teacher": "陳念榮、蔡明翰、高正彥",
     "time": "W12F567-EE129[GF],W12F567-YX216[YM]"
   },
@@ -10042,18 +9970,6 @@
     "reg_num": "10",
     "teacher": "東雅惠、許家禎",
     "time": "T56-YL401[YM]"
-  },
-  "1142_132009": {
-    "code": "PSPM30039",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "132009",
-    "memo": "",
-    "name": "進階藥物遞送研究法 Methodology in Advanced Drug Delivery Research",
-    "num_limit": "15",
-    "reg_num": "0",
-    "teacher": "林宥欣、胡德民",
-    "time": "W78-YR104[YM]"
   },
   "1142_132010": {
     "code": "PSPM30002",
@@ -14672,7 +14588,7 @@
     "name": "德文(二) German(II)",
     "num_limit": "30",
     "reg_num": "10",
-    "teacher": "",
+    "teacher": "唐岱霞",
     "time": "F78-YT202[YM]"
   },
   "1142_162005": {
@@ -21139,7 +21055,7 @@
     "memo": "1.第一~第三階段限材料系、半導體工程學系(奈米科學組)加選 2.開學後才開放外系或外校加選[English Medium Course]",
     "name": "電子材料 Electronic Materials",
     "num_limit": "60",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "林御專",
     "time": "M567-EF205[GF]"
   },
@@ -22051,7 +21967,7 @@
     "memo": "非管院同學請於2月9日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限125人，得請授課教師簽准後可放寬至130人；管理基礎學分學程課程。",
     "name": "會計學(二) Accounting (II)",
     "num_limit": "125",
-    "reg_num": "84",
+    "reg_num": "83",
     "teacher": "陳宗岡",
     "time": "M567-M-b10[GF]"
   },
@@ -23251,7 +23167,7 @@
     "memo": "上課地點:[高雄校區] KB302",
     "name": "工程數學 Engineering Mathematics",
     "num_limit": "77",
-    "reg_num": "45",
+    "reg_num": "46",
     "teacher": "陳慶永",
     "time": "M567-KB302"
   },
@@ -23263,7 +23179,7 @@
     "memo": "上課地點:[高雄校區] KB302",
     "name": "電磁學(一) Electromagnetics (1)",
     "num_limit": "100",
-    "reg_num": "50",
+    "reg_num": "51",
     "teacher": "林壽煦",
     "time": "R567-KB302"
   },
@@ -23275,7 +23191,7 @@
     "memo": "上課地點:[高雄校區] KB302",
     "name": "電子學(二) Electronics (2)",
     "num_limit": "100",
-    "reg_num": "48",
+    "reg_num": "49",
     "teacher": "林尚亭、林壽煦",
     "time": "T234-KB302"
   },
@@ -23287,7 +23203,7 @@
     "memo": "上課地點:[高雄校區] KB202",
     "name": "電腦程式與計算分析(二) Computer Programming and Computational Analysis (2)",
     "num_limit": "100",
-    "reg_num": "51",
+    "reg_num": "52",
     "teacher": "陳慶永",
     "time": "F567-KB202"
   },
@@ -23299,7 +23215,7 @@
     "memo": "[高雄校區] 授課教師：林壽煦",
     "name": "電子學實驗(二) Electronic Laboratory (2)",
     "num_limit": "50",
-    "reg_num": "28",
+    "reg_num": "29",
     "teacher": "林壽煦",
     "time": "W234-KC108"
   },
@@ -28304,7 +28220,7 @@
     "name": "永續發展 Sustainable Development",
     "num_limit": "45",
     "reg_num": "9",
-    "teacher": "楊德忠、黃爾文、林志平、張淑閔、待聘、于弋翔、林士平、袁宇秉、莊易學、林亮毅、吳佳真、李旻軒",
+    "teacher": "楊德忠、黃爾文、林志平、張淑閔、于弋翔、林士平、袁宇秉、莊易學、林亮毅、吳佳真、陳采萱、李旻軒",
     "time": "M67-EV402[GF]"
   },
   "1142_536600": {
@@ -32911,7 +32827,7 @@
     "memo": "",
     "name": "交通安全與生命教育 Traffic Safety and Life Education",
     "num_limit": "50",
-    "reg_num": "54",
+    "reg_num": "53",
     "teacher": "吳宗修",
     "time": "M56-A103[GF]"
   },
@@ -33319,7 +33235,7 @@
     "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制)核心社會,欲採計核心自然請至人學中心書面申請。",
     "name": "普通心理學 General Psychology",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "梁瓊惠",
     "time": "T78-A204[GF]"
   },
@@ -38119,7 +38035,7 @@
     "memo": "【1】限國際志工選修：本課程為本校國際志工團所選修之培訓課程，需經書審、面試通過錄取後方得修習。【2】上課地點將另行通知。",
     "name": "永續發展與設計實踐-服務學習(二) Sustainable Development and Design Practice-Service Learning II",
     "num_limit": "30",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "潘美玲、嵇達德",
     "time": "Wabc-"
   },
@@ -38863,7 +38779,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "7",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },

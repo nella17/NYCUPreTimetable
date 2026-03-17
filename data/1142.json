@@ -4533,7 +4533,7 @@
     "num_limit": "9999",
     "reg_num": "38",
     "teacher": "陳喬男、王瑞瑤、楊雅如、李雪楨、羅鴻基、施惠婷、周彥君、張世昌、黃心怡、林郁珊、李仁婷、蔡蕙羽、朱琬婷、林松佑、張志謙、羅士倫、巫俊杉、潘宜文、陳琬婷、賴亮穎、林筱真、滕婷、陳孟謙、林倩如、龍柏蔓、陳靖沂、吳佳恩、蕭琬蓁、陳立唯、盧儷文、洪素鶯、林子崴",
-    "time": "W56-YB603[YM]"
+    "time": "W56-YB601[YM]"
   },
   "1142_112217": {
     "code": "BEPT20003",
@@ -6211,7 +6211,7 @@
     "memo": "(線上遠距課程) 1-9週上課，一次2小時。本課程為應考公共衛生師指定修習科目。",
     "name": "流行病學 Epidemiology",
     "num_limit": "30",
-    "reg_num": "31",
+    "reg_num": "32",
     "teacher": "陳信任、東雅惠",
     "time": "F34-YT302[YM]"
   },
@@ -7667,42 +7667,6 @@
     "teacher": "陳世彬、楊慕華、楊盈盈、黃柏勳、李美璇、楊智宇、陳斯婷、賴峻毅、廖皎君、蘇建維、楊懷壹、魏耀揮、梁毓津、吳肇卿",
     "time": "R34-YL404[YM]"
   },
-  "1142_130301": {
-    "code": "MDCM30015",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "130301",
-    "memo": "",
-    "name": "專題討論(碩專班英文) Seminar EMII",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "陳世彬",
-    "time": ""
-  },
-  "1142_130302": {
-    "code": "MDCM30018",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "130302",
-    "memo": "限臨醫所碩士班；專題討論（碩士班中文）與專題討論（碩士班英文）每學期限選其中一門課，不得同時修讀。[English Medium Course]",
-    "name": "專題討論(碩士班英文) Seminar MII",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "陳世彬",
-    "time": ""
-  },
-  "1142_130303": {
-    "code": "MDCM30045",
-    "credit": ".00",
-    "hours": "1.00",
-    "id": "130303",
-    "memo": "本學期碩士班二年級學生必選修,第二階段集體報告時地將再公布",
-    "name": "論文研究(碩士班二年級) Research Review of Thesis MII",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "陳世彬",
-    "time": ""
-  },
   "1142_130400": {
     "code": "MDAC30035",
     "credit": "2.00",
@@ -8419,7 +8383,7 @@
     "memo": "",
     "name": "進階重症醫學 Advanced Critical Care Medicine",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "16",
     "teacher": "馮嘉毅、楊振昌、陳理維、鄭玫枝、許瀚水、陽光耀、丁乾坤、林邑璁、宋思賢、黃獻皞、彭殿王、莊喬琳、林浚仁、楊雀戀",
     "time": "F34-YN118[YM]"
   },
@@ -8455,7 +8419,7 @@
     "memo": "雙數週第34節上課",
     "name": "臨床研究數據分析實戰：從生物統計到AI協作 Clinical Research Data Analysis in Practice: From Biostatistics to AI-Assisted Analysis",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "9",
     "teacher": "劉嘉仁",
     "time": "R4-YN118[YM]"
   },
@@ -8467,7 +8431,7 @@
     "memo": "單數週第56節上課，上課時間為1400-1550。",
     "name": "急重症感染學 Infectious Diseases in Emergency and Critical Care Medicine",
     "num_limit": "9999",
-    "reg_num": "14",
+    "reg_num": "15",
     "teacher": "林邑璁、馮嘉毅、陳理維、鄭玫枝、馮長風、陳昕白、廖俊星、楊家瑞",
     "time": "R5-YN118[YM]"
   },
@@ -8479,7 +8443,7 @@
     "memo": "雙數週第56節上課，上課時間為1400-1550。",
     "name": "急重症生理監測 Monitoring in emergency medicine, Anesthesia and Critical Care",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "14",
     "teacher": "丁乾坤、林祐霆、王審之、吳承學、沈靜慧、鄧惟濃、劉靖揚",
     "time": "R6-YN118[YM]"
   },
@@ -10868,7 +10832,7 @@
     "name": "專題討論(乙組) Seminar",
     "num_limit": "9999",
     "reg_num": "18",
-    "teacher": "李易展、陳傳霖、莊惠燕、吳駿一、張御展、詹明賢、蘇佳沂",
+    "teacher": "李易展、陳傳霖、莊惠燕、吳駿一、張御展、詹明賢",
     "time": "F56-YT103[YM]"
   },
   "1142_132503": {
@@ -10882,18 +10846,6 @@
     "reg_num": "6",
     "teacher": "李易展、莊惠燕、張御展、陳建鋒",
     "time": "W78-YT103[YM]"
-  },
-  "1142_132505": {
-    "code": "BEIR30072",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "132505",
-    "memo": "",
-    "name": "分子影像特論 Special Topics in molecular Imaging",
-    "num_limit": "20",
-    "reg_num": "0",
-    "teacher": "陳志成",
-    "time": "Rab-YB134[YM]"
   },
   "1142_132506": {
     "code": "BEIR30007",
@@ -12512,7 +12464,7 @@
     "name": "遺傳門診實習(一) Clinical Training in Medical Genetics Ⅰ",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "牛道明",
+    "teacher": "牛道明、陳燕彰",
     "time": "M5678-"
   },
   "1142_140304": {
@@ -12536,7 +12488,7 @@
     "name": "醫學研究動物模式與技術 Animal Models and Technology of Medical Research",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "施俊哲、葉添順、邱士華、黃柏勳、林惠菁、張世霖、鄭財木、鄭嘉雄",
+    "teacher": "施俊哲、葉添順、邱士華、黃柏勳、林惠菁、張世霖、鄭財木、鄭嘉雄、楊逸萍",
     "time": "W56-YL405[YM]"
   },
   "1142_140306": {
@@ -12611,18 +12563,6 @@
     "teacher": "陳世彬",
     "time": "U1-"
   },
-  "1142_140313": {
-    "code": "MDCM30036",
-    "credit": ".00",
-    "hours": ".00",
-    "id": "140313",
-    "memo": "",
-    "name": "論文研究(博士班六年級) Research Review of Thesis DIII",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "陳世彬",
-    "time": ""
-  },
   "1142_140314": {
     "code": "MDCM30008",
     "credit": "2.00",
@@ -12668,7 +12608,7 @@
     "name": "分子細胞生物學研究技術 Techniques of molecular Biological Research",
     "num_limit": "9999",
     "reg_num": "22",
-    "teacher": "陳斯婷、牛道明、葉添順、楊慕華、黃奇英、邱士華、張佩靖、陳志強、何橈通、楊永正、陳志學",
+    "teacher": "陳斯婷、牛道明、葉添順、楊慕華、黃奇英、邱士華、張佩靖、陳志強、何橈通、楊永正、陳志學、楊逸萍",
     "time": "F34-YL405[YM]"
   },
   "1142_140318": {
@@ -12682,18 +12622,6 @@
     "reg_num": "1",
     "teacher": "陳世彬",
     "time": "F56-YL405[YM]"
-  },
-  "1142_140319": {
-    "code": "MDCM30021",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "140319",
-    "memo": "",
-    "name": "慢性病流行病學研究 Epidemiological Study on Chronic Disease",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "許志成",
-    "time": "T78-YR210[YM]"
   },
   "1142_140320": {
     "code": "MDCM30048",
@@ -13558,42 +13486,6 @@
     "reg_num": "2",
     "teacher": "林寬佳、黃心苑、郎慧珠、鄧宗業、蒲正筠、李威儒、潘美連、陳慧芬、陳翎、陳韵宜",
     "time": "F56-YN511[YM]"
-  },
-  "1142_150000": {
-    "code": "MDCM30013",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "150000",
-    "memo": "",
-    "name": "專題討論(碩專班中文) Seminar EMI",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "陳世彬",
-    "time": "R34-YL404[YM]"
-  },
-  "1142_150001": {
-    "code": "MDCM30040",
-    "credit": ".00",
-    "hours": "1.00",
-    "id": "150001",
-    "memo": "",
-    "name": "論文研究(碩專班3年級) Research Review of Thesis M3",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "陳世彬",
-    "time": ""
-  },
-  "1142_150002": {
-    "code": "MDCM30039",
-    "credit": ".00",
-    "hours": "1.00",
-    "id": "150002",
-    "memo": "",
-    "name": "論文研究(碩專班2年級) Research Review of Thesis M2",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "陳世彬",
-    "time": ""
   },
   "1142_150100": {
     "code": "MDHH30061",
@@ -16003,7 +15895,7 @@
     "memo": "本系學生優先",
     "name": "程式語言及演習 Programming Language and Exercise",
     "num_limit": "45",
-    "reg_num": "21",
+    "reg_num": "20",
     "teacher": "羅惟正",
     "time": "M89F78-CS-PC4[GF]"
   },
@@ -16303,7 +16195,7 @@
     "memo": "",
     "name": "程式語言及演習 Programming Language and Exercise",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "34",
     "teacher": "李宗夷",
     "time": "M89F78-"
   },
@@ -17419,7 +17311,7 @@
     "memo": "本課程人數上限為20人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "創作外的藝術這一行--藝術行政通論 Art Beyond Creation, An Introduction to Art Administration",
     "num_limit": "20",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "張馨之",
     "time": "F34-HC101[GF]"
   },
@@ -22039,7 +21931,7 @@
     "memo": "非管院同學請於2月9日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限70人，得請授課教師簽准後可放寬至75人；管理基礎學分學程課程。",
     "name": "統計學(二) Statistics (II)",
     "num_limit": "70",
-    "reg_num": "75",
+    "reg_num": "74",
     "teacher": "巫佳煌",
     "time": "M234-A316[GF]"
   },
@@ -22759,7 +22651,7 @@
     "memo": "",
     "name": "人文與科學經典閱讀(二) Reading Classics of Humanities and Sciences (II)",
     "num_limit": "9999",
-    "reg_num": "53",
+    "reg_num": "52",
     "teacher": "程源中",
     "time": "F56-A209[GF]"
   },
@@ -23540,7 +23432,7 @@
     "name": "獨立研究 Independent Study",
     "num_limit": "9999",
     "reg_num": "38",
-    "teacher": "孫之元、段正仁、周倩、佘曉清、林珊如、劉奕蘭、楊子奇、陳鏗任、羅孟婷、林米庭、陳奕凱、陳聖昌、陳雅君",
+    "teacher": "孫之元、段正仁、周倩、林珊如、劉奕蘭、楊子奇、陳鏗任、羅孟婷、林米庭、陳奕凱、陳雅君",
     "time": ""
   },
   "1142_534009": {
@@ -25040,7 +24932,7 @@
     "name": "室內樂 Chamber Music",
     "num_limit": "9999",
     "reg_num": "18",
-    "teacher": "辛幸純、李俊穎、林慶俊、李珮琪、黃郁婷、林薏蕙、黃貞綾、孫建如、潘世洵、陳昱翰、謝孟軒、李昆穎",
+    "teacher": "辛幸純、李俊穎、林慶俊、李珮琪、黃郁婷、林薏蕙、黃貞綾、孫建如、潘世洵、謝孟軒、李昆穎",
     "time": "F1-HC605[GF]"
   },
   "1142_535000": {
@@ -25168,7 +25060,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535109",
-    "memo": "",
+    "memo": "上課地點：工程五館國際會議廳",
     "name": "生成式人工智慧 Generative Artificial Intelligence",
     "num_limit": "120",
     "reg_num": "130",
@@ -26359,7 +26251,7 @@
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)。1.博士班資格考考核科目。2.資安所必選修課程。3.AI碩士學程為必修。4.前瞻所113學年入學乙組專業選修。[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
     "name": "機器學習 Machine Learning ",
     "num_limit": "60",
-    "reg_num": "51",
+    "reg_num": "49",
     "teacher": "邱維辰、洪瑞鴻",
     "time": "R34-EC114[GF]"
   },
@@ -30103,7 +29995,7 @@
     "memo": "財務類課程；財務金融碩博士班、資財系大三以上學生優先。非本課程輔開系所之外系所學生請於開學後再上網加選課程。無法於線上加選者請紙本加簽。",
     "name": "金融創新 Financial Innovations",
     "num_limit": "35",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "黃星華",
     "time": "R89a-M102[GF]"
   },
@@ -30259,7 +30151,7 @@
     "memo": "[English Medium Course]限碩博",
     "name": "產業分析與創新  Industry Analysis and Innovation",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "37",
     "teacher": "蘇信寧",
     "time": "R234-A701[GF]"
   },
@@ -36691,7 +36583,7 @@
     "memo": "第一週上課集合地點為山下網球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "26",
     "teacher": "黃中興",
     "time": "W78-PhE[YM]"
   },
@@ -36715,7 +36607,7 @@
     "memo": "第一週上課集合地點為山下網球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "32",
     "teacher": "魏豐閔",
     "time": "R12-PhE[YM]"
   },
@@ -36727,7 +36619,7 @@
     "memo": "上課地點為山頂運動場。\n 第一階段開放選課系級：醫二A。 第二階段後開放選修。",
     "name": "飛盤 Frisbee",
     "num_limit": "40",
-    "reg_num": "14",
+    "reg_num": "19",
     "teacher": "林昭光",
     "time": "M12-PhE[YM]"
   },
@@ -36751,7 +36643,7 @@
     "memo": "上課地點為活動中心3樓心肺功能室+重量訓練室。\n 第一階段開放選課系級：醫二A。 第二階段後開放選修。",
     "name": "體適能 Fitness",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "32",
     "teacher": "徐煒杰",
     "time": "M12-PhE[YM]"
   },
@@ -36787,7 +36679,7 @@
     "memo": "上課地點為山下籃球場。\n 第一階段開放選課系級：牙醫二。 第二階段後開放選修。",
     "name": "籃球 Basketball",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "35",
     "teacher": "陳厚諭",
     "time": "M56-PhE[YM]"
   },
@@ -36799,7 +36691,7 @@
     "memo": "上課地點為游泳健身館。\n 第一階段開放選課系級：醫三、藥學三、牙醫三。 第二階段後開放選修。",
     "name": "游泳 swim",
     "num_limit": "30",
-    "reg_num": "15",
+    "reg_num": "20",
     "teacher": "魏豐閔",
     "time": "M78-PhE[YM]"
   },
@@ -36811,7 +36703,7 @@
     "memo": "上課地點為活動中心3樓韻律教室。\n第一階段開放選課系級：醫三、藥學三、牙醫三。 第二階段後開放選修。",
     "name": "動力伸展與紓壓 Power Extension and Relax",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "藍于青",
     "time": "M78-PhE[YM]"
   },
@@ -36859,7 +36751,7 @@
     "memo": "上課地點為活動中心3樓桌球教室。\n第一階段開放選課系級：醫二B、不分系二。 第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
-    "reg_num": "24",
+    "reg_num": "30",
     "teacher": "黃中興",
     "time": "T12-PhE[YM]"
   },
@@ -36871,7 +36763,7 @@
     "memo": "上課地點為活動中心3樓桌球教室。\n第一階段開放選課系級：物輔二。 第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
-    "reg_num": "23",
+    "reg_num": "24",
     "teacher": "黃中興",
     "time": "T34-PhE[YM]"
   },
@@ -36883,7 +36775,7 @@
     "memo": "上課地點為活動中心3樓桌球教室。第一階段開放選課系級：牙醫三。 第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
-    "reg_num": "24",
+    "reg_num": "27",
     "teacher": "黃中興",
     "time": "T56-PhE[YM]"
   },
@@ -36895,7 +36787,7 @@
     "memo": "上課地點為活動中心2樓室內綜合球場。第一週上課地點請依照授課教師通知出席。\n第一階段開放選課系級：生科二三、數醫二。 第二階段後開放選修。",
     "name": "匹克球 Pickleball",
     "num_limit": "30",
-    "reg_num": "23",
+    "reg_num": "27",
     "teacher": "林昭光",
     "time": "W12-PhE[YM]"
   },
@@ -36919,7 +36811,7 @@
     "memo": "上課地點為活動中心2樓鏡面教室。第一階段開放選課系級：中醫二。 第二階段後開放選修。",
     "name": "體適能 Fitness",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "34",
     "teacher": "曾丸晏",
     "time": "W56-PhE[YM]"
   },
@@ -36931,7 +36823,7 @@
     "memo": "上課地點為活動中心3樓桌球教室。第一階段開放選課系級：藥學二。 第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "黃中興",
     "time": "R12-PhE[YM]"
   },
@@ -36943,7 +36835,7 @@
     "memo": "上課地點為活動中心3樓桌球教室。第一階段開放選課系級：護理三、醫放三。 第二階段後開放選修。",
     "name": "桌球 Table Tennis",
     "num_limit": "30",
-    "reg_num": "29",
+    "reg_num": "32",
     "teacher": "黃中興",
     "time": "R34-PhE[YM]"
   },
@@ -36955,7 +36847,7 @@
     "memo": "上課地點為山下排球場",
     "name": "排球 Volleyball",
     "num_limit": "30",
-    "reg_num": "25",
+    "reg_num": "27",
     "teacher": "留鼎淙",
     "time": "R78-PhE[YM]"
   },
@@ -36967,7 +36859,7 @@
     "memo": "上課地點為活動中心3樓韻律教室。\n第一階段開放選課系級：護理二。 第二階段後開放選修。",
     "name": "動力伸展與紓壓 Power Extension and Relax",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "32",
     "teacher": "藍于青",
     "time": "F12-PhE[YM]"
   },
@@ -36979,7 +36871,7 @@
     "memo": "上課地點為活動中心2樓室內綜合球場。第一週上課地點請依照授課教師通知出席。\n第一階段開放選課系級：護理二、醫工二。 第二階段後開放選修。",
     "name": "匹克球 Pickleball",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "32",
     "teacher": "藍于青",
     "time": "F34-PhE[YM]"
   },
@@ -37003,7 +36895,7 @@
     "memo": "上課地點為活動中心3樓韻律教室。第一階段開放選課系級：醫放二、醫工三、物輔二。 第二階段後開放選修。",
     "name": "太極拳 Tai Chi",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "張耀庭",
     "time": "F56-PhE[YM]"
   },
@@ -37015,7 +36907,7 @@
     "memo": "上課地點為活動中心2樓室內綜合球場。第一週上課地點請依照授課教師通知出席。\n第一階段開放選課系級：醫放二、醫工三、物輔二。 第二階段後開放選修。",
     "name": "羽球 Badminton",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "黃志成",
     "time": "F56-PhE[YM]"
   },
@@ -37039,7 +36931,7 @@
     "memo": "上課地點為活動中心2樓室內綜合球場。第一週上課地點請依照授課教師通知出席。\n第一階段開放選課系級：醫技三、物輔三。 第二階段後開放選修。",
     "name": "羽球 Badminton",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "32",
     "teacher": "黃志成",
     "time": "F78-PhE[YM]"
   },
@@ -43471,7 +43363,7 @@
     "memo": "",
     "name": "全民國防教育軍事訓練課程－國際情勢 All-out Defense Education Military Training-International Situations",
     "num_limit": "42",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "蕭時光",
     "time": "F56-YX501[YM]"
   },

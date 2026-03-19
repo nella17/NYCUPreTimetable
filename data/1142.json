@@ -4856,7 +4856,7 @@
     "name": "醫學倫理學 Medical Ethics",
     "num_limit": "50",
     "reg_num": "37",
-    "teacher": "李雪楨、陳喬男、羅鴻基、林吟亮、施惠婷、黃郁潔、黃志忠、蕭乃彰、高蕭國帆",
+    "teacher": "李雪楨、陳喬男、羅鴻基、林吟亮、黃崇舜、施惠婷、黃郁潔、黃志忠、蔡美文、蕭乃彰、高蕭國帆",
     "time": "W8-YB601[YM]"
   },
   "1142_112244": {
@@ -18871,7 +18871,7 @@
     "memo": "",
     "name": "半導體工程 Semiconductor Engineering",
     "num_limit": "70",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "荊鳳德",
     "time": "F567-ED303[GF]"
   },
@@ -26311,7 +26311,7 @@
     "memo": "資科工所必修。1.每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "416",
+    "reg_num": "414",
     "teacher": "資科工所",
     "time": ""
   },
@@ -26683,7 +26683,7 @@
     "memo": "多工所必修，每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "120",
+    "reg_num": "119",
     "teacher": "多媒體所",
     "time": ""
   },

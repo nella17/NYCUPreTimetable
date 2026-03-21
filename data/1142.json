@@ -9704,7 +9704,7 @@
     "name": "基因與細胞治療 Gene Therapy",
     "num_limit": "9999",
     "reg_num": "18",
-    "teacher": "江季霖",
+    "teacher": "江季霖、張耀文",
     "time": "T56-YC101[YM]"
   },
   "1142_131902": {
@@ -11481,7 +11481,7 @@
     "num_limit": "9999",
     "reg_num": "3",
     "teacher": "陳紀如",
-    "time": "T9a-YC313[YM]"
+    "time": "T9a-YC401[YM]"
   },
   "1142_132813": {
     "code": "LSMI30101",
@@ -14109,7 +14109,7 @@
     "num_limit": "32",
     "reg_num": "32",
     "teacher": "秦先玉",
-    "time": "R12-YT205[YM]"
+    "time": "R12-YT202[YM]"
   },
   "1142_161023": {
     "code": "GECE00169",
@@ -14264,7 +14264,7 @@
     "name": "比較東西方自然哲學與古醫學觀 Comparison of Eastern & Western Natural Philosophy and View of Ancient Medicine",
     "num_limit": "50",
     "reg_num": "32",
-    "teacher": "陳方佩、張清貿、張晋賢、楊仁鄰、吳大鵬",
+    "teacher": "陳方佩、張清貿、張晋賢、楊仁鄰、吳大鵬、陳致光",
     "time": "T34-YT202[YM]"
   },
   "1142_161037": {
@@ -26299,7 +26299,7 @@
     "memo": "資科工所必修。1.每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "414",
+    "reg_num": "413",
     "teacher": "資科工所",
     "time": ""
   },
@@ -35395,7 +35395,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "江竹偉",
     "time": "R12-PE[GF]"
   },
@@ -36583,7 +36583,7 @@
     "memo": "第一週上課集合地點為山下籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "45",
+    "reg_num": "46",
     "teacher": "陳厚諭",
     "time": "T12-PhE[YM]"
   },

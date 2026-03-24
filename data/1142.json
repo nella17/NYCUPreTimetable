@@ -6212,7 +6212,7 @@
     "name": "外科學概論 Basic Surgery",
     "num_limit": "149",
     "reg_num": "141",
-    "teacher": "張世慶、蔡宜芳、王心儀、藍苑慈、王鑑瀛、林釀呈、陳正彥、林宏鑫、陳世欽、黃國宏",
+    "teacher": "張世慶、蔡宜芳、王心儀、藍苑慈、王鑑瀛、林釀呈、陳正彥、林宏鑫、陳世欽、宮慶雲",
     "time": "M12345678T34W1234R1234F12345678-YT002[YM]"
   },
   "1142_113800": {
@@ -6440,7 +6440,7 @@
     "name": "中醫藥物學(二) Chinese Materia Medica (II)",
     "num_limit": "40",
     "reg_num": "26",
-    "teacher": "蔡東湖、許中華、彭溫雅",
+    "teacher": "蔡東湖、許中華、彭溫雅、莊武璋",
     "time": "T234-YK912[YM],T234-YK914[YM],T234-YR101[YM]"
   },
   "1142_113907": {
@@ -7604,7 +7604,7 @@
     "name": "流行病學實證討論(碩) Seminars in Epidemiology (Master)",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "陳信任、林明薇、周穎政、林逸芬、陳娟瑜、莊宜芳、劉家軒",
+    "teacher": "陳信任、林明薇、周穎政、林逸芬、陳娟瑜、莊宜芳、東雅惠、劉家軒",
     "time": "Rn5-YN511[YM]"
   },
   "1142_130230": {
@@ -24940,12 +24940,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535100",
-    "memo": "教室：ED312",
+    "memo": "",
     "name": "人工智慧無線通訊 Artificial Intelligence Wireless",
     "num_limit": "35",
     "reg_num": "15",
     "teacher": "王蒞君",
-    "time": "Wabc-"
+    "time": "Wabc-ED203[GF]"
   },
   "1142_535101": {
     "code": "EEEE30002",
@@ -26299,7 +26299,7 @@
     "memo": "資科工所必修。1.每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "412",
+    "reg_num": "411",
     "teacher": "資科工所",
     "time": ""
   },
@@ -27764,7 +27764,7 @@
     "name": "土壤動力學 Soil Dynamics",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "陳賢榮、土木系、潘爾年、方永壽",
+    "teacher": "陳賢榮、土木系、潘爾年",
     "time": "W234-EB107[GF]"
   },
   "1142_536224": {

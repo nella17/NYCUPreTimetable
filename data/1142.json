@@ -9104,7 +9104,7 @@
     "name": "臨床牙醫學專題討論(二)(碩士班) Seminar of Clinical Dentistry ( II )",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "林元敏、季麟揚、黃何雄、楊政杰、涂曦丰、林嘉澍、林宥成、吳靜宜、洪凱風、王鼎涵、陳翾、曾柏鈞、林怡君、吳姿瑩、王敏靜、許明倫",
+    "teacher": "林元敏、季麟揚、黃何雄、楊政杰、涂曦丰、林嘉澍、林宥成、吳靜宜、洪凱風、王鼎涵、陳翾、陳亮如、曾柏鈞、林怡君、吳姿瑩、王敏靜、許明倫",
     "time": "T56-YD302[YM]"
   },
   "1142_131401": {
@@ -17964,15 +17964,15 @@
     "time": "T56-ED101[GF],F2-ED103[GF]"
   },
   "1142_515008": {
-    "code": "EEEC10011",
+    "code": "EEEC10010",
     "credit": "3.00",
     "hours": "3.00",
     "id": "515008",
-    "memo": "[English Medium Course]電機系A班丙組",
-    "name": "線性代數(英文班) Linear Algebra ",
+    "memo": "電機系A班丙組",
+    "name": "線性代數 Linear Algebra",
     "num_limit": "35",
     "reg_num": "23",
-    "teacher": "黃柏鈞",
+    "teacher": "吳卓諭",
     "time": "F234-ED201[GF]"
   },
   "1142_515009": {
@@ -18371,18 +18371,6 @@
     "teacher": "陳建安",
     "time": "Rabcd-"
   },
-  "1142_515109": {
-    "code": "EEEC10008",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "515109",
-    "memo": "[English Medium Course]Mn56-ED103，Mabc實驗課教室為計中PC2、PC3",
-    "name": "物件導向程式設計 Object-Oriented Programming",
-    "num_limit": "50",
-    "reg_num": "37",
-    "teacher": "黃柏鈞",
-    "time": "Mabc-CS-PC2[GF],Mabc-CS-PC3[GF],Mn56-ED103[GF]"
-  },
   "1142_515110": {
     "code": "EEEC10008",
     "credit": "3.00",
@@ -18403,7 +18391,7 @@
     "memo": "Mn56-ED220，Mabc實驗課教室為計中PC4",
     "name": "物件導向程式設計 Object-Oriented Programming",
     "num_limit": "90",
-    "reg_num": "89",
+    "reg_num": "125",
     "teacher": "羅畯義",
     "time": "Mabc-CS-PC4[GF],Mn56-ED220[GF]"
   },
@@ -26671,7 +26659,7 @@
     "memo": "多工所必修，每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "119",
+    "reg_num": "118",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -30955,7 +30943,7 @@
     "memo": "",
     "name": "博士學位論文研究 Ph.D.Thesis Study",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "0",
     "teacher": "資訊學院博",
     "time": ""
   },

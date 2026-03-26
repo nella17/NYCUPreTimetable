@@ -4592,7 +4592,7 @@
     "name": "物理治療臨床實習(八) Physical Therapy Practicum (VIII)",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "羅鴻基、楊雅如",
+    "teacher": "羅鴻基、楊雅如、黃郁潔",
     "time": "Fn-"
   },
   "1142_112223": {
@@ -4652,7 +4652,7 @@
     "name": "物理治療臨床實習(三) Physical Therapy Practicum (III)",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "羅鴻基、李雪楨",
+    "teacher": "羅鴻基、李雪楨、黃郁潔",
     "time": "F12345678-"
   },
   "1142_112228": {
@@ -9164,7 +9164,7 @@
     "name": "應用生物統計學 Applied Biostatistics",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "季麟揚、吳秀英、林伯彥",
+    "teacher": "季麟揚、林伯彥",
     "time": "F56-YD209[YM]"
   },
   "1142_131408": {
@@ -9188,7 +9188,7 @@
     "name": "科學論文寫作 Scientific writing",
     "num_limit": "9999",
     "reg_num": "11",
-    "teacher": "張婷菡、喻大有",
+    "teacher": "張婷菡",
     "time": "M34-YD304[YM]"
   },
   "1142_131410": {
@@ -9200,7 +9200,7 @@
     "name": "高等牙周病學-牙科植牙診斷篇 Advanced Periodontology - Diagnosis of dental implant therapy",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "林怡君、賴玉玲、董醒任、陳彥廷、陳恒理、陳軒弘、陳雅琪、賴宗筳、鄭羽軒",
+    "teacher": "林怡君、賴玉玲、董醒任、陳彥廷、陳恒理、陳軒弘、陳雅琪",
     "time": "M5678T1234W1234R5678F5678-"
   },
   "1142_131411": {
@@ -12836,7 +12836,7 @@
     "name": "臨床牙醫學專題討論(二)(博士班) Seminar of Advanced Clinical Dentistry ( II )",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "林元敏、高壽延、李士元、季麟揚、黃何雄、楊政杰、涂曦丰、林嘉澍、林宥成、洪凱風、王鼎涵、陳翾、曾柏鈞、許明倫",
+    "teacher": "林元敏、林嘉澍、林宥成、洪凱風、王鼎涵、陳翾、曾柏鈞",
     "time": "M9a-YD302[YM]"
   },
   "1142_141300": {
@@ -14637,7 +14637,7 @@
     "num_limit": "30",
     "reg_num": "43",
     "teacher": "程曉杰",
-    "time": "W12-YT206[YM]"
+    "time": "W12-YT205[YM]"
   },
   "1142_162019": {
     "code": "GELT20054",
@@ -20552,7 +20552,7 @@
     "name": "土壤力學 Soil Mechanics",
     "num_limit": "60",
     "reg_num": "36",
-    "teacher": "陳賢榮、土木系、楊德忠",
+    "teacher": "陳賢榮、楊德忠、羅文江",
     "time": "M56R2-EB108[GF]"
   },
   "1142_516216": {
@@ -26287,7 +26287,7 @@
     "memo": "資科工所必修。1.每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "411",
+    "reg_num": "410",
     "teacher": "資科工所",
     "time": ""
   },
@@ -27524,7 +27524,7 @@
     "name": "大地工程專題討論（二） Seminar in Geotechnical Engineering (II)",
     "num_limit": "9999",
     "reg_num": "29",
-    "teacher": "陳賢榮、土木系",
+    "teacher": "陳賢榮、羅文江",
     "time": "R567-EB227[GF]"
   },
   "1142_536204": {
@@ -27657,7 +27657,7 @@
     "num_limit": "9999",
     "reg_num": "15",
     "teacher": "曾仁杰",
-    "time": "W234-EB108[GF]"
+    "time": "W234-EB115[GF]"
   },
   "1142_536216": {
     "code": "ENCV30087",
@@ -27704,7 +27704,7 @@
     "name": "坡地災害防治 Landslide Hazard Remediation",
     "num_limit": "9999",
     "reg_num": "10",
-    "teacher": "陳賢榮、土木系、林志平、單信瑜",
+    "teacher": "陳賢榮、林志平、單信瑜、羅文江",
     "time": "F234-EB415[GF]"
   },
   "1142_536220": {
@@ -27752,7 +27752,7 @@
     "name": "土壤動力學 Soil Dynamics",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "陳賢榮、土木系、潘爾年",
+    "teacher": "陳賢榮、羅文江、潘爾年",
     "time": "W234-EB107[GF]"
   },
   "1142_536224": {
@@ -37180,7 +37180,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "564022",
-    "memo": "[English Medium Course]需另行填表申請",
+    "memo": "需另行填表申請",
     "name": "微積分學而班理論組(二) Honor Calculus Problem Solving Session (II)",
     "num_limit": "50",
     "reg_num": "52",
@@ -38805,7 +38805,7 @@
     "num_limit": "9999",
     "reg_num": "10",
     "teacher": "楊勝雄",
-    "time": "Wabc-CM216[GR]"
+    "time": "Wabc-CM212[GR]"
   },
   "1142_638506": {
     "code": "PTLE30005",

@@ -2300,7 +2300,7 @@
     "name": "醫師科學家研究概論(下) Physician-Scientist Program-Career Planning (2)",
     "num_limit": "40",
     "reg_num": "40",
-    "teacher": "兵岳忻、鄭彥甫、張佩靖、郭文娟、蔡金吾、林士傑、楊智傑、侯珮珊、陳摘文、張家祥、姜為中、林錦洲、陳德禮、林妏霙",
+    "teacher": "兵岳忻、鄭彥甫、張佩靖、郭文娟、蔡金吾、林士傑、楊智傑、侯珮珊、陳摘文、張家祥、姜為中、林錦洲、陳德禮、林妏霙、吳郡綾",
     "time": "T8-YM201[YM]"
   },
   "1142_110191": {
@@ -3260,7 +3260,7 @@
     "name": "牙科技術觀摩 Clinical Skills Demonstration in Dentistry",
     "num_limit": "50",
     "reg_num": "42",
-    "teacher": "羅文良、高壽延、李士元、張國威、楊政杰、洪凱風、耿藝文、賴玉玲、吳政憲、施文宇、楊淑芬、何怡青、陳恒理、林怡君、董愛康、吳姿瑩、吳詩韻、陳軒弘、陳雅琪、陳江雲、成函潔、謝春怡、蔡佳倫、鄭冬慧、陳大中、何翊芸、李思瑾、莊凱翔、李睿仁、劉妍君、張景智",
+    "teacher": "羅文良、高壽延、謝達斌、李士元、張國威、楊政杰、洪凱風、耿藝文、賴玉玲、吳政憲、施文宇、楊淑芬、何怡青、陳恒理、林怡君、董愛康、吳姿瑩、吳詩韻、陳軒弘、陳雅琪、陳江雲、成函潔、謝春怡、蔡佳倫、鄭冬慧、陳大中、何翊芸、李思瑾、莊凱翔、李睿仁、劉妍君、張景智",
     "time": "F56789a-"
   },
   "1142_111557": {
@@ -5635,7 +5635,7 @@
     "memo": "",
     "name": "醫學影像原理與實務 Principles and Practices of Medical Imaging",
     "num_limit": "41",
-    "reg_num": "50",
+    "reg_num": "51",
     "teacher": "盧家鋒",
     "time": "T89-YB101[YM]"
   },
@@ -9104,7 +9104,7 @@
     "name": "臨床牙醫學專題討論(二)(碩士班) Seminar of Clinical Dentistry ( II )",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "林元敏、季麟揚、黃何雄、楊政杰、涂曦丰、林嘉澍、林宥成、吳靜宜、洪凱風、王鼎涵、陳翾、陳亮如、曾柏鈞、林怡君、吳姿瑩、王敏靜、許明倫",
+    "teacher": "林元敏、謝達斌、季麟揚、黃何雄、楊政杰、涂曦丰、林嘉澍、林宥成、吳靜宜、洪凱風、王鼎涵、陳翾、陳亮如、曾柏鈞、林怡君、吳姿瑩、王敏靜、許明倫",
     "time": "T56-YD302[YM]"
   },
   "1142_131401": {
@@ -12836,7 +12836,7 @@
     "name": "臨床牙醫學專題討論(二)(博士班) Seminar of Advanced Clinical Dentistry ( II )",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "林元敏、林嘉澍、林宥成、洪凱風、王鼎涵、陳翾、曾柏鈞",
+    "teacher": "林元敏、謝達斌、林嘉澍、林宥成、洪凱風、王鼎涵、陳翾、曾柏鈞",
     "time": "M9a-YD302[YM]"
   },
   "1142_141300": {
@@ -26287,7 +26287,7 @@
     "memo": "資科工所必修。1.每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "409",
+    "reg_num": "408",
     "teacher": "資科工所",
     "time": ""
   },
@@ -26323,7 +26323,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)。",
     "name": "使用者經驗與易用性評估 User Experience and Usability Evaluation",
     "num_limit": "40",
-    "reg_num": "36",
+    "reg_num": "37",
     "teacher": "張永儒",
     "time": "W34n-EC329[GF]"
   },
@@ -26659,7 +26659,7 @@
     "memo": "多工所必修，每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "118",
+    "reg_num": "117",
     "teacher": "多媒體所",
     "time": ""
   },
@@ -26887,7 +26887,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "106",
+    "reg_num": "105",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -32383,7 +32383,7 @@
     "memo": "限科法博、科法碩二年級以上及科法專班二年級以上同學選修\n僅開實體班",
     "name": "法學實證研究 Empirical Study of Law",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "郭詠華、曾鈺珺",
     "time": "S234-A401[GF]"
   },
@@ -32443,7 +32443,7 @@
     "memo": "限科法專班報專討同學選修（不開放選課，由所辦加選）",
     "name": "碩士論文研究 Thesis of Master Degree",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "科法所",
     "time": ""
   },

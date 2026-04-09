@@ -188,7 +188,7 @@
     "name": "核心外科講堂 Core-Course in Surgery",
     "num_limit": "9999",
     "reg_num": "146",
-    "teacher": "張世慶",
+    "teacher": "張世慶、吳昭慶、黃奕燊、蔡昕霖、杜宗熹、張軒侃、王審之、郭昭宏、邱宇任、林育寬、石柏軒、張哲源、黃建勝、陳沂名、吳思賢",
     "time": "Wa-"
   },
   "1142_110010": {
@@ -1399,7 +1399,7 @@
     "memo": "",
     "name": "放射治療科臨床實習(一) Clerkship in Radiation Oncology(1)",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "24",
     "teacher": "放射線學科",
     "time": ""
   },
@@ -1411,7 +1411,7 @@
     "memo": "",
     "name": "放射治療科臨床實習(二) Clerkship in Radiation Oncology(2)",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "放射線學科",
     "time": ""
   },
@@ -1435,7 +1435,7 @@
     "memo": "",
     "name": "放射診斷臨床實習(一) Clerkship in Radiology(1)",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "7",
     "teacher": "放射線學科",
     "time": ""
   },
@@ -1447,7 +1447,7 @@
     "memo": "",
     "name": "放射診斷臨床實習(二) Clerkship in Radiology(2)",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "2",
     "teacher": "放射線學科",
     "time": ""
   },
@@ -11984,7 +11984,7 @@
     "name": "科技與社會專題討論(二) Seminar on Science, Technology and Society II",
     "num_limit": "9999",
     "reg_num": "10",
-    "teacher": "陳嘉新、郭文華、王文基、范玫芳、洪紹洋、彭松嶽、顧彩璇、嚴曉珮",
+    "teacher": "陳嘉新、郭文華、王文基、范玫芳、洪紹洋、嚴曉珮、彭松嶽、顧彩璇",
     "time": "F9a-YX201[YM]"
   },
   "1142_133201": {
@@ -11996,7 +11996,7 @@
     "name": "科技與社會實作方法 Methodology and Practice of Science, Technology and Society",
     "num_limit": "9999",
     "reg_num": "11",
-    "teacher": "郭文華、王文基、范玫芳、陳嘉新、洪紹洋、彭松嶽、顧彩璇、嚴曉珮、林宜平",
+    "teacher": "郭文華、王文基、范玫芳、陳嘉新、洪紹洋、嚴曉珮、彭松嶽、顧彩璇、林宜平",
     "time": "F234-YX321[YM]"
   },
   "1142_133202": {
@@ -12512,7 +12512,7 @@
     "name": "專題討論(博士班一) Seminar DI",
     "num_limit": "9999",
     "reg_num": "11",
-    "teacher": "陳世彬、鄭彥甫、楊慕華、黃奇英、楊盈盈、黃柏勳、楊智宇、陳斯婷、陳志強、賴峻毅、廖皎君、吳成文、林錫勳、魏耀揮、陳宜民、謝世良、王鵬惠、陳建良、梁毓津、吳肇卿",
+    "teacher": "陳世彬、鄭彥甫、楊慕華、黃奇英、楊盈盈、黃柏勳、楊智宇、陳斯婷、陳志強、賴峻毅、廖皎君、吳成文、林錫勳、魏耀揮、陳宜民、謝世良、王鵬惠、陳建良、梁毓津、陳一銘、吳肇卿",
     "time": "R78-YL405[YM]"
   },
   "1142_140310": {

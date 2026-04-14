@@ -1844,7 +1844,7 @@
     "name": "社區醫學實習 Community Medicine Practice",
     "num_limit": "9999",
     "reg_num": "134",
-    "teacher": "林明慧、陳方佩、彭莉甯、張清貿、龔彥穎、王崇仁、林長熙、蔡世滋、徐永年、林雨亭、詹益祥、蕭學誠、陳冠宇、何叔芳、陳珀勳、羅文林、林明憲、劉瑞瑤、楊仁鄰、林宜璇、黃安君、戴月明、余儀呈、陳冠群、陳柏菁、余文瑞、吳大鵬、何清幼、陳怡君、林安民、黃仲禹、戴英修、施子健、劉浩彥、朱豐沅、鄭博仁、楊博欽、廖廣榆、劉雅安、王怡人、王玥心、李蕙君、林譽家、馬欣、黃信得、王正淵、吳彬源、林信利、邱政宏、洪德仁、賴志冠、朱柔澍、張曉婷",
+    "teacher": "林明慧、陳方佩、彭莉甯、張清貿、龔彥穎、王崇仁、林長熙、蔡世滋、徐永年、林雨亭、詹益祥、蕭學誠、陳冠宇、何叔芳、陳珀勳、羅文林、林明憲、劉瑞瑤、楊仁鄰、林宜璇、黃安君、戴月明、余儀呈、陳冠群、陳柏菁、余文瑞、吳大鵬、何清幼、陳怡君、林安民、黃仲禹、戴英修、施子健、劉浩彥、朱豐沅、鄭博仁、楊博欽、廖廣榆、劉雅安、王怡人、王玥心、李蕙君、林譽家、陳柏宇、馬欣、黃信得、王正淵、吳彬源、林信利、邱政宏、洪德仁、賴志冠、朱柔澍、李政璋、張曉婷",
     "time": "R5678-YT001[YM]"
   },
   "1142_110151": {
@@ -3103,7 +3103,7 @@
     "memo": "榮總口腔醫學部",
     "name": "兒童牙科學臨床實習 Internship in Pedodontics",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3115,7 +3115,7 @@
     "memo": "台北榮總",
     "name": "內外科實習 Internship in Internal Medicine and Surgery",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3127,7 +3127,7 @@
     "memo": "榮總口腔醫學部",
     "name": "全口贗復學臨床實習 Internship in Complete Denture Prosthodontics",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3139,7 +3139,7 @@
     "memo": "榮總口腔醫學部",
     "name": "口腔診斷學與放射線學臨床實習 Internship in Oral Diagnosis and Dental Radiology",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3151,7 +3151,7 @@
     "memo": "榮總口腔醫學部",
     "name": "口腔顎面外科學臨床實習 Internship in Oral & Maxillofacial Surgery",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3163,7 +3163,7 @@
     "memo": "榮總口腔醫學部",
     "name": "固定贋復學臨床實習 Internship in Fixed Prosthodontics",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3175,7 +3175,7 @@
     "memo": "榮總口腔醫學部",
     "name": "家庭社區與特殊需求牙醫學實習 Internship in Family, Community and Special Need Dentistry",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3187,7 +3187,7 @@
     "memo": "榮總口腔醫學部",
     "name": "局部贗復學臨床實習 Internship in Removable Partial Denture Prosthodontics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3199,7 +3199,7 @@
     "memo": "榮總口腔醫學部",
     "name": "牙周病學臨床實習 Internship in Periodontology",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3211,7 +3211,7 @@
     "memo": "榮總口腔醫學部",
     "name": "牙髓病學臨床實習 Internship in Endodontics",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3223,7 +3223,7 @@
     "memo": "榮總口腔醫學部",
     "name": "牙體復形學臨床實習 Internship in Operative Dentistry",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -3235,7 +3235,7 @@
     "memo": "榮總口腔醫學部",
     "name": "齒顎矯正學臨床實習 Internship in Orthodontics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "40",
     "teacher": "牙醫系",
     "time": ""
   },
@@ -10339,7 +10339,7 @@
     "memo": "",
     "name": "醫學檢驗及生技醫藥相關法規 Regulations on Medical Laboratories and Biotechnology Industry",
     "num_limit": "9999",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "洪小雅、王世仁、林景堉、李子偉、李湘琳",
     "time": "F78-YB102[YM]"
   },
@@ -10400,7 +10400,7 @@
     "name": "新陳代謝、癌症與醣化修飾作用 Global health challenges: Metabolic abnormalities, cancer & glycosylation alteration",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "張懿欣、黃智生、蘇美慈、洪小雅",
+    "teacher": "張懿欣、黃智生、黃尉倫、蘇美慈、洪小雅、張鈞豪",
     "time": "W34-YT302[YM]"
   },
   "1142_132215": {
@@ -12547,7 +12547,7 @@
     "memo": "",
     "name": "論文研究(博士班五年級) Research Review of Thesis DII",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "3",
     "teacher": "陳世彬",
     "time": "U1-"
   },
@@ -14551,7 +14551,7 @@
     "memo": "1. 需具德文基礎，為維持教學品質，限制修課人數。2. 北投陽明校區110學年學制學生修讀本課不列計核心、語言與溝通學分，110制學生如欲加選請逕洽語言學習與寫作中心(llwc@nycu.edu.tw）辦理。陽明校區教室實地授課，並提供會議軟體連結給跨校區學生，讓學生自行透過軟體同步上課",
     "name": "醫護德文 Medical German",
     "num_limit": "36",
-    "reg_num": "6",
+    "reg_num": "8",
     "teacher": "周玉蕙",
     "time": "T56-YT103[YM]"
   },

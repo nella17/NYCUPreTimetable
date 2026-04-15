@@ -5685,7 +5685,7 @@
     "num_limit": "9999",
     "reg_num": "66",
     "teacher": "李曉暉、羅清維、張欣暘、藍昇輝",
-    "time": "T56-YB102[YM]"
+    "time": "T56-YB102[YM],T56-YK533[YM]"
   },
   "1142_112501": {
     "code": "LSLS10035",
@@ -11264,7 +11264,7 @@
     "name": "認知神經科學導論 Introduction to Cognitive Neuroscience",
     "num_limit": "9999",
     "reg_num": "15",
-    "teacher": "郭文瑞、林慶波、鄭雅薇、吳仕煒、張立鴻",
+    "teacher": "郭文瑞、林慶波、鄭雅薇、張立鴻",
     "time": "T56-YL837[YM]"
   },
   "1142_132705": {
@@ -26887,7 +26887,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "105",
+    "reg_num": "104",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -26899,7 +26899,7 @@
     "memo": "[English Medium Course]",
     "name": "專題研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "78",
+    "reg_num": "77",
     "teacher": "黃昱智",
     "time": ""
   },

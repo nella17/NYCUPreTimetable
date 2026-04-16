@@ -5078,7 +5078,7 @@
   "1142_112264": {
     "code": "BEPT20099",
     "credit": "1.00",
-    "hours": "16.00",
+    "hours": "1.00",
     "id": "112264",
     "memo": "現已修過操作治療學、肌肉骨骼物理治療學(二)，並完成物理治療臨床實習36週知同學選修\n未經授課老師同意不得缺課及辦理停修",
     "name": "基礎肌肉能量手法 Fundamental Muscle Energy Technique",
@@ -9368,7 +9368,7 @@
     "name": "口腔組織工程與生技材料專題討論 Oral Tissue Engineering and Biomaterials Panel Discussion",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "黃何雄、李士元、張國威、林元敏、林嘉澍、林宥成、王鼎涵、林榮辰、陳翾、蘇真瑩、林坤志",
+    "teacher": "黃何雄、林元敏、林嘉澍、林宥成、王鼎涵、林榮辰、陳翾、蘇真瑩、林坤志",
     "time": "Rn5-YD302[YM]"
   },
   "1142_131602": {
@@ -13436,7 +13436,7 @@
     "name": "專題討論 Seminar",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "林滿玉、黃奇英、蔡憶文、吳俊穎、賴穎暉、楊登傑、陳鋕雄、賈文宇、姜紹青、陳謄州、江季霖、賴盈宏、黃世宗、康照洲、楊世偉、陳惠芳、盧青佑、陳豐奇、葉嘉新、陳豐奇、林意筑、杜培文、吳全峰、許銘能、張耀文",
+    "teacher": "林滿玉、黃奇英、蔡憶文、楊登傑、陳鋕雄、賈文宇、姜紹青、陳謄州、賴盈宏、黃世宗、康照洲、楊世偉、陳惠芳、盧青佑、陳豐奇、葉嘉新、林意筑、杜培文、吳全峰、許銘能、張耀文",
     "time": "F78-YN205[YM]"
   },
   "1142_143401": {
@@ -13448,7 +13448,7 @@
     "name": "藥品上市法規實務 Regulatory Practice of Drug",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "陳惠芳、黃彥華、汪佑襄、吳力人、陳筱苓、孫婷婷、巫清安、李元鳳、黃千岳、盧青佑、沈志隆、林意筑、林翊均、廖瓊禾",
+    "teacher": "陳惠芳、黃彥華、汪佑襄、吳力人、陳筱苓、孫婷婷、巫清安、李元鳳、黃千岳、盧青佑、沈志隆、林翊均、廖瓊禾",
     "time": "F56-YN205[YM]"
   },
   "1142_143405": {
@@ -25349,7 +25349,7 @@
     "hours": "3.00",
     "id": "535221",
     "memo": "授課教師–蔡孝恩醫師，上課教室–ED108",
-    "name": "醫學工程概論 Introductiion of Medical Engineering",
+    "name": "醫學工程概論 Introduction of Medical Engineering",
     "num_limit": "30",
     "reg_num": "36",
     "teacher": "鄭裕庭",
@@ -26527,7 +26527,7 @@
     "memo": "網工所必修，每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "108",
+    "reg_num": "107",
     "teacher": "網工所",
     "time": ""
   },
@@ -39211,7 +39211,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，專二(含)以上每學期必選課程",
     "name": "個別研討-專班 Independent Study-Degree Program",
     "num_limit": "9999",
-    "reg_num": "10",
+    "reg_num": "9",
     "teacher": "光電專班",
     "time": "WzRzFz-"
   },

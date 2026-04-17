@@ -31519,7 +31519,7 @@
     "memo": "「碩士論文研究」限制有簽指導教授協議書且繳至專班辦公室者才能選修",
     "name": "碩士論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "18",
     "teacher": "工程專班",
     "time": ""
   },
@@ -31543,7 +31543,7 @@
     "memo": "",
     "name": "BIM技術與應用 Technology and Application of BIM",
     "num_limit": "9999",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "高明秀",
     "time": "S234-EB227[GF]"
   },
@@ -31555,7 +31555,7 @@
     "memo": "",
     "name": "專案不確定與決策分析 Project Risk and Decision Analysis",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "曾仁杰",
     "time": "S567-EB227[GF]"
   },

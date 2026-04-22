@@ -13795,7 +13795,7 @@
     "memo": "限生命科學院生醫EMBA及管理學院EMBA學員修課。實際上課時間請參考學程公告，並請留意不能衝堂。",
     "name": "生醫科技現況與趨勢 Innovations in biomedical industry",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "蔡有光",
     "time": "Uy-YR101[YM]"
   },
@@ -13807,7 +13807,7 @@
     "memo": "限生命科學院生醫EMBA及管理學院EMBA學員修課。實際上課時間請參考學程公告，並請留意不能衝堂。",
     "name": "生醫科技創新創業計畫 Biotech Medical Innovation and Entrepreneurship Development Plan",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "江惠華",
     "time": "U1-YR105[YM]"
   },
@@ -13819,7 +13819,7 @@
     "memo": "限生命科學院生醫EMBA及管理學院EMBA學員修課。實際上課時間請參考學程公告，並請留意不能衝堂。",
     "name": "生技醫療案例分析 Biomedical Technology Case Study",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "鍾惠民、黃志賢、劉興成、王燈山",
     "time": "Sy-YR101[YM]"
   },
@@ -18091,7 +18091,7 @@
     "memo": "A~F班 3學分4小時，3小時上課第4小時授權每位老師彈性規劃。",
     "name": "電子學(二) Electronics (II)",
     "num_limit": "60",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "陳佳宏",
     "time": "M78R34-EE207[GF]"
   },
@@ -18235,7 +18235,7 @@
     "memo": "R1為助教時間",
     "name": "電磁學 Electromagnetics",
     "num_limit": "100",
-    "reg_num": "93",
+    "reg_num": "92",
     "teacher": "唐震寰、鄭裕庭",
     "time": "M56R12-ED219[GF]"
   },
@@ -18511,7 +18511,7 @@
     "memo": "",
     "name": "密碼學與資訊安全概論 Introduction to Cryptography and Information Security",
     "num_limit": "50",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "游家牧",
     "time": "R567-ED103[GF]"
   },
@@ -18859,7 +18859,7 @@
     "memo": "[English Medium Course]",
     "name": "用Python於深度學習 Lab on Python for Deep Learning",
     "num_limit": "9999",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "李冕",
     "time": "W567-"
   },
@@ -19015,7 +19015,7 @@
     "memo": "授課老師：林淑萍教授",
     "name": "生物電子與感測器 Bioelectronics and Biosensors",
     "num_limit": "60",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "林淑萍",
     "time": "T2W34-ED303[GF]"
   },
@@ -19507,7 +19507,7 @@
     "memo": "由專題指導老師約定討論時間及地點",
     "name": "光電工程專題(四) Special Project of Photonics(IV)",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "光電系",
     "time": ""
   },
@@ -32407,7 +32407,7 @@
     "memo": "開放台聯大大三以上同學選修[混合遠距課程]",
     "name": "資訊隱私權法 Information Privacy Law",
     "num_limit": "50",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "陳鋕雄、郭詠華、孫介然",
     "time": "S678-A401[GF]"
   },
@@ -35803,7 +35803,7 @@
     "memo": "1.第一週上課在交大校區田徑場集合。修習交大校區開設之高爾夫球課程同學，需自行前往上課地點、自備球桿及自付練習場費用。 (上課地點：高仕高爾夫竹科練習場-新竹市東區湖濱三路1號，電話：03-5678928)\n2.第一階段開放選課系級：\n電機3\n材料3\n應化3\n光電3\n管科3\n運管3\n工工3\n資財3\n人社3\n傳科3\n",
     "name": "體育－高爾夫球乙 Golf",
     "num_limit": "30",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "陳忠強",
     "time": "F12-PE[GF]"
   },
@@ -37003,7 +37003,7 @@
     "memo": "",
     "name": "微積分甲(二) Calculus A (II)",
     "num_limit": "60",
-    "reg_num": "59",
+    "reg_num": "58",
     "teacher": "王國仲",
     "time": "T34F56-SC109[GF]"
   },

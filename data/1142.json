@@ -7280,7 +7280,7 @@
     "name": "法學研究方法與寫作 Legal Analysis and Writing",
     "num_limit": "12",
     "reg_num": "9",
-    "teacher": "楊秀儀",
+    "teacher": "楊秀儀、莊人祥",
     "time": "T234-YS103[YM]"
   },
   "1142_130202": {
@@ -10291,7 +10291,7 @@
     "memo": "",
     "name": "體細胞治療產品之品質與法規 Rule and Regulation of Cell Therapy",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "23",
     "teacher": "姚道禮",
     "time": "R34-YB102[YM]"
   },
@@ -10388,7 +10388,7 @@
     "name": "生技醫學講座(二) Biotechnology and Biomedical Seminar (II)",
     "num_limit": "9999",
     "reg_num": "17",
-    "teacher": "洪小雅、陳卓逸、黃尉倫、江季霖、賴明德、鄭維中、陳振輝、王夢蓮、廖秀蓉、余奕霖",
+    "teacher": "洪小雅、曾銘綸、陳卓逸、黃尉倫、江季霖、賴明德、鄭維中、陳振輝、王夢蓮、廖秀蓉、余奕霖",
     "time": "Tn-YB100[YM]"
   },
   "1142_132214": {
@@ -16303,7 +16303,7 @@
     "memo": "[English Medium Course]",
     "name": "論文研究 Thesis",
     "num_limit": "9999",
-    "reg_num": "12",
+    "reg_num": "11",
     "teacher": "麥如村、林志生、柯泰名",
     "time": ""
   },
@@ -20803,7 +20803,7 @@
     "memo": "1.限材料系、半導體學系(奈米科學組)選修 2.開學後加退選期間開放外系以書面加選",
     "name": "材料熱力學(二) Thermodynamics of Materials (II)",
     "num_limit": "60",
-    "reg_num": "62",
+    "reg_num": "61",
     "teacher": "陳名一",
     "time": "M3R34-EF104[GF]"
   },
@@ -20815,7 +20815,7 @@
     "memo": "1.第一~第三階段限材料系加選 2.開學後才開放外系或外校加選",
     "name": "工程數學(二) Engineering Mathematics (II)",
     "num_limit": "60",
-    "reg_num": "59",
+    "reg_num": "58",
     "teacher": "徐雍鎣",
     "time": "M4T34-EF205[GF]"
   },
@@ -20827,7 +20827,7 @@
     "memo": "1.第一~第三階段限材料系、半導體工程學系(奈米科學組)加選 2.開學後才開放外系或外校加選",
     "name": "物理冶金(二) Physical Metallurgy (II)",
     "num_limit": "60",
-    "reg_num": "57",
+    "reg_num": "56",
     "teacher": "鍾采甫",
     "time": "M56W4-EF201[GF]"
   },
@@ -20887,7 +20887,7 @@
     "memo": "1.第一~第三階段限材料系、半導體學系(奈米科學組)加選 2.開學後才開放外系或外校加選",
     "name": "晶體結構與繞射導論 Introduction to Crystallography and Diffraction",
     "num_limit": "60",
-    "reg_num": "76",
+    "reg_num": "75",
     "teacher": "陳軍華",
     "time": "T56R7-EF201[GF]"
   },
@@ -20899,7 +20899,7 @@
     "memo": "1.第一~第三階段限材料系、半導體工程學系(奈米科學組)加選 2.開學後才開放外系或外校加選",
     "name": "物理化學 Physical Chemistry",
     "num_limit": "60",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "吳樸偉",
     "time": "F234-EF207[GF]"
   },
@@ -27201,7 +27201,7 @@
     "num_limit": "40",
     "reg_num": "13",
     "teacher": "曾昭雄",
-    "time": "W567-EE206[GF]"
+    "time": "W567-EE205[GF]"
   },
   "1142_536076": {
     "code": "ENSS30022",
@@ -33007,7 +33007,7 @@
     "memo": "上課地點：浩然B1國際會議廳,限大二至大四同學修讀。",
     "name": "經典通識教育講座 Contemporary Civilization",
     "num_limit": "170",
-    "reg_num": "173",
+    "reg_num": "172",
     "teacher": "胡正光、王美鴻",
     "time": "W56-Lib-B1[GF]"
   },
@@ -35863,7 +35863,7 @@
     "memo": "體育館B1重量訓練室",
     "name": "體育－健康體能與肌力訓練甲 Fitness and strength training",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "廖威彰",
     "time": "R56-PE[GF]"
   },
@@ -37159,7 +37159,7 @@
     "memo": "(高年級優先)",
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "130",
-    "reg_num": "132",
+    "reg_num": "131",
     "teacher": "余啟哲",
     "time": "MabRab-SA321[GF]"
   },
@@ -37603,7 +37603,7 @@
     "memo": "",
     "name": "化學(二) Chemistry (II)",
     "num_limit": "70",
-    "reg_num": "64",
+    "reg_num": "63",
     "teacher": "李大偉",
     "time": "M12-SC151[GF]"
   },

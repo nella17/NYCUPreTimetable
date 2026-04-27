@@ -13711,7 +13711,7 @@
     "memo": "[English Medium Course]臨護所、在職專班合班上課。",
     "name": "進階身體評估案例討論 Advanced Physical Assessment case discussion",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "11",
     "teacher": "童恒新、胡慧蘭、劉佩青、黃莉婷",
     "time": "F34-YN414[YM]"
   },
@@ -13735,7 +13735,7 @@
     "memo": "[English Medium Course]開放隨班附讀，臨護所、護理系在職專班合班上課，一週兩天，將於7月份密集上課。",
     "name": "進階身體評估 Advanced Physical Assessment",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "11",
     "teacher": "童恒新、胡慧蘭、劉佩青",
     "time": "F12-YN414[YM]"
   },
@@ -18380,7 +18380,7 @@
     "name": "物件導向程式設計 Object-Oriented Programming",
     "num_limit": "50",
     "reg_num": "30",
-    "teacher": "溫宏斌",
+    "teacher": "温宏斌",
     "time": "Tabc-,Tn56-ED201[GF]"
   },
   "1142_515111": {
@@ -25927,7 +25927,7 @@
     "memo": "個別與指導教授約時間地點討論",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "223",
+    "reg_num": "222",
     "teacher": "光電系",
     "time": ""
   },
@@ -32360,7 +32360,7 @@
     "name": "白領犯罪與經濟刑法 White Collar Crime and Corporate Criminal Liability",
     "num_limit": "9999",
     "reg_num": "35",
-    "teacher": "林志潔、許永欽",
+    "teacher": "金孟華、許永欽",
     "time": "Fab-MB1069[GF],Fab-TA505[BM]"
   },
   "1142_557909": {

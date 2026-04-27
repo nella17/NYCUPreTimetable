@@ -17875,7 +17875,7 @@
     "memo": "",
     "name": "微分方程 Differential Equation",
     "num_limit": "55",
-    "reg_num": "11",
+    "reg_num": "10",
     "teacher": "陸曉峰",
     "time": "T2F34-ED202[GF]"
   },
@@ -18115,7 +18115,7 @@
     "memo": "A~F班 3學分4小時，3小時上課第4小時授權每位老師彈性規劃。",
     "name": "電子學(二) Electronics (II)",
     "num_limit": "60",
-    "reg_num": "57",
+    "reg_num": "56",
     "teacher": "蔡宗亨",
     "time": "M78R34-EE209[GF]"
   },
@@ -18163,7 +18163,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。課程時間為週一晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(二) Electronics Lab. (II)",
     "num_limit": "52",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "王夢偉",
     "time": "Mabcd-"
   },
@@ -18499,7 +18499,7 @@
     "memo": "",
     "name": "天線導論 Introduction to Antennas",
     "num_limit": "100",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "黃謀勤",
     "time": "F567-ED219[GF]"
   },
@@ -18571,7 +18571,7 @@
     "memo": "",
     "name": "數位訊號處理導論 Introduction to Digital Signal Processing",
     "num_limit": "100",
-    "reg_num": "89",
+    "reg_num": "88",
     "teacher": "劉志尉",
     "time": "M56R2-ED116[GF]"
   },
@@ -18619,7 +18619,7 @@
     "memo": "",
     "name": "數據通訊 Data Communications",
     "num_limit": "60",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "李佳翰",
     "time": "T7R56-ED303[GF]"
   },
@@ -18643,7 +18643,7 @@
     "memo": "",
     "name": "演算法導論 Introduction to Algorithms",
     "num_limit": "80",
-    "reg_num": "84",
+    "reg_num": "83",
     "teacher": "余俊宏",
     "time": "T34R7-ED219[GF]"
   },
@@ -18787,7 +18787,7 @@
     "memo": "上課教室：M34-EDB26；R1-計中PC2、PC4",
     "name": "電腦網路導論 Introduction to Computer Networks ",
     "num_limit": "90",
-    "reg_num": "68",
+    "reg_num": "67",
     "teacher": "林亭佑",
     "time": "R1-CS-PC2[GF],R1-CS-PC4[GF],M34-EDB26[GF]"
   },
@@ -18907,7 +18907,7 @@
     "memo": "原「通訊原理一」。",
     "name": "通訊系統導論 Introduction to Communication Systems",
     "num_limit": "140",
-    "reg_num": "64",
+    "reg_num": "63",
     "teacher": "陳柏志",
     "time": "W234-EDB26[GF]"
   },
@@ -18967,7 +18967,7 @@
     "memo": "",
     "name": "程式化邏輯系統設計 Programmable Logic System Design",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "歐陽盟",
     "time": "W78-EE623[GF],Wabc-EE634[GF]"
   },
@@ -19675,7 +19675,7 @@
     "memo": "[English Medium Course]主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課。1.學士班七大主題學程。2. 本系生優先權順序：2年級，4年級，3年級，1年級。[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
     "name": "人工智慧概論 Intro. to Artificial Intelligence",
     "num_limit": "112",
-    "reg_num": "84",
+    "reg_num": "83",
     "teacher": "魏群樹",
     "time": "T56-ED117[GF]"
   },
@@ -20899,7 +20899,7 @@
     "memo": "1.第一~第三階段限材料系、半導體工程學系(奈米科學組)加選 2.開學後才開放外系或外校加選",
     "name": "物理化學 Physical Chemistry",
     "num_limit": "60",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "吳樸偉",
     "time": "F234-EF207[GF]"
   },
@@ -20911,7 +20911,7 @@
     "memo": "1.第一~第三階段限材料系加選 2.開學後才開放外系或外校加選[English Medium Course]",
     "name": "材料力學 Mechanics of Materials",
     "num_limit": "60",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "鄭薇詩",
     "time": "T78W2-EF205[GF]"
   },
@@ -20935,7 +20935,7 @@
     "memo": "1.第一~第三階段限材料系、半導體工程學系(奈米科學組)加選 2.開學後才開放外系或外校加選",
     "name": "高分子材料科學 Polymer Materials Science",
     "num_limit": "60",
-    "reg_num": "38",
+    "reg_num": "37",
     "teacher": "劉典謨",
     "time": "W34F5-EF202[GF]"
   },
@@ -31195,7 +31195,7 @@
     "memo": "資訊組；限陽明交大在職專班學生選修",
     "name": "視訊壓縮 Video Compression",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "蕭旭峰",
     "time": "Wabc-EC115[GF]"
   },
@@ -31279,7 +31279,7 @@
     "memo": "電信組；限陽明交大在職專班學生選修",
     "name": "數位通訊 Digital Communications",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "陸曉峰",
     "time": "Rabc-ED116[GF]"
   },
@@ -31291,7 +31291,7 @@
     "memo": "學期共3次課程，上課日暫訂為5/16(六)，詳細上課時間請留意專班網頁公告；限電資專班學生選修",
     "name": "專題研討 Seminars",
     "num_limit": "9999",
-    "reg_num": "148",
+    "reg_num": "147",
     "teacher": "張永儒",
     "time": "S234567-"
   },
@@ -31303,7 +31303,7 @@
     "memo": "限本專班95級(含)以後同學選修；已有指導教授者才可選修，若尚未繳交過指導教授協議書，最遲開學兩週後交至專班辦公室。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "105",
+    "reg_num": "104",
     "teacher": "電資專班",
     "time": ""
   },
@@ -31327,7 +31327,7 @@
     "memo": "限本專班同學選修；已有指導教授者才可選修，若尚未繳交過指導教授協議書，最遲開學後兩週內交至專班辦公室。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "23",
     "teacher": "國防資安專班",
     "time": ""
   },
@@ -31339,7 +31339,7 @@
     "memo": "限資訊學院國防資安管理碩士在職專班學生選修。[另外1小時(第3節)以彈性非同步上課方式]",
     "name": "軟體測試與程式安全 Software Testing and Secure Programming",
     "num_limit": "30",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "黃世昆",
     "time": "Tab-TB435[BM]"
   },
@@ -31351,7 +31351,7 @@
     "memo": "限資訊學院國防資安管理碩士在職專班學生選修。",
     "name": "人工智慧概論 Introduction to Artificial Intelligence",
     "num_limit": "30",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "顏羽君",
     "time": "Fabc-TB435[BM]"
   },
@@ -31723,7 +31723,7 @@
     "memo": "限碩士在職專班學生選修",
     "name": "前瞻科技-應用化學 Advanced Technologies – Applied Chemistry",
     "num_limit": "9999",
-    "reg_num": "45",
+    "reg_num": "44",
     "teacher": "李大偉",
     "time": "S234-SC201[GF]"
   },
@@ -32023,7 +32023,7 @@
     "memo": "",
     "name": "科學的歷程 The History of Science",
     "num_limit": "30",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "羅濟群",
     "time": "Tabc-MB304[GF]"
   },
@@ -37159,7 +37159,7 @@
     "memo": "(高年級優先)",
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "130",
-    "reg_num": "131",
+    "reg_num": "130",
     "teacher": "余啟哲",
     "time": "MabRab-SA321[GF]"
   },
@@ -37687,7 +37687,7 @@
     "memo": "[English Medium Course]英文授課 生物科技學系大一新生及轉學生優先選課，上限70人。不接受生技系學生採計為核心學分。",
     "name": "普通生物學(二) General Biology (II)",
     "num_limit": "70",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "趙啟宏",
     "time": "Wn56-SC106[GF]"
   },
@@ -38071,7 +38071,7 @@
     "memo": "因課務系統限制，本課程不開放線上選課。請適用109學年度（含以前）必修科目表的選課同學於開學加退選期間以紙本加簽單至浩然圖書館B1藝文空間服務台進行加簽。",
     "name": "藝文賞析教育 Arts Appreciation Education",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "藝文中心",
     "time": ""
   },

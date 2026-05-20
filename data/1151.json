@@ -596,8 +596,8 @@
     "name": "實證醫學文獻評讀解析 Evidence-based medicine critical appraisal Skills",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "吳輔榮",
-    "time": ""
+    "teacher": "吳輔榮、梁君安、陳俊宇、簡茹君、蘇怡嘉、楊曜仲",
+    "time": "M9-"
   },
   "1151_110050": {
     "code": "MDMD20247",
@@ -801,7 +801,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林明慧、李威儒、陳育群、黃信彰、劉瑞瑤、鄭惇方、李俊秀、許碧珊、洪德仁、張曉婷",
-    "time": "M56-YB100[YM]"
+    "time": "M56-YT001[YM]"
   },
   "1151_110067": {
     "code": "MDMD10148",
@@ -1016,7 +1016,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "楊懷哲、陳政育、楊令瑀、黃志賢、張佩靖、范佩貞、曾炳輝、嵇達德、蔡明翰、吳芬芬、劉文勝、黃駿豐、林秉熙、陳信彰、熊偉、鄭涵方、張鴻猷",
+    "teacher": "楊智傑、楊懷哲、陳政育、楊令瑀、黃志賢、張佩靖、范佩貞、曾炳輝、嵇達德、蔡明翰、吳芬芬、劉文勝、黃駿豐、林秉熙、陳信彰、熊偉、鄭涵方、張鴻猷",
     "time": "SaUa-YT002[YM]"
   },
   "1151_111500": {
@@ -1879,7 +1879,7 @@
     "memo": "六年級上學期選課，非實體授課。",
     "name": "進階藥學研究(四) Advanced Pharmacy Research (IV)",
     "num_limit": "9999",
-    "reg_num": "42",
+    "reg_num": "33",
     "teacher": "吳宗軒、王孟廷、林滿玉、陳日榮、林宥欣、姜紹青、東雅惠、陳惠亭、蘇溶真、廖曉偉、陳謄州、黃世宗",
     "time": ""
   },
@@ -2095,7 +2095,7 @@
     "memo": "暑期上課。",
     "name": "中藥炮製學 Processing of Chinese Medicine",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "58",
     "teacher": "陳日榮、賴尚志",
     "time": "U123-"
   },
@@ -4569,7 +4569,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "彭溫雅",
-    "time": "M567-YK912[YM],M567-YK914[YM]"
+    "time": "W234-YK914[YM],W234-YK916[YM]"
   },
   "1151_113903": {
     "code": "MDCH20013",
@@ -4725,7 +4725,7 @@
     "num_limit": "40",
     "reg_num": "0",
     "teacher": "劉福運",
-    "time": "W34-YK916[YM]"
+    "time": "M56-YK916[YM]"
   },
   "1151_113917": {
     "code": "MDCH10007",
@@ -12777,7 +12777,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "林慶波",
-    "time": "W8-,W567-YL404[YM]"
+    "time": "W5678-YL404[YM]"
   },
   "1151_143400": {
     "code": "PSRS30004",
@@ -14884,7 +14884,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310104",
-    "memo": "傳科系為限，人數上限：25人",
+    "memo": "傳科系為限，人數上限：25人。\n實際上課教室為HK115。",
     "name": "傳播寫作 Writing for Communication",
     "num_limit": "25",
     "reg_num": "0",
@@ -17920,7 +17920,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515028",
-    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周一晚上abcd，上課教室為工程四館ED222。",
+    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先。預選學生不接受換班。第三階段起開放外系學生加退選。\n課程時間為週一晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
     "reg_num": "0",
@@ -17932,7 +17932,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515029",
-    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周一晚上abcd，上課教室為工程四館ED320。",
+    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先。預選學生不接受換班。第三階段起開放外系學生加退選。\n課程時間為週一晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
     "reg_num": "0",
@@ -17944,7 +17944,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515030",
-    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周二晚上abcd，上課教室為工程四館ED222。",
+    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先。預選學生不接受換班。第三階段起開放外系學生加退選。\n課程時間為週二晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
     "reg_num": "0",
@@ -17956,7 +17956,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515031",
-    "memo": "電子實驗課為電機系大二學生必修課程，第三階段起開放所有學生加退選。\n以電機系大二學生優先、「2A班優先」、醫師工程師組。課程時間為周二晚上abcd，上課教室為工程四館ED320。",
+    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二A班、醫師工程師組學生優先。預選學生不接受換班。第三階段起開放外系學生加退選。\n課程時間為週二晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
     "reg_num": "0",
@@ -17968,7 +17968,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515032",
-    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周三晚上abcd，上課教室為工程四館ED222。",
+    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先。預選學生不接受換班。第三階段起開放外系學生加退選。\n課程時間為週三晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
     "reg_num": "0",
@@ -17980,7 +17980,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515033",
-    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先，第三階段起開放所有學生加退選。\n課程時間為周三晚上abcd，上課教室為工程四館ED320。",
+    "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先。預選學生不接受換班。第三階段起開放外系學生加退選。\n課程時間為周三晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
     "reg_num": "0",
@@ -18222,7 +18222,7 @@
     "id": "515110",
     "memo": "授課老師：陳永平",
     "name": "動態系統分析與模擬 Analysis and Simulation of Dynamic Systems",
-    "num_limit": "9999",
+    "num_limit": "65",
     "reg_num": "0",
     "teacher": "",
     "time": "T234-EE220[GF]"
@@ -18297,7 +18297,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "譚至善",
-    "time": "R678-ED301[GF]"
+    "time": "T678-EE220[GF]"
   },
   "1151_515117": {
     "code": "EEEC20046",
@@ -18316,7 +18316,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515118",
-    "memo": "[English Medium Course] ，上課教室工程五館EE222A。\n此課程不得列入生醫所畢業學分。需修畢或同時修習電子實驗才可加選。加選為通識學生請於開學後找老師加簽。",
+    "memo": "[English Medium Course] ，上課教室工程五館EE222A。需修畢或同時修習電子實驗才可加選。加選為通識學生請於開學後找老師加簽。",
     "name": "生醫工程實驗 Biomedical Engineering Laboratory",
     "num_limit": "18",
     "reg_num": "0",
@@ -18556,12 +18556,12 @@
     "credit": "3.00",
     "hours": "4.00",
     "id": "515138",
-    "memo": "上課時段週一34節在工程五館EE623、\nLab: 週五9a節實驗在工程五館EE611；其餘實驗時段請與授課教師聯絡。",
+    "memo": "上課時段週一34節在工程五館EE623、Lab: 週五89節實驗在工程五館EE611；其餘實驗時段請與授課教師聯絡。",
     "name": "電力電子實驗 Power Electronics Labs.",
-    "num_limit": "65",
+    "num_limit": "55",
     "reg_num": "0",
     "teacher": "陳鴻祺",
-    "time": "M34F9a-EE623[GF]"
+    "time": "M34F89-EE623[GF]"
   },
   "1151_515139": {
     "code": "EEEC20101",
@@ -18609,7 +18609,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "譚至善",
-    "time": "T34F5-EDB01[GF]"
+    "time": "T234-EE112[GF]"
   },
   "1151_515143": {
     "code": "EEEC20104",
@@ -19063,7 +19063,7 @@
     "memo": "",
     "name": "電子學(一) Electronic(I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "劉柏村",
     "time": "M78R34-CY202[GF]"
   },
@@ -19087,7 +19087,7 @@
     "memo": "上課教室:ED320",
     "name": "電子學實驗(一) Electronic Lab. (I)",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "陳建安",
     "time": "Rabcd-"
   },
@@ -19099,7 +19099,7 @@
     "memo": "",
     "name": "電磁學(一) Electromagnetics(I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "吳致盛",
     "time": "T56R78-CY203[GF]"
   },
@@ -19111,7 +19111,7 @@
     "memo": "線上同步教學",
     "name": "微分方程 Differential Equations",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "陳智弘",
     "time": "M34W2-"
   },
@@ -19123,7 +19123,7 @@
     "memo": "光電系學生必修",
     "name": "服務學習(二) Service Learning II",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "39",
     "teacher": "高宗聖、陳方中、鄒志偉、黃耀緯",
     "time": "W8-CY202[GF]"
   },
@@ -19135,7 +19135,7 @@
     "memo": "",
     "name": "光子學(二) Photonics(II)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "陳姿伶",
     "time": "M8W34-CY203[GF]"
   },
@@ -19147,7 +19147,7 @@
     "memo": "",
     "name": "光子學實驗 (二) Photonics Lab.(II) ",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "高宗聖",
     "time": "Tabcd-EO115[GF]"
   },
@@ -19159,7 +19159,7 @@
     "memo": "",
     "name": "光子學實驗 (二) Photonics Lab.(II) ",
     "num_limit": "18",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "高宗聖",
     "time": "Rabcd-EO115[GF]"
   },
@@ -19171,7 +19171,7 @@
     "memo": "[English Medium Course]",
     "name": "訊號與系統 Signals and Systems",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "鄒志偉",
     "time": "T8R67-EO103[GF]"
   },
@@ -19183,7 +19183,7 @@
     "memo": "由專題指導老師約定討論時間及地點",
     "name": "光電工程專題(一) Special Project of Photonics (I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "38",
     "teacher": "光電系",
     "time": ""
   },
@@ -19207,7 +19207,7 @@
     "memo": "由專題指導老師約定討論時間及地點",
     "name": "光電工程專題(三) Special Project of Photonics (III)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "光電系",
     "time": ""
   },
@@ -20601,7 +20601,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "陳三元",
-    "time": "M6W34-EF205[GF]"
+    "time": "M3R34-EF205[GF]"
   },
   "1151_516311": {
     "code": "ENMS20008",
@@ -21021,7 +21021,7 @@
     "num_limit": "70",
     "reg_num": "0",
     "teacher": "張書銘",
-    "time": "T78R56-SC201[GF],T78R56-SC206[GF]"
+    "time": "T78R56-SC201[GF]"
   },
   "1151_516702": {
     "code": "SCMA00002",
@@ -29298,7 +29298,7 @@
     "id": "537017",
     "memo": "[English Medium Course]管理科學系碩士班管理決策組先修課程；陽明校區欲加選可寫E-mail給老師，謝謝。",
     "name": "會計學 Accounting",
-    "num_limit": "110",
+    "num_limit": "60",
     "reg_num": "0",
     "teacher": "蔡璧徽",
     "time": "W789-M205[GF]"
@@ -30895,7 +30895,7 @@
     "memo": "醫電所(原生醫所)主開(適用111學年後入學)\n人數上限：20",
     "name": "書報討論A Special Topic Seminar A",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "李佳燕",
     "time": "Mz1-EE112[GF]"
   },
@@ -30907,7 +30907,7 @@
     "memo": "醫電所(原生醫所)主開(適用111學年後入學)\n人數上限：20",
     "name": "書報討論B Special Topic Seminar B",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "江柏翰",
     "time": "Mz1-EE113[GF]"
   },
@@ -30919,7 +30919,7 @@
     "memo": "醫電所(原生醫所)主開(適用111學年後入學)\n人數上限：20",
     "name": "書報討論C Special Topic Seminar C",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "11",
     "teacher": "李博仁",
     "time": "Mz1-EE117[GF]"
   },
@@ -30931,7 +30931,7 @@
     "memo": "醫電所(原生醫所)主開(適用111學年後入學)\n人數上限：20",
     "name": "書報討論D Special Topic Seminar D",
     "num_limit": "20",
-    "reg_num": "0",
+    "reg_num": "10",
     "teacher": "羅畯義",
     "time": "Mz1-EE118[GF]"
   },
@@ -32877,7 +32877,7 @@
     "num_limit": "80",
     "reg_num": "0",
     "teacher": "王冠生",
-    "time": "F78-AB102[GF]"
+    "time": "F78-A102[GF]"
   },
   "1151_561009": {
     "code": "GECG00043",
@@ -33453,7 +33453,7 @@
     "num_limit": "70",
     "reg_num": "0",
     "teacher": "程千芳",
-    "time": "T56-YX503[YM]"
+    "time": "T56-YT305[YM]"
   },
   "1151_561060": {
     "code": "GECG10030",
@@ -44754,7 +44754,7 @@
     "id": "960000",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－國際情勢 All-out Defense Education Military Training-International Situations",
-    "num_limit": "42",
+    "num_limit": "55",
     "reg_num": "0",
     "teacher": "蕭時光",
     "time": "F56-YX501[YM]"
@@ -44766,10 +44766,10 @@
     "id": "960001",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－防衛動員 All-out Defense Education Military Training-Defense Mobilization",
-    "num_limit": "42",
+    "num_limit": "55",
     "reg_num": "0",
     "teacher": "待聘",
-    "time": "W12-YX501[YM],F56-YX503[YM]"
+    "time": "F56-YX503[YM]"
   },
   "1151_960002": {
     "code": "GEMT00001",
@@ -44778,7 +44778,7 @@
     "id": "960002",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－國防政策 All-out Defense Education Military Training-National Defense Policies",
-    "num_limit": "42",
+    "num_limit": "55",
     "reg_num": "0",
     "teacher": "蕭時光",
     "time": "F78-YX501[YM]"
@@ -44790,7 +44790,7 @@
     "id": "960003",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－國防科技 All-out Defense Education Military Training-Defense Technology",
-    "num_limit": "42",
+    "num_limit": "55",
     "reg_num": "0",
     "teacher": "邱雅萍",
     "time": "M78-YX501[YM]"
@@ -44802,7 +44802,7 @@
     "id": "960004",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－全民國防 All-out Defense Education Military Training-Civil Defense",
-    "num_limit": "42",
+    "num_limit": "55",
     "reg_num": "0",
     "teacher": "邱雅萍",
     "time": "M56-YX501[YM]"

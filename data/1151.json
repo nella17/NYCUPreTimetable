@@ -7976,7 +7976,7 @@
     "name": "進階內外科護理學實習(一) Practice in Advanced Medical-Surgical Nursing (I)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "廖媛美、孫秀卿、黃升苗、陳俞琪、邱愛富、黃淑鶴、陳律言",
+    "teacher": "廖媛美、孫秀卿、黃升苗、陳俞琪、邱愛富、黃淑鶴、陳律言、廖咨詠",
     "time": "W12345678-"
   },
   "1151_131701": {
@@ -7988,7 +7988,7 @@
     "name": "進階內外科護理學(一) Advanced Medical-Surgical Nursing (I)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "廖媛美、孫秀卿、陳俞琪、邱愛富、胡慧蘭、黃淑鶴、陳律言、廖咨詠",
+    "teacher": "廖媛美、孫秀卿、黃升苗、陳俞琪、邱愛富、胡慧蘭、黃淑鶴、陳律言、廖咨詠",
     "time": "T567-YN321[YM]"
   },
   "1151_131702": {
@@ -11673,7 +11673,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳斯婷、楊慕華、陳念榮、陳世彬、陶秘華、蔡肇基、邱政洵、謝世良、王鵬惠、黃怡翔、陳相成、范怡琴、王愈善",
-    "time": "W56-YL405[YM]"
+    "time": "W56-YR104[YM]"
   },
   "1151_140306": {
     "code": "MDCM30051",
@@ -11781,7 +11781,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "吳肇卿、林明薇、吳俊穎、林邑璁、李欣蓉、可文亞、蔡明翰、姜為中、詹宇鈞、王復德、蘇建維、林錫勳、卓文隆、謝世良、郭旭崧、謝文儒、郭英調、顏慕庸、馬徹、周彥宏、陳昕白、陳伯亮、洪德仁",
-    "time": "W56-YR104[YM]"
+    "time": "W56-YL405[YM]"
   },
   "1151_140315": {
     "code": "MDCM30073",
@@ -17116,9 +17116,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "514033",
-    "memo": "",
+    "memo": "本課程人數上限為15人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "策展實踐 Curatorial Practice",
-    "num_limit": "9999",
+    "num_limit": "8",
     "reg_num": "0",
     "teacher": "張馨之",
     "time": "F234-HA109[GF]"
@@ -22653,7 +22653,7 @@
     "num_limit": "70",
     "reg_num": "0",
     "teacher": "陳慶永",
-    "time": "W567-SC160[GF]"
+    "time": "W567-SA312[GF]"
   },
   "1151_520018": {
     "code": "XDEP10015",
@@ -22822,18 +22822,6 @@
     "reg_num": "0",
     "teacher": "謝承利",
     "time": "Mn56-KB302"
-  },
-  "1151_520032": {
-    "code": "XDEP20035",
-    "credit": "1.00",
-    "hours": "3.00",
-    "id": "520032",
-    "memo": "[高雄校區]",
-    "name": "半導體實務 Semiconductor Practice",
-    "num_limit": "48",
-    "reg_num": "0",
-    "teacher": "謝承利",
-    "time": "F5678-KB401"
   },
   "1151_530000": {
     "code": "GELT30003",
@@ -30995,6 +30983,30 @@
     "teacher": "羅畯義",
     "time": "W567-EE117[GF]"
   },
+  "1151_545500": {
+    "code": "CSIC30029",
+    "credit": ".00",
+    "hours": "2.00",
+    "id": "545500",
+    "memo": "[English Medium Course]英文授課",
+    "name": "博士班書報討論 Special Topics Seminar A (PhD)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳添福",
+    "time": "R56-ED301[GF]"
+  },
+  "1151_545501": {
+    "code": "CSIC30028",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "545501",
+    "memo": "資科工所博士班 博士生資格考通過後必修",
+    "name": "博士學位論文研究 Ph.D.Thesis Study",
+    "num_limit": "110",
+    "reg_num": "0",
+    "teacher": "資科工博",
+    "time": ""
+  },
   "1151_545800": {
     "code": "EEIG30002",
     "credit": ".00",
@@ -32790,7 +32802,7 @@
     "id": "561000",
     "memo": "",
     "name": "音樂理論導論 Introduction to Music Theory",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "洪億津",
     "time": "M56-A102[GF]"
@@ -32802,7 +32814,7 @@
     "id": "561001",
     "memo": "",
     "name": "莊子導讀 Zhuangzi",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "王小滕",
     "time": "W34-A303[GF]"
@@ -32814,7 +32826,7 @@
     "id": "561002",
     "memo": "",
     "name": "莊子導讀 Zhuangzi",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "王小滕",
     "time": "W56-A303[GF]"
@@ -32826,7 +32838,7 @@
     "id": "561003",
     "memo": "",
     "name": "文學經典：詩經 Chinese Literature-Shin Ching",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "王月秀",
     "time": "M12-A202[GF]"
@@ -32838,7 +32850,7 @@
     "id": "561004",
     "memo": "「閱讀與寫作」包含寫作指導。",
     "name": "閱讀與寫作 Reading and Writing",
-    "num_limit": "30",
+    "num_limit": "23",
     "reg_num": "0",
     "teacher": "王月秀",
     "time": "M34-A202[GF]"
@@ -32850,7 +32862,7 @@
     "id": "561005",
     "memo": "",
     "name": "世界藝術史選讀 Topics in World Art History",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "待聘",
     "time": "W34-A204[GF]"
@@ -32862,7 +32874,7 @@
     "id": "561006",
     "memo": "限物治二、護理一、藥學一優先選課，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生(依初選第三階段時在籍學生帶入)，請勿隨意退課。物治、護理、藥學三系有重補修本課程需求學生，麻煩至https://forms.gle/iUJddkGakRrj2o1H9登記，行政人員將依表單資料在新生初選結束後帶入選課。",
     "name": "普通心理學 General Psychology",
-    "num_limit": "140",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "程千芳",
     "time": "T12-YX406[YM]"
@@ -32874,7 +32886,7 @@
     "id": "561007",
     "memo": "",
     "name": "生命教育 Life Education",
-    "num_limit": "70",
+    "num_limit": "45",
     "reg_num": "0",
     "teacher": "王冠生",
     "time": "F56-A203[GF]"
@@ -32886,7 +32898,7 @@
     "id": "561008",
     "memo": "「邏輯與思維」 選課系統預設(舊制)核心人文,欲採計核心自然請至通識中心書面申請。",
     "name": "邏輯與思維 Logic and Thinking",
-    "num_limit": "80",
+    "num_limit": "68",
     "reg_num": "0",
     "teacher": "王冠生",
     "time": "F78-A102[GF]"
@@ -32898,7 +32910,7 @@
     "id": "561009",
     "memo": "「資訊行為」不接受修讀過「社會心理學」同學修讀。開學後加退選階段不開放系統選課。",
     "name": "資訊行為 Human Information Behavior",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "王美鴻",
     "time": "R34-A202[GF]"
@@ -32910,7 +32922,7 @@
     "id": "561010",
     "memo": "",
     "name": "日本文化論 Cultural Heritage of Japan",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "王敬翔",
     "time": "F34-A204[GF]"
@@ -32922,7 +32934,7 @@
     "id": "561011",
     "memo": "",
     "name": "日本文化論 Cultural Heritage of Japan",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "王敬翔",
     "time": "F56-A204[GF]"
@@ -32934,7 +32946,7 @@
     "id": "561012",
     "memo": "1.「大數據分析入門與實務研討」不接受修過「機器學習」同學修讀。2.本課程額滿不加簽.",
     "name": "大數據分析入門與實務研討 Basic and Practice of Big Data Analytics",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "白姝玉",
     "time": "W56-CS-PC2[GF]"
@@ -32946,7 +32958,7 @@
     "id": "561013",
     "memo": "1.「大數據分析入門與實務研討」不接受修過「機器學習」同學修讀。2.本課程額滿不加簽.",
     "name": "大數據分析入門與實務研討 Basic and Practice of Big Data Analytics",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "白姝玉",
     "time": "W34-A213[GF]"
@@ -32958,7 +32970,7 @@
     "id": "561015",
     "memo": "[English Medium Course]",
     "name": "亞洲的性別及酷兒研究 Gender, Sexuality, and Queer Studies in Asia",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "待聘",
     "time": "R56-HB210[GF]"
@@ -32982,7 +32994,7 @@
     "id": "561017",
     "memo": "",
     "name": "音樂概論 Introduction to Music",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "宋育任",
     "time": "R34-A102[GF]"
@@ -32994,7 +33006,7 @@
     "id": "561018",
     "memo": "",
     "name": "音樂概論 Introduction to Music",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "宋育任",
     "time": "R56-A102[GF]"
@@ -33006,7 +33018,7 @@
     "id": "561019",
     "memo": "",
     "name": "西洋歌劇史 A History of Western Opera",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "宋育任",
     "time": "W34-A102[GF]"
@@ -33030,7 +33042,7 @@
     "id": "561021",
     "memo": "",
     "name": "臺灣現代詩賞析 An Introduction to Taiwan Modern Poetry",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "李恩齊",
     "time": "M78-A203[GF]"
@@ -33042,7 +33054,7 @@
     "id": "561022",
     "memo": "",
     "name": "聽見羅密歐與茱麗葉 Listening to Romeo and Juliet",
-    "num_limit": "36",
+    "num_limit": "27",
     "reg_num": "0",
     "teacher": "林伶美",
     "time": "T12-YX502[YM]"
@@ -33054,7 +33066,7 @@
     "id": "561023",
     "memo": "1.本課程採網路選課不開放加簽。2.原課名「交響曲發展史：從史塔密茲到貝多芬」，不接受修過「交響曲發展史：從史塔密茲到貝多芬 」同學修讀。",
     "name": "古典樂派交響曲之藝術與流變 The Art and Evolution of Classical Symphonies",
-    "num_limit": "36",
+    "num_limit": "27",
     "reg_num": "0",
     "teacher": "林伶美",
     "time": "T34-YX502[YM]"
@@ -33066,7 +33078,7 @@
     "id": "561024",
     "memo": "1.本課程採網路選課不開放加簽。2.原課名「交響曲發展史：從史塔密茲到貝多芬」，不接受修過「交響曲發展史：從史塔密茲到貝多芬 」同學修讀。",
     "name": "古典樂派交響曲之藝術與流變 The Art and Evolution of Classical Symphonies",
-    "num_limit": "36",
+    "num_limit": "27",
     "reg_num": "0",
     "teacher": "林伶美",
     "time": "F34-A102[GF]"
@@ -33078,7 +33090,7 @@
     "id": "561025",
     "memo": "本課程採網路選課不開放加簽。",
     "name": "戲劇音樂：生命與愛情 Drama Music: Lives and Love",
-    "num_limit": "36",
+    "num_limit": "27",
     "reg_num": "0",
     "teacher": "林伶美",
     "time": "F56-A102[GF]"
@@ -33090,7 +33102,7 @@
     "id": "561026",
     "memo": "「生命與生醫」不接受生科系同學修讀。[English Medium Course]",
     "name": "生命與生醫 Life and Biomedicine",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "林苕吟",
     "time": "M34-A204[GF]"
@@ -33102,7 +33114,7 @@
     "id": "561027",
     "memo": "「生命與生醫」不接受生科系同學修讀。[English Medium Course]",
     "name": "生命與生醫 Life and Biomedicine",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "林苕吟",
     "time": "M56-A203[GF]"
@@ -33114,7 +33126,7 @@
     "id": "561028",
     "memo": "本課程網路選課為主，不開放加簽。",
     "name": "生活中的腦科學 Brain Science in Daily Life",
-    "num_limit": "60",
+    "num_limit": "45",
     "reg_num": "0",
     "teacher": "林校群",
     "time": "R78-A203[GF]"
@@ -33126,7 +33138,7 @@
     "id": "561029",
     "memo": "本課程網路選課為主，不開放加簽。",
     "name": "知識融通：當代科技的健康效應 Consilience: Health Effects of Contemporary Technologies",
-    "num_limit": "55",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "林基興",
     "time": "T34-A103[GF]"
@@ -33138,7 +33150,7 @@
     "id": "561030",
     "memo": "本課程網路選課為主，不開放加簽。",
     "name": "知識融通：當代科技的健康效應 Consilience: Health Effects of Contemporary Technologies",
-    "num_limit": "55",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "林基興",
     "time": "T56-A103[GF]"
@@ -33150,7 +33162,7 @@
     "id": "561031",
     "memo": "",
     "name": "邊界與遷移 Border and Migration",
-    "num_limit": "30",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "林淑芬",
     "time": "W34-HC101[GF]"
@@ -33162,7 +33174,7 @@
     "id": "561032",
     "memo": "",
     "name": "領導與統御 Leadership",
-    "num_limit": "70",
+    "num_limit": "45",
     "reg_num": "0",
     "teacher": "林紹胤",
     "time": "R789-A102[GF],R789-YT301[YM]"
@@ -33174,7 +33186,7 @@
     "id": "561033",
     "memo": "",
     "name": "西方藝術史導論 History of Western Art",
-    "num_limit": "60",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "武嘉文",
     "time": "T56-A203[GF]"
@@ -33186,7 +33198,7 @@
     "id": "561034",
     "memo": "",
     "name": "身體與藝術 Body and Art",
-    "num_limit": "60",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "武嘉文",
     "time": "T78-A203[GF]"
@@ -33198,7 +33210,7 @@
     "id": "561035",
     "memo": "",
     "name": "國際關係 International Relations",
-    "num_limit": "40",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "邱奕宏",
     "time": "M34-A213[GF]"
@@ -33210,7 +33222,7 @@
     "id": "561036",
     "memo": "「全球議題」 不接受已修過「當代世界」同學修讀。[English Medium Course]",
     "name": "全球議題 Global Issues",
-    "num_limit": "40",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "邱奕宏",
     "time": "M56-A213[GF]"
@@ -33222,7 +33234,7 @@
     "id": "561037",
     "memo": "「政治學導論」 不接受已修過「政治學」同學修讀。",
     "name": "政治學導論 Introduction to Political Science",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "邱奕宏",
     "time": "T56-A213[GF]"
@@ -33234,7 +33246,7 @@
     "id": "561038",
     "memo": "",
     "name": "國際政治經濟學 International Political Economy",
-    "num_limit": "40",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "邱奕宏",
     "time": "T34-A213[GF]"
@@ -33246,7 +33258,7 @@
     "id": "561039",
     "memo": "",
     "name": "法國社會文化史 Socio-cultural history of France",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "邱德亮",
     "time": "M56-HB210[GF]"
@@ -33258,7 +33270,7 @@
     "id": "561041",
     "memo": "",
     "name": "氣候變遷與永續發展 Climate Change and Sustainable Development",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "倪貴榮、李界昇、郭詠華",
     "time": "R34-A205[GF]"
@@ -33270,7 +33282,7 @@
     "id": "561042",
     "memo": "「臺灣史」不接受修讀過「中國與東亞文明史」同學修讀：「中國與東亞文明史」不接受修讀過「臺灣史」同學修讀。",
     "name": "臺灣史 The Taiwan History",
-    "num_limit": "40",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "張文昌",
     "time": "F34-A205[GF]"
@@ -33294,7 +33306,7 @@
     "id": "561044",
     "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制)核心社會,欲採計核心自然請至人學中心書面申請。",
     "name": "普通心理學 General Psychology",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "梁瓊惠",
     "time": "T34-A204[GF]"
@@ -33306,7 +33318,7 @@
     "id": "561045",
     "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀 2.選課系統預設(舊制)核心社會,欲採計核心自然請至人學中心書面申請。",
     "name": "普通心理學 General Psychology",
-    "num_limit": "60",
+    "num_limit": "45",
     "reg_num": "0",
     "teacher": "梁瓊惠",
     "time": "T78-A204[GF]"
@@ -33318,7 +33330,7 @@
     "id": "561047",
     "memo": "",
     "name": "社會心理學 Social Psychology",
-    "num_limit": "50",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "梁瓊惠",
     "time": "M567-A204[GF]"
@@ -33330,7 +33342,7 @@
     "id": "561048",
     "memo": "[English Medium Course]",
     "name": "藝術史中的日常 An Art History of Everyday Life",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "待聘",
     "time": "W56-A204[GF]"
@@ -33342,7 +33354,7 @@
     "id": "561049",
     "memo": "「歷史分析：世界史導論」不接受修讀過「世界文明史」同學修讀。",
     "name": "歷史分析：世界史導論 History Analysis: Introduction to the World History",
-    "num_limit": "45",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "陳仁姮",
     "time": "T34-A205[GF]"
@@ -33354,7 +33366,7 @@
     "id": "561050",
     "memo": "「歷史分析：世界史導論」不接受修讀過「世界文明史」同學修讀。",
     "name": "歷史分析：世界史導論 History Analysis: Introduction to the World History",
-    "num_limit": "45",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "陳仁姮",
     "time": "T78-A205[GF]"
@@ -33366,7 +33378,7 @@
     "id": "561051",
     "memo": "「俄羅斯歷史與文化」(3學分) 不接受已修過「俄羅斯歷史與文化」(2學分)同學修讀。",
     "name": "俄羅斯歷史與文化 History of Russian Culture",
-    "num_limit": "45",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "陳仁姮",
     "time": "W34n-A205[GF]"
@@ -33378,7 +33390,7 @@
     "id": "561052",
     "memo": "",
     "name": "文學經典：俄國名著選讀 Selected Reading on Russian Classical Literature",
-    "num_limit": "45",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "陳仁姮",
     "time": "M78-A205[GF]"
@@ -33390,7 +33402,7 @@
     "id": "561053",
     "memo": "「造型與繪圖」不接受已修過「幾何造形」的同學選讀。",
     "name": "造型與繪圖 Patterning and Drawing",
-    "num_limit": "41",
+    "num_limit": "31",
     "reg_num": "0",
     "teacher": "陳明璋",
     "time": "F12-CS-PC2[GF]"
@@ -33402,7 +33414,7 @@
     "id": "561054",
     "memo": "「造型與繪圖」不接受已修過「幾何造形」的同學選讀。",
     "name": "造型與繪圖 Patterning and Drawing",
-    "num_limit": "41",
+    "num_limit": "31",
     "reg_num": "0",
     "teacher": "陳明璋",
     "time": "F34-CS-PC2[GF]"
@@ -33414,7 +33426,7 @@
     "id": "561055",
     "memo": "",
     "name": "文學經典：現代文學選讀 Selected Reading on Modern Literature",
-    "num_limit": "40",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "彭明偉",
     "time": "T34-A203[GF]"
@@ -33426,7 +33438,7 @@
     "id": "561056",
     "memo": "",
     "name": "文學經典：魯迅作品選讀 Selected Readings on Lu Xun",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "彭明偉",
     "time": "W34-A203[GF]"
@@ -33438,7 +33450,7 @@
     "id": "561057",
     "memo": "",
     "name": "普通心理學 General Psychology",
-    "num_limit": "140",
+    "num_limit": "53",
     "reg_num": "0",
     "teacher": "程千芳",
     "time": "R34-A103[GF]"
@@ -33450,7 +33462,7 @@
     "id": "561058",
     "memo": "課程不開放加簽。",
     "name": "心理與生活 Psychology and Life",
-    "num_limit": "70",
+    "num_limit": "53",
     "reg_num": "0",
     "teacher": "程千芳",
     "time": "R56-A103[GF]"
@@ -33462,7 +33474,7 @@
     "id": "561059",
     "memo": "課程不開放加簽。",
     "name": "心理與生活 Psychology and Life",
-    "num_limit": "70",
+    "num_limit": "53",
     "reg_num": "0",
     "teacher": "程千芳",
     "time": "T56-YT305[YM]"
@@ -33474,7 +33486,7 @@
     "id": "561060",
     "memo": "1.本課程期望創造醫療與科技跨領域的對話，選課學生設定為光復校區學生以及陽明校區至光復校區的共學生，各25人。2.第1至第3初選階段，「光復校區學生」以網路選課為主，「陽明校區至光復校區的共學生」至https://forms.gle/BnQZGbia2SNmj17A8登記選課意願。3. 開學加退選階段大四~大二優先選課。",
     "name": "科技與醫療的人文關懷 Humanism in Technology and Medical Cares",
-    "num_limit": "60",
+    "num_limit": "19",
     "reg_num": "0",
     "teacher": "黃育綸、陳俞琪、程千芳、林承霈、林士平、王美鴻",
     "time": "R56-A202[GF]"
@@ -33486,7 +33498,7 @@
     "id": "561061",
     "memo": "",
     "name": "社會學 Sociology",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "黃國清",
     "time": "R34-A204[GF]"
@@ -33498,7 +33510,7 @@
     "id": "561062",
     "memo": "「認同與文化」不接受修讀過「當代世界：認同與文化」同學修讀。",
     "name": "認同與文化 Identity and Culture",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "黃國清",
     "time": "R56-A204[GF]"
@@ -33508,9 +33520,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "561063",
-    "memo": "本課程網路選課為主，不開放加簽。",
+    "memo": "",
     "name": "文學經典：台灣文學 Taiwanese Literature",
-    "num_limit": "45",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "黃毓婷",
     "time": "F567-A306[GF]"
@@ -33522,7 +33534,7 @@
     "id": "561064",
     "memo": "",
     "name": "書學與書道 Theories and Practice of Calligraphy",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "黃漢昌",
     "time": "W12-A202[GF]"
@@ -33534,7 +33546,7 @@
     "id": "561065",
     "memo": "",
     "name": "教育學概論 An introduction to pedagogy",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "黃漢昌",
     "time": "W34-A202[GF]"
@@ -33546,7 +33558,7 @@
     "id": "561066",
     "memo": "",
     "name": "日本文化論 Cultural Heritage of Japan",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "楊永良",
     "time": "M34-A205[GF]"
@@ -33558,7 +33570,7 @@
     "id": "561067",
     "memo": "",
     "name": "日本現勢 Japan Today",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "楊永良",
     "time": "M56-A205[GF]"
@@ -33570,7 +33582,7 @@
     "id": "561068",
     "memo": "本課程不開放加簽，一律採網路選課。",
     "name": "生死學 Study of Life-and-Death",
-    "num_limit": "70",
+    "num_limit": "53",
     "reg_num": "0",
     "teacher": "楊敏昇",
     "time": "Rab-A205[GF]"
@@ -33582,7 +33594,7 @@
     "id": "561069",
     "memo": "",
     "name": "印度文化概論 Introduction to Indian Culture",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "董玉莉",
     "time": "R56-A213[GF]"
@@ -33594,7 +33606,7 @@
     "id": "561073",
     "memo": "",
     "name": "生醫法導論 Introduction to Biomedical Law",
-    "num_limit": "25",
+    "num_limit": "19",
     "reg_num": "0",
     "teacher": "賈文宇",
     "time": "W34-YX503[YM]"
@@ -33606,7 +33618,7 @@
     "id": "561074",
     "memo": "",
     "name": "霸權興衰史：從十五世紀至當代 The Rise and Fall of the Great Powers",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "劉河北",
     "time": "R34-A203[GF]"
@@ -33618,7 +33630,7 @@
     "id": "561075",
     "memo": "",
     "name": "霸權興衰史：從十五世紀至當代 The Rise and Fall of the Great Powers",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "劉河北",
     "time": "R56-A203[GF]"
@@ -33630,7 +33642,7 @@
     "id": "561076",
     "memo": "",
     "name": "東北亞政經議題分析 Analysis of Political and Economic Issues in Northeast As",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "待聘",
     "time": "T56-A202[GF]"
@@ -33640,12 +33652,12 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561077",
-    "memo": "1.「Python程式設計」不接受電機跟資訊學院同學修讀。2.實地線上混合教學課程。 陽明校區：線上，請向教師索取線上連結。",
+    "memo": "「Python程式設計」不接受電機跟資訊學院同學修讀。",
     "name": "Python程式設計 Python Programming",
-    "num_limit": "60",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "鄭昌杰",
-    "time": "F34-"
+    "time": "W34-CS-PC2[GF]"
   },
   "1151_561078": {
     "code": "GECG00054",
@@ -33654,7 +33666,7 @@
     "id": "561078",
     "memo": "1.「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀2.選課系統預設(舊制通識)核心社會,欲採計核心自然請至通識中心書面申請。",
     "name": "普通心理學 General Psychology",
-    "num_limit": "60",
+    "num_limit": "45",
     "reg_num": "0",
     "teacher": "羅仕宇",
     "time": "F34-HB110[GF]"
@@ -33666,7 +33678,7 @@
     "id": "561079",
     "memo": "",
     "name": "晶片、帝國與世界秩序 Chips, Empires, and the World Order",
-    "num_limit": "20",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "顧彩璇",
     "time": "W567-HC104[GF]"
@@ -33678,7 +33690,7 @@
     "id": "561080",
     "memo": "",
     "name": "中醫古籍文選 Literature of Traditional Chinese Medicine",
-    "num_limit": "50",
+    "num_limit": "38",
     "reg_num": "0",
     "teacher": "游均晶",
     "time": "T56-A204[GF]"
@@ -37569,7 +37581,7 @@
     "num_limit": "85",
     "reg_num": "0",
     "teacher": "孟心飛",
-    "time": "T78-"
+    "time": "T78F34-"
   },
   "1151_565009": {
     "code": "GEPS10001",

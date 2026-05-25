@@ -7411,7 +7411,7 @@
     "memo": "生統領域必修",
     "name": "生物統計與資料科學實證討論(碩) Seminars in Biostatistics and Data Science (Master)",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "林明薇、温啟仲、林逸芬、郭炤裕、陳瓊梅",
     "time": "F34-YS221[YM]"
   },
@@ -7591,7 +7591,7 @@
     "memo": "限主修生物統計領域學生選修(114學年度入學同學選修)",
     "name": "生物統計與資料科學實證討論(碩) Seminars in Biostatistics and Data Science (Master)",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "7",
     "teacher": "林明薇、温啟仲、林逸芬、郭炤裕、陳瓊梅",
     "time": "F34-YS221[YM]"
   },
@@ -11191,7 +11191,7 @@
     "memo": "",
     "name": "顯微鏡操作與生理病理學應用 Microscopy Operation and Applications in Physiopathology",
     "num_limit": "30",
-    "reg_num": "6",
+    "reg_num": "7",
     "teacher": "卓冠宇、劉子洋",
     "time": "T567-YK101[YM]"
   },
@@ -36307,7 +36307,7 @@
     "memo": "交大校區",
     "name": "體育－網球校隊(男) Tennis team(Male)",
     "num_limit": "9999",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "詹益欣",
     "time": ""
   },

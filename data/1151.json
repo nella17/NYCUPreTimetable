@@ -23363,6 +23363,66 @@
     "teacher": "牟安文",
     "time": "M234-HB322[GF]"
   },
+  "1151_534200": {
+    "code": "HSTE30044",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "534200",
+    "memo": "[English Medium Course]",
+    "name": "AI 輔助語言教學 AI -Assisted Language Teaching and Learning",
+    "num_limit": "15",
+    "reg_num": "0",
+    "teacher": "孫于智",
+    "time": "M567-HC301[GF]"
+  },
+  "1151_534201": {
+    "code": "HSTE30045",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "534201",
+    "memo": "[English Medium Course]",
+    "name": "語料庫與語言學習 Corpora and Language Learning",
+    "num_limit": "15",
+    "reg_num": "0",
+    "teacher": "葉修文",
+    "time": "T567-HC301[GF]"
+  },
+  "1151_534202": {
+    "code": "HSTE30013",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "534202",
+    "memo": "[English Medium Course]",
+    "name": "數位科技與語言學習 Digital Technology and Language Learning",
+    "num_limit": "15",
+    "reg_num": "0",
+    "teacher": "張靜芬",
+    "time": "T234-HC301[GF]"
+  },
+  "1151_534203": {
+    "code": "HSTE30017",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "534203",
+    "memo": "[English Medium Course]",
+    "name": "社會語言學 Sociolinguistics",
+    "num_limit": "15",
+    "reg_num": "0",
+    "teacher": "鄭維容",
+    "time": "W567-HC301[GF]"
+  },
+  "1151_534204": {
+    "code": "HSTE30015",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "534204",
+    "memo": "[English Medium Course]",
+    "name": "研究方法 Research Method",
+    "num_limit": "15",
+    "reg_num": "0",
+    "teacher": "楊芳盈",
+    "time": "W234-HC301[GF]"
+  },
   "1151_534300": {
     "code": "HSCS30006",
     "credit": "3.00",

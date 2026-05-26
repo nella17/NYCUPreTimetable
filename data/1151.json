@@ -6032,7 +6032,7 @@
     "name": "專題討論(英) Seminar",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "王先逸、郭曉縈、林坤陽",
+    "teacher": "王先逸、林坤陽",
     "time": "T34-YT301[YM]"
   },
   "1151_130407": {
@@ -11061,7 +11061,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "艾力",
-    "time": "M567-YX206[YM]"
+    "time": "T567-YX503[YM]"
   },
   "1151_133101": {
     "code": "HSPH30018",
@@ -13007,18 +13007,6 @@
     "teacher": "陳翎",
     "time": "Fc-YN511[YM]"
   },
-  "1151_150108": {
-    "code": "MDHH30022",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "150108",
-    "memo": "非本所在職專班請勿選，全18周上課，上課時間為16:10-19:00，建議專一修。",
-    "name": "應用經濟學 Applied Economics for Manager",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "周穎政、蒲正筠",
-    "time": "S89a-YN511[YM]"
-  },
   "1151_150109": {
     "code": "MDHH30081",
     "credit": "1.00",
@@ -14288,7 +14276,7 @@
     "name": "計量經濟學(博士班) Econometrics",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "胡均立",
     "time": "T234-TB435[BM]"
   },
   "1151_230007": {
@@ -16890,7 +16878,7 @@
     "id": "514014",
     "memo": "本課程人數上限為15人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "模型製作與材料 Prototype and Model Making",
-    "num_limit": "7",
+    "num_limit": "8",
     "reg_num": "0",
     "teacher": "郭明浩",
     "time": "R789-EEB30[GF]"
@@ -21871,7 +21859,7 @@
     "memo": "",
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "工管系",
     "time": "W78-MB520[GF]"
   },
@@ -21883,7 +21871,7 @@
     "memo": "另1小時以非同步上課方式授課",
     "name": "工業工程與管理概論 Introduction to Industrial Engineering and Management",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "張永佳",
     "time": "R67-MB520[GF]"
   },
@@ -21895,7 +21883,7 @@
     "memo": "限60人",
     "name": "工程圖學 Engineering Graphics",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "63",
     "teacher": "范德威",
     "time": "R567-MB415[GF]"
   },
@@ -21907,7 +21895,7 @@
     "memo": "工工系學生優先",
     "name": "數據分析與決策 Data Analysis and Decision Making",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "63",
     "teacher": "劉建良",
     "time": "W234-MB415[GF]"
   },
@@ -21919,7 +21907,7 @@
     "memo": "另1小時以非同步上課方式授課",
     "name": "品質管理 Quality Management",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "59",
     "teacher": "陳宏毅",
     "time": "T34-MB405[GF]"
   },
@@ -21931,7 +21919,7 @@
     "memo": "工工系學生優先，可旁聽",
     "name": "工程經濟 Engineering Economy",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "59",
     "teacher": "田凱文",
     "time": "R567-MB506[GF]"
   },
@@ -21943,7 +21931,7 @@
     "memo": "工工系學生優先，不可旁聽",
     "name": "模擬學 Simulation",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "59",
     "teacher": "陳勝一",
     "time": "R234-MB415[GF]"
   },
@@ -21979,7 +21967,7 @@
     "memo": "",
     "name": "工業工程與管理實務 Industrial Practice",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "71",
     "teacher": "劉建良",
     "time": "T567-MB506[GF]"
   },
@@ -22003,7 +21991,7 @@
     "memo": "管院管理基礎課程；管院學生優先選課；上限85人；主開大三工管系、輔開管理學院、管科系、運管系、資財系。工管系大三必修。運管系學生請依入學年度適用之必修科目表規定修習管理基礎課程。",
     "name": "生產與作業管理 Production and Operation Management",
     "num_limit": "85",
-    "reg_num": "0",
+    "reg_num": "59",
     "teacher": "王志軒",
     "time": "W234-MB520[GF]"
   },
@@ -26983,7 +26971,7 @@
     "memo": "[English Medium Course]僅限有指導教授之碩士生選修",
     "name": "學位論文研究 Academic Dissertation Research",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "半導體所",
     "time": ""
   },
@@ -26995,7 +26983,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "35",
     "teacher": "杜長慶",
     "time": "W567-AB101[GF]"
   },
@@ -29683,7 +29671,7 @@
     "memo": "碩博合班上課",
     "name": "論文研討(上) Seminar(I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "6",
     "teacher": "巫佳煌、劉建良",
     "time": "M56-MB520[GF]"
   },
@@ -32848,7 +32836,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561005",
-    "memo": "",
+    "memo": "授課教師：許哲瑛老師",
     "name": "世界藝術史選讀 Topics in World Art History",
     "num_limit": "38",
     "reg_num": "0",
@@ -33328,7 +33316,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561048",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]授課教師：許哲瑛老師",
     "name": "藝術史中的日常 An Art History of Everyday Life",
     "num_limit": "0",
     "reg_num": "0",
@@ -33628,7 +33616,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561076",
-    "memo": "",
+    "memo": "授課教師：蔡儀儂老師",
     "name": "東北亞政經議題分析 Analysis of Political and Economic Issues in Northeast As",
     "num_limit": "0",
     "reg_num": "0",

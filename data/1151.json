@@ -1664,7 +1664,7 @@
     "name": "精神衛生護理學實習 Psychiatric Mental Health Nursing Practice",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "許樹珍、張阿雪、羅素貞、鄭淑琴、李昱穎",
+    "teacher": "楊秋月、黃莉婷、張阿雪、羅素貞、鄭淑琴、李昱穎",
     "time": "M12345678T12345678W12345678-"
   },
   "1151_111812": {
@@ -3859,7 +3859,7 @@
     "memo": "導師時間，分組上課",
     "name": "生涯發展與學習(一上) Career Development and Preparation Ⅰ, 1st semester",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "陳虹如、林照雄、俞震亞、陳紀如、陳嘉霖",
     "time": "W34-YL402[YM]"
   },
@@ -3871,7 +3871,7 @@
     "memo": "生科二、不分系二、生物科技管理學程合班上課\n外系修課需經授課教師同意",
     "name": "生物化學 Biochemistry",
     "num_limit": "60",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "孫維欣、張欣暘、陳嘉霖",
     "time": "M34R34-YL402[YM]"
   },
@@ -3883,7 +3883,7 @@
     "memo": "生科二、不分系二合班上課",
     "name": "細胞生物學 Cell Biology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "俞震亞、蔡亭芬、林崇智、李曉暉",
     "time": "W56-YK101[YM]"
   },
@@ -3895,7 +3895,7 @@
     "memo": "導師時間，分組上課",
     "name": "生涯發展與學習(二上) Career Development and Preparation Ⅱ, 1st semester",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "李敏嘉、陳燕彰、可文亞、許博琛、袁維謙",
     "time": "W34-YK101[YM]"
   },
@@ -4867,7 +4867,7 @@
     "memo": "生科一、不分系一、醫學系B組合班上課",
     "name": "生命科學實驗 Life Science Laboratory",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "李曉暉、李勇陞、鄭浩民、陳儀聰",
     "time": "R5678-YED109[YM]"
   },
@@ -4915,7 +4915,7 @@
     "memo": "生一、不分系一、醫學系B組合班上課",
     "name": "生命科學總論(上) General Biology, 1st semester",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "李曉暉、可文亞、李敏嘉、陳瀅州、陳儀聰",
     "time": "R34-YB102[YM]"
   },
@@ -5107,7 +5107,7 @@
     "memo": "",
     "name": "普通物理學(一) General Physics I",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "黃宣誠",
     "time": "M56-YX216[YM]"
   },
@@ -5155,7 +5155,7 @@
     "memo": "",
     "name": "微積分(一) Calculus I",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "8",
     "teacher": "王禹超",
     "time": "W12-YX406[YM]"
   },
@@ -7027,7 +7027,7 @@
     "memo": "除「大一大二不分系」、「生物醫學資訊所」與「跨領域醫學博士學位學程」外，不開放外系、所選修。",
     "name": "模擬系統與數據分析 Simulation Models and Data Analysis",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "47",
     "teacher": "巫坤品",
     "time": "R12-YL401[YM]"
   },
@@ -13691,18 +13691,6 @@
     "teacher": "徐詩偉",
     "time": "F34-YX201[YM]"
   },
-  "1151_161037": {
-    "code": "GECE00360",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "161037",
-    "memo": "",
-    "name": "課．城市：走進老北投 From Campus to City : Walk Into Old Beitou",
-    "num_limit": "0",
-    "reg_num": "0",
-    "teacher": "張立鴻",
-    "time": "R5678-YX503[YM]"
-  },
   "1151_161038": {
     "code": "GECE00124",
     "credit": "2.00",
@@ -13978,6 +13966,18 @@
     "reg_num": "0",
     "teacher": "張南驥",
     "time": "W9a-YX201[YM]"
+  },
+  "1151_161063": {
+    "code": "GECE00361",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161063",
+    "memo": "",
+    "name": "課．城市：走進唭哩岸 From Campus to City  : Walk Into Qilian",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "張立鴻",
+    "time": "R5678-HH201[YM]"
   },
   "1151_162000": {
     "code": "GELT10009",
@@ -18736,9 +18736,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515146",
-    "memo": "",
+    "memo": "上課地點： 工程四館合勤講堂",
     "name": "人工智慧導論 Introduction to Artificial Intelligence",
-    "num_limit": "100",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "帥宏翰",
     "time": "T567-EE105[GF]"
@@ -21378,7 +21378,7 @@
     "id": "516806",
     "memo": "限本系大二雙號同學優先。",
     "name": "服務學習 Service Learning",
-    "num_limit": "24",
+    "num_limit": "22",
     "reg_num": "22",
     "teacher": "詹揚翔",
     "time": "M56-SB201[GF]"
@@ -21450,7 +21450,7 @@
     "id": "516812",
     "memo": "[English Medium Course]跨域學程課程。",
     "name": "高分子化學 (一) Polymer Chemistry (I)",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "0",
     "teacher": "張佳智",
     "time": "T78R8-SB203[GF]"
@@ -21462,7 +21462,7 @@
     "id": "516813",
     "memo": "[English Medium Course]",
     "name": "書報討論A(二) Seminar A (2)",
-    "num_limit": "24",
+    "num_limit": "22",
     "reg_num": "0",
     "teacher": "待聘",
     "time": "M56-SB203[GF]"
@@ -21474,7 +21474,7 @@
     "id": "516814",
     "memo": "[English Medium Course]",
     "name": "書報討論B(二) Seminar B (2)",
-    "num_limit": "24",
+    "num_limit": "22",
     "reg_num": "0",
     "teacher": "詹揚翔",
     "time": "F34-SB203[GF]"
@@ -21919,7 +21919,7 @@
     "memo": "管科系大三必修。管科系優先選修；初選第三階段後開放雙主修、輔系管科系及跨域學程同學優先加簽。",
     "name": "組織行為 Organizational Behavior",
     "num_limit": "50",
-    "reg_num": "0",
+    "reg_num": "43",
     "teacher": "羅芳怡",
     "time": "W567-M302[GF]"
   },
@@ -25328,8 +25328,8 @@
     "name": "隨機過程 Stochastic Processes",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "簡鳳村",
-    "time": "W234-SC106[GF]"
+    "teacher": "王聖智",
+    "time": "M5W56-ED101[GF]"
   },
   "1151_535227": {
     "code": "EEIE30061",
@@ -44020,7 +44020,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910363",
-    "memo": "資工組，上課地點：國防大學理工學院",
+    "memo": "資工組，重補修隨班附讀，上課地點：國防大學理工學院",
     "name": "資料結構 Data Structure",
     "num_limit": "9999",
     "reg_num": "31",

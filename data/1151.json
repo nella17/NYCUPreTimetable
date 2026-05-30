@@ -21344,7 +21344,7 @@
     "name": "有機化學實驗(一) Organic Chemistry Labs. (Ｉ)",
     "num_limit": "50",
     "reg_num": "47",
-    "teacher": "吳宜霖",
+    "teacher": "吳宜霖、蒙國光",
     "time": "R4n5678-SB120[GF]"
   },
   "1151_516804": {
@@ -22588,24 +22588,24 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "520004",
-    "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
+    "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。上課教室:SA012",
     "name": "電子學實驗(一) Electronic Laboratory (1)",
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "陳建至",
-    "time": "Rabc-SC109[GF]"
+    "time": "Rabc-"
   },
   "1151_520005": {
     "code": "XDEP10018",
     "credit": "1.00",
     "hours": "3.00",
     "id": "520005",
-    "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
+    "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。上課教室:SA012",
     "name": "電子學實驗(一) Electronic Laboratory (1)",
     "num_limit": "50",
     "reg_num": "0",
     "teacher": "許譽馨",
-    "time": "T9ab-SC109[GF]"
+    "time": "T9ab-"
   },
   "1151_520006": {
     "code": "XDEP20024",
@@ -26612,8 +26612,8 @@
     "name": "開源核心網路設計與實作 Open-Source Core Network Design and Implementation",
     "num_limit": "40",
     "reg_num": "0",
-    "teacher": "陳志成、陳毅",
-    "time": "M567-ED201[GF]"
+    "teacher": "陳志成、杜峯",
+    "time": "M567-ED301[GF]"
   },
   "1151_535606": {
     "code": "CSIC30127",
@@ -29344,7 +29344,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537017",
-    "memo": "[English Medium Course]管理科學系碩士班管理決策組先修課程；陽明校區欲加選可寫E-mail給老師，謝謝。",
+    "memo": "[English Medium Course]管理科學系碩士班管理決策組先修課程；陽明校區欲加選可寫E-mail給老師，謝謝。初選第三階段才開放網路選課；管理科學系與管理學院優先選課。",
     "name": "會計學 Accounting",
     "num_limit": "60",
     "reg_num": "0",
@@ -32541,7 +32541,7 @@
     "num_limit": "70",
     "reg_num": "0",
     "teacher": "待聘",
-    "time": "Wab-TA505[BM]"
+    "time": "Fab-A402[GF]"
   },
   "1151_557907": {
     "code": "LWLW30327",
@@ -32734,6 +32734,18 @@
     "reg_num": "0",
     "teacher": "科法所",
     "time": "U7-"
+  },
+  "1151_557924": {
+    "code": "LWLW30358",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "557924",
+    "memo": "",
+    "name": "公司治理之創新與資安管理實踐 Innovation and  Information Security Management in Corporate Governance Practices",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "Fab-A401[GF]"
   },
   "1151_559000": {
     "code": "MGME30018",
@@ -38096,7 +38108,7 @@
     "name": "化學實驗(一) Chemistry Lab. (I)",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "黃立心",
+    "teacher": "李大偉",
     "time": "W234-SB119[GF]"
   },
   "1151_566016": {
@@ -38108,7 +38120,7 @@
     "name": "化學實驗(一) Chemistry Lab. (I)",
     "num_limit": "40",
     "reg_num": "0",
-    "teacher": "李大偉",
+    "teacher": "黃立心",
     "time": "R567-SB119[GF]"
   },
   "1151_566017": {

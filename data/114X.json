@@ -40,7 +40,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "250101",
-    "memo": "上課時間: 7/2-8/24",
+    "memo": "上課時間: 7/2-8/24。限管理學院各專班及生醫EMBA。",
     "name": "管理會計 Management Accounting",
     "num_limit": "9999",
     "reg_num": "0",
@@ -164,7 +164,7 @@
     "name": "微分方程 Differential Equation",
     "num_limit": "100",
     "reg_num": "0",
-    "teacher": "半導體系",
+    "teacher": "楊順",
     "time": "M234T234-ED220[GF]"
   },
   "114X_515208": {
@@ -188,7 +188,7 @@
     "name": "電子學(二) ElectronicsⅡ",
     "num_limit": "70",
     "reg_num": "0",
-    "teacher": "半導體系",
+    "teacher": "楊順",
     "time": "M5678T5678-ED101[GF]"
   },
   "114X_515600": {
@@ -220,7 +220,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "516200",
-    "memo": "1. 限土木系大二以上有參加暑期實習的同學選修。\n2. 上課時間：115.07.01~115.08.28。\n3. 請在暑修公告下載[暑修加簽單]，於6/25下午3:00 前送交土木系辦辦理。\n4. 加簽完請至系統印繳費單繳費(註：最晚6/29中午12:00前需完成繳費)。",
+    "memo": "1. 限土木系大二以上有參加暑期實習的同學選修。\n2. 上課時間：115.07.01~115.08.28。\n3. 請在暑修公告下載[暑修加簽單]，於6/25下午3:00 前送交土木系辦辦理。",
     "name": "工程實習(三)  Engineering Internship Practice (III) ",
     "num_limit": "0",
     "reg_num": "0",
@@ -234,7 +234,7 @@
     "id": "516500",
     "memo": "修課同學需於暑假期間至陽明校區生醫光電所實驗室進行專題研究，請下載暑修加簽單，於115年6月29日(一)中午12點前繳回，完成簽署辦理。",
     "name": "專題研究(一) Independent Study (I)",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "",
     "time": ""
@@ -246,7 +246,7 @@
     "id": "516501",
     "memo": " 限理學院科學學士學位學程大二升大三學生選修，請下載暑修加簽單，於115年6月29日(一)中午12點前繳回，完成簽署辦理。",
     "name": "跨領域科學專題(五) Directed Studies in Interdisplinary Science(V)",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "",
     "time": ""
@@ -258,7 +258,7 @@
     "id": "516502",
     "memo": "限理學院科學學士學位學程大三升大四學生選修，請下載暑修加簽單，於115年6月29日(一)中午12點前繳回，完成簽署辦理。",
     "name": "跨領域科學專題(六) Directed Studies in Interdisplinary Science(VI)",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "",
     "time": ""
@@ -402,10 +402,10 @@
     "id": "520000",
     "memo": "課程日期起迄：7/2(四)~8/25(二)",
     "name": "普通物理學 General Physics",
-    "num_limit": "70",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "鄭信良",
-    "time": "T567R234-SC109[GF]"
+    "time": "T567R234-KB402,T567R234-SA312[GF]"
   },
   "114X_520001": {
     "code": "XDEP10012",
@@ -414,10 +414,10 @@
     "id": "520001",
     "memo": "課程日期起迄：7/1(三)~8/26(三)",
     "name": "微積分 Calculus",
-    "num_limit": "70",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "許譽馨",
-    "time": "W567F567-SC109[GF]"
+    "time": "W567F567-KB402,W567F567-SA312[GF]"
   },
   "114X_520002": {
     "code": "XDEP10013",
@@ -426,10 +426,10 @@
     "id": "520002",
     "memo": "課程日期起迄：7/3(五)~8/25(二)",
     "name": "工程數學 Engineering Mathematics",
-    "num_limit": "70",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "梁興弛",
-    "time": "T234F234-SC109[GF]"
+    "time": "T234F234-KB402,T234F234-SA312[GF]"
   },
   "114X_520003": {
     "code": "XDEP20006",
@@ -438,10 +438,10 @@
     "id": "520003",
     "memo": "課程日期起迄：7/6(一)~8/26(三)",
     "name": "半導體製程 Semiconductor Processing",
-    "num_limit": "70",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "謝承利",
-    "time": "M234W234-SC109[GF]"
+    "time": "M234W234-KB402,M234W234-SA312[GF]"
   },
   "114X_520004": {
     "code": "XDEP20002",
@@ -450,10 +450,22 @@
     "id": "520004",
     "memo": "課程日期起迄：7/2(四)~8/6(四)",
     "name": "近代物理 Modern physics",
-    "num_limit": "70",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳永富、許譽馨",
-    "time": "M678R678-SC109[GF],T678-SC110[GF]"
+    "time": "M678R678-KB402,M678R678-SA312[GF],T678-SC110[GF]"
+  },
+  "114X_520005": {
+    "code": "XDEP20035",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "520005",
+    "memo": "課程日期起迄：7/6(一)~8/26(三)。 本課程不開放選課，由學程辦公室預選名單。修課對象:本學程114學年度第2學期在學學生(115年6月已符合畢業資格者不得申請本次暑修課程)，不開放外系所學生修課。",
+    "name": "半導體實務 Semiconductor Practice",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "謝承利",
+    "time": "MabcWabc-SC109[GF]"
   },
   "114X_535200": {
     "code": "EEIE30039",
@@ -548,7 +560,7 @@
     "name": "視覺大數據的深度學習 Deep Learning for Big Visual Data",
     "num_limit": "70",
     "reg_num": "0",
-    "teacher": "待聘、廖元甫",
+    "teacher": "黃正能、廖元甫",
     "time": "M5678W5678F5678-A305[GF]"
   },
   "114X_557100": {
@@ -580,7 +592,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557400",
-    "memo": "1. 暑期上課期間為7月2日-9月3日\n2. 本專班課程不准本系及他系一般生選修，不可旁聽",
+    "memo": "1. 暑期上課期間為7月2日-8月27日\n2. 本專班課程不准本系及他系一般生選修，不可旁聽",
     "name": "系統問題與啟發式解法 System Problems and Heuristic",
     "num_limit": "9999",
     "reg_num": "0",
@@ -652,7 +664,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557800",
-    "memo": "上課時間 7/6～8/10，線上授課。",
+    "memo": "上課時間 7/6～8/10，線上授課，限在職專班選修。",
     "name": "應用經濟學 Applied Economics",
     "num_limit": "9999",
     "reg_num": "0",
@@ -664,7 +676,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557801",
-    "memo": "上課時間 7/11～8/29，線上授課。",
+    "memo": "上課時間 7/11～8/29，線上授課，限在職專班選修。",
     "name": "管理會計 Management Accounting",
     "num_limit": "9999",
     "reg_num": "0",
@@ -676,7 +688,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "557802",
-    "memo": "上課時間 7/7～8/27，線上授課。人數上限為20人。",
+    "memo": "上課時間 7/7～8/27，線上授課，限在職專班選修。人數上限為20人。",
     "name": "統計學 Introduction to Statistics",
     "num_limit": "20",
     "reg_num": "0",
@@ -717,7 +729,7 @@
     "num_limit": "70",
     "reg_num": "0",
     "teacher": "邱忠義",
-    "time": "MabcS234-"
+    "time": "MabcS234-A401[GF]"
   },
   "114X_557903": {
     "code": "LWLW30244",
@@ -742,6 +754,18 @@
     "reg_num": "0",
     "teacher": "金孟華",
     "time": "T567R567-A401[GF]"
+  },
+  "114X_557905": {
+    "code": "LWLW30357",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "557905",
+    "memo": "[English Medium Course]課程日期起迄：7/18-7/26",
+    "name": "歐盟永續規範及貿易影響 EU Sustainability Rules and Their Impact on Trade with Asian Nations",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "W3467S3467U3467-MB1063[GF],W3467S3467U3467-TA505[BM]"
   },
   "114X_559000": {
     "code": "MGME30004",

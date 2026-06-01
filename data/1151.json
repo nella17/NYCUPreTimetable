@@ -1927,7 +1927,7 @@
     "memo": "暑期實習，藥學系三年級以上選修。",
     "name": "藥學實習 Pharmacy Practice Experience",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "5",
     "teacher": "廖曉偉",
     "time": "Sn-"
   },
@@ -1939,7 +1939,7 @@
     "memo": "暑期實習課程，須修畢7學分中藥相關課程學分數，且為大三(含)以上學生可選修。",
     "name": "中藥實習 Traditional Chinese Medicine Practice Experience",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "22",
     "teacher": "姜紹青",
     "time": "Un-"
   },
@@ -2527,7 +2527,7 @@
     "memo": "",
     "name": "斜槓人生(三) Career Development and Preparation III",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "9",
     "teacher": "賴穎暉",
     "time": "W34-YT203[YM]"
   },
@@ -4087,7 +4087,7 @@
     "memo": "醫二A",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "58",
     "teacher": "游麗如、陳美瑜、鄭子豪、郭津岑、許翺麟、黃依川",
     "time": "M5678-YEC309[YM]"
   },
@@ -4123,7 +4123,7 @@
     "memo": "醫學二A",
     "name": "生物化學實驗 Biochemistry Laboratory",
     "num_limit": "80",
-    "reg_num": "0",
+    "reg_num": "48",
     "teacher": "游麗如、陳美瑜、鄭子豪、郭津岑、許翺麟、黃依川",
     "time": "F5678-YEC309[YM]"
   },
@@ -7027,7 +7027,7 @@
     "memo": "除「大一大二不分系」、「生物醫學資訊所」與「跨領域醫學博士學位學程」外，不開放外系、所選修。",
     "name": "模擬系統與數據分析 Simulation Models and Data Analysis",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "9",
     "teacher": "巫坤品",
     "time": "R12-YL401[YM]"
   },
@@ -13576,7 +13576,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161027",
-    "memo": "[English Medium Course]",
+    "memo": "",
     "name": "哲學概論 Introduction to Philosophy",
     "num_limit": "0",
     "reg_num": "0",
@@ -13941,7 +13941,7 @@
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "王惠民",
-    "time": "T9a-YT104[YM]"
+    "time": "M12-YT202[YM]"
   },
   "1151_161061": {
     "code": "GECE00447",
@@ -22965,7 +22965,7 @@
     "num_limit": "15",
     "reg_num": "0",
     "teacher": "林淑敏",
-    "time": "F34-HC101[GF]"
+    "time": "F56-HC101[GF]"
   },
   "1151_530006": {
     "code": "GELT30002",

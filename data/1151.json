@@ -763,7 +763,7 @@
     "memo": "限醫三牙二, 上課時間及地點請參照PBL整合課程行事曆",
     "name": "胚胎學 Embryology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "146",
     "teacher": "傅毓秀、鄭瓊娟、李學德、王先逸",
     "time": "M1234T1234W1234R1234F1234-YT001[YM]"
   },
@@ -799,7 +799,7 @@
     "memo": "限醫三, 請參照PBL整合課程行事曆",
     "name": "社區醫學 Community Medicine",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "150",
     "teacher": "林明慧、李威儒、陳育群、黃信彰、劉瑞瑤、鄭惇方、李俊秀、許碧珊、洪德仁、張曉婷",
     "time": "M56-YT001[YM]"
   },
@@ -811,7 +811,7 @@
     "memo": "限醫三, 上課時間及地點請參照PBL整合課程行事曆",
     "name": "社區醫學實習 Community Medicine Practice",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "147",
     "teacher": "林明慧、陳方佩、彭莉甯、張清貿、龔彥穎、王崇仁、林長熙、蔡世滋、徐永年、林雨亭、詹益祥、蕭學誠、陳冠宇、何叔芳、陳珀勳、羅文林、林明憲、劉瑞瑤、楊仁鄰、黃安君、戴月明、余儀呈、陳冠群、陳柏菁、余文瑞、吳大鵬、何清幼、陳怡君、林安民、黃仲禹、戴英修、施子健、劉浩彥、朱豐沅、楊博欽、廖廣榆、劉雅安、王怡人、王玥心、林譽家、黃信得、王正淵、吳彬源、林信利、邱政宏、洪德仁、賴志冠、朱柔澍、張曉婷",
     "time": "R5678-"
   },
@@ -823,7 +823,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "146",
     "teacher": "楊智傑、黃金洲、宋思賢、紀乃方、梁立霖、梁仁峯、林祐霆、郭曉縈、吳莉玲、陳明德、黃文彬、王維庭、陳威志",
     "time": ""
   },
@@ -4567,7 +4567,7 @@
     "memo": "",
     "name": "中藥炮製及藥材學(含實驗) Chinese Medicine Processing and Materia Medica (including experiments)",
     "num_limit": "35",
-    "reg_num": "0",
+    "reg_num": "25",
     "teacher": "蔡東湖",
     "time": "M234-YK912[YM],M234-YK914[YM]"
   },
@@ -9299,18 +9299,6 @@
     "teacher": "劉承揚",
     "time": "M567-YT204[YM]"
   },
-  "1151_132316": {
-    "code": "BEBE20065",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "132316",
-    "memo": "[English Medium Course]",
-    "name": "外骨骼機器分析與應用 Analysis and Application of Exoskeleton Machines",
-    "num_limit": "9999",
-    "reg_num": "0",
-    "teacher": "葛宗融",
-    "time": "R34n-YE003[YM]"
-  },
   "1151_132317": {
     "code": "BEBE20028",
     "credit": "3.00",
@@ -13266,7 +13254,7 @@
     "id": "161001",
     "memo": "",
     "name": "民主與社會衝突：認知科學哲學的探索 Democracy and social conflicts: an exploration of the philosophy of cognitive science",
-    "num_limit": "0",
+    "num_limit": "17",
     "reg_num": "0",
     "teacher": "洪子偉",
     "time": "R56-"
@@ -13278,7 +13266,7 @@
     "id": "161002",
     "memo": "",
     "name": "易經與玄學  I Ching and Xuan Xue",
-    "num_limit": "0",
+    "num_limit": "17",
     "reg_num": "0",
     "teacher": "周大興",
     "time": "R78-"
@@ -13290,7 +13278,7 @@
     "id": "161003",
     "memo": "",
     "name": "瘋狂與社會 Madness and Society",
-    "num_limit": "0",
+    "num_limit": "17",
     "reg_num": "0",
     "teacher": "巫毓荃",
     "time": "R56-"
@@ -13302,7 +13290,7 @@
     "id": "161004",
     "memo": "",
     "name": "個體經濟分析與政策應用 Microeconomics and Policy Analysis",
-    "num_limit": "0",
+    "num_limit": "17",
     "reg_num": "0",
     "teacher": "許文泰、楊子霆",
     "time": "R56-"
@@ -13314,7 +13302,7 @@
     "id": "161005",
     "memo": "",
     "name": "(非)人類身體與文學 (Non-)Human Body and Literature",
-    "num_limit": "0",
+    "num_limit": "17",
     "reg_num": "0",
     "teacher": "劉瓊云",
     "time": "R78-"
@@ -13326,7 +13314,7 @@
     "id": "161006",
     "memo": "",
     "name": "島嶼歷史超展開：十七世紀東亞海域與臺灣 The Hidden Abilities unlocked: East Asian Seas and Taiwan in the Seventeenth Century",
-    "num_limit": "0",
+    "num_limit": "17",
     "reg_num": "0",
     "teacher": "鄭維中",
     "time": "R78-"
@@ -13338,7 +13326,7 @@
     "id": "161007",
     "memo": "",
     "name": "巨人的肩膀：農業與資源經濟 The guidance of career planning by academic masters：Agricultural and Resource Economics",
-    "num_limit": "0",
+    "num_limit": "4",
     "reg_num": "0",
     "teacher": "張靜貞",
     "time": "R56-"
@@ -13350,7 +13338,7 @@
     "id": "161008",
     "memo": "",
     "name": "巨人的肩膀：閩南海洋貿易史 The guidance of career planning by academic masters：Min-nan Maritime Trade History",
-    "num_limit": "0",
+    "num_limit": "4",
     "reg_num": "0",
     "teacher": "朱德蘭",
     "time": "R56-"
@@ -13362,7 +13350,7 @@
     "id": "161009",
     "memo": "",
     "name": "巨人的肩膀：文明的光與影 The guidance of career planning by academic masters：The light and shadow of Civilization",
-    "num_limit": "0",
+    "num_limit": "4",
     "reg_num": "0",
     "teacher": "陳瑋芬",
     "time": "R56-"
@@ -13374,7 +13362,7 @@
     "id": "161010",
     "memo": "",
     "name": "巨人的肩膀：精讀《槍砲、病菌、與鋼鐵》 The guidance of career planning by academic masters：Critical Reading of Guns, Germs, and Steel",
-    "num_limit": "0",
+    "num_limit": "4",
     "reg_num": "0",
     "teacher": "王道還",
     "time": "R56-"
@@ -13386,7 +13374,7 @@
     "id": "161011",
     "memo": "",
     "name": "巨人的肩膀：人類學與醫學的相遇：道德的重量 The guidance of career planning by academic masters：Encounters between Anthropology and Medicine: Moral Matters",
-    "num_limit": "0",
+    "num_limit": "4",
     "reg_num": "0",
     "teacher": "劉紹華",
     "time": "R78-"
@@ -13398,7 +13386,7 @@
     "id": "161012",
     "memo": "",
     "name": "巨人的肩膀：地球如何有其歷史?宗教、人文與地球科學的興起 The guidance of career planning by academic masters：The Making of the History of the Earth",
-    "num_limit": "0",
+    "num_limit": "4",
     "reg_num": "0",
     "teacher": "李尚仁",
     "time": "R78-"
@@ -13410,7 +13398,7 @@
     "id": "161013",
     "memo": "",
     "name": "巨人的肩膀：現象學心理學與電影 The guidance of career planning by academic masters： Phenomenological psychology and   cinema",
-    "num_limit": "0",
+    "num_limit": "4",
     "reg_num": "0",
     "teacher": "余安邦",
     "time": "R78-"
@@ -13422,7 +13410,7 @@
     "id": "161014",
     "memo": "",
     "name": "巨人的肩膀：死亡、醫療化與文明的進程 The guidance of career planning by academic masters：Death, the Medicalization of Dying, and the Civilizing Process",
-    "num_limit": "0",
+    "num_limit": "4",
     "reg_num": "0",
     "teacher": "蔡友月",
     "time": "R78-"
@@ -13434,7 +13422,7 @@
     "id": "161015",
     "memo": "",
     "name": "巨人的肩膀：檔案裡的廟堂與江湖 The guidance of career planning by academic masters：The Court and the World of Outlaws: Tracing Hidden Messages in the Archives",
-    "num_limit": "0",
+    "num_limit": "4",
     "reg_num": "0",
     "teacher": "陳熙遠",
     "time": "R78-"
@@ -13446,7 +13434,7 @@
     "id": "161016",
     "memo": "",
     "name": "巨人的肩膀：臺灣現代詩賞析 The guidance of career planning b academic masters： Reading Modern Taiwan Poetry",
-    "num_limit": "0",
+    "num_limit": "4",
     "reg_num": "0",
     "teacher": "楊小濱",
     "time": "R78-"
@@ -13458,7 +13446,7 @@
     "id": "161017",
     "memo": "",
     "name": "歷史與現代世界 History and the Modern World",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "王文基",
     "time": "T12-YX201[YM]"
@@ -13470,7 +13458,7 @@
     "id": "161018",
     "memo": "",
     "name": "西洋藝術史 Western Art History",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "黃桂瑩",
     "time": "R34-YX201[YM]"
@@ -13638,7 +13626,7 @@
     "id": "161032",
     "memo": "",
     "name": "國民所得的全球視角 A Global Perspective on National Income ",
-    "num_limit": "0",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "曾憲政",
     "time": "T78-YT305[YM]"
@@ -13854,7 +13842,7 @@
     "id": "161052",
     "memo": "",
     "name": "環境人文與生態藝術 Environmental Humanities and Ecological Art",
-    "num_limit": "0",
+    "num_limit": "20",
     "reg_num": "0",
     "teacher": "謝一誼",
     "time": "T56-YX201[YM]"
@@ -13974,7 +13962,7 @@
     "id": "161063",
     "memo": "",
     "name": "課．城市：走進唭哩岸 From Campus to City  : Walk Into Qilian",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "張立鴻",
     "time": "R5678-HH201[YM]"
@@ -22615,7 +22603,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "專題討論 Seminar",
     "num_limit": "120",
-    "reg_num": "0",
+    "reg_num": "90",
     "teacher": "張財銘",
     "time": "Fn-SA321[GF]"
   },
@@ -22627,7 +22615,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "資料庫管理 Database Management",
     "num_limit": "100",
-    "reg_num": "0",
+    "reg_num": "90",
     "teacher": "林志偉",
     "time": "M567-SA320[GF]"
   },
@@ -22639,7 +22627,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "光學實驗 Optics Lab.",
     "num_limit": "100",
-    "reg_num": "0",
+    "reg_num": "90",
     "teacher": "蘇冠暐",
     "time": "Wabc-SC106[GF]"
   },
@@ -22819,7 +22807,7 @@
     "memo": "[高雄校區]",
     "name": "資料庫管理 Database Management",
     "num_limit": "77",
-    "reg_num": "0",
+    "reg_num": "81",
     "teacher": "林志偉",
     "time": "T34n-KB302"
   },
@@ -23360,7 +23348,7 @@
     "name": "動機理論與數位學習 Human Motivation and E-learning",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "孫之元、待聘",
+    "teacher": "孫之元、王信雲",
     "time": "T567-HA220[GF]"
   },
   "1151_534100": {
@@ -24491,18 +24479,6 @@
     "teacher": "李奉書",
     "time": "W34-HC513[GF]"
   },
-  "1151_534804": {
-    "code": "HSIM30017",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "534804",
-    "memo": "限本所學生。",
-    "name": "音樂學理論與方法 Theory and Methods in Musicology",
-    "num_limit": "5",
-    "reg_num": "0",
-    "teacher": "李奉書",
-    "time": "R34n-HC513[GF]"
-  },
   "1151_534805": {
     "code": "HSIM30004",
     "credit": "3.00",
@@ -24513,7 +24489,7 @@
     "num_limit": "14",
     "reg_num": "0",
     "teacher": "李昆穎",
-    "time": "F9ab-HC501[GF]"
+    "time": "F567-HC501[GF]"
   },
   "1151_534806": {
     "code": "HSIM30095",
@@ -25987,7 +25963,7 @@
     "memo": "1.光電系碩、博必選 2.由指導教授約定討論時間及地點",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "110",
     "teacher": "光電系",
     "time": ""
   },
@@ -28399,7 +28375,7 @@
     "memo": "高雄校區",
     "name": "專題演講 Colloquium",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "81",
     "teacher": "蘇冠暐、林壽煦",
     "time": "R34-KC301"
   },
@@ -28447,7 +28423,7 @@
     "memo": "高雄校區",
     "name": "光學實驗 Optics Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "81",
     "teacher": "蘇冠暐",
     "time": "F234n-KC107"
   },

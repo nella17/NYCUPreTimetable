@@ -271,7 +271,7 @@
     "memo": "醫師工程師組導師時間，上課地點視導師安排。",
     "name": "心靈成長(三) Spiritual Growth Ⅲ",
     "num_limit": "11",
-    "reg_num": "0",
+    "reg_num": "9",
     "teacher": "李政家、李佳燕",
     "time": "W78-"
   },
@@ -1652,7 +1652,7 @@
     "name": "精神衛生護理學 Psychiatric Mental Health Nursing",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "許樹珍、楊秋月、張秀如、黃莉婷",
+    "teacher": "張秀如、楊秋月、黃莉婷",
     "time": "M5678T5678W5678-YN418[YM]"
   },
   "1151_111811": {
@@ -2119,7 +2119,7 @@
     "memo": "暑期上課。",
     "name": "中藥炮製學 Processing of Chinese Medicine",
     "num_limit": "9999",
-    "reg_num": "58",
+    "reg_num": "59",
     "teacher": "陳日榮、賴尚志",
     "time": "U123-"
   },
@@ -5983,7 +5983,7 @@
     "memo": "限醫學三、牙醫二及解剖所(解剖組)之必修生修習。\n不提供外系/所選修",
     "name": "大體解剖學 Gross Anatomy",
     "num_limit": "220",
-    "reg_num": "24",
+    "reg_num": "146",
     "teacher": "傅毓秀、鄭瓊娟、侯珮珊、李學德、王先逸、蔡佩君、郭曉縈、蔣偉程、林坤陽",
     "time": "M1234-YT001[YM]"
   },
@@ -6032,7 +6032,7 @@
     "name": "專題討論(英) Seminar",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "王先逸、林坤陽",
+    "teacher": "王先逸、鄭瓊娟、林坤陽",
     "time": "T34-YT301[YM]"
   },
   "1151_130407": {
@@ -8036,7 +8036,7 @@
     "name": "進階婦兒科護理學實習(一) Pracitce in Advanced Maternity and Pediatric Nursing (I)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃久美、鄭夙芬、蔡慈儀、陳紀雯、劉佩青",
+    "teacher": "黃久美、鄭夙芬、蔡慈儀、陳紀雯、劉佩青、黃莉婷",
     "time": "W12345678R12345678-"
   },
   "1151_131706": {
@@ -10283,6 +10283,30 @@
     "teacher": "林士傑",
     "time": "T34-EE129[GF],T34-YL402[YM]"
   },
+  "1151_132701": {
+    "code": "LSNS30034",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "132701",
+    "memo": "開放隨班附讀、政大學生選課、開放非中文母語使用者選。開放大學部學生修讀。",
+    "name": "神經科學總論 Principles of Neuroscience",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林士傑、何淑君、連正章、劉福清、蔡惠珍、待聘、陳摘文、林貝容",
+    "time": "R234-YL839[YM]"
+  },
+  "1151_132702": {
+    "code": "LSNS30031",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "132702",
+    "memo": "開放隨班附讀、政大學生選課、開放非中文母語使用者選。開放大學部學生修讀。",
+    "name": "神經科學專論 Special topics in neuroscience",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林士傑、何淑君、連正章、劉福清、蔡惠珍、待聘、陳摘文、林貝容",
+    "time": "M234-YL839[YM]"
+  },
   "1151_132703": {
     "code": "LSNS30019",
     "credit": "3.00",
@@ -10294,6 +10318,78 @@
     "reg_num": "0",
     "teacher": "劉福清、蔡惠珍、林貝容",
     "time": "F567-YK101[YM]"
+  },
+  "1151_132704": {
+    "code": "LSNS30084",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132704",
+    "memo": "",
+    "name": "神經膠細胞功能與機制研究選讀 Specific Topics on Glial Function and Mechanism",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "何淑君",
+    "time": "W34-YL837[YM]"
+  },
+  "1151_132705": {
+    "code": "LSNS30015",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132705",
+    "memo": "開放大學部學生修讀。",
+    "name": "社會神經科學文獻選讀 Literatures reading in Social Neuroscience",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "鄭雅薇",
+    "time": "F34-YL823[YM]"
+  },
+  "1151_132706": {
+    "code": "LSNS30049",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "132706",
+    "memo": "開放非中文母語使用者選修、開放大學部學生修讀。",
+    "name": "認知神經科學總論 Cognitive Neuroscience",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "郭文瑞、林慶波、鄭雅薇、吳仕煒、張立鴻",
+    "time": "M567-YL839[YM]"
+  },
+  "1151_132707": {
+    "code": "LSNS30050",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132707",
+    "memo": "開放非中文母語使用者選修、開放大學部學生修讀。",
+    "name": "認知神經科學方法：理論與實作 Research Methods in Cognitive Neuroscience",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "郭文瑞、林慶波、鄭雅薇、吳仕煒、張立鴻",
+    "time": "T34-YL837[YM]"
+  },
+  "1151_132708": {
+    "code": "LSNS30045",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "132708",
+    "memo": "全英語授課，開放大學部學生修讀。[English Medium Course]",
+    "name": "計算神經科學 Computational Neuroscience",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳俊仲",
+    "time": "W234-YL839[YM]"
+  },
+  "1151_132709": {
+    "code": "LSNS30069",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "132709",
+    "memo": "[English Medium Course]開放大學部學生修讀。",
+    "name": "結構腦影像分析 Structural Brain Imaging Analysis",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "郭文瑞、尼大衛",
+    "time": "M234-YL824[YM]"
   },
   "1151_132710": {
     "code": "LSNS30014",
@@ -10307,6 +10403,30 @@
     "teacher": "林慶波、周坤賢",
     "time": "M234-YL837[YM]"
   },
+  "1151_132711": {
+    "code": "LSNS30046",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "132711",
+    "memo": "[English Medium Course]1.開放非中文母語使用者選修。開放大學部學生修讀。\n2.上課地點暫定為活動中心第一會議室，TA會提早寫信通知修課學生上課地點。",
+    "name": "認知神經科學專題討論(碩,博) Seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "吳仕煒、林慶波、郭文瑞、鄭雅薇、張立鴻",
+    "time": "T67-"
+  },
+  "1151_132712": {
+    "code": "LSNS30024",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "132712",
+    "memo": "參與老師尚包括劉福清等6位；開放隨班附讀、政大學生選修。開放大學部學生修讀。",
+    "name": "神經科學專題討論(一)(碩士班) Seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "劉福清、何淑君、連正章、蔡惠珍、林士傑、待聘、陳摘文、林貝容",
+    "time": "R56-YL839[YM]"
+  },
   "1151_132713": {
     "code": "LSNS30004",
     "credit": "2.00",
@@ -10318,6 +10438,42 @@
     "reg_num": "0",
     "teacher": "林貝容",
     "time": "F34-YL824[YM]"
+  },
+  "1151_132714": {
+    "code": "LSNS30033",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132714",
+    "memo": "政大學生選修、開放大學部學生修讀、開放非中文母語使用者選修。",
+    "name": "神經科學研究方法 Neuroscience Research Methods",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蔡惠珍、何淑君、連正章、劉福清、林士傑、待聘、陳摘文、林貝容",
+    "time": "M67-YL837[YM]"
+  },
+  "1151_132715": {
+    "code": "LSNS30003",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "132715",
+    "memo": "本課程限修15人。開放大學部學生修讀。修課學生必須先接受過相關磁振造影原理或實作課程才能修習此課程。",
+    "name": "大腦核磁共振影像實務探討(1) Principles and practice of magnetic resonance image of the human brain (1)",
+    "num_limit": "15",
+    "reg_num": "0",
+    "teacher": "周坤賢、林慶波",
+    "time": "R567-YL823[YM]"
+  },
+  "1151_132800": {
+    "code": "LSMI30028",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132800",
+    "memo": "陽明校區教室實地授課，並提供會議軟體連結給跨校區學生，讓學生自行透過軟體同步上課",
+    "name": "高等微生物及免疫學通論-免疫學 Advanced Microbiology & Immunology- Immunology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳念榮、呂春敏、徐嘉琳、葛一樊",
+    "time": "M56-YC401[YM]"
   },
   "1151_132801": {
     "code": "LSMI30008",
@@ -10331,6 +10487,30 @@
     "teacher": "黃雪莉、高正彥、林怡君、蔡文城、羅南德",
     "time": "R78-YC313[YM]"
   },
+  "1151_132802": {
+    "code": "LSMI30108",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132802",
+    "memo": "[English Medium Course]碩士班",
+    "name": "微生物及免疫學專題討論(一)(碩)(全英文) Microbiology &amp; Immunology Seminar (1) (in English)(Master student)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "張佩靖、高正彥",
+    "time": "M34-YC313[YM]"
+  },
+  "1151_132803": {
+    "code": "LSMI30020",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132803",
+    "memo": "",
+    "name": "現代生物學研究方法 Research Methods for Modern Microbiology & Immunology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蔡明翰、廖辰中、董建億、呂春敏、陳念榮、張佩靖、徐嘉琳、黃雪莉、陳紀如、葛一樊、高正彥、許博琛、陳建鋒、蔡雨寰、曾才郁",
+    "time": "R56-YC401[YM]"
+  },
   "1151_132804": {
     "code": "LSMI30034",
     "credit": "2.00",
@@ -10342,6 +10522,30 @@
     "reg_num": "0",
     "teacher": "葛一樊",
     "time": "F34-YC313[YM]"
+  },
+  "1151_132805": {
+    "code": "LSMI30029",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132805",
+    "memo": "",
+    "name": "高等微生物及免疫學通論-病毒學 Advanced Microbiology & Immunology- Virology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "張佩靖、陳紀如、蔡明翰",
+    "time": "T56-YC401[YM]"
+  },
+  "1151_132806": {
+    "code": "LSMI30085",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132806",
+    "memo": "",
+    "name": "微生物及免疫學專題討論(二) Microbiology and immunology seminar (2) (Master student)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "徐嘉琳、蔡明翰、蔡雨寰",
+    "time": "M34-YC401[YM]"
   },
   "1151_132807": {
     "code": "LSMI30109",
@@ -10355,6 +10559,270 @@
     "teacher": "徐嘉琳、葛一樊",
     "time": "T34-YC313[YM]"
   },
+  "1151_132808": {
+    "code": "LSMI30044",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132808",
+    "memo": "",
+    "name": "微生物及免疫學研究(二)(碩二) Microbiology and Immunology Research Progress Report (2)  (2nd years Master student)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "微免所碩",
+    "time": "Sn-"
+  },
+  "1151_132809": {
+    "code": "LSMI30043",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132809",
+    "memo": "",
+    "name": "微生物及免疫學研究(一)(碩一) Microbiology and Immunology Research Progress Report (1)  (1st year Msater student)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "微免所碩",
+    "time": "Sn-"
+  },
+  "1151_132810": {
+    "code": "LSMI30110",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132810",
+    "memo": "",
+    "name": "病毒學新知 115-1 This week in virology 115-1",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳紀如",
+    "time": "W56-YC313[YM]"
+  },
+  "1151_132811": {
+    "code": "LSMI30010",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132811",
+    "memo": "碩士班",
+    "name": "微生物及免疫學專題討論(三)(碩) Microbiology & Immunology Seminar(3) (Master student) ",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳紀如、呂春敏、顧正崙",
+    "time": "R34-YC401[YM]"
+  },
+  "1151_132812": {
+    "code": "LSMI30095",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132812",
+    "memo": "Master student",
+    "name": "微生物及免疫學專題討論(四) Microbiology and Immunology Seminar(4) (Master student)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳念榮、黃雪莉",
+    "time": "R34-YC313[YM]"
+  },
+  "1151_132813": {
+    "code": "LSMI30111",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132813",
+    "memo": "[English Medium Course]",
+    "name": "病毒學與生物技術(全英語) 115-1 Virology and biotechnology (in English) 115-1",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蔡明翰",
+    "time": "T34-YC302[YM]"
+  },
+  "1151_132814": {
+    "code": "LSMI30035",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132814",
+    "memo": "[English Medium Course]暑假開課\n上課地點: 生物醫學大樓401教室",
+    "name": "微生物科技與新藥研發 (全英語) Microbial Biotechnology and Drug Discovery (in English)",
+    "num_limit": "0",
+    "reg_num": "0",
+    "teacher": "黃雪莉、孫維欣、林怡君、陳儀聰、蔡文城、羅南德、程樹德",
+    "time": "S12-YC401[YM]"
+  },
+  "1151_132900": {
+    "code": "LSBM30023",
+    "credit": "4.00",
+    "hours": "4.00",
+    "id": "132900",
+    "memo": "本課程與分子生物學合班上課",
+    "name": "生化及分子生物學 Biocchemistry and molecular biology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳美瑜、游麗如、鄭子豪、黃介嶸、許翺麟、陳威儀、王琬菁、陳鴻震、張崇德、姜為中",
+    "time": "T34R34-YC501[YM]"
+  },
+  "1151_132901": {
+    "code": "LSBM30004",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132901",
+    "memo": "",
+    "name": "分子生物數據的理則分析 Logical analyses of molecular biology data",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蔡有光",
+    "time": "M56-YL404[YM]"
+  },
+  "1151_132902": {
+    "code": "LSBM30016",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132902",
+    "memo": "開放大學部選修(經審核)。限選修人數10人且生科院學生優先。",
+    "name": "核磁共振在生物學之應用 Practical aspects of biomolecular NMR",
+    "num_limit": "10",
+    "reg_num": "0",
+    "teacher": "黃介嶸",
+    "time": "M78-YC516[YM]"
+  },
+  "1151_132903": {
+    "code": "LSBM30038",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132903",
+    "memo": "",
+    "name": "腫瘤生物學(一) Tumor Biology- From Bench to Bedside",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "李偉平",
+    "time": "W56-YC501[YM]"
+  },
+  "1151_132904": {
+    "code": "LSBM30010",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "132904",
+    "memo": "[English Medium Course]",
+    "name": "專題討論(B) Seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳威儀、王琬菁、夏國強",
+    "time": "T78-YC516[YM]"
+  },
+  "1151_132905": {
+    "code": "LSBM30009",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "132905",
+    "memo": "",
+    "name": "專題討論(A) Seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "許翺麟、黃介嶸、陳鴻震、張崇德、姜為中",
+    "time": "T78-YC501[YM]"
+  },
+  "1151_132906": {
+    "code": "LSBM30011",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "132906",
+    "memo": "",
+    "name": "專題討論(C) Seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "游麗如、郭津岑、曾炳輝",
+    "time": "R78-YC501[YM]"
+  },
+  "1151_132907": {
+    "code": "LSBM30012",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "132907",
+    "memo": "",
+    "name": "專題討論(D) Seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "鄭子豪、陳美瑜、蔡有光、廖韋晴、胡春美",
+    "time": "F78-YC501[YM]"
+  },
+  "1151_132908": {
+    "code": "LSBM30020",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "132908",
+    "memo": "",
+    "name": "生化特論B(碩) Special Topic on Biochemistry",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "許翺麟、陳美瑜、游麗如、鄭子豪、林達顯、郭津岑、黃介嶸、陳威儀、王琬菁、陳鴻震、蔡有光、曾炳輝、廖韋晴、張崇德、姜為中",
+    "time": "R9aF9a-YC501[YM]"
+  },
+  "1151_132909": {
+    "code": "LSBM30041",
+    "credit": "1.00",
+    "hours": "4.00",
+    "id": "132909",
+    "memo": "暑假上課(上課日期114.8.4-114.8.8)，生化所學生為主, 外所學生需經本所所同意方得選修",
+    "name": "進階生化與分生實驗(一) Advanced biochemistry and molecular biology training course",
+    "num_limit": "10",
+    "reg_num": "0",
+    "teacher": "曾炳輝、鄭閔魁、王毓瑄、郭津岑、王琬菁、黃依川、林雅雄、許玉璇",
+    "time": "Uy-"
+  },
+  "1151_132910": {
+    "code": "LSBM30043",
+    "credit": "1.00",
+    "hours": "4.00",
+    "id": "132910",
+    "memo": "暑假上課(上課日期114.8.11-114.8.15)，生化所學生為主, 外所學生需經本所所同意方得選修",
+    "name": "進階生化與分生實驗(二) Advanced biochemistry and molecular biology training course",
+    "num_limit": "10",
+    "reg_num": "0",
+    "teacher": "陳威儀、王毓瑄、游麗如、鄭子豪、黃依川",
+    "time": "Uy-"
+  },
+  "1151_132911": {
+    "code": "LSBM30042",
+    "credit": "1.00",
+    "hours": "4.00",
+    "id": "132911",
+    "memo": "暑假上課(上課日期114.8.18-114.8.22)，生化所學生為主, 外所學生需經本所所同意方得選修",
+    "name": "進階生化與分生實驗(三) Advanced biochemistry and molecular biology training course",
+    "num_limit": "10",
+    "reg_num": "0",
+    "teacher": "黃介嶸、張崇德、黃依川、林雅雄、許玉璇",
+    "time": "Uy-"
+  },
+  "1151_132912": {
+    "code": "LSBM30045",
+    "credit": "1.00",
+    "hours": "4.00",
+    "id": "132912",
+    "memo": "暑假上課(上課日期114.8.25-114.8.29)，生化所學生為主, 外所學生需經本所所同意方得選修",
+    "name": "進階生化與分生實驗(四) Advanced biochemistry and molecular biology training course",
+    "num_limit": "10",
+    "reg_num": "0",
+    "teacher": "曾炳輝、鄭閔魁、游麗如、鄭子豪、郭津岑、黃介嶸、陳威儀、王琬菁、廖韋晴、張崇德、姜為中、黃依川",
+    "time": "Uy-"
+  },
+  "1151_132913": {
+    "code": "LSBM30021",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132913",
+    "memo": "",
+    "name": "生化技術原理 Techniques of Biochemistry",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "許翺麟、陳美瑜、游麗如、鄭子豪、郭津岑、黃介嶸、陳威儀、王琬菁、陳鴻震、蔡有光、曾炳輝、廖韋晴、張崇德、姜為中",
+    "time": "M34-YC501[YM]"
+  },
+  "1151_132914": {
+    "code": "LSBM30051",
+    "credit": "2.00",
+    "hours": "3.00",
+    "id": "132914",
+    "memo": "生化所學生優先",
+    "name": "高等生物技術特論與實作 Advanced Biotechnology Techniques",
+    "num_limit": "6",
+    "reg_num": "0",
+    "teacher": "張崇德",
+    "time": "F56-YC516[YM]"
+  },
   "1151_133000": {
     "code": "LSBM30035",
     "credit": "2.00",
@@ -10367,6 +10835,18 @@
     "teacher": "郭津岑、陳胤全、李曉暉、廖韋晴",
     "time": "T56-YC501[YM]"
   },
+  "1151_133001": {
+    "code": "LSGS30009",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "133001",
+    "memo": "碩班必選，請依分班班級選課",
+    "name": "專題討論(碩) Seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "藍昇輝、盧重光",
+    "time": "M34-YK101[YM]"
+  },
   "1151_133002": {
     "code": "LSGS30049",
     "credit": "2.00",
@@ -10378,6 +10858,42 @@
     "reg_num": "0",
     "teacher": "陳瀅州",
     "time": "M56-YK101[YM]"
+  },
+  "1151_133003": {
+    "code": "LSGS30009",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "133003",
+    "memo": "碩班必選，請依分班班級選課",
+    "name": "專題討論(碩) Seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "俞震亞、陳瀅州",
+    "time": "M34-YR104[YM]"
+  },
+  "1151_133004": {
+    "code": "LSGS30009",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "133004",
+    "memo": "碩班必選，請依分班班級選課",
+    "name": "專題討論(碩) Seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "羅清維、林照雄",
+    "time": "T56-YR103[YM]"
+  },
+  "1151_133005": {
+    "code": "LSGS30009",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "133005",
+    "memo": "碩班必選，請依分班班級選課",
+    "name": "專題討論(碩) Seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "張欣暘、陳儀聰",
+    "time": "W56-YL403[YM]"
   },
   "1151_133006": {
     "code": "LSGS30003",
@@ -10412,7 +10928,7 @@
     "name": "結構生物學(一) Structural Biology(I)",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "張欣暘、黃介嶸",
+    "teacher": "張欣暘、許世宜、黃介嶸",
     "time": "R56-YK101[YM]"
   },
   "1151_133009": {
@@ -10439,6 +10955,30 @@
     "teacher": "李敏嘉、游麗如、劉福清、江運金、林書葦",
     "time": "M789-YK101[YM]"
   },
+  "1151_133011": {
+    "code": "LSGS30023",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "133011",
+    "memo": "碩一rotation，115年7月暑假上課",
+    "name": "生命科學技術 Methods in Modern Biology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳儀聰、林照雄、羅清維、林崇智、李曉暉、可文亞、李敏嘉、張欣暘、陳嘉霖、陳瀅州、藍昇輝、袁維謙",
+    "time": "S34-YK101[YM]"
+  },
+  "1151_133012": {
+    "code": "LSGS30033",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "133012",
+    "memo": "review進度報告，碩一下開始必選",
+    "name": "論文研究進度報告(碩) Progress report",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳俊銘、林照雄、蔡亭芬、羅清維、俞震亞、孫維欣、陳燕彰、李曉暉、可文亞、李敏嘉、張欣暘、陳嘉霖、陳虹如、藍昇輝、袁維謙",
+    "time": "U34-"
+  },
   "1151_133013": {
     "code": "LSGS30048",
     "credit": "1.00",
@@ -10450,6 +10990,30 @@
     "reg_num": "0",
     "teacher": "林照雄",
     "time": "M78-YK104[YM]"
+  },
+  "1151_133014": {
+    "code": "LSGS30021",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "133014",
+    "memo": "博二、博三每學年可選修",
+    "name": "生命科學教學 Teaching practice on Biology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "羅清維、陳俊銘、俞震亞、林崇智、金翠庭、李敏嘉、陳嘉霖、袁維謙",
+    "time": "Sn-"
+  },
+  "1151_133015": {
+    "code": "LSGS30051",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "133015",
+    "memo": "",
+    "name": "進階生化及分子生物學 Advanced Biochemistry and Molecular Biology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "孫維欣、可文亞、張欣暘、陳嘉霖、陳虹如、陳儀聰、袁維謙",
+    "time": "T234-YK101[YM]"
   },
   "1151_133016": {
     "code": "LSGS30019",
@@ -11734,6 +12298,90 @@
     "reg_num": "0",
     "teacher": "李易展、陳志成、楊逢羿、許世明、盧家鋒、陳傳霖、莊惠燕、吳駿一、張御展、詹明賢、高瑀絜",
     "time": "F34-YB101[YM]"
+  },
+  "1151_142500": {
+    "code": "LSMI30045",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "142500",
+    "memo": "",
+    "name": "微生物及免疫學研究(三)(博) Microbiology and Immunology Research Progress Report (3)  (Ph.D student)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "微免所碩",
+    "time": "Sn-"
+  },
+  "1151_142501": {
+    "code": "LSMI30041",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "142501",
+    "memo": "",
+    "name": "微生物及免疫學實驗教學(一) Microbiology and Immunology Laboratory Teaching Training (1)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "微免所碩",
+    "time": "Sy-"
+  },
+  "1151_142502": {
+    "code": "LSMI30096",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "142502",
+    "memo": "[English Medium Course]Ph.D student",
+    "name": "微生物及免疫學專題討論(五)(全英語) Microbiology and immunology seminar (5) (in Enghlish) (Ph.D student)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "葛一樊、許博琛",
+    "time": "R34-YC302[YM]"
+  },
+  "1151_142503": {
+    "code": "LSMI30042",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "142503",
+    "memo": "[English Medium Course]",
+    "name": "微生物及免疫學教學(全英語) (A) Microbiology and Immunology Lecture Teaching Training (in English) (A)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "微免所碩",
+    "time": "Sn-"
+  },
+  "1151_142700": {
+    "code": "LSGS30032",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "142700",
+    "memo": "Review進度報告，博二以上必選",
+    "name": "論文研究(博) Progress report",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "陳俊銘、孫維欣、陳燕彰、李曉暉、可文亞、李敏嘉、陳虹如、袁維謙",
+    "time": "U12-"
+  },
+  "1151_142701": {
+    "code": "LSGS30008",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "142701",
+    "memo": "博三以下未通過資格考核者必選。全英語授課課程。[English Medium Course]",
+    "name": "專題討論(博) Seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "蔡亭芬、林崇智",
+    "time": "R56-YR103[YM]"
+  },
+  "1151_142702": {
+    "code": "LSGS30021",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "142702",
+    "memo": "博二、博三每學年必選一次",
+    "name": "生命科學教學 Teaching practice on Biology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "羅清維、陳俊銘、俞震亞、林崇智、金翠庭、李敏嘉、陳嘉霖、袁維謙",
+    "time": "Sn-"
   },
   "1151_142800": {
     "code": "LSMM30006",
@@ -14382,7 +15030,7 @@
     "id": "310109",
     "memo": "",
     "name": "傳播研究方法 Communication Research Methods",
-    "num_limit": "9999",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "俞蘋",
     "time": "M567-HKB08[LJ]"
@@ -15825,7 +16473,7 @@
     "num_limit": "130",
     "reg_num": "0",
     "teacher": "王維菁",
-    "time": "R234-"
+    "time": "R234-AB102[GF]"
   },
   "1151_430200": {
     "code": "BTMB30087",
@@ -17565,7 +18213,7 @@
     "num_limit": "110",
     "reg_num": "0",
     "teacher": "高竹嵐",
-    "time": "M56R2-"
+    "time": "R2-,M56-AB102[GF]"
   },
   "1151_515103": {
     "code": "EEEC10043",
@@ -18441,7 +19089,7 @@
     "num_limit": "40",
     "reg_num": "0",
     "teacher": "陳建宏",
-    "time": "F567-EDB07[GF]"
+    "time": "F567-ED201[GF]"
   },
   "1151_515222": {
     "code": "EEDM20024",
@@ -18752,7 +19400,7 @@
     "name": "線性代數 Linear Algebra",
     "num_limit": "90",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "王偉豪",
     "time": "W34F7-EC016[GF]"
   },
   "1151_515505": {
@@ -18946,6 +19594,18 @@
     "reg_num": "0",
     "teacher": "楊武",
     "time": "M3F56-EC115[GF]"
+  },
+  "1151_515521": {
+    "code": "CSCS10011",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "515521",
+    "memo": "[English Medium Course]一年級必修僅開學才開放選課(Required courses for first-year students can only be selected after the class begins )；外系生請於開學上網加選；資工系學生優先選課；主開1年級；本系生優先權順序：1年級，4年級，3年級，2年級",
+    "name": "線性代數 Linear Algebra",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "W34F7-ED302[GF]"
   },
   "1151_515600": {
     "code": "CSCS20025",
@@ -19257,7 +19917,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "機械系",
-    "time": "Mabc-"
+    "time": "Mabc-AB102[GF]"
   },
   "1151_516105": {
     "code": "ENME10016",
@@ -22209,7 +22869,7 @@
     "num_limit": "77",
     "reg_num": "0",
     "teacher": "謝承利",
-    "time": "M89a-KB302"
+    "time": "R89a-KB302"
   },
   "1151_520030": {
     "code": "XDEP20017",
@@ -23144,7 +23804,7 @@
     "name": "數位科技陶瓷製造與創作 Digital Technology in Ceramic Fabrication and Creative Practice",
     "num_limit": "15",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "李建佑、蔡佳霖",
     "time": "Rabc-"
   },
   "1151_534413": {
@@ -24333,7 +24993,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "方振洲",
-    "time": "Mabc-ED201[GF]"
+    "time": "Mabc-CS100[GF]"
   },
   "1151_535200": {
     "code": "EEIE30057",
@@ -24813,7 +25473,7 @@
     "num_limit": "10",
     "reg_num": "0",
     "teacher": "黃育綸",
-    "time": "F34n-A301[GF]"
+    "time": "F234n56-A301[GF]"
   },
   "1151_535303": {
     "code": "EECN30072",
@@ -25880,7 +26540,7 @@
     "name": "系統架構師的鍛造與培育 The Forging Path of a System Architect",
     "num_limit": "25",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "黃泰一",
     "time": ""
   },
   "1151_535526": {
@@ -26639,6 +27299,42 @@
     "teacher": "王才沛",
     "time": "F56-EE210[GF]"
   },
+  "1151_536070": {
+    "code": "ENSS30006",
+    "credit": ".00",
+    "hours": "2.00",
+    "id": "536070",
+    "memo": "",
+    "name": "書報討論(一) Seminar(I)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "張存均",
+    "time": "R78-EE324[GF]"
+  },
+  "1151_536071": {
+    "code": "ENSS30001",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536071",
+    "memo": "",
+    "name": "系統建模與模擬 Systems Modeling & Simulation",
+    "num_limit": "40",
+    "reg_num": "0",
+    "teacher": "鄭泗東",
+    "time": "Tabc-EE210[GF]"
+  },
+  "1151_536072": {
+    "code": "ENSS30002",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536072",
+    "memo": "[English Medium Course]",
+    "name": "系統工程導論 Fundamentals of Systems Engineering",
+    "num_limit": "40",
+    "reg_num": "0",
+    "teacher": "陳竺博淵",
+    "time": "T567-EE230[GF]"
+  },
   "1151_536073": {
     "code": "ENSS30021",
     "credit": "3.00",
@@ -26651,6 +27347,18 @@
     "teacher": "曾昭雄",
     "time": "W567-EE206[GF]"
   },
+  "1151_536074": {
+    "code": "ENSS30004",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536074",
+    "memo": "",
+    "name": "太空任務與系統設計 Designing Space Missions and Systems",
+    "num_limit": "40",
+    "reg_num": "0",
+    "teacher": "魏世昕",
+    "time": "M567-EE231[GF]"
+  },
   "1151_536076": {
     "code": "ENSS30018",
     "credit": "3.00",
@@ -26662,6 +27370,30 @@
     "reg_num": "0",
     "teacher": "方怡欽",
     "time": "W567-EE231[GF]"
+  },
+  "1151_536077": {
+    "code": "ENSS30017",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536077",
+    "memo": "",
+    "name": "微波系統設計 Design of Microwave Wireless Systems",
+    "num_limit": "40",
+    "reg_num": "0",
+    "teacher": "曾昭雄",
+    "time": "T89a-EE229[GF]"
+  },
+  "1151_536078": {
+    "code": "ENSS30027",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536078",
+    "memo": "先修科目或先備能力：修過普通物理\n",
+    "name": "衛星工程與光學酬載 Introduction to Satellite Engineering and Optical Payload",
+    "num_limit": "40",
+    "reg_num": "0",
+    "teacher": "方怡欽",
+    "time": "R345-EE229[GF]"
   },
   "1151_536079": {
     "code": "ENSS30026",
@@ -26710,6 +27442,18 @@
     "reg_num": "0",
     "teacher": "賴錦文",
     "time": "T34W4-EE206[GF]"
+  },
+  "1151_536103": {
+    "code": "ENME30019",
+    "credit": ".00",
+    "hours": "2.00",
+    "id": "536103",
+    "memo": "教室在EE B1會議廳",
+    "name": "書報討論（一） Seminar (I)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "王啟川",
+    "time": "R78-EEB24[GF]"
   },
   "1151_536104": {
     "code": "ENME30048",
@@ -26831,6 +27575,18 @@
     "teacher": "鄭泗東",
     "time": "Mabc-EE132[GF]"
   },
+  "1151_536114": {
+    "code": "ENME20031",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536114",
+    "memo": "核心選修課程。[English Medium Course] 開4/研。",
+    "name": "合金製作原理與應用 Formation Principle and Applications of Alloys",
+    "num_limit": "40",
+    "reg_num": "0",
+    "teacher": "陳士勛",
+    "time": "F234-EE210[GF]"
+  },
   "1151_536115": {
     "code": "ENME30063",
     "credit": "3.00",
@@ -26867,6 +27623,42 @@
     "teacher": "廖英皓",
     "time": "M56F3-EE205[GF]"
   },
+  "1151_536200": {
+    "code": "ENCV30082",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "536200",
+    "memo": "限本系結構、營管、大地、水利、資訊組之研究所學生修課。",
+    "name": "研究所專題討論(一) Seminar (I)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "羅佳明",
+    "time": "Wn56-EB117[GF],Wn56-EB227[GF]"
+  },
+  "1151_536201": {
+    "code": "ENCV30045",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "536201",
+    "memo": "",
+    "name": "測量及空間資訊專題討論(一) Seminar in Surveying and Geomatics Engineering (I)",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "黃金維",
+    "time": "T567-EB227[GF]"
+  },
+  "1151_536202": {
+    "code": "ENCV30004",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "536202",
+    "memo": "[English Medium Course]限土木系研究所外籍生選修 (This course is only available to foreign graduate students in the Department of Civil Engineering.)",
+    "name": "個別研究 Independent Study",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "土木系",
+    "time": ""
+  },
   "1151_536203": {
     "code": "ENCV30002",
     "credit": "3.00",
@@ -26879,6 +27671,54 @@
     "teacher": "高明秀",
     "time": "M234-CS-PC2[GF]"
   },
+  "1151_536204": {
+    "code": "ENCV30097",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536204",
+    "memo": "",
+    "name": "工程計畫評估 Engineering Project Evaluation",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "沈勁利",
+    "time": "T567-EB403[GF]"
+  },
+  "1151_536205": {
+    "code": "ENCV30039",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536205",
+    "memo": "[English Medium Course]",
+    "name": "波浪理論 Water Wave Theory",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "于弋翔、蔡育霖",
+    "time": "M567-EB404[GF]"
+  },
+  "1151_536206": {
+    "code": "ENCV30057",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536206",
+    "memo": "",
+    "name": "計算水力學 Computational Hydraulics",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "楊尊華",
+    "time": "T234-EB404[GF]"
+  },
+  "1151_536207": {
+    "code": "ENCV30033",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536207",
+    "memo": "[English Medium Course]",
+    "name": "時頻分析與土砂監測之應用 Time Frequency Analysis and its Ａpplication to Ｓediment Ｍonitoring  ",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "趙韋安",
+    "time": "T567-EB404[GF]"
+  },
   "1151_536208": {
     "code": "ENCV30079",
     "credit": "3.00",
@@ -26890,6 +27730,54 @@
     "reg_num": "0",
     "teacher": "于弋翔",
     "time": "W34-EB415[GF]"
+  },
+  "1151_536209": {
+    "code": "ENCV30073",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536209",
+    "memo": "[English Medium Course]",
+    "name": "高等水文學 Advanced Hydrology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "石棟鑫",
+    "time": "R234-EB403[GF]"
+  },
+  "1151_536210": {
+    "code": "ENCV30063",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536210",
+    "memo": "",
+    "name": "輸砂力學 Mechanics of Sediment Transport",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "石棟鑫",
+    "time": "F234-EB404[GF]"
+  },
+  "1151_536211": {
+    "code": "ENCV30102",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536211",
+    "memo": "",
+    "name": "深度學習與地下水模擬 Deep Learning and Groundwater Modeling",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "黃浚瑋",
+    "time": "R567-EB403[GF]"
+  },
+  "1151_536212": {
+    "code": "ENCV30072",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536212",
+    "memo": "",
+    "name": "高等土壤力學 Advanced Soil Mechanics",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "單信瑜",
+    "time": "M234-EB404[GF]"
   },
   "1151_536213": {
     "code": "ENCV30091",
@@ -26939,6 +27827,30 @@
     "teacher": "羅文江",
     "time": "F234-EB403[GF]"
   },
+  "1151_536218": {
+    "code": "ENCV30026",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536218",
+    "memo": "[English Medium Course]",
+    "name": "平差理論 Adjustment and Statistics",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "黃金維",
+    "time": "M567-EB402[GF]"
+  },
+  "1151_536219": {
+    "code": "ENCV30032",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536219",
+    "memo": "",
+    "name": "數值攝影測量 Digital Photogrammetry",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "莊子毅",
+    "time": "R567-EB402[GF]"
+  },
   "1151_536220": {
     "code": "ENCV30106",
     "credit": "3.00",
@@ -26950,6 +27862,54 @@
     "reg_num": "0",
     "teacher": "袁宇秉",
     "time": "M789-EB415[GF]"
+  },
+  "1151_536221": {
+    "code": "ENCV30074",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536221",
+    "memo": "",
+    "name": "高等結構學 Advanced Structural Analysis",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "王彥博",
+    "time": "T567-EB107[GF]"
+  },
+  "1151_536222": {
+    "code": "ENCV30051",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536222",
+    "memo": "[English Medium Course]",
+    "name": "結構健康診斷技術及應用 Computational Technique and Its Application for Structural Health Monitoring",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林子剛",
+    "time": "W234-EB402[GF]"
+  },
+  "1151_536223": {
+    "code": "ENCV30034",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536223",
+    "memo": "[English Medium Course]",
+    "name": "有限元素法 Finite Element Methods",
+    "num_limit": "28",
+    "reg_num": "0",
+    "teacher": "楊子儀",
+    "time": "R234-EB402[GF]"
+  },
+  "1151_536224": {
+    "code": "ENCV30095",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536224",
+    "memo": "[English Medium Course]",
+    "name": "科技論文寫作 Writing Scientific Papers in English",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "潘爾年",
+    "time": "T234-EB403[GF]"
   },
   "1151_536225": {
     "code": "ENCV30105",
@@ -26986,6 +27946,18 @@
     "reg_num": "0",
     "teacher": "高明秀",
     "time": "R234-EB415[GF]"
+  },
+  "1151_536300": {
+    "code": "ENMS30026",
+    "credit": ".00",
+    "hours": "2.00",
+    "id": "536300",
+    "memo": "1.材料系碩一、博一、博二研究生必修 \n2.材料系大三、四選修\n3.限材料系、奈米所加選 \n4.上課教室：工程六館國際會議廳(優貝克廳)",
+    "name": "書報討論 Seminar",
+    "num_limit": "200",
+    "reg_num": "0",
+    "teacher": "黃爾文、林御專",
+    "time": "W56-EF104[GF]"
   },
   "1151_536302": {
     "code": "ENMS30023",
@@ -27179,6 +28151,18 @@
     "teacher": "林宏洲",
     "time": "M234-EF202[GF]"
   },
+  "1151_536450": {
+    "code": "ENNV30008",
+    "credit": "1.00",
+    "hours": "3.00",
+    "id": "536450",
+    "memo": "上課時間：9:50~12:00",
+    "name": "專題討論 Seminar",
+    "num_limit": "60",
+    "reg_num": "0",
+    "teacher": "黃志彬、楊德忠",
+    "time": "F234-EV102[GF]"
+  },
   "1151_536451": {
     "code": "ENNV30014",
     "credit": "3.00",
@@ -27214,6 +28198,18 @@
     "reg_num": "0",
     "teacher": "楊德忠",
     "time": "M234-EV307[GF]"
+  },
+  "1151_536454": {
+    "code": "ENNV30047",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "536454",
+    "memo": "環工所學生優先。",
+    "name": "自來水工程 Water Supply Engineering",
+    "num_limit": "25",
+    "reg_num": "0",
+    "teacher": "黃志彬、卓昱宏",
+    "time": "M567-EV402[GF]"
   },
   "1151_536455": {
     "code": "ENNV30048",
@@ -32241,7 +33237,7 @@
     "num_limit": "23",
     "reg_num": "0",
     "teacher": "林淑芬",
-    "time": "W34-"
+    "time": "W34-HA109[GF]"
   },
   "1151_561032": {
     "code": "GECG00051",
@@ -33309,7 +34305,7 @@
     "num_limit": "20",
     "reg_num": "0",
     "teacher": "吳思葦",
-    "time": "R56-"
+    "time": "R56-A301[GF]"
   },
   "1151_562043": {
     "code": "GELT00026",
@@ -36006,7 +37002,7 @@
     "id": "563137",
     "memo": "上課地點為活動中心2樓室內綜合球場。\n\n",
     "name": "五人制足球 Futsal",
-    "num_limit": "30",
+    "num_limit": "40",
     "reg_num": "0",
     "teacher": "莊泰源",
     "time": "M78-PhE[YM]"
@@ -36078,7 +37074,7 @@
     "id": "563143",
     "memo": "上課地點為活動中心3樓韻律教室。",
     "name": "體適能 Fitness",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "曾丸晏",
     "time": "T12-PhE[YM]"

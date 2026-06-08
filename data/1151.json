@@ -11108,7 +11108,7 @@
     "name": "哲學專題討論(一) Seminar in Philosophy I",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "游尚愷、艾力、杜培基、洪裕宏",
+    "teacher": "艾力",
     "time": "F78-YX321[YM]"
   },
   "1151_133200": {
@@ -13605,7 +13605,7 @@
     "num_limit": "0",
     "reg_num": "0",
     "teacher": "艾力",
-    "time": "R56-YT205[YM]"
+    "time": "M9a-YT103[YM]"
   },
   "1151_161030": {
     "code": "GECE00419",
@@ -29361,7 +29361,7 @@
     "num_limit": "60",
     "reg_num": "0",
     "teacher": "蔡璧徽",
-    "time": "W789-M205[GF]"
+    "time": "W789-AB102[GF],W789-YT301[YM]"
   },
   "1151_537019": {
     "code": "MGMS30069",
@@ -38576,7 +38576,7 @@
     "name": "機器學習入門與應用 Machine Learning: Foundations and Applications",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "",
+    "teacher": "鄭昌杰",
     "time": "R234-CS105[GF]"
   },
   "1151_575000": {

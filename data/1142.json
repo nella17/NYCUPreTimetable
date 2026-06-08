@@ -26287,7 +26287,7 @@
     "memo": "資科工所必修。1.每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "405",
+    "reg_num": "404",
     "teacher": "資科工所",
     "time": ""
   },
@@ -26719,7 +26719,7 @@
     "memo": "數據科學與工程研究所必修，每學期須選修「個別研究」課程。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "128",
+    "reg_num": "126",
     "teacher": "數據所",
     "time": ""
   },
@@ -31327,7 +31327,7 @@
     "memo": "限本專班同學選修；已有指導教授者才可選修，若尚未繳交過指導教授協議書，最遲開學後兩週內交至專班辦公室。",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "國防資安專班",
     "time": ""
   },

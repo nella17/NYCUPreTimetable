@@ -1523,6 +1523,18 @@
     "teacher": "李士元、陳翾、陳信宏、王君伃、許至瑜、劉妍君",
     "time": "W345678-YD202[YM]"
   },
+  "1151_111541": {
+    "code": "DEDE20065",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "111541",
+    "memo": "",
+    "name": "牙科自造 Dental Fablab",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "林元敏",
+    "time": "R78-YD304[YM]"
+  },
   "1151_111800": {
     "code": "NSDN20005",
     "credit": "2.00",
@@ -5176,11 +5188,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "130000",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "生理學專題討論A Seminar A",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "吳鈺琳、陳政育、簡千栩",
+    "teacher": "李怡萱、陳政育、林惠菁、簡千栩",
     "time": "M12-YR105[YM]"
   },
   "1151_130001": {
@@ -5192,7 +5204,7 @@
     "name": "生理學專題討論B Seminar B",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "李怡萱、陳政育、吳莉玲",
+    "teacher": "吳鈺琳、陳政育、吳莉玲",
     "time": "M34-YR105[YM]"
   },
   "1151_130002": {
@@ -5204,7 +5216,7 @@
     "name": "生理學專題討論C Seminar C",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "張原翊、阮琪昌、林惠菁",
+    "teacher": "張原翊、吳鈺琳、阮琪昌",
     "time": "M12-YR101[YM]"
   },
   "1151_130003": {
@@ -8802,7 +8814,7 @@
     "id": "132102",
     "memo": "",
     "name": "食品分析化學與儀器分析專題討論(三) Seminar on food analytical analysis & instrumental analysis 3",
-    "num_limit": "9999",
+    "num_limit": "12",
     "reg_num": "0",
     "teacher": "賴盈宏",
     "time": "R9a-YN208[YM]"
@@ -8826,7 +8838,7 @@
     "id": "132104",
     "memo": "",
     "name": "食品毒理學及風險評估 Food toxicology and related risk assessment",
-    "num_limit": "26",
+    "num_limit": "24",
     "reg_num": "0",
     "teacher": "廖伯霖、林怡君、康照洲、劉宗榮",
     "time": "T56-YN205[YM]"
@@ -13595,18 +13607,6 @@
     "teacher": "游尚愷",
     "time": "R34-YT205[YM]"
   },
-  "1151_161029": {
-    "code": "GECE00464",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "161029",
-    "memo": "[English Medium Course]",
-    "name": "神經科學與社會 Neuroscience &amp; Society",
-    "num_limit": "0",
-    "reg_num": "0",
-    "teacher": "艾力",
-    "time": "M9a-YT103[YM]"
-  },
   "1151_161030": {
     "code": "GECE00419",
     "credit": "2.00",
@@ -13978,6 +13978,18 @@
     "reg_num": "0",
     "teacher": "張立鴻",
     "time": "R5678-HH201[YM]"
+  },
+  "1151_161065": {
+    "code": "GECE30006",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "161065",
+    "memo": "",
+    "name": "意識的科學與哲學 Consciousness: Science and Philosophy",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "洪裕宏、杜培基",
+    "time": "M56-YT302[YM]"
   },
   "1151_162000": {
     "code": "GELT10009",
@@ -16485,7 +16497,7 @@
     "num_limit": "130",
     "reg_num": "0",
     "teacher": "王維菁",
-    "time": "R234-AB102[GF]"
+    "time": "W234-AB102[GF]"
   },
   "1151_430200": {
     "code": "BTMB30087",
@@ -19384,7 +19396,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515503",
-    "memo": "[English Medium Course]一年級必修僅開學才開放選課(Required courses for first-year students can only be selected after the class begins )；外系生請於開學上網加選；資工系學生優先選課；主開1年級；本系生優先權順序：1年級，4年級，3年級，2年級;開放隨班附讀",
+    "memo": "一年級必修僅開學才開放選課(Required courses for first-year students can only be selected after the class begins )；外系生請於開學上網加選；資工系學生優先選課；主開1年級；本系生優先權順序：1年級，4年級，3年級，2年級;開放隨班附讀",
     "name": "線性代數 Linear Algebra",
     "num_limit": "110",
     "reg_num": "0",
@@ -29085,7 +29097,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "張正宏",
-    "time": "Fn56-SC157[GF]"
+    "time": "W34n-SC157[GF]"
   },
   "1151_536957": {
     "code": "SCIP30035",
@@ -29238,7 +29250,7 @@
     "id": "537006",
     "memo": "開放大一到大四同學選修。※管科系、資財系大二學生限修大學部財務管理課程。※管院學生(含雙主修、輔系、跨域學程)若有特殊原因須修習此研究所課程抵免大學部財務管理課程之學分，須於修課前向所屬系辦申請，並經由此課程召集老師同意始得認列學分。陽明校區欲加選可寫E-mail給老師，謝謝。",
     "name": "財務管理 Financial Management",
-    "num_limit": "110",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "蔡璧徽",
     "time": "T234-M301[GF]"
@@ -29358,7 +29370,7 @@
     "id": "537017",
     "memo": "[English Medium Course]管理科學系碩士班管理決策組先修課程；陽明校區欲加選可寫E-mail給老師，謝謝。初選第三階段才開放網路選課；管理科學系與管理學院優先選課。",
     "name": "會計學 Accounting",
-    "num_limit": "60",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "蔡璧徽",
     "time": "W789-AB102[GF],W789-YT301[YM]"
@@ -31413,7 +31425,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "鄒志偉",
-    "time": "Wabc-"
+    "time": "Wabc-EO103[GF]"
   },
   "1151_555001": {
     "code": "EEDE30160",
@@ -31437,7 +31449,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "李明峻",
-    "time": "Rabc-ED116[GF]"
+    "time": "Rabc-ED101[GF]"
   },
   "1151_555003": {
     "code": "EEDE30058",
@@ -31449,7 +31461,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "吳炳飛",
-    "time": "Tabc-"
+    "time": "Tabc-EE623[GF]"
   },
   "1151_555004": {
     "code": "EEDE30028",
@@ -31461,7 +31473,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳鴻祺",
-    "time": "Mabc-"
+    "time": "Mabc-EE623[GF]"
   },
   "1151_555005": {
     "code": "EEDE30151",
@@ -31473,7 +31485,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳科宏",
-    "time": "Tabc-"
+    "time": "Tabc-EE208[GF]"
   },
   "1151_555006": {
     "code": "EEDE30045",
@@ -31509,7 +31521,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "蔡文錦",
-    "time": "Mabc-"
+    "time": "Mabc-EC115[GF]"
   },
   "1151_555501": {
     "code": "EEDE30008",
@@ -31521,7 +31533,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳碩漢",
-    "time": "Wabc-"
+    "time": "Wabc-EC114[GF]"
   },
   "1151_555502": {
     "code": "EEDE30005",
@@ -31533,7 +31545,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "顏羽君",
-    "time": "Tabc-"
+    "time": "Tabc-EC114[GF]"
   },
   "1151_555600": {
     "code": "CSCM30009",
@@ -45042,7 +45054,7 @@
     "id": "960012",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－全民國防 All-out Defense Education Military Training-Civil Defense",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "鄧俊育",
     "time": "W12-A104[GF]"
@@ -45052,9 +45064,9 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "960013",
-    "memo": "",
+    "memo": "本課程於初選第三階段開放選課。",
     "name": "全民國防教育軍事訓練課程－全民國防 All-out Defense Education Military Training-Civil Defense",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "0",
     "teacher": "鄧俊育",
     "time": "W34-A104[GF]"

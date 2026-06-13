@@ -4315,7 +4315,7 @@
     "memo": "優先醫技、醫放、物輔，次護理、藥學；需先修解剖學 ，生理學等相關科目。",
     "name": "病理學 Pathology",
     "num_limit": "120",
-    "reg_num": "106",
+    "reg_num": "105",
     "teacher": "杭仁釩、許志怡、葉奕成、郭盈汝、王蕾琪、梁文議、林士堯、楊靜芬、林士傑、陳妍英、張富邦、張心怡",
     "time": "F56-YX216[YM]"
   },
@@ -5431,7 +5431,7 @@
     "memo": "藥理學課程週三56在教學大樓202教室上課、週四3456在牙105室。藥理實驗課程週四5678節請至實驗大樓D214大實驗室。",
     "name": "藥理學 Pharmacology",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "張婷婷、黃金洲、吳昭慶、林滿玉、李新城、霍德義、王湘翠、駱雨利、張世霖、黃自強、兵岳忻、嚴錦城、沈郁強、洪舜郁、張豫立、周士傑、王笙帆、葉翰宜",
     "time": "R3456-YD105[YM],M56-YX406[YM]"
   },
@@ -5443,7 +5443,7 @@
     "memo": "週四5678節上課，牙三與藥理所合班，上課日期請參照藥理學整合課表，上課地點在實驗大樓D2區D214實驗室。可英語授課開放外籍生選修。",
     "name": "藥理學實驗 Pharmacology Lab.",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "41",
     "teacher": "張婷婷",
     "time": "R9abc-YED214[YM]"
   },
@@ -6019,7 +6019,7 @@
     "memo": "研究所: 細胞生物學組必修。\n大學部: 修課對象以必修生優先及陽明校區大一大二不分系學生。\n本課程不開放旁聽生。",
     "name": "解剖學 Anatomy",
     "num_limit": "220",
-    "reg_num": "94",
+    "reg_num": "97",
     "teacher": "傅毓秀、葉添順、鄭瓊娟、侯珮珊、李學德、王先逸、蔡佩君、郭曉縈、蔣偉程、林坤陽",
     "time": "R234-YT001[YM]"
   },
@@ -6438,7 +6438,7 @@
     "id": "130613",
     "memo": "與本草綱目(一)隔周上課，實際授課時間為56節，每週2小時，合計8週，",
     "name": "醫藥法律整合研究(一) Medical-Legal Integration (1)",
-    "num_limit": "9999",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "蔡東湖",
     "time": "F6-YR105[YM]"
@@ -20851,7 +20851,7 @@
     "memo": "",
     "name": "電磁學（一） Electromagnetics (I)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "張文豪",
     "time": "W345-SC160[GF]"
   },
@@ -20863,7 +20863,7 @@
     "memo": "電物系優先",
     "name": "電子實驗（一） Electronic Lab. (I)",
     "num_limit": "32",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "林烜輝",
     "time": "Tabcd-SC326[GF]"
   },
@@ -20875,7 +20875,7 @@
     "memo": "",
     "name": "電子學（一） Electronics (I)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "54",
     "teacher": "陳振芳",
     "time": "M234-SC158[GF]"
   },
@@ -20887,7 +20887,7 @@
     "memo": "",
     "name": "應用數學（二）（微分方程） Applied Maths. (II)(Differential Equation)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "54",
     "teacher": "吳建德",
     "time": "M56W2-SC158[GF]"
   },
@@ -20899,7 +20899,7 @@
     "memo": "電物系優先\n",
     "name": "電子實驗（一） Electronic Lab. (I)",
     "num_limit": "32",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "待聘",
     "time": "Wabcd-SC326[GF]"
   },
@@ -20923,7 +20923,7 @@
     "memo": "[English Medium Course]",
     "name": "熱物理 Thermal Physics",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "56",
     "teacher": "蘇蓉容",
     "time": "T234-SC160[GF]"
   },
@@ -20935,7 +20935,7 @@
     "memo": "",
     "name": "實驗物理(一) Experimental Physics(I)",
     "num_limit": "32",
-    "reg_num": "0",
+    "reg_num": "22",
     "teacher": "林俊良",
     "time": "F5678-SC358[GF]"
   },
@@ -20947,7 +20947,7 @@
     "memo": "[English Medium Course]",
     "name": "實驗物理(二) Experimental Physics(II)",
     "num_limit": "32",
-    "reg_num": "0",
+    "reg_num": "32",
     "teacher": "許鈺敏",
     "time": "F5678-SC324[GF]"
   },
@@ -20959,7 +20959,7 @@
     "memo": "[English Medium Course]",
     "name": "量子力學導論（一） Int. to Quantum Mechanics (Ｉ)",
     "num_limit": "75",
-    "reg_num": "0",
+    "reg_num": "56",
     "teacher": "鍾佳民",
     "time": "M56R7-SC160[GF]"
   },
@@ -20971,7 +20971,7 @@
     "memo": "",
     "name": "基礎光學 Introduction to Optics",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "34",
     "teacher": "林烜輝",
     "time": "W234-SC162[GF]"
   },
@@ -21031,7 +21031,7 @@
     "memo": "電物專題一已改為必修。\n電物專題每學期限修一門，請依序選修。請選擇電物系老師為指導老師，開學後請至系辦登記。",
     "name": "電物專題（一） Special Study (I)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "56",
     "teacher": "電物系",
     "time": ""
   },
@@ -21091,7 +21091,7 @@
     "memo": "[English Medium Course]",
     "name": "電磁學（一） Electromagnetics (I)",
     "num_limit": "70",
-    "reg_num": "0",
+    "reg_num": "27",
     "teacher": "鍾介文",
     "time": "W34F2-SC158[GF]"
   },
@@ -25230,7 +25230,7 @@
     "id": "535220",
     "memo": "上課教室：ED415。(1) 第一、第二、第三階段選課：開放選課且電子所、電機系、產創學院優先；不開放填寫google表單\n(2) 開學後加退選階段：開放選課；\n(3) 未加選到同學: 開放填寫google表單且依規定加簽\n依照順位排序1.電子所 2.電機系 3.相關學院 4.外系所 5.外校 進行篩選進行網路加簽，加簽總人數會經老師評估後決定最後加簽人數。 相關學院包含電機學院、資訊學院、產創學院、國半學院。如為外系所、外校欲進行加選，除填表單外，亦須提供曾修習兩門相關課程之修課成績單。若外系所、外校無提供成績單，即便選課系統選上，亦會被手動退選。相關課程：1.邏輯設計 2.數位電路與系統3.超大型積體電路設計導論(VLSI)4.數位積體電路(DIC)5.計算機結構(CA)\n加簽方式會在第一堂課時特別說明並提供表單，欲加簽同學第一堂課請務必要來。",
     "name": "積體電路設計實驗 Integrated Circuit Design Laboratory",
-    "num_limit": "150",
+    "num_limit": "60",
     "reg_num": "0",
     "teacher": "李鎮宜",
     "time": "W56ab-"
@@ -25242,7 +25242,7 @@
     "id": "535221",
     "memo": "(1)初選第一階段、初選第二階段：開放80人。(2)初選第三階段、開學後加退選階段：開放160人。(3)因應人數控管，一律線上選課，不手動加簽。",
     "name": "深度學習 Deep Learning",
-    "num_limit": "160",
+    "num_limit": "80",
     "reg_num": "0",
     "teacher": "張添烜",
     "time": "M789-ED220[GF]"
@@ -25374,7 +25374,7 @@
     "id": "535232",
     "memo": "",
     "name": "CMOS 元件, 可靠度, 及應用之特論 Special Topics of CMOS Devices, Reliability, and Applications",
-    "num_limit": "120",
+    "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳一浸",
     "time": "F567-ED116[GF]"
@@ -38538,7 +38538,7 @@
     "id": "574009",
     "memo": "不接受電機、資訊學院及百川學士學位學程核心專業為電機、資工、半導體、光電的同學採計為核心(通識)學分",
     "name": "機器學習入門與應用 Machine Learning: Foundations and Applications",
-    "num_limit": "50",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "鄭昌杰",
     "time": "R234-CS105[GF]"

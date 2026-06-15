@@ -33,7 +33,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "溫金豐、胡均立、毛治國、唐瓔璋",
-    "time": "U123567-TB307[BM]"
+    "time": "U234567-TB307[BM]"
   },
   "114X_250101": {
     "code": "MGBM30036",
@@ -78,7 +78,7 @@
     "id": "515101",
     "memo": "※本課程限系統選課，不紙本加簽。本校電機系+醫師工程師組「大一升大二」的學生優先。暑修選課日期為6/25(四)-6/29(一)中午12:00前選課及繳費。暑修上課日期為7/7(二)-8/14(五 ) 共計6週。",
     "name": "電路學 Circuit Theory ",
-    "num_limit": "9999",
+    "num_limit": "50",
     "reg_num": "0",
     "teacher": "胡樹",
     "time": "T567R567F567-ED116[GF]"
@@ -498,7 +498,7 @@
     "id": "535202",
     "memo": "(1)上課時間：7/7-8/20，共7週。(2)每週一週二週三第34節上課，每週三第567節為彈性上機課。(3)限本校，電子所優先。(4)上課會使用到TSRI U18製程，請在開始上課前（建議於上課前提早約一個月以上提出申請）自行申請製程權限，否則將無法參與課程。",
     "name": "電源管理晶片設計與實作 Power Management Integrated Circuit Design and Implementation",
-    "num_limit": "25",
+    "num_limit": "40",
     "reg_num": "0",
     "teacher": "陳柏宏",
     "time": "M234T234W234567-ED101[GF]"
@@ -882,7 +882,7 @@
     "id": "564000",
     "memo": "7/1(三)~8/6(四)",
     "name": "微積分甲(一) Calculus A (I)",
-    "num_limit": "120",
+    "num_limit": "130",
     "reg_num": "0",
     "teacher": "張書銘",
     "time": "M234T234W234R234-SA321[GF]"
@@ -894,10 +894,10 @@
     "id": "564001",
     "memo": "7/1(三)~8/6(四)",
     "name": "微積分甲(一) Calculus A (I)",
-    "num_limit": "60",
+    "num_limit": "100",
     "reg_num": "0",
     "teacher": "呂楊凱",
-    "time": "M234T234W234R234-SC206[GF]"
+    "time": "M234T234W234R234-SA320[GF]"
   },
   "114X_564002": {
     "code": "GECS10002",
@@ -906,7 +906,7 @@
     "id": "564002",
     "memo": "7/1(三)~8/6(四)",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "120",
+    "num_limit": "130",
     "reg_num": "0",
     "teacher": "張書銘",
     "time": "M567T567W567R567-SA321[GF]"
@@ -918,10 +918,10 @@
     "id": "564003",
     "memo": "7/1(三)~8/6(四)",
     "name": "微積分甲(二) Calculus A (II)",
-    "num_limit": "60",
+    "num_limit": "100",
     "reg_num": "0",
     "teacher": "黃柏鈞",
-    "time": "M567T567W567R567-SC206[GF]"
+    "time": "M567T567W567R567-SA320[GF]"
   },
   "114X_565000": {
     "code": "GEPS10001",

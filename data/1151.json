@@ -2024,7 +2024,7 @@
     "name": "藥學導論 Orientation in Pharmacy",
     "num_limit": "70",
     "reg_num": "-999",
-    "teacher": "吳宗軒、王孟廷、林滿玉、黃奇英、陳日榮、林宥欣、姜紹青、東雅惠、陳惠亭、蘇溶真、廖曉偉、陳謄州、黃世宗、紀威光、康照洲、黃文鴻、趙彥欽、曾冠燁",
+    "teacher": "吳宗軒、王孟廷、林滿玉、黃奇英、陳日榮、林宥欣、姜紹青、東雅惠、陳惠亭、蘇溶真、廖曉偉、陳謄州、黃世宗、紀威光、康照洲、黃文鴻、趙彥欽、李宜貞、曾冠燁",
     "time": "M56-YL402[YM]"
   },
   "1151_111919": {
@@ -2060,7 +2060,7 @@
     "name": "中醫概論 Introduction to Chinese Medicine",
     "num_limit": "70",
     "reg_num": "-999",
-    "teacher": "簡采汝、劉茹涵、柯品豪、廖麗蘭、林舜穀",
+    "teacher": "簡采汝、陳美麗、柯品豪、廖麗蘭、林舜穀",
     "time": "F12-YL402[YM]"
   },
   "1151_111922": {
@@ -4360,7 +4360,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "113500",
-    "memo": "限醫學系二年級(含)，上課時間為週二1-2節，為必修，前8週上課，請同學第二節除了環境衛生概論(113501)之外，勿排其他課。電機系、醫學系醫師工程師組請線上上課(連結開學前給)。本課程為應考公共衛生師指定修習科目。",
+    "memo": "(跨校區課程)限醫學系二年級、電機系，上課時間為週二1-2節前8週，地點在陽明校區，請同學第二節除了環境衛生概論(113501)之外，勿排其他課。電機系、醫學系醫師工程師組採同步遠距(連結開學前給)。本課程為應考公共衛生師指定修習科目。",
     "name": "公共衛生概論 Introduction to Public Health",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -4372,7 +4372,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "113501",
-    "memo": "上課時間實際為週二12節後8週，電機系、醫學系醫師工程師組請線上上課(連結開學前給)。本課程為應考公共衛生師指定修習科目。",
+    "memo": "(跨校區課程)地點在陽明校區，上課時間實際為週二12節後8週，電機系、醫學系醫師工程師組採同步遠距(連結開學前給)。本課程為應考公共衛生師指定修習科目。",
     "name": "環境衛生概論 Introduction to Environmental Health",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -4432,7 +4432,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "113506",
-    "memo": "限中醫系二,三年級(含)以上，本課實際上課時間為週二1-2節，後8週，為必修，請同學第一節除了環境衛生概論(113507)之外，勿排其他課。本課程為應考公共衛生師指定修習科目。",
+    "memo": "限中醫系二,三年級(含)以上，本課實際上課時間為週二1-2節，後8週，請同學第一節除了環境衛生概論(113507)之外，勿排其他課。本課程為應考公共衛生師指定修習科目。",
     "name": "公共衛生概論 Introduction to Public Health",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -4444,7 +4444,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "113507",
-    "memo": "限中醫系二,三年級(含)以上，本課實際上課時間為週二1-2節，前8週，為必修，請同學第二節除了公共衛生概論(113506)之外，勿排其他課。本課程為應考公共衛生師指定修習科目。",
+    "memo": "限中醫系二,三年級(含)以上，本課實際上課時間為週二1-2節，前8週，請同學第二節除了公共衛生概論(113506)之外，勿排其他課。本課程為應考公共衛生師指定修習科目。",
     "name": "環境衛生概論 Introduction to Environmental Health",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -4480,7 +4480,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113800",
-    "memo": "陽明校區限醫學系，光復校區限電機系；醫師工程師組請至資訊館CS100上課，分組名單於開學前公告",
+    "memo": "(跨校區課程)限醫學系、電機系，地點在陽明校區，醫師工程師組請至資訊館CS100上課，分組名單於開學前公告",
     "name": "醫學人文導論 Introduction to Medical Humanities",
     "num_limit": "165",
     "reg_num": "-999",
@@ -4516,7 +4516,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113803",
-    "memo": "限醫學系，為使課程品質提升，故修課人數有限。可從「醫學人文與倫理領域-醫學人文類」與「領域課程」中擇一認列。初選第一階段只開放醫學系選課。",
+    "memo": "上課地點為陽明校區，為使課程品質提升，故修課人數有限。可從「醫學人文與倫理領域-醫學人文類」與「領域課程」中擇一認列。初選第一階段只開放醫學系選課。",
     "name": "精神醫學與社會 Psychiatry and the Society",
     "num_limit": "24",
     "reg_num": "-999",
@@ -4528,7 +4528,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113804",
-    "memo": "醫學人文與倫理領域-醫學人文類，限醫學系，為使課程品質提升，故修課人數有限。",
+    "memo": "上課地點為陽明校區，醫學人文與倫理領域-醫學人文類，限醫學系，為使課程品質提升，故修課人數有限。",
     "name": "醫學與哲學 Medicine and Philosophy",
     "num_limit": "25",
     "reg_num": "-999",
@@ -4564,7 +4564,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "113807",
-    "memo": "限醫學系，為使課程品質提升，故修課人數有限。",
+    "memo": "上課地點為陽明校區，限醫學系，為使課程品質提升，故修課人數有限。",
     "name": "臺語人際溝通 Taiwanese (language) and Interpersonal Communication",
     "num_limit": "16",
     "reg_num": "-999",
@@ -5829,7 +5829,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳信任、楊振昌、林明薇、黃心苑、周穎政、陳娟瑜、莊宜芳、潘文驥、東雅惠、劉家軒",
-    "time": "Tn5-"
+    "time": "Rn-"
   },
   "1151_130220": {
     "code": "MDPH30123",
@@ -5913,7 +5913,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳信任、楊振昌、林明薇、黃心苑、周穎政、陳娟瑜、莊宜芳、潘文驥、東雅惠、劉家軒",
-    "time": "Tn5-"
+    "time": "Rn-"
   },
   "1151_130228": {
     "code": "MDPH30124",
@@ -6788,7 +6788,7 @@
     "name": "工業與環境毒物  Industrial and Environmental Toxicology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李宥萱",
+    "teacher": "李宥萱、廖伯霖、賴盈宏、劉宗榮",
     "time": "W56-YS105[YM]"
   },
   "1151_130900": {
@@ -7844,7 +7844,7 @@
     "name": "口腔癌基因體學 Genomic Studies in Oral Cancers",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林姝君、涂曦丰、黎萬君、洪凱風、林榮辰、張婷菡、洪佩詩、周忠憲",
+    "teacher": "林姝君、涂曦丰、黎萬君、洪凱風、林榮辰、張婷菡、陳琦媛、洪佩詩、周忠憲",
     "time": "F567-YD302[YM]"
   },
   "1151_131503": {
@@ -7904,7 +7904,7 @@
     "name": "臨床細胞治療導論 Clinical Cell Therapy",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "張婷菡",
+    "teacher": "張婷菡、黎萬君、吳靜宜、洪凱風",
     "time": "W34-YD415[YM]"
   },
   "1151_131508": {
@@ -7917,7 +7917,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "羅正汎",
-    "time": "T78-YD415[YM]"
+    "time": "T56-YD415[YM]"
   },
   "1151_131509": {
     "code": "DEOB30040",
@@ -9150,7 +9150,7 @@
     "id": "132300",
     "memo": "",
     "name": "醫學工程概論 Introduction to Biomedical Engineering",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "醫工學系碩、江惠華、詹家泰、陳右穎、林峻立、江明彰、駱俊良、賴穎暉、劉承揚、劉大中、葛宗融、羅俊民、許如秀、陳維聆",
     "time": "T12R12-YX501[YM]"
@@ -11027,18 +11027,6 @@
     "teacher": "林照雄",
     "time": "M78-YK104[YM]"
   },
-  "1151_133014": {
-    "code": "LSGS30021",
-    "credit": "1.00",
-    "hours": "2.00",
-    "id": "133014",
-    "memo": "博二、博三每學年可選修",
-    "name": "生命科學教學 Teaching practice on Biology",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "羅清維、陳俊銘、俞震亞、林崇智、金翠庭、李敏嘉、陳嘉霖、袁維謙",
-    "time": "Sn-"
-  },
   "1151_133015": {
     "code": "LSGS30051",
     "credit": "3.00",
@@ -11488,7 +11476,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "133603",
-    "memo": "[English Medium Course]1.原則上使用英語授課。\n2.本課程原則上僅限本校生命科學院學生(含大學部)及藥物科學院生物藥學研究所學生修習,其他學生如欲修課,需經本院審核同意。 \n3.不開放校際選課。\n4.本課程於傳甲二樓演講廳上課\n5.演講資訊如有異動，請以各場次公告為準。",
+    "memo": "[English Medium Course]1.原則上使用英語授課。\n2.本課程原則上僅限本校生命科學院學生(含大學部)修習,其他學生如欲修課,需經本院審核同意。 \n3.不開放校際選課。\n4.本課程於傳甲二樓演講廳上課\n5.演講資訊如有異動，請以各場次公告為準。",
     "name": "生命科學院-生物醫學講座 Special lectures on biomedicine",
     "num_limit": "180",
     "reg_num": "-999",
@@ -12117,7 +12105,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "鄭夙芬、黃升苗、黃莉婷",
-    "time": "F78-YN603[YM]"
+    "time": "F34-YN603[YM]"
   },
   "1151_141403": {
     "code": "NSDN30008",
@@ -13830,7 +13818,7 @@
     "id": "161049",
     "memo": "依課務組選課期程逐階調整課程限修人數。",
     "name": "安全衛生通識教育 General Knowledge of Safety Health",
-    "num_limit": "20",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "張榮偉、黃鈺芳、吳威德",
     "time": "W78-YB101[YM]"
@@ -13938,7 +13926,7 @@
     "id": "161060",
     "memo": "",
     "name": "從臺海實例看國際關係 Taiwan’s International Relations and Historic Events",
-    "num_limit": "15",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "王惠民",
     "time": "M12-YT202[YM]"
@@ -15016,7 +15004,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310105",
-    "memo": "",
+    "memo": "模組 B：策略傳播",
     "name": "公關策略與媒體企劃 Public Relations and Strategic Planning",
     "num_limit": "30",
     "reg_num": "-999",
@@ -15028,7 +15016,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310106",
-    "memo": "",
+    "memo": "傳科系專業素養選修",
     "name": "多元文化與傳播 Multi-cultures and Communication",
     "num_limit": "60",
     "reg_num": "-999",
@@ -15076,7 +15064,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310110",
-    "memo": "修課至HK215",
+    "memo": "1. 修課至HK215\n2. 模組 A：媒體創作",
     "name": "虛擬影棚製作 Video Production of Virtual Studio",
     "num_limit": "30",
     "reg_num": "-999",
@@ -15100,7 +15088,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310112",
-    "memo": "",
+    "memo": "模組 B：策略傳播",
     "name": "傳播數據探勘 Communication Data Analytics",
     "num_limit": "25",
     "reg_num": "-999",
@@ -15124,9 +15112,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310115",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]\n傳科系專業素養選修",
     "name": "閱聽人與流行文化 Audiences and Popular Culture",
-    "num_limit": "35",
+    "num_limit": "25",
     "reg_num": "-999",
     "teacher": "陳維平",
     "time": "T234-HK104[LJ]"
@@ -15148,7 +15136,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310117",
-    "memo": "",
+    "memo": "模組 C：數位設計",
     "name": "推測設計、科技與社會 Speculative Design, Technology and Society",
     "num_limit": "20",
     "reg_num": "-999",
@@ -15160,7 +15148,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310118",
-    "memo": "",
+    "memo": "傳科系專業素養選修",
     "name": "全球流行文化 Global Popular Culture",
     "num_limit": "40",
     "reg_num": "-999",
@@ -15172,7 +15160,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310119",
-    "memo": "",
+    "memo": "模組 A：媒體創作",
     "name": "文化行動與傳播 Cultural Activism",
     "num_limit": "20",
     "reg_num": "-999",
@@ -15184,7 +15172,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310120",
-    "memo": "",
+    "memo": "模組 C：數位設計",
     "name": "互動體驗設計與傳播 Interactive Experience Design and Communication",
     "num_limit": "20",
     "reg_num": "-999",
@@ -15246,7 +15234,7 @@
     "id": "330002",
     "memo": "",
     "name": "榮格與心靈 Jung and Psyche",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "劉大和",
     "time": "W234-HK207[LJ]"
@@ -18208,7 +18196,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515101",
-    "memo": "通識校基本/基本素養-量性推理/通識核心/通識跨院/核心通識-社會與經濟 1.電機學院大三、大四優先 2.電機學院學生可列為跨院基本素養通識課程。應數.傳科系及管理學院不同意所屬學生採計通識學分",
+    "memo": "通識校基本/基本素養-量性推理/通識核心/通識跨院/核心通識-社會與經濟 1.電機系大三、大四優先 2.電機學院學生可列為跨院基本素養通識課程。應數.傳科系及管理學院不同意所屬學生採計通識學分",
     "name": "統計學 Statistics",
     "num_limit": "110",
     "reg_num": "-999",
@@ -18220,7 +18208,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515102",
-    "memo": "通識校基本/基本素養-量性推理/通識核心/通識跨院/核心通識-社會與經濟 1.電機學院大三、大四優先 2.電機學院學生可列為跨院基本素養通識課程。應數.傳科系及管理學院不同意所屬學生採計通識學分。另外1小時(第3節)以非同步上課方式。",
+    "memo": "通識校基本/基本素養-量性推理/通識核心/通識跨院/核心通識-社會與經濟 1.電機系大三、大四優先 2.電機學院學生可列為跨院基本素養通識課程。應數.傳科系及管理學院不同意所屬學生採計通識學分。另外1小時(第3節)以非同步上課方式。",
     "name": "統計學 Statistics",
     "num_limit": "110",
     "reg_num": "-999",
@@ -19029,7 +19017,7 @@
     "num_limit": "70",
     "reg_num": "-999",
     "teacher": "半導體系",
-    "time": "W678-SC110[GF]"
+    "time": "W678-EE132[GF]"
   },
   "1151_515216": {
     "code": "EEDM10016",
@@ -25461,7 +25449,7 @@
     "num_limit": "10",
     "reg_num": "-999",
     "teacher": "黃育綸",
-    "time": "F234n56-A301[GF]"
+    "time": "F34n-A301[GF]"
   },
   "1151_535303": {
     "code": "EECN30072",
@@ -27814,18 +27802,6 @@
     "reg_num": "-999",
     "teacher": "方永壽",
     "time": "T567-EB402[GF]"
-  },
-  "1151_536216": {
-    "code": "ENCV30104",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "536216",
-    "memo": "[English Medium Course]大三、大四、研究所合開。",
-    "name": "大地工程的風險評估 Geotechnical Risk Analysis",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "羅文江",
-    "time": "F234-EB403[GF]"
   },
   "1151_536218": {
     "code": "ENCV30026",
@@ -30501,7 +30477,7 @@
     "num_limit": "60",
     "reg_num": "-999",
     "teacher": "黃松茂",
-    "time": "R567-"
+    "time": "R567-AB102[GF]"
   },
   "1151_537910": {
     "code": "LWLW30303",
@@ -31162,18 +31138,6 @@
     "reg_num": "-999",
     "teacher": "Academia Sinica",
     "time": "T56R2-"
-  },
-  "1151_546859": {
-    "code": "SCSC30037",
-    "credit": "4.00",
-    "hours": "4.00",
-    "id": "546859",
-    "memo": "[English Medium Course]台大化學系R121, R121,Department of Chemistry,NTU",
-    "name": "進階化學生物(一) Discussion in Advanced Chemical Biology Ⅰ",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "Academia Sinica",
-    "time": "M56R56-"
   },
   "1151_546860": {
     "code": "SCSC30027",
@@ -32553,7 +32517,7 @@
     "num_limit": "50",
     "reg_num": "-999",
     "teacher": "郭詠華",
-    "time": "Wabc-"
+    "time": "Wabc-A302[GF]"
   },
   "1151_557909": {
     "code": "LWLW30283",
@@ -32838,7 +32802,7 @@
     "id": "559008",
     "memo": "上課地點：新竹光復校區管理一館光寶廳M115",
     "name": "歐洲精品產業管理 European Luxury Industry Management",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "張家齊、郭國泰、黃寬丞、鍾惠民",
     "time": "Ucd-M115[GF]"

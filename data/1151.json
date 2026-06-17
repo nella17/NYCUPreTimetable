@@ -1053,7 +1053,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳皇銘",
-    "time": "T56-SC151[GF]"
+    "time": "T56-EDB06[GF]"
   },
   "1151_111501": {
     "code": "DEDE10078",
@@ -1113,7 +1113,7 @@
     "num_limit": "50",
     "reg_num": "-999",
     "teacher": "林元敏、季麟揚、林嘉澍、林宥成、王鼎涵、賴玉玲、吳政憲、劉正芬、陳彥廷、蘇明圳、何怡青、吳姿瑩、張志麟、劉妍君",
-    "time": "R56-YD214[YM]"
+    "time": "R56-EB115[GF],R56-YD415[YM]"
   },
   "1151_111506": {
     "code": "DEDE10082",
@@ -2060,7 +2060,7 @@
     "name": "中醫概論 Introduction to Chinese Medicine",
     "num_limit": "70",
     "reg_num": "-999",
-    "teacher": "簡采汝、陳美麗、柯品豪、廖麗蘭、林舜穀",
+    "teacher": "簡采汝、陳美麗、柯品豪、廖麗蘭、林舜穀、羅惠郁",
     "time": "F12-YL402[YM]"
   },
   "1151_111922": {
@@ -4184,7 +4184,7 @@
     "name": "生理學實驗 Physiology Laboratory",
     "num_limit": "126",
     "reg_num": "-999",
-    "teacher": "阮琪昌、陳政育、吳鈺琳、李怡萱、林惠菁、張原翊、簡千栩、吳莉玲、唐德成、巫俊杉",
+    "teacher": "阮琪昌、李怡萱、林惠菁、張原翊、簡千栩、吳莉玲、唐德成、巫俊杉",
     "time": "W5678-YED214[YM]"
   },
   "1151_113100": {
@@ -6717,7 +6717,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "潘文驥、李宥萱",
-    "time": "F78-YS105[YM]"
+    "time": "W4n-YS105[YM]"
   },
   "1151_130810": {
     "code": "MDEO30128",
@@ -6753,7 +6753,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "楊振昌、潘文驥、張榮偉",
-    "time": "Wn-YS415[YM]"
+    "time": "W4n-YS419[YM]"
   },
   "1151_130813": {
     "code": "MDEO30132",
@@ -22280,7 +22280,7 @@
     "name": "金融科技跨領域專題(一) FinTech Cross-disciplinary Projects (I)",
     "num_limit": "0",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "資財系",
     "time": ""
   },
   "1151_519000": {
@@ -22640,7 +22640,7 @@
     "name": "近代物理 Modern physics",
     "num_limit": "70",
     "reg_num": "-999",
-    "teacher": "陳永富",
+    "teacher": "許譽馨",
     "time": "M89a-SC162[GF]"
   },
   "1151_520010": {
@@ -22653,7 +22653,7 @@
     "num_limit": "70",
     "reg_num": "-999",
     "teacher": "鄭信良",
-    "time": "R234-SC109[GF]"
+    "time": "R123-SC109[GF]"
   },
   "1151_520011": {
     "code": "XDEP20023",
@@ -25245,7 +25245,7 @@
     "num_limit": "120",
     "reg_num": "-999",
     "teacher": "吳易忠",
-    "time": "W78-ED219[GF],F56-EDB26[GF]"
+    "time": "R56-ED116[GF],W78-ED219[GF]"
   },
   "1151_535223": {
     "code": "EEIE30021",
@@ -25444,7 +25444,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535302",
-    "memo": "Lab:EE616 *電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程) 【AI學程專業選修】",
+    "memo": "上課地點：EE616。 *電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程) 【AI學程專業選修】",
     "name": "嵌入式作業系統 Embedded Operating Systems ",
     "num_limit": "10",
     "reg_num": "-999",
@@ -25750,18 +25750,6 @@
     "reg_num": "-999",
     "teacher": "伍紹勳",
     "time": "T567-ED201[GF]"
-  },
-  "1151_535361": {
-    "code": "EECM30063",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "535361",
-    "memo": "【AI學程專業選修】、「資安學程必選修課程」",
-    "name": "消息理論 Information Theory",
-    "num_limit": "60",
-    "reg_num": "-999",
-    "teacher": "黃昱智",
-    "time": "R234-EDB06[GF]"
   },
   "1151_535362": {
     "code": "EECM30064",
@@ -29819,6 +29807,30 @@
     "teacher": "田凱文",
     "time": "F234-MB506[GF]"
   },
+  "1151_537409": {
+    "code": "MGEM20024",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "537409",
+    "memo": "",
+    "name": "系統工程 System Engineering",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "陳宏毅",
+    "time": "R567-MB414[GF]"
+  },
+  "1151_537410": {
+    "code": "MGEM30088",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "537410",
+    "memo": "",
+    "name": "生成式 AI 系統設計與實務 Design and Practice of Generative AI Systems",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "陳華",
+    "time": "Mabc-MB405[GF]"
+  },
   "1151_537600": {
     "code": "MGIM30001",
     "credit": "1.00",
@@ -30606,7 +30618,7 @@
     "id": "539001",
     "memo": "1.前瞻半導體研究所優先 2.前瞻所丙組專業選修課程(適用110~112學年度入學)；乙組專業選修課程(適用113~115學年度入學)\n3.Final project (ADC/Wireline 二擇一, 以2~3人一組為原則)\n4.視選課情況開放加選 (上限 10人)\n5.限研究生選修",
     "name": "類比混合訊號電路設計特論 Special topics in analog mixed-signal circuit design",
-    "num_limit": "70",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "許雲翔、蕭振宇",
     "time": "F678-EC122[GF]"

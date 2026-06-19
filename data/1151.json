@@ -739,7 +739,7 @@
     "memo": "醫學系學生皆可選修，限通過本系國外暑期專題研究甄選會同學選修，暑期至本系合作之國外指導老師實驗室做專題研究；期初由系辦確認加選本堂課。\n※請留意：需「參加」並「通過」醫師科研學分學程甄選會，畢業才能申請「修畢證明」。",
     "name": "醫學生國外專題研究(一) Overseas Research Program for Medical Students (1)",
     "num_limit": "0",
-    "reg_num": "0",
+    "reg_num": "30",
     "teacher": "兵岳忻",
     "time": ""
   },
@@ -1722,7 +1722,7 @@
     "id": "111814",
     "memo": "",
     "name": "護理學導論 Introduction to Nursing",
-    "num_limit": "50",
+    "num_limit": "0",
     "reg_num": "1",
     "teacher": "楊秋月、黃升苗、鄭夙芬、陳俞琪、胡慧蘭、黃淑鶴、楊曼華、陳律言、林麗華、程尤美",
     "time": "F78-YN416[YM]"
@@ -4063,7 +4063,7 @@
     "memo": "生命科學院脩遠課程，全校大學生修讀皆可計入核心學分。\n陽明校區學生加選請洽生命科學系暨基因體科學研究所辦公室。",
     "name": "健康與疾病通論 General concepts of health and disease",
     "num_limit": "80",
-    "reg_num": "80",
+    "reg_num": "81",
     "teacher": "陳俊銘、俞震亞、陳紀如、李曉暉、可文亞、高正彥",
     "time": "F56-A302[GF],F56-YT305[YM]"
   },
@@ -5829,7 +5829,7 @@
     "num_limit": "9999",
     "reg_num": "8",
     "teacher": "陳信任、楊振昌、林明薇、黃心苑、周穎政、陳娟瑜、莊宜芳、潘文驥、東雅惠、劉家軒",
-    "time": "R4n-YB101[YM]"
+    "time": "Rn-YB101[YM]"
   },
   "1151_130220": {
     "code": "MDPH30123",
@@ -5913,7 +5913,7 @@
     "num_limit": "9999",
     "reg_num": "0",
     "teacher": "陳信任、楊振昌、林明薇、黃心苑、周穎政、陳娟瑜、莊宜芳、潘文驥、東雅惠、劉家軒",
-    "time": "R4n-YB101[YM]"
+    "time": "Rn-YB101[YM]"
   },
   "1151_130228": {
     "code": "MDPH30124",
@@ -12112,7 +12112,7 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "141402",
-    "memo": "[English Medium Course]全英語授課，博士班學生必選，須修兩次，開放隨班附讀。",
+    "memo": "[English Medium Course]全英語授課，博士班學生必選，須修兩次，開放隨班附讀。\n\n限護理學系博士班2年級以上選修",
     "name": "研究專論 Seminar",
     "num_limit": "20",
     "reg_num": "12",
@@ -16963,7 +16963,7 @@
     "memo": "本課程人數上限為25人，依初選階段逐階調整，跨域學程學生優先。\n",
     "name": "音樂科技導論 Introduction to Music Technology",
     "num_limit": "25",
-    "reg_num": "13",
+    "reg_num": "14",
     "teacher": "林明學",
     "time": "W34-HC103[GF]"
   },
@@ -19531,7 +19531,7 @@
     "memo": "外系生請於開學上網加選；資工系學生優先選課；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；本系生優先權順序：3年級，4年級，2年級，1年級",
     "name": "作業系統概論 Introduction to Operating Systems",
     "num_limit": "70",
-    "reg_num": "70",
+    "reg_num": "75",
     "teacher": "張立平",
     "time": "W34-ED117[GF]"
   },
@@ -22015,7 +22015,7 @@
     "memo": "限60人，工工系學生優先，可旁聽",
     "name": "工程經濟 Engineering Economy",
     "num_limit": "60",
-    "reg_num": "61",
+    "reg_num": "62",
     "teacher": "田凱文",
     "time": "R567-MB506[GF]"
   },
@@ -22087,7 +22087,7 @@
     "memo": "管院管理基礎課程；管院學生優先選課；上限85人；主開大三工管系、輔開管理學院、管科系、運管系、資財系。工管系大三必修。運管系學生請依入學年度適用之必修科目表規定修習管理基礎課程。",
     "name": "生產與作業管理 Production and Operation Management",
     "num_limit": "85",
-    "reg_num": "85",
+    "reg_num": "90",
     "teacher": "王志軒",
     "time": "W234-MB520[GF]"
   },
@@ -25183,7 +25183,7 @@
     "memo": "[English Medium Course](1)開學後加退選階段：開放外系及外校選課；開放填寫google加簽表單且依規定加簽。加簽方式會在第一堂課時說明並提供表單，欲加簽同學第一堂課請務必要來。",
     "name": "半導體元件可靠度及其失效物理 Reliability and Failure Physics of Semiconductor Devices",
     "num_limit": "40",
-    "reg_num": "35",
+    "reg_num": "36",
     "teacher": "吳添立",
     "time": "T789-EDB26[GF]"
   },
@@ -25795,7 +25795,7 @@
     "memo": "第一次上課講義領取 請同學注意 E3 公告",
     "name": "無線隨意網路 Wireless Ad  Hoc Networks",
     "num_limit": "25",
-    "reg_num": "23",
+    "reg_num": "24",
     "teacher": "林亭佑",
     "time": "M234-ED713[GF],M234-EDB26[GF]"
   },
@@ -29743,7 +29743,7 @@
     "memo": "[English Medium Course]限30人，不開放社會人士選讀",
     "name": "資料採礦 Data Mining",
     "num_limit": "30",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "王志軒",
     "time": "W567-MB415[GF]"
   },
@@ -34987,7 +34987,7 @@
     "memo": "第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課",
     "name": "韓文(二) Korean (II)",
     "num_limit": "35",
-    "reg_num": "35",
+    "reg_num": "36",
     "teacher": "安宣映",
     "time": "W34-A214[GF]"
   },
@@ -38335,7 +38335,7 @@
     "memo": "大學部1-4年級",
     "name": "企業永續策略與管理 Corporate Sustainability Strategy and Management",
     "num_limit": "65",
-    "reg_num": "65",
+    "reg_num": "75",
     "teacher": "徐肇聰",
     "time": "R9ab-AB102[GF]"
   },
@@ -38347,7 +38347,7 @@
     "memo": "大學部1-4年級",
     "name": "企業永續報告書編製實務 Practice of Editing Corporate Sustainability Report",
     "num_limit": "50",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "徐肇聰",
     "time": "F9ab-A302[GF]"
   },

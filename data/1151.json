@@ -16903,7 +16903,7 @@
     "memo": "本課程人數上限為40人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "影像合成 Image Synthesis",
     "num_limit": "40",
-    "reg_num": "20",
+    "reg_num": "21",
     "teacher": "羅曉愉",
     "time": "M56-HC103[GF]"
   },
@@ -17119,7 +17119,7 @@
     "memo": "[English Medium Course]本課程人數上限為14人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "爵士和聲、即興與合奏 Jazz Harmony, Improvisation and Ensemble",
     "num_limit": "14",
-    "reg_num": "7",
+    "reg_num": "8",
     "teacher": "林明學",
     "time": "T789-EE115[GF]"
   },
@@ -19807,7 +19807,7 @@
     "memo": "[English Medium Course]\n機械系主開，英文授課，機械系學生應優先選擇本課程。",
     "name": "工程數學（一） Engineering Mathematics(Ⅰ)",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "66",
     "teacher": "張瑞永",
     "time": "T2W34-EE106[GF]"
   },
@@ -20215,7 +20215,7 @@
     "memo": "有幾周會安排EE527電腦教室上課。開大學部1~4年級。",
     "name": "軟實力的哲學 The philosophy of soft skills",
     "num_limit": "30",
-    "reg_num": "31",
+    "reg_num": "32",
     "teacher": "張瑞永",
     "time": "T34-EE106[GF]"
   },
@@ -38335,7 +38335,7 @@
     "memo": "大學部1-4年級",
     "name": "企業永續策略與管理 Corporate Sustainability Strategy and Management",
     "num_limit": "65",
-    "reg_num": "75",
+    "reg_num": "87",
     "teacher": "徐肇聰",
     "time": "R9ab-AB102[GF]"
   },

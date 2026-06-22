@@ -59,6 +59,30 @@
     "teacher": "張宏宇",
     "time": "S234567U234567-HK114[LJ]"
   },
+  "114X_430000": {
+    "code": "BTBT30210",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "430000",
+    "memo": "上課日期:8/10-8/14(9:00-12:00)、8/17-8/19(9:00-12:00)、8/20-8/21(9:00-13:00)。遠距課程。",
+    "name": "擴增實境模擬動物實驗課程 Augmented Reality Simulated Animal Experimentation Course",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "麥如村、何奕儒",
+    "time": ""
+  },
+  "114X_430001": {
+    "code": "BTBT30211",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "430001",
+    "memo": "上課日期:7/20-7/21(9:00-12:00,13:30-17:30)、7/22-7/24(9:00-12:00,13:30-16:30)。遠距課程。",
+    "name": "智能化生醫科技與微流體3R應用 Intelligent Biomedical Technology and Microfluidic 3R Applications",
+    "num_limit": "30",
+    "reg_num": "0",
+    "teacher": "李孟學、林芷歆",
+    "time": "F567-"
+  },
   "114X_515100": {
     "code": "EEEC10026",
     "credit": "3.00",
@@ -466,6 +490,18 @@
     "reg_num": "0",
     "teacher": "謝承利",
     "time": "MabcWabc-SC109[GF]"
+  },
+  "114X_520006": {
+    "code": "XDEP20019",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "520006",
+    "memo": "",
+    "name": "專題實作 Special topic implementation",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "學士後電子與光子",
+    "time": ""
   },
   "114X_535200": {
     "code": "EEIE30039",

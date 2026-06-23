@@ -4892,7 +4892,7 @@
     "name": "生命科學實驗 Life Science Laboratory",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李曉暉、李勇陞、鄭浩民、陳儀聰",
+    "teacher": "李曉暉、李勇陞、鄭浩民、陳儀聰、張崇瑞",
     "time": "R5678-YED109[YM]"
   },
   "1151_114101": {
@@ -6056,7 +6056,7 @@
     "name": "專題討論(英) Seminar",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "王先逸、鄭瓊娟、林坤陽",
+    "teacher": "王先逸、鄭瓊娟、李學德、林坤陽",
     "time": "T34-YT204[YM]"
   },
   "1151_130407": {
@@ -6092,7 +6092,7 @@
     "name": "解剖學 (英) Anatomy",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "侯珮珊、鄭瓊娟、王先逸、郭曉縈、蔣偉程、林坤陽",
+    "teacher": "林坤陽、鄭瓊娟、侯珮珊、王先逸、郭曉縈、蔣偉程",
     "time": "W234-YEA100[YM]"
   },
   "1151_130410": {
@@ -11852,7 +11852,7 @@
     "name": "藥事經濟特論 Advanced Readings in Pharmacoeconomics",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "蔡憶文、高純琇、黃文鴻",
+    "teacher": "蔡憶文、黃文鴻",
     "time": "T789-YN613[YM]"
   },
   "1151_140501": {
@@ -13209,6 +13209,18 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳盈如、楊淑華",
+    "time": "R12345678-"
+  },
+  "1151_150211": {
+    "code": "NSDN30084",
+    "credit": "4.00",
+    "hours": "8.00",
+    "id": "150211",
+    "memo": "",
+    "name": "進階家庭專科護理實習III Advanced Family Nurse Practitioner Practicum III",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "童恒新",
     "time": "R12345678-"
   },
   "1151_150300": {
@@ -15417,7 +15429,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "柯朝欽",
-    "time": "T567-HK318[LJ]"
+    "time": "M567-HK318[LJ]"
   },
   "1151_350000": {
     "code": "HKSC30006",
@@ -19554,7 +19566,7 @@
     "id": "515516",
     "memo": "外系生請於開學上網加選；學士班七大主題學程；資工系學生優先選課；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；本系生優先權順序：3、4年級，2年級，1年級",
     "name": "網路程式設計概論 Intro. to Network Programming",
-    "num_limit": "70",
+    "num_limit": "80",
     "reg_num": "-999",
     "teacher": "嚴力行",
     "time": "R34-EC114[GF]"
@@ -19566,7 +19578,7 @@
     "id": "515517",
     "memo": "外系生請於開學上網加選；學士班七大主題學程；資工系學生優先選課；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously];主開3年級；本系生優先權順序：3、4年級，2年級，1年級",
     "name": "網路程式設計概論 Intro. to Network Programming",
-    "num_limit": "70",
+    "num_limit": "80",
     "reg_num": "-999",
     "teacher": "袁賢銘",
     "time": "R34-EC122[GF]"
@@ -20850,7 +20862,7 @@
     "id": "516602",
     "memo": "",
     "name": "電磁學（一） Electromagnetics (I)",
-    "num_limit": "75",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "張文豪",
     "time": "W345-SC160[GF]"
@@ -20970,7 +20982,7 @@
     "id": "516612",
     "memo": "",
     "name": "基礎光學 Introduction to Optics",
-    "num_limit": "9999",
+    "num_limit": "75",
     "reg_num": "-999",
     "teacher": "林烜輝",
     "time": "W234-SC162[GF]"
@@ -21090,7 +21102,7 @@
     "id": "516622",
     "memo": "[English Medium Course]",
     "name": "電磁學（一） Electromagnetics (I)",
-    "num_limit": "70",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "鍾介文",
     "time": "W34F2-SC158[GF]"
@@ -25806,7 +25818,7 @@
     "id": "535364",
     "memo": "第一次上課請同學到 B26 教室。",
     "name": "無線隨意網路 Wireless Ad  Hoc Networks",
-    "num_limit": "25",
+    "num_limit": "35",
     "reg_num": "-999",
     "teacher": "林亭佑",
     "time": "M234-ED713[GF],M234-EDB26[GF]"
@@ -26356,7 +26368,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535509",
-    "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]資訊學院優先(不開放在職專班網路選課)。1.本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級。",
+    "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]資訊學院優先(不開放在職專班網路選課)。1.本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&amp;1年級。本系學生不可作為本校通識核心課程(基本素養課程/領域課程)",
     "name": "腦機介面系統 Brain-Computer Interface",
     "num_limit": "30",
     "reg_num": "-999",
@@ -33309,7 +33321,7 @@
     "num_limit": "0",
     "reg_num": "-999",
     "teacher": "邱德亮",
-    "time": "M56-HB210[GF]"
+    "time": "F34-HB210[GF]"
   },
   "1151_561041": {
     "code": "GECG10039",
@@ -33808,7 +33820,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561501",
-    "memo": "不接受傳科系學生修讀，課程原則上不接受加簽，請隨時留意網路選課系統有無人退選。本課程為非同步線上教學課程，課程營運以網路授課為主。教學團隊將於課程開始前於 e3平台上進行課程影音上傳、測驗與討論區設定等課程建置。課程開始後，修課學生需在e3上完成教學活動。",
+    "memo": "不接受傳科系學生修讀。課程原則上不接受加簽，請隨時留意網路選課系統有無人退選。本課程為非同步線上教學課程，課程營運以網路授課為主。教學團隊將於課程開始前於 e3平台上進行課程影音上傳、測驗與討論區設定等課程建置。課程開始後，修課學生需在e3上完成教學活動。",
     "name": "故事創作與影像敘事 Storytelling and Narrative",
     "num_limit": "40",
     "reg_num": "-999",

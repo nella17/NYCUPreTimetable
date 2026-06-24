@@ -5420,7 +5420,7 @@
     "name": "生醫科學與藥物發展的新知與前瞻 New frontiers in biomedical sciences and pharmaceutical development",
     "num_limit": "35",
     "reg_num": "-999",
-    "teacher": "嚴偉哲、嚴如玉、楊智傑、黃自強、嚴錦城、林映彤、戚謹文、劉宗榮、李德章、葉翰宜、葉俊廷",
+    "teacher": "嚴偉哲、嚴如玉、黃自強、嚴錦城、程曉杰、林映彤、戚謹文、李德章、葉翰宜、蔡秉興、葉俊廷",
     "time": "Tab-YR101[YM]"
   },
   "1151_130106": {
@@ -9738,7 +9738,7 @@
     "id": "132425",
     "memo": "",
     "name": "動作系統症候群之物理治療處置：上半身區域的臨床應用 Physical Therapy Management of Movement System Syndromes: Application to the Upper Quarter",
-    "num_limit": "30",
+    "num_limit": "10",
     "reg_num": "-999",
     "teacher": "王子娟、李士茹",
     "time": "Syz-YB601[YM]"
@@ -13674,7 +13674,7 @@
     "id": "161034",
     "memo": "依課務組選課期程逐階調整課程限修人數。",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
-    "num_limit": "15",
+    "num_limit": "10",
     "reg_num": "-999",
     "teacher": "徐詩偉",
     "time": "F78-YX202[YM]"
@@ -15189,7 +15189,7 @@
     "num_limit": "23",
     "reg_num": "-999",
     "teacher": "戴瑜慧",
-    "time": "R234-HK105[LJ]"
+    "time": "R234-A315[GF]"
   },
   "1151_310120": {
     "code": "HKCT20032",
@@ -18438,7 +18438,7 @@
     "id": "515120",
     "memo": "",
     "name": "自動控制系統 Automatic Control Systems",
-    "num_limit": "80",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "吳炳飛",
     "time": "M2W34-EE623[GF]"
@@ -19470,7 +19470,7 @@
     "id": "515508",
     "memo": "[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；資工系學生優先選課；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "計算機網路概論 Intro. to Computer Networks",
-    "num_limit": "80",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "蕭旭峰",
     "time": "T56-EC114[GF]"
@@ -19482,7 +19482,7 @@
     "id": "515509",
     "memo": "[English Medium Course]外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；資工系學生優先選課；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "計算機網路概論 Intro. to Computer Networks",
-    "num_limit": "80",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "待聘",
     "time": "T56-ED117[GF]"
@@ -21244,7 +21244,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "516711",
-    "memo": "",
+    "memo": "[English Medium Course]",
     "name": "基礎圖論 Fundamental Graph Theory",
     "num_limit": "40",
     "reg_num": "-999",
@@ -22914,7 +22914,7 @@
     "id": "520033",
     "memo": "",
     "name": "資料分析與機器學習 Data analysis and machine learning",
-    "num_limit": "9999",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "杜岳錡",
     "time": "T234-SC110[GF]"
@@ -25101,7 +25101,7 @@
     "num_limit": "70",
     "reg_num": "-999",
     "teacher": "侯拓宏",
-    "time": "M34-ED101[GF],W7-EDB26[GF]"
+    "time": "M234-ED101[GF]"
   },
   "1151_535208": {
     "code": "EEIE30016",

@@ -3955,7 +3955,7 @@
     "memo": "選修者限已修讀過科學文獻研讀與分析(上)，並經授課教師同意。分組上課，上課教室為傳甲101和守仁102",
     "name": "論文閱讀與分析方法(上) Paper Reading and Analysis,1st semester",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "孫維欣、林崇智、陳儀聰、藍昇輝",
     "time": "T56-YK101[YM],T56-YR102[YM]"
   },
@@ -4039,7 +4039,7 @@
     "memo": "大四導師時間，時間地點另行安排",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "52",
+    "reg_num": "51",
     "teacher": "陳儀聰、孫維欣、林崇智、藍昇輝、翁雨蕙",
     "time": ""
   },
@@ -8468,7 +8468,7 @@
     "name": "衛生行政與健康保險 Health Policy and Health Insurance",
     "num_limit": "35",
     "reg_num": "25",
-    "teacher": "黃世宗、李佳琪、李玉春、楊靖慧、廖熏香、蔡淑鈴、祝健芳、李巧玲、諶立中、許銘能、白姍綺、李佩芸、徐于婷",
+    "teacher": "黃世宗、李佳琪、李玉春、楊靖慧、黃彥芳、廖熏香、蔡淑鈴、祝健芳、李巧玲、諶立中、許銘能、白姍綺、李佩芸、徐于婷",
     "time": "R56-YK533[YM]"
   },
   "1151_132009": {
@@ -12643,7 +12643,7 @@
     "memo": "1.本課程安排於周末上課，上課時間另行通知，將與EMBA學生一起上課。\n2.本課程歡迎大三(含)以上學生修課。",
     "name": "生醫產業趨勢 New Developments in Biotech Industry",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "2",
     "teacher": "蔡有光",
     "time": "Uyz1234n56789-YR101[YM],U1234n56789-YR105[YM]"
   },
@@ -15813,7 +15813,7 @@
     "num_limit": "30",
     "reg_num": "4",
     "teacher": "羅惟正",
-    "time": "T678-BI304[BA]"
+    "time": "T678-CS-PC3[GF]"
   },
   "1151_410026": {
     "code": "BTBT10062",
@@ -22063,7 +22063,7 @@
     "memo": "工工系學生優先",
     "name": "工業工程與管理實務 Industrial Practice",
     "num_limit": "9999",
-    "reg_num": "79",
+    "reg_num": "78",
     "teacher": "劉建良",
     "time": "T567-MB506[GF]"
   },
@@ -24988,9 +24988,9 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535108",
-    "memo": "授課老師：方振洲",
+    "memo": "",
     "name": "系統工程 Systems Engineering",
-    "num_limit": "9999",
+    "num_limit": "50",
     "reg_num": "21",
     "teacher": "方振洲",
     "time": "Mabc-CS100[GF]"
@@ -25003,7 +25003,7 @@
     "memo": "",
     "name": "電子專題研討(固態組) Seminar on Electronics-Solid State Electronics",
     "num_limit": "120",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "林聖迪",
     "time": "T56-EDB26[GF]"
   },
@@ -25039,7 +25039,7 @@
     "memo": "僅開放電子所學生選課（預備研究生洽承辦人加選）",
     "name": "專題研究 Graduate Research",
     "num_limit": "9999",
-    "reg_num": "243",
+    "reg_num": "242",
     "teacher": "電子所",
     "time": ""
   },
@@ -25135,7 +25135,7 @@
     "memo": "",
     "name": "積體電路技術(一) Integrated Circuit Technology (I)",
     "num_limit": "100",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "林鴻志",
     "time": "T2-ED116[GF],R56-ED220[GF]"
   },
@@ -25159,7 +25159,7 @@
     "memo": "",
     "name": "二維半導體概論 Introduction to 2D Semiconductors",
     "num_limit": "60",
-    "reg_num": "15",
+    "reg_num": "14",
     "teacher": "連德軒",
     "time": "Mn56-SC106[GF]"
   },
@@ -25183,7 +25183,7 @@
     "memo": "上課教室：ED108",
     "name": "表面電漿子與超穎物質元件 Nano-plasmonics & Metamaterials",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "3",
     "teacher": "曾銘綸",
     "time": "T34R3-"
   },
@@ -25219,7 +25219,7 @@
     "memo": "",
     "name": "三維積體電路 3D Integrated Circuits",
     "num_limit": "115",
-    "reg_num": "83",
+    "reg_num": "82",
     "teacher": "陳冠能",
     "time": "F34n-EDB26[GF]"
   },
@@ -25327,7 +25327,7 @@
     "memo": "9月1日(週一)第一次上課教室在EDB27",
     "name": "類比積體電路 Analog Integrated Circuits",
     "num_limit": "120",
-    "reg_num": "58",
+    "reg_num": "57",
     "teacher": "陳巍仁",
     "time": "R7-ED116[GF],M34-EDB27[GF]"
   },
@@ -25615,7 +25615,7 @@
     "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程)",
     "name": "類比積體電路設計 Analog IC Design",
     "num_limit": "72",
-    "reg_num": "56",
+    "reg_num": "55",
     "teacher": "陳科宏",
     "time": "F234-EE623[GF]"
   },
@@ -25723,7 +25723,7 @@
     "memo": "",
     "name": "手機行動通訊系統   Moblie Phone Communication System",
     "num_limit": "50",
-    "reg_num": "21",
+    "reg_num": "20",
     "teacher": "陳富強",
     "time": "Rn56-EDB26[GF]"
   },
@@ -26539,7 +26539,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously",
     "name": "邊緣人工智慧 Edge AI",
     "num_limit": "100",
-    "reg_num": "100",
+    "reg_num": "101",
     "teacher": "吳凱強",
     "time": "R89-ED117[GF]"
   },
@@ -30859,7 +30859,7 @@
     "memo": "視訊同步遠距課程 。醫電所(原生醫所).電機.生科. MD-PhD學程及AI學院。(通識課程) 、開放隨班附讀。",
     "name": "仿生科技 Biomimicry",
     "num_limit": "9999",
-    "reg_num": "176",
+    "reg_num": "177",
     "teacher": "陳榮治",
     "time": "W234-"
   },
@@ -38396,7 +38396,7 @@
     "name": "落腳風城：大學與城市共創 Settling in the Windy City: How a University and a City Co-Evolve",
     "num_limit": "30",
     "reg_num": "30",
-    "teacher": "待聘",
+    "teacher": "李元璋",
     "time": "M56-EE129[GF]"
   },
   "1151_569011": {
@@ -38505,7 +38505,7 @@
     "num_limit": "40",
     "reg_num": "40",
     "teacher": "廖文宏",
-    "time": "T56-CS-PC3[GF]"
+    "time": "Tn5-CS-PC3[GF]"
   },
   "1151_574006": {
     "code": "GEIT10005",

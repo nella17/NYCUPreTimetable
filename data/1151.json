@@ -1710,7 +1710,7 @@
     "id": "111814",
     "memo": "",
     "name": "護理學導論 Introduction to Nursing",
-    "num_limit": "0",
+    "num_limit": "50",
     "reg_num": "1",
     "teacher": "楊秋月、黃升苗、鄭夙芬、陳俞琪、胡慧蘭、黃淑鶴、楊曼華、陳律言、林麗華、程尤美",
     "time": "F78-YN416[YM]"
@@ -9138,10 +9138,10 @@
     "id": "132300",
     "memo": "",
     "name": "醫學工程概論 Introduction to Biomedical Engineering",
-    "num_limit": "0",
+    "num_limit": "9999",
     "reg_num": "2",
     "teacher": "醫工學系碩、江惠華、詹家泰、陳右穎、林峻立、江明彰、駱俊良、賴穎暉、劉承揚、劉大中、葛宗融、羅俊民、許如秀、陳維聆",
-    "time": "T12R12-YX501[YM]"
+    "time": "R12-YX501[YM]"
   },
   "1151_132301": {
     "code": "BEBE20039",
@@ -12260,7 +12260,7 @@
     "name": "藥理學 Foundations of Pharmacology",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "金翠庭、胡瑜峰、何國牟、蘇溶真、江季霖、翁芸芳",
+    "teacher": "金翠庭、胡瑜峰、何國牟、張牧新、蘇溶真、江季霖、翁芸芳",
     "time": "T56-YC101[YM]"
   },
   "1151_141605": {
@@ -13960,7 +13960,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "161063",
-    "memo": "",
+    "memo": "[1] 本課程上課地點為臺北陽明校區「韓偉故居二樓」空間（位置：https://maps.app.goo.gl/JJirEUvNyRLUYJuX6）；上課時間為每週四下午 14:00-16:00。\n[2] 本課程含「課前說明會」、「課堂講授」（含基礎知能講授、田野踏查、技能實作、成果整合）、「期末成果展」三階段，修習本課程之同學須務必全程到課。\n[3] 本課程為全實體課程，請位在非開課校區之同學留意每週上課時間、地點與通勤所需時間（校內與校區接駁車資訊：https://tinyurl.com/mwcn9f7t）。\n[4] 本課程含校外教學與參訪，請同學們留意當周課程時間以預做自身時間規劃和調整。\n[5] 選課期間如有相關問題或需與主課教師聯繫，可洽博雅書苑本課程承辦人范先生（Email: rxfan@nycu.edu.tw / 校內分機：65285）。",
     "name": "課．城市：走進唭哩岸 From Campus to City  : Walk Into Qilian",
     "num_limit": "10",
     "reg_num": "5",
@@ -24931,7 +24931,7 @@
     "memo": "",
     "name": "超大型積體電路系統設計 VLSI System Design and Application",
     "num_limit": "50",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "曾煜輝",
     "time": "R567-EE207[GF]"
   },
@@ -25267,7 +25267,7 @@
     "memo": "",
     "name": "數位積體電路 Digital Integrated Circuits",
     "num_limit": "120",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "吳易忠",
     "time": "R56-ED116[GF],W78-ED219[GF]"
   },
@@ -25315,7 +25315,7 @@
     "memo": "",
     "name": "隨機過程 Stochastic Processes",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "41",
     "teacher": "王聖智",
     "time": "M5W56-ED101[GF]"
   },
@@ -25351,7 +25351,7 @@
     "memo": "[English Medium Course]",
     "name": "計算機結構 Computer Architecture",
     "num_limit": "100",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "賴伯承",
     "time": "R34n-EDB27[GF]"
   },
@@ -25435,7 +25435,7 @@
     "memo": "[English Medium Course]",
     "name": "檢測與估計 Detection and Estimation",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "12",
     "teacher": "馮智豪",
     "time": ""
   },
@@ -25615,7 +25615,7 @@
     "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程)",
     "name": "類比積體電路設計 Analog IC Design",
     "num_limit": "72",
-    "reg_num": "55",
+    "reg_num": "54",
     "teacher": "陳科宏",
     "time": "F234-EE623[GF]"
   },
@@ -26959,7 +26959,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "104",
+    "reg_num": "103",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -33835,7 +33835,7 @@
     "memo": "(1). 博雅講座過往參與紀錄至少2場，才有機會當學期完成修課條件，也才會協助同學加選課程。若無任何博雅講座參與紀錄，請先於學期間參與認列博雅學分時數的各項活動，於後續學期選課、結算活動時數。有意選修課程、結算活動時數的同學，請截圖個人學涯網「修課歷程」的「博雅學分-博雅講座」畫面寄 tinac@nycu.edu.tw 申請加選。(2). 1學分以及2學分的博雅學分課程只能擇一修習。",
     "name": "博雅學分 Liberal Arts Practicum",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "楊谷洋",
     "time": ""
   },

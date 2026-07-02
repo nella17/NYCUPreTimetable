@@ -751,7 +751,7 @@
     "memo": "限醫三牙二, 上課時間及地點請參照PBL整合課程行事曆",
     "name": "胚胎學 Embryology",
     "num_limit": "9999",
-    "reg_num": "187",
+    "reg_num": "188",
     "teacher": "傅毓秀、鄭瓊娟、李學德、王先逸",
     "time": "M1234T1234W1234R1234F1234-YT001[YM]"
   },
@@ -811,7 +811,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "148",
+    "reg_num": "149",
     "teacher": "楊智傑、黃金洲、楊懷哲、宋思賢、紀乃方、梁立霖、梁仁峯、林祐霆、郭曉縈、吳莉玲、陳明德、黃文彬、王維庭、陳威志",
     "time": ""
   },
@@ -847,7 +847,7 @@
     "memo": "限醫三牙二，請參照PBL整合課程行事曆",
     "name": "生理學實驗 Physiology Lab.",
     "num_limit": "200",
-    "reg_num": "187",
+    "reg_num": "188",
     "teacher": "林惠菁、阮琪昌、李怡萱、巫俊杉",
     "time": "T5678R5678-YED214[YM]"
   },
@@ -1579,7 +1579,7 @@
     "memo": "實際實習地點請依開課教師安排。\n上課時間與地點同「成人護理學」。",
     "name": "成人護理學實習Ⅰ Adult Nursing PracticeⅠ",
     "num_limit": "50",
-    "reg_num": "35",
+    "reg_num": "36",
     "teacher": "侯宜菁、黃升苗、黃淑鶴、楊曼華、陳律言、梁靜娟、周珊如、吳碧珠、李雅雯、莊瑞玲、施瓊玉、張嘉琪、郭憶文、蘇惠文",
     "time": "M12345678T12345678W12345678-YN416[YM]"
   },
@@ -1615,7 +1615,7 @@
     "memo": "實際實習地點請依開課教師安排。\n上課時間與地點同「成人護理學」。",
     "name": "成人護理學實習Ⅱ Adult Nursing PracticeⅡ",
     "num_limit": "254",
-    "reg_num": "35",
+    "reg_num": "36",
     "teacher": "侯宜菁、黃升苗、梁靜娟、林曼玲、周珊如、吳碧珠、余白妃、莊瑞玲、梁巧儒、施瓊玉、張嘉琪、郭憶文、許鈺絹、蘇惠文、楊翎玉",
     "time": "M12345678T12345678W12345678-YN416[YM]"
   },
@@ -10132,7 +10132,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "132602",
-    "memo": "[English Medium Course]如有外籍生選修則英語授課 開放隨班附讀。Teach in English and Chinese",
+    "memo": "負責老師尚未決定是否續開",
     "name": "應用光學 Applied Optics",
     "num_limit": "30",
     "reg_num": "1",
@@ -11280,9 +11280,9 @@
     "time": ""
   },
   "1151_133501": {
-    "code": "XDLC30020",
+    "code": "XDLC30051",
     "credit": "4.00",
-    "hours": "8.00",
+    "hours": "10.00",
     "id": "133501",
     "memo": "實務實習課程，學生須完成160小時的實務實習時數。",
     "name": "進階長期照顧管理實務實習 Advanced Long-Term Care Management Practicum",
@@ -12295,7 +12295,7 @@
     "memo": "[English Medium Course]",
     "name": "醫學工程專題討論(博) Seminar",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "6",
     "teacher": "賴穎暉、朱唯勤、江惠華、詹家泰、劉澤英、陳右穎、林峻立、江明彰、駱俊良、李泉、劉承揚、劉大中、葛宗融、羅俊民、許如秀",
     "time": "R89-YB100[YM]"
   },
@@ -15044,7 +15044,7 @@
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "游婉雲、待聘",
+    "teacher": "游婉雲、俞蘋",
     "time": "W78-HK104[LJ]"
   },
   "1151_310108": {
@@ -15142,18 +15142,6 @@
     "reg_num": "13",
     "teacher": "吳岱芸",
     "time": "T234-HK206[LJ]"
-  },
-  "1151_310117": {
-    "code": "HKCT20034",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "310117",
-    "memo": "模組 C：數位設計",
-    "name": "推測設計、科技與社會 Speculative Design, Technology and Society",
-    "num_limit": "20",
-    "reg_num": "19",
-    "teacher": "待聘",
-    "time": "T567-HK104[LJ]"
   },
   "1151_310118": {
     "code": "HKCT20006",
@@ -18019,7 +18007,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先。預選學生不接受換班。第三階段起開放外系學生加退選。\n課程時間為週一晚上abcd，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "60",
-    "reg_num": "41",
+    "reg_num": "40",
     "teacher": "陳立洲",
     "time": "Mabcd-"
   },
@@ -18055,7 +18043,7 @@
     "memo": "電子實驗課為電機系大二學生必修課程，以電機系大二學生優先。預選學生不接受換班。第三階段起開放外系學生加退選。\n課程時間為週三晚上abcd，上課教室為工程四館ED222。",
     "name": "電子實驗(一) Electronics Lab. (I)",
     "num_limit": "52",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "王夢偉",
     "time": "Wabcd-"
   },
@@ -22003,7 +21991,7 @@
     "memo": "另1小時以非同步上課方式授課",
     "name": "品質管理 Quality Management",
     "num_limit": "9999",
-    "reg_num": "65",
+    "reg_num": "64",
     "teacher": "陳宏毅",
     "time": "T34-MB405[GF]"
   },
@@ -22015,7 +22003,7 @@
     "memo": "限60人，工工系學生優先，可旁聽",
     "name": "工程經濟 Engineering Economy",
     "num_limit": "60",
-    "reg_num": "63",
+    "reg_num": "62",
     "teacher": "田凱文",
     "time": "R567-MB506[GF]"
   },
@@ -22027,7 +22015,7 @@
     "memo": "限60人，工工系學生優先，不可旁聽",
     "name": "模擬學 Simulation",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "陳勝一",
     "time": "R234-MB415[GF]"
   },
@@ -22087,7 +22075,7 @@
     "memo": "管院管理基礎課程；管院學生優先選課；上限85人；主開大三工管系、輔開管理學院、管科系、運管系、資財系。工管系大三必修。運管系學生請依入學年度適用之必修科目表規定修習管理基礎課程。",
     "name": "生產與作業管理 Production and Operation Management",
     "num_limit": "85",
-    "reg_num": "95",
+    "reg_num": "94",
     "teacher": "王志軒",
     "time": "W234-MB520[GF]"
   },
@@ -24573,7 +24561,7 @@
     "num_limit": "15",
     "reg_num": "2",
     "teacher": "董昭民",
-    "time": "W34-AD027[GF]"
+    "time": "T78-AD027[GF]"
   },
   "1151_534812": {
     "code": "HSIM30093",
@@ -30302,7 +30290,7 @@
   "1151_537813": {
     "code": "MGMT30114",
     "credit": "3.00",
-    "hours": "48.00",
+    "hours": "3.00",
     "id": "537813",
     "memo": "[English Medium Course]",
     "name": "人工智慧時代的資料導向決策科學 Data-Driven Decision Science in the AI Era",
@@ -30319,14 +30307,14 @@
     "memo": "[English Medium Course]",
     "name": "科技素養與產業實務創新 Technology Literacy and Industrial Practical Innovation",
     "num_limit": "25",
-    "reg_num": "15",
+    "reg_num": "16",
     "teacher": "陳詩欣",
     "time": "M789-A722[GF]"
   },
   "1151_537815": {
     "code": "MGMT30116",
     "credit": "3.00",
-    "hours": "48.00",
+    "hours": "3.00",
     "id": "537815",
     "memo": "[English Medium Course]",
     "name": "數位科技創新與管理 Digital Technology Innovation and Management",
@@ -30338,7 +30326,7 @@
   "1151_537816": {
     "code": "MGMT30118",
     "credit": "3.00",
-    "hours": "48.00",
+    "hours": "3.00",
     "id": "537816",
     "memo": "[English Medium Course]",
     "name": "科技治理與負責任創新 Science, Technology, Governance and Responsible Innovation",
@@ -30362,7 +30350,7 @@
   "1151_537818": {
     "code": "MGMT30117",
     "credit": "3.00",
-    "hours": "48.00",
+    "hours": "3.00",
     "id": "537818",
     "memo": "[English Medium Course]",
     "name": "永續創新與創業策略 Sustainable Innovation and Entrepreneurial Strategy",
@@ -30379,7 +30367,7 @@
     "memo": "",
     "name": "永續治理與企業社會責任創新實踐 Sustainable Governance and the Practice of Corporate Social Responsible Innovation",
     "num_limit": "25",
-    "reg_num": "14",
+    "reg_num": "15",
     "teacher": "陳詩欣、徐肇聰",
     "time": "W789-A701[GF]"
   },
@@ -32395,7 +32383,7 @@
     "memo": "",
     "name": "數位轉型永續創新創業管理 Digital Transformation and Management of Sustainable Innovation and Entrepreneurship",
     "num_limit": "25",
-    "reg_num": "22",
+    "reg_num": "23",
     "teacher": "陳詩欣、徐肇聰",
     "time": "U5678-A722[GF]"
   },
@@ -32414,7 +32402,7 @@
   "1151_557807": {
     "code": "MGMT30114",
     "credit": "3.00",
-    "hours": "48.00",
+    "hours": "3.00",
     "id": "557807",
     "memo": "",
     "name": "人工智慧時代的資料導向決策科學 Data-Driven Decision Science in the AI Era",
@@ -32426,7 +32414,7 @@
   "1151_557808": {
     "code": "MGMT30115",
     "credit": "3.00",
-    "hours": "48.00",
+    "hours": "3.00",
     "id": "557808",
     "memo": "",
     "name": "創新管理與創意問題解決 Innovation Management and Creative Problem Solving",

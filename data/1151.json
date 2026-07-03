@@ -5359,7 +5359,7 @@
     "memo": "限醫學系B組選修；須先找好專題研究指導老師後，再加選本堂課。",
     "name": "醫師科學家碩士專題研究 (三) Physician Scientist Research in Master Program (3)",
     "num_limit": "9999",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "兵岳忻",
     "time": "Sa-"
   },
@@ -5599,7 +5599,7 @@
     "memo": "本課程不開放大學部選修",
     "name": "生物統計學 Biostatistics",
     "num_limit": "133",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "温啟仲",
     "time": "R34-YX216[YM]"
   },
@@ -7135,7 +7135,7 @@
     "memo": "[English Medium Course]腦科所碩士班",
     "name": "專題討論(碩) Seminar",
     "num_limit": "9999",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "蔡欣融、鄭彥甫、郭博昭、陳麗芬、楊定一、楊靜修、王署君、蔡金吾、陳世彬、楊智傑、侯珮珊、鄭菡若、張家祥、蔡世仁、李怡慧",
     "time": "T56-YL402[YM]"
   },
@@ -7147,7 +7147,7 @@
     "memo": "",
     "name": "睡眠訊號分析與臨床判讀實務 Rules and Practice of Sleep Stage Scoring",
     "num_limit": "6",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "蔡欣融",
     "time": "M78-YL845[YM]"
   },
@@ -7183,7 +7183,7 @@
     "memo": "必選",
     "name": "腦科學實習 Experimental Brain Science ",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "3",
     "teacher": "鄭菡若、鄭彥甫、甘致群、林慶波、郭博昭、陳麗芬、楊定一、楊靜修、盧俊良、李國熙、王署君、蔡金吾、林嘉澍、賴穎暉、陳世彬、白雅美、楊智傑、柯立偉、侯珮珊、蔡欣融、張家祥、蔡世仁、李怡慧、李正達、蘇東平、林永煬、陳昌明、劉祐岑、尼大衛、力博宏",
     "time": "Un-YL845[YM]"
   },
@@ -7231,7 +7231,7 @@
     "memo": "",
     "name": "神經工程暨腦資訊概論 Introduction to Neuroengineering and Brain Information",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "3",
     "teacher": "陳麗芬、林嘉澍",
     "time": "T2-YL839[YM]"
   },
@@ -7243,7 +7243,7 @@
     "memo": "",
     "name": "臨床腦科學概論 Clinical Introduction to Brain Disease",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "李怡慧、鄭彥甫、吳昭慶、盧俊良、陳世彬、楊智傑、王嚴鋒、廖翊筑、李正達、劉祐岑",
     "time": "T4-YL839[YM]"
   },
@@ -7267,7 +7267,7 @@
     "memo": "",
     "name": "基礎腦科學概論 Introduction to Fundamental Brain Science",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "3",
     "teacher": "張家祥、楊定一、楊靜修、蔡金吾、鄭菡若",
     "time": "T3-YL839[YM]"
   },
@@ -7279,7 +7279,7 @@
     "memo": "碩、博士班均可，開放隨班附讀",
     "name": "菌- 腦 - 腸‘ 軸特論 Microbiiota - Brain - Gut interaction",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "盧俊良",
     "time": "F4n-"
   },
@@ -7303,7 +7303,7 @@
     "memo": "",
     "name": "整合睡眠醫學(一) Integrated Sleep Medicine (Ⅰ)",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "5",
     "teacher": "楊靜修",
     "time": "W56-YL845[YM]"
   },
@@ -7315,7 +7315,7 @@
     "memo": "",
     "name": "整合睡眠醫學專題研究(一) Special Topics in Integrated Sleep Medicine (Ⅰ)",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "楊靜修",
     "time": "W7-YL845[YM]"
   },
@@ -13927,7 +13927,7 @@
     "memo": "115-1國文課程為中醫系醫古文課程，限中醫系選修。",
     "name": "國文 Literature of Chinese",
     "num_limit": "0",
-    "reg_num": "1",
+    "reg_num": "2",
     "teacher": "游均晶",
     "time": "W78-YX503[YM]"
   },
@@ -19519,7 +19519,7 @@
     "memo": "外系生請於開學上網加選；資工系學生優先選課；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；本系生優先權順序：3年級，4年級，2年級，1年級",
     "name": "作業系統概論 Introduction to Operating Systems",
     "num_limit": "75",
-    "reg_num": "75",
+    "reg_num": "76",
     "teacher": "張立平",
     "time": "W34-ED117[GF]"
   },
@@ -23732,7 +23732,7 @@
     "name": "質疑性設計：動力互動藝術協作實踐 Interrogative Design: Collaborative Practices of Kinetic Interactive Art",
     "num_limit": "16",
     "reg_num": "16",
-    "teacher": "待聘",
+    "teacher": "黃彥翔",
     "time": "R567-HA314[GF]"
   },
   "1151_534408": {
@@ -23744,7 +23744,7 @@
     "name": "跨媒介視覺設計 Cross-Media Visual Design",
     "num_limit": "9999",
     "reg_num": "25",
-    "teacher": "待聘",
+    "teacher": "何庭安",
     "time": "F567-HA314[GF]"
   },
   "1151_534409": {
@@ -34951,7 +34951,7 @@
     "memo": "第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課",
     "name": "韓文(一) Korean (I)",
     "num_limit": "35",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "安宣映",
     "time": "T34-A215[GF]"
   },

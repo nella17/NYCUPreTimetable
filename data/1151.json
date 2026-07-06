@@ -10184,7 +10184,7 @@
     "name": "生醫電子學與電路設計模擬 Biomedical electronics and circuit design simulation",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "饒啟文",
+    "teacher": "饒啟文、劉子洋",
     "time": "W567-YK436[YM]"
   },
   "1151_132608": {
@@ -26180,8 +26180,8 @@
     "name": "高速計算與量子計算之應用與實作 High-Performance and Quantum Computing: Applications and Implementation",
     "num_limit": "50",
     "reg_num": "19",
-    "teacher": "光電系",
-    "time": "W567-EO115[GF]"
+    "teacher": "陳南佑",
+    "time": "W567-CS-PC4[GF]"
   },
   "1151_535420": {
     "code": "EEEO30063",

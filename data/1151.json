@@ -3535,7 +3535,7 @@
     "memo": "",
     "name": "核醫藥物暨放射免疫分析 Radiopharmaceuticals and Radioimmunoassay Analysis",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "吳駿一、陳傳霖、胡蓮欣",
     "time": "F78-YT104[YM]"
   },
@@ -3547,7 +3547,7 @@
     "memo": "",
     "name": "磁振影像學 The Principles of Magnetic Resonance Imaging",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "盧家鋒",
     "time": "M56-YT206[YM]"
   },
@@ -3559,7 +3559,7 @@
     "memo": "",
     "name": "核醫暨斷層影像原理 Nuclear Medicine and Computed Tomography",
     "num_limit": "9999",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "陳志成、楊邦宏",
     "time": "W78-YB102[YM]"
   },
@@ -3571,7 +3571,7 @@
     "memo": "",
     "name": "放射診斷儀器學 Instrumentations for Diagnostic Radiology",
     "num_limit": "9999",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "許世明、陳志成",
     "time": "R78-YT104[YM]"
   },
@@ -3703,7 +3703,7 @@
     "memo": "",
     "name": "放射診斷技術學實驗(一)A Clinical Radiodiagnostic Technology Lab. IA",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "許世明、張東曜、范源洪、張建法、張美彥、施智翔",
     "time": "T56-YB102[YM]"
   },
@@ -3715,7 +3715,7 @@
     "memo": "",
     "name": "超音波原理暨技術學 Ultrasonography",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "周宜宏、楊逢羿、邱宏仁、王信凱、賴亦貞",
     "time": "R56-YT303[YM]"
   },
@@ -3727,7 +3727,7 @@
     "memo": "",
     "name": "放射診斷技術學(一) Clinical Radiodiagnostic Technology",
     "num_limit": "9999",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "許世明、陳富都、陳潤秋、張東曜、楊必立、范源洪、張建法、楊承閎、劉致康、許敦韋",
     "time": "T234-YB100[YM]"
   },
@@ -4303,7 +4303,7 @@
     "memo": "優先醫技、醫放、物輔，次護理、藥學；需先修解剖學 ，生理學等相關科目。",
     "name": "病理學 Pathology",
     "num_limit": "120",
-    "reg_num": "107",
+    "reg_num": "106",
     "teacher": "杭仁釩、許志怡、葉奕成、郭盈汝、王蕾琪、梁文議、林士堯、楊靜芬、林士傑、陳妍英、張富邦、張心怡",
     "time": "F56-YX216[YM]"
   },
@@ -19507,7 +19507,7 @@
     "memo": "外系生請於開學上網加選；資工系學生優先選課；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；本系生優先權順序：3年級，4年級，2年級，1年級",
     "name": "作業系統概論 Introduction to Operating Systems",
     "num_limit": "75",
-    "reg_num": "76",
+    "reg_num": "77",
     "teacher": "張立平",
     "time": "W34-ED117[GF]"
   },
@@ -20720,7 +20720,7 @@
     "name": "服務學習(二) Service Learning II",
     "num_limit": "60",
     "reg_num": "48",
-    "teacher": "材料系",
+    "teacher": "羅友杰",
     "time": "F78-"
   },
   "1151_516400": {

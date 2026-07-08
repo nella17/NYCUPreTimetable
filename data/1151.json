@@ -2179,7 +2179,7 @@
     "memo": "",
     "name": "臨床生化學實習 Clinical Biochemistry Practice Lab Internship",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "黃琤、張懿欣",
     "time": "M2-"
   },
@@ -2191,7 +2191,7 @@
     "memo": "",
     "name": "病理切片及細胞診斷實習 Pathological Technology & Diagnosis Cytology Practice",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "黃尉倫、呂世正",
     "time": "R5-"
   },
@@ -2203,7 +2203,7 @@
     "memo": "",
     "name": "臨床血庫實習 Clinical Blood Banking Lab Internship",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "涂玉青、蘇美慈",
     "time": "T6-"
   },
@@ -2215,7 +2215,7 @@
     "memo": "",
     "name": "臨床血清免疫實習 Clinical Serology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "孫光蕙、黃智生",
     "time": "T7-"
   },
@@ -2227,7 +2227,7 @@
     "memo": "",
     "name": "臨床生理學實習 Clinical Physiology Practice Lab Internship",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "吳韋訥",
     "time": "M3-"
   },
@@ -2239,7 +2239,7 @@
     "memo": "",
     "name": "臨床血液學實習 Clinical Hematology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "呂世正、蘇美慈",
     "time": "T8-"
   },
@@ -2251,7 +2251,7 @@
     "memo": "",
     "name": "臨床病毒學實習 Clinical Virology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "龔思豪、蘇美慈、洪小雅",
     "time": "T5-"
   },
@@ -2263,7 +2263,7 @@
     "memo": "",
     "name": "臨床鏡檢及寄生蟲學實習 Clinical Microscopy & Parasitology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "黃智生、黃尉倫",
     "time": "M4-"
   },
@@ -2275,7 +2275,7 @@
     "memo": "",
     "name": "醫學分子檢驗實習 Molecular Diagnosis in Medicine Lab Internship",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "龔思豪、洪小雅",
     "time": "R4-"
   },
@@ -2287,7 +2287,7 @@
     "memo": "",
     "name": "臨床微生物學實習 Clinical Microbiology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "吳韋訥、楊翠青",
     "time": "M1-"
   },
@@ -2383,7 +2383,7 @@
     "memo": "",
     "name": "大四導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "張懿欣、楊翠青、蘇美慈",
     "time": "R9-"
   },
@@ -3955,7 +3955,7 @@
     "memo": "選修者限已修讀過科學文獻研讀與分析(上)，並經授課教師同意。分組上課，上課教室為傳甲101和守仁102",
     "name": "論文閱讀與分析方法(上) Paper Reading and Analysis,1st semester",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "49",
     "teacher": "孫維欣、林崇智、陳儀聰、藍昇輝",
     "time": "T56-YK101[YM],T56-YR102[YM]"
   },
@@ -4039,7 +4039,7 @@
     "memo": "大四導師時間，時間地點另行安排",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "陳儀聰、孫維欣、林崇智、藍昇輝、翁雨蕙",
     "time": ""
   },
@@ -4327,7 +4327,7 @@
     "memo": "請依醫學系PBL課程上課，不開放外系選修。",
     "name": "病理學實驗 Pathology Laboratory",
     "num_limit": "210",
-    "reg_num": "187",
+    "reg_num": "199",
     "teacher": "杭仁釩、李芬瑤、劉雯玲",
     "time": "T5678-YX216[YM]"
   },
@@ -4423,7 +4423,7 @@
     "memo": "限中醫系二,三年級(含)以上，本課實際上課時間為週二1-2節，後8週，請同學第一節除了環境衛生概論(113507)之外，勿排其他課。本課程為應考公共衛生師指定修習科目。",
     "name": "公共衛生概論 Introduction to Public Health",
     "num_limit": "9999",
-    "reg_num": "54",
+    "reg_num": "53",
     "teacher": "莊宜芳、楊振昌、黃心苑、周穎政、雷文玫、陳信任",
     "time": "T2-YK533[YM]"
   },
@@ -4435,7 +4435,7 @@
     "memo": "限中醫系二,三年級(含)以上，本課實際上課時間為週二1-2節，前8週，請同學第二節除了公共衛生概論(113506)之外，勿排其他課。本課程為應考公共衛生師指定修習科目。",
     "name": "環境衛生概論 Introduction to Environmental Health",
     "num_limit": "9999",
-    "reg_num": "54",
+    "reg_num": "53",
     "teacher": "楊振昌、余國賓、紀凱獻、黃鈺芳、潘文驥、張榮偉、陳美蓮",
     "time": "T1-YK533[YM]"
   },
@@ -4615,7 +4615,7 @@
     "memo": "中醫系大二與中醫系大三併班上課",
     "name": "中醫研究方法 Research Methods of Chinese Medicine",
     "num_limit": "9999",
-    "reg_num": "53",
+    "reg_num": "52",
     "teacher": "張清貿",
     "time": "T34-YK208[YM]"
   },
@@ -4699,7 +4699,7 @@
     "memo": "本課程實際授課時間為單數週週四7.8節，另有雙數週課程「醫療服務的故事」可供修習。",
     "name": "醫學生涯 Medical career",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "許中華、徐蔚泓、黃奎祐、鄭婷宜、張揚楷、虞凱強、魏任宣、戴毓萱",
     "time": "R7-YK208[YM],R7-YK533[YM]"
   },
@@ -4795,7 +4795,7 @@
     "memo": "",
     "name": "中醫藥物學(一) Chinese Medicinal Pharmacology (1)",
     "num_limit": "9999",
-    "reg_num": "32",
+    "reg_num": "31",
     "teacher": "蔡東湖、彭溫雅、薛敦品、莊武璋",
     "time": "W567-YK912[YM],W567-YK914[YM]"
   },
@@ -4819,7 +4819,7 @@
     "memo": "",
     "name": "醫學新知 New medical knowledge",
     "num_limit": "30",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "林滿玉、黃琤、林東毅、吳彥谷、孫仲銘、蔡明翰、王鼎涵、廖咨詠、邱仁輝、黃聰龍、王致又、簡采汝、林舜穀",
     "time": "W34-YK912[YM]"
   },
@@ -4855,7 +4855,7 @@
     "memo": "",
     "name": "中醫環境醫學 Chinese Medicine-Environmental Medicine",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "洪裕強、黃伯瑜",
     "time": "F78-YK436[YM],F78-YK912[YM]"
   },
@@ -11444,7 +11444,7 @@
     "name": "生理學 Physiology",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "陳儀聰、黃自強、侯珮珊、李曉暉",
+    "teacher": "陳儀聰、黃自強、侯珮珊、李曉暉、林坤陽",
     "time": "F56-YR104[YM]"
   },
   "1151_133601": {
@@ -16891,7 +16891,7 @@
     "memo": "本課程人數上限為40人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "影像合成 Image Synthesis",
     "num_limit": "40",
-    "reg_num": "40",
+    "reg_num": "41",
     "teacher": "羅曉愉",
     "time": "M56-HC103[GF]"
   },
@@ -17552,8 +17552,8 @@
     "name": "排演基礎(一) Basic Elements of Performance (1)",
     "num_limit": "20",
     "reg_num": "5",
-    "teacher": "楊欣芳",
-    "time": "F56-HC401[GF]"
+    "teacher": "待聘",
+    "time": "T78-HB203[GF]"
   },
   "1151_514130": {
     "code": "HSFL10049",
@@ -18463,7 +18463,7 @@
     "memo": "Lab: PC4 / PC2 / ED713 (第一次上課 請同學到資訊中心 PC4 電腦教室)",
     "name": "通訊網路實驗 Communication Networks Laboratory",
     "num_limit": "150",
-    "reg_num": "136",
+    "reg_num": "137",
     "teacher": "林亭佑、林光勛",
     "time": "R34n-CS-PC2[GF],R34n-CS-PC4[GF],R34n-ED713[GF]"
   },
@@ -38299,7 +38299,7 @@
     "memo": "限大三、大四。\n",
     "name": "永續企業-建立卓越的營運管理系統 Sustainable Business- Building Excellent Operations Management System",
     "num_limit": "72",
-    "reg_num": "87",
+    "reg_num": "88",
     "teacher": "李榮貴",
     "time": "W56-AB102[GF]"
   },

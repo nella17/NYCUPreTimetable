@@ -1031,6 +1031,18 @@
     "teacher": "兵岳忻",
     "time": "Sa-"
   },
+  "1151_110087": {
+    "code": "MDMD10141",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "110087",
+    "memo": "請同學自備筆記型電腦、簡易型麥克風。本課程大一~大四共5人",
+    "name": "LabVIEW程式設計及實作生物訊號分析 Analysis of Biological Signals using LabVIEW",
+    "num_limit": "5",
+    "reg_num": "0",
+    "teacher": "李國熙",
+    "time": "W89-YL403[YM]"
+  },
   "1151_111500": {
     "code": "DEDE10028",
     "credit": "2.00",
@@ -1208,7 +1220,7 @@
     "name": "口腔胚胎及組織學實驗 Oral Embryology & Histology Lab.",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "張婷菡、林怡彣、吳靜宜",
+    "teacher": "張婷菡、林怡彣、吳靜宜、蘇真瑩",
     "time": "F567-YD320[YM]"
   },
   "1151_111515": {
@@ -1423,7 +1435,7 @@
     "memo": "",
     "name": "臨床診斷學 Clinical and Laboratory Diagnosis",
     "num_limit": "50",
-    "reg_num": "42",
+    "reg_num": "43",
     "teacher": "黃怡翔、陳涵栩、紀乃方、藍敏瑛、劉永揚、曾彥寒、范乃文、廖顯宗、陳俊宇、許彥彬、李沛璋、謝昀蓁、王維庭、洪莉婷、游偉光、黃怡銘、周昱百、陳天華、薛健佑、吳政億、林詠萱、郭哲源、黃冠榕、葉建甫",
     "time": "T5-YD105[YM]"
   },
@@ -1435,7 +1447,7 @@
     "memo": "",
     "name": "臨床診斷學實習 Practical Training of Clinical and Laboratory Diagnosis",
     "num_limit": "50",
-    "reg_num": "41",
+    "reg_num": "42",
     "teacher": "黃怡翔、陳涵栩、紀乃方、藍敏瑛、曾彥寒、范乃文、廖顯宗、陳俊宇、林芳綺、許彥彬、李沛璋、謝昀蓁、王維庭、張毓帆、周昱百、薛健佑、吳政億、吳啟榮、林詠萱、黃冠榕、劉璟璇、葉建甫",
     "time": "T678-YD105[YM]"
   },
@@ -1459,7 +1471,7 @@
     "memo": "上課時間：每週五下午2點至五點，上課地點：台北榮總",
     "name": "口腔顎面外科學 Oral & Maxillofacial Surgery",
     "num_limit": "50",
-    "reg_num": "41",
+    "reg_num": "42",
     "teacher": "高壽延、楊政杰、涂曦丰、洪凱風、吳政憲、羅文良、雷文天、成函潔、黃傳貴",
     "time": "F5678-YD105[YM]"
   },
@@ -1472,7 +1484,7 @@
     "name": "牙周病學 Periodontology",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "林怡君、賴玉玲、董醒任、陳彥廷、陳恒理、陳軒弘、陳雅琪、黃惠華、張馨尹、林育正、鄭羽軒",
+    "teacher": "林怡君、賴玉玲、董醒任、陳彥廷、陳恒理、陳軒弘、陳雅琪、黃惠華、張馨尹、林育正、鄭羽軒、林昱辰",
     "time": "R3-YD320[YM]"
   },
   "1151_111537": {
@@ -2179,7 +2191,7 @@
     "memo": "",
     "name": "臨床生化學實習 Clinical Biochemistry Practice Lab Internship",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "黃琤、張懿欣",
     "time": "M2-"
   },
@@ -2191,7 +2203,7 @@
     "memo": "",
     "name": "病理切片及細胞診斷實習 Pathological Technology & Diagnosis Cytology Practice",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "黃尉倫、呂世正",
     "time": "R5-"
   },
@@ -2203,7 +2215,7 @@
     "memo": "",
     "name": "臨床血庫實習 Clinical Blood Banking Lab Internship",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "涂玉青、蘇美慈",
     "time": "T6-"
   },
@@ -2215,7 +2227,7 @@
     "memo": "",
     "name": "臨床血清免疫實習 Clinical Serology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "孫光蕙、黃智生",
     "time": "T7-"
   },
@@ -2227,7 +2239,7 @@
     "memo": "",
     "name": "臨床生理學實習 Clinical Physiology Practice Lab Internship",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "吳韋訥",
     "time": "M3-"
   },
@@ -2239,7 +2251,7 @@
     "memo": "",
     "name": "臨床血液學實習 Clinical Hematology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "呂世正、蘇美慈",
     "time": "T8-"
   },
@@ -2251,7 +2263,7 @@
     "memo": "",
     "name": "臨床病毒學實習 Clinical Virology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "龔思豪、蘇美慈、洪小雅",
     "time": "T5-"
   },
@@ -2263,7 +2275,7 @@
     "memo": "",
     "name": "臨床鏡檢及寄生蟲學實習 Clinical Microscopy & Parasitology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "黃智生、黃尉倫",
     "time": "M4-"
   },
@@ -2275,7 +2287,7 @@
     "memo": "",
     "name": "醫學分子檢驗實習 Molecular Diagnosis in Medicine Lab Internship",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "龔思豪、洪小雅",
     "time": "R4-"
   },
@@ -2287,7 +2299,7 @@
     "memo": "",
     "name": "臨床微生物學實習 Clinical Microbiology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "吳韋訥、楊翠青",
     "time": "M1-"
   },
@@ -2383,7 +2395,7 @@
     "memo": "",
     "name": "大四導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "49",
+    "reg_num": "48",
     "teacher": "張懿欣、楊翠青、蘇美慈",
     "time": "R9-"
   },
@@ -3955,7 +3967,7 @@
     "memo": "選修者限已修讀過科學文獻研讀與分析(上)，並經授課教師同意。分組上課，上課教室為傳甲101和守仁102",
     "name": "論文閱讀與分析方法(上) Paper Reading and Analysis,1st semester",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "孫維欣、林崇智、陳儀聰、藍昇輝",
     "time": "T56-YK101[YM],T56-YR102[YM]"
   },
@@ -4039,7 +4051,7 @@
     "memo": "大四導師時間，時間地點另行安排",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "陳儀聰、孫維欣、林崇智、藍昇輝、翁雨蕙",
     "time": ""
   },
@@ -26180,7 +26192,7 @@
     "name": "高速計算與量子計算之應用與實作 High-Performance and Quantum Computing: Applications and Implementation",
     "num_limit": "50",
     "reg_num": "19",
-    "teacher": "陳南佑",
+    "teacher": "陳南佑、李泰岳",
     "time": "W567-CS-PC4[GF]"
   },
   "1151_535420": {

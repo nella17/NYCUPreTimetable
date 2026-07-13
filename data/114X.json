@@ -1,4 +1,244 @@
 {
+  "114X_010026": {
+    "code": "IADA00053",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010026",
+    "memo": "江長周",
+    "name": "無所不在的經濟學 Economics Everywhere",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010027": {
+    "code": "IADA00340",
+    "credit": "1.00",
+    "hours": "1.00",
+    "id": "010027",
+    "memo": "陳民樺",
+    "name": "生醫材料解密 Decryption of Biomaterials",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010028": {
+    "code": "IADA00054",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010028",
+    "memo": "曾陽晴",
+    "name": "楚漢相爭之職場競爭力 The Social Competitiveness Of Career",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010029": {
+    "code": "IADA00747",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010029",
+    "memo": "鄒忠毅",
+    "name": "生成式AI輔助的Python物理模擬實驗 Python Physics Simulation Lab with Generative AI Assistance",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010030": {
+    "code": "IADA00058",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010030",
+    "memo": "吳相儀",
+    "name": "幸福入門－正向心理學 Introduction to well being-positive psychology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010031": {
+    "code": "IADA00057",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010031",
+    "memo": "褚佩瑜",
+    "name": "細菌與人類疾病 Bacterial Diseases in Humans",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010032": {
+    "code": "IADA00942",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010032",
+    "memo": "郭昶志",
+    "name": "享受健康第三人生 Enjoying a Healthy Third Age",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010033": {
+    "code": "IADA00059",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010033",
+    "memo": "謝國欣",
+    "name": "國際人權法律與實務 International Human Rights Law and Practice",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010034": {
+    "code": "IADA00061",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010034",
+    "memo": "陳復",
+    "name": "從古典看人生 Reflect Life from Classical Books",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010035": {
+    "code": "IADA00062",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010035",
+    "memo": "張烜瀚",
+    "name": "初級程式設計R語言 Fundamental Computer Programming R Language",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010036": {
+    "code": "IADA00064",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010036",
+    "memo": "蔡炎龍",
+    "name": "成為Python數據分析達人的第一堂課 First Steps to Become a Data Analyst with Python",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010037": {
+    "code": "IADA00066",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010037",
+    "memo": "陳鏗任",
+    "name": "學會學：學習之道 Learning How to Learn",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010038": {
+    "code": "IADA00943",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010038",
+    "memo": "楊智傑、張原翊\n",
+    "name": "健康人生-從疾病認識醫學、倫理及科技 Disease Perspectives in Medicine, Ethics, and Health Technology",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010039": {
+    "code": "IADA00748",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010039",
+    "memo": "王瑜琦",
+    "name": "不容忽視的微妙世界～微生物的基本認識 The Delicate World That Cannot Be Ignored~Basic Understanding of Microorganisms",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010040": {
+    "code": "IADA00069",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010040",
+    "memo": "林惠茹",
+    "name": "藥物濫用與檢驗概論 Modern Conan - Overview of Drug Misuse and Inspection",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010041": {
+    "code": "IADA00051",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010041",
+    "memo": "林惠茹",
+    "name": "食品安全與檢驗概論 Modern Conan- Overview of food safety and inspection",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010042": {
+    "code": "IADA00345",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010042",
+    "memo": "羅廷瑛",
+    "name": "現代家庭發展階段與特色 Family development stages and characteristics",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010043": {
+    "code": "IADA00070",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010043",
+    "memo": "邱佳慧、王明旭\n",
+    "name": "設計思考 Design Thinking",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010044": {
+    "code": "IADA00764",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010044",
+    "memo": "張漢呈",
+    "name": "大數據分析輕鬆上手 Get started with big data analysis easily",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
+  "114X_010045": {
+    "code": "IADA00944",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "010045",
+    "memo": "張漢呈",
+    "name": "用生成式AI製作你的Python專屬機器人 Make your own Python robot with generative AI",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "",
+    "time": ""
+  },
   "114X_112300": {
     "code": "BEIR10019",
     "credit": "2.00",
@@ -104,7 +344,7 @@
     "name": "電子學(一) ElectronicsⅠ",
     "num_limit": "9999",
     "reg_num": "34",
-    "teacher": "半導體系",
+    "teacher": "鄭國興",
     "time": "T5678R5678-ED220[GF]"
   },
   "114X_515202": {
@@ -118,18 +358,6 @@
     "reg_num": "96",
     "teacher": "柯明道",
     "time": "M567W567-ED220[GF]"
-  },
-  "114X_515203": {
-    "code": "EEDM10016",
-    "credit": "2.00",
-    "hours": "4.00",
-    "id": "515203",
-    "memo": "此為2學分/4時數的課程。7/2-8/25 週二週四abcd ，上課教室為工程四館ED320。【注意】若為首次修習本課程，請先確認所屬系所是否認列學分。完成選課及繳費後，恕不受理退費。人數上限=60，為方便同學選課，暫改為不限。",
-    "name": "電子實驗(一) Electronics Lab.Ⅰ",
-    "num_limit": "9999",
-    "reg_num": "4",
-    "teacher": "柯明道、陳建安",
-    "time": "TabcdRabcd-"
   },
   "114X_515204": {
     "code": "EEDM20002",
@@ -347,18 +575,6 @@
     "teacher": "跨院辦公室",
     "time": ""
   },
-  "114X_519500": {
-    "code": "XDAP20008",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "519500",
-    "memo": "欲修習本課程者，請於6月25日前向百川系辦申請登記，並附上指導老師簽名同意之暑修相關緣由說明同意函。本學程將綜合衡量個案及整體狀況決定是否同意修課。",
-    "name": "甲式畢業專題(一) Type A Senior Project (I)",
-    "num_limit": "0",
-    "reg_num": "0",
-    "teacher": "百川",
-    "time": ""
-  },
   "114X_519501": {
     "code": "XDAP20009",
     "credit": "2.00",
@@ -427,7 +643,7 @@
     "memo": "課程日期起迄：7/1(三)~8/26(三)；新竹、高雄二校區同步遠距開課(學生需於實體教室上課)；新竹校區人數上限50人",
     "name": "微積分 Calculus",
     "num_limit": "9999",
-    "reg_num": "53",
+    "reg_num": "52",
     "teacher": "許譽馨",
     "time": "W567F567-KB302,W567F567-SA312[GF]"
   },
@@ -451,7 +667,7 @@
     "memo": "課程日期起迄：7/6(一)~8/26(三)；新竹、高雄二校區同步遠距開課(學生需於實體教室上課)；新竹校區人數上限50人",
     "name": "半導體製程 Semiconductor Processing",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "25",
     "teacher": "謝承利",
     "time": "M234W234-KB302,M234W234-SA312[GF]"
   },
@@ -763,21 +979,9 @@
     "memo": "開放大三以上同學選修。上課日期︰7/2-8/25。",
     "name": "刑法分則 Criminal Law: Offenses",
     "num_limit": "9999",
-    "reg_num": "15",
+    "reg_num": "16",
     "teacher": "金孟華",
     "time": "T567R567-A401[GF]"
-  },
-  "114X_557905": {
-    "code": "LWLW30357",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "557905",
-    "memo": "[English Medium Course]課程日期起迄：7/18-7/26",
-    "name": "歐盟永續規範及貿易影響 EU Sustainability Rules and Their Impact on Trade with Asian Nations",
-    "num_limit": "9999",
-    "reg_num": "1",
-    "teacher": "待聘",
-    "time": "W3467S3467U3467-MB1063[GF],W3467S3467U3467-TA505[BM]"
   },
   "114X_559000": {
     "code": "MGME30004",
@@ -815,18 +1019,6 @@
     "teacher": "林春成、陳宗岡、鍾惠民、戴天時、邱裕鈞",
     "time": "U23456789-M116[GF]"
   },
-  "114X_562000": {
-    "code": "GELT20052",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "562000",
-    "memo": "上課時間：7/6-8/17期間，上課時間配合日本短期生來台時間，非固定時段，選課前請務必詳閱課綱)\n(7/6、7/13、7/20、7/27、8/3-8/12、8/14、8/17)",
-    "name": "日文跨文化溝通 Intercultural Communication in Japanese",
-    "num_limit": "20",
-    "reg_num": "3",
-    "teacher": "上條純惠",
-    "time": "M3456T3456W3456R3456F3456-A202[GF]"
-  },
   "114X_562001": {
     "code": "GELT20054",
     "credit": "2.00",
@@ -838,30 +1030,6 @@
     "reg_num": "9",
     "teacher": "吳思葦",
     "time": "T234R234-A505[GF]"
-  },
-  "114X_562002": {
-    "code": "GELT00022",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "562002",
-    "memo": "實體課程。上課時間：7/7-8/11(每週上課時數請參考課綱)",
-    "name": "學術英文閱讀與討論 Academic English Reading and Discussion",
-    "num_limit": "16",
-    "reg_num": "1",
-    "teacher": "郭詩芝",
-    "time": "T34W34R34-A504[GF]"
-  },
-  "114X_562003": {
-    "code": "GELT20036",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "562003",
-    "memo": "實體課程。上課時間：7/6-8/10(每週上課時數請參考課綱)",
-    "name": "進階英文閱讀與寫作 Advanced English Reading and Writing",
-    "num_limit": "16",
-    "reg_num": "5",
-    "teacher": "吳舜華",
-    "time": "M234W234-A308[GF]"
   },
   "114X_562004": {
     "code": "GELT20007",
@@ -895,7 +1063,7 @@
     "memo": "【不能同時修習微積分一、二。大四除外】7/1(三)~8/6(四)。人數上限=130，為方便同學選課，暫改為不限。",
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "9999",
-    "reg_num": "108",
+    "reg_num": "107",
     "teacher": "張書銘",
     "time": "M234T234W234R234-SA321[GF]"
   },

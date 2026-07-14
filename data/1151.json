@@ -3561,7 +3561,7 @@
     "num_limit": "9999",
     "reg_num": "32",
     "teacher": "盧家鋒",
-    "time": "M12-YB102[YM]"
+    "time": "M56-YT206[YM]"
   },
   "1151_112311": {
     "code": "BEIR20025",
@@ -6717,7 +6717,7 @@
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "潘文驥、李宥萱",
-    "time": "W4n-YS105[YM]"
+    "time": "Wn5-YS105[YM]"
   },
   "1151_130810": {
     "code": "MDEO30128",
@@ -6908,7 +6908,7 @@
     "name": "生物醫學資訊學基礎(一) Foundations for Biomedical Informatics I",
     "num_limit": "40",
     "reg_num": "4",
-    "teacher": "黃宣誠、巫坤品、吳俊穎、王禹超、陳卓逸",
+    "teacher": "陳卓逸、巫坤品、吳俊穎、王禹超",
     "time": "M78-YR101[YM]"
   },
   "1151_131003": {
@@ -10387,7 +10387,7 @@
     "memo": "開放大學部學生修讀。",
     "name": "社會神經科學文獻選讀 Literatures reading in Social Neuroscience",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "6",
     "teacher": "鄭雅薇",
     "time": "F34-YL823[YM]"
   },
@@ -14252,7 +14252,7 @@
     "name": "學術英文演講與簡報 Academic English Public Speaking and Presentation",
     "num_limit": "30",
     "reg_num": "2",
-    "teacher": "待聘",
+    "teacher": "韓震緯",
     "time": "R12-YT204[YM]"
   },
   "1151_162023": {
@@ -14288,7 +14288,7 @@
     "name": "進階英文閱讀與討論 Advanced English Reading and Discussion",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "曾月紅",
     "time": "F34-YX503[YM]"
   },
   "1151_162026": {
@@ -14300,7 +14300,7 @@
     "name": "進階英文閱讀與討論 Advanced English Reading and Discussion",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "曾月紅",
     "time": "W56-YX503[YM]"
   },
   "1151_162027": {
@@ -19591,7 +19591,7 @@
     "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課；請依各組入學年度之「必修科目表」選課；學士班七大主題學程",
     "name": "正規語言概論 Introduction to Formal Language",
     "num_limit": "85",
-    "reg_num": "44",
+    "reg_num": "43",
     "teacher": "楊武",
     "time": "M3F56-EC115[GF]"
   },
@@ -23012,7 +23012,7 @@
     "name": "研究生英文:研究論文寫作 Graduate English: Research Paper Writing",
     "num_limit": "15",
     "reg_num": "7",
-    "teacher": "待聘",
+    "teacher": "曾月紅",
     "time": "W78-YT103[YM]"
   },
   "1151_530010": {
@@ -23024,7 +23024,7 @@
     "name": "研究生英文:口語討論與發表 Graduate English: Oral Presentation and Discussion",
     "num_limit": "20",
     "reg_num": "3",
-    "teacher": "待聘",
+    "teacher": "韓震緯",
     "time": "R34-YT204[YM]"
   },
   "1151_534000": {
@@ -26731,7 +26731,7 @@
     "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&amp;1年級；博士班資格考考核科目；數據科學與工程研究所二選一[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
     "name": "資料探勘 Data Mining",
     "num_limit": "100",
-    "reg_num": "64",
+    "reg_num": "63",
     "teacher": "顏安孜",
     "time": "T56-EC115[GF]"
   },
@@ -39907,7 +39907,7 @@
     "memo": "資工組系統班+網攻班，上課地點：國防大學理工學院",
     "name": "導師輔導(3) Tutor Guidance(3)",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "莊曜嘉",
     "time": "M12-"
   },
@@ -40003,7 +40003,7 @@
     "memo": "動力組車輛班，上課地點：國防大學理工學院",
     "name": "導師輔導(5) Tutor Guidance(5) ",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "吳文銓",
     "time": "M12-"
   },
@@ -40243,7 +40243,7 @@
     "memo": "電機組，重補修隨班附讀，上課地點：國防大學理工學院，授課教師：體育室教師",
     "name": "體育(3) Physical Education(3)",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "系統工程",
     "time": "T34-"
   },
@@ -40291,7 +40291,7 @@
     "memo": "資工組，重補修隨班附讀，上課地點：國防大學理工學院，授課教師：體育室教師",
     "name": "體育(3) Physical Education(3)",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "系統工程",
     "time": "T12-"
   },
@@ -40351,7 +40351,7 @@
     "memo": "動力組，重補修隨班附讀，上課地點：國防大學理工學院，授課教師：體育室教師",
     "name": "體育(5) Physical Education(5) ",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "系統工程",
     "time": "R34-"
   },
@@ -41131,7 +41131,7 @@
     "memo": "電機組，上課地點：國防大學理工學院，授課教師：劉瀚嶸老師",
     "name": "大陸問題研究 Studies on Mainland China",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "系統工程",
     "time": "W123-"
   },
@@ -41155,7 +41155,7 @@
     "memo": "資工組，上課地點：國防大學理工學院，授課教師：劉瀚嶸老師",
     "name": "大陸問題研究 Studies on Mainland China",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "系統工程",
     "time": "T678-"
   },
@@ -41179,7 +41179,7 @@
     "memo": "資工組，上課地點：國防大學理工學院，授課教師：劉嘉霖老師",
     "name": "中華民國憲法與立國精神 Constitution and Founding spirit of the ROC",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "系統工程",
     "time": "W234-"
   },
@@ -41287,7 +41287,7 @@
     "memo": "動力組，上課地點：國防大學理工學院，授課教師：徐明敬老師",
     "name": "心理學 Psychology",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "系統工程",
     "time": "F12-"
   },
@@ -41347,7 +41347,7 @@
     "memo": "動力組，上課地點：國防大學理工學院，授課教師：陳東波老師",
     "name": "軍事倫理學 Military Ethics",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "系統工程",
     "time": "W34-"
   },
@@ -41563,7 +41563,7 @@
     "memo": "資工組系統班+網攻班，上課地點：國防大學理工學院",
     "name": "服務學習(2) Service Learning(2)",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "莊曜嘉",
     "time": "W1-"
   },
@@ -42091,7 +42091,7 @@
     "memo": "電機組電機班+電子班，上課地點：國防大學理工學院",
     "name": "電子學(1) Electronics Circuits (1)",
     "num_limit": "9999",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "瞿忠正",
     "time": "M678-"
   },
@@ -43567,7 +43567,7 @@
     "memo": "動力組，上課地點：國防大學理工學院",
     "name": "自動控制 Automatic Control",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "朱子文",
     "time": "M34T1-"
   },
@@ -43579,7 +43579,7 @@
     "memo": "動力組，上課地點：國防大學理工學院",
     "name": "材料力學 Mechanics of Materials",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "王樂民",
     "time": "T678-"
   },
@@ -43615,7 +43615,7 @@
     "memo": "動力組車輛班，上課地點：國防大學理工學院",
     "name": "內燃機 Internal Combustion Engines",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "周志正",
     "time": "T234-"
   },
@@ -44023,7 +44023,7 @@
     "memo": "資工組，上課地點：國防大學理工學院",
     "name": "物件導向程式設計 Object Oriented Programming",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "陳丙堃",
     "time": "W678-"
   },
@@ -44035,7 +44035,7 @@
     "memo": "資工組，上課地點：國防大學理工學院",
     "name": "離散數學 Discrete Mathematics",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "王順吉",
     "time": "M34T4-"
   },
@@ -44047,7 +44047,7 @@
     "memo": "資工組，重補修隨班附讀，上課地點：國防大學理工學院",
     "name": "資料結構 Data Structure",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "莊曜嘉",
     "time": "Tabc-"
   },
@@ -44059,7 +44059,7 @@
     "memo": "資工組，上課地點：國防大學理工學院",
     "name": "數位電路設計 Digital Circuit Design",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "陳丙堃",
     "time": "M678-"
   },
@@ -44071,7 +44071,7 @@
     "memo": "資工組，上課地點：國防大學理工學院",
     "name": "計算機網路 Computer Networks",
     "num_limit": "9999",
-    "reg_num": "31",
+    "reg_num": "30",
     "teacher": "張凱威",
     "time": "R234-"
   },

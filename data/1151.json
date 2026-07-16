@@ -1652,7 +1652,7 @@
     "name": "社區衛生護理學 Community Health Nursing",
     "num_limit": "50",
     "reg_num": "35",
-    "teacher": "林承霈、黃子庭、陳怡如、簡莉盈、劉佩青、周承珍、張芬娥、周明慧",
+    "teacher": "林承霈、黃子庭、陳怡如、簡莉盈、劉佩青、周承珍、張丞淯、沈青青、張芬娥、周明慧、唐鳳屏",
     "time": "M1234T1234W1234-YN418[YM]"
   },
   "1151_111809": {
@@ -1664,7 +1664,7 @@
     "name": "社區衛生護理學實習 Community Health Nursing Practice",
     "num_limit": "50",
     "reg_num": "35",
-    "teacher": "林承霈、周承珍、廖咨詠、林麗華、吳佳珊、張芬娥、周明慧、劉慧芬",
+    "teacher": "林承霈、周承珍、廖咨詠、林麗華、吳佳珊、張芬娥、周明慧、劉慧芬、唐鳳屏",
     "time": "M12345678T12345678W12345678-"
   },
   "1151_111810": {
@@ -3967,7 +3967,7 @@
     "memo": "選修者限已修讀過科學文獻研讀與分析(上)，並經授課教師同意。分組上課，上課教室為傳甲101和守仁102",
     "name": "論文閱讀與分析方法(上) Paper Reading and Analysis,1st semester",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "44",
     "teacher": "孫維欣、林崇智、陳儀聰、藍昇輝",
     "time": "T56-YK101[YM],T56-YR102[YM]"
   },
@@ -3979,7 +3979,7 @@
     "memo": "分組上課，上課教室圖資403和守仁105",
     "name": "科學文獻研讀與分析(上) Scientific literature reading and analysis I",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "翁雨蕙、羅清維、李曉暉、張欣暘",
     "time": "W34-YL403[YM],W34-YR105[YM]"
   },
@@ -4039,7 +4039,7 @@
     "memo": "大三導師時間，時間地點另行安排",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "張欣暘、陳俊銘、羅清維、李曉暉",
     "time": ""
   },
@@ -4051,7 +4051,7 @@
     "memo": "大四導師時間，時間地點另行安排",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "45",
     "teacher": "陳儀聰、孫維欣、林崇智、藍昇輝、翁雨蕙",
     "time": ""
   },
@@ -6284,7 +6284,7 @@
     "name": "中草藥實證科學特論 Special Topic on Evidence-based Chinese Herbal Medicine",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "林東毅、徐蔚泓",
+    "teacher": "林東毅、徐蔚泓、林志虎",
     "time": "M78-YR102[YM]"
   },
   "1151_130601": {
@@ -6535,7 +6535,7 @@
     "memo": "碩、博士班必選",
     "name": "衛生福利專題討論(B) Seminar on Health and Welfare Research (B)",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "林文旭、藍凡耘",
     "time": "T56-YN611[YM]"
   },
@@ -8072,7 +8072,7 @@
     "name": "護理理論 Theoretical Basis in Nursing",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "陳紀雯、黃升苗、許樹珍、黃久美、劉影梅、廖媛美、胡慧蘭、張秀如、劉佩青、廖咨詠、黃莉婷",
+    "teacher": "陳紀雯、黃升苗、鄭夙芬、黃久美、劉影梅、廖媛美、張秀如、劉佩青、廖咨詠、黃莉婷",
     "time": "T234-YN511[YM]"
   },
   "1151_131707": {
@@ -18343,7 +18343,7 @@
     "memo": "[English Medium Course]",
     "name": "數位訊號處理導論 Introduction to Digital Signal Processing",
     "num_limit": "60",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "馮智豪",
     "time": "T56R8-ED101[GF]"
   },
@@ -18451,7 +18451,7 @@
     "memo": "限電機系",
     "name": "資料結構 Data Structure",
     "num_limit": "100",
-    "reg_num": "100",
+    "reg_num": "99",
     "teacher": "黃俊達",
     "time": "W34n-ED116[GF]"
   },
@@ -18607,7 +18607,7 @@
     "memo": "",
     "name": "電腦網路導論 Introduction to Computer Networks ",
     "num_limit": "90",
-    "reg_num": "4",
+    "reg_num": "3",
     "teacher": "林光勛",
     "time": "R34-ED116[GF],T2-ED219[GF]"
   },
@@ -18667,7 +18667,7 @@
     "memo": "[English Medium Course]",
     "name": "用Python於數據科學和機器學習 Lab on Python for data science and machine learning",
     "num_limit": "100",
-    "reg_num": "34",
+    "reg_num": "33",
     "teacher": "李冕",
     "time": "W567-"
   },
@@ -22291,7 +22291,7 @@
     "memo": "",
     "name": "導師時間 Mentor's Hours0",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "32",
     "teacher": "安勤之、程源中",
     "time": "W78-A509[GF]"
   },
@@ -22303,7 +22303,7 @@
     "memo": "百川學生優先",
     "name": "百川學堂(一) Arete To-Be (I)",
     "num_limit": "40",
-    "reg_num": "6",
+    "reg_num": "36",
     "teacher": "安勤之",
     "time": "W56-"
   },
@@ -22399,7 +22399,7 @@
     "memo": "",
     "name": "專題探索(一) Topics Exploration (I)",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "36",
     "teacher": "程源中",
     "time": ""
   },
@@ -26911,7 +26911,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "103",
+    "reg_num": "102",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -27166,6 +27166,18 @@
     "reg_num": "6",
     "teacher": "吉里斯",
     "time": "F567-EE116[GF]"
+  },
+  "1151_535915": {
+    "code": "STST30053",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "535915",
+    "memo": "[English Medium Course]",
+    "name": "新興記憶體技術 Emerging Memory Technologies",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "待聘",
+    "time": "T567-EE116[GF]"
   },
   "1151_535950": {
     "code": "STVS30005",
@@ -31423,7 +31435,7 @@
     "memo": "",
     "name": "視訊串流與追蹤 Video Streaming and Tracking",
     "num_limit": "9999",
-    "reg_num": "7",
+    "reg_num": "6",
     "teacher": "蔡文錦",
     "time": "Mabc-EC115[GF]"
   },
@@ -31435,7 +31447,7 @@
     "memo": "",
     "name": "作業系統 Operating System",
     "num_limit": "9999",
-    "reg_num": "25",
+    "reg_num": "23",
     "teacher": "陳碩漢",
     "time": "Wabc-EC114[GF]"
   },
@@ -31447,7 +31459,7 @@
     "memo": "",
     "name": "人工智慧 Artificial Intelligence",
     "num_limit": "9999",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "顏羽君",
     "time": "Tabc-EC114[GF]"
   },

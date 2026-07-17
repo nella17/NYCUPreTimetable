@@ -763,7 +763,7 @@
     "memo": "限醫三牙二, 上課時間及地點請參照PBL整合課程行事曆",
     "name": "組織學實驗 Lab. in Histology",
     "num_limit": "9999",
-    "reg_num": "189",
+    "reg_num": "191",
     "teacher": "傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、郭曉縈、蔣偉程、彭淑婷、劉皓云、蔡國樞",
     "time": "M1234T12345678W1234R12345678F1234-YED109[YM]"
   },
@@ -775,7 +775,7 @@
     "memo": "限醫三牙二, 上課時間及地點請參照PBL整合課程行事曆",
     "name": "組織學 Histology",
     "num_limit": "9999",
-    "reg_num": "187",
+    "reg_num": "188",
     "teacher": "傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、郭曉縈、蔣偉程、周昆達、吳宏達、熊偉",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
@@ -823,7 +823,7 @@
     "memo": "限醫三牙二，上課時間及地點請參照PBL整合課程行事曆",
     "name": "生理學 Physiology",
     "num_limit": "200",
-    "reg_num": "187",
+    "reg_num": "188",
     "teacher": "林惠菁、陳政育、阮琪昌、李怡萱、張原翊、吳莉玲",
     "time": "M1234T1234W1234R1234F1234-YT001[YM]"
   },
@@ -1580,7 +1580,7 @@
     "name": "成人護理學Ⅱ Adult NursingⅡ",
     "num_limit": "50",
     "reg_num": "37",
-    "teacher": "侯宜菁、孫秀卿、黃升苗、陳俞琪、邱愛富、廖媛美、胡慧蘭、黃淑鶴、楊曼華、廖咨詠、廖淑櫻、詹雅惠、童惠芳、呂翠萍、曾倩倩",
+    "teacher": "侯宜菁、孫秀卿、黃升苗、陳俞琪、邱愛富、廖媛美、胡慧蘭、黃淑鶴、楊曼華、陳律言、廖咨詠、廖淑櫻、詹雅惠、童惠芳、呂翠萍、曾倩倩",
     "time": "M5678T5678W5678-YN416[YM]"
   },
   "1151_111803": {
@@ -1592,7 +1592,7 @@
     "name": "成人護理學實習Ⅰ Adult Nursing PracticeⅠ",
     "num_limit": "50",
     "reg_num": "36",
-    "teacher": "侯宜菁、黃升苗、黃淑鶴、楊曼華、陳律言、梁靜娟、周珊如、吳碧珠、李雅雯、莊瑞玲、施瓊玉、張嘉琪、郭憶文、蘇惠文",
+    "teacher": "侯宜菁、黃升苗、黃淑鶴、楊曼華、陳律言、梁靜娟、林家弘、許志忠、古玉貞、周珊如、吳碧珠、呂政憲、李雅雯、粘乃欣、莊瑞玲、施瓊玉、陳蘊珩、鄒宗泰、王曉君、張嘉琪、郭憶文、許鈺絹、蘇惠文、李雅雯",
     "time": "M12345678T12345678W12345678-YN416[YM]"
   },
   "1151_111804": {
@@ -1604,7 +1604,7 @@
     "name": "成人護理學Ⅰ Adult NursingⅠ",
     "num_limit": "50",
     "reg_num": "37",
-    "teacher": "侯宜菁、陳俞琪、邱愛富、胡慧蘭、黃淑鶴、楊曼華、陳律言、廖咨詠",
+    "teacher": "侯宜菁、孫秀卿、陳俞琪、邱愛富、廖媛美、胡慧蘭、黃淑鶴、楊曼華、陳律言、廖咨詠、廖淑櫻、童惠芳、呂翠萍、曾倩倩",
     "time": "M1234T1234W1234-YN416[YM]"
   },
   "1151_111805": {
@@ -1628,7 +1628,7 @@
     "name": "成人護理學實習Ⅱ Adult Nursing PracticeⅡ",
     "num_limit": "254",
     "reg_num": "36",
-    "teacher": "侯宜菁、黃升苗、梁靜娟、林曼玲、周珊如、吳碧珠、余白妃、莊瑞玲、梁巧儒、施瓊玉、張嘉琪、郭憶文、許鈺絹、蘇惠文、楊翎玉",
+    "teacher": "侯宜菁、黃升苗、黃淑鶴、楊曼華、陳律言、梁靜娟、林家弘、林曼玲、許志忠、古玉貞、周珊如、吳碧珠、余白妃、呂政憲、粘乃欣、莊瑞玲、梁巧儒、施瓊玉、陳蘊珩、鄒宗泰、王曉君、張嘉琪、郭憶文、許鈺絹、蘇惠文、楊翎玉、李雅雯",
     "time": "M12345678T12345678W12345678-YN416[YM]"
   },
   "1151_111807": {
@@ -2143,7 +2143,7 @@
     "memo": "暑期上課。",
     "name": "中藥炮製學 Processing of Chinese Medicine",
     "num_limit": "9999",
-    "reg_num": "63",
+    "reg_num": "64",
     "teacher": "陳日榮、賴尚志",
     "time": "U123-"
   },
@@ -4688,7 +4688,7 @@
     "name": "中醫醫院觀摩學習(二) Hospital Clinical Observation Program of Chinese Medicine(II)",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "林東毅、洪裕強、許中華、張清貿、龔彥穎、吳建隆、楊仁鄰、廖麗蘭、徐蔚泓、彭溫雅、邱榮鵬、蔡文興、黃伯瑜、陳建宏",
+    "teacher": "林東毅、洪裕強、許中華、張清貿、龔彥穎、蔡一成、吳建隆、楊仁鄰、廖麗蘭、徐蔚泓、彭溫雅、邱榮鵬、蔡文興、黃伯瑜、陳建宏",
     "time": "R9-YK910[YM]"
   },
   "1151_113910": {
@@ -5995,7 +5995,7 @@
     "memo": "限醫學三、牙醫二及解剖所(解剖組)之必修生修習。\n不提供外系/所選修",
     "name": "大體解剖學實驗 Gross Anatomy Laboratory",
     "num_limit": "9999",
-    "reg_num": "192",
+    "reg_num": "193",
     "teacher": "傅毓秀、鄭瓊娟、侯珮珊、李學德、王先逸、蔡佩君、郭曉縈、蔣偉程、林坤陽、彭淑婷、劉皓云、蔡國樞",
     "time": "T567W567R123-YEC109[YM]"
   },
@@ -7700,7 +7700,7 @@
     "name": "臨床口腔癌化特論(二) Clinical Oral Oncology (Ⅱ)",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "涂曦丰、楊政杰、黎萬君、林宥成、洪佩詩",
+    "teacher": "涂曦丰、楊政杰、黎萬君、林宥成、洪佩詩、周忠憲",
     "time": "F89-YD302[YM]"
   },
   "1151_131406": {
@@ -7869,7 +7869,7 @@
     "num_limit": "30",
     "reg_num": "2",
     "teacher": "黎萬君",
-    "time": "M12-YD302[YM]"
+    "time": "T34-YD302[YM]"
   },
   "1151_131505": {
     "code": "DEOB30033",
@@ -21463,7 +21463,7 @@
     "memo": "如欲選修本課程，請至應化系辦公室索取「專題研究生選填指導教授同意書」，於系辦規定之時程內，完成簽署且將「專題研究生選填指導教授同意書」繳回系辦，俾利選課。",
     "name": "專題研究(二) Research (2)",
     "num_limit": "0",
-    "reg_num": "7",
+    "reg_num": "10",
     "teacher": "吳彥谷",
     "time": "S234-"
   },
@@ -26911,7 +26911,7 @@
     "memo": "[English Medium Course]",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "102",
+    "reg_num": "101",
     "teacher": "電資碩士學程",
     "time": ""
   },
@@ -27007,7 +27007,7 @@
     "memo": "[English Medium Course]僅限有指導教授之碩士生選修",
     "name": "學位論文研究 Academic Dissertation Research",
     "num_limit": "9999",
-    "reg_num": "94",
+    "reg_num": "93",
     "teacher": "半導體所",
     "time": ""
   },
@@ -27019,7 +27019,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "124",
+    "reg_num": "123",
     "teacher": "杜長慶",
     "time": "W567-AB101[GF]"
   },
@@ -37903,7 +37903,7 @@
     "memo": "土木AB",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "53",
+    "reg_num": "52",
     "teacher": "陳建至",
     "time": "F234-SA015[GF]"
   },
@@ -37915,7 +37915,7 @@
     "memo": "[English Medium Course]土木C",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "陳建至",
     "time": "F234-SA014[GF]"
   },
@@ -40267,7 +40267,7 @@
     "memo": "動力組，重補修隨班附讀，上課地點：國防大學理工學院，授課教師：體育室教師",
     "name": "體育(3) Physical Education(3)",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "系統工程",
     "time": "T34-"
   },
@@ -41131,7 +41131,7 @@
     "memo": "動力組，上課地點：國防大學理工學院，授課教師：羅金棟老師",
     "name": "大陸問題研究 Studies on Mainland China",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "系統工程",
     "time": "M678-"
   },
@@ -43435,7 +43435,7 @@
     "memo": "動力組，上課地點：國防大學理工學院",
     "name": "工程數學(1) Engineering Mathematics(1)",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "吳文銓",
     "time": "F123-"
   },
@@ -43447,7 +43447,7 @@
     "memo": "動力組，上課地點：國防大學理工學院，授課教師：黃國鑫、蔡林昌老師",
     "name": "工廠實習 Workshop Practice",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "系統工程",
     "time": "W12-"
   },
@@ -43459,7 +43459,7 @@
     "memo": "動力組，上課地點：國防大學理工學院",
     "name": "熱力學 Thermodynamics",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "黃寶錩",
     "time": "M34T1-"
   },
@@ -43471,7 +43471,7 @@
     "memo": "動力組，上課地點：國防大學理工學院",
     "name": "應用力學－靜力學 Engineering Mechanics - Statics",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "陳幼良",
     "time": "T678-"
   },

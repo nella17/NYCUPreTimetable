@@ -2191,7 +2191,7 @@
     "memo": "",
     "name": "臨床生化學實習 Clinical Biochemistry Practice Lab Internship",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "黃琤、張懿欣",
     "time": "M2-"
   },
@@ -2203,7 +2203,7 @@
     "memo": "",
     "name": "病理切片及細胞診斷實習 Pathological Technology & Diagnosis Cytology Practice",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "黃尉倫、呂世正",
     "time": "R5-"
   },
@@ -2215,7 +2215,7 @@
     "memo": "",
     "name": "臨床血庫實習 Clinical Blood Banking Lab Internship",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "涂玉青、蘇美慈",
     "time": "T6-"
   },
@@ -2227,7 +2227,7 @@
     "memo": "",
     "name": "臨床血清免疫實習 Clinical Serology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "孫光蕙、黃智生",
     "time": "T7-"
   },
@@ -2239,7 +2239,7 @@
     "memo": "",
     "name": "臨床生理學實習 Clinical Physiology Practice Lab Internship",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "吳韋訥",
     "time": "M3-"
   },
@@ -2251,7 +2251,7 @@
     "memo": "",
     "name": "臨床血液學實習 Clinical Hematology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "呂世正、蘇美慈",
     "time": "T8-"
   },
@@ -2263,7 +2263,7 @@
     "memo": "",
     "name": "臨床病毒學實習 Clinical Virology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "龔思豪、蘇美慈、洪小雅",
     "time": "T5-"
   },
@@ -2275,7 +2275,7 @@
     "memo": "",
     "name": "臨床鏡檢及寄生蟲學實習 Clinical Microscopy & Parasitology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "黃智生、黃尉倫",
     "time": "M4-"
   },
@@ -2287,7 +2287,7 @@
     "memo": "",
     "name": "醫學分子檢驗實習 Molecular Diagnosis in Medicine Lab Internship",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "龔思豪、洪小雅",
     "time": "R4-"
   },
@@ -2299,7 +2299,7 @@
     "memo": "",
     "name": "臨床微生物學實習 Clinical Microbiology Lab Internship",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "45",
     "teacher": "吳韋訥、楊翠青",
     "time": "M1-"
   },
@@ -2395,7 +2395,7 @@
     "memo": "",
     "name": "大四導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "張懿欣、楊翠青、蘇美慈",
     "time": "R9-"
   },
@@ -22506,7 +22506,7 @@
     "id": "519518",
     "memo": "[English Medium Course] 楊小賢老師",
     "name": "香港電影簡史 A Journey Through Hong Kong Cinema",
-    "num_limit": "0",
+    "num_limit": "30",
     "reg_num": "0",
     "teacher": "百川",
     "time": ""
@@ -25783,7 +25783,7 @@
     "memo": "[English Medium Course]",
     "name": "統計力學 Statistical Mechanics",
     "num_limit": "80",
-    "reg_num": "30",
+    "reg_num": "31",
     "teacher": "渡邊浩志",
     "time": "F789-ED203[GF]"
   },
@@ -25843,7 +25843,7 @@
     "memo": "[English Medium Course]",
     "name": "量子力學 Quantum Mechanics",
     "num_limit": "80",
-    "reg_num": "47",
+    "reg_num": "48",
     "teacher": "渡邊浩志",
     "time": "R789-ED219[GF]"
   },
@@ -28687,7 +28687,7 @@
     "memo": "跨域學程課程。",
     "name": "藥物設計 Drug Design and Development",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "1",
     "teacher": "孫仲銘",
     "time": "T234-SB522[GF]"
   },

@@ -463,7 +463,7 @@
     "memo": "1. 限土木系大二以上有參加暑期實習的同學選修。\n2. 上課時間：115.07.01~115.08.28。\n3. 請在暑修公告下載[暑修加簽單]，於6/25下午3:00 前送交土木系辦辦理。",
     "name": "工程實習(三)  Engineering Internship Practice (III) ",
     "num_limit": "0",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "土木系",
     "time": ""
   },
@@ -476,7 +476,7 @@
     "name": "專題研究(一) Independent Study (I)",
     "num_limit": "0",
     "reg_num": "1",
-    "teacher": "",
+    "teacher": "理學院學士班",
     "time": ""
   },
   "114X_516501": {
@@ -488,7 +488,7 @@
     "name": "跨領域科學專題(五) Directed Studies in Interdisplinary Science(V)",
     "num_limit": "0",
     "reg_num": "12",
-    "teacher": "",
+    "teacher": "理學院學士班",
     "time": ""
   },
   "114X_516502": {
@@ -500,7 +500,7 @@
     "name": "跨領域科學專題(六) Directed Studies in Interdisplinary Science(VI)",
     "num_limit": "0",
     "reg_num": "10",
-    "teacher": "",
+    "teacher": "理學院學士班",
     "time": ""
   },
   "114X_516800": {
@@ -1072,11 +1072,11 @@
     "credit": "4.00",
     "hours": "4.00",
     "id": "564001",
-    "memo": "【不能同時修習微積分一、二。大四除外】7/1(三)~8/6(四)。人數上限=100，為方便同學選課，暫改為不限。\n",
+    "memo": "【不能同時修習微積分一、二。大四除外】7/1(三)~8/6(四)。人數上限=100，為方便同學選課，暫改為不限。授課老師：呂楊凱。\n",
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "9999",
     "reg_num": "74",
-    "teacher": "呂楊凱",
+    "teacher": "應數系",
     "time": "M234T234W234R234-SA320[GF]"
   },
   "114X_564002": {

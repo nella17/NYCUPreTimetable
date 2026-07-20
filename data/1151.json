@@ -1604,7 +1604,7 @@
     "name": "成人護理學Ⅰ Adult NursingⅠ",
     "num_limit": "50",
     "reg_num": "37",
-    "teacher": "侯宜菁、孫秀卿、陳俞琪、邱愛富、廖媛美、胡慧蘭、黃淑鶴、楊曼華、陳律言、廖咨詠、廖淑櫻、童惠芳、呂翠萍、曾倩倩",
+    "teacher": "侯宜菁、孫秀卿、陳俞琪、邱愛富、廖媛美、胡慧蘭、黃淑鶴、楊曼華、陳律言、廖咨詠、廖淑櫻、詹雅惠、童惠芳、呂翠萍、曾倩倩",
     "time": "M1234T1234W1234-YN416[YM]"
   },
   "1151_111805": {
@@ -2143,7 +2143,7 @@
     "memo": "暑期上課。",
     "name": "中藥炮製學 Processing of Chinese Medicine",
     "num_limit": "9999",
-    "reg_num": "64",
+    "reg_num": "65",
     "teacher": "陳日榮、賴尚志",
     "time": "U123-"
   },
@@ -9092,7 +9092,7 @@
     "name": "癌症細胞生物學 Cancer Cell Biology",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "洪小雅",
+    "teacher": "洪小雅、張耀文",
     "time": "M56-YT103[YM]"
   },
   "1151_132210": {
@@ -22305,7 +22305,7 @@
     "num_limit": "40",
     "reg_num": "36",
     "teacher": "安勤之",
-    "time": "W56-"
+    "time": "W56-A203[GF]"
   },
   "1151_519502": {
     "code": "XDAP00003",
@@ -22341,7 +22341,7 @@
     "num_limit": "40",
     "reg_num": "37",
     "teacher": "程源中",
-    "time": "F56-"
+    "time": "F56-A213[GF]"
   },
   "1151_519505": {
     "code": "XDAP20008",
@@ -22473,7 +22473,7 @@
     "num_limit": "50",
     "reg_num": "44",
     "teacher": "程源中",
-    "time": "F789-"
+    "time": "F789-A203[GF]"
   },
   "1151_519516": {
     "code": "XDAP00042",
@@ -22486,18 +22486,6 @@
     "reg_num": "25",
     "teacher": "",
     "time": "M567-"
-  },
-  "1151_519517": {
-    "code": "XDAP00040",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "519517",
-    "memo": "[English Medium Course]楊小賢老師",
-    "name": "東亞電影 East Asian Cinemas",
-    "num_limit": "0",
-    "reg_num": "0",
-    "teacher": "百川",
-    "time": ""
   },
   "1151_519518": {
     "code": "XDAP00041",
@@ -32884,11 +32872,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561005",
-    "memo": "授課教師：許哲瑛老師",
+    "memo": "",
     "name": "世界藝術史選讀 Topics in World Art History",
     "num_limit": "38",
     "reg_num": "19",
-    "teacher": "待聘",
+    "teacher": "許哲瑛",
     "time": "W34-A204[GF]"
   },
   "1151_561006": {
@@ -33364,11 +33352,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561048",
-    "memo": "1.[English Medium Course] 2.新生優先選課 3.授課教師：許哲瑛老師",
+    "memo": "1.[English Medium Course] 2.新生優先選課",
     "name": "藝術史中的日常 An Art History of Everyday Life",
     "num_limit": "0",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "許哲瑛",
     "time": "W56-A204[GF]"
   },
   "1151_561049": {
@@ -33664,11 +33652,11 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561076",
-    "memo": "1.115學年度入學生需含必修「基本素養-全球視野」2學分。為優先保障新生修課需求，此類別課程於初選第一及第二階段暫不開放舊生選課。2.授課教師：蔡儀儂老師",
+    "memo": "115學年度入學生需含必修「基本素養-全球視野」2學分。為優先保障新生修課需求，此類別課程於初選第一及第二階段暫不開放舊生選課。",
     "name": "東北亞政經議題分析 Analysis of Political and Economic Issues in Northeast As",
     "num_limit": "0",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "蔡儀儂",
     "time": "T56-A202[GF]"
   },
   "1151_561077": {
@@ -44840,7 +44828,7 @@
     "name": "全民國防教育軍事訓練課程－防衛動員 All-out Defense Education Military Training-Defense Mobilization",
     "num_limit": "55",
     "reg_num": "25",
-    "teacher": "待聘",
+    "teacher": "黃郁文",
     "time": "F56-YX503[YM]"
   },
   "1151_960002": {

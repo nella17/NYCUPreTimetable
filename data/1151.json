@@ -20,8 +20,8 @@
     "name": "代數數論一 Algebraic Number Theory I",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "魏福村",
+    "time": "F234-"
   },
   "1151_030003": {
     "code": "IADI00248",
@@ -32,8 +32,8 @@
     "name": "代數拓樸 Algebraic Topology",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "陳國璋",
+    "time": "R678-"
   },
   "1151_030004": {
     "code": "IADI00003",
@@ -44,8 +44,20 @@
     "name": "微分幾何一 Differential Geometry I",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "",
-    "time": ""
+    "teacher": "何南國",
+    "time": "T678W9-"
+  },
+  "1151_030005": {
+    "code": "IADI00333",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "030005",
+    "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，綜三118。11510MATH688000",
+    "name": "離散動力系統 Discrete Dynamic System",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "戴佳原",
+    "time": "W234-"
   },
   "1151_110000": {
     "code": "MDMD10099",
@@ -799,7 +811,7 @@
     "memo": "限醫三牙二, 上課時間及地點請參照PBL整合課程行事曆",
     "name": "胚胎學 Embryology",
     "num_limit": "9999",
-    "reg_num": "188",
+    "reg_num": "189",
     "teacher": "傅毓秀、鄭瓊娟、李學德、王先逸",
     "time": "M1234T1234W1234R1234F1234-YT001[YM]"
   },
@@ -811,7 +823,7 @@
     "memo": "限醫三牙二, 上課時間及地點請參照PBL整合課程行事曆",
     "name": "組織學實驗 Lab. in Histology",
     "num_limit": "9999",
-    "reg_num": "193",
+    "reg_num": "194",
     "teacher": "傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、郭曉縈、蔣偉程、彭淑婷、劉皓云、蔡國樞",
     "time": "M1234T12345678W1234R12345678F1234-YED109[YM]"
   },
@@ -823,7 +835,7 @@
     "memo": "限醫三牙二, 上課時間及地點請參照PBL整合課程行事曆",
     "name": "組織學 Histology",
     "num_limit": "9999",
-    "reg_num": "188",
+    "reg_num": "189",
     "teacher": "傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、郭曉縈、蔣偉程、周昆達、吳宏達、熊偉",
     "time": "M1234T12345678W1234R12345678F1234-YT001[YM]"
   },
@@ -859,7 +871,7 @@
     "memo": "",
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
-    "reg_num": "149",
+    "reg_num": "150",
     "teacher": "楊智傑、黃金洲、楊懷哲、宋思賢、紀乃方、梁立霖、梁仁峯、林祐霆、郭曉縈、吳莉玲、陳明德、黃文彬、王維庭、陳威志",
     "time": ""
   },
@@ -871,7 +883,7 @@
     "memo": "限醫三牙二，上課時間及地點請參照PBL整合課程行事曆",
     "name": "生理學 Physiology",
     "num_limit": "200",
-    "reg_num": "188",
+    "reg_num": "189",
     "teacher": "林惠菁、陳政育、阮琪昌、李怡萱、張原翊、吳莉玲",
     "time": "M1234T1234W1234R1234F1234-YT001[YM]"
   },
@@ -4892,7 +4904,7 @@
     "name": "醫學新知 New medical knowledge",
     "num_limit": "30",
     "reg_num": "28",
-    "teacher": "林滿玉、黃琤、林東毅、吳彥谷、孫仲銘、蔡明翰、王鼎涵、廖咨詠、邱仁輝、黃聰龍、王致又、簡采汝、林舜穀",
+    "teacher": "林滿玉、林惠菁、黃琤、林東毅、孫家偉、蘇信寧、蔡明翰、王鼎涵、廖咨詠、花偉鈞、林舜穀、楊逸萍、黃義龍",
     "time": "W34-YK912[YM]"
   },
   "1151_113922": {
@@ -5805,7 +5817,7 @@
     "num_limit": "30",
     "reg_num": "3",
     "teacher": "蒲正筠、周穎政",
-    "time": "F12-YS221[YM]"
+    "time": "F34-YS221[YM]"
   },
   "1151_130212": {
     "code": "MDPH30009",
@@ -5901,7 +5913,7 @@
     "num_limit": "9999",
     "reg_num": "5",
     "teacher": "陳瓊梅、温啟仲、林明薇、林逸芬、郭炤裕",
-    "time": "F34-YS221[YM]"
+    "time": "F34-YS405[YM]"
   },
   "1151_130221": {
     "code": "MDPH30118",
@@ -5985,7 +5997,7 @@
     "num_limit": "9999",
     "reg_num": "1",
     "teacher": "温啟仲、林明薇、林逸芬、郭炤裕、陳瓊梅",
-    "time": "F34-YS221[YM]"
+    "time": "F34-YS405[YM]"
   },
   "1151_130229": {
     "code": "MDPH30129",
@@ -6055,7 +6067,7 @@
     "memo": "限醫學三、牙醫二及解剖所(解剖組)之必修生修習。\n不提供外系/所選修",
     "name": "大體解剖學實驗 Gross Anatomy Laboratory",
     "num_limit": "9999",
-    "reg_num": "199",
+    "reg_num": "200",
     "teacher": "傅毓秀、鄭瓊娟、侯珮珊、李學德、王先逸、蔡佩君、郭曉縈、蔣偉程、林坤陽、彭淑婷、劉皓云、蔡國樞",
     "time": "T567W567R123-YEC109[YM]"
   },
@@ -6067,7 +6079,7 @@
     "memo": "限醫學三、牙醫二及解剖所(解剖組)之必修生修習。\n不提供外系/所選修",
     "name": "大體解剖學 Gross Anatomy",
     "num_limit": "220",
-    "reg_num": "188",
+    "reg_num": "189",
     "teacher": "傅毓秀、鄭瓊娟、侯珮珊、李學德、王先逸、蔡佩君、郭曉縈、蔣偉程、林坤陽",
     "time": "M1234-YT001[YM]"
   },
@@ -9669,7 +9681,7 @@
     "num_limit": "32",
     "reg_num": "15",
     "teacher": "楊雅如、陳喬男、李雪楨、劉力幗、吳品嫻、王怡品、邱宜蓁",
-    "time": "R34-YB603[YM]"
+    "time": "R34-YT206[YM]"
   },
   "1151_132417": {
     "code": "BEPT20006",
@@ -27115,7 +27127,7 @@
     "memo": "[English Medium Course]",
     "name": "書報討論 Seminar",
     "num_limit": "9999",
-    "reg_num": "123",
+    "reg_num": "122",
     "teacher": "杜長慶",
     "time": "W567-AB101[GF]"
   },
@@ -27969,7 +27981,7 @@
     "num_limit": "9999",
     "reg_num": "8",
     "teacher": "高明秀",
-    "time": "R234-EB415[GF]"
+    "time": "W234-CS105[GF]"
   },
   "1151_536300": {
     "code": "ENMS30026",
@@ -42844,7 +42856,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910251",
-    "memo": "化材組，上課地點：國防大學理工學院",
+    "memo": "(停開)",
     "name": "高分子導論 Introduction to Polymer",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42916,7 +42928,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910257",
-    "memo": "化材組，上課地點：國防大學理工學院，授課教師：劉冠儀老師",
+    "memo": "(停開)",
     "name": "電化學專題實作(1) Special Project on Electrochemistry(1)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42964,7 +42976,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910261",
-    "memo": "化材組，上課地點：國防大學理工學院",
+    "memo": "(停開)",
     "name": "核子放射防護與消除 Protecting and Clean Technology of Radiochemistry",
     "num_limit": "9999",
     "reg_num": "0",
@@ -42976,7 +42988,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910262",
-    "memo": "化材組，上課地點：國防大學理工學院",
+    "memo": "(停開)",
     "name": "生物化學 Biochemistry",
     "num_limit": "9999",
     "reg_num": "0",

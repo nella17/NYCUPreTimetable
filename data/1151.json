@@ -1280,7 +1280,7 @@
     "name": "口腔胚胎及組織學 Oral Embryology & Histology",
     "num_limit": "50",
     "reg_num": "42",
-    "teacher": "張婷菡、林怡彣、吳靜宜、王鼎涵、夏堪臺、張蓮鈺",
+    "teacher": "張婷菡、林怡彣、吳靜宜、王鼎涵、蘇真瑩、夏堪臺、張蓮鈺",
     "time": "F34-YD320[YM]"
   },
   "1151_111514": {
@@ -1292,7 +1292,7 @@
     "name": "口腔胚胎及組織學實驗 Oral Embryology & Histology Lab.",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "張婷菡、林怡彣、吳靜宜、蘇真瑩",
+    "teacher": "張婷菡、林怡彣、吳靜宜、蘇真瑩、張蓮鈺",
     "time": "F567-YD320[YM]"
   },
   "1151_111515": {
@@ -4663,7 +4663,7 @@
     "memo": "限114-2健康傳播組(暑)、115-1部桃愛心組(寒)",
     "name": "醫學人文的實踐 The Practice of Medical Humanities",
     "num_limit": "0",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "楊秀儀、楊智傑、林雅萍、盧鴻毅、鄭健禹",
     "time": "Ucd-"
   },
@@ -4792,7 +4792,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "113911",
-    "memo": "本課程實際授課時間為單數週週四7.8節，另有雙數週課程「醫療服務的故事」可供修習。",
+    "memo": "本課程實際授課時間為單週週四7.8節，另有對開課程「大醫精誠」可供修習。",
     "name": "醫學生涯 Medical career",
     "num_limit": "9999",
     "reg_num": "28",
@@ -15776,7 +15776,7 @@
     "name": "細胞生物學(一) Cell Biology (I)",
     "num_limit": "35",
     "reg_num": "18",
-    "teacher": "梁美智",
+    "teacher": "梁美智、劉品吾",
     "time": "F34-BI311[BA]"
   },
   "1151_410017": {
@@ -19199,6 +19199,18 @@
     "teacher": "楊智喬",
     "time": "W9ab-ED101[GF]"
   },
+  "1151_515223": {
+    "code": "EEDM10016",
+    "credit": "2.00",
+    "hours": "4.00",
+    "id": "515223",
+    "memo": "",
+    "name": "電子實驗(一) Electronics Lab.Ⅰ",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "柯明道、陳建安",
+    "time": "F5678-"
+  },
   "1151_515400": {
     "code": "EEDP10010",
     "credit": "3.00",
@@ -19507,7 +19519,7 @@
     "memo": "[English Medium Course]外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級。",
     "name": "演算法概論 Introduction to Algorithms",
     "num_limit": "80",
-    "reg_num": "44",
+    "reg_num": "43",
     "teacher": "荊宇泰",
     "time": "T34R7-EDB27[GF]"
   },
@@ -19567,7 +19579,7 @@
     "memo": "外系生請於開學上網加選；資訊共同；資工系學生優先選課；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級；[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
     "name": "機率 Probability ",
     "num_limit": "110",
-    "reg_num": "109",
+    "reg_num": "108",
     "teacher": "陳穎平",
     "time": "W34-EC122[GF]"
   },
@@ -19807,7 +19819,7 @@
     "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課；學士班七大主題學程；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "資料庫系統概論 Introduction to Database Systems  ",
     "num_limit": "120",
-    "reg_num": "119",
+    "reg_num": "118",
     "teacher": "黃俊龍",
     "time": "M7R34-EDB27[GF]"
   },
@@ -19892,7 +19904,7 @@
     "name": "工程數學（一） Engineering Mathematics(Ⅰ)",
     "num_limit": "60",
     "reg_num": "25",
-    "teacher": "許華倚",
+    "teacher": "王威翔",
     "time": "T2W34-EE130[GF]"
   },
   "1151_516004": {
@@ -20012,7 +20024,7 @@
     "name": "應用電子學 Applied Electrics",
     "num_limit": "40",
     "reg_num": "40",
-    "teacher": "機械系",
+    "teacher": "陳冠任",
     "time": "M8F34-EE206[GF]"
   },
   "1151_516107": {
@@ -20024,7 +20036,7 @@
     "name": "機械工程實驗 (一) Mechanical Engineering Laboratory (I)",
     "num_limit": "55",
     "reg_num": "55",
-    "teacher": "劉義強、黃正昇",
+    "teacher": "劉義強、楊秉祥",
     "time": "Rabc-EE310[GF]"
   },
   "1151_516108": {
@@ -20264,7 +20276,7 @@
     "name": "機械工程實驗 (一) Mechanical Engineering Laboratory (I)",
     "num_limit": "55",
     "reg_num": "37",
-    "teacher": "黃正昇、劉義強",
+    "teacher": "楊秉祥、劉義強",
     "time": "T234-EE310[GF]"
   },
   "1151_516128": {
@@ -23348,7 +23360,7 @@
     "name": "諮商兼職實習 Counseling Practicum",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "待聘",
+    "teacher": "劉宗幸",
     "time": "M234-HA217[GF]"
   },
   "1151_534021": {
@@ -23384,7 +23396,7 @@
     "name": "諮商與心理治療理論專題研究 Seminar in Counseling and Psychotherapy Theory",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "待聘",
+    "teacher": "劉宗幸",
     "time": "R234-HA107[GF]"
   },
   "1151_534024": {
@@ -23408,7 +23420,7 @@
     "name": "婚姻與家庭諮商專題研究 Seminar in Marriage and Family Counseling",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "待聘",
+    "teacher": "李亭萱",
     "time": "T234-HA217[GF]"
   },
   "1151_534026": {
@@ -23420,7 +23432,7 @@
     "name": "諮商倫理與法規專題研究 Seminar in Counseling Ethics and Law ",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "待聘",
+    "teacher": "李亭萱",
     "time": "R234-HA315[GF]"
   },
   "1151_534027": {
@@ -24020,7 +24032,7 @@
     "name": "文化研究方法論  Research Methods in Cultural Studies",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "余庭輝",
+    "teacher": "余庭煇",
     "time": "T567-"
   },
   "1151_534511": {
@@ -25999,7 +26011,7 @@
     "memo": "1.光電系碩、博必選 2.由指導教授約定討論時間及地點",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "115",
+    "reg_num": "205",
     "teacher": "光電系",
     "time": ""
   },
@@ -26047,7 +26059,7 @@
     "memo": "1.光電系碩士班必修 2.光電系碩博士班優先選課3.碩一生統一由本系分發上課班級4.非光電系碩一同學請於開學後加退選選課",
     "name": "光電子學 Optoelectronics",
     "num_limit": "60",
-    "reg_num": "7",
+    "reg_num": "53",
     "teacher": "李柏璁、陳俐吟",
     "time": "W567-CY201[GF]"
   },
@@ -27968,7 +27980,7 @@
     "name": "BIM自動化與應用程式開發 BIM Automation and Application Development",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "高明秀",
+    "teacher": "吳宏翰",
     "time": "W234-CS105[GF]"
   },
   "1151_536300": {
@@ -33152,7 +33164,7 @@
     "name": "亞洲的性別及酷兒研究 Gender, Sexuality, and Queer Studies in Asia",
     "num_limit": "38",
     "reg_num": "15",
-    "teacher": "余庭輝",
+    "teacher": "余庭煇",
     "time": "R56-HB210[GF]"
   },
   "1151_561016": {
@@ -33295,7 +33307,7 @@
     "memo": "「生命與生醫」不接受生科系同學修讀。[English Medium Course]",
     "name": "生命與生醫 Life and Biomedicine",
     "num_limit": "30",
-    "reg_num": "30",
+    "reg_num": "29",
     "teacher": "林苕吟",
     "time": "M56-A203[GF]"
   },
@@ -34759,7 +34771,7 @@
     "memo": "第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課",
     "name": "日文(一) Japanese(I)",
     "num_limit": "35",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "周雅玲",
     "time": "W12-A308[GF]"
   },
@@ -35959,7 +35971,7 @@
     "memo": "1.上課地點：綜合球館B1羽球場。\n2.第一階段開放選課系級：\n百川2\n半導體2\n機械2\n土木2\n資工2\n電物2\n應數2\n生科2\n醫學系(醫師工程師組)2",
     "name": "體育－羽球甲A Badminton",
     "num_limit": "36",
-    "reg_num": "36",
+    "reg_num": "35",
     "teacher": "廖威彰",
     "time": "T78-PE[GF]"
   },
@@ -37472,8 +37484,8 @@
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "蔡秉軒",
-    "time": "M78R34-SC206[GF]"
+    "teacher": "吳昌鴻",
+    "time": "M78R34-SC204[GF]"
   },
   "1151_564003": {
     "code": "GECS10001",
@@ -37520,8 +37532,8 @@
     "name": "微積分甲(一) Calculus A (I)",
     "num_limit": "60",
     "reg_num": "0",
-    "teacher": "吳昌鴻",
-    "time": "M78R34-SC204[GF]"
+    "teacher": "蔡秉軒",
+    "time": "M78R34-SC206[GF]"
   },
   "1151_564007": {
     "code": "GECS10001",
@@ -39128,7 +39140,7 @@
     "name": "分科教材教法(自然領域/生物) Subject-related Teaching Materials & Methods(Biology)",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "佘曉清、薛靜瑩",
+    "teacher": "佘曉清",
     "time": "T56-HA218[GF]"
   },
   "1151_599009": {
@@ -39224,7 +39236,7 @@
     "name": "分科教材教法(社會領域) Teaching Methods and Materials in History and Social Studies",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "待聘",
+    "teacher": "余紫瑛",
     "time": "F56-A303[GF]"
   },
   "1151_599017": {
@@ -39236,7 +39248,7 @@
     "name": "生涯規劃暨職業教育與訓練 Career Planning, Vocational Education and Training",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "待聘",
+    "teacher": "李亭萱",
     "time": "T78-HA315[GF]"
   },
   "1151_638000": {
@@ -40180,7 +40192,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910028",
-    "memo": "資工組，上課地點：國防大學理工學院",
+    "memo": "資工組，上課地點：國防大學理工學院，授課教師：莊曜嘉老師(第1-11週)、楊婷婷老師(第12-18週)",
     "name": "導師輔導(5) Tutor Guidance(5) ",
     "num_limit": "9999",
     "reg_num": "21",
@@ -44308,7 +44320,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910372",
-    "memo": "資工組，上課地點：國防大學理工學院",
+    "memo": "資工組，上課地點：國防大學理工學院，授課教師：張凱威老師(第1-11週)、楊婷婷老師(第12-18週)",
     "name": "程式設計實習(1) Programming Design Practice (1)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -44416,7 +44428,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910381",
-    "memo": "資工組，上課地點：國防大學理工學院",
+    "memo": "資工組，上課地點：國防大學理工學院，授課教師：余琬瑜老師(第1-11週)、楊婷婷老師(第12-18週)",
     "name": "物聯網系統專題實作(1) IoT System Practice(I)",
     "num_limit": "9999",
     "reg_num": "0",
@@ -44476,7 +44488,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910386",
-    "memo": "資工組，上課地點：國防大學理工學院",
+    "memo": "資工組，上課地點：國防大學理工學院，授課教師：余琬瑜老師(第1-11週)、楊婷婷老師(第12-18週)",
     "name": "物聯網系統專題實作(3) IoT System Practice(3)",
     "num_limit": "9999",
     "reg_num": "0",

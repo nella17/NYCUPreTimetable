@@ -2000,7 +2000,7 @@
     "name": "非處方藥學 Non-Prescription Therapeutics",
     "num_limit": "30",
     "reg_num": "26",
-    "teacher": "姜紹青、鄭文柏、陳昭姿、李懿軒、何暐、周子鈞、周佳賢、龍正軒、鄭凱文、羅雅貞、曾冠燁、潘美貝",
+    "teacher": "姜紹青、鄭文柏、曾光洵、陳昭姿、李懿軒、何暐、周子鈞、周佳賢、龍正軒、鄭凱文、羅雅貞、曾冠燁、潘美貝",
     "time": "T56-YR105[YM]"
   },
   "1151_111910": {
@@ -4712,7 +4712,7 @@
     "name": "中醫研究方法 Research Methods of Chinese Medicine",
     "num_limit": "9999",
     "reg_num": "52",
-    "teacher": "張清貿、皮國立、朱學亭、陳光偉、劉耕豪、陳玉昇",
+    "teacher": "張清貿、皮國立、朱學亭、陳光偉、劉耕豪、陳玉昇、黃伯瑜",
     "time": "T34-YK208[YM]"
   },
   "1151_113904": {
@@ -4724,7 +4724,7 @@
     "name": "中醫醫學史 History of Chinese Medicine",
     "num_limit": "30",
     "reg_num": "2",
-    "teacher": "陳方佩、郭文華、黃怡超、陳柏勳、林昭庚、雷祥麟、蔡忠志、陳麒方",
+    "teacher": "陳方佩、郭文華、陳柏勳、蔡忠志、陳麒方、陳致光",
     "time": "R34-YK436[YM],R34-YK912[YM]"
   },
   "1151_113905": {
@@ -4796,7 +4796,7 @@
     "name": "醫學生涯 Medical career",
     "num_limit": "9999",
     "reg_num": "28",
-    "teacher": "許中華、徐蔚泓、黃奎祐、鄭婷宜、張揚楷、虞凱強、魏任宣、戴毓萱",
+    "teacher": "許中華、廖麗蘭、徐蔚泓、陳怡如、張揚楷、虞凱強、魏任宣、戴毓萱",
     "time": "R7-YK208[YM],R7-YK533[YM]"
   },
   "1151_113912": {
@@ -4809,7 +4809,7 @@
     "num_limit": "9999",
     "reg_num": "14",
     "teacher": "許中華",
-    "time": "R8-YK208[YM],R8-YK533[YM],R9-YK912[YM]"
+    "time": "R8-YK208[YM],R8-YK533[YM],R8-YK912[YM]"
   },
   "1151_113913": {
     "code": "MDCH10004",
@@ -4832,7 +4832,7 @@
     "name": "中醫學導論 Introduction to Traditional Chinese Medicine",
     "num_limit": "60",
     "reg_num": "2",
-    "teacher": "許中華、黃怡超、陳方佩、林東毅、張清貿、龔彥穎、彭溫雅、劉佳祐、徐蔚泓、黃奎祐、陳怡如",
+    "teacher": "許中華、黃怡超、陳方佩、林東毅、張清貿、龔彥穎、陳柏勳、彭溫雅、劉佳祐、廖麗蘭、徐蔚泓、黃奎祐、陳怡如、魏任宣",
     "time": "R12-YK436[YM],R12-YK912[YM]"
   },
   "1151_113915": {
@@ -6380,7 +6380,7 @@
     "name": "中醫學概論 Introduction of Traditional Chinese Medicine",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "許中華、陳朝宗、陳怡如、黃伯瑜、鄭婷宜",
+    "teacher": "許中華、陳柏勳、陳朝宗、廖麗蘭、陳怡如、黃伯瑜、鄭婷宜",
     "time": "R56-YR104[YM]"
   },
   "1151_130602": {
@@ -8336,7 +8336,7 @@
     "name": "生物藥學研究方法 Research Methods in Bio-Pharmaceutical Sciences",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "黃奇英、胡瑜峰、游麗如、金翠庭、江季霖、劉福運、林彥竹",
+    "teacher": "黃奇英、胡瑜峰、游麗如、金翠庭、江季霖、盧子喬、劉福運、林彥竹",
     "time": "W56-YC101[YM]"
   },
   "1151_131901": {
@@ -8348,7 +8348,7 @@
     "name": "分子生物學在藥物開發的應用 Molecular Biology in Pharmaceutical Sciences",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "金翠庭、江季霖、曾才郁",
+    "teacher": "金翠庭、江季霖、盧子喬、曾才郁",
     "time": "M34-YC101[YM]"
   },
   "1151_131902": {
@@ -8372,7 +8372,7 @@
     "name": "生物藥學通論 Fundamentals in Biopharmaceutical Sciences",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "張牧新、黃奇英、劉嘉仁、劉峻宇、金翠庭、張御展、江季霖、顏厥全、劉耀中",
+    "teacher": "張牧新、黃奇英、劉嘉仁、劉峻宇、金翠庭、張御展、江季霖、盧子喬、顏厥全、劉耀中",
     "time": "T34-YC101[YM]"
   },
   "1151_131904": {
@@ -8396,7 +8396,7 @@
     "name": "生物藥學通論 Fundamentals in Biopharmaceutical Sciences",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "張牧新、胡瑜峰、黃奇英、劉嘉仁、劉峻宇、金翠庭、蘇溶真、張御展、賴峻毅、江季霖、顏厥全、趙大中",
+    "teacher": "張牧新、胡瑜峰、黃奇英、劉嘉仁、劉峻宇、金翠庭、蘇溶真、張御展、賴峻毅、江季霖、盧子喬、顏厥全、趙大中",
     "time": "R34-YC101[YM]"
   },
   "1151_131906": {
@@ -8420,7 +8420,7 @@
     "name": "生物藥學專題討論A Biopharmaceutical Sciences Seminar A",
     "num_limit": "15",
     "reg_num": "8",
-    "teacher": "金翠庭、江季霖",
+    "teacher": "金翠庭、盧子喬",
     "time": "T12-YC101[YM]"
   },
   "1151_131908": {
@@ -9335,18 +9335,6 @@
     "teacher": "詹家泰",
     "time": "R34n-YEA205[YM]"
   },
-  "1151_132311": {
-    "code": "BEBE30028",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "132311",
-    "memo": "",
-    "name": "磁振造影 Magnetic resonance imaging",
-    "num_limit": "9999",
-    "reg_num": "6",
-    "teacher": "江明彰",
-    "time": "T34n-YEA200-1[Y"
-  },
   "1151_132312": {
     "code": "BEBE30034",
     "credit": "3.00",
@@ -9490,6 +9478,18 @@
     "reg_num": "26",
     "teacher": "賴穎暉、林峻立、劉承揚、陳榮治、劉大中、許如秀、陳維聆",
     "time": "W234-YX502[YM]"
+  },
+  "1151_132325": {
+    "code": "BEBE30001",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "132325",
+    "memo": "",
+    "name": "RFID概論 RFID Introduction",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "朱唯勤",
+    "time": "R34n-YEA301[YM]"
   },
   "1151_132400": {
     "code": "BEPT30030",
@@ -12308,7 +12308,7 @@
     "name": "新藥開發特論(一) Special Topics on Drug Discovery (I)",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "黃奇英、胡瑜峰、何國牟、張牧新、金翠庭、江季霖",
+    "teacher": "黃奇英、胡瑜峰、何國牟、張牧新、金翠庭、江季霖、盧子喬",
     "time": "Uyz-YC101[YM]"
   },
   "1151_141603": {
@@ -14887,7 +14887,7 @@
     "memo": "重修生請於開學前，重新遞交構想書與指導教授同意書後，再由系辦手動加選課程",
     "name": "論文專題與畢業製作(二) Graduation Project (II)",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "48",
     "teacher": "林秀幸、連瑞枝、莊雅仲、簡美玲、段馨君、潘美玲、張藝曦、盧正恒、劉大和、許維德、吳映青、柯朝欽",
     "time": ""
   },

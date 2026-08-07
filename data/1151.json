@@ -11540,7 +11540,7 @@
     "name": "生醫科學實驗技術 Experimental techniques for biomedical science",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "郭津岑、徐嘉琳、陳威儀、王琬菁、葛一樊、金翠庭、廖韋晴、蔡明翰、張崇德、張欣暘、姜為中、陳瀅州、袁維謙",
+    "teacher": "郭津岑、徐嘉琳、陳威儀、王琬菁、陳紀如、葛一樊、廖韋晴、蔡明翰、張崇德、高正彥、張欣暘、姜為中、袁維謙",
     "time": "Wn56-YC516[YM]"
   },
   "1151_133603": {
@@ -11563,7 +11563,7 @@
     "memo": "",
     "name": "疾病與健康特論 Special Lectures in Diseases and Health Science",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "7",
     "teacher": "連正章",
     "time": ""
   },
@@ -11575,7 +11575,7 @@
     "memo": "",
     "name": "專題討論(一) seminar ",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "17",
     "teacher": "黃雪莉",
     "time": ""
   },
@@ -12451,7 +12451,7 @@
     "memo": "Review進度報告，博二以上必選",
     "name": "論文研究(博) Progress report",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "9",
     "teacher": "陳俊銘、孫維欣、陳燕彰、李曉暉、可文亞、李敏嘉、陳虹如、袁維謙",
     "time": "U12-"
   },
@@ -12475,7 +12475,7 @@
     "memo": "博二、博三每學年必選一次",
     "name": "生命科學教學 Teaching practice on Biology",
     "num_limit": "9999",
-    "reg_num": "1",
+    "reg_num": "2",
     "teacher": "羅清維、陳俊銘、俞震亞、林崇智、金翠庭、李敏嘉、陳嘉霖、袁維謙",
     "time": "Sn-"
   },
@@ -12500,7 +12500,7 @@
     "name": "分子醫學專題討論 Seminar on Molecular Medicine",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "分子醫學學程",
+    "teacher": "張家祥、傅淑玲",
     "time": "F56-YL403[YM]"
   },
   "1151_142802": {
@@ -12536,7 +12536,7 @@
     "name": "分子醫學專題討論 Seminar on Molecular Medicine",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "分子醫學學程",
+    "teacher": "江季霖、翁雨蕙",
     "time": "F56-YL404[YM]"
   },
   "1151_142805": {
@@ -12548,7 +12548,7 @@
     "name": "分子醫學專題討論 Seminar on Molecular Medicine",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "分子醫學學程",
+    "teacher": "許博琛、金翠庭",
     "time": "F56-YL630[YM]"
   },
   "1151_142806": {
@@ -20613,7 +20613,7 @@
     "num_limit": "50",
     "reg_num": "25",
     "teacher": "郭心怡",
-    "time": "M34T2-EB108[GF]"
+    "time": "M34T2-EB415[GF]"
   },
   "1151_516224": {
     "code": "ENCV20028",
@@ -21955,7 +21955,7 @@
     "memo": "",
     "name": "畢業專題 Thesis",
     "num_limit": "9999",
-    "reg_num": "48",
+    "reg_num": "47",
     "teacher": "運管系",
     "time": ""
   },

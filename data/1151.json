@@ -9212,7 +9212,7 @@
     "name": "醫學工程概論 Introduction to Biomedical Engineering",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "醫工學系碩、江惠華、詹家泰、陳右穎、林峻立、江明彰、駱俊良、賴穎暉、劉承揚、劉大中、葛宗融、羅俊民、許如秀、陳維聆",
+    "teacher": "醫工學系碩、江惠華、劉澤英、林峻立、駱俊良、李泉、賴穎暉、劉承揚、劉大中、葛宗融、羅俊民、劉凱鈞",
     "time": "R12-YX501[YM]"
   },
   "1151_132301": {
@@ -18407,18 +18407,6 @@
     "teacher": "蘇彬",
     "time": "T2W34-ED220[GF]"
   },
-  "1151_515112": {
-    "code": "EEEC20033",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "515112",
-    "memo": "上課實作教室工程四館414(ED414)",
-    "name": "數值分析 Numerical Analysis",
-    "num_limit": "30",
-    "reg_num": "24",
-    "teacher": "電機系",
-    "time": "T2F56-ED202[GF]"
-  },
   "1151_515113": {
     "code": "EEEC20034",
     "credit": "3.00",
@@ -18584,7 +18572,7 @@
     "name": "離散數學 Discrete Mathematics   ",
     "num_limit": "100",
     "reg_num": "24",
-    "teacher": "電機系",
+    "teacher": "曾煒翔",
     "time": "M2W34-ED219[GF]"
   },
   "1151_515127": {
@@ -18716,7 +18704,7 @@
     "name": "電力工程導論 Introduction to Electrical Power Engineering",
     "num_limit": "60",
     "reg_num": "60",
-    "teacher": "電機系",
+    "teacher": "盧旻澤",
     "time": "F234-EE105[GF]"
   },
   "1151_515138": {
@@ -19040,7 +19028,7 @@
     "name": "生涯規劃與導師時間 Career Planning and Mentor’s Hours",
     "num_limit": "30",
     "reg_num": "0",
-    "teacher": "梁美智",
+    "teacher": "梁美智、張怡雅",
     "time": "W78-EE548[GF]"
   },
   "1151_515210": {
@@ -19064,7 +19052,7 @@
     "name": "生涯規劃與導師時間 Career Planning and Mentor’s Hours",
     "num_limit": "50",
     "reg_num": "0",
-    "teacher": "柯明道、梁美智",
+    "teacher": "柯明道、張怡雅、梁美智",
     "time": "W78-EE102[GF]"
   },
   "1151_515212": {
@@ -19204,7 +19192,7 @@
     "credit": "2.00",
     "hours": "4.00",
     "id": "515223",
-    "memo": "電子實驗(一)(二) 以半導體學系大二學生優先。[固態組奈米組合班]。課程時間為周五晚上abcd，上課教室為工程四館ED320。",
+    "memo": "本課程特別加開，給「非電機 / 非半導體」學系的學生選課，尤其是要「雙主修」半導體學系的各學系學生優先修習。本課程上課時間為「週五下午5679節次」，上課教室為工程四館ED320。",
     "name": "電子實驗(一) Electronics Lab.Ⅰ",
     "num_limit": "55",
     "reg_num": "0",
@@ -22039,7 +22027,7 @@
     "memo": "",
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "4",
+    "reg_num": "51",
     "teacher": "工管系",
     "time": "W78-MB520[GF]"
   },

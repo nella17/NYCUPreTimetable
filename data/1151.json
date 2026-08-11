@@ -1340,7 +1340,7 @@
     "name": "內科學概論 Introduction to Internal Medicine",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "黃怡翔、黃金洲、馮嘉毅、陳志強、胡啟民、王嚴鋒、許劭榮、陳瑋昇、賴建志、王維庭、蔡佳叡、陳俊宇、何莉櫻、巫炳峰、阮志翰、蔡淳光、何翊芯、吳政億、林柏佐、張綜顯、林亮羽",
+    "teacher": "黃怡翔、黃金洲、馮嘉毅、陳志強、胡啟民、王嚴鋒、許劭榮、陳瑋昇、賴建志、王維庭、蔡佳叡、陳俊宇、何莉櫻、巫炳峰、阮志翰、蔡淳光、何翊芯、吳政億、吳啟榮、林柏佐、張綜顯、凌郁翔、劉思妤、林亮羽",
     "time": "T34-YD214[YM]"
   },
   "1151_111519": {
@@ -1400,7 +1400,7 @@
     "name": "循環學 Circulation",
     "num_limit": "50",
     "reg_num": "41",
-    "teacher": "林彥璋、胡瑜峰、黃金洲、宋思賢、余文鍾、陳嬰華、盧澤民、羅文良、許喬博、施俊哲、吳道正、許百豐、鐘法博、林晉宇、李必昌、吳承學、張俊欽、劉至民、蔡泉財、陳素真、張皓智、吳政億、范文博",
+    "teacher": "林彥璋、黃金洲、余文鍾、羅文良、許喬博、吳道正、許百豐、鐘法博、張俊欽、張皓智",
     "time": "M5-YT304[YM]"
   },
   "1151_111524": {
@@ -1508,7 +1508,7 @@
     "name": "臨床診斷學 Clinical and Laboratory Diagnosis",
     "num_limit": "50",
     "reg_num": "44",
-    "teacher": "黃怡翔、紀乃方、藍敏瑛、劉永揚、曾彥寒、范乃文、廖顯宗、陳俊宇、許彥彬、李沛璋、謝昀蓁、王維庭、洪莉婷、游偉光、黃怡銘、周昱百、陳天華、薛健佑、吳政億、林詠萱、郭哲源、黃冠榕、葉建甫",
+    "teacher": "黃怡翔、劉永揚、廖顯宗、郭錦松、楊宗杰、王維庭、洪莉婷、游偉光、黃怡銘、陳天華、郭哲源、凌郁翔",
     "time": "T5-YD105[YM]"
   },
   "1151_111533": {
@@ -1520,7 +1520,7 @@
     "name": "臨床診斷學實習 Practical Training of Clinical and Laboratory Diagnosis",
     "num_limit": "50",
     "reg_num": "43",
-    "teacher": "黃怡翔、紀乃方、藍敏瑛、曾彥寒、范乃文、廖顯宗、陳俊宇、林芳綺、許彥彬、李沛璋、謝昀蓁、王維庭、張毓帆、周昱百、薛健佑、吳政億、吳啟榮、林詠萱、黃冠榕、劉璟璇、葉建甫",
+    "teacher": "黃怡翔、劉永揚、廖顯宗、林芳綺、郭錦松、楊宗杰、王維庭、吳啟榮、凌郁翔",
     "time": "T678-YD105[YM]"
   },
   "1151_111534": {
@@ -4676,7 +4676,7 @@
     "name": "中藥炮製及藥材學(含實驗) Chinese Medicine Processing and Materia Medica (including experiments)",
     "num_limit": "35",
     "reg_num": "25",
-    "teacher": "蔡東湖、花偉鈞、邱勇嘉、莊武璋",
+    "teacher": "蔡東湖、邱勇嘉、莊武璋、花偉鈞",
     "time": "M234-YK912[YM],M234-YK914[YM]"
   },
   "1151_113901": {
@@ -4736,7 +4736,7 @@
     "name": "專題論文討論 Seminar",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "林東毅、花偉鈞、陳俞沛、楊逸萍",
+    "teacher": "林東毅、陳俞沛、楊逸萍、花偉鈞",
     "time": "W78-YK916[YM]"
   },
   "1151_113906": {
@@ -4916,7 +4916,7 @@
     "name": "醫學新知 New medical knowledge",
     "num_limit": "30",
     "reg_num": "28",
-    "teacher": "林滿玉、林惠菁、黃琤、林東毅、孫家偉、蘇信寧、蔡明翰、王鼎涵、廖咨詠、花偉鈞、林舜穀、楊逸萍、黃義龍",
+    "teacher": "林滿玉、林惠菁、黃琤、林東毅、孫家偉、蘇信寧、蔡明翰、王鼎涵、廖咨詠、林舜穀、楊逸萍、黃義龍、花偉鈞",
     "time": "W34-YK912[YM]"
   },
   "1151_113922": {
@@ -5096,7 +5096,7 @@
     "name": "化學原理 General Chemistry",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "曾炳輝、林達顯",
+    "teacher": "曾炳輝、林達顯、黃介嶸、蔡有光",
     "time": "W56-YX406[YM]"
   },
   "1151_114203": {
@@ -6992,7 +6992,7 @@
     "name": "生物醫學資訊學基礎(一) Foundations for Biomedical Informatics I",
     "num_limit": "40",
     "reg_num": "4",
-    "teacher": "陳卓逸、巫坤品、吳俊穎、王禹超",
+    "teacher": "陳卓逸、巫坤品、吳俊穎、王禹超、黃宣誠",
     "time": "M78-YR101[YM]"
   },
   "1151_131003": {
@@ -9491,6 +9491,18 @@
     "teacher": "朱唯勤",
     "time": "R34n-YEA301[YM]"
   },
+  "1151_132326": {
+    "code": "BEBE30060",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "132326",
+    "memo": "",
+    "name": "數位生物標記設計與開發 Design and development of digital biomarker",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "劉凱鈞",
+    "time": "W567-YEA301[YM]"
+  },
   "1151_132400": {
     "code": "BEPT30030",
     "credit": "3.00",
@@ -10528,11 +10540,11 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "132712",
-    "memo": "參與老師尚包括劉福清等6位；開放隨班附讀、政大學生選修。開放大學部學生修讀。",
+    "memo": "參與老師尚包括劉福清等8位；開放隨班附讀、政大學生選修。開放大學部學生修讀。",
     "name": "神經科學專題討論(一)(碩士班) Seminar",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "劉福清、何淑君、連正章、蔡惠珍、林士傑、待聘、陳摘文、林貝容",
+    "teacher": "翁雨蕙、何淑君、連正章、劉福清、蔡惠珍、林士傑、陳摘文、林貝容",
     "time": "R56-YL839[YM]"
   },
   "1151_132713": {
@@ -10747,7 +10759,7 @@
     "memo": "[English Medium Course]暑假開課\n上課地點: 生物醫學大樓401教室",
     "name": "微生物科技與新藥研發 (全英語) Microbial Biotechnology and Drug Discovery (in English)",
     "num_limit": "0",
-    "reg_num": "0",
+    "reg_num": "1",
     "teacher": "黃雪莉、孫維欣、林怡君、陳儀聰、蔡文城、羅南德、程樹德",
     "time": "S12-YC401[YM]"
   },
@@ -10820,7 +10832,7 @@
     "name": "專題討論(A) Seminar",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "許翺麟、黃介嶸、陳鴻震、張崇德、姜為中",
+    "teacher": "郭津岑、黃介嶸、姜為中",
     "time": "T78-YC501[YM]"
   },
   "1151_132906": {
@@ -10832,7 +10844,7 @@
     "name": "專題討論(C) Seminar",
     "num_limit": "9999",
     "reg_num": "0",
-    "teacher": "游麗如、郭津岑、曾炳輝",
+    "teacher": "許翺麟、陳鴻震、曾炳輝、張崇德",
     "time": "R78-YC501[YM]"
   },
   "1151_132907": {
@@ -10844,7 +10856,7 @@
     "name": "專題討論(D) Seminar",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "鄭子豪、陳美瑜、蔡有光、廖韋晴、胡春美",
+    "teacher": "游麗如、蔡有光、胡春美",
     "time": "F78-YC501[YM]"
   },
   "1151_132908": {
@@ -10930,6 +10942,18 @@
     "reg_num": "1",
     "teacher": "張崇德",
     "time": "F56-YC516[YM]"
+  },
+  "1151_132915": {
+    "code": "LSBM30013",
+    "credit": "1.00",
+    "hours": "2.00",
+    "id": "132915",
+    "memo": "",
+    "name": "專題討論(E) Seminar",
+    "num_limit": "9999",
+    "reg_num": "0",
+    "teacher": "鄭子豪、陳美瑜、廖韋晴",
+    "time": ""
   },
   "1151_133000": {
     "code": "LSBM30035",
@@ -11072,7 +11096,7 @@
     "name": "生命科學技術 Methods in Modern Biology",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "陳儀聰、林照雄、陳俊銘、林崇智、李曉暉、可文亞、李敏嘉、張欣暘、陳虹如、陳瀅州、袁維謙",
+    "teacher": "陳儀聰、林照雄、陳俊銘、林崇智、李曉暉、可文亞、李敏嘉、張欣暘、陳虹如、翁雨蕙、陳瀅州、袁維謙",
     "time": "S34-YK101[YM]"
   },
   "1151_133012": {
@@ -12320,7 +12344,7 @@
     "name": "進階生物藥學專題討論 Advanced Biopharmaceutical Sciences Seminar",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "黃奇英、胡瑜峰",
+    "teacher": "胡瑜峰、江季霖、盧子喬",
     "time": "T78-YC101[YM]"
   },
   "1151_141604": {
@@ -12823,7 +12847,7 @@
     "memo": "[English Medium Course]全英文授課，隔週上課，實際上課日期請以學程公告為主。",
     "name": "跨領域醫學專題討論 Seminar of Interdisciplinary Medical Research",
     "num_limit": "9999",
-    "reg_num": "2",
+    "reg_num": "18",
     "teacher": "鄭浩民",
     "time": "W5678-YR101[YM]"
   },
@@ -18392,7 +18416,7 @@
     "name": "動態系統分析與模擬 Analysis and Simulation of Dynamic Systems",
     "num_limit": "65",
     "reg_num": "21",
-    "teacher": "",
+    "teacher": "陳永平",
     "time": "T234-EE220[GF]"
   },
   "1151_515111": {
@@ -18568,7 +18592,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515126",
-    "memo": "以電機系學生優先選課。授課老師：曾煒翔。",
+    "memo": "以電機系學生優先選課。",
     "name": "離散數學 Discrete Mathematics   ",
     "num_limit": "100",
     "reg_num": "24",
@@ -18700,7 +18724,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515137",
-    "memo": "授課老師：盧旻澤",
+    "memo": "",
     "name": "電力工程導論 Introduction to Electrical Power Engineering",
     "num_limit": "60",
     "reg_num": "60",
@@ -18801,7 +18825,7 @@
     "num_limit": "40",
     "reg_num": "33",
     "teacher": "林鴻志",
-    "time": "R2-ED101[GF],T56-ED202[GF]"
+    "time": "R2-ED201[GF],T56-ED202[GF]"
   },
   "1151_515146": {
     "code": "EEEC20115",
@@ -18885,7 +18909,7 @@
     "num_limit": "70",
     "reg_num": "14",
     "teacher": "陳彥銘",
-    "time": "T34-ED101[GF],R2-ED201[GF]"
+    "time": "T34R2-ED101[GF]"
   },
   "1151_515153": {
     "code": "EEEC20123",
@@ -19197,7 +19221,7 @@
     "num_limit": "55",
     "reg_num": "0",
     "teacher": "柯明道、陳建安",
-    "time": "F5678-"
+    "time": "F5679-"
   },
   "1151_515400": {
     "code": "EEDP10010",
@@ -19988,7 +20012,7 @@
     "name": "衛星科技與工程導論 Introduction to Satellite Technology and Engineering",
     "num_limit": "9999",
     "reg_num": "55",
-    "teacher": "機械系",
+    "teacher": "陳維鈞",
     "time": "Mabc-AB102[GF]"
   },
   "1151_516105": {
@@ -20108,7 +20132,7 @@
     "name": "太空科技應用 Space Science & Technology Applications",
     "num_limit": "130",
     "reg_num": "33",
-    "teacher": "機械系",
+    "teacher": "鄭琮生",
     "time": "Tab-AB102[GF]"
   },
   "1151_516115": {
@@ -21536,7 +21560,7 @@
     "name": "書報討論A(二) Seminar A (2)",
     "num_limit": "22",
     "reg_num": "21",
-    "teacher": "待聘",
+    "teacher": "王富生",
     "time": "M56-SB203[GF]"
   },
   "1151_516814": {
@@ -22629,7 +22653,7 @@
     "num_limit": "100",
     "reg_num": "11",
     "teacher": "鄭信良",
-    "time": "Rn56-SC106[GF]"
+    "time": "W567-ED117[GF]"
   },
   "1151_520003": {
     "code": "XDEP20038",
@@ -22712,7 +22736,7 @@
     "name": "近代物理 Modern physics",
     "num_limit": "70",
     "reg_num": "43",
-    "teacher": "許譽馨",
+    "teacher": "陳怡君",
     "time": "M89a-SC162[GF]"
   },
   "1151_520010": {
@@ -22867,7 +22891,7 @@
     "memo": "[高雄校區]",
     "name": "資料庫管理 Database Management",
     "num_limit": "77",
-    "reg_num": "64",
+    "reg_num": "63",
     "teacher": "林志偉",
     "time": "T34n-KB302"
   },
@@ -26106,7 +26130,7 @@
     "id": "535409",
     "memo": "1.初選第一階段及第二階段, 人數上限20人,光電系碩博優先\n2.選課第三階段及開學後加退選,人數總上限70人,光電系碩一優先選課",
     "name": "半導體元件及物理 Semiconductor Devices & Physics",
-    "num_limit": "20",
+    "num_limit": "70",
     "reg_num": "12",
     "teacher": "冉曉雯",
     "time": "F234-CY201[GF]"
@@ -27664,7 +27688,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "536118",
-    "memo": "核心選修課程(能源與熱流)。[English Medium Course] 開4/碩/博",
+    "memo": "核心選修課程(能源與熱流)。開4/碩/博",
     "name": "燃燒學概論 Combustion Fundamentals",
     "num_limit": "30",
     "reg_num": "26",
@@ -28027,7 +28051,7 @@
     "memo": "1.第一~第三階段限材料系、奈米所、國際半導體學院、半導體工程學系(奈米科學組)加選 \n2.開學後開放外系或外校加選\n",
     "name": "奈米材料簡介 Introduction to Nanostructured Materials",
     "num_limit": "60",
-    "reg_num": "66",
+    "reg_num": "71",
     "teacher": "韋光華",
     "time": "T789-EF201[GF]"
   },
@@ -28435,7 +28459,7 @@
     "memo": "高雄校區",
     "name": "專題演講 Colloquium",
     "num_limit": "9999",
-    "reg_num": "71",
+    "reg_num": "70",
     "teacher": "蘇冠暐、林壽煦",
     "time": "R34-KC301"
   },
@@ -28472,7 +28496,7 @@
     "name": "光電子學 Optical Electronics",
     "num_limit": "9999",
     "reg_num": "20",
-    "teacher": "蘇冠暐",
+    "teacher": "蘇冠暐、陳怡君",
     "time": "R567-KB401"
   },
   "1151_536617": {
@@ -28483,7 +28507,7 @@
     "memo": "高雄校區",
     "name": "光學實驗 Optics Lab.",
     "num_limit": "9999",
-    "reg_num": "70",
+    "reg_num": "69",
     "teacher": "蘇冠暐",
     "time": "F234n-KC107"
   },

@@ -18486,7 +18486,7 @@
     "id": "515119",
     "memo": "",
     "name": "網路程式設計 Network Programming",
-    "num_limit": "50",
+    "num_limit": "44",
     "reg_num": "33",
     "teacher": "黃紹華",
     "time": "F234-ED713[GF]"
@@ -25938,7 +25938,7 @@
     "id": "535376",
     "memo": "",
     "name": "高等通訊系統模擬與實驗 Advanced Communication System Simulation and Experiments",
-    "num_limit": "50",
+    "num_limit": "44",
     "reg_num": "15",
     "teacher": "吳文榕",
     "time": "F567-ED713[GF]"
@@ -25974,7 +25974,7 @@
     "id": "535379",
     "memo": "",
     "name": "計算機網路 Computer Communication Networks",
-    "num_limit": "50",
+    "num_limit": "44",
     "reg_num": "35",
     "teacher": "黃紹華",
     "time": "R567-ED713[GF]"
@@ -30427,7 +30427,7 @@
     "memo": "[English Medium Course]",
     "name": "科技素養與產業實務創新 Technology Literacy and Industrial Practical Innovation",
     "num_limit": "25",
-    "reg_num": "16",
+    "reg_num": "20",
     "teacher": "陳詩欣",
     "time": "M789-A722[GF]"
   },
@@ -30451,7 +30451,7 @@
     "memo": "[English Medium Course]",
     "name": "科技治理與負責任創新 Science, Technology, Governance and Responsible Innovation",
     "num_limit": "12",
-    "reg_num": "11",
+    "reg_num": "12",
     "teacher": "陳詩欣",
     "time": "M234-A722[GF]"
   },

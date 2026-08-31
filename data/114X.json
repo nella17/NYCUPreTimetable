@@ -633,7 +633,7 @@
     "num_limit": "9999",
     "reg_num": "48",
     "teacher": "鄭信良",
-    "time": "T567-EC114[GF],T567R234-KB302,R234-SA312[GF]"
+    "time": "T567-EC114[GF],T567R234-KB302[KS],R234-SA312[GF]"
   },
   "114X_520001": {
     "code": "XDEP10012",
@@ -645,7 +645,7 @@
     "num_limit": "9999",
     "reg_num": "52",
     "teacher": "許譽馨",
-    "time": "W567F567-KB302,W567F567-SA312[GF]"
+    "time": "W567F567-KB302[KS],W567F567-SA312[GF]"
   },
   "114X_520002": {
     "code": "XDEP10013",
@@ -657,7 +657,7 @@
     "num_limit": "9999",
     "reg_num": "42",
     "teacher": "梁興弛",
-    "time": "T234F234-KB302,T234F234-SA312[GF]"
+    "time": "T234F234-KB302[KS],T234F234-SA312[GF]"
   },
   "114X_520003": {
     "code": "XDEP20006",
@@ -669,7 +669,7 @@
     "num_limit": "9999",
     "reg_num": "25",
     "teacher": "謝承利",
-    "time": "M234W234-KB302,M234W234-SA312[GF]"
+    "time": "M234W234-KB302[KS],M234W234-SA312[GF]"
   },
   "114X_520004": {
     "code": "XDEP20002",
@@ -681,7 +681,7 @@
     "num_limit": "9999",
     "reg_num": "36",
     "teacher": "陳永富、許譽馨",
-    "time": "M678T678R678-KB402,M678T678R678-SA312[GF]"
+    "time": "M678T678R678-KB402[KS],M678T678R678-SA312[GF]"
   },
   "114X_520005": {
     "code": "XDEP20035",

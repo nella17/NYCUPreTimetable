@@ -1904,7 +1904,7 @@
     "name": "外科基本手術技術、器械介紹及微創手術演進 Surgical Techniques, Instrument Introduction and Evolution of Minimally Invasive Surgery",
     "num_limit": "25",
     "reg_num": "-999",
-    "teacher": "張世慶、藍苑慈、王鑑瀛、戴宏達、石育仲、陳正彥、陳慶恩、吳祚光、陳世欽、黃聖捷、林瑞萍、陳斐文、許皓雯、張哲源、朱柏宇、黃國宏",
+    "teacher": "張世慶、藍苑慈、戴宏達、陳正彥、陳慶恩、吳祚光、陳世欽、黃聖捷、蘇府蔚、林瑞萍、陳斐文、許皓雯、白馥源、黃國宏",
     "time": "F56-YS420[YM]"
   },
   "1151_111819": {
@@ -4652,7 +4652,7 @@
     "name": "高齡健康與人文關懷 Aging, Health and Humanities",
     "num_limit": "36",
     "reg_num": "-999",
-    "teacher": "陳亮恭、李威儒、彭莉甯、林明憲、陳亮宇、劉力幗、黃安君、林鉅勝、嚴可瀚、陳家宏、梁志光",
+    "teacher": "陳亮恭、李威儒、彭莉甯、林明憲、陳亮宇、劉力幗、黃安君、林鉅勝、黃仲禹、嚴可瀚、陳家宏、梁志光",
     "time": "T56-YT104[YM]"
   },
   "1151_113806": {
@@ -4746,7 +4746,7 @@
     "id": "113904",
     "memo": "",
     "name": "中醫醫學史 History of Chinese Medicine",
-    "num_limit": "30",
+    "num_limit": "35",
     "reg_num": "-999",
     "teacher": "陳方佩、郭文華、陳柏勳、蔡忠志、陳麒方、陳致光",
     "time": "R34-YK436[YM],R34-YK912[YM]"
@@ -5082,7 +5082,7 @@
     "id": "114107",
     "memo": "*牙醫一、物輔一、藥學一合班上課，他系同學選修須經授課教師同意。\n*遠距&實體上課：【陽明校區】傳甲208演講廳、【交大校區】綜合一館B102。",
     "name": "普通生物學(上) General Biology I",
-    "num_limit": "100",
+    "num_limit": "140",
     "reg_num": "-999",
     "teacher": "陳俊銘、羅清維、李曉暉、袁維謙、陳妤、吳如蕙",
     "time": "F34-AB102[GF],F34-YK208[YM]"
@@ -6116,7 +6116,7 @@
     "name": "大體解剖學 Gross Anatomy",
     "num_limit": "220",
     "reg_num": "-999",
-    "teacher": "傅毓秀、鄭瓊娟、侯珮珊、李學德、王先逸、蔡佩君、郭曉縈、蔣偉程、林坤陽",
+    "teacher": "傅毓秀、鄭瓊娟、侯珮珊、李學德、王先逸、蔡佩君、郭曉縈、蔣偉程、林坤陽、彭淑婷、劉皓云、蔡國樞",
     "time": "M1234-YT001[YM]"
   },
   "1151_130403": {
@@ -6330,7 +6330,7 @@
     "id": "130506",
     "memo": "管理與政策必選修之一，非醫管所學生需取得授課老師同意。",
     "name": "Python機器學習在智慧醫療的應用 Python Machine Learning for Smart Healthcare",
-    "num_limit": "35",
+    "num_limit": "45",
     "reg_num": "-999",
     "teacher": "陳翎",
     "time": "F78-YN511[YM]"
@@ -6992,7 +6992,7 @@
     "name": "生物醫學資訊學研究 Research in Biomedical Informatics",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "吳俊穎、蘇家玉、巫坤品、黃宣誠、鍾翊方、張博論、王禹超、林振慶、洪哲倫、黃彥華、陳卓逸",
+    "teacher": "王禹超、蘇家玉、巫坤品、鍾翊方、張博論、吳俊穎、林振慶、洪哲倫、黃彥華、陳卓逸",
     "time": "Un-"
   },
   "1151_131001": {
@@ -7232,7 +7232,7 @@
     "name": "使用者經驗及界面設計 User Experience and Interface Design",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "張博論",
+    "teacher": "張博論、徐建業",
     "time": "W34-YR103[YM]"
   },
   "1151_131100": {
@@ -9764,7 +9764,7 @@
     "name": "神經物理治療之趨勢(三) Trend in Neurological Physical Therapy (III)",
     "num_limit": "30",
     "reg_num": "-999",
-    "teacher": "王瑞瑤、楊雅如、施惠婷",
+    "teacher": "王瑞瑤、楊雅如、潘俐伶、施惠婷",
     "time": "M234-YB603[YM]"
   },
   "1151_132420": {
@@ -9968,7 +9968,7 @@
     "name": "轉譯分子醫學特論 Special Topics on Translational Molecular Medicine",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李易展、陳傳霖、莊惠燕、吳駿一、張御展、詹明賢",
+    "teacher": "李易展、莊惠燕、吳駿一、張御展、詹明賢",
     "time": "R12-YB134[YM]"
   },
   "1151_132509": {
@@ -11433,7 +11433,7 @@
     "num_limit": "16",
     "reg_num": "-999",
     "teacher": "楊雅如、簡麗年、王瑞瑤、陳怡如、陳喬男、李淑貞、李雪楨、楊曼華、姜紹青、吳佳東、李玉春",
-    "time": "R56-YN603[YM]"
+    "time": "R56-YN514[YM]"
   },
   "1151_133508": {
     "code": "XDLC30045",
@@ -14070,7 +14070,7 @@
     "id": "161065",
     "memo": "1. 僅陽明校區實體上課。 \n2. 本課程僅開放大學部、碩士一二年級學生。其他年級的學生如需修讀本課程以獲得畢業學分，請直接聯絡授課教師。 \n3. 不允許旁聽。",
     "name": "意識的科學與哲學 Consciousness: Science and Philosophy",
-    "num_limit": "35",
+    "num_limit": "15",
     "reg_num": "-999",
     "teacher": "洪裕宏、杜培基",
     "time": "M56-YT302[YM]"
@@ -14442,7 +14442,7 @@
     "id": "230004",
     "memo": "限一般碩士生修課",
     "name": "經營講座 Lectures on Business Practices",
-    "num_limit": "9999",
+    "num_limit": "54",
     "reg_num": "-999",
     "teacher": "周勝武",
     "time": "Wabc-TA506[BM]"
@@ -15004,12 +15004,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310018",
-    "memo": "",
+    "memo": "本課程限大三以上選修",
     "name": "博物館的視野：歷史策展、社會對話與 AI 數位實踐 Museum Perspectives: Historical Curation, Social Dialogue, and AI Digital Practice",
-    "num_limit": "40",
+    "num_limit": "25",
     "reg_num": "-999",
     "teacher": "張藝曦",
-    "time": "T567-HK119[LJ]"
+    "time": "T567-HK105[LJ]"
   },
   "1151_310019": {
     "code": "HKHS00001",
@@ -15548,7 +15548,7 @@
     "name": "研究方法與學術寫作 Methodology and Academic Writing",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "劉延芳",
     "time": "Fabc-HK207[LJ]"
   },
   "1151_350004": {
@@ -19662,7 +19662,7 @@
     "id": "515518",
     "memo": "[English Medium Course]外系生請於開學上網加選；學士班七大主題學程；資工系學生優先選課；主開3年級；本系生優先權順序：3&amp;4年級，2年級，1年級",
     "name": "機器學習概論 Introduction to Machine Learning",
-    "num_limit": "90",
+    "num_limit": "110",
     "reg_num": "-999",
     "teacher": "林彥宇",
     "time": "T567-EC022[GF]"
@@ -20332,7 +20332,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "516200",
-    "memo": "限土木系大一生，本系導師課程為必選課程，請務必在畢業前選修2次。",
+    "memo": "限土木系學生，大一新生優先。本系導師課程為必選課程，請務必在畢業前選修2次。",
     "name": "導師時間 Mentor's Hours",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -21978,7 +21978,7 @@
     "id": "517300",
     "memo": "1.開放全校大三大四學生選修。",
     "name": "策略管理 Strategic Management",
-    "num_limit": "58",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "黃瓊誼",
     "time": "T567-M115[GF]"
@@ -26298,7 +26298,7 @@
     "id": "535504",
     "memo": "[English Medium Course][另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課;開放隨班附讀",
     "name": "作業系統 Operating System",
-    "num_limit": "250",
+    "num_limit": "420",
     "reg_num": "-999",
     "teacher": "吳俊峯",
     "time": "W34-EDB27[GF]"
@@ -26334,7 +26334,7 @@
     "id": "535507",
     "memo": "[English Medium Course]限資科工所同學(不限年級)、多媒體所/網工所(限碩二以上)同學選課；依各所入學年度之修業要點選課",
     "name": "論文研討  Seminars",
-    "num_limit": "110",
+    "num_limit": "170",
     "reg_num": "-999",
     "teacher": "陳志成",
     "time": "W78-EDB27[GF]"
@@ -27016,12 +27016,12 @@
     "credit": "1.00",
     "hours": "2.00",
     "id": "535821",
-    "memo": "教室：ED826",
+    "memo": "教室：EDB07",
     "name": "量子科技工程專題演講及書報討論 Quantum Engineering Seminar",
     "num_limit": "30",
     "reg_num": "-999",
     "teacher": "賴青沂",
-    "time": "T56-"
+    "time": "T56-EDB07[GF]"
   },
   "1151_535822": {
     "code": "EEBT30003",
@@ -27069,7 +27069,7 @@
     "num_limit": "30",
     "reg_num": "-999",
     "teacher": "江柏翰、柯立偉、陳榮治、羅畯義、高智飛",
-    "time": "M567-"
+    "time": "M567-EE112[GF]"
   },
   "1151_535900": {
     "code": "STST30014",
@@ -27790,18 +27790,6 @@
     "reg_num": "-999",
     "teacher": "石棟鑫",
     "time": "R234-EB403[GF]"
-  },
-  "1151_536210": {
-    "code": "ENCV30063",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "536210",
-    "memo": "",
-    "name": "輸砂力學 Mechanics of Sediment Transport",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "石棟鑫",
-    "time": "F234-EB404[GF]"
   },
   "1151_536211": {
     "code": "ENCV30102",
@@ -29646,7 +29634,7 @@
     "id": "537207",
     "memo": "新竹校區開課[English Medium Course]",
     "name": "先進交通號誌控制 Advanced Traffic Signal Control",
-    "num_limit": "15",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳彥佑",
     "time": "T567-A806[GF]"
@@ -29682,7 +29670,7 @@
     "id": "537210",
     "memo": "[English Medium Course]新竹校區開課",
     "name": "電腦演算法在運輸之應用 The Application of Computer Algorithms in Transportation",
-    "num_limit": "9999",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "顏子皓",
     "time": "T567-A904[GF]"
@@ -30738,7 +30726,7 @@
     "id": "539001",
     "memo": "1.前瞻半導體研究所優先 2.前瞻所丙組專業選修課程(適用110~112學年度入學)；乙組專業選修課程(適用113~115學年度入學)\n3.Final project (ADC/Wireline 二擇一, 以2~3人一組為原則)\n4.視選課情況開放加選 (上限 10人)\n5.限研究生選修",
     "name": "類比混合訊號電路設計特論 Special topics in analog mixed-signal circuit design",
-    "num_limit": "50",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "許雲翔、蕭振宇",
     "time": "F678-EC122[GF]"
@@ -31120,7 +31108,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "545462",
-    "memo": "不開放隨班附讀",
+    "memo": "不開放隨班附讀,限本所學生選修",
     "name": "智慧醫電工程特論 Special topics in Intelligent biomedical engineering",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -31856,7 +31844,7 @@
     "name": "系統分析方法 Introduction ofSsystem Analysis Methods",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "張良正",
     "time": "S89a-EB227[GF]"
   },
   "1151_556300": {
@@ -32975,18 +32963,6 @@
     "teacher": "姚銘忠、黃寬丞",
     "time": "U123456-M115[GF]"
   },
-  "1151_559008": {
-    "code": "MGME30034",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "559008",
-    "memo": "上課地點：新竹光復校區管理一館光寶廳M115",
-    "name": "歐洲精品產業管理 European Luxury Industry Management",
-    "num_limit": "0",
-    "reg_num": "-999",
-    "teacher": "張家齊、郭國泰、黃寬丞、鍾惠民",
-    "time": "Ucd-M115[GF]"
-  },
   "1151_561000": {
     "code": "GECG00049",
     "credit": "2.00",
@@ -33066,7 +33042,7 @@
     "id": "561006",
     "memo": "限物治二、護理一、藥學一優先選課，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生(依初選第三階段時在籍學生帶入)，請勿隨意退課。物治、護理、藥學三系有重補修本課程需求學生，麻煩至https://forms.gle/zzCmTTfjF61G61no9登記，行政人員將依表單資料在新生初選結束後帶入選課。",
     "name": "普通心理學 General Psychology",
-    "num_limit": "130",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "程千芳",
     "time": "T12-YX406[YM]"
@@ -33460,7 +33436,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "561041",
-    "memo": "",
+    "memo": "本課程為淨零排放微學程[基礎課程]",
     "name": "氣候變遷與永續發展 Climate Change and Sustainable Development",
     "num_limit": "50",
     "reg_num": "-999",
@@ -33642,7 +33618,7 @@
     "id": "561057",
     "memo": "",
     "name": "普通心理學 General Psychology",
-    "num_limit": "120",
+    "num_limit": "130",
     "reg_num": "-999",
     "teacher": "程千芳",
     "time": "R34-A103[GF]"
@@ -33654,7 +33630,7 @@
     "id": "561058",
     "memo": "課程不開放加簽。",
     "name": "心理與生活 Psychology and Life",
-    "num_limit": "70",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "程千芳",
     "time": "R56-A103[GF]"
@@ -33666,7 +33642,7 @@
     "id": "561059",
     "memo": "課程不開放加簽。",
     "name": "心理與生活 Psychology and Life",
-    "num_limit": "70",
+    "num_limit": "90",
     "reg_num": "-999",
     "teacher": "程千芳",
     "time": "T56-YT305[YM]"
@@ -37770,7 +37746,7 @@
     "id": "565005",
     "memo": "含近代物理",
     "name": "物理(一)榮譽班 Physics(I)",
-    "num_limit": "100",
+    "num_limit": "85",
     "reg_num": "-999",
     "teacher": "張文豪",
     "time": "T78F34-SA321[GF]"
@@ -37806,10 +37782,10 @@
     "id": "565008",
     "memo": "",
     "name": "物理(一) Physics(I)",
-    "num_limit": "100",
+    "num_limit": "85",
     "reg_num": "-999",
     "teacher": "孟心飛",
-    "time": "T78F34-"
+    "time": "T78F34-ED220[GF]"
   },
   "1151_565009": {
     "code": "GEPS10001",
@@ -38418,7 +38394,7 @@
     "id": "569001",
     "memo": "限大二以上。本課程採用非同步及同步遠距教學;但第一週實體教室+Google meet上課\n擋修【淨零碳規劃管理與碳盤查程序】\n",
     "name": "淨零碳規劃管理與碳盤查 Net Zero Management and Greenhouse Gas Inventory",
-    "num_limit": "30",
+    "num_limit": "20",
     "reg_num": "-999",
     "teacher": "高正忠、黃文輝",
     "time": "T56-EE129[GF]"
@@ -42988,7 +42964,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910259",
-    "memo": "化材組化學班+材料班，上課地點：國防大學理工學院，授課教師：劉敏憲老師",
+    "memo": "化材組化學班+材料班，上課地點：國防大學理工學院，授課教師：劉敏憲老師。調整授課時間為W349。",
     "name": "量子化學 Quantum Chemistry",
     "num_limit": "9999",
     "reg_num": "-999",

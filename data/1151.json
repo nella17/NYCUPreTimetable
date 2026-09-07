@@ -19211,18 +19211,6 @@
     "teacher": "柯明道、陳建安",
     "time": "F5679-"
   },
-  "1151_515224": {
-    "code": "EEDM10014",
-    "credit": "3.00",
-    "hours": "4.00",
-    "id": "515224",
-    "memo": "建議修課年級: 2年級以上。",
-    "name": "電子學(二) ElectronicsⅡ",
-    "num_limit": "40",
-    "reg_num": "-999",
-    "teacher": "楊順",
-    "time": "M234n-EDB06[GF]"
-  },
   "1151_515400": {
     "code": "EEDP10010",
     "credit": "3.00",
@@ -30033,7 +30021,7 @@
     "num_limit": "25",
     "reg_num": "-999",
     "teacher": "古政元",
-    "time": "M567-MB304[GF]"
+    "time": "M567-MB311[GF]"
   },
   "1151_537605": {
     "code": "MGIM30032",
@@ -30057,7 +30045,7 @@
     "num_limit": "35",
     "reg_num": "-999",
     "teacher": "徐熊健",
-    "time": "M567-MB311[GF]"
+    "time": "M567-MB304[GF]"
   },
   "1151_537607": {
     "code": "MGIM30055",
@@ -32337,7 +32325,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "莊詠婷",
-    "time": "Tabc-MB311[GF]"
+    "time": "Tabc-MB312[GF]"
   },
   "1151_557606": {
     "code": "MGIM30035",
@@ -32349,7 +32337,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "古政元",
-    "time": "Tabc-MB312[GF]"
+    "time": "Tabc-MB311[GF]"
   },
   "1151_557607": {
     "code": "MGIM30042",
@@ -37482,7 +37470,7 @@
     "id": "564004",
     "memo": "[English Medium Course]",
     "name": "微積分甲(一) Calculus A (I)",
-    "num_limit": "60",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "科特林",
     "time": "M78R34-SC152[GF]"
@@ -37626,7 +37614,7 @@
     "id": "564016",
     "memo": "",
     "name": "微積分甲(一) Calculus A (I)",
-    "num_limit": "63",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "張書銘",
     "time": "T34F56-SC201[GF]"

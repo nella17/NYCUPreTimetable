@@ -764,7 +764,7 @@
     "name": "醫師科學家專題研究(一) Physician-Scientist Program -Research Elective (1)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "兵岳忻、鄭凱元、張立鴻、高正彥、姜為中",
+    "teacher": "兵岳忻、鄭凱元、張立鴻、姜為中、高正彥",
     "time": "Sa-"
   },
   "1151_110057": {
@@ -5072,7 +5072,7 @@
     "name": "生命科學總論(上) General Biology, 1st semester",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李曉暉、可文亞、李敏嘉、陳瀅州、陳儀聰",
+    "teacher": "李曉暉、可文亞、李敏嘉、陳儀聰、陳瀅州",
     "time": "R34-YB102[YM]"
   },
   "1151_114105": {
@@ -7976,7 +7976,7 @@
     "name": "醫學資訊永續講座 Special Topics for Medical Informatics and Sustainability",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黎萬君、王鼎涵、宮輔辰、楊旭宸、蕭嘉宏、張瀞文、陳羿雯",
+    "teacher": "黎萬君、王鼎涵、宮輔辰、楊旭宸、蕭嘉宏、張瀞文、李承軒、陳裕禎、陳羿雯",
     "time": "T34-YD302[YM]"
   },
   "1151_131505": {
@@ -9956,7 +9956,7 @@
     "name": "高等細胞生物學 Advanced Cell Biology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李易展、郭津岑、莊惠燕、張御展、藍昇輝、黃幸宜",
+    "teacher": "李易展、郭津岑、莊惠燕、藍昇輝、張御展、黃幸宜",
     "time": "T34-YB134[YM]"
   },
   "1151_132506": {
@@ -10784,7 +10784,7 @@
     "name": "微生物科技與新藥研發 (全英語) Microbial Biotechnology and Drug Discovery (in English)",
     "num_limit": "0",
     "reg_num": "-999",
-    "teacher": "黃雪莉、孫維欣、林怡君、陳儀聰、蔡文城、羅南德、程樹德",
+    "teacher": "黃雪莉、孫維欣、陳儀聰、林怡君、蔡文城、羅南德、程樹德",
     "time": "S12-YC401[YM]"
   },
   "1151_132900": {
@@ -10796,7 +10796,7 @@
     "name": "生化及分子生物學 Biocchemistry and molecular biology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳美瑜、游麗如、鄭子豪、黃介嶸、許翺麟、陳威儀、王琬菁、陳鴻震、張崇德、姜為中",
+    "teacher": "陳美瑜、游麗如、鄭子豪、黃介嶸、許翺麟、陳威儀、王琬菁、陳鴻震、姜為中、張崇德",
     "time": "T34R34-YC501[YM]"
   },
   "1151_132901": {
@@ -10880,7 +10880,7 @@
     "name": "生化特論B(碩) Special Topic on Biochemistry",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "許翺麟、陳美瑜、游麗如、鄭子豪、林達顯、郭津岑、黃介嶸、陳威儀、王琬菁、陳鴻震、蔡有光、曾炳輝、廖韋晴、張崇德、姜為中",
+    "teacher": "許翺麟、陳美瑜、游麗如、鄭子豪、林達顯、郭津岑、黃介嶸、陳威儀、王琬菁、陳鴻震、蔡有光、曾炳輝、廖韋晴、姜為中、張崇德",
     "time": "R9aF9a-YC501[YM]"
   },
   "1151_132909": {
@@ -10928,7 +10928,7 @@
     "name": "進階生化與分生實驗(四) Advanced biochemistry and molecular biology training course",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "曾炳輝、郭津岑、黃介嶸、陳威儀、王琬菁、廖韋晴、張崇德、姜為中",
+    "teacher": "曾炳輝、郭津岑、黃介嶸、陳威儀、王琬菁、廖韋晴、姜為中、張崇德",
     "time": "Uy-"
   },
   "1151_132913": {
@@ -10940,7 +10940,7 @@
     "name": "生化技術原理 Techniques of Biochemistry",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "許翺麟、陳美瑜、游麗如、鄭子豪、郭津岑、黃介嶸、陳威儀、王琬菁、陳鴻震、蔡有光、曾炳輝、廖韋晴、張崇德、姜為中",
+    "teacher": "許翺麟、陳美瑜、游麗如、鄭子豪、郭津岑、黃介嶸、陳威儀、王琬菁、陳鴻震、蔡有光、曾炳輝、廖韋晴、姜為中、張崇德",
     "time": "M34-YC501[YM]"
   },
   "1151_132914": {
@@ -11120,7 +11120,7 @@
     "name": "論文研究進度報告(碩) Progress report",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳俊銘、林照雄、蔡亭芬、羅清維、俞震亞、孫維欣、陳燕彰、李曉暉、可文亞、李敏嘉、張欣暘、陳嘉霖、陳虹如、藍昇輝、袁維謙",
+    "teacher": "陳俊銘、林照雄、蔡亭芬、羅清維、俞震亞、孫維欣、陳燕彰、李曉暉、可文亞、李敏嘉、藍昇輝、張欣暘、陳嘉霖、陳虹如、袁維謙",
     "time": "U34-"
   },
   "1151_133013": {
@@ -11144,7 +11144,7 @@
     "name": "進階生化及分子生物學 Advanced Biochemistry and Molecular Biology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "孫維欣、可文亞、張欣暘、陳嘉霖、陳虹如、陳儀聰、袁維謙",
+    "teacher": "孫維欣、可文亞、陳儀聰、張欣暘、陳嘉霖、陳虹如、袁維謙",
     "time": "T234-YK101[YM]"
   },
   "1151_133016": {
@@ -11564,7 +11564,7 @@
     "name": "分子細胞生物概論 Molecular Cell Biology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "王琬菁、俞震亞、郭津岑、許翺麟、陳威儀、金翠庭、林貝容、張崇德、張欣暘、陳嘉霖、姜為中、藍昇輝、袁維謙",
+    "teacher": "王琬菁、俞震亞、郭津岑、許翺麟、陳威儀、金翠庭、林貝容、姜為中、藍昇輝、張崇德、張欣暘、陳嘉霖、袁維謙",
     "time": "F34-YC516[YM]"
   },
   "1151_133602": {
@@ -11576,7 +11576,7 @@
     "name": "生醫科學實驗技術 Experimental techniques for biomedical science",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "郭津岑、徐嘉琳、陳威儀、王琬菁、陳紀如、葛一樊、廖韋晴、蔡明翰、張崇德、高正彥、張欣暘、姜為中、袁維謙",
+    "teacher": "郭津岑、徐嘉琳、陳威儀、王琬菁、陳紀如、葛一樊、廖韋晴、姜為中、蔡明翰、張崇德、高正彥、張欣暘、袁維謙",
     "time": "Wn56-YC516[YM]"
   },
   "1151_133603": {
@@ -11696,7 +11696,7 @@
     "name": "當代生理學研究 Contemporary Physiological Research",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "林惠菁、陳政育、吳鈺琳、阮琪昌、李怡萱、簡千栩、吳莉玲、季康揚",
+    "teacher": "林惠菁、陳政育、吳鈺琳、李怡萱、簡千栩、洪翌凱、吳莉玲、季康揚",
     "time": "T34-YR103[YM]"
   },
   "1151_140200": {
@@ -11912,7 +11912,7 @@
     "name": "新興傳染病及感管流行病學 Epidemiology of emerging infectious diseases (EID) and healthcare-associated infections (HAI)",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "吳肇卿、李怡姿、林明薇、吳俊穎、林邑璁、李欣蓉、可文亞、蔡明翰、姜為中、詹宇鈞、王復德、蘇建維、林錫勳、卓文隆、謝世良、郭旭崧、謝文儒、李品慧、洪敏南、郭英調、顏慕庸、楊靖慧、馬徹、周彥宏、陳昕白、鄭健禹、陳伯亮、洪德仁",
+    "teacher": "吳肇卿、李怡姿、林明薇、吳俊穎、林邑璁、李欣蓉、可文亞、姜為中、蔡明翰、詹宇鈞、王復德、蘇建維、林錫勳、卓文隆、謝世良、郭旭崧、謝文儒、李品慧、洪敏南、郭英調、顏慕庸、楊靖慧、馬徹、周彥宏、陳昕白、鄭健禹、陳伯亮、洪德仁",
     "time": "W56-YL405[YM]"
   },
   "1151_140315": {
@@ -13746,7 +13746,7 @@
     "id": "161028",
     "memo": "[English Medium Course]",
     "name": "心靈哲學：心靈所做的事情 Philosophy of Mind and Cognition: Things Minds Do",
-    "num_limit": "35",
+    "num_limit": "40",
     "reg_num": "-999",
     "teacher": "游尚愷",
     "time": "R34-YT205[YM]"
@@ -13806,7 +13806,7 @@
     "id": "161034",
     "memo": "本課程上課地點為臺北陽明校區，採實體到課方式授課。依課務組選課期程逐階調整課程限修人數。課程達修課人數上限，不開放加簽",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
-    "num_limit": "15",
+    "num_limit": "16",
     "reg_num": "-999",
     "teacher": "徐詩偉",
     "time": "F78-YX202[YM]"
@@ -14022,7 +14022,7 @@
     "id": "161054",
     "memo": "",
     "name": "食品安全與生活 Food Safety and Life",
-    "num_limit": "60",
+    "num_limit": "73",
     "reg_num": "-999",
     "teacher": "黃鈺芳、陳鋕雄",
     "time": "R34-A401[GF],R34-YT305[YM]"
@@ -14058,7 +14058,7 @@
     "id": "161058",
     "memo": "本課程上課地點為臺北陽明校區，採實體到課方式授課",
     "name": "政治學 Political Science",
-    "num_limit": "35",
+    "num_limit": "42",
     "reg_num": "-999",
     "teacher": "彭懷恩",
     "time": "F56-YT104[YM]"
@@ -18993,7 +18993,7 @@
     "num_limit": "70",
     "reg_num": "-999",
     "teacher": "李義明",
-    "time": "M78-,R34-ED303[GF]"
+    "time": "M78-,R34-EE132[GF]"
   },
   "1151_515203": {
     "code": "EEDM10007",
@@ -19173,7 +19173,7 @@
     "num_limit": "49",
     "reg_num": "-999",
     "teacher": "張國恩",
-    "time": "F234-EE548[GF]"
+    "time": "F234-EE130[GF]"
   },
   "1151_515218": {
     "code": "EEDM10028",
@@ -28257,7 +28257,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "楊德忠",
-    "time": "M234-EV307[GF]"
+    "time": "M234-EV407[GF]"
   },
   "1151_536454": {
     "code": "ENNV30047",
@@ -32872,7 +32872,7 @@
     "credit": "2.00",
     "hours": "3.00",
     "id": "557927",
-    "memo": "[English Medium Course]集中時間上課，上課時間以課綱為主，9/11上午10:00有課程說明會，歡迎連線參加，詳情如課綱。",
+    "memo": "[English Medium Course]集中時間上課，上課時間以課綱為主。有提供課程說明會錄影，詳情如課綱。",
     "name": "數位治理與個人權益保護：從私生活到公領域(英文授課) Digital Governance and Individual Protection: From Civil Life to Public Affairs",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -33102,7 +33102,7 @@
     "id": "561010",
     "memo": "115學年度入學生需含必修「基本素養-全球視野」2學分。為優先保障新生修課需求，此類別課程於初選第一及第二階段暫不開放舊生選課。",
     "name": "日本文化論 Cultural Heritage of Japan",
-    "num_limit": "50",
+    "num_limit": "60",
     "reg_num": "-999",
     "teacher": "王敬翔",
     "time": "F34-A204[GF]"
@@ -33114,7 +33114,7 @@
     "id": "561011",
     "memo": "115學年度入學生需含必修「基本素養-全球視野」2學分。為優先保障新生修課需求，此類別課程於初選第一及第二階段暫不開放舊生選課。",
     "name": "日本文化論 Cultural Heritage of Japan",
-    "num_limit": "50",
+    "num_limit": "65",
     "reg_num": "-999",
     "teacher": "王敬翔",
     "time": "F56-A204[GF]"

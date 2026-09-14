@@ -980,7 +980,7 @@
     "name": "消化學 Gastroenterology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "羅景全、李懿宬、盧俊良、李重賓、黃惠君、藍耿欣、方文良、李癸汌、王心儀、徐博奎、黃怡翔、朱啟仁、李沛璋、王彥博、謝昀蓁、周書正",
+    "teacher": "羅景全、李懿宬、盧俊良、李重賓、黃惠君、藍耿欣、方文良、李癸汌、王心儀、徐博奎、黃怡翔、朱啟仁、李沛璋、王彥博、謝昀蓁、周書正、于洪元",
     "time": "M12345678T34W123478R1234F12345678-YT002[YM]"
   },
   "1151_110075": {
@@ -5732,8 +5732,8 @@
     "name": "細胞神經生理學 Cellular Neurophysiology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "嚴錦城、李怡萱、林惠菁、沈郁強",
-    "time": "T78-YR509[YM]"
+    "teacher": "嚴錦城、沈郁強",
+    "time": "T78-YR508[YM]"
   },
   "1151_130200": {
     "code": "MDPH30051",
@@ -6729,7 +6729,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蔡篤堅",
-    "time": "M234-YN611[YM]"
+    "time": "S567-"
   },
   "1151_130800": {
     "code": "MDEO30049",
@@ -7629,7 +7629,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "范佩貞",
-    "time": "R78-YR102[YM]"
+    "time": "R9a-YR102[YM]"
   },
   "1151_131212": {
     "code": "MDIH30001",
@@ -8337,7 +8337,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "劉影梅",
-    "time": "M23-YN418[YM]"
+    "time": "T9a-YN418[YM]"
   },
   "1151_131806": {
     "code": "NSCH30061",
@@ -13770,7 +13770,7 @@
     "id": "161031",
     "memo": "1.陽明交通大學、政治大學、臺北藝術大學三校教務學術合作博雅教育課程。2.視訊同步遠距課程 (陽明校區：YL402；交大校區：A302)。3..依課務組選課期程逐階調整課程限修人數。",
     "name": "跨領域通識課：那些動物教我的事 Cross-Disciplinary GE Course： Things We Learned from Animals",
-    "num_limit": "93",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "趙知章、郭文瑞、俞震亞、李怡萱、鄭凱元、嚴如玉、莊宜芳、林士傑、麥如村、尼大衛、魏雋展",
     "time": "R78-A302[GF],R78-YL402[YM]"
@@ -14022,7 +14022,7 @@
     "id": "161054",
     "memo": "",
     "name": "食品安全與生活 Food Safety and Life",
-    "num_limit": "73",
+    "num_limit": "75",
     "reg_num": "-999",
     "teacher": "黃鈺芳、陳鋕雄",
     "time": "R34-A401[GF],R34-YT305[YM]"
@@ -17442,10 +17442,10 @@
     "id": "514107",
     "memo": "[English Medium Course]限外文系",
     "name": "大一英文(一)：文學作品導讀 Freshman English (1):an Introductory Approach to Literature",
-    "num_limit": "9999",
+    "num_limit": "55",
     "reg_num": "-999",
     "teacher": "辜崇豪",
-    "time": "W234-HB210[GF]"
+    "time": "W234-HB207[GF]"
   },
   "1151_514108": {
     "code": "HSFL10029",
@@ -17932,7 +17932,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515011",
-    "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗時間為週二abc -ED713，第一週(9/8)上機教室為計中PC3。電機系學生優先，其他系學生於開學後再開放加選。本課程適合有程式設計相關基礎同學選修。依核心課程修習辦法第三條規定，學生若已修習課程作為學系必、選修學分後，不得再修習其他教學單位開設之相近課程作為核心學分。",
+    "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。上機時間為週二abc，教室為計中PC4。電機系學生優先，其他系學生於開學後再開放加選。本課程適合有程式設計相關基礎同學選修。依核心課程修習辦法第三條規定，學生若已修習課程作為學系必、選修學分後，不得再修習其他教學單位開設之相近課程作為核心學分。",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "44",
     "reg_num": "-999",
@@ -18993,7 +18993,7 @@
     "num_limit": "70",
     "reg_num": "-999",
     "teacher": "李義明",
-    "time": "M78-,R34-EE132[GF]"
+    "time": "R34-ED303[GF],M78-EE105[GF]"
   },
   "1151_515203": {
     "code": "EEDM10007",
@@ -21772,7 +21772,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517013",
-    "memo": "非管院學生請於8月31日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/6vddY1SLVqTPAidu8)；若有演習課安排於9a；管理基礎學分學程課程。",
+    "memo": "非管院學生請於8月31日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/E9ARDTwitN3ENLaR6)；若有演習課安排於9a；管理基礎學分學程課程。",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "53",
     "reg_num": "-999",
@@ -21784,7 +21784,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517014",
-    "memo": "非管院學生請於8月31日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/6vddY1SLVqTPAidu8)；若有演習課安排於9a；管理基礎學分學程課程。",
+    "memo": "非管院學生請於8月31日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/E9ARDTwitN3ENLaR6)；若有演習課安排於9a；管理基礎學分學程課程。",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "53",
     "reg_num": "-999",
@@ -21796,7 +21796,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "517015",
-    "memo": "非管院學生請於8月31日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/6vddY1SLVqTPAidu8)；若有演習課安排於9a；管理基礎學分學程課程。",
+    "memo": "非管院學生請於8月31日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記(https://forms.gle/E9ARDTwitN3ENLaR6)；若有演習課安排於9a；管理基礎學分學程課程。",
     "name": "作業研究(一) Operations Research (I)",
     "num_limit": "53",
     "reg_num": "-999",
@@ -22456,7 +22456,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "519502",
-    "memo": "",
+    "memo": "9/17上課教室改至工程三館 EC016，9/24起之上課教室另行公告。",
     "name": "最特殊的權利？言論自由初探 The Most Special Right? An Introduction to Freedom of Speech",
     "num_limit": "80",
     "reg_num": "-999",
@@ -26565,7 +26565,7 @@
     "num_limit": "100",
     "reg_num": "-999",
     "teacher": "吳凱強",
-    "time": "R89-ED117[GF]"
+    "time": "R89-EC114[GF],R89-EC122[GF]"
   },
   "1151_535527": {
     "code": "CSIC30216",
@@ -30465,7 +30465,7 @@
     "num_limit": "20",
     "reg_num": "-999",
     "teacher": "陳姵樺",
-    "time": "M567-A701[GF]"
+    "time": "M567-A722[GF]"
   },
   "1151_537814": {
     "code": "MGMT30096",
@@ -30477,7 +30477,7 @@
     "num_limit": "30",
     "reg_num": "-999",
     "teacher": "陳詩欣",
-    "time": "M789-A722[GF]"
+    "time": "M789-A701[GF]"
   },
   "1151_537815": {
     "code": "MGMT30116",
@@ -30501,7 +30501,7 @@
     "num_limit": "12",
     "reg_num": "-999",
     "teacher": "陳詩欣",
-    "time": "M234-A722[GF]"
+    "time": "M234-A701[GF]"
   },
   "1151_537817": {
     "code": "MGMT30067",
@@ -30513,7 +30513,7 @@
     "num_limit": "10",
     "reg_num": "-999",
     "teacher": "陳詩欣",
-    "time": "Mn56-A722[GF]"
+    "time": "Mn56-A701[GF]"
   },
   "1151_537818": {
     "code": "MGMT30117",
@@ -30620,7 +30620,7 @@
     "name": "國際模擬談判 International Negotiations Simulation",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "施明遠、待聘",
+    "teacher": "施明遠、盧遠珊",
     "time": "W234-MB1069[GF]"
   },
   "1151_537908": {
@@ -32589,7 +32589,7 @@
     "num_limit": "40",
     "reg_num": "-999",
     "teacher": "邱羽凡、王漢威",
-    "time": "Mabc-A401[GF]"
+    "time": "Mabc-A402[GF]"
   },
   "1151_557902": {
     "code": "LWLW30131",
@@ -32637,7 +32637,7 @@
     "num_limit": "70",
     "reg_num": "-999",
     "teacher": "包國祥",
-    "time": "Fab-A402[GF]"
+    "time": "Fab-MB1069[GF]"
   },
   "1151_557907": {
     "code": "LWLW30327",
@@ -32769,7 +32769,7 @@
     "num_limit": "45",
     "reg_num": "-999",
     "teacher": "楊筑安、金孟華",
-    "time": "S678-A402[GF]"
+    "time": "S678-A401[GF]"
   },
   "1151_557919": {
     "code": "LWLW30086",
@@ -32781,7 +32781,7 @@
     "num_limit": "50",
     "reg_num": "-999",
     "teacher": "劉尚志、陳在方、洪瑞章、陳豐奇",
-    "time": "S678-A401[GF]"
+    "time": "S678-A402[GF]"
   },
   "1151_557920": {
     "code": "LWLW30174",
@@ -32876,7 +32876,7 @@
     "name": "數位治理與個人權益保護：從私生活到公領域(英文授課) Digital Governance and Individual Protection: From Civil Life to Public Affairs",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "待聘、鄭歆儒",
+    "teacher": "門田美貴、鄭歆儒",
     "time": ""
   },
   "1151_559000": {
@@ -35934,7 +35934,7 @@
     "id": "563036",
     "memo": "1.上課地點：綜合球館2樓網球場。\n2.第一階段開放選課系級：\n百川2\n半導體2\n機械2\n土木2\n資工2\n電物2\n應數2\n生科2\n醫學系(醫師工程師組)2",
     "name": "體育－網球甲 Tennis",
-    "num_limit": "32",
+    "num_limit": "33",
     "reg_num": "-999",
     "teacher": "詹益欣",
     "time": "T78-PE[GF]"
@@ -36474,7 +36474,7 @@
     "id": "563081",
     "memo": "",
     "name": "體育－桌球乙 Table tennis",
-    "num_limit": "40",
+    "num_limit": "42",
     "reg_num": "-999",
     "teacher": "游鳳芸",
     "time": "F12-PE[GF]"
@@ -38394,7 +38394,7 @@
     "id": "569002",
     "memo": "限大二以上。企業ESG創意構想實務研討部分預計3人一組,可自行組隊或由教師組隊均可。",
     "name": "淨零排放與實務 Net Zero Emission and Practices",
-    "num_limit": "21",
+    "num_limit": "16",
     "reg_num": "-999",
     "teacher": "高正忠",
     "time": "T34-A302[GF]"
@@ -41060,7 +41060,7 @@
     "name": "資訊科學概論 Introduction to Information Science ",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "莊曜嘉",
+    "teacher": "邱廷鴻",
     "time": "F34-"
   },
   "1151_910112": {
@@ -41084,7 +41084,7 @@
     "name": "資訊科學概論 Introduction to Information Science ",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "邱廷鴻",
+    "teacher": "莊曜嘉",
     "time": "T67-"
   },
   "1151_910114": {
@@ -42286,18 +42286,6 @@
     "reg_num": "-999",
     "teacher": "蘇英俊",
     "time": "W34R3-"
-  },
-  "1151_910228": {
-    "code": "SESE10192",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "910228",
-    "memo": "電機組，上課地點：國防大學理工學院，授課教師：劉貞灝老師",
-    "name": "數位電子 Digital electronics",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "系統工程",
-    "time": "T678-"
   },
   "1151_910229": {
     "code": "SESE10197",
@@ -43605,7 +43593,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "吳文銓",
-    "time": "T678-"
+    "time": "T2W34-"
   },
   "1151_910348": {
     "code": "SESE20340",
@@ -44541,7 +44529,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "邱廷鴻",
-    "time": "Wabc-"
+    "time": "Tabc-"
   },
   "1151_910431": {
     "code": "SESE20154",
@@ -44553,7 +44541,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "邱廷鴻",
-    "time": "W678-"
+    "time": "M9T67-"
   },
   "1151_910432": {
     "code": "SESE10050",
@@ -44668,7 +44656,7 @@
     "credit": ".00",
     "hours": "2.00",
     "id": "910442",
-    "memo": "",
+    "memo": "動力組，重補修課程，上課地點：國防大學理工學院",
     "name": "導師輔導(2)  Tutor Guidance(2) ",
     "num_limit": "9999",
     "reg_num": "-999",

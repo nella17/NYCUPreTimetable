@@ -1724,7 +1724,7 @@
     "name": "成人護理學實習Ⅰ Adult Nursing PracticeⅠ",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "侯宜菁、黃升苗、陳律言、黃淑鶴、楊曼華、梁靜娟、林家弘、許志忠、古玉貞、周珊如、吳碧珠、呂政憲、李雅雯、粘乃欣、莊瑞玲、施瓊玉、陳蘊珩、鄒宗泰、王曉君、張嘉琪、郭憶文、許鈺絹、蘇惠文、李雅雯",
+    "teacher": "侯宜菁、黃升苗、陳律言、黃淑鶴、楊曼華、梁靜娟、林家弘、許志忠、古玉貞、周珊如、吳碧珠、呂政憲、粘乃欣、莊瑞玲、施瓊玉、陳蘊珩、鄒宗泰、王曉君、張嘉琪、郭憶文、許鈺絹、蘇惠文、李雅雯",
     "time": "M12345678T12345678W12345678-YN416[YM]"
   },
   "1151_111804": {
@@ -2000,7 +2000,7 @@
     "name": "藥事行政法規 Pharmacy Administration and Pharmacy Law",
     "num_limit": "40",
     "reg_num": "-999",
-    "teacher": "黃世宗、戴雪詠、陳映樺、蔡文瑛、方韻淑、張連成、林美智、林修德、江仟琦、趙必暉、許銘能、楊姿筠、林育靜",
+    "teacher": "黃世宗、戴雪詠、陳映樺、蔡文瑛、方韻淑、張連成、林美智、林修德、江仟琦、趙必暉、許銘能、楊姿筠",
     "time": "R34-YR105[YM]"
   },
   "1151_111906": {
@@ -4031,6 +4031,18 @@
     "teacher": "薛特",
     "time": ""
   },
+  "1151_112402": {
+    "code": "BEBN20041",
+    "credit": "3.00",
+    "hours": "3.00",
+    "id": "112402",
+    "memo": "",
+    "name": "數位醫療專題研究(一) Independent Study of Digital Healthcare I",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "吳育德、卓冠宇",
+    "time": "S123-"
+  },
   "1151_112500": {
     "code": "LSLS00003",
     "credit": "1.00",
@@ -4964,7 +4976,7 @@
     "name": "醫學新知 New medical knowledge",
     "num_limit": "30",
     "reg_num": "-999",
-    "teacher": "林滿玉、林惠菁、黃琤、林東毅、孫家偉、蘇信寧、蔡明翰、王鼎涵、廖咨詠、林舜穀、楊逸萍、黃義龍、花偉鈞",
+    "teacher": "林東毅、林惠菁、黃琤、孫家偉、蘇信寧、蔡明翰、王鼎涵、廖咨詠、林舜穀、楊逸萍、黃義龍、花偉鈞",
     "time": "W34-YK912[YM]"
   },
   "1151_113922": {
@@ -8252,7 +8264,7 @@
     "name": "智慧健康照護與醫療產業之永續發展 Sustainable Development in Smart Health Care and Medical Industry",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "孫秀卿、陳俞琪、黃久美、陳榮治、李博仁、陳律言、羅畯義、楊曼華、林承霈、吳佳東、朱原嘉、郭金尼、郭淑柳、黃琡雅",
+    "teacher": "孫秀卿、陳俞琪、黃久美、陳榮治、李博仁、陳律言、羅畯義、楊曼華、林承霈、廖咨詠、吳佳東、朱原嘉、郭金尼、郭淑柳、黃琡雅",
     "time": "W9a-YN416[YM]"
   },
   "1151_131713": {
@@ -9848,7 +9860,7 @@
     "name": "神經肌肉系統特論 Special Topics in Neuromuscular System",
     "num_limit": "20",
     "reg_num": "-999",
-    "teacher": "周立偉、林吟亮、陳博因、李惠敏、鄭穎淳、潘俐伶",
+    "teacher": "周立偉、潘俐伶、林吟亮、陳博因、李惠敏、鄭穎淳",
     "time": "T56-YB603[YM]"
   },
   "1151_132426": {
@@ -9886,6 +9898,18 @@
     "reg_num": "-999",
     "teacher": "陳振昇",
     "time": "T234-YB424[YM]"
+  },
+  "1151_132429": {
+    "code": "BEPT30086",
+    "credit": "2.00",
+    "hours": "2.00",
+    "id": "132429",
+    "memo": "",
+    "name": "肌肉骨骼與運動科學(四) Musculoskeletal and Sports Science (IV)",
+    "num_limit": "9999",
+    "reg_num": "-999",
+    "teacher": "王子娟、施怡芬、林吟亮、黃崇舜",
+    "time": "R34-YB601[YM]"
   },
   "1151_132500": {
     "code": "BEIR30007",
@@ -10880,7 +10904,7 @@
     "name": "生化特論B(碩) Special Topic on Biochemistry",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "許翺麟、陳美瑜、游麗如、鄭子豪、林達顯、郭津岑、黃介嶸、陳威儀、王琬菁、陳鴻震、蔡有光、曾炳輝、廖韋晴、姜為中、張崇德",
+    "teacher": "許翺麟、陳美瑜、游麗如、鄭子豪、郭津岑、黃介嶸、陳威儀、王琬菁、陳鴻震、蔡有光、曾炳輝、廖韋晴、姜為中、張崇德",
     "time": "R9aF9a-YC501[YM]"
   },
   "1151_132909": {
@@ -11420,7 +11444,7 @@
     "name": "長期照護政策 Long Term Care Policy",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳怡如、陳喬男、李韶芬、蔡芳文、陳怡亨、許志成、王英偉、林麗嬋、李玉春、吳肖琪、徐業良、祝健芳、王怡晶",
+    "teacher": "陳怡如、陳喬男、李韶芬、蔡芳文、陳怡亨、許志成、林麗嬋、李玉春、吳肖琪、徐業良、祝健芳",
     "time": "T56-YN118[YM]"
   },
   "1151_133505": {
@@ -11432,7 +11456,7 @@
     "name": "長照給付支付照管及個管 Long-Term Care Benefits/Payment  Design, Care And Case Management",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李玉春、李淑貞、林麗嬋、吳肖琪、張淑卿、陳玉澤、鄧菁菁",
+    "teacher": "李玉春、林麗嬋、吳肖琪、李淑貞、張淑卿、陳玉澤、鄧菁菁",
     "time": "T78-YN118[YM]"
   },
   "1151_133506": {
@@ -11444,7 +11468,7 @@
     "name": "長照復能與專業服務 Reablement and Professional services of Long-term care",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李雪楨、羅鴻基、王鼎涵、李玉春、張自強、袁瑋、蔡法慈、許銘能、李維倫、江佳慧、郭亭亞、余虹、鄧菁菁、蔡語涵、黃晴雯",
+    "teacher": "李雪楨、羅鴻基、王鼎涵、李玉春、張自強、袁瑋、蔡法慈、許銘能、李維倫、郭亭亞、余虹、鄧菁菁、蔡語涵、黃晴雯",
     "time": "R34-YN613[YM]"
   },
   "1151_133507": {
@@ -11456,7 +11480,7 @@
     "name": "長照跨專業實務討論與分析(II) Seminar on transdisciplinary long-term care practice",
     "num_limit": "16",
     "reg_num": "-999",
-    "teacher": "楊雅如、簡麗年、王瑞瑤、陳怡如、陳喬男、李淑貞、李雪楨、楊曼華、姜紹青、吳佳東、李玉春",
+    "teacher": "楊雅如、簡麗年、王瑞瑤、陳怡如、陳喬男、李雪楨、楊曼華、姜紹青、吳佳東、李玉春、李淑貞",
     "time": "R56-YN514[YM]"
   },
   "1151_133508": {
@@ -11768,7 +11792,7 @@
     "name": "儀器分析及實習 Instrumentation in Medical Research & Associated Lab. Works",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳斯婷、林照雄、李易展、林達顯、黃奇英、陳念榮、邱士華、陳燕彰、莊惠燕、高瑀絜、黃怡翔、陳建鋒、花嘉玲、楊逸萍、范綱祐、曾才郁",
+    "teacher": "陳斯婷、林照雄、李易展、黃奇英、陳念榮、邱士華、陳燕彰、莊惠燕、高瑀絜、黃怡翔、陳建鋒、花嘉玲、楊逸萍、范綱祐、曾才郁",
     "time": "F34n5678-YL405[YM]"
   },
   "1151_140303": {
@@ -11804,7 +11828,7 @@
     "name": "免疫學在健康與疾病議題的研究 Immunological Research in Health and Disease",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "陳斯婷、陳念榮、陳世彬、陶秘華、蔡肇基、邱政洵、謝世良、王鵬惠、黃怡翔、楊慕華、陳相成、范怡琴、王愈善",
+    "teacher": "陳斯婷、陳念榮、陳世彬、陶秘華、蔡肇基、邱政洵、謝世良、王鵬惠、黃怡翔、楊慕華、陳相成、范怡琴",
     "time": "W56-YR104[YM]"
   },
   "1151_140306": {
@@ -13280,7 +13304,7 @@
     "name": "進階病理生理學 Advanced Pathophysiology",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "劉佩青、李懿宬、童恒新、胡慧蘭、高正彥、楊世偉、石光中、沈政男、洪韡倢、李華恩、林家弘、陳盈如",
+    "teacher": "劉佩青、李懿宬、童恒新、胡慧蘭、高正彥、楊世偉、石光中、沈政男、洪韡倢、林家弘、陳盈如",
     "time": "F5678-YN322[YM]"
   },
   "1151_150206": {
@@ -13794,7 +13818,7 @@
     "id": "161033",
     "memo": "本課程上課地點為臺北陽明校區，採實體到課方式授課。依課務組選課期程逐階調整課程限修人數。課程達修課人數上限，不開放加簽",
     "name": "未來科技領導人的素養與思維 Literacy and Competence for Future Leaders",
-    "num_limit": "15",
+    "num_limit": "16",
     "reg_num": "-999",
     "teacher": "洪紹洋",
     "time": "F34-YX202[YM]"
@@ -14010,7 +14034,7 @@
     "id": "161053",
     "memo": "依課務組選課期程逐階調整課程限修人數。",
     "name": "比較東西方自然哲學與古醫學觀 Comparison of Eastern & Western Natural Philosophy and View of Ancient Medicine",
-    "num_limit": "50",
+    "num_limit": "57",
     "reg_num": "-999",
     "teacher": "陳方佩、張清貿、張晋賢、楊仁鄰、吳大鵬、蔡承宏、林虹均、陳致光",
     "time": "T34-YT202[YM]"
@@ -14022,7 +14046,7 @@
     "id": "161054",
     "memo": "",
     "name": "食品安全與生活 Food Safety and Life",
-    "num_limit": "75",
+    "num_limit": "76",
     "reg_num": "-999",
     "teacher": "黃鈺芳、陳鋕雄",
     "time": "R34-A401[GF],R34-YT305[YM]"
@@ -17130,7 +17154,7 @@
     "id": "514015",
     "memo": "本課程人數上限為12人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "金工基礎與跨域設計 Fundamentals of Metalsmithing and Cross Disciplinary Design",
-    "num_limit": "12",
+    "num_limit": "7",
     "reg_num": "-999",
     "teacher": "王佳恩",
     "time": "T567-HC103[GF]"
@@ -17562,7 +17586,7 @@
     "id": "514117",
     "memo": "聽語科學學分學程",
     "name": "語音學/音韻學 Phonetics/Phonology",
-    "num_limit": "9999",
+    "num_limit": "55",
     "reg_num": "-999",
     "teacher": "萬宗綸",
     "time": "R567-HB207[GF]"
@@ -17920,7 +17944,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515010",
-    "memo": "第一週 (9/7 第56節與9/10 第2節)上課教室為EE102。電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗實驗於週一abc (ED713)。電機系學生優先，其他系學生於開學後再開放加選。依核心課程修習辦法第三條規定，學生若已修習課程作為學系必、選修學分後，不得再修習其他教學單位開設之相近課程作為核心學分。",
+    "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗實驗於週一abc (ED713)。電機系學生優先，其他系學生於開學後再開放加選。依核心課程修習辦法第三條規定，學生若已修習課程作為學系必、選修學分後，不得再修習其他教學單位開設之相近課程作為核心學分。",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "44",
     "reg_num": "-999",
@@ -17932,7 +17956,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515011",
-    "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。上機時間為週二abc，教室為計中PC4。電機系學生優先，其他系學生於開學後再開放加選。本課程適合有程式設計相關基礎同學選修。依核心課程修習辦法第三條規定，學生若已修習課程作為學系必、選修學分後，不得再修習其他教學單位開設之相近課程作為核心學分。",
+    "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。上機時間為週二abc，教室為ED713。電機系學生優先，其他系學生於開學後再開放加選。本課程適合有程式設計相關基礎同學選修。依核心課程修習辦法第三條規定，學生若已修習課程作為學系必、選修學分後，不得再修習其他教學單位開設之相近課程作為核心學分。",
     "name": "計算機概論與程式設計 Introduction to Computers and Programming",
     "num_limit": "44",
     "reg_num": "-999",
@@ -17956,7 +17980,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "515013",
-    "memo": "[English Medium Course]第一週(9/8)上課教室為EDB01。電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗時間為週二abc(地點：PC2)。電機系學生優先，其他系學生於開學後再開放加選。依核心課程修習辦法第三條規定，學生若已修習課程作為學系必、選修學分後，不得再修習其他教學單位開設之相近課程作為核心學分。",
+    "memo": "[English Medium Course]電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗時間為週二abc(地點：PC2)。電機系學生優先，其他系學生於開學後再開放加選。依核心課程修習辦法第三條規定，學生若已修習課程作為學系必、選修學分後，不得再修習其他教學單位開設之相近課程作為核心學分。",
     "name": "計算機概論與程式設計【英文班】 Introduction to Computers and Programming",
     "num_limit": "44",
     "reg_num": "-999",
@@ -24536,7 +24560,7 @@
     "name": "音樂論壇 Music Colloquium",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李俊穎、辛幸純、待聘、李奉書、董昭民、羅芳偉",
+    "teacher": "李俊穎、司徒雅各、辛幸純、待聘、李奉書、董昭民、羅芳偉",
     "time": "T56-AD027[GF]"
   },
   "1151_534801": {
@@ -24622,18 +24646,6 @@
     "reg_num": "-999",
     "teacher": "馬定一",
     "time": "W56-HC514[GF]"
-  },
-  "1151_534809": {
-    "code": "HSIM30092",
-    "credit": "1.00",
-    "hours": "1.00",
-    "id": "534809",
-    "memo": "限本所學生。",
-    "name": "竹韻音樂會實務三  Concert of IMU “Tunes of Bamboo” Ⅲ",
-    "num_limit": "20",
-    "reg_num": "-999",
-    "teacher": "羅芳偉、董昭民",
-    "time": "W9-HC501[GF]"
   },
   "1151_534811": {
     "code": "HSIM30038",
@@ -24803,18 +24815,6 @@
     "teacher": "許佳穎",
     "time": "Ta-HC605[GF]"
   },
-  "1151_534826": {
-    "code": "HSIM30054",
-    "credit": "3.00",
-    "hours": "1.00",
-    "id": "534826",
-    "memo": "限本所學生。",
-    "name": "演奏主修：鋼琴 Advanced Instruction in Piano",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "黃貞綾",
-    "time": "Ma-HC604[GF]"
-  },
   "1151_534827": {
     "code": "HSIM30055",
     "credit": "3.00",
@@ -24836,7 +24836,7 @@
     "name": "演奏主修：小提琴 Advanced Instruction in Violin",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "黃郁婷",
+    "teacher": "待聘",
     "time": "Ra-HC603[GF]"
   },
   "1151_534829": {
@@ -24908,7 +24908,7 @@
     "name": "演奏主修：法國號 Advanced Instruction in Horn",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "陳彥豪",
     "time": "Fy-HC603[GF]"
   },
   "1151_534838": {
@@ -24920,7 +24920,7 @@
     "name": "室內樂 Chamber Music",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "李俊穎、辛幸純、李奉書、林慶俊、李珮琪、林薏蕙、黃貞綾、孫建如、潘世洵、陳昱翰",
+    "teacher": "李俊穎、辛幸純、待聘、李奉書、林慶俊、陳彥豪、孫建如、潘世洵、許佳穎、陳昱翰",
     "time": "F1-HC615[GF]"
   },
   "1151_534839": {
@@ -25341,7 +25341,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "桑梓賢",
-    "time": "W7-ED103[GF],T34-ED116[GF]"
+    "time": "T34-,W7-ED103[GF]"
   },
   "1151_535226": {
     "code": "EEIE30056",
@@ -26442,7 +26442,7 @@
     "id": "535513",
     "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；請依各所入學年度之修業要點選課；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；優先順序為:A.研究生--1.資科工:碩+博, 2.碩班:網工,多工,數科工 B.如還有名額, 待開學後再給大學部書面加簽。此課程僅開一學期。",
     "name": "計算機架構 Computer Architecture",
-    "num_limit": "120",
+    "num_limit": "130",
     "reg_num": "-999",
     "teacher": "張庭榕",
     "time": "T56-EDB27[GF]"
@@ -27790,18 +27790,6 @@
     "reg_num": "-999",
     "teacher": "于弋翔、蔡育霖",
     "time": "M567-EB404[GF]"
-  },
-  "1151_536206": {
-    "code": "ENCV30057",
-    "credit": "3.00",
-    "hours": "3.00",
-    "id": "536206",
-    "memo": "",
-    "name": "計算水力學 Computational Hydraulics",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "楊尊華",
-    "time": "T234-EB404[GF]"
   },
   "1151_536207": {
     "code": "ENCV30033",
@@ -30078,7 +30066,7 @@
     "id": "537606",
     "memo": "",
     "name": "離散數學 Discrete Mathematics",
-    "num_limit": "35",
+    "num_limit": "24",
     "reg_num": "-999",
     "teacher": "徐熊健",
     "time": "M567-MB304[GF]"
@@ -33630,7 +33618,7 @@
     "id": "561057",
     "memo": "",
     "name": "普通心理學 General Psychology",
-    "num_limit": "120",
+    "num_limit": "118",
     "reg_num": "-999",
     "teacher": "程千芳",
     "time": "R34-A103[GF]"
@@ -42172,7 +42160,7 @@
     "credit": "1.00",
     "hours": "3.00",
     "id": "910217",
-    "memo": "電機組，上課地點：國防大學理工學院，授課教師：楊家宏老師(09-10月)、吳承儒老師(10-12月)",
+    "memo": "電機組，上課地點：國防大學理工學院",
     "name": "控制與自動化專題實作(1) Special Topics for the Control and Automation",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -44730,7 +44718,7 @@
     "id": "960005",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－國際情勢 All-out Defense Education Military Training-International Situations",
-    "num_limit": "61",
+    "num_limit": "55",
     "reg_num": "-999",
     "teacher": "胡振平",
     "time": "T34-A104[GF]"
@@ -44802,7 +44790,7 @@
     "id": "960011",
     "memo": "",
     "name": "全民國防教育軍事訓練課程－國際情勢 All-out Defense Education Military Training-International Situations",
-    "num_limit": "62",
+    "num_limit": "55",
     "reg_num": "-999",
     "teacher": "胡振平",
     "time": "T56-A104[GF]"

@@ -2888,8 +2888,8 @@
     "name": "物理治療導論 Introduction to Physical Therapy",
     "num_limit": "45",
     "reg_num": "-999",
-    "teacher": "陳喬男、王子娟、王瑞瑤、施怡芬、楊雅如、李雪楨、羅鴻基、林吟亮、黃崇舜、黃郁潔",
-    "time": "T3-YX503[YM]"
+    "teacher": "陳喬男、王子娟、王瑞瑤、施怡芬、楊雅如、李雪楨、羅鴻基、林吟亮、黃崇舜、黃郁潔、李淑貞",
+    "time": "T3-YX216[YM]"
   },
   "1151_112201": {
     "code": "BEPT10050",
@@ -2901,7 +2901,7 @@
     "num_limit": "50",
     "reg_num": "-999",
     "teacher": "陳博因",
-    "time": "T4-YB601[YM]"
+    "time": "T4-YX216[YM]"
   },
   "1151_112202": {
     "code": "BEPT10001",
@@ -2912,7 +2912,7 @@
     "name": "人文與生活(一) Humanities and Life (I)",
     "num_limit": "50",
     "reg_num": "-999",
-    "teacher": "王子娟、陳振昇、林吟亮",
+    "teacher": "王子娟、陳振昇、潘俐伶",
     "time": "W34-"
   },
   "1151_112203": {
@@ -3020,7 +3020,7 @@
     "name": "操作治療學 Manual Therapy",
     "num_limit": "45",
     "reg_num": "-999",
-    "teacher": "王子娟、陳博因、黃郁潔、蔡永裕",
+    "teacher": "王子娟、陳博因、黃郁潔、蔡永裕、李茵",
     "time": "T56-YB601[YM]"
   },
   "1151_112212": {
@@ -3044,7 +3044,7 @@
     "name": "操作治療學實作 Manual Therapy Practice",
     "num_limit": "45",
     "reg_num": "-999",
-    "teacher": "王子娟、陳博因、黃郁潔、蔡永裕",
+    "teacher": "王子娟、陳博因、黃郁潔、蔡永裕、李茵",
     "time": "T78-YB601[YM]"
   },
   "1151_112214": {
@@ -3296,7 +3296,7 @@
     "name": "日常生活功能訓練與輔具應用 Functional Training for Activities of Daily Living and The Use of Assistive Device",
     "num_limit": "45",
     "reg_num": "-999",
-    "teacher": "陳博因、徐麒晏、陳柏佑、蔡佳蓉、余虹、楊忠一",
+    "teacher": "陳博因、羅鴻基、徐麒晏、陳柏佑、蔡佳蓉、余虹、楊忠一",
     "time": "R23-"
   },
   "1151_112236": {
@@ -3492,12 +3492,12 @@
     "time": "SyzUyz-YB530[YM]"
   },
   "1151_112252": {
-    "code": "BEPT20102",
+    "code": "BEPT20104",
     "credit": "1.00",
     "hours": "2.00",
     "id": "112252",
     "memo": "[English Medium Course]跨專業物理治療海外實作課程，限物理治療暨輔助科技學系學生選修",
-    "name": "海外跨專業物理治療科技賦能實作 Overseas Interdisciplinary Physically Therapy and Technology Empowerment Practicum",
+    "name": "海外跨專業物理治療科技賦能實習 Overseas Interdisciplinary Physically Therapy and Technology Empowerment Practicum",
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "施怡芬",
@@ -4137,7 +4137,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "孫維欣、林崇智、陳儀聰、藍昇輝",
-    "time": "T56-YK101[YM],T56-YR102[YM]"
+    "time": "T56-YK101[YM],T56-YL404[YM]"
   },
   "1151_112508": {
     "code": "LSLS10029",
@@ -4233,7 +4233,7 @@
     "num_limit": "80",
     "reg_num": "-999",
     "teacher": "陳俊銘、俞震亞、陳紀如、李曉暉、可文亞、高正彥",
-    "time": "F56-A302[GF],F56-YT305[YM]"
+    "time": "F56-AB102[GF],F56-YT305[YM]"
   },
   "1151_112516": {
     "code": "LSLS10042",
@@ -4326,7 +4326,7 @@
     "id": "112905",
     "memo": "生命科學院脩遠課程，全校大學生修讀皆可計入核心學分。",
     "name": "分子生物學的哲學 Philosophy of Molecular Biology",
-    "num_limit": "70",
+    "num_limit": "50",
     "reg_num": "-999",
     "teacher": "蔡有光、鄭凱元",
     "time": "R12-YT202[YM],R12-YT203[YM]"
@@ -5085,7 +5085,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "李曉暉、可文亞、李敏嘉、陳儀聰、陳瀅州",
-    "time": "R34-YB102[YM]"
+    "time": "R34-YB100[YM]"
   },
   "1151_114105": {
     "code": "GEBY10009",
@@ -5865,7 +5865,7 @@
     "num_limit": "65",
     "reg_num": "-999",
     "teacher": "莊宜芳、陳娟瑜、陳信任",
-    "time": "R789-YB102[YM]"
+    "time": "R789-YT304[YM]"
   },
   "1151_130210": {
     "code": "MDPH30042",
@@ -5960,8 +5960,8 @@
     "name": "公共衛生大師專題 Master Panel in Public Health",
     "num_limit": "36",
     "reg_num": "-999",
-    "teacher": "莊宜芳、温啟仲、林明薇、周穎政、楊秀儀、陳娟瑜、郭炤裕、蒲正筠、陳瓊梅、林雅萍、梁立霖、黃宣穎、雷文玫、陳信任、潘文驥、劉家軒、任一安、張鴻仁、梁賡義、黃嵩立",
-    "time": "R56-YB102[YM]"
+    "teacher": "莊宜芳、温啟仲、林明薇、周穎政、林逸芬、楊秀儀、鄧宗業、陳娟瑜、郭炤裕、蒲正筠、陳瓊梅、林雅萍、梁立霖、黃宣穎、雷文玫、陳信任、潘文驥、劉家軒、任一安、張鴻仁、梁賡義、黃嵩立、莊人祥",
+    "time": "R56-YT104[YM]"
   },
   "1151_130219": {
     "code": "MDPH30130",
@@ -5973,7 +5973,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳信任、楊振昌、林明薇、黃心苑、周穎政、陳娟瑜、莊宜芳、東雅惠、潘文驥、劉家軒",
-    "time": "Rn-YB101[YM]"
+    "time": "Rn-YT205[YM]"
   },
   "1151_130220": {
     "code": "MDPH30123",
@@ -6057,7 +6057,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "陳信任、楊振昌、林明薇、黃心苑、周穎政、陳娟瑜、莊宜芳、東雅惠、潘文驥、劉家軒",
-    "time": "Rn-YB101[YM]"
+    "time": "Rn-YT205[YM]"
   },
   "1151_130228": {
     "code": "MDPH30124",
@@ -14992,7 +14992,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "310009",
-    "memo": "修課生須自備筆電上課",
+    "memo": "修課生須自備筆電上課，上課教室HK114電腦教室",
     "name": "地理資訊系統  Geographic Information System",
     "num_limit": "24",
     "reg_num": "-999",
@@ -15117,7 +15117,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "簡美玲",
-    "time": "R678-HK106[LJ]"
+    "time": "R678-HK207[LJ]"
   },
   "1151_310100": {
     "code": "HKCT10008",
@@ -17913,7 +17913,7 @@
     "num_limit": "85",
     "reg_num": "-999",
     "teacher": "王蒞君",
-    "time": "Tn56-ED116[GF],F2-ED220[GF]"
+    "time": "F2-ED220[GF],Tn56-EDB26[GF]"
   },
   "1151_515008": {
     "code": "EEEC10012",
@@ -23001,7 +23001,7 @@
     "num_limit": "140",
     "reg_num": "-999",
     "teacher": "林志偉",
-    "time": "T789-KB402[KS],T789-SC110[GF]"
+    "time": "T789-KB202[KS],T789-SC110[GF]"
   },
   "1151_520031": {
     "code": "XDEP20034",
@@ -25436,7 +25436,7 @@
     "name": "書報討論 Graduate Research",
     "num_limit": "0",
     "reg_num": "-999",
-    "teacher": "",
+    "teacher": "電子所",
     "time": ""
   },
   "1151_535234": {
@@ -25869,7 +25869,7 @@
     "num_limit": "80",
     "reg_num": "-999",
     "teacher": "渡邊浩志",
-    "time": "F789-ED203[GF]"
+    "time": "F789-EDB26[GF]"
   },
   "1151_535366": {
     "code": "EECM30082",
@@ -27441,7 +27441,7 @@
     "num_limit": "40",
     "reg_num": "-999",
     "teacher": "方怡欽",
-    "time": "W567-EE231[GF]"
+    "time": "W567-EE130[GF]"
   },
   "1151_536077": {
     "code": "ENSS30017",
@@ -27465,7 +27465,7 @@
     "num_limit": "40",
     "reg_num": "-999",
     "teacher": "方怡欽",
-    "time": "R345-EE229[GF]"
+    "time": "R345-EE324[GF]"
   },
   "1151_536079": {
     "code": "ENSS30028",
@@ -28473,7 +28473,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "梁興弛",
-    "time": "T567-KB401[KS]"
+    "time": "T567-KB302[KS]"
   },
   "1151_536615": {
     "code": "SCEP30010",
@@ -28497,7 +28497,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蘇冠暐、陳怡君",
-    "time": "R567-KB401[KS]"
+    "time": "R567-KB302[KS]"
   },
   "1151_536617": {
     "code": "SCEP30005",
@@ -30095,18 +30095,6 @@
     "teacher": "林妙聰",
     "time": "T234-MB312[GF]"
   },
-  "1151_537609": {
-    "code": "MGIM30056",
-    "credit": "2.00",
-    "hours": "2.00",
-    "id": "537609",
-    "memo": "",
-    "name": "量子計算專題 Special Topic on Quantum Computing",
-    "num_limit": "9999",
-    "reg_num": "-999",
-    "teacher": "羅濟群",
-    "time": "T34-MB311[GF]"
-  },
   "1151_537610": {
     "code": "MGIM30018",
     "credit": "3.00",
@@ -30258,7 +30246,7 @@
     "id": "537710",
     "memo": "財務類課程；財務金融碩博士班、資財系大三大四優先。本課程不開放博士班學生選修。上課教室：管理一館1樓光寶廳M115。非本課程輔開系所之外系所學生請於開學後再上網加選課程。無法於線上加選者請紙本加簽。",
     "name": "財務個案分析 Case study in finance",
-    "num_limit": "55",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "鍾惠民、王燈山",
     "time": "Rabc-M115[GF]"
@@ -30608,7 +30596,7 @@
     "name": "國際模擬談判 International Negotiations Simulation",
     "num_limit": "10",
     "reg_num": "-999",
-    "teacher": "施明遠、盧遠珊",
+    "teacher": "施明遠",
     "time": "W234-MB1069[GF]"
   },
   "1151_537908": {
@@ -33849,7 +33837,7 @@
     "num_limit": "23",
     "reg_num": "-999",
     "teacher": "顧彩璇",
-    "time": "W567-HC104[GF]"
+    "time": "W567-A301[GF]"
   },
   "1151_561080": {
     "code": "GECG10048",
@@ -42164,7 +42152,7 @@
     "name": "控制與自動化專題實作(1) Special Topics for the Control and Automation",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "系統工程、楊家宏",
+    "teacher": "楊家宏",
     "time": "T678-"
   },
   "1151_910218": {

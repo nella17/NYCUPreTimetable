@@ -4326,7 +4326,7 @@
     "id": "112905",
     "memo": "生命科學院脩遠課程，全校大學生修讀皆可計入核心學分。",
     "name": "分子生物學的哲學 Philosophy of Molecular Biology",
-    "num_limit": "50",
+    "num_limit": "70",
     "reg_num": "-999",
     "teacher": "蔡有光、鄭凱元",
     "time": "R12-YT202[YM],R12-YT203[YM]"
@@ -4809,7 +4809,7 @@
     "num_limit": "47",
     "reg_num": "-999",
     "teacher": "傅淑玲、葉添順、李新城、王湘翠、林東毅、兵岳忻",
-    "time": "W56-YK916[YM]"
+    "time": "W56-YK533[YM]"
   },
   "1151_113908": {
     "code": "MDCH20003",
@@ -6813,7 +6813,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "黃鈺芳、張榮偉、郭憲文",
-    "time": "W78-YS105[YM]"
+    "time": "W78-YS107[YM]"
   },
   "1151_130806": {
     "code": "MDEO30003",
@@ -8577,7 +8577,7 @@
     "num_limit": "70",
     "reg_num": "-999",
     "teacher": "蘇溶真、陳惠亭",
-    "time": "W567-YK533[YM]"
+    "time": "W567-YK916[YM]"
   },
   "1151_132007": {
     "code": "PSPM20004",
@@ -13156,7 +13156,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "150105",
-    "memo": "非本所在職專班請勿選，後11周上課，10/9開始上課，上課時間為13:10-16:00。",
+    "memo": "非本所在職專班請勿選，後11周上課，10/10放假，10/17開始上課，上課時間為13:10-16:00。",
     "name": "醫療品質與實務 Quality of medical care and clinical applications",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -13180,7 +13180,7 @@
     "credit": "1.00",
     "hours": "1.00",
     "id": "150107",
-    "memo": "非本所在職專班請勿選，後5周上課，11/19始上課，上課時間為18:30-21:20。",
+    "memo": "非本所在職專班請勿選，後5周上課，11/27始上課，上課時間為18:30-21:20。",
     "name": "智慧醫療與產業應用 Smart Healthcare and its Applications in Industry",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -13228,7 +13228,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "150112",
-    "memo": "非本所在職專班請勿選，後11周上課，10/9開始上課，上課時間為13:10-16:00。",
+    "memo": "非本所在職專班請勿選，後11周上課，10/10放假，10/17開始上課，上課時間為13:10-16:00。",
     "name": "數位匯流與醫療資訊創新管理 Digital convergence and Medical Information Management",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -14046,7 +14046,7 @@
     "id": "161054",
     "memo": "",
     "name": "食品安全與生活 Food Safety and Life",
-    "num_limit": "76",
+    "num_limit": "77",
     "reg_num": "-999",
     "teacher": "黃鈺芳、陳鋕雄",
     "time": "R34-A401[GF],R34-YT305[YM]"
@@ -14301,7 +14301,7 @@
     "num_limit": "30",
     "reg_num": "-999",
     "teacher": "程曉杰",
-    "time": "W12-YT104[YM]"
+    "time": "W12-YT205[YM]"
   },
   "1151_162012": {
     "code": "GELW00005",
@@ -14349,7 +14349,7 @@
     "num_limit": "30",
     "reg_num": "-999",
     "teacher": "殷雅玲",
-    "time": "W12-YT205[YM]"
+    "time": "W12-YT104[YM]"
   },
   "1151_162017": {
     "code": "GELT20033",
@@ -14997,7 +14997,7 @@
     "num_limit": "24",
     "reg_num": "-999",
     "teacher": "蕭坤松",
-    "time": "M678-HK119[LJ]"
+    "time": "M678-HK114[LJ]"
   },
   "1151_310010": {
     "code": "HKHS20010",
@@ -15177,7 +15177,7 @@
     "num_limit": "25",
     "reg_num": "-999",
     "teacher": "黃淑鈴",
-    "time": "M567-HK114[LJ]"
+    "time": "M567-HK115[LJ]"
   },
   "1151_310105": {
     "code": "HKCT20007",
@@ -16422,7 +16422,7 @@
     "id": "430031",
     "memo": "",
     "name": "動物實驗3R的新趨勢與新技術 Emerging Trends and Technologies in the 3Rs of Animal Research",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "李明家",
     "time": "R5-BI301[BA]"
@@ -17493,7 +17493,7 @@
     "num_limit": "70",
     "reg_num": "-999",
     "teacher": "牟安文",
-    "time": "R34-HB210[GF]"
+    "time": "R34-HB110[GF]"
   },
   "1151_514110": {
     "code": "HSFL20029",
@@ -32792,7 +32792,7 @@
     "name": "國際經濟法與國家安全 The Re-conceptualization of National Security in International Economic Law",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "待聘",
+    "teacher": "Joel Slawotsky",
     "time": ""
   },
   "1151_557923": {
@@ -33606,7 +33606,7 @@
     "id": "561057",
     "memo": "",
     "name": "普通心理學 General Psychology",
-    "num_limit": "118",
+    "num_limit": "120",
     "reg_num": "-999",
     "teacher": "程千芳",
     "time": "R34-A103[GF]"
@@ -42477,7 +42477,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "林明憲",
-    "time": "W678-"
+    "time": "T9W67-"
   },
   "1151_910247": {
     "code": "SESE20031",
@@ -42789,7 +42789,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "蔡世樵",
-    "time": "M34R2-"
+    "time": "T8F23-"
   },
   "1151_910278": {
     "code": "SESE10262",
@@ -42813,7 +42813,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "侯昭平",
-    "time": "T678-"
+    "time": "T67F1-"
   },
   "1151_910280": {
     "code": "SESE20018",
@@ -43396,7 +43396,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910330",
-    "memo": "動力組，上課地點：國防大學理工學院",
+    "memo": "停開",
     "name": "可靠度工程 Reliability Engineering",
     "num_limit": "9999",
     "reg_num": "-999",
@@ -43576,7 +43576,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910348",
-    "memo": "動力組，上課地點：國防大學理工學院",
+    "memo": "停開",
     "name": "基礎水中聲學 Fundamentals of Underwater Acoustics",
     "num_limit": "9999",
     "reg_num": "-999",

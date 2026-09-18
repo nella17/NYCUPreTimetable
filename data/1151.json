@@ -6,7 +6,7 @@
     "id": "030001",
     "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，綜三 840。11510STAT701500",
     "name": "統計推論 Statistical Inference",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "黃禮珊",
     "time": "T3W34-"
@@ -18,7 +18,7 @@
     "id": "030002",
     "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，綜三 723。11510MATH545000",
     "name": "代數數論一 Algebraic Number Theory I",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "魏福村",
     "time": "F234-"
@@ -30,7 +30,7 @@
     "id": "030003",
     "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，綜三107。11510MATH552500",
     "name": "代數拓樸 Algebraic Topology",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "陳國璋",
     "time": "R678-"
@@ -42,7 +42,7 @@
     "id": "030004",
     "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，綜三603,231。11510MATH571000",
     "name": "微分幾何一 Differential Geometry I",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "何南國",
     "time": "T678W9-"
@@ -54,7 +54,7 @@
     "id": "030005",
     "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，綜三118。11510MATH688000",
     "name": "離散動力系統 Discrete Dynamic System",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "戴佳原",
     "time": "W234-"
@@ -66,7 +66,7 @@
     "id": "030006",
     "memo": "中央大學文學一館105室，星期一14:00-16:50。請參考下方連結檔案P5-P13，https://pdc.adm.ncu.edu.tw/Course/other/CCOP_1.pdf，建立中央的NetID(臨時學號)及個人基本資料。IS5001",
     "name": "亞際文化研究導論 Introduction to Inter Asia Cultural Studies",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "林建廷",
     "time": "M5678-"
@@ -78,7 +78,7 @@
     "id": "030007",
     "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，HSS人社B413。11510HIS 516000",
     "name": "美國與冷戰時期的東亞 The US and Cold War East Asia",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "陳冠任",
     "time": "T567-"
@@ -90,7 +90,7 @@
     "id": "030008",
     "memo": "選修學生《須至清大首頁校務資訊系統以guest登入註冊選課, 但免辦校際選課手續,不須印申請表》，HSS人社B413。11510HIS 612800",
     "name": "近代中國史專題 Seminar on Modern Chinese History",
-    "num_limit": "9999",
+    "num_limit": "0",
     "reg_num": "-999",
     "teacher": "陳令杰",
     "time": "Rn56-"
@@ -2744,7 +2744,7 @@
     "name": "專題研究(一) Independent Study I",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "醫工系、朱唯勤、江惠華、詹家泰、劉澤英、陳右穎、林峻立、江明彰、駱俊良、李泉、賴穎暉、劉承揚、劉大中、葛宗融、羅俊民、許如秀、張智銘、李卓穎",
+    "teacher": "醫工系、朱唯勤、江惠華、詹家泰、劉澤英、陳右穎、林峻立、江明彰、駱俊良、李泉、賴穎暉、劉承揚、劉大中、葛宗融、羅俊民、許如秀、劉凱鈞、張智銘、李卓穎",
     "time": "Wn-YEA200[YM]"
   },
   "1151_112109": {
@@ -2756,7 +2756,7 @@
     "name": "專題研究(三) Independent StudyⅢ",
     "num_limit": "9999",
     "reg_num": "-999",
-    "teacher": "醫工系、朱唯勤、江惠華、詹家泰、劉澤英、陳右穎、林峻立、江明彰、駱俊良、李泉、賴穎暉、劉承揚、劉大中、葛宗融、羅俊民、許如秀、張智銘、李卓穎",
+    "teacher": "醫工系、朱唯勤、江惠華、詹家泰、劉澤英、陳右穎、林峻立、江明彰、駱俊良、李泉、賴穎暉、劉承揚、劉大中、葛宗融、羅俊民、許如秀、劉凱鈞、張智銘、李卓穎",
     "time": "Fn-YEA200[YM]"
   },
   "1151_112110": {
@@ -4653,7 +4653,7 @@
     "num_limit": "50",
     "reg_num": "-999",
     "teacher": "任一安",
-    "time": "F12-YT206[YM]"
+    "time": "F12-YT305[YM]"
   },
   "1151_113803": {
     "code": "MDMD10083",
@@ -9846,7 +9846,7 @@
     "id": "132423",
     "memo": "",
     "name": "整合性臨床骨科 Integrated Course in Clinical Orthopedics",
-    "num_limit": "10",
+    "num_limit": "15",
     "reg_num": "-999",
     "teacher": "施世亮、張彧銓、黃昭偉",
     "time": "M9a-"
@@ -10629,7 +10629,7 @@
     "num_limit": "15",
     "reg_num": "-999",
     "teacher": "周坤賢、林慶波",
-    "time": "R567-YL823[YM]"
+    "time": "R567-YL837[YM]"
   },
   "1151_132800": {
     "code": "LSMI30028",
@@ -13902,7 +13902,7 @@
     "id": "161041",
     "memo": "115學年度入學生需含必修「基本素養-全球視野」2學分。為優先保障新生修課需求，此類別課程於初選第三階段暫不開放舊生選課。",
     "name": "美國印太戰略與臺灣未來的角色 U.S. Indo-Pacific Strategy and Taiwan’s Future Role",
-    "num_limit": "35",
+    "num_limit": "37",
     "reg_num": "-999",
     "teacher": "林若雩",
     "time": "T34-YT206[YM]"
@@ -14046,7 +14046,7 @@
     "id": "161054",
     "memo": "",
     "name": "食品安全與生活 Food Safety and Life",
-    "num_limit": "77",
+    "num_limit": "75",
     "reg_num": "-999",
     "teacher": "黃鈺芳、陳鋕雄",
     "time": "R34-A401[GF],R34-YT305[YM]"
@@ -19259,18 +19259,6 @@
     "teacher": "楊智喬",
     "time": "W9ab-ED101[GF]"
   },
-  "1151_515223": {
-    "code": "EEDM10016",
-    "credit": "2.00",
-    "hours": "4.00",
-    "id": "515223",
-    "memo": "本課程特別加開，給「非電機 / 非半導體」學系的學生選課，尤其是預計要「雙主修」半導體學系的各學系學生優先修習。本課程上課時間為「週五下午5679節次」，上課教室為工程四館ED320。",
-    "name": "電子實驗(一) Electronics Lab.Ⅰ",
-    "num_limit": "55",
-    "reg_num": "-999",
-    "teacher": "柯明道、陳建安",
-    "time": "F5679-"
-  },
   "1151_515400": {
     "code": "EEDP10010",
     "credit": "3.00",
@@ -19864,7 +19852,7 @@
     "credit": "2.00",
     "hours": "2.00",
     "id": "515608",
-    "memo": "1.本系學生須修畢「專題二」。2.外系學生可透過手動加簽，不受此限制。3.選修專題與必修專題之指導老師不需相同。\n修過「選修專題」者，重複選課不計入學分。※修課同學於於開學第一週內繳交「選修專題」指導老師申請表，本課程由指導教授評分。未繳交者將於第二週由系辦公室進行退選。",
+    "memo": "1.本系學生須修畢「專題二」。2.外系學生可透過手動加簽，不受此限制。3.選修專題與必修專題之指導老師不需相同。\n修過「選修專題」者，重複選課不計入學分。※修課同學於於開學第一週內繳交「選修專題」指導老師申請表(紙本)，本課程由指導教授評分。未繳交者將於第二週由系辦公室進行退選。",
     "name": "選修專題 Elective  Project",
     "num_limit": "30",
     "reg_num": "-999",
@@ -25041,7 +25029,7 @@
     "num_limit": "120",
     "reg_num": "-999",
     "teacher": "林聖迪",
-    "time": "T56-EDB26[GF]"
+    "time": "T56-ED116[GF]"
   },
   "1151_535201": {
     "code": "EEIE30058",
@@ -25144,12 +25132,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535209",
-    "memo": "(1)本課程不開放加簽。(2)上課教室：ED108。(3)授課老師：蔡孝恩醫師。",
+    "memo": "(1)本課程不開放加簽。(2)授課老師：蔡孝恩醫師。",
     "name": "醫學工程概論 Introduction of Medical Engineering",
     "num_limit": "38",
     "reg_num": "-999",
     "teacher": "鄭裕庭",
-    "time": "F678-"
+    "time": "F678-ED116[GF]"
   },
   "1151_535210": {
     "code": "EEIE30050",
@@ -25245,7 +25233,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "荊鳳德",
-    "time": "F567-EDB06[GF]"
+    "time": "F567-EDB01[GF]"
   },
   "1151_535218": {
     "code": "EEIE30071",
@@ -25485,7 +25473,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "胡樹",
-    "time": "F789-ED116[GF]"
+    "time": "F789-ED202[GF]"
   },
   "1151_535300": {
     "code": "EECN30046",
@@ -27068,7 +27056,7 @@
     "name": "量子科技工程專題演講及書報討論 Quantum Engineering Seminar",
     "num_limit": "30",
     "reg_num": "-999",
-    "teacher": "賴青沂",
+    "teacher": "李佳翰、李佩雯、賴青沂、游家牧、郭建男、李義明、渡邊浩志、黃嘉彥、謝易叡、陳姿伶、粘儆夫、吳致盛",
     "time": "T56-EDB07[GF]"
   },
   "1151_535822": {
@@ -27954,7 +27942,7 @@
     "id": "536223",
     "memo": "[English Medium Course]",
     "name": "有限元素法 Finite Element Methods",
-    "num_limit": "28",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "楊子儀",
     "time": "R234-EB402[GF]"
@@ -29536,7 +29524,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "537151",
-    "memo": "英文授課、非IMBA課程、限GMBA學生[English Medium Course]; ***Non GMBAer (Exchange students ONLY) please fill out the application form for professors' approval.：https://forms.gle/iVvpso8rYBcK6NH96",
+    "memo": "英文授課、非IMBA課程、限GMBA學生[English Medium Course];",
     "name": "領航科技產業的創新與管理 Pioneering Innovation and Management in the Tech Industry",
     "num_limit": "40",
     "reg_num": "-999",
@@ -33558,7 +33546,7 @@
     "id": "561053",
     "memo": "「造型與繪圖」不接受已修過「幾何造形」的同學選讀。",
     "name": "造型與繪圖 Patterning and Drawing",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "陳明璋",
     "time": "F12-CS-PC2[GF]"
@@ -33570,7 +33558,7 @@
     "id": "561054",
     "memo": "「造型與繪圖」不接受已修過「幾何造形」的同學選讀。",
     "name": "造型與繪圖 Patterning and Drawing",
-    "num_limit": "40",
+    "num_limit": "30",
     "reg_num": "-999",
     "teacher": "陳明璋",
     "time": "F34-CS-PC2[GF]"

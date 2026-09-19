@@ -4806,7 +4806,7 @@
     "id": "113906",
     "memo": "",
     "name": "細胞分子生物學 Molecular Cell Biology",
-    "num_limit": "47",
+    "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "傅淑玲、葉添順、李新城、王湘翠、林東毅、兵岳忻",
     "time": "W56-YK533[YM]"
@@ -22677,7 +22677,7 @@
     "num_limit": "100",
     "reg_num": "-999",
     "teacher": "陳建至",
-    "time": "F678-ED117[GF]"
+    "time": "F567-ED117[GF]"
   },
   "1151_520002": {
     "code": "XDEP10014",
@@ -30753,7 +30753,7 @@
     "num_limit": "9999",
     "reg_num": "-999",
     "teacher": "梁耕僑",
-    "time": "M678-A305[GF]"
+    "time": "M678-EC015[GF]"
   },
   "1151_539004": {
     "code": "IIPS30032",
@@ -35850,7 +35850,7 @@
     "id": "563032",
     "memo": "第一階段開放選課系級：\n百川2\n半導體2\n機械2\n土木2\n資工2\n電物2\n應數2\n生科2\n醫學系(醫師工程師組)2",
     "name": "體育－籃球甲 Basketball",
-    "num_limit": "40",
+    "num_limit": "41",
     "reg_num": "-999",
     "teacher": "陳忠強",
     "time": "T78-PE[GF]"
@@ -35886,7 +35886,7 @@
     "id": "563035",
     "memo": "第一階段開放選課系級：\n百川2\n半導體2\n機械2\n土木2\n資工2\n電物2\n應數2\n生科2\n醫學系(醫師工程師組)2",
     "name": "體育－棒球甲 Baseball",
-    "num_limit": "40",
+    "num_limit": "43",
     "reg_num": "-999",
     "teacher": "黃杉楹",
     "time": "T78-PE[GF]"
@@ -35898,7 +35898,7 @@
     "id": "563036",
     "memo": "1.上課地點：綜合球館2樓網球場。\n2.第一階段開放選課系級：\n百川2\n半導體2\n機械2\n土木2\n資工2\n電物2\n應數2\n生科2\n醫學系(醫師工程師組)2",
     "name": "體育－網球甲 Tennis",
-    "num_limit": "33",
+    "num_limit": "34",
     "reg_num": "-999",
     "teacher": "詹益欣",
     "time": "T78-PE[GF]"
@@ -35946,7 +35946,7 @@
     "id": "563040",
     "memo": "1.上課地點：田徑場。\n2.第一階段開放選課系級：\n百川2\n半導體2\n機械2\n土木2\n資工2\n電物2\n應數2\n生科2\n醫學系(醫師工程師組)2",
     "name": "健走與慢跑 Exercise walking and jogging",
-    "num_limit": "40",
+    "num_limit": "44",
     "reg_num": "-999",
     "teacher": "江竹偉",
     "time": "T78-PE[GF]"
@@ -36030,7 +36030,7 @@
     "id": "563047",
     "memo": "第一階段開放選課系級：\n百川3\n機械3\n土木3\n資工3\n電物3\n應數3\n生科3\n半導體3",
     "name": "桌球 Table Tennis",
-    "num_limit": "40",
+    "num_limit": "41",
     "reg_num": "-999",
     "teacher": "游鳳芸",
     "time": "T56-PE[GF]"
@@ -36102,7 +36102,7 @@
     "id": "563053",
     "memo": "第一階段開放選課系級：\n電機2\n光電2\n材料2\n應化2\n管科2\n運管2\n工工2\n資財2\n人社2\n傳科2\n外文2",
     "name": "體育－壘球甲 Softball",
-    "num_limit": "40",
+    "num_limit": "45",
     "reg_num": "-999",
     "teacher": "黃杉楹",
     "time": "F34-PE[GF]"
@@ -36138,7 +36138,7 @@
     "id": "563056",
     "memo": "1.第一週上課在交大校區田徑場集合。修習交大校區開設之高爾夫球課程同學，需自行前往上課地點、自備球桿及自付練習場費用。 (上課地點：高仕高爾夫竹科練習場-新竹市東區湖濱三路1號，電話：03-5678928)。\n2.第一階段開放選課系級：\n電機2\n光電2\n材料2\n應化2\n管科2\n運管2\n工工2\n資財2\n人社2\n傳科2\n外文2",
     "name": "體育－高爾夫球甲 Golf",
-    "num_limit": "30",
+    "num_limit": "31",
     "reg_num": "-999",
     "teacher": "陳忠強",
     "time": "F34-PE[GF]"
@@ -36198,7 +36198,7 @@
     "id": "563061",
     "memo": "第一階段開放選課系級：\n電機3\n材料3\n應化3\n光電3\n管科3\n運管3\n工工3\n資財3\n人社3\n傳科3\n外文3",
     "name": "體育－足球乙 Football",
-    "num_limit": "40",
+    "num_limit": "43",
     "reg_num": "-999",
     "teacher": "張生平",
     "time": "F12-PE[GF]"
@@ -36258,7 +36258,7 @@
     "id": "563066",
     "memo": "1.第一週上課在交大校區田徑場集合。修習交大校區開設之高爾夫球課程同學，需自行前往上課地點、自備球桿及自付練習場費用。 (上課地點：高仕高爾夫竹科練習場-新竹市東區湖濱三路1號，電話：03-5678928)。\n2.第一階段開放選課系級：\n電機3\n材料3\n應化3\n光電3\n管科3\n運管3\n工工3\n資財3\n人社3\n傳科3\n外文3",
     "name": "體育－高爾夫球乙 Golf",
-    "num_limit": "30",
+    "num_limit": "31",
     "reg_num": "-999",
     "teacher": "陳忠強",
     "time": "F12-PE[GF]"
@@ -36306,7 +36306,7 @@
     "id": "563070",
     "memo": "",
     "name": "體育－壘球甲 Softball",
-    "num_limit": "40",
+    "num_limit": "43",
     "reg_num": "-999",
     "teacher": "黃杉楹",
     "time": "R56-PE[GF]"
@@ -36366,7 +36366,7 @@
     "id": "563075",
     "memo": "",
     "name": "體育－壘球乙 Softball",
-    "num_limit": "40",
+    "num_limit": "41",
     "reg_num": "-999",
     "teacher": "黃杉楹",
     "time": "R78-PE[GF]"
@@ -36426,7 +36426,7 @@
     "id": "563080",
     "memo": "",
     "name": "體育－桌球甲 Table tennis",
-    "num_limit": "40",
+    "num_limit": "42",
     "reg_num": "-999",
     "teacher": "游鳳芸",
     "time": "R78-PE[GF]"
@@ -36498,7 +36498,7 @@
     "id": "563086",
     "memo": "上課地點：綜合球館2樓。",
     "name": "體育－女生網球 Female Tennis",
-    "num_limit": "32",
+    "num_limit": "33",
     "reg_num": "-999",
     "teacher": "伍啟萌",
     "time": "W56-PE[GF]"
@@ -36558,7 +36558,7 @@
     "id": "563091",
     "memo": "",
     "name": "體育－女生桌球乙 Female Table tennis",
-    "num_limit": "40",
+    "num_limit": "42",
     "reg_num": "-999",
     "teacher": "游鳳芸",
     "time": "R56-PE[GF]"
@@ -36630,7 +36630,7 @@
     "id": "563097",
     "memo": "上課地點：體育館B1體適能教室。",
     "name": "體育－健康體適能甲 Fitness ",
-    "num_limit": "40",
+    "num_limit": "41",
     "reg_num": "-999",
     "teacher": "林怡君",
     "time": "W34-PE[GF]"
@@ -36678,7 +36678,7 @@
     "id": "563101",
     "memo": "上課地點：體育館B1韻律教室。",
     "name": "體育－國術甲 Chinese Martial Arts",
-    "num_limit": "40",
+    "num_limit": "41",
     "reg_num": "-999",
     "teacher": "徐采彤",
     "time": "F56-PE[GF]"

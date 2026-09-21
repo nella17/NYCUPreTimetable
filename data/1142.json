@@ -1663,7 +1663,7 @@
     "memo": "",
     "name": "專題研究實習(一) Research Clerkship(1)",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "6",
     "teacher": "醫學系",
     "time": ""
   },
@@ -2563,7 +2563,7 @@
     "memo": "",
     "name": "專題研究實習(二) Research Clerkship(2)",
     "num_limit": "9999",
-    "reg_num": "8",
+    "reg_num": "6",
     "teacher": "醫學系",
     "time": ""
   },
@@ -2575,7 +2575,7 @@
     "memo": "",
     "name": "專題研究實習(三) Research Clerkship(3)",
     "num_limit": "9999",
-    "reg_num": "6",
+    "reg_num": "4",
     "teacher": "醫學系",
     "time": ""
   },

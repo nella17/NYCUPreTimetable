@@ -19303,7 +19303,7 @@
     "memo": "",
     "name": "化學(一) Chemistry (I)",
     "num_limit": "9999",
-    "reg_num": "47",
+    "reg_num": "45",
     "teacher": "陳方中",
     "time": "T56F2-CY202[GF]"
   },
@@ -19315,7 +19315,7 @@
     "memo": "",
     "name": "計算機概論 Introduction to Computer and Computer Science",
     "num_limit": "9999",
-    "reg_num": "50",
+    "reg_num": "48",
     "teacher": "孫家偉",
     "time": "M56R2-CY203[GF]"
   },
@@ -19327,7 +19327,7 @@
     "memo": "生涯規劃/導師時間",
     "name": "光電生涯與生活及導師時間 Career Planning and Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "46",
+    "reg_num": "44",
     "teacher": "陳俐吟",
     "time": "W89-EO115[GF]"
   },
@@ -22699,7 +22699,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "微積分 Calculus",
     "num_limit": "100",
-    "reg_num": "98",
+    "reg_num": "97",
     "teacher": "許譽馨",
     "time": "W234-SA320[GF]"
   },
@@ -22711,7 +22711,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "電子學(一) Electronics (1)",
     "num_limit": "100",
-    "reg_num": "118",
+    "reg_num": "117",
     "teacher": "陳建至",
     "time": "F567-ED117[GF]"
   },
@@ -22735,7 +22735,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "計算機概論 Introduction to Computer Science",
     "num_limit": "100",
-    "reg_num": "111",
+    "reg_num": "110",
     "teacher": "林志偉",
     "time": "F34n-SA311[GF]"
   },
@@ -22747,7 +22747,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。上課教室:SA012",
     "name": "電子學實驗(一) Electronic Laboratory (1)",
     "num_limit": "50",
-    "reg_num": "51",
+    "reg_num": "50",
     "teacher": "許譽馨",
     "time": "Rabc-"
   },
@@ -22795,7 +22795,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "光學實驗 Optics Lab.",
     "num_limit": "100",
-    "reg_num": "66",
+    "reg_num": "65",
     "teacher": "蘇冠暐",
     "time": "Wabc-SC106[GF]"
   },
@@ -22831,7 +22831,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "邏輯設計與FPGA Logic Design and Field Programmable Gate Array",
     "num_limit": "70",
-    "reg_num": "69",
+    "reg_num": "68",
     "teacher": "林尚亭",
     "time": "Rn56-SC109[GF]"
   },
@@ -22843,7 +22843,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "半導體製程 Semiconductor Processing",
     "num_limit": "70",
-    "reg_num": "62",
+    "reg_num": "61",
     "teacher": "杜岳錡",
     "time": "M234-SC110[GF]"
   },
@@ -22867,7 +22867,7 @@
     "memo": "[新竹校區] 學士後電子與光子學士學位學程學生優先，其他系所學生於開學後開放以「網路選課加退選處理表」紙本申請加選。",
     "name": "微處理機原理與應用 Principles and Applications of Microprocessors",
     "num_limit": "70",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "陳慶永",
     "time": "W567-SA312[GF]"
   },
@@ -25099,7 +25099,7 @@
     "memo": "僅開放電子所學生選課（預備研究生洽承辦人加選）",
     "name": "專題研究 Graduate Research",
     "num_limit": "9999",
-    "reg_num": "500",
+    "reg_num": "499",
     "teacher": "電子所",
     "time": ""
   },
@@ -25291,7 +25291,7 @@
     "memo": "[English Medium Course]",
     "name": "半導體物理及元件(一) Semiconductor Physics and Devices (I)",
     "num_limit": "70",
-    "reg_num": "125",
+    "reg_num": "124",
     "teacher": "吳添立",
     "time": "M234-ED220[GF]"
   },
@@ -25315,7 +25315,7 @@
     "memo": "(1)初選第一階段、初選第二階段：開放80人。(2)初選第三階段、開學後加退選階段：開放160人。(3)因應人數控管，一律線上選課，不手動加簽。",
     "name": "深度學習 Deep Learning",
     "num_limit": "160",
-    "reg_num": "133",
+    "reg_num": "132",
     "teacher": "張添烜",
     "time": "M789-ED220[GF]"
   },
@@ -25363,7 +25363,7 @@
     "memo": "",
     "name": "數位通訊 Digital Communication",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "桑梓賢",
     "time": "T34-,W7-ED103[GF]"
   },
@@ -25375,7 +25375,7 @@
     "memo": "",
     "name": "隨機過程 Stochastic Processes",
     "num_limit": "9999",
-    "reg_num": "37",
+    "reg_num": "36",
     "teacher": "王聖智",
     "time": "M5W56-ED101[GF]"
   },
@@ -25423,7 +25423,7 @@
     "memo": "",
     "name": "實體設計自動化 Physical Design Automation",
     "num_limit": "60",
-    "reg_num": "87",
+    "reg_num": "86",
     "teacher": "陳宏明",
     "time": "F234-ED116[GF]"
   },
@@ -26047,7 +26047,7 @@
     "memo": "1.光電系碩、博必選 2.由指導教授約定討論時間及地點",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "219",
+    "reg_num": "217",
     "teacher": "光電系",
     "time": ""
   },
@@ -26575,7 +26575,7 @@
     "memo": "資訊學院優先。",
     "name": "RISC-V人工智慧運算架構與系統 (ㄧ) RISCV AI Computing Architecture and System I",
     "num_limit": "45",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "陳添福、林偉棻",
     "time": "M56-EC329[GF]"
   },
@@ -29575,7 +29575,7 @@
     "memo": "英文授課、非IMBA課程、限36人、限碩班以上選修。學分班與GMBA碩班合開。[English Medium Course]",
     "name": "行銷管理 Marketing Management",
     "num_limit": "36",
-    "reg_num": "38",
+    "reg_num": "39",
     "teacher": "林士平",
     "time": "M567-MB110[GF]"
   },
@@ -35383,7 +35383,7 @@
     "memo": "第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課",
     "name": "泰文(一) Thai I",
     "num_limit": "35",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "白桂英",
     "time": "R78-A215[GF]"
   },
@@ -35515,7 +35515,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "江竹偉",
     "time": "F78-PE[GF]"
   },
@@ -35851,7 +35851,7 @@
     "memo": "第一週上課集合地點為體育館籃球場。",
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
-    "reg_num": "40",
+    "reg_num": "38",
     "teacher": "詹富鈞",
     "time": "F56-PE[GF]"
   },
@@ -37759,7 +37759,7 @@
     "memo": "含近代物理",
     "name": "物理(一)榮譽班 Physics(I)",
     "num_limit": "85",
-    "reg_num": "84",
+    "reg_num": "82",
     "teacher": "張文豪",
     "time": "T78F34-SA321[GF]"
   },
@@ -37927,7 +37927,7 @@
     "memo": "光電系",
     "name": "物理實驗(一) Physics Lab. (I)",
     "num_limit": "56",
-    "reg_num": "48",
+    "reg_num": "46",
     "teacher": "杜建明",
     "time": "M234-SA014[GF]"
   },

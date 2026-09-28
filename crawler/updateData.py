@@ -75,10 +75,10 @@ for t in data_type:
     res = request_with_retry("POST", baseURL+"?r=main/get_category",data = reqData,headers={'user-agent': 'Mozilla/5.0'})
     if res is None:
         print("Request type %s data error!!"%t)
-        continue
+        exit(-1)
     if res.status_code != 200:
         print("Request type %s data error!!"%t)
-        continue
+        exit(-1)
     #print(res.text)
     for c in json.loads(res.text):
         if len(c) <= 0:
@@ -100,10 +100,10 @@ for tc in data_type_category:
     res = request_with_retry("POST", baseURL+"?r=main/get_college",data = reqData,headers={'user-agent': 'Mozilla/5.0'})
     if res is None:
         print("Request type %s category %s data error!!"%(tc[0],tc[1]))
-        continue
+        exit(-1)
     if res.status_code != 200:
         print("Request type %s category %s data error!!"%(tc[0],tc[1]))
-        continue
+        exit(-1)
     #print(res.text)
     data_type_category_college.append((tc[0],tc[1],"*"))
     for c in json.loads(res.text):
@@ -129,10 +129,10 @@ for tc in data_type_category_college:
     res = request_with_retry("POST", baseURL+"?r=main/get_dep",data = reqData,headers={'user-agent': 'Mozilla/5.0'})
     if res is None:
         print("Request type %s category %s dep %s data error!!"%(tc[0],tc[1],tc[2]))
-        continue
+        exit(-1)
     if res.status_code != 200:
         print("Request type %s category %s dep %s data error!!"%(tc[0],tc[1],tc[2]))
-        continue
+        exit(-1)
     #print(res.text)
     get_dep_res = json.loads(res.text)
     for c in get_dep_res:
@@ -172,9 +172,10 @@ for dep in data_dep:
     res = request_with_retry("POST", baseURL+"?r=main/get_cos_list",data = reqData,headers={'user-agent': 'Mozilla/5.0'})
     if res is None:
         print("Request course data error!! (dep: %s)"%dep)
-        continue
+        exit(-1)
     if res.status_code != 200:
         print("Request course data error!! (dep: %s)"%dep)
+        exit(-1)
     OriginData = json.loads(res.text)
     #print(OriginData)
 

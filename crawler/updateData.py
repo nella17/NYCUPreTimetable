@@ -2,6 +2,7 @@ import json
 import re
 import requests
 import sys
+import time
 from os import getenv
 
 import urllib3
@@ -9,12 +10,27 @@ urllib3.disable_warnings()
 
 baseURL = "https://timetable.nycu.edu.tw/"
 Verbose = False
+REQUEST_TIMEOUT = 30
+REQUEST_RETRY = 3
+REQUEST_BACKOFF = 2
 if sys.argv[-1] == 'Y':
     Verbose = True
     sys.argv.pop()
 
-res = requests.get(baseURL+"?r=main/get_acysem", headers={'user-agent': 'Mozilla/5.0'}, verify=False)
-if res.status_code != 200:
+def request_with_retry(method: str, url: str, **kwargs):
+    for retry in range(REQUEST_RETRY):
+        try:
+            return requests.request(method, url, timeout=REQUEST_TIMEOUT, verify=False, **kwargs)
+        except requests.exceptions.RequestException as err:
+            if retry == REQUEST_RETRY - 1:
+                print(f"Request {url} failed after {REQUEST_RETRY} attempts: {err}")
+                return None
+            time.sleep(REQUEST_BACKOFF * (retry + 1))
+    return None
+
+
+res = request_with_retry("GET", baseURL+"?r=main/get_acysem", headers={'user-agent': 'Mozilla/5.0'})
+if res is None or res.status_code != 200:
     print("Request acysem data error!!")
     exit(-1)
 data = [x['T'] for x in res.json()]
@@ -41,8 +57,8 @@ reqData = {
     "acysem":str(Year)+str(Semester),
     "acysemend":str(Year)+str(Semester)
 }
-res = requests.post(baseURL+"?r=main/get_type",data = reqData,headers={'user-agent': 'Mozilla/5.0'},verify=False)
-if res.status_code != 200:
+res = request_with_retry("POST", baseURL+"?r=main/get_type",data = reqData,headers={'user-agent': 'Mozilla/5.0'})
+if res is None or res.status_code != 200:
     print("Request type data error!!")
     exit(-1)
 data_type = [r["uid"] for r in json.loads(res.text)]
@@ -56,10 +72,13 @@ reqData = {
 }
 for t in data_type:
     reqData["ftype"] = t
-    res = requests.post(baseURL+"?r=main/get_category",data = reqData,headers={'user-agent': 'Mozilla/5.0'},verify=False)
+    res = request_with_retry("POST", baseURL+"?r=main/get_category",data = reqData,headers={'user-agent': 'Mozilla/5.0'})
+    if res is None:
+        print("Request type %s data error!!"%t)
+        exit(-1)
     if res.status_code != 200:
         print("Request type %s data error!!"%t)
-        continue
+        exit(-1)
     #print(res.text)
     for c in json.loads(res.text):
         if len(c) <= 0:
@@ -78,10 +97,13 @@ for tc in data_type_category:
     #print(tc)
     reqData["ftype"] = tc[0]
     reqData["fcategory"] = tc[1]
-    res = requests.post(baseURL+"?r=main/get_college",data = reqData,headers={'user-agent': 'Mozilla/5.0'},verify=False)
+    res = request_with_retry("POST", baseURL+"?r=main/get_college",data = reqData,headers={'user-agent': 'Mozilla/5.0'})
+    if res is None:
+        print("Request type %s category %s data error!!"%(tc[0],tc[1]))
+        exit(-1)
     if res.status_code != 200:
         print("Request type %s category %s data error!!"%(tc[0],tc[1]))
-        continue
+        exit(-1)
     #print(res.text)
     data_type_category_college.append((tc[0],tc[1],"*"))
     for c in json.loads(res.text):
@@ -104,10 +126,13 @@ for tc in data_type_category_college:
     reqData["ftype"] = tc[0]
     reqData["fcategory"] = tc[1]
     reqData["fcollege"] = tc[2]
-    res = requests.post(baseURL+"?r=main/get_dep",data = reqData,headers={'user-agent': 'Mozilla/5.0'},verify=False)
+    res = request_with_retry("POST", baseURL+"?r=main/get_dep",data = reqData,headers={'user-agent': 'Mozilla/5.0'})
+    if res is None:
+        print("Request type %s category %s dep %s data error!!"%(tc[0],tc[1],tc[2]))
+        exit(-1)
     if res.status_code != 200:
         print("Request type %s category %s dep %s data error!!"%(tc[0],tc[1],tc[2]))
-        continue
+        exit(-1)
     #print(res.text)
     get_dep_res = json.loads(res.text)
     for c in get_dep_res:
@@ -144,9 +169,13 @@ for dep in data_dep:
     if Verbose:
         print("[Info] Getting course data in department %s (%s)"%(data_dep_name[dep],dep))
     reqData["m_dep_uid"] = dep
-    res = requests.post(baseURL+"?r=main/get_cos_list",data = reqData,headers={'user-agent': 'Mozilla/5.0'},verify=False)
+    res = request_with_retry("POST", baseURL+"?r=main/get_cos_list",data = reqData,headers={'user-agent': 'Mozilla/5.0'})
+    if res is None:
+        print("Request course data error!! (dep: %s)"%dep)
+        exit(-1)
     if res.status_code != 200:
         print("Request course data error!! (dep: %s)"%dep)
+        exit(-1)
     OriginData = json.loads(res.text)
     #print(OriginData)
 

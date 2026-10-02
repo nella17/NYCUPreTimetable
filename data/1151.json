@@ -392,7 +392,7 @@
     "name": "醫師工程師專題研究(一) Physician Engineer Research Project (I)",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "楊懷哲",
+    "teacher": "楊懷哲、甘致群、洪哲倫、李博仁、邱一、李佳燕、黃薇蓁",
     "time": "Myz-"
   },
   "1151_110025": {
@@ -416,7 +416,7 @@
     "name": "醫師工程師專題研究(三) Physician Engineer Research Project (Ⅲ)",
     "num_limit": "9999",
     "reg_num": "4",
-    "teacher": "楊懷哲",
+    "teacher": "楊懷哲、甘致群、楊智傑",
     "time": "Myz-"
   },
   "1151_110027": {
@@ -680,7 +680,7 @@
     "name": "醫師科學家專題研究(二) Physician-Scientist Program -Research Elective (2)",
     "num_limit": "9999",
     "reg_num": "7",
-    "teacher": "兵岳忻、李怡萱、蔡金吾、楊智宇、李政家、楊慕華",
+    "teacher": "兵岳忻、蔡金吾、王琬菁、楊智傑、張立鴻、蘇佳沂",
     "time": "Sa-"
   },
   "1151_110053": {
@@ -704,7 +704,7 @@
     "name": "醫師科學家專題研究(三) Physician-Scientist Program -Research Elective (3)",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "兵岳忻、邱士華、蔡金吾、楊智宇、蘇佳沂",
+    "teacher": "兵岳忻、楊懷壹",
     "time": "Sa-"
   },
   "1151_110055": {
@@ -716,7 +716,7 @@
     "name": "醫師科學家專題研究(四) Physician-Scientist Program -Research Elective (4)",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "兵岳忻、陳麗芬、陳威儀",
+    "teacher": "兵岳忻、蔡金吾、藍凡耘、周伯鑫、楊慕華",
     "time": "Sa-"
   },
   "1151_110056": {
@@ -728,7 +728,7 @@
     "name": "醫師科學家專題研究(一) Physician-Scientist Program -Research Elective (1)",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "兵岳忻、鄭凱元、張立鴻、姜為中、高正彥",
+    "teacher": "兵岳忻、林慶波、陳威儀、彭莉甯、楊智傑、梁立霖、魏群樹、楊慕華",
     "time": "Sa-"
   },
   "1151_110057": {
@@ -740,7 +740,7 @@
     "name": "醫師科學家專題研究(六) Physician-Scientist Program -Research Elective (6)",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "兵岳忻、陳榮治",
+    "teacher": "兵岳忻、陳麗芬、陳榮治",
     "time": "Sa-"
   },
   "1151_110058": {
@@ -752,7 +752,7 @@
     "name": "醫師科學家研究概論(上) Physician-Scientist Program-Career Planning (1)",
     "num_limit": "120",
     "reg_num": "29",
-    "teacher": "兵岳忻、陳政育、甘致群、連正章、王署君、王琬菁、林東毅、黃自強、郭曉縈、蘇佳沂、袁維謙、李怡慧、季康揚",
+    "teacher": "兵岳忻、陳政育、甘致群、吳育德、王署君、王琬菁、林東毅、黃自強、郭曉縈、蘇佳沂、林雅婷、袁維謙、李怡慧、季康揚",
     "time": "T8-YM225[YM]"
   },
   "1151_110059": {
@@ -764,7 +764,7 @@
     "name": "醫師科學家暑期專題研究(一) Physician-Scientist Program-Summer Research (1)",
     "num_limit": "9999",
     "reg_num": "2",
-    "teacher": "兵岳忻、吳俊穎",
+    "teacher": "兵岳忻、李政家",
     "time": "Sb-"
   },
   "1151_110060": {
@@ -1088,7 +1088,7 @@
     "name": "醫師科學家專題研究(五) Physician-Scientist Program -Research Elective (5)",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "兵岳忻",
+    "teacher": "兵岳忻、邱士華、蔡金吾、楊智宇、高正彥、王蕾琪",
     "time": "Sa-"
   },
   "1151_110087": {
@@ -1508,7 +1508,7 @@
     "name": "臨床診斷學 Clinical and Laboratory Diagnosis",
     "num_limit": "50",
     "reg_num": "43",
-    "teacher": "黃怡翔、劉永揚、廖顯宗、郭錦松、楊宗杰、王維庭、洪莉婷、游偉光、黃怡銘、陳天華、郭哲源、凌郁翔",
+    "teacher": "黃怡翔、劉永揚、廖顯宗、郭錦松、楊宗杰、王維庭、洪莉婷、游偉光、黃怡銘、陳天華、郭哲源、凌郁翔、林祐華",
     "time": "T5-YD105[YM]"
   },
   "1151_111533": {
@@ -1520,7 +1520,7 @@
     "name": "臨床診斷學實習 Practical Training of Clinical and Laboratory Diagnosis",
     "num_limit": "50",
     "reg_num": "43",
-    "teacher": "黃怡翔、劉永揚、廖顯宗、林芳綺、郭錦松、楊宗杰、王維庭、吳啟榮、凌郁翔",
+    "teacher": "黃怡翔、劉永揚、廖顯宗、林芳綺、郭錦松、楊宗杰、王維庭、吳啟榮、凌郁翔、林祐華",
     "time": "T678-YD105[YM]"
   },
   "1151_111534": {
@@ -2936,7 +2936,7 @@
     "name": "臨床見習(一) Clinical Clerkship in Physical Therapy(Ⅰ)",
     "num_limit": "45",
     "reg_num": "42",
-    "teacher": "黃崇舜、王子娟、王瑞瑤、施怡芬、林吟亮、陳博因、黃郁潔、黃美淑、魏敏如、陳元劭、蔡佳容、林佩伶、秦雅玲、方婉羽、張簡書勝、葉姵君、陳孟清、呂怡慧、喻大忠、蔡明倫、黃建儒、李肇中、李怡安、宋敦仁、黃琬葶、高宜暄、莊雅雯、周玟玲、張伸睿、黃亭瑜、厲真、胡曼文、蔡瑋祺、張杏妃、蘇信昌、李建志、許穎昌、巫俊杉、王禎、王祚萱、顏如欣、翁昀秀、林易鈴、陳琬婷、王佩茹、楊政浩、楊子瑩、宋宏謙、游佩芯、羅唯熏、劉士賢、廖于萱、林佳穎、楊奇恩、施宇信、謝元綸、吳昕芫、林明臻、曾信瑋、吳奕霆、李君碩",
+    "teacher": "黃崇舜、王子娟、王瑞瑤、施怡芬、林吟亮、陳博因、黃郁潔、黃美淑、魏敏如、陳元劭、蔡佳容、林佩伶、秦雅玲、方婉羽、張簡書勝、葉姵君、陳孟清、蔣志豪、呂怡慧、喻大忠、蔡明倫、黃建儒、李肇中、李怡安、宋敦仁、黃琬葶、高宜暄、莊雅雯、周玟玲、張伸睿、黃亭瑜、厲真、胡曼文、蔡瑋祺、張杏妃、蘇信昌、李建志、許穎昌、巫俊杉、王禎、王祚萱、顏如欣、翁昀秀、林易鈴、陳琬婷、王佩茹、楊政浩、楊子瑩、宋宏謙、游佩芯、羅唯熏、鄭安軒、劉士賢、林劭璇、廖于萱、林佳穎、楊奇恩、施宇信、蔡詠涵、吳雨璇、謝元綸、吳昕芫、林明臻、曾信瑋、吳奕霆、李欣曄、林暄涵、蘇微雅、李君碩",
     "time": "T12-YB624[YM]"
   },
   "1151_112209": {
@@ -2985,7 +2985,7 @@
     "num_limit": "45",
     "reg_num": "40",
     "teacher": "羅鴻基、鍾玉梅、巫俊杉、李哲緯",
-    "time": "T2-YB602[YM]"
+    "time": "T2-YX503[YM]"
   },
   "1151_112213": {
     "code": "BEPT10016",
@@ -3261,7 +3261,7 @@
     "num_limit": "45",
     "reg_num": "39",
     "teacher": "蘇宇平、吳博貴、馬筱笠、蔣恩榮、周伯鑫、黃意超、王建順、陳昆暉、姚又誠、鄭銘輝、奉季光、林育寬、林峻正、許逵翔、王柏涵、江昭慶、陳正豐",
-    "time": "T1-YB602[YM]"
+    "time": "T1-YX503[YM]"
   },
   "1151_112237": {
     "code": "BEPT20060",
@@ -3368,7 +3368,7 @@
     "name": "物理治療職涯規劃 Physical Therapy Career Planning",
     "num_limit": "50",
     "reg_num": "53",
-    "teacher": "王子娟、陳振昇、潘俐伶、陳子敬、邵芙昕、阮彥鈞",
+    "teacher": "王子娟、楊雅如、陳振昇、潘俐伶、陳子敬、邵芙昕、阮彥鈞",
     "time": "W2-YB601[YM]"
   },
   "1151_112248": {
@@ -3380,7 +3380,7 @@
     "name": "臨床見習(三) Clinical Clerkship in Physical Therapy (Ⅲ)",
     "num_limit": "45",
     "reg_num": "40",
-    "teacher": "黃崇舜、王子娟、王瑞瑤、施怡芬、陳喬男、羅鴻基、林吟亮、黃郁潔、張正琪、楊雅如、陳子敬、林珊如、徐瑞隆、蔣志豪、邵芙昕、黃琬葶、高宜暄、張杏妃、曾俊智、巫俊杉、彭思瑋、張立萱、程冠傑、楊子瑩、鄭安軒、張睿宸、張修寧、黃祺堯、劉士賢、曾俊然、蔡孟瑜、陳思洳、王婷、陳奕豪、陳佑霖、掌耀萱、黃裕倫、賀立年、林瑋軒、吳雨璇、黃得恩、游喻喬、楊承霖、林道隆、邊禹心、黃佳琦",
+    "teacher": "黃崇舜、王子娟、王瑞瑤、施怡芬、陳喬男、羅鴻基、林吟亮、黃郁潔、張正琪、楊雅如、陳子敬、林珊如、徐瑞隆、蔣志豪、邵芙昕、黃琬葶、高宜暄、張杏妃、曾俊智、羅士倫、巫俊杉、彭思瑋、張立萱、程冠傑、楊子瑩、鄭安軒、張睿宸、張修寧、黃祺堯、劉士賢、曾俊然、蔡孟瑜、陳思洳、王婷、陳奕豪、陳佑霖、林劭璇、掌耀萱、黃裕倫、賀立年、林瑋軒、吳雨璇、黃得恩、游喻喬、楊承霖、林道隆、邊禹心、黃佳琦",
     "time": "R78-YB624[YM]"
   },
   "1151_112249": {
@@ -3512,7 +3512,7 @@
     "name": "物理治療臨床實習(六) Physical Therapy Practicum (VI)",
     "num_limit": "9999",
     "reg_num": "1",
-    "teacher": "羅鴻基、王子娟",
+    "teacher": "羅鴻基、王子娟、陳博因",
     "time": "S56-"
   },
   "1151_112300": {
@@ -5251,7 +5251,7 @@
     "memo": "此課程為跨教室遠距課程(教師實體授課、學生實體上課)",
     "name": "微積分 Calculus",
     "num_limit": "9999",
-    "reg_num": "123",
+    "reg_num": "122",
     "teacher": "宋文旭",
     "time": "F78-CS100[GF],F78-YX216[YM]"
   },
@@ -6272,7 +6272,7 @@
     "name": "醫務管理實習 Internship in Hospital Management",
     "num_limit": "9999",
     "reg_num": "12",
-    "teacher": "黃心苑、周穎政、林寬佳、李威儒、陳翎、潘美連、陳慧芬、葉圜叡、尹彙文、姚彥宏、殷偉賢、張鴻猷、陳韵宜",
+    "teacher": "黃心苑、周穎政、林寬佳、李威儒、陳翎、潘美連、陳慧芬、葉圜叡、尹彙文、姚彥宏、連加恩、殷偉賢、張鴻猷、陳韵宜",
     "time": "Mab-YN511[YM]"
   },
   "1151_130510": {
@@ -8504,7 +8504,7 @@
     "name": "專題討論 Seminar",
     "num_limit": "254",
     "reg_num": "12",
-    "teacher": "林宥欣、林滿玉、胡德民、陳日榮、陳惠亭、蘇溶真、廖曉偉、康照洲",
+    "teacher": "林宥欣、林滿玉、胡德民、陳日榮、陳惠亭、蘇溶真、廖曉偉、康照洲、張耀文",
     "time": "F34-YR105[YM]"
   },
   "1151_132019": {
@@ -8672,7 +8672,7 @@
     "name": "現代核醫藥品調劑：從法規、精準技術到診療合一 Modern Radiopharmaceutical Preparation and Dispensing: From Regulatory Frameworks and Precision Technologies to Theranostics",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "姜紹青、張文議、李哲皓、黃玉儀",
+    "teacher": "姜紹青、張文議、李哲皓、黃玉儀、洪綾蔓",
     "time": "W34-YR102[YM]"
   },
   "1151_132034": {
@@ -9434,7 +9434,7 @@
   "1151_132409": {
     "code": "BEPT30116",
     "credit": "2.00",
-    "hours": "32.00",
+    "hours": "2.00",
     "id": "132409",
     "memo": "",
     "name": "精準健康多元跨領域實務 Precision health practical courses",
@@ -9530,7 +9530,7 @@
   "1151_132418": {
     "code": "BEPT30112",
     "credit": "1.00",
-    "hours": "16.00",
+    "hours": "1.00",
     "id": "132418",
     "memo": "1. 修課對象限已完成「肌肉骨骼系統物理治療」臨床實習至少六週（240小時）之本系大學部六年級學生，或碩、博士班研究生。\n2. 考量本課程包含大量超音波掃描之實作訓練。為確保學生能獲得充分之操作練習與教師指導，修課人數以20人為上限，以維持良好之實作教學品質與學習成效。",
     "name": "骨骼肌肉超音波評估與影像學 Musculoskeletal Ultrasound Imaging and Assessment",
@@ -9614,7 +9614,7 @@
   "1151_132426": {
     "code": "BEPT30115",
     "credit": "2.00",
-    "hours": "32.00",
+    "hours": "2.00",
     "id": "132426",
     "memo": "",
     "name": "高齡科技與創新服務 Aging Tech and Innovative Services",
@@ -11060,7 +11060,7 @@
     "name": "性別、科學與技術 Gender, Science and Technology",
     "num_limit": "9999",
     "reg_num": "8",
-    "teacher": "嚴曉珮、彭松嶽、傅大為、林宜平",
+    "teacher": "嚴曉珮、彭松嶽、王秀雲、傅大為、林宜平",
     "time": "R678-YX503[YM]"
   },
   "1151_133300": {
@@ -11252,7 +11252,7 @@
     "name": "健康產業創新與創業 HealthTech Innovation and Entrepreneurship",
     "num_limit": "9999",
     "reg_num": "9",
-    "teacher": "吳佳東",
+    "teacher": "吳佳東、張丞淯",
     "time": "F78-YN108[YM]"
   },
   "1151_133511": {
@@ -21739,7 +21739,7 @@
     "memo": "",
     "name": "人文與科學經典閱讀(一) Reading Classics of Humanities and Sciences (I)",
     "num_limit": "40",
-    "reg_num": "43",
+    "reg_num": "44",
     "teacher": "程源中",
     "time": "F56-A213[GF]"
   },
@@ -22448,7 +22448,7 @@
     "name": "獨立研究 Independent Study",
     "num_limit": "9999",
     "reg_num": "32",
-    "teacher": "孫之元、陳鏗任、段正仁、周倩、佘曉清、林珊如、劉奕蘭、楊子奇、羅孟婷、陳聖昌、林米庭、陳奕凱、李亭萱、陳雅君",
+    "teacher": "陳聖昌、孫之元、陳鏗任、段正仁、周倩、佘曉清、林珊如、劉奕蘭、楊子奇、羅孟婷、林米庭、陳奕凱、李亭萱、陳雅君",
     "time": ""
   },
   "1151_534004": {
@@ -25459,7 +25459,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "461",
+    "reg_num": "460",
     "teacher": "資科工所",
     "time": ""
   },
@@ -27895,7 +27895,7 @@
     "memo": "",
     "name": "高分子物理 Polymer Physics",
     "num_limit": "60",
-    "reg_num": "65",
+    "reg_num": "66",
     "teacher": "陳俊太",
     "time": "W678-SB211[GF]"
   },
@@ -29636,7 +29636,7 @@
     "name": "人工智慧與法律 Artificial Intelligence and Law",
     "num_limit": "60",
     "reg_num": "50",
-    "teacher": "陳鋕雄、李界昇、施明遠、孫介然",
+    "teacher": "陳鋕雄、施明遠、孫介然",
     "time": "M34-A402[GF]"
   },
   "1151_537902": {
@@ -31748,7 +31748,7 @@
     "name": "專題討論(三) Seminar on Special Topics [Ⅲ]",
     "num_limit": "9999",
     "reg_num": "84",
-    "teacher": "李界昇、陳鋕雄、賈文宇、施明遠",
+    "teacher": "陳鋕雄、賈文宇、施明遠",
     "time": "Sn5-A403[GF]"
   },
   "1151_557918": {
@@ -32587,7 +32587,7 @@
     "memo": "「造型與繪圖」不接受已修過「幾何造形」的同學選讀。",
     "name": "造型與繪圖 Patterning and Drawing",
     "num_limit": "30",
-    "reg_num": "37",
+    "reg_num": "38",
     "teacher": "陳明璋",
     "time": "F34-CS-PC2[GF]"
   },
@@ -36139,7 +36139,7 @@
     "memo": "上課地點為活動中心3樓韻律教室。",
     "name": "動力伸展與紓壓 Power Extension and Relax",
     "num_limit": "30",
-    "reg_num": "31",
+    "reg_num": "32",
     "teacher": "藍于青",
     "time": "M78-PhE[YM]"
   },
@@ -36379,7 +36379,7 @@
     "memo": "上課地點：陽明校區活動中心3樓韻律教室。",
     "name": "太極拳 Tai Chi",
     "num_limit": "30",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "張耀庭",
     "time": "F56-PhE[YM]"
   },
@@ -36391,7 +36391,7 @@
     "memo": "上課地點：陽明校區活動中心3樓韻律教室。\n",
     "name": "太極拳 Tai Chi",
     "num_limit": "30",
-    "reg_num": "31",
+    "reg_num": "34",
     "teacher": "張耀庭",
     "time": "F78-PhE[YM]"
   },
@@ -38359,7 +38359,7 @@
     "memo": "",
     "name": "光電有機材料 Organic Materials for Optoelectronic Application",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "10",
     "teacher": "楊勝雄",
     "time": "T678-CM215[GR]"
   },
@@ -38552,7 +38552,7 @@
     "name": "專題研討 Seminar",
     "num_limit": "9999",
     "reg_num": "50",
-    "teacher": "許巍嚴、黃仁竑、連紹宇、謝君偉、郭志義、許志仲、陳建志、魏澤人、林勻蔚、馬清文、彭其瀚",
+    "teacher": "許巍嚴、黃仁竑、連紹宇、謝君偉、郭志義、許志仲、黃鼎翔、陳建志、魏澤人、林勻蔚、馬清文、桂浤、彭其瀚",
     "time": "F567-CM218[GR]"
   },
   "1151_639010": {
@@ -38696,7 +38696,7 @@
     "name": "專題研討 Seminar",
     "num_limit": "9999",
     "reg_num": "14",
-    "teacher": "許巍嚴、黃仁竑、連紹宇、謝君偉、郭志義、許志仲、陳建志、魏澤人、林勻蔚、馬清文、彭其瀚",
+    "teacher": "許巍嚴、黃仁竑、連紹宇、謝君偉、郭志義、許志仲、黃鼎翔、陳建志、魏澤人、林勻蔚、馬清文、桂浤、彭其瀚",
     "time": "F567-CM218[GR]"
   },
   "1151_639405": {
@@ -38756,7 +38756,7 @@
     "name": "專題研討 Seminar",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "許巍嚴、黃仁竑、連紹宇、謝君偉、郭志義、許志仲、陳建志、魏澤人、林勻蔚、馬清文、彭其瀚",
+    "teacher": "許巍嚴、黃仁竑、連紹宇、謝君偉、郭志義、許志仲、黃鼎翔、陳建志、魏澤人、林勻蔚、馬清文、桂浤、彭其瀚",
     "time": "F567-CM218[GR]"
   },
   "1151_648301": {
@@ -42760,7 +42760,7 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "910374",
-    "memo": "資工組，上課地點：國防大學理工學院",
+    "memo": "資工組，此課程由曾建超老師授課3週，上課地點：本校光復校區。其餘(13~15)週由張凱威老師授課，上課地點：國防大學理工學院。",
     "name": "網路技術與實務(2) Network Technology and Practice(2)",
     "num_limit": "9999",
     "reg_num": "12",

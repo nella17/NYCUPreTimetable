@@ -1855,7 +1855,7 @@
     "memo": "",
     "name": "護理研究概論 Introduction to Nursing Research",
     "num_limit": "45",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "周承珍、黃子庭、黃升苗、陳俞琪、蔡慈儀、陳律言、楊曼華、林承霈、廖咨詠、黃永辰、張議文",
     "time": "F34-YN418[YM]"
   },
@@ -2852,7 +2852,7 @@
     "name": "輔助科技導論 Introduction to Assistive Technology ",
     "num_limit": "50",
     "reg_num": "56",
-    "teacher": "陳博因",
+    "teacher": "陳博因、李淑貞",
     "time": "T4-YX216[YM]"
   },
   "1151_112202": {
@@ -3212,7 +3212,7 @@
     "name": "影像診斷學 Radiology and Diagnostic Imaging",
     "num_limit": "45",
     "reg_num": "39",
-    "teacher": "林重榮、邱宏仁、陳俊谷、吳宏達、邱乃祈、李潤川、吳慶蘭、張建法",
+    "teacher": "林重榮、邱宏仁、陳俊谷、吳宏達、邱乃祈、李潤川、吳慶蘭、劉鼎浩、楊宗翰、楊怡強、張建法",
     "time": "W56-YB602[YM]"
   },
   "1151_112233": {
@@ -4279,7 +4279,7 @@
     "memo": "不開放隨班附讀、不開放校際選修",
     "name": "生理學 Physiology",
     "num_limit": "72",
-    "reg_num": "63",
+    "reg_num": "62",
     "teacher": "陳政育、吳鈺琳、阮琪昌、李怡萱、林惠菁、張原翊、簡千栩、吳莉玲、唐德成",
     "time": "F234-YT202[YM]"
   },
@@ -8876,7 +8876,7 @@
     "name": "生技醫學講座 Biotechnology and Biomedical Seminar",
     "num_limit": "9999",
     "reg_num": "18",
-    "teacher": "張懿欣、劉承揚、劉大中、陳浩夫、龔思豪、陳奕帆、許如秀、洪翌凱",
+    "teacher": "張懿欣、劉承揚、劉大中、陳浩夫、龔思豪、陳奕帆、許如秀、洪翌凱、凌 斌",
     "time": "Tn-YB101[YM]"
   },
   "1151_132201": {
@@ -12813,7 +12813,7 @@
     "num_limit": "9999",
     "reg_num": "4",
     "teacher": "李亭亭、侯宜菁",
-    "time": "T567-YN302[YM]"
+    "time": "T567-YN318[YM]"
   },
   "1151_150208": {
     "code": "NSDN30073",
@@ -26020,12 +26020,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "535761",
-    "memo": "[English Medium Course]",
+    "memo": "[English Medium Course]上課教室:ES510",
     "name": "資安與人工智慧研究 Research on Cybersecurity and AI",
     "num_limit": "20",
     "reg_num": "11",
     "teacher": "林盈達",
-    "time": "F34n-ED301[GF]"
+    "time": "F34n-"
   },
   "1151_535780": {
     "code": "CSIC30172",
@@ -34496,7 +34496,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "40",
-    "teacher": "體育室C",
+    "teacher": "洪沛綺",
     "time": "M34-PE[GF]"
   },
   "1151_563003": {
@@ -34700,7 +34700,7 @@
     "name": "大一體育 Physical Education",
     "num_limit": "9999",
     "reg_num": "53",
-    "teacher": "體育室C",
+    "teacher": "洪沛綺",
     "time": "M12-PE[GF]"
   },
   "1151_563020": {
@@ -34880,7 +34880,7 @@
     "name": "足球 Soccer",
     "num_limit": "40",
     "reg_num": "40",
-    "teacher": "體育室C",
+    "teacher": "林育葦",
     "time": "T78-PE[GF]"
   },
   "1151_563035": {
@@ -35072,7 +35072,7 @@
     "name": "足球 Soccer",
     "num_limit": "41",
     "reg_num": "41",
-    "teacher": "體育室C",
+    "teacher": "林育葦",
     "time": "T56-PE[GF]"
   },
   "1151_563051": {

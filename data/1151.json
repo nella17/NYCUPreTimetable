@@ -8157,7 +8157,7 @@
     "num_limit": "9999",
     "reg_num": "8",
     "teacher": "劉影梅",
-    "time": "T9a-YN418[YM]"
+    "time": "T9a-YN603[YM]"
   },
   "1151_131806": {
     "code": "NSCH30061",
@@ -25459,7 +25459,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "453",
+    "reg_num": "452",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25975,7 +25975,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "141",
+    "reg_num": "140",
     "teacher": "數據所",
     "time": ""
   },
@@ -32371,7 +32371,7 @@
     "memo": "",
     "name": "身體與藝術 Body and Art",
     "num_limit": "50",
-    "reg_num": "54",
+    "reg_num": "55",
     "teacher": "武嘉文",
     "time": "T78-A203[GF]"
   },

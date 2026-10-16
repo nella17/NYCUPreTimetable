@@ -872,7 +872,7 @@
     "name": "導師時間 Class Meeting",
     "num_limit": "9999",
     "reg_num": "150",
-    "teacher": "楊智傑、黃金洲、楊懷哲、宋思賢、紀乃方、梁立霖、梁仁峯、林祐霆、郭曉縈、吳莉玲、陳明德、黃文彬、王維庭、陳威志",
+    "teacher": "楊智傑、黃金洲、宋思賢、紀乃方、梁立霖、梁仁峯、林祐霆、郭曉縈、吳莉玲、陳明德、黃文彬、王維庭、陳威志",
     "time": ""
   },
   "1151_110069": {
@@ -26011,7 +26011,7 @@
     "memo": "資安所必修；每學期需選修「個別研究課程」。",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "資安所",
     "time": ""
   },
@@ -28315,7 +28315,7 @@
     "memo": "英文授課 [English Medium Course]\n",
     "name": "固態物理(一) Solid State Physics (I)",
     "num_limit": "9999",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "曾奕",
     "time": "F234-SC157[GF]"
   },
@@ -31879,7 +31879,7 @@
     "memo": "限交大校區EMBA及陽明校區生醫EMBA學生修課。",
     "name": "贏利模式研討 Business Model in Excellence",
     "num_limit": "9999",
-    "reg_num": "80",
+    "reg_num": "79",
     "teacher": "林春成、黃仕斌、林瑞嘉、陳宗岡、黃寬丞、鍾惠民、張家齊、戴天時、姚銘忠、李河泉",
     "time": "S123456-M-b10[GF]"
   },
@@ -31915,7 +31915,7 @@
     "memo": "限交大校區EMBA學生修課。",
     "name": "高階主管會計 Accounting for Executives",
     "num_limit": "9999",
-    "reg_num": "62",
+    "reg_num": "61",
     "teacher": "蕭子誼、林瑞嘉、陳宗岡",
     "time": "U123456-M116[GF]"
   },
@@ -31927,7 +31927,7 @@
     "memo": "限交大校區EMBA學生修課。",
     "name": "習慣領域與創新決策 Habitual Domains and Innovative Decision Making",
     "num_limit": "9999",
-    "reg_num": "19",
+    "reg_num": "18",
     "teacher": "黃鴻順",
     "time": "U789ab-M116[GF]"
   },

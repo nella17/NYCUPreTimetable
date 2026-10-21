@@ -908,7 +908,7 @@
     "name": "生理學實驗 Physiology Lab.",
     "num_limit": "200",
     "reg_num": "187",
-    "teacher": "林惠菁、甘致群、阮琪昌、李怡萱、巫俊杉",
+    "teacher": "林惠菁、阮琪昌、李怡萱",
     "time": "T5678R5678-YED214[YM]"
   },
   "1151_110072": {
@@ -1123,7 +1123,7 @@
     "memo": "",
     "name": "有機化學概論 Introduction of Organic Chemistry",
     "num_limit": "9999",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "陳皇銘",
     "time": "T56-EDB06[GF]"
   },
@@ -4292,7 +4292,7 @@
     "name": "生理學實驗 Physiology Laboratory",
     "num_limit": "126",
     "reg_num": "60",
-    "teacher": "阮琪昌、李怡萱、林惠菁、張原翊、簡千栩、林雅婷、吳莉玲、唐德成、巫俊杉",
+    "teacher": "阮琪昌、甘致群、李怡萱、林惠菁、張原翊、簡千栩、林雅婷、吳莉玲、唐德成、巫俊杉",
     "time": "W5678-YED214[YM]"
   },
   "1151_113100": {
@@ -5059,7 +5059,7 @@
     "memo": "*牙醫一、物輔一、藥學一合班上課，他系同學選修須經授課教師同意。\n*遠距&實體上課：【陽明校區】傳甲208演講廳、【交大校區】綜合一館B102。",
     "name": "普通生物學(上) General Biology I",
     "num_limit": "130",
-    "reg_num": "117",
+    "reg_num": "116",
     "teacher": "陳俊銘、羅清維、李曉暉、袁維謙、陳妤、吳如蕙",
     "time": "F34-AB102[GF],F34-YK208[YM]"
   },
@@ -5107,7 +5107,7 @@
     "memo": "牙醫、藥學",
     "name": "化學原理 General Chemistry",
     "num_limit": "9999",
-    "reg_num": "71",
+    "reg_num": "70",
     "teacher": "黃介嶸、姜為中、許邦弘",
     "time": "F56-CS100[GF],F56-YX406[YM]"
   },
@@ -5324,7 +5324,7 @@
     "name": "實驗生理學 Experimental Physiology",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "簡千栩、阮琪昌、李怡萱、林惠菁、張原翊、林雅婷、吳莉玲、唐德成",
+    "teacher": "簡千栩、阮琪昌、李怡萱、林惠菁、張原翊、林雅婷、吳莉玲、唐德成、巫俊杉",
     "time": "M5678-YED214[YM]"
   },
   "1151_130004": {
@@ -11180,7 +11180,7 @@
     "name": "長期照護政策 Long Term Care Policy",
     "num_limit": "9999",
     "reg_num": "16",
-    "teacher": "陳怡如、陳喬男、李韶芬、蔡芳文、陳怡亨、許志成、林麗嬋、李玉春、吳肖琪、徐業良、祝健芳",
+    "teacher": "陳怡如、陳喬男、李韶芬、邱泰源、蔡芳文、陳怡亨、許志成、林麗嬋、李玉春、吳肖琪、徐業良、吳建遠、王玲玲",
     "time": "T56-YN118[YM]"
   },
   "1151_133505": {
@@ -22231,7 +22231,7 @@
     "memo": "[新竹校區]及 [高雄校區] -二校區實體遠距同步上課",
     "name": "資料結構與演算法 Data Structures and Algorithms",
     "num_limit": "140",
-    "reg_num": "24",
+    "reg_num": "22",
     "teacher": "林志偉",
     "time": "T789-KB202[KS],T789-SC110[GF]"
   },
@@ -23000,7 +23000,7 @@
     "name": "網路與新媒體行銷 Internet and New Media Marketing",
     "num_limit": "9999",
     "reg_num": "6",
-    "teacher": "待聘",
+    "teacher": "林佩欣",
     "time": "R567-HB216[GF]"
   },
   "1151_534310": {
@@ -23576,7 +23576,7 @@
     "name": "人文地理學空間專題 Seminar in Spatial Topics in Human Geography",
     "num_limit": "9999",
     "reg_num": "13",
-    "teacher": "待聘",
+    "teacher": "陳品竹",
     "time": "T56-HA105[GF]"
   },
   "1151_534717": {
@@ -24008,7 +24008,7 @@
     "name": "演奏主修：小提琴 Advanced Instruction in Violin",
     "num_limit": "9999",
     "reg_num": "3",
-    "teacher": "待聘",
+    "teacher": "莊秉育",
     "time": "Ra-HC603[GF]"
   },
   "1151_534829": {
@@ -24092,7 +24092,7 @@
     "name": "室內樂 Chamber Music",
     "num_limit": "9999",
     "reg_num": "21",
-    "teacher": "李俊穎、辛幸純、待聘、李奉書、林慶俊、陳彥豪、孫建如、潘世洵、許佳穎、陳昱翰",
+    "teacher": "李俊穎、辛幸純、李奉書、林慶俊、陳彥豪、孫建如、潘世洵、許佳穎、陳昱翰、莊秉育",
     "time": "F1-HC615[GF]"
   },
   "1151_534839": {
@@ -24907,7 +24907,7 @@
     "memo": "",
     "name": "學位論文研究 Academic Dissertation Research ",
     "num_limit": "9999",
-    "reg_num": "263",
+    "reg_num": "262",
     "teacher": "電信所",
     "time": ""
   },
@@ -38239,7 +38239,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，碩、博二(含)以上每學期必選課程",
     "name": "個別研討 Independent Study",
     "num_limit": "9999",
-    "reg_num": "16",
+    "reg_num": "15",
     "teacher": "光電學院",
     "time": "WzRzFz-"
   },
@@ -38263,7 +38263,7 @@
     "memo": "光電學院111學年度起入學學生，碩士必修4學期、博士必修6學期課程",
     "name": "論文研討 Seminar",
     "num_limit": "9999",
-    "reg_num": "208",
+    "reg_num": "212",
     "teacher": "光電學院",
     "time": "W1R1F1-"
   },
@@ -38791,7 +38791,7 @@
     "memo": "光電學院110學年度(含)以前入學學生，專二(含)以上每學期必選課程",
     "name": "個別研討-專班 Independent Study-Degree Program",
     "num_limit": "9999",
-    "reg_num": "11",
+    "reg_num": "5",
     "teacher": "光電專班",
     "time": "WzRzFz-"
   },

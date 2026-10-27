@@ -6032,7 +6032,7 @@
     "name": "大體解剖學實驗 Gross Anatomy Laboratory",
     "num_limit": "9999",
     "reg_num": "218",
-    "teacher": "傅毓秀、鄭瓊娟、侯珮珊、李學德、王先逸、蔡佩君、郭曉縈、蔣偉程、林坤陽、彭淑婷、劉皓云、蔡國樞",
+    "teacher": "傅毓秀、鄭瓊娟、侯珮珊、李學德、王先逸、蔡佩君、郭曉縈、蔣偉程、彭淑婷、劉皓云、蔡國樞",
     "time": "T567W567R123-YEC109[YM]"
   },
   "1151_130402": {
@@ -6044,7 +6044,7 @@
     "name": "大體解剖學 Gross Anatomy",
     "num_limit": "220",
     "reg_num": "205",
-    "teacher": "傅毓秀、鄭瓊娟、侯珮珊、李學德、王先逸、蔡佩君、郭曉縈、蔣偉程、林坤陽、彭淑婷、劉皓云、蔡國樞",
+    "teacher": "傅毓秀、鄭瓊娟、侯珮珊、李學德、王先逸、蔡佩君、郭曉縈、蔣偉程、彭淑婷、劉皓云、蔡國樞",
     "time": "M1234-YT001[YM]"
   },
   "1151_130403": {
@@ -13795,7 +13795,7 @@
     "memo": "[English Medium Course]此課原課號GELW00020， 原課名「進階英語聽講練習」，有修過此課同學若再修習，學分將不採計。全英語授課，為維持教學品質，限制修課人數。如有選課問題請洽語言學習與寫作中心(llwc@nycu.edu.tw）。本課程初選第三階段8/31-9/3僅開放大一學生選修。 如為滿額課程，請同學於9月11日 上午 9:00前送加簽單至語寫中心，語寫中心於9月11日上午10:00辦理加簽抽籤，同學可於中午12點後查詢課表，課表上如有加選課程代表抽中該課程。完成抽籤後不再辦理人工加選，但同學仍可於系統上加退選。",
     "name": "進階英文聽力與討論 Advanced English Listening and Discussion",
     "num_limit": "30",
-    "reg_num": "26",
+    "reg_num": "27",
     "teacher": "吳哲硯",
     "time": "R12-YT205[YM]"
   },
@@ -15223,7 +15223,7 @@
     "memo": "生技系優先，生技系學生如需加選請9/9前提供學號至qaz32194@nycu.edu.tw。\n本學期修課人數過多，外系生請勿寄信給授課老師要求加簽。",
     "name": "服務學習(二) Service Learning II",
     "num_limit": "70",
-    "reg_num": "69",
+    "reg_num": "68",
     "teacher": "陳文亮、謝仁俊、林奇宏、吳妍華",
     "time": "M9Fn-SC152[GF]"
   },
@@ -17683,7 +17683,7 @@
     "memo": "",
     "name": "生涯規劃與導師時間 Career Planning and Mentor's Hours",
     "num_limit": "9999",
-    "reg_num": "254",
+    "reg_num": "253",
     "teacher": "方凱田",
     "time": "W78-ED116[GF]"
   },
@@ -18091,7 +18091,7 @@
     "memo": "上課時段週一34節在工程五館EE623、Lab: 週五89節實驗在工程五館EE611；其餘實驗時段請與授課教師聯絡。",
     "name": "電力電子實驗 Power Electronics Labs.",
     "num_limit": "55",
-    "reg_num": "63",
+    "reg_num": "62",
     "teacher": "陳鴻祺",
     "time": "M34F89-EE623[GF]"
   },
@@ -18235,7 +18235,7 @@
     "memo": "",
     "name": "量子元件技術與計算 Technology and Computing of Quantum Devices",
     "num_limit": "70",
-    "reg_num": "4",
+    "reg_num": "3",
     "teacher": "謝易叡",
     "time": "R234-ED202[GF]"
   },
@@ -24787,7 +24787,7 @@
     "memo": "",
     "name": "線性系統理論 Linear System Theory",
     "num_limit": "40",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "蕭得聖",
     "time": "R567-EE112[GF]"
   },
@@ -24847,7 +24847,7 @@
     "memo": "",
     "name": "最佳化理論 Optimization Theory",
     "num_limit": "40",
-    "reg_num": "26",
+    "reg_num": "25",
     "teacher": "林顯易",
     "time": "F234-EE113[GF]"
   },
@@ -25183,7 +25183,7 @@
     "memo": "",
     "name": "計算機網路 Computer Communication Networks",
     "num_limit": "44",
-    "reg_num": "37",
+    "reg_num": "35",
     "teacher": "黃紹華",
     "time": "R567-ED713[GF]"
   },
@@ -25459,7 +25459,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "451",
+    "reg_num": "450",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25975,7 +25975,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "140",
+    "reg_num": "139",
     "teacher": "數據所",
     "time": ""
   },
@@ -33607,7 +33607,7 @@
     "memo": "保留大一優先選課，此課程於開學加退選階段開放大二以上同學選修。",
     "name": "營養學英文 English for Nutrition and Dietetics",
     "num_limit": "25",
-    "reg_num": "22",
+    "reg_num": "21",
     "teacher": "郭詩芝",
     "time": "F12-A504[GF]"
   },

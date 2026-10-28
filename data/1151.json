@@ -2126,7 +2126,7 @@
   "1151_111919": {
     "code": "PSPM20013",
     "credit": ".30",
-    "hours": "4.00",
+    "hours": ".60",
     "id": "111919",
     "memo": "上課日期另行通知，請留意E3公告",
     "name": "藥物化學實驗(一) Medicinal Chemistry Laboratory (I)",
@@ -2210,7 +2210,7 @@
   "1151_111926": {
     "code": "PSPM20017",
     "credit": ".50",
-    "hours": "4.00",
+    "hours": "1.00",
     "id": "111926",
     "memo": "上課時間另行通知，請留意E3公告",
     "name": "藥劑學實驗(二) Pharmaceutics Laboratory (II)",
@@ -2246,7 +2246,7 @@
   "1151_111929": {
     "code": "PSPM10061",
     "credit": ".50",
-    "hours": "4.00",
+    "hours": "1.00",
     "id": "111929",
     "memo": "大學部實驗課程，上課時間另行通知，請留意E3公告",
     "name": "生藥學實驗(一) Pharmacognosy Laboratory(I)",
@@ -9332,7 +9332,7 @@
     "name": "研究方法學 Research Methodology",
     "num_limit": "40",
     "reg_num": "27",
-    "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、楊雅如、林明薇、陳喬男、潘俐伶、李雪楨、游忠煌、范佩貞、羅鴻基、黃崇舜、施惠婷、陳博因、黃郁潔、蔡立棠",
+    "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、楊雅如、陳喬男、潘俐伶、游忠煌、羅鴻基、黃崇舜、施惠婷、陳博因、黃郁潔、蔡立棠",
     "time": "W234-YB102[YM]"
   },
   "1151_132401": {
@@ -25459,7 +25459,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "450",
+    "reg_num": "449",
     "teacher": "資科工所",
     "time": ""
   },
@@ -31219,7 +31219,7 @@
     "memo": "限本專班學生。",
     "name": "碩士論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "工工專班",
     "time": ""
   },

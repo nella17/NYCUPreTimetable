@@ -24321,7 +24321,7 @@
     "num_limit": "70",
     "reg_num": "88",
     "teacher": "李佩雯",
-    "time": "F234-ED103[GF]"
+    "time": "F234-EC114[GF]"
   },
   "1151_535211": {
     "code": "EEIE30043",
@@ -24525,7 +24525,7 @@
     "num_limit": "120",
     "reg_num": "94",
     "teacher": "陳巍仁",
-    "time": "M34-,R7-ED116[GF]"
+    "time": "M34-EC022[GF],R7-ED116[GF]"
   },
   "1151_535228": {
     "code": "EEIE30101",
@@ -25447,7 +25447,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "448",
+    "reg_num": "447",
     "teacher": "資科工所",
     "time": ""
   },
@@ -30259,7 +30259,7 @@
     "memo": "資科工所博士班 博士生資格考通過後必修",
     "name": "博士學位論文研究 Ph.D.Thesis Study",
     "num_limit": "0",
-    "reg_num": "106",
+    "reg_num": "105",
     "teacher": "資科工博",
     "time": ""
   },
@@ -31471,7 +31471,7 @@
     "memo": "",
     "name": "量化研究方法 Quantitative Research Methodology",
     "num_limit": "9999",
-    "reg_num": "9",
+    "reg_num": "8",
     "teacher": "李昕潔",
     "time": "Mabc-A701[GF]"
   },
@@ -31483,7 +31483,7 @@
     "memo": "",
     "name": "人工智慧與高科技之商業運用 Artificial Intelligence and Its Application to High-Tech Business",
     "num_limit": "9999",
-    "reg_num": "20",
+    "reg_num": "19",
     "teacher": "李昕潔",
     "time": "Fabc-A701[GF]"
   },

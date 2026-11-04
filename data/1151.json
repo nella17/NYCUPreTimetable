@@ -19015,7 +19015,7 @@
     "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課；請依各組入學年度之「必修科目表」選課；學士班七大主題學程",
     "name": "正規語言概論 Introduction to Formal Language",
     "num_limit": "85",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "楊武",
     "time": "M3F56-EC115[GF]"
   },
@@ -19087,7 +19087,7 @@
     "memo": "資工系學生優先選課；主開3年級；本系生優先權順序：3年級，4年級，2年級，1年級",
     "name": "資訊工程研討 Computer Science Seminars",
     "num_limit": "170",
-    "reg_num": "179",
+    "reg_num": "178",
     "teacher": "王昱舜",
     "time": "M56-EDB27[GF]"
   },
@@ -19099,7 +19099,7 @@
     "memo": "[English Medium Course]資工系學生優先選課；須修過資訊工程專題(一)才可修資訊工程專題(二)；Pass the “Computer Science and Engineering Projects (I)” before taking “Computer Science and Engineering Projects (II)”；主開4年級；「於學期末的第17/18彈性教學週，原則上會安排在W78的時間舉行專題報告或競賽」。選課注意事項請參閱系網頁。",
     "name": "資訊工程專題(二) Computer Science and Engineering Projects (II)",
     "num_limit": "175",
-    "reg_num": "40",
+    "reg_num": "39",
     "teacher": "黃春融",
     "time": ""
   },
@@ -19147,7 +19147,7 @@
     "memo": "主開：二年級，外系生請於開學後選課階段網路選課；資工系學生優先選課；學士班七大主題學程；本系生優先權順序：2年級，4年級，3年級，1年級",
     "name": "資料庫系統概論 Introduction to Database Systems  ",
     "num_limit": "120",
-    "reg_num": "163",
+    "reg_num": "162",
     "teacher": "黃俊龍",
     "time": "M7R34-EDB27[GF]"
   },
@@ -20083,7 +20083,7 @@
     "memo": "1.第一~第三階段限材料系加選\n2.開學後才開放外系或外校加選",
     "name": "材料動力學概論 Rate Processes in Materials",
     "num_limit": "60",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "吳耀銓",
     "time": "R678-EF207[GF]"
   },
@@ -23839,7 +23839,7 @@
     "memo": "",
     "name": "音樂作品研究 Study of Musical Works",
     "num_limit": "15",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "羅芳偉",
     "time": "M5-HC514[GF]"
   },
@@ -23923,7 +23923,7 @@
     "memo": "限本所學生。",
     "name": "創作主修：當代音樂與多媒體創作 創作主修：當代音樂與多媒體創作",
     "num_limit": "9999",
-    "reg_num": "5",
+    "reg_num": "4",
     "teacher": "董昭民",
     "time": "R1-HC602[GF]"
   },
@@ -24427,7 +24427,7 @@
     "memo": "[English Medium Course]",
     "name": "半導體物理及元件(一) Semiconductor Physics and Devices (I)",
     "num_limit": "70",
-    "reg_num": "126",
+    "reg_num": "125",
     "teacher": "吳添立",
     "time": "M234-ED220[GF]"
   },
@@ -25963,7 +25963,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "139",
+    "reg_num": "138",
     "teacher": "數據所",
     "time": ""
   },
@@ -30619,7 +30619,7 @@
     "memo": "",
     "name": "論文研究 Thesis Research",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "國防資安專班",
     "time": ""
   },
@@ -30907,7 +30907,7 @@
     "memo": "",
     "name": "電漿與薄膜製程技術 Plasma and Thin Film Technology ",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "16",
     "teacher": "陳軍華、張立",
     "time": "Rabc-EF207[GF]"
   },
@@ -31663,7 +31663,7 @@
     "memo": "限科法所碩、專、博、跨域學程、科法所各學分學程選修",
     "name": "民事訴訟法(一) Civil Procedure (I)",
     "num_limit": "70",
-    "reg_num": "33",
+    "reg_num": "32",
     "teacher": "孫介然、徐應松",
     "time": "Rabc-A402[GF]"
   },
@@ -31699,7 +31699,7 @@
     "memo": "開放台聯大大三以上同學選修;混合遠距課程",
     "name": "刑事訴訟法(一) Criminal Procedure(Ⅰ)",
     "num_limit": "40",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "金孟華",
     "time": "S234-A401[GF]"
   },
@@ -31735,7 +31735,7 @@
     "memo": "限科法所碩、專、博同學選修",
     "name": "專題討論(三) Seminar on Special Topics [Ⅲ]",
     "num_limit": "9999",
-    "reg_num": "84",
+    "reg_num": "83",
     "teacher": "倪貴榮、陳鋕雄、賈文宇、施明遠",
     "time": "Sn5-A403[GF]"
   },
@@ -33475,7 +33475,7 @@
     "memo": "[English Medium Course]",
     "name": "科技英文 Technical English",
     "num_limit": "25",
-    "reg_num": "27",
+    "reg_num": "26",
     "teacher": "李麥德",
     "time": "T56-A505[GF]"
   },
@@ -33739,7 +33739,7 @@
     "memo": "第二外語課程為其所屬國籍或僑居地之官方語言或主要使用語言之學生不得選課",
     "name": "日文(一) Japanese(I)",
     "num_limit": "35",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "黃國維",
     "time": "W34-A103[GF]"
   },

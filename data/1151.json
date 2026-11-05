@@ -16387,7 +16387,7 @@
     "memo": "本課程人數上限為60人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "設計概論 Introduction to Design",
     "num_limit": "60",
-    "reg_num": "60",
+    "reg_num": "59",
     "teacher": "謝明勳",
     "time": "F34-HC103[GF]"
   },
@@ -16627,7 +16627,7 @@
     "memo": "本課程人數上限為30人，依初選階段逐階調整，跨域學程學生優先。\n授課教師：周小淨老師",
     "name": "創意文案與故事腳本 Creactive Copywriting and Story Scripting",
     "num_limit": "30",
-    "reg_num": "28",
+    "reg_num": "27",
     "teacher": "周小淨",
     "time": "T56-HA107[GF]"
   },
@@ -16639,7 +16639,7 @@
     "memo": "本課程人數上限為40人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "娛樂敘事概論 Introduction to Entertainment Narratives",
     "num_limit": "40",
-    "reg_num": "47",
+    "reg_num": "46",
     "teacher": "陳延昇",
     "time": "R56-HC103[GF]"
   },
@@ -16724,7 +16724,7 @@
     "name": "傳達技巧工作坊(一)：聽講訓練B組 Communicative Skills Workshop (1): Listening and Oral Training B",
     "num_limit": "18",
     "reg_num": "19",
-    "teacher": "待聘",
+    "teacher": "外文系",
     "time": "T567-HC401[GF]"
   },
   "1151_514102": {
@@ -17048,7 +17048,7 @@
     "name": "排演基礎(一) Basic Elements of Performance (1)",
     "num_limit": "20",
     "reg_num": "12",
-    "teacher": "待聘",
+    "teacher": "外文系",
     "time": "T78-HB203[GF]"
   },
   "1151_514130": {
@@ -26419,7 +26419,7 @@
     "memo": "[English Medium Course]英文授課、遠距教學",
     "name": "電子與光電材料 Electronic and Optoelectronic",
     "num_limit": "10",
-    "reg_num": "17",
+    "reg_num": "16",
     "teacher": "唐奈歐",
     "time": "F234-"
   },
@@ -26431,7 +26431,7 @@
     "memo": "[English Medium Course]英文授課、遠距教學",
     "name": "電子材料概論 Electronic Properties of Materials",
     "num_limit": "10",
-    "reg_num": "21",
+    "reg_num": "20",
     "teacher": "葉勝玄",
     "time": "F567-"
   },
@@ -37963,7 +37963,7 @@
     "memo": "1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫網路選課加退選處理表，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。",
     "name": "教育心理學 Educational Psychology",
     "num_limit": "9999",
-    "reg_num": "29",
+    "reg_num": "28",
     "teacher": "陳奕凱、林米庭",
     "time": "M78-HA219[GF]"
   },
@@ -37975,7 +37975,7 @@
     "memo": "",
     "name": "教育概論 Introduction to Education",
     "num_limit": "9999",
-    "reg_num": "24",
+    "reg_num": "23",
     "teacher": "姚清煇",
     "time": "R56-HA219[GF]"
   },

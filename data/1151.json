@@ -1735,7 +1735,7 @@
     "memo": "此為大四生導師課，實際導生課時間請依導師公告。",
     "name": "導師時間 Class Meeting",
     "num_limit": "50",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "蔡慈儀、陳俞琪、廖媛美、劉佩青",
     "time": "Rcd-YN416[YM]"
   },
@@ -1747,7 +1747,7 @@
     "memo": "實際上課時間請留意開課教師之公告或課程大綱。",
     "name": "社區衛生護理學 Community Health Nursing",
     "num_limit": "50",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "林承霈、黃子庭、陳怡如、簡莉盈、周承珍、劉佩青、黃永辰、張丞淯、沈青青、張芬娥、周明慧、唐鳳屏",
     "time": "M1234T1234W1234-YN418[YM]"
   },
@@ -1759,7 +1759,7 @@
     "memo": "實際實習地點請依教師安排。",
     "name": "社區衛生護理學實習 Community Health Nursing Practice",
     "num_limit": "50",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "林承霈、周承珍、廖咨詠、黃永辰、林麗華、吳佳珊、張芬娥、周明慧、劉慧芬、唐鳳屏",
     "time": "M12345678T12345678W12345678-"
   },
@@ -1771,7 +1771,7 @@
     "memo": "實際上課時間請留意開課教師之公告或課程大綱。",
     "name": "精神衛生護理學 Psychiatric Mental Health Nursing",
     "num_limit": "50",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "張秀如、許樹珍、楊秋月、黃莉婷、張勝傑、羅素貞、劉柏甫、李依玲",
     "time": "M5678T5678W5678-YN418[YM]"
   },
@@ -1783,7 +1783,7 @@
     "memo": "實際實習地點請依開課教師安排。",
     "name": "精神衛生護理學實習 Psychiatric Mental Health Nursing Practice",
     "num_limit": "50",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "楊秋月、黃莉婷、張阿雪、鄭淑琴、李昱穎",
     "time": "M12345678T12345678W12345678-"
   },
@@ -1795,7 +1795,7 @@
     "memo": "",
     "name": "護理管理與行政概論 Introduction to Nursing Management and Administration",
     "num_limit": "50",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "李亭亭、童恒新、黃淑鶴、施玉珊",
     "time": "R56-YN418[YM]"
   },
@@ -1807,7 +1807,7 @@
     "memo": "實際實習地點與上課時間，請依開課教師安排。",
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "50",
-    "reg_num": "35",
+    "reg_num": "34",
     "teacher": "李亭亭、黃升苗、黃淑鶴、楊曼華、楊雅貞",
     "time": "S123456-"
   },
@@ -1855,7 +1855,7 @@
     "memo": "",
     "name": "護理研究概論 Introduction to Nursing Research",
     "num_limit": "45",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "周承珍、黃子庭、黃升苗、陳俞琪、蔡慈儀、陳律言、楊曼華、林承霈、廖咨詠、黃永辰、張議文",
     "time": "F34-YN418[YM]"
   },
@@ -4688,7 +4688,7 @@
     "name": "中醫方劑學(一) Chinese Medicine Prescriptions (I)",
     "num_limit": "40",
     "reg_num": "24",
-    "teacher": "彭溫雅",
+    "teacher": "彭溫雅、邱榮鵬、陳麒方",
     "time": "W234-YK914[YM],W234-YK916[YM]"
   },
   "1151_113902": {
@@ -4892,7 +4892,7 @@
     "name": "中醫藥物學(一) Chinese Medicinal Pharmacology (1)",
     "num_limit": "32",
     "reg_num": "31",
-    "teacher": "蔡東湖、彭溫雅、薛敦品、莊武璋",
+    "teacher": "蔡東湖、彭溫雅、薛敦品、謝伯駿、黃伯瑜、莊武璋",
     "time": "T234-YK912[YM],T234-YK914[YM]"
   },
   "1151_113920": {
@@ -5779,7 +5779,7 @@
     "memo": "",
     "name": "流行病學方法 Epidemiologic Methods",
     "num_limit": "65",
-    "reg_num": "43",
+    "reg_num": "42",
     "teacher": "莊宜芳、陳娟瑜、陳信任",
     "time": "R789-YT304[YM]"
   },
@@ -5791,7 +5791,7 @@
     "memo": "",
     "name": "流行病學實證研究 Epidemiology Empirical Study",
     "num_limit": "9999",
-    "reg_num": "13",
+    "reg_num": "14",
     "teacher": "周碧瑟",
     "time": "R78-YS107[YM]"
   },

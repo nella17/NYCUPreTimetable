@@ -1807,7 +1807,7 @@
     "memo": "實際實習地點與上課時間，請依開課教師安排。",
     "name": "綜合臨床護理學實習(一) Comprehensive Nursing Practice(1)",
     "num_limit": "50",
-    "reg_num": "34",
+    "reg_num": "35",
     "teacher": "李亭亭、黃升苗、黃淑鶴、楊曼華、楊雅貞",
     "time": "S123456-"
   },
@@ -25783,7 +25783,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "123",
+    "reg_num": "122",
     "teacher": "網工所",
     "time": ""
   },

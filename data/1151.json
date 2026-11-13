@@ -11660,7 +11660,7 @@
     "name": "藥事經濟特論 Advanced Readings in Pharmacoeconomics",
     "num_limit": "9999",
     "reg_num": "5",
-    "teacher": "蔡憶文、黃文鴻、陳筱伶",
+    "teacher": "蔡憶文、黃文鴻",
     "time": "T789-YN613[YM]"
   },
   "1151_140700": {
@@ -27112,12 +27112,12 @@
     "credit": "3.00",
     "hours": "3.00",
     "id": "536302",
-    "memo": "1.限材料系、奈米所、前瞻所加選 \n2.外系限開學後加退選期間以書面加選\n",
+    "memo": "1.限材料系、奈米所、前瞻所加選 \n2.外系限開學後加退選期間以書面加選\n3.教室：EF408",
     "name": "擴散學 Diffusion",
     "num_limit": "9999",
     "reg_num": "63",
     "teacher": "謝宗雍",
-    "time": "W34n-EF202[GF]"
+    "time": "W34n-"
   },
   "1151_536303": {
     "code": "ENMS30031",

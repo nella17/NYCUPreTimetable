@@ -25447,7 +25447,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "447",
+    "reg_num": "446",
     "teacher": "資科工所",
     "time": ""
   },
@@ -31915,7 +31915,7 @@
     "memo": "限交大校區EMBA學生修課。",
     "name": "習慣領域與創新決策 Habitual Domains and Innovative Decision Making",
     "num_limit": "9999",
-    "reg_num": "18",
+    "reg_num": "17",
     "teacher": "黃鴻順",
     "time": "U789ab-M116[GF]"
   },
@@ -31927,7 +31927,7 @@
     "memo": "限交大校區EMBA學生修課。",
     "name": "企業法律專題 Special Topics on Business Law",
     "num_limit": "9999",
-    "reg_num": "42",
+    "reg_num": "41",
     "teacher": "林志潔、邱羽凡",
     "time": "S78-M116[GF]"
   },

@@ -16603,7 +16603,7 @@
     "memo": "本課程人數上限為14人，依初選階段逐階調整，跨域學程學生優先。",
     "name": "爵士和聲、即興與合奏 Jazz Harmony, Improvisation and Ensemble",
     "num_limit": "14",
-    "reg_num": "14",
+    "reg_num": "13",
     "teacher": "林明學",
     "time": "T789-EE115[GF]"
   },
@@ -25447,7 +25447,7 @@
     "memo": "資科工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "446",
+    "reg_num": "445",
     "teacher": "資科工所",
     "time": ""
   },
@@ -25711,7 +25711,7 @@
     "memo": "資訊學院優先。",
     "name": "RISC-V人工智慧運算架構與系統 (ㄧ) RISCV AI Computing Architecture and System I",
     "num_limit": "45",
-    "reg_num": "39",
+    "reg_num": "38",
     "teacher": "陳添福、林偉棻",
     "time": "M56-EC329[GF]"
   },
@@ -25783,7 +25783,7 @@
     "memo": "網工所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "122",
+    "reg_num": "121",
     "teacher": "網工所",
     "time": ""
   },
@@ -25963,7 +25963,7 @@
     "memo": "數據科學與工程研究所必修；每學期須選修「個別研究」課程",
     "name": "個別研究 Independent Study",
     "num_limit": "9999",
-    "reg_num": "138",
+    "reg_num": "137",
     "teacher": "數據所",
     "time": ""
   },
@@ -35911,7 +35911,7 @@
     "memo": "限有網球基礎者修習。\n選修體育僅適用一學期，選修課程不得抵免大一至大三體育課程。(交大校區)\n如一學期同時修習必修及選修體育，請於選課系統先選必修體育課，競技課程選課請洽體育室教學二組楊小姐(#51001)。",
     "name": "競技網球(一) Advanced Tennis",
     "num_limit": "24",
-    "reg_num": "23",
+    "reg_num": "22",
     "teacher": "詹益欣",
     "time": "R78-PE[GF]"
   },

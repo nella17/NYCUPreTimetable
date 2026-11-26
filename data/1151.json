@@ -95,6 +95,42 @@
     "teacher": "陳令杰",
     "time": "Rn56-"
   },
+  "1151_040043": {
+    "code": "IAFA02100",
+    "credit": "4.00",
+    "hours": "4.00",
+    "id": "040043",
+    "memo": "[English Medium Course]",
+    "name": "新加坡自然遺產 Natural Heritage of Singapore",
+    "num_limit": "9999",
+    "reg_num": "1",
+    "teacher": "",
+    "time": ""
+  },
+  "1151_040044": {
+    "code": "IAFA02101",
+    "credit": "4.00",
+    "hours": "4.00",
+    "id": "040044",
+    "memo": "[English Medium Course]",
+    "name": "電子遊戲與歷史 Video Games and History",
+    "num_limit": "9999",
+    "reg_num": "1",
+    "teacher": "",
+    "time": ""
+  },
+  "1151_040048": {
+    "code": "IAFA02104",
+    "credit": "4.00",
+    "hours": "4.00",
+    "id": "040048",
+    "memo": "[English Medium Course]",
+    "name": "新加坡日常倫理 Everyday Ethics in Singapore",
+    "num_limit": "9999",
+    "reg_num": "1",
+    "teacher": "",
+    "time": ""
+  },
   "1151_110000": {
     "code": "MDMD10099",
     "credit": "2.00",
